@@ -103,6 +103,37 @@ Proto-Indo-European <*nu>: "now, well, and then"
 ----> Latin `nunc`: "now"
 
 
+-> Proto-Indo-European <*nu-kʷe>: "and now"
+
+--> Celtic <*nu-kʷe>
+---> Old Irish `noch`: "and yet, however"
+
+--> Germanic <*nuh>: "now also, moreover, yet, still"
+---> East Germanic
+----> Gothic `𐌽𐌰𐌿𐌷` <nauh>: "yet, still"
+---> West Germanic
+----> Frankish <*noh>
+-----> Dutch `nog`: "still, yet, more, as early as, as recently as"
+----> Old High German `noh`: "still, more"
+-----> German `noch`: "still, yet, eventually, additionally, barely"
+------> German `noch einmal`: "once again"
+-------> German `nochmal(s)`: "again, once again"
+--------> Dutch `nogmaals`: "once again"
+------> German `dennoch`: "anyhow, however"
+-----> Yiddish `נאָך` <nokh>: "after, still"
+
+
+---> Germanic <*nuhþan>
+----> East Germanic
+-----> Gothic `𐌽𐌰𐌿𐌷𐌸𐌰𐌽` <nauhþan>: "still, yet"
+------> Gothic `𐌽𐌰𐌿𐌷𐌸𐌰𐌽𐌿𐌷` <nauhþanuh>: "still, yet" (with a second copy of <*-kʷe>)
+----> West Germanic
+-----> Frankish <*nohthan>
+------> Dutch `nochtans`: "nevertheless"
+-----> Old High German `noh danne`: "yet"
+-----?> German `dennoch`: "anyhow, however"
+
+
 
 
 -> Proto-Indo-European <*néwos>: "new, fresh, young, recent"
@@ -120,10 +151,10 @@ Proto-Indo-European <*nu>: "now, well, and then"
 ---> Slavic <*nòvъ>: "new"
 ----> East Slavic `новъ` <novŭ>
 -----> Russian `но́вый` <nóvyj>: "new, recent, modern"
-------> Russian `Но́вая Земля́` <Nóvaja Zemljá>: "New Land (place name)"
+------> Russian `Но́вая Земля́` <Nóvaja Zemljá>: "place name: New Land (place name)"
 -------> English `Novaya Zemla`
 -------> English `Nova Zembla`
------> East Slavic `Новъгородъ` <Novŭgorodŭ>: "New-Town, Novgorod"
+-----> East Slavic `Новъгородъ` <Novŭgorodŭ>: "place name: New-Town, Novgorod"
 ------> Russian `Но́вгород` <Nóvgorod>
 -------> English `Novgorod`
 ------> Ukrainian `Но́вгород` <Nóvhorod>
@@ -147,7 +178,7 @@ Proto-Indo-European <*nu>: "now, well, and then"
 ---> Classical Greek `νέος` <néos>: "young, new, unexpected"
 ----> Greek `νέος` <néos>: "young, modern, new"
 -----> Greek `νέο` <néo>: "news"
------> Classical Greek `Νεάπολις` <Neā́polis>: "New-City (place name)"
+-----> Classical Greek `Νεάπολις` <Neā́polis>: "place name: New-City"
 ------> Levantine Arabic `نابلس` <nābulus>: "Nablus"
 -------> English `Nablus`
 ------> Maghrebi Arabic `نابل` <nābil>: "Nabeul"
@@ -160,7 +191,7 @@ Proto-Indo-European <*nu>: "now, well, and then"
 --------> Italian `Napoli`: "Naples"
 -------> Latin `neāpolītānus`: "Neapolitan"
 --------> English `Neapolitan`
-----> New Latin `neon` (from the neuter `νέον` <néon>
+----> New Latin `neon` (from the neuter `νέον`=grc-Grek <néon>)
 -----> Translingual `Ne`
 -----> English `neon`
 ----> Classical Greek `νέο-`: "neo-"
@@ -174,8 +205,6 @@ Proto-Indo-European <*nu>: "now, well, and then"
 
 --> Indo-Iranian <*náwas>
 ---> Indo-Aryan <*náwas>
-----> Dardic
------> Kashmiri `نۆو` <nov>
 ----> Sanskrit `𑀦𑀯` <náva>: "new, fresh, young, recent, modern, novice"
 -----> Elu
 ------> Sinhala `නව` <nawa>
@@ -185,7 +214,9 @@ Proto-Indo-European <*nu>: "now, well, and then"
 -----> Maharastri
 ------> Marathi `नवा` <navā>
 -----> Sauraseni
-------> Punjabi `ਨਵਾਂ` <navā̃>: "new"
+------> Northwestern Sauraseni
+-------> Kashmiri `نۆو` <nov>
+-------> Punjabi `ਨਵਾਂ` <navā̃>: "new"
 ------> Western Sauraseni
 -------> Romani `nevo`: "new"
 ---> Iranian <*náwah>
@@ -304,7 +335,7 @@ Proto-Indo-European <*nu>: "now, well, and then"
 -------> Polish `Nowak`
 --------> English `Nowak`
 
----> Hellenic
+---> Hellenic <*newakos>
 ----> Classical Greek `νέᾱκος` <néākos>: "young man"
 
 ---> Italic
@@ -347,19 +378,19 @@ Proto-Indo-European <*nu>: "now, well, and then"
 ----> Brythonic <*nöwɨð>
 -----> Welsh `newydd`: "new, the news"
 ----> Celtiberian <*nouyos>: "new"
-----?> Celtiberian <*Nouyom>: "New (place name)"
+----?> Celtiberian <*Nouyom>: "place name: New"
 -----> Classical Greek `Νοουιον` <Noouion>: "place name in Iberia, possibly Noia"
 -----> Galician `Noia`
 ------> English `Noia`
 ----> Gaulish <*novios>
------> Gaulish <*Noviodūnom>: "New-Fort (place name)"
+-----> Gaulish <*Noviodūnom>: "place name: New-Fort"
 ------> Latin `Noviodūnum`
------> Gaulish <*Noviomagos>: "New-Field or New-Market (place name)"
+-----> Gaulish <*Noviomagos>: "place name: New-Field or New-Market"
 ------> Latin `Noviomagus`
 -------> Dutch `Nijmegen`
 -------> French `Noyon`
 -------> German `Neumagen`
------> Gaulish <*Noviorīgyom>: "New-Kingdom (place name)"
+-----> Gaulish <*Noviorīgyom>: "place name: New-Kingdom"
 ------> Latin `Novioregum`
 ----> Old Irish `nuae`: "new"
 -----> Irish `nua`: "new, fresh, recent"
@@ -370,7 +401,7 @@ Proto-Indo-European <*nu>: "now, well, and then"
 ----> North Germanic
 -----> Old Norse `nýr`
 ------> Danish `ny`: "new"
--------> Old Danish `Nybylløv`: "New-Settlement (place name)" (with Scanian place name suffix `-løv`)
+-------> Old Danish `Nybylløv`: "place name: New-Settlement" (with Scanian place name suffix `-løv`)
 --------> Swedish `(Östra) Nöbbelöv`
 ---------> Swedish `Nobel`: "habitational surname"
 ----------> English `Nobel Prize`
@@ -381,18 +412,18 @@ Proto-Indo-European <*nu>: "now, well, and then"
 ----> West Germanic
 -----> Old English `nīewe`: "new"
 ------> English `new`
--------> English `Newman`: "Newcomer (surname)"
-------> Old English `Nēowa Tūn`: "New Town (place name)"
--------> English `Newton`: "New-town (place name, habitational surname)"
+-------> English `Newman`: "surname: Newcomer"
+------> Old English `Nēowa Tūn`: "place name: New Town"
+-------> English `Newton`
 --------> English `newton`
 ---------> Translingual `N`
-------> Old English `Nīewe Weorc`: "New Work (place name)"
+------> Old English `Nīewe Weorc`: "place name: New Work"
 -------> English `Newark`
 -----> Frankish <*niwi>
 ------> Dutch `nieuw`: "new"
 -----> Old High German `niuwi`: "new"
 ------> German `neu`: "new"
--------> German `Neumann`: "Newcomer (surname)"
+-------> German `Neumann`: "surname: Newcomer"
 ------> Yiddish `נײַ` <nay>: "new, recent"
 
 
@@ -447,7 +478,7 @@ startnotes
 
 # In many Iranian languages <*náwah>: "new" became homonymous with <*Hnáwa>: "nine" and was replaced by <*náwākah>, approximately "new-ish".
 
-Some have speculated a connection in Proto-Indo-European <*h₁néwn̥>: "nine" and <*néw->: "new", based on a derivation of <*h₁n-néwn̥>: "in the new", assuming that Old Armenian `նոր` <nor> represents a r/n alternation stem <néwr̥> ~ <néwn̥>. But there are a number of problems with this idea. I think <*h₁new->: "without" seems like a better source for <*h₁néwn̥>, with the idea of "(ten) without (the last one)".
+Some have speculated a connection in Proto-Indo-European <*h₁néwn̥>: "nine" and <*néw->: "new", based on a derivation of <*h₁n-néwn̥>: "in the new", assuming that Old Armenian `նոր`=xcl-Armn <nor> represents a r/n alternation stem <néwr̥> ~ <néwn̥>. But there are a number of problems with this idea. I think <*h₁new->: "without" seems like a better source for <*h₁néwn̥>, with the idea of "(ten) without (the last one)".
 
 
 endnotes
