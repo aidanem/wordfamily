@@ -1,0 +1,172 @@
+date: 20171124
+theme: Mes de Muertos 💀
+
+
+startbody
+
+
+
+Proto-Indo-European <*neḱ->: "to perish, to disappear"
+
+
+-> Proto-Indo-European <*néḱyeti>: "perishes, disappears" (imperfective)
+
+--> Indo-Iranian <*náĉyati>
+---> Indo-Aryan
+----> Dardic
+-----> Kashmiri `نَشُن` <naśun>: "to be destroyed, to disappear, to wear away"
+----> Sanskrit `𑀦𑀰𑁆𑀬𑀢𑀺` <naśyati>: "to be lost, to perish, to disappear, to be gone"
+-----> Maharashtri `𑀡𑀲𑁆𑀲𑀇` <ṇassaï>
+------> Marathi `नासणे` <nāsṇe>: "to spoil, to rot"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `नासना` <nāsnā>: "to destroy, to finish"
+------> Western Sauraseni
+-------> Romani `naśel`: "to run away"
+
+---> Iranian
+----> Avestan <nasiieiti>
+----> Western Iranian
+-----> Northwestern Iranian
+------> Parthian <nʾsyd>
+
+
+-> Proto-Indo-European <*noḱéy-eti>: "to make disappear, to make perish" (causative)
+
+--> Indo-Iranian <*nāĉáyati>
+---> Indo-Aryan
+----> Sanskrit `𑀦𑀸𑀰𑀬𑀢𑀺` <nāśáyati>: "to cause to be lost, to drive away, to destroy, to efface"
+---> Iranian
+----> Western Iranian
+-----> Old Persian <*n-a-θ-y-t-i-y>: "to harm"
+------> Old Persian `𐎻𐎡𐎴𐎠𐎰𐎹𐎫𐎡𐎹` <vi-i-n-a-θ-y-t-i-y>: "does harm" ##
+
+--> Italic <*nokeō>: "harm, hurt, injure, slay"
+---> Latin `noceō`: "I injure, I do harm"
+----> Central Romance
+-----> Italian `nuocere`: "to harm, to damage"
+----> Western Romance
+-----> French `nuire`: "to harm, to spoil"
+------> French `nuisance`: "pollution, harm"
+-------> English `nuisance`
+----> Latin `nocēbō`: "I will harm" (future active indicative)
+-----> English `nocebo`
+----> Latin <nocēns>: "injuring, doing harm, criminal, guilty"
+-----> Central Romance
+------> Italian `nocente`: "harmful, noxious, guilty"
+-----> Latin `innocēns`: "harmless, blameless, innocent"
+------> Western Romance
+-------> French `innocent`: "innocent"
+--------> English `innocent`
+-------> Italian `innocente`: "innocent"
+-------> Spanish `inocente`: "innocent"
+----> Latin `nocīvus`: "harmful, injurious"
+-----> French `nocif`: "harmful, unhealthy"
+-----> Italian `nocivo`: "harmful, bad, noxious"
+-----> Spanish `nocivo`: "noxious, harmful"
+----> Latin `nocuus`: "harmful, noxious, pernicious"
+-----> Latin `innocuus`: "harmless"
+------> Central Romance
+-------> Italian `innocuo`: "harmless"
+------> Western Romance
+-------> Spanish `inocuo`: "harmless"
+------> English `innocuous`
+
+
+-> Proto-Indo-European <*néḱst> (s-perfective)
+
+--> Italic
+---> Latin <noxit>
+---> Italic <*noksā>
+----> Latin `noxa`: "hurt, injury, offense, crime"
+-----> Latin `noxius`: "hurtful, injurious, offensive, criminal"
+------> English `noxious`
+------> Latin `obnoxius`: "punishable, liable, guilty, obliged, vulnerable, susceptible to danger or misfortune"
+-------> English `obnoxious`
+
+--> Tocharian
+---> Arshian <ñakäs>
+---> Kushean <nekasta>
+
+
+
+
+-> Proto-Indo-European <*neḱrós>: "dead"
+
+--> Hellenic <*nekrós>
+---> Classical Greek `νεκρός` <nekrós>: "dead, a dead person, a corpse"
+----> Classical Greek `νεκρο-` <nekro->: "necro-, used to derive words related to death or the dead"
+-----> English `necro-`
+-----> Classical Greek `νεκρόμᾰντῐς` <nekrómantis>: "necromancer, prophet of the dead"
+------> English `necromancer`
+
+
+-> Proto-Indo-European <*néḱus>: "death, slaughter"
+
+--> Celtic <*ankus>: "death"
+---> Brythonic
+----> Welsh `angau`: "death"
+---> Old Irish `éc`
+----> Irish `éag`: "to die, to decay, death"
+---> Celtic <*anxtu>: "slaughter"
+----> Brythonic
+-----> Welsh `aeth`: "pain, fear"
+----> Old Irish `écht`: "slaying, slaughter, slain person, dead of valor, exploit, prowess"
+-----> Irish `éacht`: "feat, exploit, achievement"
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan <naša?>: "dead matter, defilement"
+-----> Avestan <Nasuš?>: "Divinity of decay, corpses, and defilement"
+
+--> Italic <*neks>: "death, slaughter"
+---> Latin `nex`: "murder, slaughter, violent death"
+----> Latin `necō`: "I kill, I murder, I thwart" (apparently specifically "drown", in Late or Vulgar Latin)
+-----> Western Romance
+------> French `noyer`: "to drown"
+------> Latin `ēnecō`
+-------> Central Romance
+--------> Italian `annegare`: "to drown"
+-------> Eastern Romance
+--------> Romanian `a îneca`: "to drown, to choke"
+-------> Western Romance
+--------> Spanish `anegar`: "to drown, to flood, to innundate"
+------> Latin `pernecō`: "I slay outright" (intensive)
+-------> Latin `perniciōsus`: "destructive, ruinous, baleful, pernicious"
+--------> Central Romance
+---------> Italian `pernicioso`: "ruinous, pernicious"
+--------> Western Romance
+---------> Old French `pernicios`
+----------> English `pernicious`
+
+
+-> Proto-Indo-European <*n̥ḱwó>
+
+--> Tocharian <*eṅkwe>
+---> Arshian <oṅk>
+---> Kushean <eṅkwe>: "a mortal, a human"
+
+
+-> Proto-Indo-European <*néḱ-tr̥h₂>: "overcoming death, beyond death" ####
+--> Hellenic
+---> Greek `νέκτᾰρ` <néktar>: "drink of the gods, granting immortality" ####
+----> Latin `nectar`: "nectar"
+-----> English `nectar`
+-----> Italian `nettare`: "nectar"
+
+endbody
+
+
+
+startnotes
+
+
+## Old Persian `𐎻𐎡𐎴𐎠𐎰𐎹𐎫𐎡𐎹` <vi-i-n-a-θ-y-t-i-y>: "does harm" is in Darius' tomb inscription, in the line translated as  "The man who cooperates, him according to his cooperative action, him thus do I reward. Who does harm, him according to the damage thus I punish. It is not my desire that a man should do harm; nor indeed is that my desire, if he should do harm, he should not be punished." http://www.avesta.org/op/op.htm#dnb
+http://titus.fkidg1.uni-frankfurt.de/database/titusinx/titusinx.asp?LXLANG=59288&LXWORD=vin0101iD103ayatiy&LCPL=0&TCPL=0&C=H&PF=14
+
+#### Nectar, the drink of the gods, equivalent to <necro->+<trans->, "overcoming death". Compare Ambrosia, the food of the gods, equivalent to <a->+<mortos>, "without death".
+
+<νέκταρ> (néktar) seems to have already been unanalyzable by a native speaker by Classical Greek. The underlying meaning was lost until 1952 when Paul Thieme correlated it with Vedic Sanskrit <tar->, "overcome", confirmed in 1961 when Rüdiger Schmitt realized it had a phrasal parallel in the Atharvaveda: <mrtyum tar-> "overcome death". (_How to Slay a Dragon_, Watkins 1995, p. 12)
+
+endnotes
+

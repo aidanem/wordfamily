@@ -1,0 +1,177 @@
+date: 20180706
+theme: Architecture 🏛️
+tags: Architecture
+
+
+startbody
+
+Proto-Indo-European <*dʰwer->: "door, gate"
+
+-> Proto-Indo-European <*dʰwṓr>: "door"  (Gen. <*dʰurés>)
+
+--> Anatolian
+---> Hittite <*durza>
+---> Hittite `𒀭𒄙𒍝` <an-dur-za>: "indoors"
+
+--> Armenian
+---> Old Armenian `դուռն` <duṙn>: "door, entrance, mountain pass, palace, court, retinue"
+----> Armenian `դուռ` <duṙ>: "door, exit, court (of a monarch)"
+
+--> Balto-Slavic <*dwir->
+---> East Baltic
+----> Lithuanian `dùrys`: "doors" (plural only)
+---> West Baltic
+----> Old Prussian `dauris`: "gates" (considered to be a misspelling in Elbing that should be `duaris`)
+---> Slavic <*dvь̃rь>: "door"
+----> East Slavic `двьрь` <dvĭrĭ>
+-----> Russian `дверь` <dverʹ>: "door"
+-----> Ukrainian `две́рі` <dvéri>: "doors" (plural only)
+----> South Slavic
+-----> Serbo-Croatian `две̑ри` <dvȇri>: "door, doors, entrance" (archiac, plural only)
+----> West Slavic
+-----> Polish `drzwi`: "doors" (plural only)
+
+--> Germanic <*durz>: "door, hatch, flap"
+---> East Germanic
+----> Gothic `𐌳𐌰𐌿𐍂` <daur>: "door"
+---> North Germanic
+----> Old Norse `dyrr`: "door, doorway"
+-----> Danish `dør`: "door"
+-----> Icelandic `dyr`: "door, doorway"
+---> West Germanic
+----> Old English `duru`
+-----> English `door`
+----> Frankish
+-----> Dutch `deur`: "door"
+----> Old High German `turi`: "door"
+-----> German `Tür`: "door"
+-----> Yiddish `טיר` <tir>: "door"
+
+--> Italic <*fworis>
+---> Latin `foris`: "door, gate, opening, entrance"
+----> Latin `forīs`: "outdoors, outside"
+-----> French `hors`: "outside"
+------> French `hors-d'oeuvre`: "hors d'oeuvre"  ("outside of the work", i.e.not part of the main course)
+-------> English `hors d'oeuvre`
+-----> Vulgar Latin <*forānus>: "outsider"
+------> Western Romance
+-------> Old French `forain`
+--------> French `forain`: "fairground, showman" (semantically assimilated to `foire`: "fair" by folk etymology)
+--------> English `foreign`
+----?> Medieval Latin `forestis (silva)` #
+-----?> Medieval Latin `foresta`
+-------> Western Romance
+--------> Old French `forest(e)`
+---------> French `forêt`: "forest"
+---------> English `forest`
+---------> Irish `foraois`: "forest, timber, lair"
+--------> Italian `foresta`: "forest"
+---------> Maltese `foresta`: "forest"
+--------> Italian `foresta`: "forest"
+--------> Spanish `foresta`: "forest"
+---------> Spanish `floresta`: "woodland, forest, dell" (modified by association to "flor")
+
+
+-> Proto-Indo-European <*dʰworo-m>
+
+--> Celtic <*dwar> (Acc. <*dworam>)
+---> Gaulish `duron`: "door, gate, walled town"
+----> Latin `Augustodurum`: "the Gate (or Forum) of Augustus, a city in Roman Gaul" (now Bayeux, France)
+----> Irish `doras`: "door, doorway"
+---> Celtic <*dworestu-m>
+----> Brythonic
+-----> Welsh `drws`: "door"
+----> Old Irish `dorus`: "door"
+
+--> Indo-Iranian <*dʰwā́ram>
+---> Indo-Aryan <*d(ʰ)wā́ram>
+----> Sanskrit `𑀤𑁆𑀯𑀸𑀭` <dvā́ra>: "gate, door, entrance, means, opportunity"
+-----> Magadhi
+------> Bengali `দ্বার` <dbara>: "door, gateway, entrance"
+-----> Maharashtri
+------> Marathi `दार` <dār>: "door, gate"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `द्वार` <dvār>: "door, gate, means"
+------> Western Sauraseni
+-------> Romani `vudar`: "door"
+-----> Telugu `ద్వారము` <dvāramu>: "door, doorway"
+-----> Thai `ทวาร` <tá-waan>: "door"
+---> Iranian <*dwā́ram>
+-----> Avestan `𐬛𐬎𐬎𐬀𐬭𐬆𐬨` <duuarəm>: "door, pass"
+----> Northern Iranian
+-----> Scythian
+------> Ossetian `дуар` <dwar>: "door, goal (sports)"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `derî`: "door"
+-----> Old Persian `𐎯𐎺𐎼𐎹𐎠` <du-va-ra-ya-a>: "at (my) door" (attested in locative)
+------> Persian `در` <dar>: "door, court, lid"
+---> Nuristani
+----> Kamviri <du>
+
+--> Italic <*fworom>: 
+---> Latin `forum`: "market-place, public place, forum"
+----> English `forum`: "forum"
+----> French `forum`: "forum"
+----> German `Forum`: "forum"
+----> Italian `foro`: "forum"
+----> Russian `фо́рум` <fórum>: "forum"
+----> Spanish `foro`: "forum"
+----> Latin `forēnsis`: "of the forum, public"
+-----> English `forensic`
+---> Umbrian `𐌚𐌖𐌓𐌖` <furu>
+
+--> Tocharian
+---> Kushean <twere>: "door"
+
+
+-> Proto-Indo-European <*dʰuréh₂>: "doors" (collective)
+
+--> Germanic <*durã>: "big door, gate" ###
+---> West Germanic
+----> Old High German `tor`: "gate" ###
+-----> German `Tor`: "gate" ###
+
+--> Hellenic <*tʰurā>
+---> Classical Greek `θῠ́ρᾱ` <thúrā>: "door, entrance"
+----> Greek `θύρα` <thýra>: "door, stadium gate, computer port"
+----> Classical Greek `θῠρεός` <thureós>: "door stop, wide oblong (door shaped) shield, oval"
+-----> Greek `θυρεός` <thyreós>: "coat of arms"
+-----> Coptic `ⲑⲩⲣⲱⲛ` <thurōn>: "shield"
+-----> French `thyroïde`: "thyroid" (16C coining based on shape)
+------> English `thyroid`
+-----> Hebrew `תְּרִיס` <tris>: "shutter"
+
+
+-> Proto-Indo-European <*dʰworo-s> "enclosure, courtyard, something enclosed by a door"
+
+--> Balto-Slavic <*dwáras>
+---> East Baltic
+----> Lithuanian `dvãras`: "manor, court, courtyard"
+---> West Baltic
+----> Old Prussian `duarris`: "courtier"
+---> Slavic <*dvõrъ>: "court, courtyard"
+----> East Slavic
+-----> Russian `двор` <dvor>: "yard, courtyard, homestead"
+-----> Lithuanian `dvãras`: "manor (of a landed estate), courtyard"
+----> South Slavic
+-----> Serbo-Croatian `дво̑р` <dvȏr>: "castle, palace, courtyard"
+----> West Slavic
+-----> Polish `dwór`: "court, mansion, courtyard
+-----> Czech `dvůr`: "court, courtyard, manor house (archaic)"
+------> Czech `Dvořák` (surname, referring to a rich owner of a manor house)
+-------> English `Dvorak`
+
+endbody
+
+
+startnotes
+
+
+# Medieval Latin `foresta` may be a blend of Latin `forestis silva`: "the outside woods" and Frankish <*furhiþi>: "woodland, forest", from "fir (tree)" plus a collective placename suffix.
+
+
+### German <Tor> vs. `Tür` preserves the distinction in Germanic <*durã> vs. <*durz> that was merged in most descendants.
+
+endnotes

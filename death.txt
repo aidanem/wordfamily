@@ -1,0 +1,138 @@
+date: 20171110
+theme: Mes de Muertos 💀
+
+Teaser: dead, funeral
+
+startintro
+
+A root meaning "to run, to depart" can be reconstructed from Hellenic and Indo-Iranian. But in Northwest branches, Balto-Slavic, Celtic, Germanic, and possibly Italic, there is a phonologically identical root meaning "to die". So it's probably a euphemism coined in a Late Northwest Indo-European.
+
+Albanian and Armenian have words with the death meaning that are likely from the same root, which is unexpected since they are not part of the Northwest region.
+
+endintro
+
+startbody
+
+
+Proto-Indo-European <*dʰew->: "to run, to depart"
+
+-> Proto-Indo-European <*dʰéw-eti>
+
+-?> Anatolian
+---> Hittite <tuḫḫušzi>: "to end"
+
+--> Hellenic <*tʰéwō>
+---> Ancient Greek `θέω` <théō>: "I run, I hasten"
+----> Ancient Greek `θοός` <thoós>: "swift"
+-----> Ancient Greek `βοηθός` <boēthós>: "helper, assistant" (lit. "shout-hastener", i.e., first responder)
+------> Latin`<Boethius`: "surname" (6th century philosopher)
+
+--> Indo-Iranian <*dʰáwati>
+---> Indo-Aryan
+----> Sanskrit `धावति` <dhāvati>: "to run, to flee"
+---> Iranian <*dáwatī>
+----> Persian `دویدن` <davidan>: "to run"
+
+?> Proto-Indo-European <*dʰew->: "to die" (Late Western PIE euphemism?)
+
+
+--> Proto-Indo-European <*dʰéw-eti>
+
+---> Albanian `vdekje`: "death"
+
+---> Balto-Slavic
+----> Slavic <*dāvìti>: "to suffocate"
+-----> East Slavic `давити` <daviti>
+------> Russian `дави́ть` <davítʹ>: "to weigh down, to crush, to stifle"
+-----> South Slavic
+------> Old Church Slavonic `давити` <daviti>
+------> Serbo-Croatian `да́вити` <dáviti>: "to suffocate, to drown"
+-----> West Slavic
+------> Polish `dławić`: "to stifle, to quell, to choke"
+
+--> Germanic <*dawjaną>: "to die"
+---> North Germanic
+----> Old Norse `deyja`: "to die"
+-----> Danish `dø`: "to die"
+-----> Icelandic `deyja`: "to die"
+---> West Germanic
+----> Old English `dīġan`
+-----> English `die`
+-----> Scots `dee`: "die"
+----> Frankish <*douwen>
+-----> Middle Dutch `douwen`: "to die off, to die out"
+----> Old High German `touwen`
+
+
+--> Proto-Indo-European <*dʰwiHt-us>
+
+--?> Armenian `դի` <di>: "corpse"
+
+---> Celtic <*dwītus>
+----> Old Irish `díth`
+-----> Irish `díth`: "loss, deprivation, destruction, lack, need"
+
+
+--> Proto-Indo-European <*dʰów-tus>
+
+---> Germanic <*dauþuz>: "death" ##
+----> East Germanic
+-----> Gothic `𐌳𐌰𐌿𐌸𐌿𐍃` <dauþus>: "death"
+----> North Germanic
+-----> Old Norse `dauði`: "death"
+------> Danish `død`: "death" ##
+------> Icelandic `dauði`: "death"
+-----> Finno-Ugric <*tauti>: "disease"
+------> Finnic <*tauti>
+-------> Finnish <tauti>: "disease"
+------> Samic <*tāvtë>
+-------> Northern Sami `dávda`: "disease"
+----> West Germanic
+-----> Old English `dēaþ`: "death"
+------> English `death`
+-----> Old High German `tōd`: "death"
+------> German `Tod`: "death"
+------> Yiddish `טויט` <toyt>: "death" ##
+-----> Frankish
+------> Dutch `dood`: "death" ##
+
+
+--> Proto-Indo-European <*dʰowHt-ós>
+
+---> Germanic <*daudaz>: "dead" ##
+----> East Germanic
+-----> Gothic `𐌳𐌰𐌿𐌸𐍃` <dauþs>: "dead"
+----> North Germanic
+-----> Old Norse `dauðr`: "dead"
+------> Danish `død`: "dead" ##
+------> Icelandic `dauður`: "dead"
+----> West Germanic
+-----> Old English `dēad`: "dead"
+------> English `dead`
+-----> Frankish
+------> Dutch `dood`: "dead" ##
+-----> Old High German `tōt`: "dead"
+------> German `tot`: "dead"
+------> Yiddish `טויט` <toyt>: "dead" ##
+
+
+-?> Proto-Indo-European <*dʰew-nós?>
+
+--?> Italic
+----> Latin `funus`: "death, funeral"
+-----> Latin `fūnerālis`: "of a funeral, funereal"
+------> Western Romance
+-------> French `funérailles`: "funeral"
+--------> English `funeral`
+-------> Italian `funerale`: "funeral"
+-------> Spanish `funeral`: "funeral" 
+
+endbody
+
+Collected English words: Boethius, die, death, dead, funeral
+
+startnotes
+
+## Germanic <*dauþuz> and <*daudaz> (death and dead) merged in many descendants, though not in English.
+
+endnotes

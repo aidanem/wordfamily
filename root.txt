@@ -1,0 +1,192 @@
+date: 20190503
+theme: Plants 🌱
+
+
+
+startbody
+
+Proto-Indo-European <*wréh₂ds>: "root"
+
+?> Old Armenian <*rgat>
+--> Armenian `արքատ` <arkʿat>: "branch trimmings"
+
+-> Germanic <*wrōts>
+--> North Germanic
+---> Old Norse `rót`: "root, origin" ##
+----> Danish `rod`: "root"
+----> Icelandic `rót`: "root, origin"
+----> Old English `rōt`
+-----> English `root`
+
+-> Proto-Indo-European <*wr̥h₂dés>: "of root" (genitive)
+
+--> Germanic <*wurtiz>: "of roots" (lre-analyzed as base form in some descendants) ##
+---> East Germanic
+----> Gothic `𐍅𐌰𐌿𐍂𐍄𐍃` <waurts>: "root"
+---> West Germanic
+----> Old English `wyrt`
+-----> English `wort` (e.g. St. John's wort, mugwort, etc.)
+----> Frankish <*wurta>
+-----> Dutch `wort`
+----> Old High German `wurz`
+-----> German `Würze`: "spice, aroma"
+
+---> Germanic <*urtiz> ## 
+---> North Germanic
+----> Old Norse `urt`
+-----> Danish `urt`: "herb"
+-----> Icelandic `jurt`: "plant, herb"
+
+----> Germanic <*urtōną>: "to plant, to cultivate"
+-----> West Germanic
+------> Old High German `orzōn`: "to cultivaate, to tend a field"
+
+----> Germanic <*urtgardaz>: "garden, orchard" (lit. something like "plant-yard" or "herb-garden"; <*gardaz> is the root of both "yard" and "garden")
+-----> East Germanic
+------> Gothic `𐌰𐌿𐍂𐍄𐌹𐌲𐌰𐍂𐌳𐍃` <aurtigards>: "orchard, garden"
+------> Old Church Slavonic `врътоградъ` <vrŭtogradŭ>: "herb garden, kitchen garden"
+-----> North Germanic
+------> Old Norse <*urtgarðr>
+-------> Swedish `örtagård`: "herb garden"
+-----> West Germanic
+------> Old English `ortġeard`
+-------> English `orchard`
+
+
+-> Proto-Indo-European <*wréh₂dm̥s> (accusative plural)
+
+--> Italic <*wrādmos>
+---> Latin `rāmus`: "branch"
+----> Eastern Romance
+-----> Romanian `ram`: "branch, bough"
+----> Western Romance
+-----> Old French `raim`: "branch"
+-----> Spanish `ramo`: "bouquet, bough, branch"
+----> Latin `rāmificō`: "I branch, I cause to have branches"
+-----> French `ramifier`
+------> English `ramify`
+----> Vulgar Latin <*ramellus>
+-----> Western Romance
+------> French `rameau`
+----> Vulgar Latin <*dērāmō>: "I prune?" (lit. "I take away branches")
+-----> Eastern Romance
+------> Romanian `a dărâma`: "to prune, to demolish"
+-----?> Albanian `dërmoj`: "I demolish"
+-----> Western Romance
+------> Italian `diramare`: "to broadcast, to release, to prune a tree"
+------> Spanish `diramare`: "to spill"
+
+
+
+
+-> Proto-Indo-European <*wrh̥₂dnio>
+
+--> Albanian `rrënjë`
+
+--> Celtic <*wrednā>
+---> Brythonic
+----> Welsh `greddf`: "instinct"
+---> Old Irish
+----> Irish `fréamh`: "root, source, origin, radical" 
+
+
+-> Proto-Indo-European <*wr̥dyos>
+
+--> Celtic <*wredios>
+---> Brythonic
+----> Welsh `gwraidd`: "root"
+
+-?> Italic
+---> Latin `radius`: "ray (of light), spoke (of a wheel), rod" (or several other possible origins)
+----> Eastern Romance
+-----> Romanian `rază`
+----> Western Romance
+-----> French `rai`
+------> English `ray`
+-----> Italian `raggio`
+----> English `radius`
+----> Latin `radiō`: "I radiate, I shine"
+-----> English `radiate`
+-----> English `radio-`
+------> English `radiophone`
+-------> English `radio`
+-----> Latin `radiāns`: "shining, beaming"
+------> English `radiant`
+
+
+
+-> Proto-Indo-European <*wredih₂>
+
+--> Hellenic
+---> Ancient Greek `ῥίζα` <rhíza>: "root, source, foundation"
+----> Greek `ρίζα` <ríza>: "root"
+----> English `rhizome`
+
+
+-> Proto-Indo-European <*wreh₂dih₂s>
+
+--> Hellenic
+---> Ancient Greek `ῥάδιξ` <rhádix>
+
+--> Indo-Iranian
+---> Iranian
+----> Western Iranian
+-----> Kurdish `reh`
+-----> Old Persian <raēša>
+------> Persian `ریشه‎` <rīše>: "root, basis, origin"
+
+
+--> Italic <*wrādīks>
+---> Latin `rādīx`
+----> Western Romance
+-----> Italian `radice`
+------> French `radice`
+-----> Spanish `raíz`
+----> Old English `redic`
+-----> English `radish`
+------> Māori `rātihi`
+----> English `radix`
+----> Old High German `rātih`
+-----> German `Rettich`
+-----> Yiddish `רעטעך`‎ <retekh>
+----> Latin `radīcīna` (diminuitive)
+-----> Eastern Romance
+------> Romanian `rădăcină`
+-----> Western Romance
+------> French `racine`
+----> Latin `rādīcālis`: "rooted, pertaining to roots, addressing the root of a matter"
+-----> French `radical`
+------> English `radical`
+----> Latin `ērādīcō`: "I root out, I annihilate"
+-----> Western Romance
+------> French `arracher`
+-----> English `eradicate`
+-----> French `éradiquer`
+-----> Spanish `erradicar`
+
+
+
+-> Proto-Indo-European <*wr̥dikeh₂>
+
+-?> Tocharian
+---> Kushean <witsako>: "root" (<*wirtsako> expected, irregular loss of <r>)
+
+
+
+endbody
+
+startnotes
+
+## Three variations on the Germanic stem <*wrōt->: <*wrōt->, <*wurt->, and <*urt->. These are not unusual variations: the second is the oblique stem expected in genitive/dative/instrumental cases, and the third is  form of the second where the very similar sounds <w> and <u> in sequence have collapsed into a single <u>. But unusual things seem to have happened to them. While these would almost certainly have been clearly one word to speakers of Pre-Germanic and Early Common Germanic, by the time of Late Common Germanic, it is not clear if these are understood as one, two, or three different words!
+
+The basic stem <*wrōt-> is attested only in (or through) North Germanic, but is absent in East and West Germanic.
+
+In East and West Germanic <*wrōt-> is replaced with a backformation of the oblique stem <*wurt>, giving Gothic <waurts> and English `wort`. East and West Germanic also seem to have a separate <*urt-> stem, but it is only attested in derived forms: <*urtōną> and <*urtgardaz>, so maybe it is not a separate stem, just compounds failing to preserve the stem perfectly.
+
+But then things are complicated by the Old Norse `urt` as separate from Old Norse `rót`. Old Norse has a compulsory collapse of Germanic <*wu> into Old Norse `u`, so this form could come from either Germanic <*wurt-> or <*urt->.
+
+The lexicalization of the split could have been in Late Common Germanic, with the <*wrōt-> later lost in East and West Germanic. Or re-analysis of a phonologically difficult direct form could have ocurred repeaatedly in different ways in the different branches. Or there could be some cross-dialect borrowings as these three branches (plus whatever other branches there once were, now extinct and unattested) diverged into distinct but mutually intelligible dialects of Late Common Germanic.
+
+
+
+endnotes

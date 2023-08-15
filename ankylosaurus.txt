@@ -1,0 +1,758 @@
+date: 20190419
+theme: Dinosaurs and Friends🦕 
+tags: Animals, Dinosaurs
+
+
+
+startintro
+
+Ankylosaurus! And as an unexpected bonus, I found Azhdarchid pterosaurs deep in the family, too. Pterosaurs are probably my very favorite Mesozoic animals (stay tuned for next week!). Also in this family: various spiders and snakes and fears and sins in various languages.
+
+I include words here that are formally reconstructed to five different roots: 1) <*h₂enk->: "to curve, to bend, joint"; 2) <*h₂enǵʰ->: "to constrict, to tighten, narrow, distress"; 3) <*h₂egʰ->: "to be upset, to be afraid"; 4) <*h₂engʷʰ->: "snake, eel, water worm"; 5) <*h₃égʷʰ->: "snake, serpent, dragon". Looking at that list, it seems clear at least some of those are related to each other.
+
+
+
+endintro
+
+
+
+startbody
+
+?
+
+?> Proto-Indo-European <*h₂enk->: "to curve, to bend, joint"
+
+--> Proto-Indo-European <*h₂énkti> (primary verb)
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀅𑀜𑁆𑀘𑀢𑀻` <áñcati>: "to curve, to make round, to wander"
+
+
+--> Proto-Indo-European <*h₂n̥kos>: "bent" (adjective)
+
+---> Celtic <*ankos>
+----> Brythonic <*ank>
+-----> Brythonic <*kraβ̃-ank>
+------> Welsh `crafanc`: "talon, claw"
+----> Celtic <*ankotos>
+-----> Brythonic
+------> Welsh `anghad`: "hand, grasp"
+-----> Old Irish `écath`: "fishhook"
+
+---> Italic
+---?> Latin `ancus`
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀅𑀁𑀓𑀼𑀰` <aṃkuśa>: "hook, goad"
+----> Iranian
+-----> Western Iranian
+------> Persian `آکج` <âkej>: "hook"
+
+--> Proto-Indo-European <*h₂n̥krós>: "bent" (adjective)
+---> Proto-Indo-European <*h₂n̥kreh₂> (feminine)
+
+----> Hellenic
+-----> Classical Greek `ἄγκῡρα` <ánkūra>: "anchor, hook"
+------> Greek `άγκυρα` <ágkyra>: "anchor"
+------> Latin `ancora`: "hook"
+-------> Central Romance
+--------> Italian `ancora`: "anchor"
+-------> Western Romance
+--------> French `ancre`: "anchor"
+---------> English `anchor`
+--------> Spanish `ancla`: "anchor"
+---------> Tagalog `angkla`: "anchor"
+------> Persian `لنگر‎` <langar>: "anchor"
+-------> Arabic `أَنْجَر` <ʾanjar>: "anchor"
+------> Classical Greek `Ἄγκῡρα` <Ánkūra>: "Ancyra/Angora/Ankara"
+-------> Greek `Άγκυρα` <Ágkyra>: "Ankara"
+-------> Latin `Ancȳra`: "Ankara"
+--------> Central Romance
+---------> Italian `Angora`: "Ankara"
+----------> English `angora`
+-------> Ottoman Turkish `انقره‎` <Anqarah>: "Ankara"
+--------> Turkish `Ankara`
+---------> English `Ankara`
+
+
+--> Proto-Indo-European <*h₂énkōs>: "bend, turn" (resultative noun)
+
+---> Hellenic <*ánkos>
+----> Classical Greek `ᾰ̓́γκος` <ánkos>: "bend, hollow, valley"
+
+---> Indo-Iranian <*Hánkas>
+----> Indo-Aryan <*Hankás>
+-----> Sanskrit `𑀅𑀗𑁆𑀓` <aṅká>: "curve, hook, hip, curved line, number"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `अंक` <aṅk>: "number, mark, point"
+---------> Hindi `आंकड़ा` <āṅkṛā>: "numerical, statistical"
+------> Sanskrit `𑀧𑀮𑁆𑀬𑀗𑁆𑀓` <palyaṅka>: "bed, couch, bedstead" (lit. "curve around")
+-------> Odia `ପାଲଙ୍କି` <palôṅki>
+--------> Portuguese `palanquim`: "palanquin"
+---------> English `palanquin`
+
+
+--> Proto-Indo-European <*h₂ónkos>: "bend, turn" (agentive noun)
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `anka`: "loop, ring"
+----> Slavic <*ǫkotь>: "hook"
+-----> East Slavic `укоть` <ukotĭ>: "claw, anchor"
+-----> South Slavic
+------> Old Church Slavonic `ѫкоть` <ǫkotĭ>
+-----> Slavic <*pàǭkъ>: "spider" ("hook-leg")
+------> East Slavic `паукъ` <paukŭ>: "spider"
+-------> Russian `пау́к` <paúk>: "spider"
+--------> Russian `Челове́к-пау́к` <Čelovék-paúk>: "Spider-man"
+-------> Ukrainian `паву́к` <pavúk>: "spider"
+------> South Slavic
+-------> Old Church Slavonic `паѫкъ` <paǫkŭ>
+-------> Serbo-Croatian `па̏ӯк` <pȁūk>: "spider"
+------> West Slavic
+-------> Czech `pavouk`: "spider"
+-------> Polish `pająk`: "spider"
+
+---> Hellenic
+----> Classical Greek `ὄγκος` <ónkos>: "curve, angle, hook, barb"
+
+---> Italic
+----> Latin `uncus`: "hook, barb, hooked, curved"
+-----> Latin `aduncus`: "hooked, curved"
+------> Central Romance
+-------> Italian `adunco`: "hooked"
+------> Eastern Romance
+-------> Romanian `adânc`: "deep, profound, serious"
+
+-?> Proto-Indo-European <*h₂ónkustos?>
+
+---> Indo-Iranian <*Hangúštʰas>
+----> Indo-Aryan
+-----> Sanskrit `𑀅𑀗𑁆𑀕𑀼𑀱𑁆𑀞` <aṅgúṣṭha>: "thumb, big toe"
+------> Maharashtri `𑀅𑀁𑀕𑀼𑀝𑁆𑀞` <aṃguṭṭha>
+-------> Marathi `अंगठा` <ãṅgaṭhā>: "thumb, big toe"
+------> Pali <aṅguṭṭha>: "thumb"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `अंगूठा` <aṅgūṭhā>: "thumb, big toe"
+-------> Pahari
+--------> Nepali `औंठी` <aũṭhī>: "(finger) ring"
+----> Iranian
+-----> Avestan `𐬀𐬧𐬔𐬎𐬱𐬙𐬀` <aṇgušta>: "toe"
+-----> Western Iranian
+------> Persian `انگشت` <angošt>: "finger"
+
+
+--> Proto-Indo-European <*h₂enkulos?>: "joint"
+
+---> Old Armenian `անգղ` <angł>: "handle, vulture"
+----> Armenian `անգղ` <angł>: "vulture"
+
+---> Balto-Slavic
+----> Slavic <*ǫ̑gъlъ>: "corner, angle"
+-----> East Slavic `оугълъ` <ugŭlŭ>
+------> Russian `у́гол` <úgol>: "corner, angle"
+------> Ukrainian `ву́гол` <vúhol>: "angle, corner"
+-----> South Slavic
+------> Old Church Slavonic `ѫгълъ` <ǫgŭlŭ>: "angle"
+------> Serbo-Croatian `у̏гао` <ȕgao>: "corner, angle"
+-----> West Slavic
+------> Czech `úhel`: "angle"
+------> Polish `węgieł`: "corner, keystone"
+
+---> Germanic <*ankulaz>
+----> North Germanic
+-----> Old Norse `ǫkkla`
+------> Icelandic `ökkli`: "ankle"
+----> West Germanic
+-----> Old English <*ancel>
+------> Old English `anclēow`: "ankle" (modification by association with "claw")
+------> English `ankle`
+-----> Frankish
+------> Dutch `enkel`: "ankle"
+-----> Old High German `ankala`: "ankle"
+------> German `Enkel`: "ankle"
+
+---> Hellenic
+----> Classical Greek `ἀγκύλος` <ankúlos>: "cooked, curved, intricate, wily"
+-----> Classical Greek ` ἀγκυλόω` <ankulóo>: "I bend, I make crooked"
+------> Classical Greek `ἀγκύλωσις` <ankúlōsis>: "stiffening of joints" (lit. "bent condition")
+-------> English `ankylosis`
+--------> English `ankylo-`: "bent, crooked, stiff, fused"
+---------> Translingual `Ankylosaurus`: "genus of ornithischian dinosaur" (refers to fusion of bones via `ankylosis`, not directly to "crooked")
+
+
+---> Indo-Iranian <*Hanguri->
+----> Indo-Aryan
+-----> Sanskrit `𑀅𑀗𑁆𑀕𑀼𑀭𑀺` <aṅgúri>: "finger, toe"
+-----> Sanskrit `𑀅𑀗𑁆𑀕𑀼𑀮𑀻` <aṅgulī>: "finger"
+
+
+---> Italic
+----> Latin `angulus`: "corner, angle"
+-----> Central Romance
+------> Italian `angolo`: "angle, corner"
+-----> Eastern Romance
+------> Romanian `unghi`: "angle"
+-----> Insular Romance
+------> Sardinian `àngolo`
+-----> Western Romance
+------> French `angle`: "angle"
+-------> English `angle`
+------> Spanish `ángulo`: "angle"
+------> Welsh `ongl`: "angle"
+-----> Latin `triangulus`: "three-cornered"
+------> Latin `triangulum`: "triangle"
+-------> Central Romance
+--------> Italian `triangolo`: "triangle"
+-------> Eastern Romance
+--------> Romanian `triunghi`: "triangle"
+-------> Western Romance
+--------> French `triangle`
+---------> English `triangle`
+--------> Spanish `triángulo`: "triangle"
+-----> Latin `quādrangulus`: "four-cornered"
+------> Latin `quadrangulum`: "quadrangle"
+-------> French `quadrangle`
+--------> English `quadrangle`
+---------> English `quad`
+
+
+--> Proto-Indo-European <*h₂énkō> (noun)
+
+---> Germanic <*angô>: "bend, crook, hook, angle"
+----> East Germanic
+-----> Gothic <*agga>
+------> Gothic `𐌷𐌰𐌻𐍃𐌰𐌲𐌲𐌰` <halsagga>: "neck"
+------> Galician `anga`: "handle"
+-------> Galician `angazo`: "hand rake"
+-------> Galician `angarela`: "windlass, crank"
+----> West Germanic
+-----> Old High German `ango`: "hook, angle, narrowly"
+------> German `Ange`: "hinge"
+----> Germanic <*angulō>: "hook, fishhook" (diminutive)
+-----> North Germanic
+------> Old Norse `ǫngull`: "hook, fishhook"
+-------> Icelandic `öngull`: "hook, fishhook"
+-----> West Germanic
+------> Old English `angol`
+-------> English `angle`
+------> Frankish <*angul>
+-------> Dutch `angel`: "stinger, fishhook, tang"
+--------> Dutch `voetangel`: "caltrop" (lit. "foot-stinger")
+-------> Dutch `hengel`: "fishing rod"
+------> Old High German `angel`
+-------> German `Angel`: "fishhook, hinge, fishing rod"
+--------> German `angeln`: "to angle, to fish"
+--------> German `Fußangel`: "caltrop"
+--------> German `Türangel`: "door hinge"
+----?> Germanic <*?>: "Angles/Anglia (Peninsula)" ##
+------> West Germanic
+-------> Old English `Engle`: "Angle"
+--------> Old English `Englisc`
+---------> English `English`
+--------> Old English `Engla land`: "England" ("Angles' land")
+---------> English `England`
+-------> Old High German
+--------> German `Angeln`: "Anglia (Peninsula)"
+------> Latin `Anglus`: "Angle"
+-------> English `Angle`
+--------> English `anglo-`
+
+
+
+--> Proto-Indo-European <*h₂enkuleh₂>
+
+---> Germanic <*anhulō>: "strap"
+----> North Germanic
+-----> Old Norse `ǫ́l`
+------> Icelandic `ól`: "leather belt or strap"
+----> West Germanic
+-----> Old English <*ōl>
+------> Old English `ōlþwong`: "whip, scourge"
+
+---> Hellenic
+----> Classical Greek `ἀγκύλη` <ankúlē>: "belt"
+
+--> Proto-Indo-European <*h₂n̥kyós?>
+
+---> Old Armenian `անկիւն` <ankiwn>: "angle, corner, nook"
+----> Armenian `անկյուն` <ankyun>: "angle, corner, nook"
+
+
+?> Proto-Indo-European <*h₂enǵʰ->: "to constrict, to tighten, narrow, distress"
+
+--> Proto-Indo-European <*h₂énǵʰeti> (primary verb)
+
+---> Hellenic
+----> Classical Greek `ἄγχω` <ánkhō>: "I compress, I choke, I pressure"
+-----> Classical Greek `κῠνάγχη` <kunánkhē>: "dog collar, sore throat, tonsilitis"
+------> Latin `cynanchē`: "tonsilitis"
+-------> English `cynache`
+-------> Medieval Latin `quinancia`
+--------> Old French `quinencie`
+---------> English `quinsy`
+
+---> Italic <*anɣō>
+----> Latin `angō`: "I bind, I press together, I choke, I cause pain"
+-----> Latin `angina`: "choking, suffocation"
+------> English `angina`
+-----> Latin `ānxius`: "troubled, uneasy, anxious"
+------> Central Romance
+-------> Italian `ansioso`: "anxious, apprehensive, eager"
+------> Western Romance
+-------> French `anxieux`: "anxious, apprehensive"
+-------> Spanish `ansioso`: "anxious, eager"
+-------> English `anxious`
+------> Latin `ānxietās`: "anxiety, caution"
+-------> Central Romance
+--------> Italian `ansietà`: "anxiety, yearning"
+-------> Western Romance
+--------> French `anxiété`: "anxiety"
+---------> English `anxiety`
+--------> Spanish `ansiedad`: "anxiety"
+
+
+--> Proto-Indo-European <*h₂énǵʰus>: "narrow, tight"
+
+---> Old Armenian `անձուկ` <anjuk>: "narrow, difficult, strait, anxiety, wish"
+----> Armenian `անձուկ` <anjuk>: "narrow, strait, constrained, wish" ####
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `añkštas`: "tight"
+----> Slavic <*ǫzъkъ>
+-----> East Slavic `оузъкъ` <uzŭkŭ>
+------> Russian `у́зкий` <úzkij>: "narrow, tight"
+------> Ukrainian `вузьки́й` <vuzʹkýj>: "narrow"
+-----> South Slavic
+------> Old Church Slavonic `ѫзъкъ` <ǫzŭkŭ>: "tight, narrow"
+------> Serbo-Croatian `у̏зак` <ȕzak>: "narrow, strait, tight"
+-----> West Slavic
+------> Czech `úzký`: "narrow"
+------> Polish `wąski`: "narrow, tight"
+----> Finnic <*ahtas>: "narrow, cramped"
+-----> Finnish `ahdas`: "tight, narrow, restrictive, cramped"
+
+---> Celtic <*angus>: "narrow"
+----> Brythonic
+-----> Breton `enk`: "too small, too narrow"
+-----> Welsh `ing`: "anguish, distress"
+----> Celtic <*kom-ingus>
+-----> Brythonic
+------> Welsh `cyfyng`: "narrow, confined, difficult, limited"
+-----> Old Irish `cumung`: "narrow, constricted"
+------> Irish `cúng`: "narrow"
+
+---> Germanic <*anguz>: "narrow, tight, choked"
+----> East Germanic
+-----> Gothic `𐌰𐌲𐌲𐍅𐌿𐍃` <aggwus>: "narrow, strait"
+------> Gothic `𐌰𐌲𐌲𐍅𐌹𐌸𐌰` <aggwiþa>: "distress, anguish"
+----> North Germanic
+-----> Old Norse `ǫngr`: "narrow"
+----> West Germanic
+-----> Old English `ange`: "tight, painful"
+------> Old English `angnæġl`: "hangnail" (lit. "painful (finger) nail")
+-------> English `hangnail` (eggcorn)
+-----> Frankish
+------> Dutch `eng`
+-------> Dutch `engte`: "narrowness, difficulty"
+-----> Old High German `engi`: "narrow, narrowness"
+------> German `eng`: "narrow, tight"
+------> Yiddish `ענג‎` <eng>: "narrow, crowded"
+----> Germanic <*angustiz>
+-----> West Germanic
+------> Frankish <*angust>
+-------> Dutch `angst`
+------> Old High German `angist`
+-------> German `Angst`: "fear, fright, anxiety"
+--------> English `angst` ###
+------> Old Saxon <*angust>
+-------> Old Norse `angist`
+--------> Danish `angst`: "fear, apprehension, anxiety, angst"
+---------> English `angst` ###
+--------> Icelandic `angist`: "anguish"
+---?> Germanic <*?>: "Angles/Anglia (Peninsula)" ##
+
+
+---> Indo-Iranian <*Hánĵʰuš>
+----> Indo-Aryan
+-----> Sanskrit `𑀅𑀁𑀳𑀼` <áṃhu>: "narrow, anxiety, distress"
+
+---> Italic <*angus>
+----> Italic <*angustos>
+-----> Latin `angustus`: "narrow, close, confined, small"
+------> Central Romance
+-------> Italian `angusto`: "narrow"
+------> Eastern Romance
+-------> Romanian `îngust`: "narrow, tight, thin"
+-------> Albanian `ngushtë`: "narrow"
+------> Western Romance
+-------> Spanish `angosto`: "narrow, reduced"
+--------> Spanish `angostura`: "narrowness, narrow passage, narrows"
+---------> Spanish `Angostura`: "place name" (city in Venezuela at the narrows of the Orinoco River, now called Ciudad Bolívar)
+----------> English `Angostura bitters`
+------> Latin `angustō`: "I narrow, I make smaller"
+-------> Eastern Romance
+--------> Romanian `îngusta`: "to narrow, to tighten, to shrink"
+--------> Albanian `ngushtoj`: "I narrow"
+-------> Western Romance
+--------> Spanish `angostar`: "to narrow"
+------> Latin `angustia`: "narrowness, confinement, difficulties, brevity, deprivation"
+-------> Central Romance
+--------> Italian `angoscia`: "anguish"
+-------> Western Romance
+--------> French `angoisse`: "anguish, distress, dread, angst"
+---------> English `anguish`
+--------> Spanish `angoja`: "grief, anguish"
+
+
+--> Proto-Indo-European <*h₂énǵʰos>
+
+---> Germanic <*angazaz>: "worry, grief, anxiety"
+----> North Germanic
+-----> Old Norse `angr`: "sorrow, distress, resentment, affliction, injury"
+------> Danish `anger`: "regret, remorse"
+------> Icelandic `angur`: "trouble"
+------> English `anger`
+-----> Finnic <*ankeda>
+------> Finnish `ankea`: "dreary, dismal"
+
+---> Hellenic
+----> Classical Greek `ἀγχοῦ` <ankhoû>: "near, nearby" (preposition, probably derived from a genitive form)
+
+---> Indo-Iranian <*Hánĵʰas>
+----> Indo-Aryan <*Hánźʰas>
+-----> Sanskrit `𑀅𑀁𑀳𑀲𑁆` <áṃhas>: "anxiety, trouble, sin"
+----> Iranian <*Hanĵah>
+-----> Avestan <ązah>: "tightness, constriction, anxiety"
+
+
+--> Proto-Indo-European <?>
+
+---> Old Armenian `անձաւ` <anjaw>: "cave, den"
+----> Armenian `անձավ` <anjav>: "cave"
+
+
+
+-?> Proto-Indo-European <*h₂egʰ->: "to be upset, to be afraid"
+
+---> Proto-Indo-European <*h₂eh₂ógʰe>: "to be upset, to be afraid" (stative)
+
+----> Celtic <*āgetor>: "to fear, to dread"
+-----> Old Irish `ad·ágathar`: "to fear, to dread, to be in awe of"
+
+----> Germanic <*aganą>: "to fear, to be afraid"
+-----> East Germanic
+------> Gothic `𐍉𐌲𐌰𐌽` <ōgan>: "to fear, to be afraid"
+
+---> Proto-Indo-European <*h₂eh₂ogʰéy-eti>: "to scare" (causative)
+
+----> Germanic <*ōgijaną>
+-----> East Germanic
+------> Gothic `𐍉𐌲𐌾𐌰𐌽` <ōgjan>: "to scare"
+-----> North Germanic
+------> Old Norse `œgja`
+------> Old Norse `œgr`: "terrible"
+-------> Old Norse `Yggr`: "Terrible (epithet of Odin)"
+--------> Old Norse `Yggdrassil`
+---------> English `Yggdrassil`
+------?> French `ogre` #####
+--------> English `ogre`
+-----> West Germanic
+------> Old English `onœ̄ġan`
+
+---> Proto-Indo-European <*h₂égʰos>: "distress"
+
+----> Germanic <*agaz>
+-----> East Germanic
+------> Gothic `𐌰𐌲𐌹𐍃` <agis>: "fear"
+-----> North Germanic
+------> Old Norse `agi`: "awe, terror, uproar, constraint, discipline"
+-------> Danish `ave`: "discipline"
+-------> Icelandic `agi`: "discipline"
+-------> English `awe`
+--------> English `awful`
+--------> English `awesome`
+-----?> Old Norse `uggr`: "fear, apprehension, dread"
+
+
+-----> Germanic <*agazlīkaz>: "fearsome, frightening-looking" ("awe-like")
+------> North Germanic
+------?> Old Norse `uggligr`: "fearful, dreadful"
+--------> Icelandic `ugglegur`
+--------> English `ugly`
+------> West Germanic
+-------> Frankish <*egislīk>
+--------> Dutch `ijselijk`
+---------> Dutch `ijzingwekkend`: "frightening"
+-------> Old Saxon `egislīk`: "terrifying, horrible"
+--------> Low German `aislik`: "horrible, gruesome, ugly"
+
+----> Hellenic <*akhos>
+-----> Classical Greek `ἄχος` <ákhos>: "distress, pain, grief"
+----?> Hellenic <*Akhílāu̯os>: "Achilles" (lit. "Grief of the People"?)
+-------> Mycenaean `𐀀𐀑𐀩𐀄` <a-ki-re-u>: "personal name, Achilles?"
+-------> Classical Greek `Ἀχιλλεύς` <Akhilleús>
+
+----> Indo-Iranian <*Hagʰás>: "bad, evil"
+-----> Indo-Aryan <*Hagʰás>
+------> Sanskrit `𑀅𑀖` <aghá>: "bad, evil, sinful, dangerous"
+-------> Pali <agha>
+-------> Sauraseni `𑀅𑀳` <aha>
+--------> Madhya
+--------> Hindi `अह` <ah>
+-------> Telugu `అఘము` <aghamu>: "sin, guilt"
+-----> Iranian
+------> Avestan `𐬀𐬖𐬀` <aγa>: "evil"
+
+
+---> Proto-Indo-European <*h₂egʰlos>: "distressing, repulsive"
+
+----> Germanic <*agluz>: "upsetting, offensive, burdensome"
+-----> East Germanic
+------> Gothic `𐌰𐌲𐌻𐌿𐍃` <aglus>: "difficult"
+-----> Germanic <*aglijaną>: "to offend, to damage"
+------> East Germanic
+-------> Gothic `𐌰𐌲𐌻𐌾𐌰𐌽` <agljan>: "to hurt, to damage"
+------> West Germanic
+-------> Old English `eġlan`: "to trouble, to pain, to afflict"
+--------> English `ail`
+
+
+--?> Proto-Indo-European <*h₂eg->: "guilt, penance?"
+
+----> Proto-Indo-European <*h₂éǵeti> (primary verb)
+
+-----> Germanic <*akaną>: "to ache"
+------> West Germanic
+-------> Old English `acan`: "to ache"
+--------> English `ache` #
+
+------> Germanic <*akiz>: "an ache"
+-------> West Germanic
+--------> Old English `eċe`: "ache"
+---------> English `ache` #
+
+----> Proto-Indo-European <*h₂éǵos> (action/result noun)
+
+-----> Hellenic
+-----?> Classical Greek `ἄγος` <ágos>: "awe, reverence, curse, guilt, penance"
+
+-----> Indo-Iranian
+------> Indo-Aryan <*Hā́gas>
+-------> Sanskrit `𑀆𑀕𑀲𑁆` <ā́gas>: "injury, sin, fault"
+
+
+
+?> Proto-Indo-European <*h₂engʷʰ->: "snake, eel, water worm"
+
+--> Proto-Indo-European <*h₂éngʷʰis>
+
+---> Old Armenian `աւձ` <awj>: "snake, serpent"
+----> Armenian `օձ` <ōj>: "snake, serpent"
+--?> Old Armenian
+----> Armenian `անգի` <angi>: "thin, emaciated"
+
+---> Balto-Slavic  <*angis>
+----> East Baltic
+-----> Lithuanian `angis`: "viper"
+----> Slavic <*ǫ̃žь>
+-----> East Slavic `ꙋжь` <užĭ>
+------> Russian `уж` <už>: "grass snake"
+------> Ukrainian `вуж` <vuž>: "grass snake"
+-----?> Estonian `uss`: "worm, maggot, snake"
+-----> West Slavic
+------> Polish  `wąż`: "snake, serpent, garden hose
+
+---> Celtic 
+----> Brythonic
+-----> Welsh `llysywen`: "eel"
+----> Old Irish `escong`
+-----> Irish `eascann`: "eel, snake, reptile"
+
+---> Indo-Iranian <*Hánǰʰiš>
+----> Iranian <*Hánǰiš>
+-----> Persian `یغنیج‎` <yağni>: "grass snake"
+
+---> Italic
+----> Latin `anguis`: "snake, serpent, dragon"
+
+
+--> Proto-Indo-European <*h₂éngʷʰileh₂?>: "eel"
+
+--> Pre-Albanian <*engellā>
+---> Albanian `ngjalë`: "eel"
+--?> Pre-Albanian <*ts-engellā>
+---?> Albanian `thnegël`: "ant" (but more likely a Balkan Romance borrowing from `formicula`, with common 'f' / 'th' alternation)
+
+--> Hellenic
+---> Classical Greek `ἔγχελῠς` <énkhelus>: "eel" (should be ánkhelus, but influenced by <ékhis>?)
+----> Greek `χέλι` <chéli>: "eel"
+
+--> Italic
+---> Latin `anguilla`: "eel, small snake"
+----> Central Romance
+-----> Dalmatian `anǧola`: "eel"
+-----> Italian `anguilla`: "eel"
+----> Insular Romance
+-----> Sardinian `anguidda`
+----> Western Romance
+-----> French `anguille`: "eel"
+-----> Spanish `anguila`: "eel"
+----> Translingual `Anguilla`: "a taxonomic genus of eels"
+
+
+
+--> Proto-Indo-European <*h₂n̥gʷʰos>
+
+---> Germanic <*unkʷô>: "snake"
+----> West Germanic
+-----> Old High German `unc`: "snake"
+------> German `Unke`: "fire-bellied toad"
+
+--> Proto-Indo-European <*h₂engʷʰrós>
+
+---> Balto-Slavic <*angurios>
+----> East Baltic
+-----> Lithuanian `ungurỹs`: "eel"
+----> Slavic <*ǫgorjь>: "eel"
+-----> East Slavic
+------> Russian `у́горь` <úgorʹ>: "eel"
+------> Ukrainian `вуго́р` <vuhór>: "eel"
+-----> South Slavic
+------> Old Church Slavonic `ѫгорищь` <ǫgorištĭ>
+------> Serbo-Croatian `у̀гор` <ùgor>: "eel, conger"
+-----> West Slavic
+------> Czech `úhoř`: "eel"
+------> Polish `węgorz`: "eel"
+-------> Yiddish `ווענגער` <venger>: "eel"
+----> Finnic
+-----> Finnish `ankerias`: "eel"
+
+---> Germanic <*angraz>
+----> West Germanic
+-----> Old High German `angar`: "mealworm, grub"
+------> Old High German `engiring` (diminutive)
+-------> German `Engerling`: "maggot"
+
+
+
+?> Proto-Indo-European <*h₃égʷʰis>: "snake, serpent, dragon"
+
+--> Old Armenian `իժ` <iž>: "viper"
+---> Armenian `իժ` <iž>: "viper, snake"
+
+--> Germanic <agiz>: "snake, lizard"
+---> Germanic <*egalaz>: "leech"
+----> North Germanic
+-----> Old Norse <*iglr>
+------> Danish `igler`: "leeches"
+------> Icelandic `iglur`: "leeches"
+----> West Germanic
+-----> Frankish
+------> Dutch `echel`: "leech"
+-----> Old High German `egala`: "leech"
+------> German `Egel`: "leech"
+
+---> Germanic <*agiþahsijǭ>: "lizard, newt" (lit. "badger-lizard")
+----> West Germanic
+-----> Old English `āþexe`: "lizard, newt"
+------> English `ask`: "newt" (dialectal)
+-----> Frankish <*egithassa>
+------> Dutch `hagedis`: "lizard"
+-------> Sranan Tongo `lagadisa`: "lizard"
+-----> Old High German `egidehsa`: "lizard"
+------> German `Eidechse`: "lizard"
+-------> German `Echse`: "lizard"
+-------> Yiddish `עקדיש` <ekdish>: "scorpion"
+
+
+---?> Germanic <*ēlaz>
+-----> North Germanic
+------> Old Norse `áll`: "eel"
+-------> Danish `ål`: "eel"
+-------> Icelandic `áll`: "eel, river channel"
+-----> West Germanic
+------> Old English `ǣl`: "eel"
+-------> English `eel`
+-------> Old English `ǣlfær`: "migration of eels" (lit. "eel journey")
+--------> English `elver` 
+------> Frankish <*āl>
+-------> Dutch `aal`: "eel, elver"
+------> Old High German `āl`
+-------> German `Aal`: "eel"
+
+--> Hellenic
+---> Classical Greek `ὄφῐς` <óphis>: "serpent, snake"
+----> Koine Greek `ὀφίδιον` <ophídion>
+-----> Greek `φίδι` <fídi>: "snake"
+-----> English `ophidiophobia`
+----> English `ophiophobia`
+----> Coptic `ⲟⲃⲓⲟⲛ`
+----> Classical Greek `ὀφιοῦχος`: "snake-handler, Ophiuchus (constellation)"
+-----> Latin `Ophiūchus`
+------> English `Ophiuchus`
+
+
+--> Indo-Iranian <*Háǰʰiš>: "snake"
+---> Indo-Aryan <*Háźʰiṣ>
+----> Sanskrit `𑀅𑀳𑀺` <áhi>
+-----> Pali <ahi>
+-----?> Tagalog `ahas`: "snake"
+---> Iranian <*Háǰiš>
+----> Avestan <aži>
+-----> Avestan <Aži Dahāka>
+------> Parthian <až-δahāg>
+-------> Persian `اژدها` <aždahâ>: "dragon"
+--------> Armenian `աժդահա` <aždaha>: "monstrous giant"
+--------> Hindi `अज़दहा` <azdahā>: "dragon"
+--------> Ottoman Turkish `اژدرها‎` <ejderha>: "dragon"
+---------> Turkish `ejderha`: "dragon"
+---------> Serbo-Croatian `ажда̀ха` <aždàha>: "dragon"
+-------> Persian `اژدر` <aždar>: "dragon"
+--------> Translingual `Azhdarcho`: "a taxonomic genus of pterosaur"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish <ažî>: "bug, worm, snake"
+
+-?> Phrygian
+--?> Classical Greek `ἔχις` <ékhis>: "snake, adder, viper"
+----> Classical Greek `ἔχιδνᾰ` <ékhidna>: "viper"
+-----> Greek `έχιδνα` <échidna>: "adder, viper, echidna"
+-----> Classical Greek `Ἔχιδνα` <Ekhidna>
+------> English `Echidna`
+-----?> English `echidna`
+
+--> Tocharian
+---> Kushean <auk>: "snake, serpent"
+
+endbody
+
+
+
+startnotes
+
+
+# Originally the noun and verb of "ache" were pronounced and spelled differently: `ake` <eık> (verb), `ache` <eıtʃ> (noun), comparable to `speak`/`speech`. The pronunciation of the noun merged with the verb, and the spelling of the verb merged with the noun. Possibly under the influence of Greek <ákhos> of much the same meaning.
+
+## Anglia/Anglen Peninsula, the homeland of the Angles before they settled England. Some possibilities for the origin of the name of the place/people:
+1) "fishhook", referring to the shape of the peninsula,
+2) "fisherman", referring to the industry of the people, or
+3) "narrow", referring to the Flensburg Firth/Fjord between the Anglia Peninsula to the south and the Als/Sonderberg region to the north.
+
+
+### English `angst` is adopted in the 19th C via Freud's German and Kierkegaard's Danish.
+
+
+#### Armenian `անձուկ` <anjuk> is a homonym pair: on the one hand "narrow, constrained, wish" (cognate to `angst` and `anguish`) and on the other hand <an->+<juk>: "fishless" (equivalent to a Greek formation of "an-icthyan"). I wish for fish.
+
+##### The general guess is that French `ogre` is from Italian `orco` (with metathesis), from Latin `Orcus`, god of the underworld. The related flesh-eating monsters `orc` and `orca` almost certainly are. But since the French `ogre` is first attested not until 1697 in Perrault's fairy tales, and is apparently a literary invention, it seems worth asking whether it could instead be related to nearly Old Norse `œgr`: "terrifying" or `œgir`: "terrifier".
+
+
+
+endnotes
+

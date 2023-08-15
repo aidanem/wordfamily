@@ -1,0 +1,158 @@
+date: 20170609
+theme: Pride In Words 🏳️‍🌈
+tags: Pride in Words
+
+
+startbody
+
+Proto-Indo-European <*terkʷ->: "to turn"
+
+
+-> Proto-Indo-European <*terkʷti>
+
+--> Anatolian
+---> Hittite `𒋻𒆪𒉿𒀭𒍣` <tarku-zi>: "performs a round dance, dances in twisting manner"
+
+
+-> Proto-Indo-European <*terkʷeti>
+
+--> Albanian `tjerr`: "I spin"
+
+-?> Hellenic
+---> Mycenaean Greek <*to-ro-qe>
+----> Mycenaean Greek `𐀵𐀫𐀤𐀍𐀕𐀜` <to-ro-qe-jo-me-no>: "?"
+----> Mycenaean Greek `𐀁𐀵𐀫𐀣𐀲` <e-to-ro-qa-ta>: "oar holder, twisted leather thong"
+----> Mycenaean Greek `𐀵𐀫𐀦` <to-ro-qo>: "rope-maker"
+
+
+-> Proto-Indo-European <*torkʷéyeti> (causative)
+
+--> Italic <*torkʷeō>
+
+---> Latin `torqueō`: "I twist, I spin, I torment"
+----> Sardinian `tòrchere`
+----> Eastern Romance
+-----> Romanian `a toarce`: "to spin (yarn)"
+----> Western Romance
+-----> French `tordre`: "to twist, to wring, to bend"
+-----> Italian `torcere`: "to twist, to wring, to bend"
+-----> Spanish `torcer`: "to twist, to bend, to sprain"
+----> English `torque`
+
+----> Latin `tortus`: "twisted, spun, tormented"
+-----> Eastern Romance
+------> Romanian `tort`: "thead (spun from hemp)"
+-----> Western Romance
+------> Old French `tort`: "injury, misdeed"
+-------> English `tort`
+-------> French `tort`: "fault, error"
+------> Italian `torto`: "twisted, bent, crooked"
+------> Spanish `tuerto`: "tort, offense, one-eyed"
+
+-----> Latin `torta (panis)`: "a kind of bread or pastry"
+------> Eastern Romance
+-------> Romanian `turtă`: "cake"
+------> Western Romance
+-------> French `tourte`: "meat pie"
+-------> French `tarte`: "pie, tart"
+--------> English `tart`
+-------> Italian `torta`: "pie, tart, cake"
+--------> Spanish `torta`: "cake, pie, tart, sandwich on a roll"
+---------> English `torta`
+--------> German `Torte`: "a light cake with whipped eggs or cream"
+---------> English `torte`
+
+-----> Latin `tortūra`: "twisting, torture"
+------> Western Romance
+-------> French `torture`: "tortue"
+--------> English `torture`
+
+-----> Latin `torsiō`: "wringing, cripping, colic"
+------> Western Romance
+-------> Spanish `torzón`: "enteritis"
+------> French `torsion`: "torsion, act of twisting"
+-------> English `torsion`
+------> Italian `torsione`: "torsion, gymnastics twist"
+------> Spanish `torsión`: "torsion, twisting"
+-----> Medieval Latin `tortia`: "twisted roll of fiber, torch"
+------> Western Romance
+-------> French `toche`: "torch"
+--------> English `torch`
+
+----> Latin `torculum`: "wine or oil press"
+-----> Western Romance
+------> Italian `torchio`: "press, esp. olive oil press"
+------> French `treuil`: "winch, hoist"
+------> Spanish `trullo`: "prison"
+-----> Albanian `tork`: "beam of an oil or wine press"
+
+
+
+-> Proto-Indo-European <*térkʷos> (intensive adjective)
+
+--> Germanic <*þwerhaz>: "cross, adverse" (metathesized from <*térkʷos> to <*tʷérkos>)
+---> East Germanic
+----> Gothic `𐌸𐍅𐌰𐌹𐍂𐌷𐍃` <þwairhs>: "angry"
+---> North Germanic
+----> Old Norse `þvert`
+-----> Danish `tvært`: "contrary to"
+-----> English `thwart`
+---> West Germanic
+----> Frankish <*thwerh>
+-----> Dutch `dwars`: "in a crosswise direction, slantwise, rebellious"
+----> Old High German `dwerah`
+-----> German `quer`: "crosswise, across"
+------> German `queren`: "to cross"
+----> Old Saxon `thwerh`: "contrary, bent, crooked"
+-----> Middle Low German `dwer/quer`
+------> Scots `queer`
+-------> English `queer`
+
+
+-> Proto-Indo-European <*terkʷús> (noun)
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀢𑀭𑁆𑀓𑀼` <tarku>: "spindle"
+
+-?> Tocharian
+---> Arshian <tark>: "earring"
+
+-> Proto-Indo-European <*tŕ̥kʷos> (noun)
+
+--> Balto-Slavic
+---> Slavic <*tъ̑rkъ>: "a run, a sprint"
+----> South Slavic
+-----> Old Church  Slavonic `тръкъ` <trŭkŭ>
+-----> Serbo-Croatian `тр̑к` <tȓk>: "a run, the act of running"
+----> Slavic <*tъrčiti>: "to run, to sprint"
+-----> Serbo-Croatian `тр̀чати` <tr̀čati>: "to run"
+
+?> Proto-Indo-European <*trkʷeh₂?> (noun)
+
+-?> Italic
+---> Latin `trīcae`: "trifles, toys, hindrances, impediments"
+----> Western Romance
+----?> Old French
+------> French `tricher`: "to cheat"
+-----?> English `trick`
+
+----> Latin `extrīcō`: "I disentanle, I extricate, I free"
+-----> Eastern Romance
+------> Romanian `a strica`: "to spoil, to ruin"
+-----> Western Romance
+------> Italian `strigare`: "to unravel"
+-----> English `extricate`
+----> Latin `intrīcō`: "I entangle, I perplex, I embarass"
+-----> Western Romance
+------> Italian `intricare`: "to tangle, to complicate"
+-------> French `intrigue`: "intrigue"
+--------> English `intrigue`
+-----> Latin `intrīcātus`
+------> English `intricate`
+
+-?> Tocharian
+---> Kushean <trik->: "mistake, error, go astray"
+
+
+endbody

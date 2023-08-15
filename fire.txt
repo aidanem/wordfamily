@@ -1,0 +1,282 @@
+date: 20170908
+theme: Fire 🔥
+
+startintro
+
+<*péh₂wr̥> means "fire" as an inanimate substance (grammatically neuter), as opposed to <*h₁n̥gʷnis> (link), which is animate, elemental fire (grammatically animate in earlier PIE, masculine in later PIE).
+
+<*péh₂wr̥> is though to contain the <(é)-wr̥> suffix that derives nouns from roots, though there are no attested descendants of the any other morphological forms of the root. <(é)-wr̥> is presumably a variant of <(ó)-r̥> suffix (the suffix which that appears in the noun <*wódr̥>: "water").
+
+The root <*pewH->: "to be clean, pure" is a likely base for <*péh₂wr̥>, though it would be a very early morphological construct, and likely fossilized by the time of Proto-Indo-European proper, which may explain the very odd double-zero-grade <*puh₂r̥> form which most languages point to (which also has the <*w> before the <*H>, just as in <*pewH->).
+
+This is further supported by a few words which are independent semantic shifts between the "fire" and "pure" meanings, such as Latin `purgō`: "I clean, I purge" from <*péh₂wr̥>: "fire" or Sanskrit `𑀧𑀸𑀯𑀓` <pāvaká>: "pure, clear, fire" from <*pewHokós>: "pure, clean".
+
+
+
+endintro
+
+
+
+startbody
+
+
+
+Proto-Indo-European <*pewH->: "to be clean, pure"
+
+-> Proto-Indo-European <*punéHti>: "is being clean, is being pure" (-ne- imperfective)
+
+--> Indo-Iranian <*punáHti>
+---> Indo-Aryan
+----> Dardic
+-----> Khowar `پھُونىک` <phuník>: "to winnow"
+----> Sanskrit `𑀧𑀼𑀦𑀸𑀢𑀺` <punā́ti>: "to cleanse, to purify, to purge, to winnow"
+
+
+-> Proto-Indo-European <*powHéyeti>: "purifies, cleans" (causative)
+
+--> Germanic <*fawjaną>: "to sift"
+---> West Germanic
+----> Old High German `fowen`
+-----> Cimbrian `vöoban`: "to sift, to sieve"
+
+--> Indo-Iranian <*pawHáyati>
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀯𑀬𑀢𑀺` <paváyati>: "to cleanse, to purify"
+
+
+-> Proto-Indo-European <*pewHós>
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀯` <pava>
+-----> Sanskrit `𑀧𑀯𑀺𑀢𑁆𑀭` <pavitra>: "purifying, holy, apotropaic"
+------> Pali <pavitta>
+-------> Old Khmer
+--------> Khmer `បពិត្រ` <bɑpɨt>: "your Holiness, your Reverence"
+--------> Thai `บพิตร` <bɔɔ-pít>: "your Holiness, your Reverence"
+------> Sauraseni
+-------> Madhya Sauraseni
+--------> Hindi `पवित्र` <pavitra>: "holy, sacred, pure"
+
+
+
+
+-> Proto-Indo-European <*puHrós>: "pure, clean" (adjective)
+
+--> Celtic <*ɸūros>: "fresh"
+---> Brythonic <*ir>
+----> Welsh `ir`: "fresh, raw, unprocessed"
+---> Old Irish `úr`: "fresh, new"
+----> Irish `úr`: "fresh, new, free, liberal, moist"
+
+--> Italic <*pūros>
+---> Latin `pūrus`: "clean, pure, clear"
+----> Central Romance
+-----> Italian `puro`: "pure"
+----> Western Romance
+-----> French `pur`: "pure"
+------> English `pure`
+-----> Spanish `puro`: "pure, clean, only"
+----> Latin `pūrificō`
+-----> French `purifier`
+------> English `purify`
+
+
+-> Proto-Indo-European <*puHtós>: "pure, clean" (adjective)
+
+--> Indo-Iranian <*puHtás>
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀽𑀢` <pūtá>: "cleansed, purified, pure, bright"
+---> Finnic <*puhtas>: "clean"
+----> Finnish `puhdas`: "clean, clear, pure, innocent"
+
+---> Indo-Iranian <*puHitíkas>
+----> Iranian
+-----> Avestan `𐬞𐬏𐬌𐬙𐬌𐬐𐬀` <pūitika>
+------> Middle Persian `𐭯𐭥𐭩𐭲𐭩𐭪𐭠` <pwytyk'>: "Persian Gulf"
+
+--> Italic <*putos>
+---> Latin `putus`: "pure"
+----> Latin `putō`: "I clean, I prune, I arrange, I judge, I consider"
+-----> Latin `putātīvus`
+------> English `putative`
+-----> Latin `amputō`: "I prune, I cut off, I shorten"
+------> English `amputate`
+-----> Latin `computō`: "I arrange together, I calculate, I compute"
+------> English `computer`
+-----> Latin `dēputō`: "I prune, I esteem, I count as"
+------> English `deputy`
+-----> Latin `disputō`: "I estimate, I discuss, I argue, I preach"
+------> English `dispute`
+-----> Latin `reputō`: "I calculate again, I reflect upon, I consider, I examine"
+------> English `reputation`
+
+
+-> Proto-Indo-European <*pewHokós>: "pure, clean" (adjective)
+
+--> Indo-Iranian <*pawHākás>
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀸𑀯𑀓` <pāvaká>: "pure, clear, fire"
+-----> Malay `pawaka`: "fire"
+---> Iranian
+----> Northern Iranian
+-----> Khotani `𐨤𐨌` <pā>: "pure"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `pak`
+-------> Kurdish `paqij`: "clean"
+------> Parthian `𐫛𐫇𐫀𐫃` <pawāg>: "pure, holy"
+-------> Persian `پاو‎` <pāw>: "pure, clean"
+-----> Old Persian
+------> Persian `پاک`: "pure, clean, innocent, holy"
+-------> Hindustani
+--------> Hindi `पाक` <pāk>: "clean, pure"
+--------> Urdu `پاک` <pāk>: "clean, pure"
+--------?> Urdu `پاکستان` <pākistān>: "Pakistan" (coined in 1933, from or influenced by <pāk>)
+----------> English `Pakistan`
+-------> Turkish `pak`: "clean, pure"
+
+
+
+-> Proto-Indo-European <*puHyós>: "purifying, cleaning" (causative adjective)
+
+--> Italic <*pwījos>: "pious, devout"
+---> Oscan `𐌐𐌉𐌉𐌇𐌉𐌞𐌝 ` <piihiúí> (attested in dative)
+---> Latin `pius`: "pious, devout, dutiful, blessed"
+----> English `pious`
+----> English `piety`
+
+
+
+
+-> Proto-Indo-European <*pewH-eno-s>
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀯𑀦` <pávana>: "Divinity of wind and breath, purifier"
+-----> Hindi `पवन` <pavan>
+-----> Malay `pawana`: "wind"
+
+
+
+
+?> Proto-Indo-European <*péh₂wr̥>: "fire, bonfire"
+--> Anatolian
+---> Hittite `𒉺𒀪𒄯` <pa-aḫ-ḫur>: "fire, torch, campfire, fever"
+
+--> Old Armenian `հուր` <hur>: "fire, passion, pyramidal" ###
+
+--> Balto-Slavic
+---> Slavic <*pyrь>: "remains of a fire, ashes, cinders"
+----> East Slavic
+-----> Russian `пыре́й` <pyréj>: "couch grass" ##
+----> West Slavic
+-----> Polish `perz`: "couch grass" ##
+-----> Polish `perzyna`: "embers"
+
+--> Hellenic
+---> Mycenaean Greek `𐀢` <pu>: "fire"
+---> Classical Greek `πῦρ` <pûr>: "fire, lightning, fever"
+----> Greek `πυρ` <pyr>: "fire"
+-----> Greek `πυροσβεστική` <pyrosvestikí>: "fire department"
+----> English `pyro-`
+----> Classical Greek `πυρίτης` <purī́tēs>: "fire-starter, copper pyrite"
+-----> Latin `pȳritēs`: "pyrite"
+------> English `pyrite`
+----> Classical Greek `πυρᾱ́` <purā́>: "funeral pyre"
+-----> Greek `πυρά` <pyrá>: "pyre"
+-----> Latin `pyra`: "pyre"
+------> English `pyre`
+----> Classical Greek `πῠρρός` <purrhós>: "flame-colored, red"
+-----> Classical Greek `Πῠ́ρρος` <Púrrhos>: "personal name"
+------> Latin `Pyrrhus`
+-------> English `pyrrhic`
+----> Classical Greek `ἐμπύριος` <empúrios>: "fiery" ("on-fire")
+-----> Latin `empyreus`
+------> English `empyrean`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Dardic
+-----> Pashayi `پور` <pūr>: "bonfire"
+
+--> Italic <*pur>
+---> Umbrian `𐌐𐌉𐌓` <pir>: "fire"
+---> Italic <*puragō> ("fire" + "act")
+----> Latin `purgō`: "I clean, I purge"
+-----> Central Romance
+------> Italian `purgare`: "to purge, to purify"
+-----> Western Romance
+------> French `purger`: "to purge, to serve a sentence"
+-------> English `purge`
+------> Spanish `purgar`: "to purge, to drain"
+-----> Latin `pūrgātōrium`
+------> French `purgatoire`
+-------> English `purgatory`
+
+--> Tocharian
+---> Arshian <por>: "fire"
+---> Kuchean <puwar>: "fire"
+
+
+
+--> Proto-Indo-European <*ph₂wṓr>: "fire (collective)"
+
+---> Old Armenian
+----> Armenian `հուր` <hur>: "fire"
+
+---> Germanic <*fōr>: "fire"
+----> East Germanic
+-----> Gothic `𐍆𐍉𐌽` <fōn>: "fire"
+------> Portuguese `fona`: "spark"
+----> North Germanic
+-----> Old Norse `fúrr`: "fire" (dative: <funi>)
+------> Danish `fyr`: "fire, lighthouse, boiler"
+------> Icelandic `funi`: "fire"
+----> West Germanic
+-----> Old English `fȳr`: "fire"
+------> English `fire`
+-------> Japanese `ファイヤー` <faiya->: "fire-" (compounds) 
+-----> Frankish <*fuir>
+------> Dutch `vuur`: "fire, heater"
+-----> Old High German `fiur`: "fire"
+------> German `Feuer`: "fire"
+------> Yiddish `פֿײַער‎` <fayer>: "fire"
+
+
+--> Proto-Indo-European <*ph₂wén-s>: "fire-place"
+
+---> Old Armenian
+----> Armenian `հնոց` <hnocʿ>: "oven, furnace"
+
+
+-?> Proto-Indo-European <*pe-péh₂wr̥> (possible reduplicative form)
+
+---> Italic <*papāwer>
+----> Latin `papāver`: "poppy, seed"
+-----> Central Romance
+------> Italian `papavero`: "poppy"
+-----> Western Romance
+------> French `pavot`: "poppy"
+
+------> Andalusi Arabic <ḥappapáwr>: "poppy" (probably with influence from `حب` <ḥabb>: "seeds")
+-------> Spanish `ababol`: "red poppy, absent-minded person, simpleton"
+--------> Spanish `amapola`: "poppy"
+----?> Old English `popiġ`: "poppy"
+------> English `poppy`
+-----> Translingual `Papaver`: "taxonomic genus of poppies"
+
+endbody
+
+
+startnotes
+
+
+
+
+## I'm not entirely sure what the "couch grass" thing is about. I've heard, but not confirmed, that couch grass was sometimes used as incense in medieval Europe.
+
+
+### In Old Armenian `հուր` <hur>, the meaning of "pyramidal" is based on a mistaken idea that Greek `πυραμίς`/`πυραμίδα` <pūramís>/<pyramída>: "pyramid" has related to `πῦρ` <pûr>: "fire". (The origin of Greek `πυραμίς` remains unsolved.)
+
+endnotes

@@ -1,0 +1,338 @@
+
+Date: 20170804
+Theme: Earth and Water 🌎🌊
+Tags: Divinities, Elements, Earth
+
+
+startbody
+
+
+ 
+Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
+
+-> Anatolian
+--> Hittite `𒋼𒂊𒃷` <te-e-kán / tēkan>: "earth"
+
+
+-> Proto-Indo-European <*dʰǵʰōm>: "the earth, the lands" (collective)
+
+-> Albanian `dhe`: "earth"
+
+-> Anatolian
+--> Hittite <*tagān>
+---> Hittite <ta-ga-an-zi-pa-aš>: "earth-goddess"
+
+-> Balto-Slavic <*źemē>: "earth"
+--> East Baltic
+---> Lithuanian `žẽmė`: "land, earth"
+----> Lithuanian `Žemyna`: "Earth Mother goddess"
+----> Lithuanian `žemýnas`: "continent"
+--> West Baltic
+---> Old Prussian `samyen`: "soil, field"
+--> Slavic <*zemljà>: "earth, soil, land"
+---> East Slavic
+----> Russian `земля́` <zemljá>: "earth, soil, land"
+-----> Russian `Но́вая Земля́` <Nóvaja Zemljá>: "New Land (place name)"
+------> English `Novaya Zemla`
+------> English `Nova Zembla`
+---> West Slavic
+----> Polish `ziemia`: "earth, soil, land"
+-?> Finnic <*soomi>
+---> Finnish `Suomi`: "Finland"
+----> English `Suomi`
+
+--> Celtic <*gdū>
+---> Old Irish `dú`: "spot, place"
+
+--> Hellenic <*tʰkʰṓn>
+---> Classical Greek `χθών` <khthṓn>: "ground, soil, earth, country"
+----> English `chthonic`: "within or under the earth, related to the underworld"
+----> Classical Greek `αὐτόχθων` <autókhthōn>: "indigenous"
+-----> English `autocthonic`: "earliest inhabitant of an area, aborigine"
+----> Classical Greek `ἐνοσίχθων` <enosíkhthōn>: "earthshaking (epithet of Poseidon)"
+----> Classical Greek ` χαμουλκός` <khamoulkós>: "a kind of machine, a crane?" (lit. "earth-dragger")
+-----> Latin `chamūlcus`: "a kind of chariot"
+-----?> French `camion`: "truck (freight motor vehicle)" (one of several possible origins)
+-------> Italian` camion`: "truck"
+-------> Serbo-Croatian `камѝо̄н` <kamìōn>: "truck"
+-------> Spanish `camión`: "truck, bus"
+-------> Turkish `kamyon`: "truck"
+
+-> Indo-Iranian
+--> Indo-Aryan <*gẓʰá(m)Hs>
+---> Vedic Sanskrit <jẓhám>
+----> Sanskrit `𑀓𑁆𑀱𑀫𑁆` <kṣám>: "ground, earth"
+-----> Sanskrit `𑀓𑁆` <kṣá>: "field, fieldworker, peasant"
+----> Sauraseni
+-----> Romani `them`: "country, land, world"
+------> Romani `Amaro Baro Them`: "Ancestral Homeland" (lit. "Our Great Land")
+--> Iranian <*já(m)Hs>
+---> Avestan `𐬰𐬃` <zā̊>
+---> Northern Iranian
+----> Scythian
+-----> Ossetian `зӕхх` <zæxx>: "Earth, soil, earthen floor"
+---> Western Iranian
+----> Kurdish `zevî`: "farmland"
+----> Old Persian <*zmiš>
+-----> Persian `زمی` <zami> (archaic)
+------> Persian `زمین` <zamin>: "earth, land, soil"
+-------> Persian `زمین` <Zamin>: "Earth (planet)"
+
+-----> Old Persian `𐎢𐎺𐎠𐎼𐏀𐎷𐎡𐏁` <u-v-a-r-z-mi-i-š / ʰUvārazmiš>: "Khwarazm/Chorasmia" ####
+------> Persian `خوارزم‎` <xwârazm>: "Khwarazm/Chorasmia"
+-------> English `Khwarazm`
+-------> Russian `Хоре́зм` <Xorézm>: "Khwarazm/Chorasmia"
+-------> Turkish `Harezm`: "Khwarazm/Chorasmia"
+-------> Arabic `خوارزم` <ḵawārizm>: "Khwarazm/Chorasmia"
+--------> Arabic `خوارزمي` <ḵawārizmiyy>: "Chorasmian"
+---------> Persian `خوارزمی` <xwârazmi>: "(Muhammad ibn Musa) al-Khwarizmi"
+---------> Arabic `الخوارزمي` <al-ḵawārizmiyy>: "the Chorasmian, (originally habitational surname/epithet), (Muhammad ibn Musa) al-Khwarizmi"
+----------> Arabic `خوارزمية` <ḵawārizmiyya>: "algorithm"
+----------> English `al-Khwarizmi`
+----------> Medieval Latin `Algorizmi`
+-----------> Medieval Latin `algorismus`: "algorithm"
+------------> Old French `augorisme`
+-------------> Middle English `augrym`: "calculation with Arabic numerals, Arabic numerals, ciphering"
+--------------> Welsh `awgrym`: "suggestion, hint, clue"
+------------> Spanish `guarismo`: "digit, Arabic numeral"
+------------> Medieval Latin `algorithmus`: "algorithm" (with `s` changed to `th` by association with Greek <arithmós>)
+-------------> Armenian `ալգորիթմ` <algoritʿm>: "algorithm"
+-------------> French `algorithme`
+--------------> English `algorithm`
+---------------> Japanese `アルゴリズム` <arugorizumu>: "algorithm"
+---------------> Korean `알고리즘` <algorijeum>: "algorithm"
+--------------> Greek `​​αλγόριθμος` <algórithmos>: "algorithm"
+--------------> Persian `الگوریتم` <algoritm>: "algorithm"
+-------------> German `Algorithmus`: "algorithm"
+-------------> Italian `algoritmo`: "algorithm"
+
+------> Akkadian `𒄷𒈠𒊑𒄑𒈠𒀪` <ḫu-ma-ri-iz-ma-ʾ>: "Khwarazm/Chorasmia"
+------> Egyptian `𓆼𓃭𓐠𓅓𓈉` <ḫꜣ-rw-sꜣ-m.LAND>: "Khwarazm/Chorasmia"
+------> Elamite `𒈠𒊏𒆜𒈪𒆜` <ma-ra-iš-mi-iš>: "Khwarazm/Chorasmia"
+------> Classical Greek `Χορασμία`: "Khwarazm/Chorasmia"
+-------> Latin `Chorasmia`
+--------> English `Chorasmia`
+
+------> Old Persian `𐎢𐎺𐎠𐎼𐏀𐎷𐎡𐎹` <u-v-a-r-z-mi-i-y / ʰUvārazmīya>: "a Chorasmian"
+-------> Persian `خوارزمی` <xwârazmi>: "(Muhammad ibn Musa) al-Khwarizmi"
+
+
+
+-> Italic
+--> Latin `humus`: "ground, soil"
+---> English `humus`: "amorphous organic matter in soil"
+---> Latin `humō`: "I bury" 
+----> Latin `exhumō`: "I dig up, I exhume"
+-----> Western Romance
+------> French `exhumer`: "to exhume"
+-------> English `exhume`
+------> Italian `esumare`: "to exhume"
+------> Spanish `exhumar`: "to exhume"
+
+?> Thracian <*zem>: "Earth"
+-?> Thracian <*Zemele>: "Earth Mother Goddess
+--?> Classical Greek `Σεμέλη` <Semélē>: "Mother of Dionysus"
+----> English `Semele`
+----> Etruscan `𐌔𐌄𐌌𐌋𐌀` <Semla>
+
+--> Tocharian
+---> Arshian <tkaṃ>: "earth, ground"
+
+-?> ?
+--?> Hellenic <*Da>: "Earth"
+----> Mycenaean Greek <*da>: "Earth"
+-----> Mycenaean Greek `𐀁𐀚𐀯𐀆𐀃𐀚` <E-ne-si-da-o-ne>: "Earth-shaker (Poseidon)"
+----> Classical Greek `δᾶ` <dâ>: "Earth"
+----?> Classical Greek `Δημήτηρ` <Dēmḗtēr>: "Divinity of the Fertility of the Earth and Harvest" #
+------> English `Demeter`
+
+--?> Hellenic <*Ga>: "Earth"
+----> Mycenaean Greek (*ka): "Earth"
+-----> Mycenaean Greek `𐀔𐀏` <ma-ka>: "Mother Earth"
+----> Classical Greek `γῆ` <gê>: "land, earth, country, soil"
+-----> Classical Greek `γαῖᾰ` <gaîa>: "land, country, earth (material), earth (element)"
+------> Classical Greek `Γαῖα` <Gaîa>: "Earth, personified as a goddess"
+-------> Latin `Gaea`: "Greek goddess of the Earth"
+--------> English `Gaea` (Greek goddess of the Earth)
+-------> English `Gaia` (hypothesis proposing the Earth as a whole has homeostatic systems, i.e. has organism-like traits)
+-----> Classical Greek `γεωργός` <geōrgós>: "tilling the ground, farmer" ("earth-work")
+------> Classical Greek `Γεώργιος` <Geṓrgios>: personal name
+-------> Latin `Geōrgius`
+--------> English `George`
+-----> Classical Greek `γεωμετρία` <geōmetría>: "land measurement, surveying, geometry" ("earth-measure")
+------> Latin `geōmetria`: "geometry"
+-------> Western Romance
+--------> French `géométrie`: "geometry"
+---------> English `geometry`
+-----> Classical Greek `γεωγράφος` <geōgráphos>: "geography" ("earth-drawing")
+------> Latin `geōgraphia`: "geography"
+-------> Western Romance
+--------> French `géographie`: "geography"
+---------> English `geography`
+
+
+-> Proto-Indo-European <*dʰǵʰm̥meh₂y>: "on the ground, to the ground" (probably a fossilized declension)
+
+--> Hellenic 
+---> Classical Greek `χᾰμαί` <khamaí>: "on the ground, near the ground, to the ground"
+
+----> Classical Greek `χᾰμαίδρῡς` <khamaídrūs>: "wall germander" ("ground-oak")
+-----> Latin `chamaedrys`
+------> French `germandrée`
+-------> English `germander`
+-------> German `Gamander`
+------> Italian `camedrio`: "avens"
+
+----> Classical Greek `χᾰμαιλέων` <khamailéōn>: "chameleon"  #####
+-----> Greek `χαμαιλέοντας` <chamailéontas>: "chameleon"
+-----> Latin `chamaeleōn`: "chameleon"
+------> Western Romance
+-------> Old French `cameleon`: "chameleon"
+--------> French `caméléon`: "chameleon"
+--------> English `chameleon` (spelling re-Latinized in 1700s)
+-------> Italian `camaleonte`: "chameleon"
+-------> Spanish `camaleón`: "chameleon"
+-----> Russian `хамелео́н` <xameleón>: "chameleon"
+
+----> Classical Greek `χᾰμαίμηλον` <khamaímēlon>: "(Roman) camomile" ("ground-apple")
+-----> Greek `χαμομήλι` <chamomíli>: "camomile"
+-----> Latin `chamaemēlon`
+------> French `camomille`: "camomile"
+-------> English `camomile`
+-----> Translingual `Chamaemelum`: "taxonomic genus of camomile"
+
+
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀓𑁆𑀱𑁆𑀫𑀬𑀸` <kṣmayā́>
+
+--> Italic <*homei>
+---> Latin `humī` (locative of `humus`)
+
+
+-> Proto-Indo-European <*dʰǵʰemelo->: "near the ground"
+
+--> Hellenic
+---> Classical Greek `χθαμαλός` <khthamalós>: "sunken, flat, creeping" (also, epithet of Ithaca)
+
+--> Italic
+---> Latin `humilis`: "near the ground, lowly, humble"
+----> Western Romance
+-----> French `humble`: "humble"
+------> English `humble`
+-----> Italian `umile`: "humble"
+-----> Spanish `humilde`: "humble, lower class"
+----> Old Irish `umal`: "humble, obedient"
+-----> Irish `umhal`: "humble, obedient"
+----> Latin `humilitās`: "insignificane, humilitian, submissiveness"
+-----> Western Romance
+------> French `humilité`: "humility"
+-------> English `humility`
+------> Italian `umiltà`: "humility"
+------> Sicilian `umirtà`: "humility"
+-------> Italian `omertà`: "code of silence, espeically among the Mafia"
+--------> English `omerta`
+------> Spanish `humildad`: "humility"
+
+
+-> Proto-Indo-European <*dʰǵʰmen->: "on the earth"
+--> Proto-Indo-European <*ǵʰmṓ>: "earthling, human, mortal"
+
+---> Balto-Slavic <*źmō̃>
+----> Old Lithuanian `žmuõ`: "human, man"
+-----> Lithuanian `žmogùs`: "human" (with some other root mixed in)
+
+---> Celtic <*gdonyos>: "person"
+----> Brythonic <*dün>: "person, human"
+-----> Welsh `dyn`: "folks, man, person"
+----> Gaulish <*-gdonio>: "people, mortals"
+-----> Gaulish `𐌕𐌄𐌖𐌏𐌙𐌕𐌏𐌍𐌉𐌏𐌍` <deuogdonion>: "of gods and mortals" ##
+----> Old Irish `duine`: "person"
+-----> Irish `duine`: "person, human"
+------> Irish `daonna`: "human, humane, kindly"
+------> Irish `Daoine Maithe`: "fairies, Aos Sí (lit. the Good People)" 
+------> Irish `Daoine Sí`: "fairies, Aos Sí (lit. People of the Mounds)"
+-------> English `Daoine Sidhe`
+
+
+---> Germanic <*gumô>: "man"
+----> East Germanic
+-----> Gothic `𐌲𐌿𐌼𐌰` <guma>: "man"
+----> North Germanic
+-----> Old Norse `gumi`: "man"
+------> Icelandic `gumi`: "man" (archaic, poetic)
+----> West Germanic
+-----> Old English `guma`: "man"
+------> Scots `gome`: "man"
+-----> Old High German `gomo`: "man"
+----> Germanic <*brūdigumô>: "bride's-man, husband, bridegroom"
+-----> North Germanic
+------> Old Norse `brúðgumi`: "bridegroom"
+-------> Danish `brudgom`: "bridegroom"
+-------> Icelandic `brúðgumi`: "bridegroom"
+-----> West Germanic
+------> Old English `brȳdguma`: "bridegroom"
+-------> English `bridegroom` ###
+------> Frankish
+-------> Dutch `bruidegom`: "bridegroom"
+------> Old High German `brūtigomo`: "bridegroom"
+-------> German `Bräutigam`: "bridgegroom"
+
+---> Italic
+----> Latin `homō`: "human, person, man" (acc.: `hominem`)
+-----> Sardinian `ómine`
+-----> Eastern Romance
+------> Romanian `om`: "human"
+-----> Western Romance
+------> French `homme`: "man" (from accusative `hominem`)
+------> French `on`: "someone, people, one" (from nominative `homō`)
+------> Italian `uomo`: "man"
+------> Spanish `hombre`: "man"
+-------> French `hombre`: "a Spanish card game, ombre"
+--------> English `ombre`
+-----> Latin `hūmānus`: "having to do with humans, humane"
+------> Eastern Romance
+-------> Romanian `uman`: "human, humane"
+------> Western Romance
+-------> French `humain`: "human"
+--------> English `human`
+-------> Spanish `humano`
+------> Latin `hūmānitās`: "humanity"
+-------> Western Romance
+--------> French `humanité`: "humanity"
+---------> English `humanity`
+--------> Italian `umanità`: "humanity"
+--------> Spanish `humanidad`: "humanity"
+
+endbody
+
+
+startnotes
+
+# There are many possibilities for the first element in `Demeter`, e.g. <des-> (as in <Desponia>), meaning "house", or <dea> (cf. `ζειά`), a kind of grain.
+
+### With the loss of the Old English `guma`, `-gome` in Middle English `bridegome` is conflated with `grome` (Modern `groom`) meaning "boy, youth". There are two different possibilities about whether Middle English `gome` and `grome` were originally any relation to each other:
+A) `grome` could be unrelated to `gome`, and instead related to "grow" and "green", possibly Germanic <*grōmô>. But that root is usually only used for plant growth (thus, "green"), not human/animal growth.
+Or B) this could be a recollapsing of two words that were originally the same, with `gome` having been previously modified with an intrusive 'r' to create `grome` (compare: `hoarse` from `hās` and `cartridge` from `cartouche`). But the same modification would have had to have happened in other branches of Germanic, compare Icelandic `gromr`: "boy" vs. `gumi`: "man (poetic)": and Middle Dutch `grom`: "boy" vs. `gome`: "man"
+
+
+## From the Gallo-Etruscan Vercelli inscription http://mnamon.sns.it/index.php?page=Esempi&id=61&lang=en#370
+
+
+#### Khwarazm—also called Chorasmia—is a historical oasis region of Central Asia, now straddling the border of Turkmenistan and Uzbekistan. The city of Khiva has often been the de jure or de facto capital of the region. The second element of the name is almost certainly Iranian <*jámHs>: "earth, land". The name has been proposed as "low-land", "dark-soil-land", or "sun-land".
+
+The Persian mathematician Muhammad ibn Musa al-Khwarizmi (c. 780–847) is named for the region—<al-Khwarizmi>: "the Chorasmian". He was either personally or ancestrally from Khwarazm.
+
+He is regarded as the founder of algebra, and translations of his work <al-Kitāb al-Mukhtaṣar fī Ḥisāb al-Jabr wal-Muqābalah>: "The Compendious Book on Calculation by Completion and Balancing" is both the namesake of "algebra" (<al-Jabr>: "the completion, the restoration") and the work that introduced Indo-Arabic numeral system to Europe.
+
+His own name was borrowed as the word "algorithm".
+
+The <zm> in his name is cognate to Greek <geo-> in `geometry` and `geography` (one of his other famous books is his translation and update of Ptolemy's _Geography_).
+
+##### Ancient Greek `χᾰμαιλέων` <khamailéōn>: "chameleon" is a calque of Akkadian `𒌨𒈤𒊭𒆠` <nēšu ša qaqqari>: "chameleon, lizard". <nēšu ša qaqqari> was translated literally as "lion of the ground" but would probably be better translated as "predator that crawls".
+
+
+endnotes
+
+

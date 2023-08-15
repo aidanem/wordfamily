@@ -1,0 +1,210 @@
+date: 20211105
+tags: Animals, Domestic Animals, Runes
+
+
+startbody
+
+
+Proto-Indo-European <*peḱ->: "wool, livestock, wealth"
+
+
+-> Proto-Indo-European <*péḱu>
+
+--> Old Armenian `ասու` <asu>: "fleece, wool"
+---> Armenian `ասր` <asr>: "fine fleece"
+
+--> Balto-Slavic <*péku>
+---> East Baltic
+----> Lithuanian `pẽkus`
+---> West Baltic
+----> Old Prussian `pecku`: "cattle"
+
+--> Germanic <*fehu>: "wealth, cattle, the rune ᚠ"
+---> East Germanic
+----> Gothic `𐍆𐌰𐌹𐌷𐌿` <faihu>: "property, wealth, money, the letter 𐍆"
+---> North Germanic
+----> Old Norse `fé`: "livestock, property, money, the rune ᚠ"
+-----> Danish `fæ`: "cattle, idiot"
+-----> Icelandic `fé`: "livestock, wealth, money, the rune ᚠ"
+-----> Old Norse `féhirðir`: "shepherd"
+------> Icelandic `féhirðir`: "treasurer"
+---> West Germanic
+----> Old English `feoh`: "money, livestock, property, the rune ᚠ"
+-----> English `fee`
+----> Frankish <*feu>
+-----> Dutch `vee`: "livestock, cattle"
+-----> Medieval Latin `feus`
+------> Medieval Latin `fevum`
+-------> Old French `fief`
+--------> French `fief`: "fief"
+--------> English `fief`
+------> Medieval Latin `feudum`: "fief, fee"
+-------> Italian `feudo`: "fief, domain, stronghold"
+-------> Spanish `feudo`: "fief, home ground"
+-------> Medieval Latin `feudālis`
+--------> Old French `feodal`: "feudal"
+---------> English `feudal`
+----> Old High German `fihu`: "livestock, cattle"
+-----> German `Vieh`: "livestock, beast"
+-----> German `Viech`: "animal, beast, vermin"
+-----> Yiddish `פֿיך` <fikh>: "livestock, cattle"
+---> English `fehu`: "the rune ᚠ"
+
+
+--> Hellenic <*péku>
+--?> Hellenic <*pᵊkú-klṓps>: "cattle-thief"
+---?> Ancient Greek `Κύκλωψ` <Kúklōps>: "cyclops" #
+-----> Latin `cyclōps`
+------> English `cyclops`
+
+--> Italic <*peku>
+---> Latin `pecū`: "cattle"
+----> Latin `pecūnia`: "money, wealth"
+-----> Latin `pecūniārius`: "financial, related to money, pecuniary"
+------> English `pecuniary`
+----> Latin `pecūlium`: "private property, livestock"
+-----> Western Romance
+------> French `pécule`: "savings"
+------> Spanish `pegullo`: "herd"
+-----> Latin `pecūliāris`: "private, specific"
+------> English `peculiar`
+-----> Latin `pecūlor`: "I embezzle, I peculate"
+------> English `peculate`
+---> Umbrian `𐌐𐌄𐌒𐌏` <peqo>: "wealth"
+
+
+
+-> Proto-Indo-European <*péḱti>
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `pèšti`: "to pluck, to pull, to tear out"
+-----> Lithuanian `pašýti`: "to tug, to fight, to brawl" (iterative)
+
+--> Hellenic
+---> Ancient Greek `πέκω` <pékō>: "I shear, I comb, I pluck"
+
+
+-> Proto-Indo-European <*peḱteti>
+
+--> Germanic <*fehtanã>: "to comb, to shear, to detangle, to struggle with"
+---> West Germanic <*fehtan>: "to fight"
+----> Old English `feohtan`: "to fight"
+-----> English `fight`
+-----> Scots `fecht`: "to fight, to struggle"
+----> Frankish <*fehtan>
+-----> Dutch `vechten`: "to fight"
+----> Old High German `fehtan`
+-----> German `fechten`: "to fence, to fight"
+------> Russian `фехтова́ть` <fextovátʹ>: "to fence"
+------> German `Fuchtel`: "broadsword"
+
+--> Hellenic
+---> Ancient Greek `πεκτέω` <pektéō>: "I shear, I clip"
+
+--> Italic <*pektō>
+---> Latin `pectō`: "I comb, I card, I weed, I thrash (someone)"
+
+
+-> Proto-Indo-European <*péḱos>
+
+--> Hellenic
+---> Ancient Greek `πέκος` <pékos>
+
+--> Italic <*pekos>
+---> Latin `pecus`: "cattle, herd"
+----> Western Romance
+-----> Italian `pecora`: "sheep, ewe"
+----> Latin `pecorārius`: "herdsman, shepherd"
+-----> Eastern Romance
+------> Romanian `păcurár`: "shepherd"
+-----> Western Romance
+------> Italian `pecoraio`: "shepherd"
+
+
+-> Proto-Indo-European <*poḱos>
+
+--> Germanic <*fahaz>: "sheep"
+---> North Germanic
+----> Old Norse `fær`: "sheep"
+-----> Danish `får`: "sheep"
+-----> Old Norse `Færeyjar`: "Sheep Islands, the Faroe Islands"
+------> Danish `Færøerne`: "Faroe Islands"
+-------> English `Faroe`
+------> Icelandic `Færeyjar`: "Faroe Islands"
+
+--> Hellenic
+---> Ancient Greek `πόκος` <pókos>: "wool, fleece"
+
+
+-> Proto-Indo-European <*péḱleh₂>
+
+--> Albanian `pillë`: "flax comb, hatchel"
+
+
+-> Proto-Indo-European <*poḱtis>
+
+--> Germanic <*fahtiz>: "wool, fleece"
+---> West Germanic
+----> Old English `feht`: "fleece"
+----> Frankish <*faht>
+-----> Dutch `vacht`: "fur, pelt"
+
+
+-> Proto-Indo-European <*pǝḱténs>
+
+--> Hellenic
+---> Ancient Greek `κτείς` <kteís>: "comb, rake, scallop, pubic hair" (oblique stem `κτεν-` <kten->)
+----> Greek `χτένα` <chténa>: "comb"
+----> Ancient Greek `κτενῐ́ζω` <ktenízō>: "I comb"
+-----> Greek `χτενίζω` <chtenízo>: "I comb, I groom, I search"
+----> New Latin `cteno-`
+-----> Translingual `Ctenophora`: "taxonomic phylum of comb jellies"
+-----> English `cteno-`
+
+--> Italic
+---> Latin `pecten`: "comb, scallop, pubic hair"
+----> English `pecten` (not to be confused with unrelated `pectin`)
+
+
+-> Proto-Indo-European <*poḱsmn̥>
+
+--> Indo-Iranian <*páćšma>: "wool, fleece, bristles"
+---> Indo-Aryan <*páṭṣma>
+----> Sanskrit `𑀧𑀓𑁆𑀱𑁆𑀫𑀦𑁆` <pákṣman>: "eyelash, whisker, hair"
+-----> Sauraseni `𑀧𑀫𑁆𑀳` <pamha>
+------> Madhya
+-------> Hindi `पपनी` <papnī>: "eyelash"
+---> Iranian <*pášma>
+----> Avestan `𐬞𐬀𐬱𐬨𐬀` <pašma>: "wool"
+----> Northern Iranian
+-----> Scythian
+------> Ossetian `фӕсм` <fæsm>: "wool"
+----> Western Iranian
+-----> Old Persian <*pašma>
+------> Persian `پشم` <pašm>: "wool, chest hair, pubic hair"
+
+
+-> Proto-Indo-European <*poḱsom>
+
+--> Germanic <​​*fahsã>: "(head) hair, mane"
+---> North Germanic
+----> Old Norse `fax`: "mane"
+-----> Icelandic `fax`: "mane"
+-----> Scots `fax`: "sea foam, breakers"
+-----> Old Norse `Skinfaxi`: "Shining-Mane, horse of Day personified"
+-----> Old Norse `Hrímfaxi`: "Frost-Mane, horse of Night personified"
+---> West Germanic
+----> Old English `feax`: "mane, (head) hair"
+-----> English `fax`
+------> English `Fairfax`
+------> English `Shadowfax`
+----> Frankish <*fahs>
+-----> Dutch `vas`
+
+
+endbody
+
+
+
+# `Κύκλωψ` <Kúklōps>: "cyclops" can be understood as "round eye", but this may be an eggcorn of <*pǝḱu-klṓps>: "cattle-thief", after Greek lost the word <*péḱu>. If so, the reinterpretation of the word may have led to a re-envisioning of the creature. (It doesn't take much reconstruction to reach the conclusion that cattle-raids were part of Indo-European culture and mythology.)

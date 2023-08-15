@@ -1,0 +1,111 @@
+date: 20170818
+theme: Horses 🐎
+tags: Animals, Domestic Animals, Chess, Unknown Substrate
+
+startintro
+
+This one is really cool and just might go back all the way to the original domestication of horses in Central Asia. Maybe—just maybe—the Thai word for the knight piece in chess and the Welsh word for the knight piece in chess might be cognates 5500 years separated.
+
+endintro
+
+
+startbody
+
+Central Asian substrate <*m()raŋ()>: "horse?"
+
+
+?> Celtic <*markos>: "horse"
+--> Brythonic <*marx>: "horse"
+---> Welsh `march`: "horse"
+--> Gaulish <markos>: "horse"
+---> Galatian `μάρκαν` <márkan>
+--> Old Irish
+---> Irish `marc`: "horse" (archaic)
+--> Celtic <*markākos>: "horseman"
+---> Brythonic
+----> Welsh `marchog`: "horseman, knight" (also the chess piece)
+---> Old Irish
+----> Irish `marcach`: "horseman, cavalry"
+
+--> Germanic <*marhaz>: "horse"
+---> East Germanic
+----> Gothic <*marhs>
+----?> Eastern Romance
+------> Albanian `magar`: "donkey"
+------> Romanian `măgar`: "donkey"
+---> North Germanic
+----> Old Norse `marr`: "horse"
+---> West Germanic
+----> Frankish <*marh>: "horse"
+-----> Frankish <*marhskalk>: "horse-servant, stable boy"
+------> Italian `maniscalco`: "farrier, blacksmith"
+------> Old French `marescal`: "marshal" (person in charge of the horses for an army. Later, very high ranked officer)
+-------> French `maréchal`: "marshal"
+-------> French `maréchal-ferrant`: "farrier"
+-------> English `marshal`
+-------> Spanish `mariscal`: "marshal"
+------> Dutch `maarschalk`: "marshal" (meaning changed by influence from French)
+----> Lombardic <*marah>: "horse"
+-----> Lombardic <*marah-hemma>: "horse-pen"
+------> Italian `Maremma`: "place name, the coastal plain of southern Tuscany"
+---> Germanic <*marhijō>: "mare, female horse"
+----> North Germanic
+-----> Old Norse `merr`: "mare"
+------> Danish `mær`
+------> Icelandic `meri`: "mare"
+----> West Germanic
+-----> Old English `mīere`: "mare"
+------> English `mare`
+-----> Frankish <*meria>
+------> Dutch `merrie`: "mare"
+-----> Old High German `meriha`
+------> German `Mähre`: "mare"
+
+
+?> Sino-Tibetan <*k-m-raŋ>
+
+--> Old Chinese <*mrāʔ>
+---> Middle Chinese
+----> Mandarin `馬` <mǎ>: "horse" (also the chess piece)
+---> Min
+----> Hokkien `馬` <bé>: "horse"
+---> Tai <*maːᶜ>: "horse"
+----> Thai `ม้า` <máa>: "horse" (also the chess piece)
+----> Lao `ມ້າ` <mā>: "horse"
+
+--> Tibeto-Burman <*mrāŋ>: "horse"
+---> Tibetan `རྨང` <rmang>: "horse" (archaic)
+
+?> Korean `말` <mal>: "horse"
+-?> Japonic <*mma>
+---> Japanese `うま` <uma>: "horse" (also a shogi piece)
+----> Ainu `ウンマ` <umma>: "horse"
+---> Okinawan `っんま` <'nma>: "horse"
+
+?>  Mongolian `ᠮᠣᠷᠢ` <mori>: "horse" (also the chess piece)
+
+?> Nihali <māv>: "horse"
+
+?> Old Tamil `𑀫𑀸` <mā>: "horse"
+--> Tamil `மா` <mā>: "animal, beast, horse, elephant"
+
+?> Tungusic
+--> Evenki `мурин` <murin>: "horse"
+--> Manchu `ᠮᠣᡵᡳᠨ` <morin>: "horse"
+
+?> Vietic <*m-ŋəːʔ>
+--> Vietnamese `ngựa`: "horse"
+
+?> Indo-Iranian
+--> Indo-Aryan
+---> Sanskrit `𑀫𑀾𑀕` <mṛga>: " hoofed animal, deer, antelope"
+
+
+endbody
+
+
+
+startnotes
+
+
+endnotes

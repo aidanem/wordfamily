@@ -1,0 +1,282 @@
+date: 20220114
+tags: Runes
+
+
+
+startbody
+
+Proto-Indo-European <*gʰebʰ->: "to give"
+
+-> Proto-Indo-European <*gʰebʰeti>
+
+-?> Balto-Slavic
+---> East Baltic
+----> Lithuanian `gebė́ti`: "to be able, to tend to"
+
+--> Germanic <*gebanã>: "to give"
+---> East Germanic
+----> Gothic `𐌲𐌹𐌱𐌰𐌽` <giban>: "to give"
+---> North Germanic `ᚷᛁᛒᚢ` <gibu>: "give" #
+----> Old Norse `gefa`
+-----> Danish `give`: "to give"
+-----> Icelandic `gefa`: "to give"
+-----> English `give`
+---> West Germanic
+----> Old English `ġiefan`: "to give"
+-----> English `give`
+----> Frankish
+-----> Dutch `geven`: "to give"
+----> Old High German `geban`: "to give"
+-----> German `geben`: "to give"
+-----> Yiddish `געבן` <gebn>: "to give"
+
+---> Germanic <*gebō>: "gift, the rune ᚷ"
+----> East Germanic
+-----> Gothic `𐌲𐌹𐌱𐌰` <giba>: "gift, the letter 𐌲"
+----> North Germanic
+-----> Old Norse `gjǫf`: "gift"
+------> Icelandic `gjöf`: "gift"
+----> West Germanic <*gebu>
+-----> Old English `ġiefu`: "gift, the rune ᚷ"
+------> English `gyfu`
+-----> Old High German `geba`: "gift"
+----> Germanic <*Gudagebō>: "God-Gift (personal name)"
+-----> East Germanic
+------> Gothic
+-------> Galician `Guxeva`
+-----> West Germanic
+------> Old English `Godġifu`
+-------> English `Godiva`
+----> West Germanic <*gābā> (alternate form)
+-----> Frankish
+------> Dutch `gave`: "gift"
+-----> Old High German
+------> German `Gabe`: "gift, dose"
+------> Yiddish `גאָב` <gob>: "gift"
+-----> Old Saxon <*gāva>
+------> Low German `Gaav`: "gift"
+------> Plautdietsch `Gow`: "gift"
+------> Old Norse `gáfa`
+-------> Danish `gave`: "gift"
+-------> Icelandic `gáfa`: "gift"
+
+
+---> Germanic <*giftiz>: "gift, an act of giving"
+----> East Germanic
+-----> Gothic <*gifts>
+------> Gothic `𐍆𐍂𐌰-𐌲𐌹𐍆𐍄𐍃` <fra-gifts>: "to give away"
+----> North Germanic
+-----> Old Norse `gipt`: "gift, good luck"
+------> English `gift`
+----> West Germanic
+-----> Old English `ġift`: "dowry, marriage"
+------> English `gift`
+-----> Old High German
+------> German `Gift`: "poison"
+-------> Danish `gift`: "poison"
+------> Old High German `mitgift`
+-------> German `Mitgift`: "dowry"
+------> Yiddish `גיפֿט` <gift>: "poison"
+
+---> Germanic <*gabulã>
+----> West Germanic
+-----> Old English `gafol`: "gift, tribute, due, profit, interest, usury"
+------> English `gavel`
+-------> English `gavelkind`
+
+---> Germanic <*gabī̃>: "wealth"
+----> East Germanic
+-----> Gothic `𐌲𐌰𐌱𐌴𐌹` <gabei>: "wealth"
+
+
+-> Proto-Indo-European <*gʰobʰeti??>
+
+--> Balto-Slavic <*gabtei>
+---> East Baltic
+----> Lithuanian `góbti`: "to grab, to take, to cover up"
+---> Slavic <*gabati>
+----> East Slavic
+-----> Ukrainian `га́бати` <hábaty>: "to seize"
+----> South Slavic
+-----> Serbo-Croatian `hȁbati`: "to wear out, to abrade"
+----> West Slavic
+-----> Polish `gabać`: "to accost, to accuse, to sue"
+
+
+-> Proto-Indo-European <*gʰébʰos>
+--> Proto-Indo-European <*gʰébʰestis>: "hand, arm"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀕𑀪𑀲𑁆𑀢𑀺` <gábhasti>: "fork, hand, arm, sunbeam"
+
+
+?> Proto-Indo-European <*gʰébʰl̥>: "head"
+
+--> Germanic <*gebla>: "head, top, summit, gable"
+---> East Germanic
+----> Gothic `𐌲𐌹𐌱𐌻𐌰` <gibla>: "pinnacle"
+---> North Germanic
+----> Old Norse `gafl`: "gable"
+-----> Danish `gavl`: "gable"
+-----> Icelandic `gafl`: "gable"
+-----> Old French `gable`: "gable"
+------> French `gâble`: "gable"
+------> English `gable`
+---> West Germanic <*gebl>
+----> Old High German `gebal`: "head, skull"
+---> West Germanic <*gebil>
+----> Frankish
+-----> Dutch `gevel`: "face of a building, facade"
+----> Old High German `gibil`
+-----> German `Giebel`: "gable"
+
+--> Hellenic <*képʰəl>
+---> Hellenic <*kepəlā́>
+----> Ancient Greek `κεφᾰλή` <kephalḗ>: "head, provincial governor"
+-----> Ancient Greek `κεφᾰ́λῐον` <kephálion> (diminutive)
+------> Greek `κεφάλι` <kefáli>: "head"
+-----> Coptic `ⲕⲉⲫⲁⲗⲏ` <kephalē>: "head"
+-----> English `cephalo-`
+------> English `cephalopod`
+----> Ancient Macedonian `κεβλή` <keblḗ>: "head"
+-----> Ancient Macedonian `κεβλήπῠρῐς` <keblḗpuris>: "firecrest (bird)"
+------> Ancient Greek `κεβλήπῠρῐς` <keblḗpuris>: "firecrest (bird)"
+
+
+--> Tocharian <*ćäpāl>: "head"
+---> Arshian <śpāl>: "head"
+---> Kushean <śpāl>: "head"
+
+
+?> Proto-Indo-European <*gʰeh₁bʰ->: "to grab, to take"
+
+--> Proto-Indo-European <​​*gʰéh₁bʰt>
+
+---> Italic <*hēpai>
+----> Oscan <hipid>: "takes"
+-----> Oscan <pruhipid>: "prevents"
+
+--> Proto-Indo-European <*gʰh̥₁bʰéh₁yeti>
+
+---> Italic <*habēō>
+----> Latin `habeō`: "I have, I hold, I own"
+-----> Sardinian `àere`: "to have"
+-----> Eastern Romance
+------> Romanian `a avea`: "to have
+-------> Romanian `avere`: "possesions, weath"
+-----> Western Romance
+------> French `avoir`: "to have"
+------> Italian `avére`: "to have"
+------> Spanish `haber`: "to have"
+-----> Latin `exhibeō`: "I hold out, I deliver, I supply, I give up, I show, I reveal"
+------> English `exhibit`
+-----> Latin `inhibeō`
+------> English `inhibit`: "I hold in, I restrain, I inhibit"
+-----> Latin `prohibeō`: "I hold forward, I keep away, I protect, I forbid"
+------> English `prohibit`
+-----> Latin `habeās corpus ad subjiciendum`: "have the person to be subjected" (i.e., "bring the detainee to the court")
+------> English `habeas corpus`
+-----> Latin `habilis`: "able to have, having the ability, sufficient, suited"
+------> Western Romance
+-------> Old French
+--------> French `habile`: "skillful"
+--------> Dutch `abel`: "able, capable"
+--------> English `able`
+-------> Italian `abile`: "skillful, able"
+-------> Spanish `hábil`: "suitable, able, skillful"
+------> Translingual `Homo habilis`
+------> Latin `habilitō`: "I make suitable, I empower, I enable"
+-------> English `habilitate`
+-------> Latin `habilitās`: "ability, suitability, fitness"
+--------> English `ability`
+-----> Latin `habēna`: "thong, rein"
+------> Brythonic <*aβuɨn>
+-------> Welsh `awen`: "rein"
+-----> Latin `habitō`: "I reside, I inhabit"
+------> Latin `habitat`: "it resides" ##
+-------> English `habitat`
+-----> Latin `habitus`
+------> English `habit`
+-----> Latin `inhabitō`
+------> English `inhabit`
+----> Umbrian `𐌇𐌀𐌁𐌉𐌀` <habia>
+
+
+--> Proto-Indo-European <*gʰh̥₁bʰyéti>
+
+---> Celtic <*gabyeti>: "grabs, seize, holds"
+----> Brythonic
+-----> Welsh `gafael`: "to hold, to grasp"
+----> Celtiberian <kabizeti>
+----> Gaulish <gabi>
+----> Old Irish `gaibid`: "to hold, to take, to seize, to put on"
+-----> Irish `gabh`: "to take, to arrest, to come, to go"
+-----> Old Irish `con·gaib`: "to contain, to keep, to uphold"
+------> Irish `coinnigh`: "to maintain, to hold, to store"
+-----> Old Irish `fo·ácaib`: "to leave, to relinquish"
+------> Irish `fág`: "to leave, to drop off"
+
+
+
+--> Proto-Indo-European <*gʰh̥₁bʰleh₂> (derived noun)
+
+---> Celtic <*gablā>: "fork"
+----> Brythonic <*gaβl>
+-----> Welsh `gafl`: "crotch"
+-----> Brythonic <*hɨnn ɣėβl>: "the Twin Forks (place name)" (dual form)
+------> Welsh `Yr Eifl`
+----> Gaulish <gabalos>
+-----> West Germanic <*gabulu>: "fork, pitchfork"
+------> Old English `gafol`: "fork"
+------> Frankish
+-------> Dutch `gaffel`: "any two-pronged fork, pitchfork or antler"
+--------> Dutch `gaffelzeil`: "gafsail"
+---------> English `gaffsail`
+--------> English `gaffle`
+------> Old High German
+-------> German `Gabel`: "fork, pitchfork, prong"
+-------> Yiddish `גאָפּל` <gopl>: "fork"
+------> Old Saxon
+-------> Low German `Gavel`
+-------> Danish `gaffel`: "fork"
+--------> Icelandic `gaffall`: "fork"
+-------> Swedish `gaffel`: "fork"
+--------> Finnish `kahveli`: "gaff, fork"
+------?> Old Occitan `gaf`: "hook"
+--------> French `gaffe`: "boathook"
+---------> English `gaff`
+----------> English `gaffer`
+-----------> English `gaffer tape`
+----------> English `gaffsail`
+-----> Latin `gabulus`: "gallows, cross"
+------> Vulgar Latin
+-------> Vulgar Latin <*gabalottus>: "spear, javelin" (diminutive)
+--------> Western Romance
+---------> Old French `javelot`: "javelin"
+----------> French `javelot`: "javelin"
+----------> Italian `giavellotto`: "javelin"
+----------> Old French `javelline` (another diminutive)
+-----------> English `javelin`
+-----------> Spanish `jabalina`: "javeline"
+----> Old Irish `gabul`: "fork, forked branch, gallows"
+-----> Irish `gabhal`: "fork, branch, crotch, udder"
+
+endbody
+
+
+
+startnotes
+
+# "Gift" is exactly the kind of word that shows up in early runic inscriptions on objects. For example:
+
+Proto-Norse `ᚷᛁᛒᚢ` <gibu> is on the Sjaelland bracteate 2: `ᚺᚨᚱᛁᚢᚺᚨᚺᚨᛁᛏᛁᚲᚨ᛬ᚠᚨᚱᚨᚢᛁᛋᚨ᛬ᚷᛁᛒᚢᚨᚢᚽᚨ᛬ᛏᛏᛏ` <hariuha haitika : farauisa : gibu auja : ttt>: "Hariuha, I am called, the Farwise. [I] give good fortune. T(ýr)" (really the three `ᛏ` runes are stacked on top of each other, thought to signify the god Tyr)
+
+The past tense of the same verb appears on the Stentoften Runestone: `ᚺᚼᚦᚢᚹᛟᛚᚼᚠᛦᚷᚼᚠᛃ` <Haþuwulfz gaf j>: "Hathuwulf gave (a bountiful) y(ear)", with the `ᛃ` rune similarly standing in for the word "year".
+
+
+## Latin `habitat` is the 3rd person singular of `habitō`: "I reside, I inhabit", that is "it resides". This was used by Linnaeus to describe the place a species could be found. So this word became a shorthand for the geographical range of a species.
+
+
+
+endnotes

@@ -1,0 +1,65 @@
+date: 20170324
+theme: Horses
+tags: Animals, Domestic Animals
+
+
+
+startbody
+
+
+??
+
+?> Turkic
+--> Old Turkish <käväl>: "horse?" #
+--> Persian <?> <kaval>: "a kind of horse?" #
+-?> Proto-Slavic <*kobyla>: "mare (female horse)"
+---> Russian `кобы́ла` <kobýla>: "mare"
+---> Polish <kobyła>: "mare"
+
+?> Saka <kabä>: horse?
+
+?> Ancient Greek `καβάλλης` <kabállēs>: "nag, pony"
+
+?> Proto-Celtic <*capallos>
+--> Brythonic <*kappilos>: "horse"
+---> Welsh `ceffyl`: "horse"
+----> English `Cavall` ##
+----> English `Cabal` ##
+---> Breton `kefel`: "horse"
+--> Old Irish `capall`: "horse"
+---> Irish `capall`: "horse"
+---> Manx `cabbyl`: "horse"
+---> Scottish Gaelic `capall`: "horse"
+----> Scottish Gaelic `capall-coille`: "capercaillie" (lit. "horse of the forest")
+-----> Scots
+------> English `capercaillie`
+--> Gaulish <capallos>: "horse"
+--?> Latin `caballus`: "pack horse, nag" (starts to replace Classical `equus` in Late Latin)
+----> Western Romance
+-----> French `cheval`: "horse"
+-----> Spanish `caballo`: "horse" (also the chess piece)
+------> Classical Nahuatl `cahuāllo`: "horse"
+------> Tagalog `kabayo`: "horse"
+----> Late Latin `caballārius`: "horseman, rider"
+-----> Western Romance
+------> Old Provençal `cavalier`: "horseman, rider"
+-------> French `chevalier`: "knight" (also the chess piece)
+--------> French `chevalerie`: "knighthood, nobility, chivalry"
+---------> English `chivalry`
+-------> Italian `cavaliere`: "rider, cavalry, knight, gentleman"
+--------> English `cavalier`
+--------> Italian `cavalleria`: "cavalry, chivalry"
+---------> French `cavalerie`: "cavalry"
+----------> English `cavalry`
+------> Spanish `caballero`: "gentleman, cowboy, horseman, knight"
+
+endbody
+
+startnotes
+
+
+# I've seen the Persian word <kaval> variously defined as "swift horse", "slow, clumsy horse", "second class horse of mixed blood". For both this and (Old) Turkish <keväl>, I can't find any reference to them outside of etymological discussions, so I don't have clear definitions, or the Persian orthography. This partly due to research interference with the Persian and Turkish flute called <kaval>.
+
+## The name of King Arthur's favorite hunting dog, spelled either `Cabal` or `Cavall`
+
+endnotes

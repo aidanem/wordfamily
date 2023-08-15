@@ -1,0 +1,247 @@
+date: 20190830
+tags: Body Parts, Colors
+
+startintro
+
+Indo-European seems to have had two words for "blood" <*krewh₂->: "spilled blood, blood outside the body" (with extended meanings of bloodshed and cruelty) contrasts to <*h₁ésh₂r̥>: "flowing blood, living blood" (with extended meanings of family).
+
+The root <*krews-> is probably a derived root, and means "to harden, to coagulate, to crust over"—i.e. what blood does outside the body. The meaning was then extended to water freezing and other similar processes.
+
+endintro
+
+
+
+startbody
+
+
+Proto-Indo-European <*krewh₂->: "spilled blood, blood outside the body"
+
+
+-> Proto-Indo-European <*kréwh₂s>: "blood"
+
+--> Balto-Slavic <*krū́ˀs>
+---> Slavic <*kry̑>: "blood" (oblique stem <*krъ̏v->)
+----> East Slavic `крꙑ` <kry>: "blood"
+-----> Russian `кровь` <krovʹ>: "blood"
+-----> Ukrainian `кров` <krov>: "blood"
+----> South Slavic
+-----> Bulgarian `кръв` <krǎv>: "blood"
+-----> Old Church Slavonic `крꙑ` <kry>: "blood"
+-----> Serbo-Croatian `кр̑в` <kȓv>: "blood, gore, family, descent"
+----> West Slavic
+-----> Czech `krev`: "blood"
+-----> Polish `krew`: "blood"
+
+--> Hellenic <*kréwas>
+---> Classical Greek `κρέας` <kréas>: "flesh, meat, carcass"
+----> Classical Greek `κρεάγρα` <kreágrā>: "meat-hook" (lit. "meat-catching")
+----> Classical Greek `πάγκρεας` <pánkreas>: "pancreas" (lit. "all-meat")
+-----> Greek `πάγκρεας` <págkreas>: "pancreas"
+-----> Latin `pancreas`
+------> English `pancreas`
+
+--> Indo-Iranian <*krawíš>
+---> Indo-Aryan
+----> Sanskrit `𑀓𑁆𑀭𑀯𑀺𑀲𑁆` <kravís>: "raw flesh, carrion"
+
+--> Italic <*kruwōs> (from the collective)
+---> Latin `cruor`: "blood, gore, bloodshed, murder"
+
+----> Latin `cruentō`: "I make bloody, I stain with blood"
+-----> Eastern Romance
+------> Romanian `crunta`
+-------> Romanian `încrunta`: "to blush, to frown, to scowl" ("to en-bloody, to stain with blood from the inside")
+-----> Western Romance
+------> Spanish `cruentar`
+-----> Latin `cruentus`: "bloody, blood-stained, cruel, crimson"
+------> Central Romance
+-------> Italian `cruento`: "bloody, gory"
+------> Eastern Romance
+-------> Romanian `crunt`: "cruel, violent, terrible"
+
+
+-> Proto-Indo-European <*krowhyós>: "bloody"
+--> Proto-Indo-European <*krowhyóm>: "bloody thing, raw flesh" (neuter substantive) 
+
+--> Balto-Slavic <*krauja>: "blood"
+---> East Baltic
+----> Lithuanian `kraũjas`: "blood"
+---> West Baltic
+----> Old Prussian `crauyo`: "blood"
+
+--> Germanic <*hraiwą>: "corpse, carcass, body" (metathesis)
+---> East Germanic
+----> Gothic <*hraiwa>
+-----> Gothic `𐌷𐍂𐌰𐌹𐍅𐌰𐌳𐌿𐌱𐍉` <hraiwadūbō>: "turtledove" (lit. "corpse-dove")
+---> North Germanic
+----> Old Norse `hræ`: "corpse, carrion, wreck"
+-----> Icelandic `hræ`: "carcass, worn out machine"
+------> Icelandic `hrææta`: "scavenger, corpse-eater"
+---> West Germanic
+----> Old English `hrǣw`: "corpse, carrion, body (alive or dead)"
+-----> Old English `hrāfyl`: "slaughter"
+----> Frankish
+-----> Dutch `reeuw`: "corpse"
+
+
+--> Indo-Iranian <*krawyám>
+---> Indo-Aryan
+----> Sanskrit `𑀓𑁆𑀭𑀯𑁆𑀬` <kravyá>: "raw flesh, carrion"
+
+
+
+
+-> Proto-Indo-European <*krowh₂wós>: "bloody"
+
+-> Celtic <*krowos>
+--> Brythonic <*krow>
+---> Welsh `crau`: "blood, gore, carnage"
+----> Welsh `creulon`: "bloody, cruel, fierce, sudden, cruel person, tyrant"
+--> Old Irish `crú`: "blood"
+---> Irish `cró`: "blood"
+
+--> Germanic <*hrawaz>
+---> North Germanic
+----> Old Norse `hrár`: "raw, fresh, sappy"
+-----> Danish `rå`: "raw, crude, rough"
+-----> Icelandic `hrár`
+---> West Germanic <*hrau>
+----> Old English `hrēaw`: "raw"
+-----> English `raw`
+----> Frankish <*rao>
+-----> Dutch `rauw`: "raw, hard, cruel"
+----> Old High German `rō`
+-----> German `roh`: "raw, crude, rude"
+-----> Yiddish `רוי` <roy>: "raw"
+---> Finnic <*raaka>
+----> Finnish `raaka`: "raw, crude"
+
+
+
+-> Proto-Indo-European <*krewh₂odʰos>: "bloody"
+
+--> Celtic <*kroudis>
+---> Old Irish `crúaid`
+----> Irish `crua`: "severe, harsh, difficult, hard, hardness"
+-----> Irish `cruach`: "steel"
+
+--> Italic <*krowoðos>
+---> Latin `crūdus`: "raw, bloody, bleeding, unprepared, rough, cruel, crude"
+----> Central Romance
+-----> Italian `crudo`: "raw, hard, harsh"
+----> Eastern Romance
+-----> Romanian `crud`: "raw, unripe, cruel"
+----> Western Romance
+-----> French `cru`: "raw"
+------> French `écru`: "raw, unprocessed, unbleached"
+-------> English `ecru`
+------> Spanish `crudo`: "raw, crude, harsh"
+----> English `crude`
+
+----> Latin `crūdēlis`: "unfeeling, rude, cruel"
+----> Central Romance
+-----> Italian `crudele`: "cruel"
+----> Western Romance
+-----> French `cruel`
+------> English `cruel`
+-----> Spanish `cruel`: "cruel"
+
+----> Latin `crūditās`
+-----> Central Romance
+------> Italian `crudità`: "rawness, coarseness, crudités"
+-----> Western Romance
+------> French `crudité`: "rawness"
+-------> French `crudités`
+--------> English `crudités`
+
+
+-?> Proto-Indo-European <*krews->: "to harden, to freeze, to coagulate"
+
+
+---> Proto-Indo-European <*krustós>: "hardened, frozen" (adjective)
+
+----> Hellenic <*krustós>
+----?> Classical Greek `κρύσταλλος` <krústallos>: "ice, rock crystal" #
+------> Greek `κρύσταλλο` <krýstallo>: "crystal, ice"
+------> Latin `crystallus`
+-------> Western Romance
+--------> French `cristal`: "crystal"
+--------> Spanish `cristal`: "crystal, glass, window pane"
+-------> Old English `cristalla`
+--------> English `crystal`
+-------> Old High German `cristalla`
+--------> German `Kristall`: "crystal, crystal glass"
+---------> Serbo-Croatian `крѝста̄л` <krìstāl>: "crystal"
+---------> German `Kristallnacht`
+----------> English `Kristallnacht`
+
+----> Indo-Iranian
+-----> Iranian
+------> Avestan `𐬑𐬭𐬎𐬰𐬛𐬭𐬀‎` <xruzdra>: "hard"
+
+----> Italic
+-----> Latin `crusta`: "hard outer surface: rind, bark, shell, crust, scab"
+------> Central Romance
+-------> Italian `crosta`: "crust, scab, rind"
+--------> Italian `crostino`: "crouton, canapé" (diminutive)
+---------> English `crostini` (from the plural)
+------> Eastern Romance
+-------> Romanian `crustă`: "crust"
+------> Western Romance
+-------> Old French `cruste`
+--------> French `croûte`: "crust, scab"
+---------> French `croûton`: "(bread) heel, crouton"
+----------> English `crouton`
+--------> English `crust`
+--------> French `croustade`
+---------> English `custard`
+-------> Spanish `costra`: "crust, scab, snot"
+------> New Latin `Crustacea`: "shelled"
+-------> English `crustacean`
+
+
+---> Proto-Indo-European <*kruswós>: "hardened, frozen" (adjective)
+
+----> Balto-Slavic
+-----> Latvian `kruvesis`: "frozen ground"
+
+---?> Hellenic
+-----> Classical Greek `κρῠ́ος` <krúos>: "cold, ice, frost" #
+------> English `cryo-`
+
+
+---> Proto-Indo-European <*krusmós> (adjective)
+
+----> Hellenic
+----?> Classical Greek `κρυμός` <krumós>: "icy cold, frost" #
+
+
+---> Proto-Indo-European <*krus(t)émn̥> (noun)
+
+----> Tocharian
+-----> Arshian <krośśäṃ>: "cold"
+-----> Kushean <krośce>: "cold"
+
+
+---> Proto-Indo-European <*kruseh₂> (noun)
+
+----> Balto-Slavic
+-----> Lithuanian `krušà`: "icefloe"
+-----> Slavic
+------> East Slavic
+-------> Ukranian `кри́га` <krýha>: "ice"
+
+----> Germanic <*hrusa>: "ground, crust, ice"
+-----> West Germanic
+------> Old English `hruse`: "earth, ground"
+------> Old High German `rosa`: "crust, ice"
+
+endbody
+
+startnotes
+
+
+# All of the Greek forms connected to <*krews-> are problematic. `κρυμός` <krumós> and `κρῠ́ος` <krúos> both share an unexplained loss of an 's'. `κρύσταλλος` <krústallos> has the `-αλλο-` <-allo-> suffix, which is generally considered to mark a word borrowed from (non-Hellenic) Pre-Greek. And yet, the connection to the rest of the Indo-European words is too strong to ignore. 
+
+endnotes
+

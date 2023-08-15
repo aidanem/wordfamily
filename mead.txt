@@ -1,0 +1,244 @@
+date: 20180309
+theme: Bees 🐝
+tags: Alcohol, Animals
+
+startbody
+
+Unknown source
+
+?> Proto-Indo-European <*mélit>: "honey" #
+
+--> Albanian `mjaltë`: "honey"
+
+--> Anatolian
+---> Hittite `𒈪𒇷𒀉` <mi-li-it>: "honey"
+
+--> Armenian `մեղր` <mełr>: "honey"
+---> Armenian `մեղու` <mełu>: "bee"
+
+--> Celtic <*meli>: "honey"
+---> Brythonic
+----> Welsh `mêl`: "honey"
+---> Old Irish `mil`
+----> Irish `mil`: "honey"
+---> Celtic <*melissis>: "honey-like"
+----> Old Irish `milis`
+-----> Irish `milis`: "sweet"
+
+--> Germanic <*mili>: "honey"  (mostly in compounds)
+---> East Germanic
+----> Gothic `𐌼𐌹𐌻𐌹𐌸` <miliþ>: "honey"
+---> West Germanic
+----> Old English `mele`: "honey"
+
+---> Germanic <*milidawwaz>: "mildew, honeydew"
+----> West Germanic
+-----> Old English `mildēaw`
+------> English `mildew`
+-----> Old High German `militou`
+------> German `Mehltau`: "mildew"
+
+---> Germanic <*miliskaz>: "honey-ish, honeyed"
+----> North Germanic
+-----> Old Norse
+------> Icelandic `milska`:"a honeyed drink"
+----> West Germanic
+-----> Old English `milisc`: "mellow, mild, sweet"
+------> English `mulch`
+
+--> Hellenic
+---> Mycenaean Greek `𐀕𐀪` <me-ri>: "honey"
+---> Classical Greek `μέλῐ` <méli>: "honey, anything sweet"
+----> Greek `μέλι` <méli>: "honey"
+----> Hawaiʻian `meli`: "honey" ##
+----> Classical Greek `ὑδρόμελι` <hudrómeli>: "mead, honey diluted in water, mead before fermentation"
+-----> Latin `hydromel(i)`: "mead"
+------> French `hydromel`: "mead"
+------> Italian `idromele`: "mead"
+----> Classical Greek `μελίμηλον` <melímēlon>: "a kind of apple, a drink made from this kind of apple" (lit. "honey-apple")
+-----> Latin `melimēlum`: "sweet apple"
+------> Portuguese `marmelo`: "quince"
+-------> Portuguese `marmelada`: "quince jam"
+--------> French `marmelade`: "marmelade"
+---------> English `marmelade`
+
+--> Italic
+---> Latin `mel`: "honey, sweetness"
+----> Sardinian `mele`: "honey"
+----> Eastern Romance
+-----> Romanian `miere`: "honey"
+----> Western Romance
+-----> French `miel`: "honey"
+-----> Italian `miele`: "honey, sweetness"
+-----> Spanish `miel`: "honey"
+------> Spanish `aguamiel`: "mead"
+----> Latin `mellifluus`: "flowing with honey, mellifluous"
+-----> English `mellifluous`
+-----> Italian `mellifluo`: "sugary, honeyed, mellifluous"
+
+
+--> Proto-Indo-European <*melítih₂>: "bee"
+
+---> Albanian `bletë`: "bee"
+
+---> Hellenic
+----> Classical Greek `μέλισσᾰ` <mélissa>: 'bee, honey, poet"
+-----> Greek `μέλισσα` <mélissa>: "bee"
+-----> Classical Greek `Μέλισσᾰ` <Mélissa> ###
+------> Latin `Melissa`
+-------> English `Melissa`
+
+
+
+?> Proto-Indo-European <*médʰu>: "mead, honey" #
+
+--> Balto-Slavic <*medus>
+---> East Baltic
+----> Lithuanian `medus`: "honey"
+---> West Baltic
+----> Old Prussian `meddo`: "honey"
+---> Slavic <*mȇdъ>: "honey, mead"
+----> East Slavic
+-----> Russian `мёд` <mjod>: "honey, mead"
+----> South Slavic
+-----> Serbo-Croatian `ме̑д` <mȇd>: "honey"
+-----> South Slavic
+------> Serbo-Croatian `медовина` <medovina>: "mead"
+----> West Slavic
+-----> Polish `miód`: "honey"
+----> Romanian `mied`: "mead"
+----> Slavic <*medvě̀dь>: "honey-eater, bear (euphemism)" ####
+-----> East Slavic `медвѣдь` <medvědĭ>: "bear"
+------> Russian `медве́дь` <medvédʹ>: "bear"
+-----> South Slavic
+------> Serbo-Croatian `мѐдвед` <mèdved>: "bear"
+-----> West Slavic
+------> Czech `medvěd`: "bear"
+------> Polish `niedźwiedź`: "bear"
+
+
+--> Celtic <*medu>: "mead"
+---> Brythonic
+----> Welsh `medd`: "mead" #####
+---> Old Irish `mid`
+----> Irish `miodh`: "mead, metheglin"
+---> Gaulish `medu`
+
+--> Germanic <*meduz>
+---> East Germanic
+----> Gothic <médo>: "mead"
+----> Lithuanian `midus`: "mead"
+---> North Germanic
+----> Old Norse `mjǫðr`: "honey, mead"
+-----> Danish `mjød`: "mead"
+-----> Icelandic `mjöður`: "mead, beer"
+---> West Germanic
+----> Old English `medu`: "mead"
+-----> English `mead`
+----> Old High German `metu`
+-----> German `Met`: "mead"
+
+--> Hellenic <*métʰu>
+---> Classical Greek `μέθυ` <méthu>: "wine"
+----> Classical Greek `ᾰ̓μέθῠστος` <améthustos>: "not drunk, sober, not intoxicating, a remedy for drunkenness, an amethyst"
+-----> Greek `αμέθυστος` <améthystos>: "sober, amethyst"
+-----> Latin `amethystus`: "amethyst"
+------> Western Romance
+-------> French `améthyste`: "amethyst"
+--------> English `amethyst`
+-------> Italian `ametista`: "amethyst"
+-------> Spanish `amatista`: "amethyst"
+----> French `méthylène`: "methylene" ######
+-----> English `methylene`
+------> English `methyl`
+-------> English `methane`
+--------> English `methanol`
+
+--> Indo-Iranian <*mádʰu>: "honey, wine"
+---> Indo-Aryan <*mádʰu>
+----> Sanskrit `𑀫𑀥𑀼` <mádhu>: "honey"
+-----> Magadhi
+------> Bengali `মউ` <mu>
+-----> Maharashtri
+------> Marathi `मध` <madh>: "honey"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `मध` <madhu>: "honey"
+------> Pahari
+-------> Nepali `मह` <maha>: "honey"
+------> Western Sauraseni
+-------> Romani `mod`
+-----> Telugu `మధువు` <madhuvu>: "honey, nectar, wine, springtime"
+-----> Sanskrit `मधुर` <madhura>: "sweet, delicious, charming, mellifluous, sweetness, syrup"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `मधर` <madhur>: "sweet, melodious, pleasant"
+------> English `madhura`
+-----> Sanskrit `𑀫𑀥𑀫𑀓𑁆𑀱𑀺𑀓𑀸` <mádhu-makṣikā>: "bee" (lit. "honey-fly")
+------> Magadhi
+-------> Bengali `মৌমাছি` <moumachi>: "bee"
+------> Maharashtri
+-------> Marathi `मधमाशी` <madhmāśī>: "bee"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `मधमक्खी` <madhumakkhī>: "bee"
+-------> Pahari
+--------> Punjabi `ਮਧੁ ਮਕ੍ਖੀ` <madhumakkhī>: "bee"
+-----> Sanskrit `𑀫𑀥𑀓𑀭` <madhukara>
+------> Sauraseni `𑀫𑀳𑀼𑀅𑀭` <mahuara>
+-------> Pahari
+--------> Nepali `मौरी` <maurī>: "bee"
+---> Iranian <*mádu>
+----> Avestan `𐬨𐬀𐬜𐬎` <maδu>: "(berry) wine"
+----> Bactrian `μολο` <molo>: "wine"
+-----> Persian `مل` <mol>: "wine, mead"
+-----> Romani `môl`: "wine"
+-----> Northern Iranian
+------> Scythian <*máδu>
+-------> Ossetian `мыд` <myd>: "honey"
+----> West Iranian
+-----> Old Persian
+------> Persian `می` <may>: "wine, alcohol"
+-----> Kurdish `motî`
+
+--> Tocharian <*ḿət(ə)>
+---> Kushean `mit`: "honey"
+--?> Old Chinese `蜜` <*mit or *mlig>
+----> Mandarin `蜜` <mì>: "honey, honey-colored, besswax, sweet"
+----> Japanese `蜜` <mitsu/michi>: "honey, nectar, syrup"
+----> Korean `밀` <mil>: "honey, beeswax"
+----> Vietnamese `mật`: "honey"
+
+--> Finno-Ugric <*mete>
+---> Finnic <*meci>: "honey"
+----> Finnish `mesi`: "nectar"
+---> Ugric 
+----> Hungarian `méz`: "honey"
+---> Finno-Ugric <*mekši>: "bee"
+----> Finnic <*meši>: "bee"
+-----> Finnish `mehiläinen`: "bee"
+----> Ugric 
+-----> Hungarian `méh`: "bee"
+
+endbody
+
+startnotes
+
+# Neither of the reconstructed PIE words for "honey" have the form of a regular root, so they both presumably derive from unknown earlier forms, or from borrowings. Given that we have two very similar forms, <*mélit> and <*médʰu>, both from unknown sources, both meaning "honey", I think it's a reasonable speculation that they may ultimately come from the same unknown source, either in pre-PIE, or borrowed separately from another source.
+
+
+## Hawaiʻian `meli`: "honey" was coined by missionaries for the 1839 translation of the Bible. English `honey` would have been borrowed as either `hani` or `honi`, which were already words in Hawai'ian meaning "to flirt" and "to kiss", respectively, so the missionaries coined the word from Greek.
+
+
+### `Μέλισσᾰ` <Mélissa> is the name of various people and places, including the nymph who fed the infant Zeus (on milk and honey) while he was hidden from Cronus, and was later turned into a bee.
+
+#### Northern Indo-European language families (that is, the ones historically overlapping the range of the brown bear), often have words for "bear" that derive from euphemisms. This is probably originally taboo avoidance, either due to bear worship or simply to being terrified of brown bears. Germanic uses "brown one" (or possibly "wild") and Slavic uses "honey-eater" to replace the PIE word for "bear", <*h₂ŕ̥tḱos> /wff-arctic.html
+
+
+###### `méthylène`/`methylene` was coined in the 1830s by French chemists Jean-Baptiste Dumas and Eugene Peligot. It is formed (not entirely correctly) from Greek roots `μέθυ` <methu>: "wine" and `ὕλη` <hule>: "woods, forest" as a calque of French `l'esprit de bois`: "wood alchohol".
+
+
+
+#####: Despite all appearance, Welsh `medd`: "mead" is not the origin `meddyglyn` (English `metheglin`), a Welsh spiced mead. `meddyglyn` is actually `meddyg-lyn`: "medicinal brew", with `meddyg` a borrowing from Latin `medicus`, and `llyn` from Celtic <*lindom>: "lake, liquid", which is also the origin of `Lincoln`.
+
+endnotes

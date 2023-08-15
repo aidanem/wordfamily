@@ -1,0 +1,401 @@
+date: 2023-06-23
+tags: Pride in Words
+
+
+startintro
+
+The attempt to brand `cis(gender)` as a slur is not truly about the word itself—they wouldn't be any happier with any other word that was used for the same meaning—but an attempt to deny the very category of "cisgender" and thus by extension the existence of "transgender".
+
+But since the word itself is often attacked under pretense, here's its history and relations. And also, its history and relations are inherently interesting!
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*ḱi>: "this, here"
+
+
+-> Anatolian <*ḱí>
+--> Hittite `𒆠𒄿` <ki-i>
+
+
+-> Hellenic <*kéi-> 
+
+--> Hellenic <*é-kei-enos>
+---> Classical Greek `ἐκεῖνος` <ekeînos>: "that, that place, there"
+----> Greek `εκείνος`: "that"
+
+----> Classical Greek `ἐκεῖ` <ekeî>: "there, in that place, dead (euphemism)" (back-formed)
+-----> Greek `εκεί` <ekeí>: "there"
+
+-> Italic <*-ke>
+
+--> Italic <*ek-ke>
+---> Latin `ecce`
+
+--> Italic <*ɣe-k(e)>
+---> Latin `hic`
+
+----> Latin `hīc`
+-----> Western Romance
+------> French `y`
+------> French `ici`
+------> Spanish `aquí`
+
+
+---> Italic <*ɣo-ke>
+----> Latin `hoc`: "that"
+-----> Western Romance
+------> Catalan `òc`: "yes"
+-------> French `Langue d'oc`
+--------> English `Languedoc`
+-----> Vulgar Latin <*hoc ille>: "yes, yes that"
+------> Western Romance
+-------> Old French `oïl`: "yes"
+--------> French `oui`
+---------> Māori `Wīwī`: "France"
+--------> French `langue d'oïl`
+---------> English `langue d'oïl`
+-----> Latin `ad hoc`
+------> English `ad hoc`
+
+--> Italic <*num-ke>
+---> Latin `nunc`: "right now"
+
+--> Italic <*olle-ke>
+---> Latin `illic`: "in that place, there"
+----> Central Romance
+-----> Italian `lì`: "there"
+----> Western Romance
+-----> Spanish `allí`: "there"
+----> Latin `illāc`: "that way, over there"
+-----> Central Romance
+------> Italian `là`: "there"
+-----> Western Romance
+------> French `là`: "there"
+------> Spanish `allá`: "there, over there, back then"
+
+--> Italic <*sei-ke>
+---> Latin `sic`: "thus"
+
+--> Italic <*tom-ke>
+---> Latin `tunc`: "then, from then on, therefore"
+
+----> Late Latin `dunc`: then, therefore" (`tunc` crossed with `dum`: "while, until")
+-----> Central Romance
+------> Dalmatian `duanc`
+------> Italian `dunque`
+-----> Insular Romance
+------> Sardinian `duncas`
+-----> Western Romance
+------> French `donc`
+
+
+-> Proto-Indo-European <*ḱís>: "this here"
+
+--> Balto-Slavic <*śís>: "this"
+---> East Baltic
+----> Lithuanian `šìs`: "this"
+-----> Lithuanian `šiandien`: "today" ("this day")
+---> West Baltic
+----> Old Prussian `sis`
+---> Slavic <*sь>: "this"
+----> East Slavic
+-----> Russian `сей` <sej>: "this (archaic)"
+------> Russian `сейчас` <sejčás>: "now, immediately" (lit. "this time, this hour")
+----> South Slavic
+-----> Old Church Slavonic `сь` <sĭ>: "this, this person, he"
+----> West Slavic
+-----> Polish <-ś>: "some- (forms indefinite pronouns)"
+
+
+--> Germanic <*hiz>: "this" (acc. form <*hinǭ>)
+---> East Germanic
+----> Gothic `𐌷𐌹𐌽𐌰` <hina>: "this (acc.)"
+---> North Germanic
+----> Proto-Norse `ᚺᛁᚾᛟ` <hino>: "this (acc.)" (on the Strøm whetstone)
+---> West Germanic
+----> Old English `hē`: "he, it"
+-----> English `he`
+----> Frankish <*hie>
+-----> Dutch `hij`: "he"
+-----> Dutch `ie`: "he"
+
+
+
+---> Germanic <*hē₂r>: "here" #
+----> East Germanic
+-----> Gothic `𐌷𐌴𐍂` <hēr>: "here"
+----> North Germanic
+-----> Old Norse `hér`: "here"
+------> Danish `her`: "here"
+------> Icelandic `hér`: "here"
+----> West Germanic
+-----> Old English `hēr`: "here"
+------> English `here`
+-----> Frankish <*hiar>
+------> Dutch `hier`: "here, this"
+-----> Old High German `hiar`
+------> German `hier`: "here"
+
+
+
+---> Germanic <*hinō dagō>: "this day"
+----> West Germanic
+-----> Old English `hēodæġ`: "today"
+-----> Frankish <*hiudo>
+------> Dutch `huidig`: "current, present"
+-----> Old High German `hiutu`
+------> German `Heute`: "today"
+
+
+
+
+--> Italic <*kis>
+---> Latin `cis`: "on this side of, before reaching"
+----> Latin `cis-`
+-----> Latin `cisalpīnus`: "cisalpine, on this side of the Alps"
+------> English `cisalpine`
+-----> English `cis-`
+------> English `Cisatlantic`
+------> English `cisatracurium`
+------> English `Ciscaucasia`
+------> English `cisgender`
+-------> English `cis`
+------> English `Cisjordan`
+------> English `Ciskei`
+------> English `Cisplatina`
+------> English `cis-trans isomerism`
+------> English `cistron`
+-------> English `polycistron`
+
+
+
+
+--> Proto-Indo-European <*ḱíteros>: "this one, the one that's here" (contrastive)
+
+---> Germanic <*hidrê>: "to here, hither"
+----> East Germanic
+-----> Gothic `𐌷𐌹𐌳𐍂𐌴` <hidrē>: "hither, here"
+----> North Germanic
+-----> Proto-Norse `ᚺᛖᛞᛖᚱᛡ` <hederᴀ>
+------> Old Norse `heðra`: "here, hither"
+-------> Icelandic `heðra`
+----> West Germanic
+-----> Old English `hider`: "to here, hither"
+------> English `hither`
+
+---> Italic <*kiteros>
+----> Latin `citer`: "on this side, near"
+
+----> Italic <*kitəmos> (superlative)
+-----> Latin `citimus`: "nearest"
+
+
+
+--> Proto-Indo-European <*ḱós>: "this here"
+
+---> Anatolian <*ḱā́s>
+----> Hittite `𒅗𒀀𒀸` <ka-a-aš>
+----> Cuneiform Luwian `𒍝𒀀𒀸` <za-a-aš>
+
+---> Old Armenian <*so->
+----> Old Armenian `սոյն` <soyn>: "this same"
+-----> Armenian `սույն` <suyn>: "this same"
+----> Old Armenian `սա` <sa>: "this"
+-----> Armenian `սա`: "this"
+----> Old Armenian `-ս` <-s>: "this, I"
+-----> Armenian `-ս` <-s>: "my, myself"
+-----> Old Armenian `աստ` <ast>: "here, now"
+
+
+---> Celtic <*koi> (loc.)
+----> Old Irish `ᚕᚑᚔ` <koi>: "here (is buried)"
+
+
+--?> Proto-Indo-European <*ḱóm>: "at, near, beside, with"
+
+----> Balto-Slavic <*śun>
+-----> East Baltic
+------> Lithuanian `sù`: "with"
+-----> Slavic <*sъ(n)>
+
+----> Celtic <*kom->
+-----> Brythonic <*köβ̃->
+------> Welsh `cyf-` (with variants `cym-`, `cy-`)
+------> Brythonic <*kömroɣ>
+-------> Welsh `Cymro`
+-------> Latin `Cambria`
+--------> English `Cambrian`
+-----> Old Irish `com-`
+------> Irish `comh-`
+
+
+----> Germanic <*ga->
+
+
+
+----> Italic <*kom>
+-----> Latin `cum`
+-----> Latin `con-` (with allophonic variants `co-`, `cō-`, `com-`, `col-`, `cor-` depending on following sound)
+------> Latin `concēdere`
+
+
+----> Proto-Indo-European <*ḱomyós>
+
+-----> Hellenic <*koňňós>
+------> Classical Greek `κοινός` <koinós>: "common, public, shared"
+-------> Koine Greek `Κοινή` <Koinḗ>: "Koine Greek" (`ἡ κοινή διάλεκτος` <hē koinḗ diálektos>: "the shared dialect")
+--------> English `Koine`
+
+----> Proto-Indo-European <ḱómno>
+
+-----> Italic <*komno>
+------> Oscan <comono>
+------> Umbrian <kumne>
+
+-----> Tocharian
+------> Kushean <aṅkānmi>: "equally"
+
+----> Proto-Indo-European <ḱm̥ti>
+
+-----> Anatolian
+------> Hittite `𒃰𒋾` <kat-ti>: "along with"
+
+-----> Hellenic <*kasi>
+------> Classical Greek `καί` <kaí>: "and, even, also"
+------> Hellenic <*kasignētós>: "together-born"
+-------> Classical Greek `κασίγνητος` <kasígnētos>: "sibling"
+
+----> Proto-Indo-European <*ḱóm-som->
+
+----?> Hellenic <*kusun>
+------> Mycenaean Greek `𐀓𐀱` <ku-su>: "with"
+------?> Mycenaean Greek `𐀓𐀱𐀵𐀫𐀣` <ku-su-to-ro-qa>: "in total"
+------> Homeric Greek `ξύν` <ksun>: "beside, with"
+-------> Classical Greek `σύν` <sún>: "beside, with"
+--------> Greek `συν` <syn>: "plus, +"
+--------> Classical Greek `συν-` <sun-> (with variants <su->, <sum->, <sug->, <sul->, <sur->, <sus-> depending on following sound)
+---------> English `syn-`
+
+-----> Celtic <ḱóm-smiyo->
+------> Old Irish `cummae`
+-------> Irish `cuma`
+
+----> Proto-Indo-European <*ḱómteros> (contrastive)
+
+-----> Germanic <*hinder>: "behind, beyond"
+------> West Germanic
+-------> Old English `hindan`
+--------> English `hind`
+------> Germanic <*hinderōną>
+-------> West Germanic
+--------> Old English `hindrian`
+---------> English `hinder`
+
+-----> Italic
+------> Latin `contrā`: "against, opposite, in return"
+
+
+
+
+-> Proto-Indo-European <*ḱi-déh₂itis>: "this day" (lit. "this interval, this division")
+--> Pre-Albanian <*tˢjāi-dītei>: "this day, today"
+---> Albanian `sot`: "today"
+
+
+-> Proto-Indo-European <*ḱi-h₂éh₃mr-om>: "this day" (lit. "this heat")
+
+--> Hellenic <*ťi-āmeron>: "this day" (with <​​*ā́mər>: "day, heat")
+---> Classical Greek `σήμερον`: "today"
+----> Greek `σήμερα`: "today"
+
+
+-> Proto-Indo-European <*ḱi-nókʷts>: "this night" ([wff-night])
+--> Pre-Albanian <*tˢjā(i)-naktāi>: "this night"
+---> Albanian `sonte`: "tonight"
+
+
+-> Proto-Indo-European <*ḱi-wétos>: "this year" ([wff-veteran])
+
+--> Pre-Albanian <*tˢjei-wetei>: "this year"
+---> Albanian `sivjet`: "this year"
+
+--> Hellenic <*ťi-wétes>: "this year" ([wff-veteran])
+---> Classical Greek `σῆτες` <sêtes>: "this year"
+
+
+
+?> Proto-Indo-European <*ḱyés-dʰh₁eti>: "moves" (lit. "here-puts")
+
+-?> Indo-Iranian <*sáydʰati>
+---> Indo-Aryan
+----> Sanskrit `𑀲𑁂𑀥𑀢𑀺` <sédhati>: "to go, to move, to drive away, to command, to complete"
+---> Iranian
+----> Avestan `𐬯𐬌𐬌𐬀𐬰𐬛𐬀𐬝` <siiazdat̰>: "will chase away"
+
+
+-?> Italic <*kezdēzi>
+---> Latin `cēdēre`: "to move, to proceed, to result, to withdraw, to disappear, to give up"
+----> English `cede`
+----> Latin `cessāre` (frequentive)
+-----> English `cease`
+----> Latin `cessus`: "given up, surrendered"
+-----> Latin `necesse`: "unavoidable"
+------> English `necessary`
+----> Latin `cessāns`
+-----> Latin `incessāns`
+------> English `incessant`
+----> Latin `abscēdere`
+-----> English `abscess`
+----> Latin `accēdere`
+-----> English `accede`
+-----> English `access`
+----> Latin `antecēdere`
+-----> English `antecedent`
+----> Latin `concēdere`
+-----> English `concede`
+----> Latin `dēcēdere`
+-----> English `decease`
+----> Latin `excēdere`
+-----> English `exceed`
+----> Latin `intercēdere`
+-----> English `intercede`
+----> Latin `praecēdere`
+-----> English `precede`
+----> Latin `procēdere`
+-----> English `procede`
+-----> English `process`
+----> Latin `recēdere`
+-----> English `recede`
+-----> English `recessive`
+----> Latin `sēcēdere`
+-----> English `secede`
+----> Latin `succēdere`
+-----> English `succeed`
+
+
+
+
+endbody
+
+
+
+startnotes
+
+
+# Germanic <*hē₂r>: "here" from Germanic <*hiz>: "this" takes a little bit of special explanation. It is suffixed with the locative *-r that also creates "where" from "who"/"what", "there" from "the"/"that", "yonder" from "yon", etc. But in <**hizr>, *z is deleted before *r, with compensatory lengthening of the vowel.
+
+The same happens in, e.g., Germanic <*hērą>: "hair" (except the lowering of *i to *e), if the theory that it derives from <*kesróm>: "what is combed" is correct: <*kesróm> -> <**hezrą> -> <*hērą>.
+
+But in the case of <**hizr> > <*hē₂r>,  the compensatory lengthening of short <*i> in resulted in the rare phoneme *ē₂, which in most other cases corresponds to PIE <*ei>. Where as for most <*ē> in Germanic, it is preserved as <*ē> in East Germanic, but merges with <*ā> in North and West, <*ē₂> remains <*ē> or merges with <*ī> in North and West Germanic (and merges with <*ē> in East Germanic).
+
+The existence of a phonemic difference in early Proto-Germanic between *ē and *ē₂ is also supported by the existence of the rune *Ē₂haz `ᛇ`, whose function—as separate from *Ēhwaz `ᛖ` and *Īsaz `ᛁ`—was already unclear by the time of the early Proto-Norse inscriptions where it is first attested.
+
+
+endnotes
+
+
+

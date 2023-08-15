@@ -1,0 +1,379 @@
+date: 20190405
+theme: Dinosaurs and Friends🦕 
+
+
+
+startbody
+
+Proto-Afro-Asiatic
+
+?> Egyptian <*qar->: "horn"
+--> Egyptian <qr.tj>: "horns (dual)"
+
+
+?> Semitic <*qarn->: "horn"
+
+--> Central Semitic
+---> Arabic `قَرْن‎` <qarn>: "horn, century"
+----> Maltese `qarn`: "horn"
+---> Northwest Semitic
+----> Aramaic `קַרְנָא`‎ <qarnā>: "horn, corner, angle"
+----> Canaanite
+-----> Hebrew `קֶרֶן‎` <qéren>: "horn, antler, light beam, corner, keratin"
+------> Hebrew `חַד קֶרֶן‎` <ẖad-qéren>: "unicorn"
+-----> Phoenician `𐤍‎𐤓‎𐤒‎` <qrn>
+----> Ugaritic `𐎖𐎗𐎐` <qrn>: "horn"
+--> East Semitic
+---> Akkadian `𒋛` <qarnu>: "horn"
+--> South Semitic
+---> Ethiopic
+----> Amharic `ቀንድ` <ḳänd>: "horn"
+----> Tigrinya `ቀርኒ` <ḳärni>: "horn"
+
+
+-?> Proto-Indo-European <*ḱer(h₂)->: "horn, head, top"
+
+---> Proto-Indo-European <*ḱr̥h₂nó-s>: "horn"
+
+---?> Anatolian
+-----> Luwian <zurni>
+------> Persian `سرنا‎` <sornâ>: "zurna (woodwind instrument)"
+-------> Ottoman Turkish `زورنا‎` <zurnâ>: "zurna"
+--------> Turkish `zurna`
+---------> English `zurna`
+-------> Middle Chinese
+--------> Cantonese `嗩吶` <so2 naap6>: "suona, zurna"
+--------> Mandarian `嗩吶` <suǒnà>: "suona, zurna"
+---------> English `suona`
+
+----> Balto-Slavic <*śírˀnāˀ>: "horn, roe deer"
+-----> Lithuanian `stìrna`: "roe deer"
+-----> Slavic <*sьrna>: "roe deer, chamois"
+------> East Slavic `сьрна` <sĭrna>
+-------> Russian `се́рна` <sérna>: "chamois"
+------> South Slavic
+-------> Serbo-Croatian `ср́на` <sŕna>: "roe deer"
+------> West Slavic
+-------> Polish `sarna`: "roe deer"
+
+----> Celtic <*karnos>
+-----> Brythonic
+------> Welsh `carn`: "hoof, handle, cairn, barrow"
+-----> Gaulish <*carnos>
+------> Ancient Greek `κάρνυξ` <κάρνυξ>: "Celtic war-horn, carnyx"
+-------> Latin `carnyx`: "Gaulish war-horn, carnyx"
+--------> English `carnyx`
+-----> Old Irish `carn`
+------> Scottish Gaelic `carn`
+-------> Scots `cairn`
+--------> English `cairn`
+-----> Celtic <*karnonos> (augmentative ~"great horn"?)
+------> Gaulish <Carnonos>: "Horned God"
+-------> Helleno-Celtic `καρνονου` <karnonou>: "of the Horned God" 
+-------> Gallo-Latin `[C]ernunnos`: "Horned God"
+
+----> Germanic <*hurną>: "horn"
+-----> East Germanic
+------> Gothic `𐌷𐌰𐌿𐍂𐌽` <haurn>: "horn"
+-----> North Germanic `ᚺᛟᚱᚾᚨ` <horna>: "horn" ##
+------> Old Norse `horn`: "horn, corner, angle"
+-------> Danish `horn`: "horn"
+-------> Icelandic `horn`: "horn, fin, corner, angle"
+-----> West Germanic
+------> Old English `horn`: "horn"
+-------> English `horn`
+------> Frankish
+-------> Dutch `hoorn`: "horn"
+------> Old High German `horn`: "horn"
+-------> German `Horn`: "horn"
+-------> Yiddish `האָרן‎` <horn>: "horn"
+-----> Germanic <*hurnijǭ>: "little horn, hook, corner"
+------> North Germanic
+-------> Old Norse `hyrna`
+--------> Danish `hjørne`: "corner, nook, niche, node"
+--------> Icelandic `hyrna`: "tetrahedron, simplex"
+------> West Germanic
+-------> Old English `hyrne`: "horn, corner, angle"
+--------> Scots `hirn`: "corner, nook, hiding place"
+
+
+----> Indo-Iranian <*ĉr̥Hngám>
+-----> Indo-Aryan <*śr̥Hngám>
+------> Sanskrit `शृङ्ग` <śṛṅgá>: "horn, tusk, peak"
+-------> Magadhi
+--------> Bengali `শিঙা` <śiṅa>: "horn"
+-------> Pali <siṅga>
+-------> Sauraseni `𑀲𑀺𑀁𑀕` <siṃga>
+--------> Madhya
+---------> Hindi `सींग` <sīṅg>: "horn"
+-------> West Indo-Aryan
+--------> Romani `shing`: "horn"
+-------> Telugu `శృంగము` <śr̥ṅgamu>: "horn, trumpet, peak, syringe"
+
+
+----> Italic
+-----> Latin `cornū`: "horn, antler, tusk"
+------> Sardinian `corru`
+------> Eastern Romance
+-------> Dalmatian `cuarno`: "horn"
+-------> Romanian `corn`: "horn"
+------> Western Romance
+-------> French `cor`: "horn (instrument)"
+-------> Italian `corno`: "horn"
+-------> Spanish `cuerno`: "horn, croissant"
+------> Vulgar Latin <*corna>
+-------> Western Romance
+--------> French `corne`
+---------> English `corner`
+---------> French `cornet`: "cone, post horn, cornet, inkhorn"
+----------> English `cornet`
+------> Latin `corneus`: "of horn, horn-like"
+-------> English `cornea`
+------> Latin `cornūcōpia`
+-------> English `cornucopia`
+------> Latin <ūnicornis>: "one-horned, unicorn"
+-------> Western Romance
+--------> Old French `unicorne`
+---------> French `licorne` ###
+---------> English `unicorn`
+
+
+---> Proto-Indo-European <*ḱérh₂sō>
+
+----> Germanic <*hirzniją>: "brain"
+-----> West Germanic
+------> Old Saxon <*hirsina>
+-------> Dutch `hersenen`: "brain"
+-----> Germanic <*hernô>
+------> North Germanic
+-------> Old Norse `hjarni`: "brain"
+--------> Danish `hjerne`: "brain"
+--------> Icelandic `hjarni`: "cerebrum"
+------> West Germanic
+-------> Old English `hærn`: "brain"
+-------> Old High German `hirni`: "brain"
+--------> German `(Ge)Hirn`: "brain"
+
+----> Hellenic
+-----> Ancient Greek `κᾰ́ρᾱ` <kárā>: "head, face, top, person"
+------> Vulgar Latin `cara`
+-------> Western Romance
+--------> Old French `chiere`
+---------> French `chère`: "face"
+---------> English `cheer` ("face" -> "expression" -> "state of mind" -> "positive state of mind")
+--------> Spanish `cara`: "face, impudence, heads (on a coin)"
+------> Ancient Greek `κρᾱνῐ́ον` <krāníon>
+-------> Greek `κρανίο` <kranío>: "cranium, skull"
+-------> Latin `cranium`: "cranium, skull"
+--------> Western Romance
+---------> French `crâne`: "cranium, skull"
+---------> Italian `cranio`: "cranium, skull"
+---------> Spanish `cráneo`: "cranium, skull"
+--------> English `cranium`
+-------> Ancient Greek `ἡμικρανία` <hēmikranía>: "headache" (lit. "half-skull", calque of Egyptian <gs-tp>)
+--------> Latin `hēmicrānia`: "headache, migraine"
+---------> Western Romance
+----------> French `migraine`
+-----------> English `migraine`
+----------> Italian `micragna`: "poverty, troubles"
+----------> Spanish `migraña`: "migraine"
+-----?> Ancient Greek `καρῶτον` <karôton>
+-------> Latin `carōta`: "carrot"
+--------> Western Romance
+---------> French `carotte`: "carrot"
+----------> English `carrot`
+---------> Italian `carota`: "carrot, core, core sample"
+
+----> Indo-Iranian <*ĉr̥Hšá>
+-----> Indo-Aryan <*śr̥Hṣá>
+------> Sanskrit `शीर्ष` <śīrṣá>: "head, skull"
+-------> Sanskrit `शीर्षासन` <śīrṣāsana>: "head-stand"
+
+----> Proto-Indo-European <*ḱŕ̥h₂esnh₂> (collective plural)
+
+-----> Hellenic
+------> Ancient Greek `κάρηνᾰ` <kárēna>: "(mountain) peaks"
+
+
+---> Proto-Indo-European <*ḱérh₂-os>
+
+----> Hellenic <kéras>
+-----> Ancient Greek `κέρᾰς` <kéras>: "horn"
+------> Greek `κέρας` <kéras>: "horn"
+------> Ancient Greek `ῥῑνόκερως` <rhīnókerōs>: "rhinoceros" (lit. "nose-horn")
+-------> Latin `rhīnocerōs`: "rhinoceros"
+--------> English `rhinoceros`
+------> Translingual `Ceratops`: "an obsolete genus name of Ceratopsians"
+-------> Translingual `Ceratopsia`: "the Ceratopsians, a suborder of Ornithician dinosaurs"
+-------> Translingual `Triceratops`: "a genus of Ceratopsians" (lit. "three horn face")
+
+
+---> Proto-Indo-European <*ḱŕ̥h₂-os>
+
+----> Old Armenian `սար` <sar>: "tip, top, summit, mountain"
+-----> Armenian `սար` <sar>: "mountain"
+-----> Georgian `სერი` <seri>: "hill"
+
+----> Indo-Iranian <*ĉr̥Has>
+-----> Indo-Aryan <*śr̥Has>
+------> Sanskrit `शिर` <śira>: "head, skull, top, peak"
+-----> Iranian <*ĉr̥Hah>
+------> Avestan <*sāra>: "head"
+
+
+
+---> Proto-Indo-European <*ḱerw-ós>: "deer, stag" (lit. "horned")
+
+----> Balto-Slavic
+-----> Old Prussian <sirwis>
+-----> Finno-Ugric <*širwas>
+------> Finnic <*hirvas>: "bull elk, reindeer bull"
+-------> Finnish `hirvas`: "stag, reindeer stag"
+------> Samic <*sërvēs>
+-------> Northern Sami `sarvvis`: "reindeer bull"
+------> Finno-Ugric <*širwe>
+-------> Finnic <*hirvi>
+--------> Finnish `hirvi`: "elk, moose, any large deer"
+---------> Finnish `hirvieläin`: "deer, cervid" (zoological)
+-------> Samic <*sërvë>: "elk, moose"
+--------> Northern Sami `sarva`: "moose"
+
+----> Celtic <*karwos>
+-----> Brythonic <*karw>
+------> Welsh `carw`: "deer, hart, stag, nobleman, patron"
+-----> Gaulish <caruus>
+-----> Old Irish `carbh`
+------> Old Irish <*carb-fíad> (approx. "wild deer")
+-------> Irish `cairfhiadh`: "stag, hart"
+
+----> Indo-Iranian <*ĉr̥Hwás>: "horn"
+-----> Iranian <*ĉr̥Hwáh>: "horn"
+------> Avestan <sruuā>
+------> Northern Iranian
+-------> Saka
+--------> Khotani <(ṣ)ṣu->
+-------> Scythian
+--------> Ossetian `сы` <sy>
+------> Western Iranian
+-------> Northwestern Iranian
+--------> Kurdish `strū`: "horn"
+--------> Parthian
+---------> Old Armenian `սրուակ` <sruak>
+-------> Old Persian
+--------> Persian `سرو` <sarū‍>: "horn, nail"
+
+----> Italic
+-----> Latin `cervus`: "deer, stag"
+------> Sardinian `cherbu`
+------> Eastern Romance
+-------> Romanian `cerb`: "deer"
+------> Western Romance
+-------> French `cerf`: "stag, hart"
+-------> Italian `cervo`: "deer, stag"
+-------> Spanish `ciervo`: "deer, stag"
+------> Translingual `Cervus`: "a taxonomic genus of deer"
+-------> Translingual `Cervidae`: "a taxonomic family of deer"
+
+------> Latin `cervārius`: "of deer"
+-------> Eastern Romance
+--------> Romanian `cerbar`: "stag beetle"
+-------> Latin `lupus cervārius`: "lynx" (lit. "deer wolf")
+--------> Eastern Romance
+---------> Dalmatian
+----------> Albanian `rrëqebull`: "lynx"
+----------> Albanian `luqerbull`: "werewolf"
+--------> Western Romance
+---------> French `loup-cervier`
+----------> English `lusern`
+
+
+---> Proto-Indo-European <*ḱórh₂weh₂>
+
+----> Balto-Slavic <*kórˀwāˀ>
+-----> Lithuanian `kárvė`: "cow"
+-----> Slavic <*kòrva>: "cow"
+------> East Slavic `корова` <korova>
+-------> Russian `коро́ва` <koróva>: "cow"
+------> South Slavic
+-------> Serbo-Croatian `крȁва` <krȁva>: "cow"
+------> West Slavic
+-------> Polish `krowa`: "cow"
+
+
+
+---> Proto-Indo-European <*ḱerh₂srom>
+
+----> Italic <*kerazrom>
+-----> Latin `cerebrum`: "brain, skull"
+------> English `cerebrum`
+------> French `cerebrum`
+-------> French `cérébral`: "cerebral"
+--------> English `cerebral`
+------> Italian `cerebro`: "cerebrum, brain"
+------> Spanish `cerebro`: "brain, nerd"
+------> Latin `cerebellum` (diminutive)
+-------> Sardinian `cerbedhu`
+-------> Eastern Romance
+--------> Dalmatian `carviale`: "brain"
+--------> Romanian `creier`: "brain, intelligence, mind"
+-------> Western Romance
+--------> French `cerveau`: "brain"
+--------> Italian `cervello`: "brain, mind"
+-------> English `cerebellum`
+
+
+---> Proto-Indo-European <*kr̥h₂s-ḗr>: "hornet"
+
+----> Balto-Slavic <*śirˀšō>: "hornet"
+-----> Lithuanian `širšė`: "hornet"
+-----> Slavic <*sьrxy>: "hornet"
+------> East Slavic `шьршень` <šĭršenĭ>
+-------> Russian `ше́ршень` <šéršenʹ>: "hornet"
+------> South Slavic
+-------> Old Church Slavonic `сръшень` <srŭšenĭ>
+-------> Serbo-Croatian `стр̏ш(љ)ен` <stȑš(lj)en>: "hornet"
+------> West Slavic
+-------> Polish `szerszeń`: "hornet"
+-----> Finno-Ugric <*šerši> 
+------> Finnic <*heršilainen> #
+-------> Estonian `herilane`: "wasp"
+-------> Finnish `herhiläinen`: "hornet"
+
+----> Germanic <*hurznutō>: "hornet"
+-----> West Germanic
+------> Old English `hyrnetu`
+-------> English `hornet`
+------> Frankish <*horneta>
+-------> Dutch `hoorntje`: "hornet"
+------> Old High German `hurniz`
+-------> German `Hornisse`: "hornet"
+
+----> Italic <*krāzrō>
+-----> Latin `crābrō`: "hornet"
+------> Western Romance
+-------> Italian `calabrone`: "hornet"
+-------> Spanish `cambrón`
+
+
+---> Proto-Indo-European <*ḱerh₂onow-os>: "head-nodding"
+
+----> Italic <*keronowos>
+-----> Latin `cernuus`: "bowed, falling over"
+------> Latin `cernuō`: "I fall over, I tumble"
+
+endbody
+
+
+
+startnotes
+
+# Somewhat bizarrely, Finnic adapted the borrowed <*šerši> from some Baltic language to later <*šeršilainen>, with the <-lainen> suffix, which is usually "inhabitant of a place" and related concepts (suffix is a compound of -la-, a topynymic suffix, plus -inen, an associative adjective suffix). So Finnish `herhiläinen` is perhaps "one from Hornet-Land", or perhaps "member of the Hornet Party"??
+
+
+## We have `ᚺᛟᚱᚾᚨ` <horna> in Proto-Norse (or Proto-North Germanic) via the one of the Golden Horns of Gallehus (5th C Denmark). It bore the inscription, `ᛖᚲᚺᛚᛖᚹᚨᚷᚨᛊᛏᛁᛉ᛬ᚺᛟᛚᛏᛁᛃᚨᛉ᛬ᚺᛟᚱᚾᚨ᛬ᛏᚨᚹᛁᛞᛟ᛬`: "I Hlewagastiz Holtijaz made the horn".
+
+### Old French `unicorne` was re-analyzed as containing an indefinite article: `une icorne`. It was then re-analyzed again collapsing the article back into the word, but this time with a definite article instead: `l'icorne`, eventually becoming the modern French `licorne`.
+
+On the other hand, Italian for "unicorn" is `liocorno`, and the standard story there is that it is a blending of `lione` ("lion") and `unicorno`. I am suspicious of the idea that French and Italian could have two totally different paths to very similar words.
+
+endnotes

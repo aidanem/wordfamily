@@ -1,0 +1,289 @@
+date: 20170915
+theme: Fire 🔥
+tags: Alcohol, Divinities, Elements, Fire, Water
+
+startbody
+
+Proto-Indo-European <*bʰrewh₁->: "to boil, to brew"
+
+-> Proto-Indo-European <*bʰrewh₁-ti> (primary verb)
+
+--> Albanian `mbruaj`: "to knead"
+
+--> Celtic
+---> Old Irish `bruithid`: "boils, seethes, cooks"
+----> Irish `bruith`: "to boil, to bake, to burn"
+
+--> Germanic <*brewwanã>: "to brew"
+---> North Germanic
+----> Old Norse `brugga`: "to brew"
+-----> Danish `brygge`: "to brew"
+-----> Icelandic `brugga`: "to brew, to scheme"
+---> West Germanic
+----> Old English `brēowan`: "to brew"
+-----> English `brew`
+----> Frankish <*breuwan>
+-----> Dutch `brouwen`: "to brew"
+----> Old High German `briuwan`: "to brew"
+-----> German `brauen`: "to brew"
+
+----> West Germanic <*brōan> (o-grade intensive)
+-----> Frankish <*brōjan>
+------> Dutch `broeien`: "to be hot, to heat up"
+-------> Dutch `broeikas`: "greenhouse"
+------> Old French `bruir`: "to burn"
+-------> Old French `brusler` (conflation with `(b)usler` from Latin `(b)ustulō`)
+--------> French `brûler`
+---------> French `crème brûlée`
+----------> English `crème brûlée`
+--------> English `broil`
+-----> Old High German <*bruoen>
+------> German `brühen`: "to pour hot water over, to brew, to put a pot on"
+------> Old High German `firbruoen`
+-------> German `verbrühen`: "to scald"
+
+----> West Germanic <*brōdi>: "heat, warmth, incubation, brood, breeding"
+-----> Old English `brōd`
+------> English `brood`
+-----> Old High German `bruot`
+------> German `Brut`: "brood, offspring"
+
+-----> West Germanic <*brōdijan>: "to keep warm, to brood, to breed"
+------> Old English `brēdan`
+-------> English `breed`
+------> Frankish <*bruoden>
+-------> Dutch `broeden`
+------> Old High German `bruoten`
+-------> German `brüten`
+
+
+
+--> Italic
+---> Latin `ferveō`: "I am hot, I burn, I boil"
+----> Eastern Romance
+-----> Romanian `a fierbe`: "to boil, to simmer, to scald"
+----> Western Romance
+-----> Italian `fervere`: "to be fervid, to be feverish" #
+-----> Spanish `hervir`: "to boil"
+----> Latin `fervens`: "hot, burning, zealous, impetuous"
+-----> French `fervent`: "fervent"
+------> English `fervent`
+-----> Italian `fervente`: "fervent, ardent"
+-----> Spanish `hirviente`: "boiling, enraged"
+-----> Latin `fermentum`: "fermentation, yeast, anger"
+------> Latin `fermentō`: "I ferment, I make rise, I leaven, I cause to swell, I cause to spoil"
+-------> Western Romance
+--------> French `fermenter`: "to ferment"
+---------> English `ferment`
+--------> Italian `fermentare`: "to ferment"
+--------> Spanish `fermentar`: "to ferment"
+-------> Eastern Romance
+--------> Romanian `frământa`: "to knead, to stir, to fuss"
+
+-> Proto-Indo-European <*bʰrowh₁-ti> (o-grade intensive)
+
+
+
+-> Proto-Indo-European <*bʰr̥wh₁wós>
+
+--> Celtic <*berwos>: "boiled, boiling"
+---> Brythonic
+----> Welsh `berw`: "boiled, boiling, stew, agitation, waterfall"
+-----> Welsh `berwi`: "to boil"
+
+
+
+
+-> Proto-Indo-European <*bʰrewh₁tus>: "seethe, burn" (abstract noun)
+
+--> Albanian `burth`: "mouth burning (animal disease)"
+
+--> Celtic
+---> Old Irish `breóaid`: "to burn"
+----> Irish `breoigh`: "to sicken, to weaken"
+
+--> Germanic <*brandaz>: "fire, burning, torch, sword"
+---> North Germanic
+----> Old Norse `brandr`
+-----> Danish `brand`: "(large, destructive) fire"
+-----> Icelandic `brandur`: "burning log, sword"
+---> West Germanic
+----> Old English `brand`: "fire, burning, torch, sword"
+-----> English `brand`
+------> Japanese `ブランド` <burando>: "brand" (in the modern, commercial sense)
+------> English `firebrand`
+----> Frankish <*brand>: "fire, torch, sword"
+-----> Dutch `brand`: "fire"
+-----> Vulgar Latin <*brandus>: "fire, torch, sword"
+------> French `branler`: "to shake, to masturbate"
+------> Vulgar Latin <*brandio>: "I brandish (a sword)"
+-------> French `brandir`: "to brandish"
+--------> English `brandish`
+-------> Italian `brandire`: "to brandish, to wave"
+----> Old High German `brant`
+-----> German `Brand`: "fire"
+---> Samic <*prāntē>
+----> Northern Sami `ráddi`: "ember"
+
+
+-> Proto-Indo-European <*bʰrewh₁néw-ti> (transitive imperfective)
+
+--> Germanic <*brinnanã>: "to burn, to be on fire"
+---> East Germanic
+----> Gothic `𐌱𐍂𐌹𐌽𐌽𐌰𐌽` <brinnan>: "to burn"
+---> North Germanic
+----> Old Norse `brinna`: "to burn"
+-----> Danish `brænde`: "to burn, to roast, to cremate, to sting"
+-----> Icelandic `brenna`: "to burn"
+---> West Germanic
+----> Old English `biernan`: "to burn"
+-----> English `burn`
+----> Old High German `brinnan`: "to burn"
+-----> German `brinnen`: "to burn" (archaic)
+
+
+-> Proto-Indo-European <*bʰréh₁wr̥>: "well, spring, source" (r/n-stem noun)
+
+--> Old Armenian `աղբիւր` <ałbiwr>: "fountain, spring"
+---> Armenian `աղբյուր` <ałbyur>: "spring, fountain, source"
+----> Armenian `սկզբնաղբյուր` <skzbnałbyur>: "primary source, original copy"
+
+--> Celtic <*borvō>: "foam, bubbling water" 
+---> Gaulish `Boruō`: "hot spring, Divinity of Healing Hot Springs"
+----> Latin `Borvo`
+----> Gaulish <*Borwānicos>
+-----> Latin `Borbanus`: "place name (a spa town), Bourbon or Boulbon"
+------> Western Romance
+-------> French `Bourbon (l'Archambault)` ###
+--------> English `Bourbon`
+---------> English `bourbon`
+-------> Occitan `Borbon`
+--------> French `Boulbon`
+------> Latin `Aquae Borvonis`: "place name (a spa town), Bourbonne-les-Bains"
+-------> Western Romance
+--------> French `Bourbonne-les-Bains`
+----> Gaulish `Bormō` (variant)
+-----> Latin `Bormos`
+------> Western Romance
+-------> Occitan `Bòrmas (dei Mimòsas)`
+--------> French `Bormes-les-Mimosas`
+------> German `Worms`
+-------> English `Worms`
+--------> English `Diet of Worms`
+--?> Old Irish `Berbae`: "river name, the River Barrow"
+----> Irish `Bhearú`
+-----> English `Barrow`
+
+--> Germanic <*brunnô>: "wellspring, fountain, brook"
+---> East Germanic
+----> Gothic `𐌱𐍂𐌿𐌽𐌽𐌰` <brunna>: "source, wellspring"
+-----> Crimean Gothic `brunna`: "spring, fountain, source"
+---> North Germanic
+----> Old Norse `brunnr`
+-----> Danish `brønd`: "well"
+-----> Icelandic `brunnur`: "well, spring, source"
+-----> Scots `brin`: "brook, rivulet"
+---> West Germanic
+----> Old English `burne`: "A stream, brook, river, or other running water"
+-----> English `bourn`
+-----> Scots `burn`: "small river"
+----> Frankish
+-----> Dutch `bron`: "well"
+----> Old High German `brunno`: "well"
+-----> German `Brunnen`: "well"
+
+--> Hellenic <*pʰrḗwər>
+---> Classical Greek `φρέᾱρ` <phréār>: "well"
+
+-?> Italic
+---> Latin `Furrina`: "Divinity of unknown portfolio, associated with water"
+----> Latin `Furrinalia`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀪𑀼𑀭𑁆𑀯𑀦𑁆` <bhúrvan>: "restless movement of water"
+
+
+-> Proto-Indo-European <*bʰrutos>
+
+--> Celtic
+---> Brythonic
+----> Welsh `brwd`: "hot, fervent, avid"
+
+--> Germanic <*bruþã>: "broth"
+---> West Germanic
+----> Old English `broþ`: "broth"
+-----> English `broth`
+----> Frankish <*brod>
+-----> Medieval Latin `brodium`: "broth"
+------> French `brouet`: "broth"
+------> Italian `brodo`: "broth"
+
+--> Italic <*fruto->
+---> Latin `defruto`: "to reduce to a syrup (by boiling)"
+
+-?> Tocharian <*präts>?
+--?> Old Chinese <*pɯds>: "boil"
+----> Middle Chinese `沸` <pʉiH>: "boil"
+-----> Mandarin `沸` <fèi>: "to boil"
+-----> Middle Chinese `煮沸`: "to boil"
+------> Mandarin `煮沸` <zhǔfèi>: "to boil"
+------> Japanese `煮沸` <shafutsu>: "boiling"
+----> Middle Korean <pur>: "fire"
+-----> Korean `불` <bul>: "fire, fireplace"
+------> Korean `불고기` <bulgogi>: "grilled meat dish" (lit. "fire-meat")
+-------> English `bulgogi`: "Korean grilled meat dish"
+
+
+-> Proto-Indo-European <*bʰrutus>
+
+--> Celtic <*brutus>: "fermentation, boiling heat"
+---> Old Irish `bruth`: "raging, violent or boiling heat"
+----> Irish `bruth`: "heat, rash, surf"
+
+
+-> Proto-Indo-European <*bʰobʰro-> (reduplication)
+
+--> Old Armenian `բորբ` <borb>: "bright, burning"
+---> Armenian `բորբ` <borb>: "bright, burning"
+
+
+-> Proto-Indo-European <*bʰrowh₁tó-?>
+
+-?> Germanic <*braudã>: "bread" ##
+---> East Germanic
+----> Gothic <*brauþ>
+-----> Crimean Gothic `broe`: "bread"
+-----> Visigothic
+------> Portuguese `broa`: "cornbread, broa"
+-------> English `broa`
+---> North Germanic
+----> Old Norse `brauð`: "bread"
+-----> Danish `brød`: "bread"
+-----> Icelandic `brauð`: "bread, loaf, livelihood"
+---> West Germanic
+----> Old English `brēad`
+-----> English `bread`
+-----> Scots `breid`: "bread"
+----> Frankish
+-----> Dutch `brood`: "bread, baked good, livelihood"
+----> Old High German `brōt`: "bread"
+-----> German `Brot`: "bread, loaf, livelihood"
+-----> Yiddish `ברויט` <broyt>: "bread, loaf, livelihood"
+
+
+endbody
+
+startnotes
+
+
+# Despite the similarity of meaning and sound between "fervor" and "fever", "fever" comes from a different root. Italic merged of /*bʰ/ and /*dʰ/ (and /*gʷʰ/), creating the misleading similarity between <fervor> and fever from the originally very different roots: <*bʰer-> and <*dʰegʷʰ->, respectively.
+
+## It's disputed whether <*braudą> comes from <*bʰrewh₁-> or not. Assuming it's true, there's some reason to believe that there was a period in which <*braudą> "bread" meant leavened (i.e. fermented or "brewed") bread, while the older word, <*hlaibaz> "loaf", meant unleavened bread.
+
+### Bourbon l'Archembault (Latin `Borbanus` and probably Gaulish <*Borwanicos>) is a French spa town (and thus solidly under the purview of the Gaulish god Borwō, divinity of healing springs). "l'Archembault" part of the name refers to the House Dampierre Lords of Bourbon from c. 900 to 1249, of whom 9 out of 12 were named Archambaud.
+
+After Archambaud IX, Lordship of Bourbon passed to each of his two daughters in turn, then to his grandaughter Beatrice, Lady of Bourbon, and then to her son Louis I, Duke of Bourbon, who father was the 6th son of Saint Louis IX Capet of France, thus founding the House of Bourbon as a cadet branch of House Capet.
+
+
+endnotes

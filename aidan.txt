@@ -1,0 +1,150 @@
+date: 20170922
+theme: Fire 🔥
+tags: Divinities, Elements, Fire, Toponymy
+
+startbody
+
+
+Proto-Indo-European <*h₂eydʰ->: "ignite, fire"
+
+
+-> Proto-Indo-European <*h₂éydʰ-eti>: "burning, igniting" (primary verb)
+
+--> Indo-Iranian <*Háydʰati>
+---> Indo-Aryan
+----> Sanskrit `𑀏𑀥𑀢𑁂` <édhate>: "to spread, to grow, to increase, to prosper"
+
+--> Hellenic
+---> Classical Greek `αἴθω` <aíthō>: "To kindle, to light, to burn"
+----> Classical Greek `αἴθων`: "a burning, a blaze, lightning, a thing that flashes like burnished metal"
+-----> Classical Greek `Αἴθων` <Aíthōn>: "eagle that eats Prometheus's liver"
+------> Latin `Aethon`
+-------> English `Aethon`
+---?> Classical Greek `Αἰθίοψ` <Aithíops>: "Ethiopian" 
+-----> Classical Greek `Αἰθιοπία`: "Ethiopia"
+------> Latin `Aethiopia`: "Ethiopia"
+-------> English `Ethiopia`
+--------> Hawai'ian `ʻAikiopa`: "Ethiopia"
+------> Amharic `ኢትዮጵያ` <ʾityop̣p̣ya>: "Ethiopia"
+----> Classical Greek `αἰθήρ` <aithḗr>: "The pure upper air breathed by the gods, clear sky, heaven, aether, ether"
+-----> Greek `αιθήρ` <aithír>: "sky, air"
+-----> Greek `αιθέρας` <aithéras>: "ether"
+-----> Latin `aethēr`: "Pure upper air, daytime sky, brightness surrounding a deity"
+------> French `éther`: "ether"
+-------> English `ether`
+--------> Japanese `エーテル` <ēteru>: "ether"
+-------> German `Äther`: "ether"
+------> Italian `etere`: "ether"
+------> Spanish `éter`: "ether"
+------> Latin `aetherius`: "pertaining to ether, pertaining to the sky, pertaining to heaven; ethereal"
+-------> French `éthéré`: "ethereal"
+-------> Italian `etereo`: "ethereal"
+-------> English `ethereal`
+-----> Russian `эфи́р` <efír>: "ether"
+
+
+-> Proto-Indo-European <*h₂éydʰo-s>: "burning" (action noun)
+
+--> Celtic <*aidos>
+---> Old Irish `áed`: "fire" #
+----> Old Irish `Áed`: "Fire (personal name)" #
+-----> Irish `Aodh`
+------> English `Hugh` (Anglicization, merger with Frankish `Hugh(e)`/`Hugo`)
+------> Irish `Ó hAodha`: "descendant of Aodh (surname)"
+-------> English `O'Hea`
+-------> English `Hayes`
+-----> Old Irish `Áedán`: "Little-Fire (personal name)" (`áed` + dimunitive)
+------> Irish `Aodhan`
+-------> English `Aidan`
+------?> Irish `Eithne` (Possibly a feminine form of `Aodhan`)
+--------> English `Enya`
+-----> Old Irish `Áedócán` ##
+------> Irish `Aodhagán`
+-------> English `Egan`
+-------> Irish `Mac Aodhagáin` (patronymic)
+--------> English `MacEgan`
+---------> English `Keegan` ###
+-----> Old Irish `Máedóc`: "My-Little-Fire (personal name)" (affectionate + `áed` + dimunitive)
+------> English `Maddoc`
+------> Welsh `Madog`
+------> Irish `Mo Aodh Og`
+-------> English `Mogue`
+-----> Old Irish `Cináed`: "Fire-Born (personal name)"
+------> English `Kenneth` (also used as anglicization of Irish `Coinneach`)
+
+--> Germanic <*aidaz>: "fire, pyre"
+---> West Germanic
+----> Old English `ād`: "fire, pyre"
+----> Old High German `eit`
+
+--> Hellenic <*áitʰos>
+---> Classical Greek `αἶθος` <aîthos>: "heat, fire"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀏𑀥` <édha>: "fuel, firewood"
+
+--> Italic <*aiþ-s>: "place with a hearth"
+---> Latin `aedis`: "house, room, shrine, temple"
+----> Latin `aedificō`: "I build, I establish"
+-----> Western Romance
+------> French `édifier`: "to construct, erect, edify"
+-------> English `edify`
+------> Italian `edificare`: "to build, erect, edify"
+------> Spanish `edificar`: "to build, set a good example"
+----> Latin `aedificium`: "building, structure"
+-----> Western Romance
+------> French `édifice`: "building, structure"
+-------> English `edifice`
+------> Italian `edificio`: "building, organization"
+------> Spanish `edificio`: "building"
+----> Latin `aedicula`: "small building, small temple"
+-----> Western Romance
+------> Italian `edicola`: "newstand, shrine"
+
+
+-> Proto-Indo-European <*h₂éydʰlom> (instrument)
+
+--> Germanic <*ailã>: "fire"
+---> Germanic <*ailijanã>: "to burn"
+----> West Germanic
+-----> Old English `ǣlan`: "to kindle, to burn"
+------> Old English `onǣlan`: "to set fire to, to burn up, to make hot"
+-------> English `anneal`
+----> Germanic <*ailidaz>: "fire, pyre"
+-----> North Germanic
+------> Old Norse `eldr`: "fire"
+-------> Danish `ild`: "fire, ardor"
+-------> Icelandic `eldur`: "fire"
+-------> Old Norse `mǫrueldr`: "phosphorence on the ocean" (lit. "sea-fire")
+--------> Norn <*mareld>
+---------> English `mareel`
+-----> West Germanic
+------> Old English `æled`: "fire, conflagration"
+-------> Brythonic
+--------> Welsh `aelwyd`: "hearth, fireside, home"
+
+
+-> Proto-Indo-European <*h₂éydʰteh₂t-s> (state of being, ~"heat, on-fire-ness")
+
+--> Italic <*aissāts>
+---> Latin `aestās`: "summer"
+----> English `estivation` (like hibernation, but in the summer)
+
+
+endbody
+
+startnotes
+
+
+# Old Irish Aed is an Irish God/Prince of the Daoine Sidhe. Middle Irish Aodh is one of the children of Lir who was turned into a swan.
+
+## Old Irish `Áedócán` is a double diminutive `-óc-án`. The equivalent double dimunitive was also used in Germanic, before largely merging into -kin/-chen. The separate dimunitives can be seen in some archaic English word pairs: hill/hillock, bull/bullock, balls/bollocks and maid/maiden, cock/chicken (the last, with i-mutation umlaut, similar to the process that created goose/geese, mouse/mice pairs)
+
+### Keegan is my son's middle name. Cause I think I'm funny.
+
+endnotes
+
+Collected English words: edify, edifice, Ethiopia, ether, ethereal, anneal, estivation
+
+Personal names from Celtic <*aidos>: Aed, Aodh, Hugh, Aedan, Aodhan, Aidan, Eithne, Enya, Aedocan, Aodhagan, Egan, Keegan, Maddoc, Mogue, Cináed, Kenneth

@@ -1,0 +1,57 @@
+date: 20220118
+
+
+startintro
+
+Love, compassion, and pity to Tonga and the city of Nuku'alofa.
+
+endintro
+
+
+startbody
+
+Austronesian <*ʔalep>: "to beckon, to wave"
+
+-> Pazeh <m-arep>: "to beckon"
+
+-> Malayo-Polynesian
+--> Chamorro `alof`: "to beckon"
+
+-?> Philippine
+---> Tagalog `ayap`: "to call, to summon"
+
+--> Oceanic <*ʔalop>
+---> Fijian `yalo`
+
+---> Polynesian <*ta-ʔalo>
+----> Tongan `ta-'alo`: "to beckon"
+----> Nuclear Polynesian
+-----> Samoan `t-ālo`: "to wave, to beckon"
+
+
+---> Oceanic <*ʔalopan>
+----> Fijian `yalova`: "to beckon"
+
+----> Micronesian
+-----> Kiribati `ano-a`: "to beckon"
+
+----> Polynesian <*ʔarofa>: "love, compassion"
+-----> Tongan `alofa`: "love"
+------> Tongan `Nuku'alofa`: "Place of Love (placename)"
+-------> English `Nukuʻalofa`
+-----> Nuclear Polynesian
+------> Marquesic
+-------> Hawai'ian `aloha`: "love, compassion, greeting"
+--------> English `aloha`
+--------> Hawai'ian `aloha kakahiaka`: "good morning"
+--------> Hawai'ian `aloha ahiahi`: "good morning"
+------> Rapa Nui `'aroha`
+------> Samoan `alofa`: "love"
+-------> Samoan `talofa`: "greeting"
+------> Tahitic
+-------> Māori `aroha`: "love, compassion"
+--------> English `aroha`
+-------> Tahitian `arofa`: "compassion, pity"
+
+
+endbody

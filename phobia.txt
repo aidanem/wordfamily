@@ -1,0 +1,93 @@
+startbody
+
+Proto-Indo-European <*bʰewg->: "to flee"
+
+-> Proto-Indo-European <*bʰugyéti>: "flees" (intransitive imperfective)
+
+--> Italic <*fugiō>: "to flee"
+---> Venetic `𐌇𐌅𐌖𐌙𐌉𐌀` <fugia>
+---> Latin `fugiō`
+----> English `refuge`
+----> English `subterfuge`
+----> English `fugitive`
+
+
+
+-> Proto-Indo-European <*bʰugéh₂>: "a flight, an escape" (abstract or action noun)
+
+--> Italic <*fugā>
+---> Latin `fuga`
+----> English `fugue`
+
+
+
+
+
+-> Proto-Indo-European <*bʰegʷ->: "to flee, to run"
+
+--> Proto-Indo-European <*bʰégʷeti>: "flees" (thematic imperfective)
+
+---> Balto-Slavic <*bḗˀgtei>
+
+----> Slavic <*běťi>
+----> Slavic <*bě̀gati>
+-----> West Slavic
+------> Czech `běhat`: "to run"
+
+---> Hellenic <*pʰégʷomai>
+----> Classical Greek `φέβομαι` <phébomai>: "to flee"
+
+
+--> Proto-Indo-European <*bʰégʷ-y-eh₂-ti>
+
+---> Balto-Slavic <*bēˀgjā́ˀtei>
+----> Slavic <*běžàti>: "to run, to escape"
+-----> West Slavic
+------> Czech `běžet`: "to run"
+
+--> Proto-Indo-European <*bʰogʷéyeti>: "makes flee" (causative imperfective)
+
+---> Hellenic <*pʰogʷéyō>
+----> Classical Greek `φοβέω` <phobéō>: "I put to flight, I terrify, I threaten"
+
+
+--> Proto-Indo-European <*bʰógʷos>: "flight, fear" (action or result noun)
+
+---> Hellenic <*pʰógʷos>
+----> Classical Greek `φόβος` <phóbos>: "fear, terror, retreat, awe"
+-----> English `phobia`
+
+
+?> Proto-Indo-European <*bʰog->: "running water"
+
+-?> Balto-Slavic <*bōgnás>
+--?> East Baltic
+---?> Lithuanian `bognà`: "swamp"
+---> Slavic <*bagnò>: "swamp, bog, mud, peat"
+----> East Slavic `багъно` <bagŭno>
+-----> Ukrainian `багно́` <bahnó>: "swamp, bog, mud, peat"
+----> West Slavic
+-----> Czech `bahno`: "mud"
+-----> Polish `bagno`: "swamp, bog"
+----?> Lithuanian `bognà`: "swamp"
+
+
+--> Germanic <*bakiz>: "brook, stream, beach"
+---> North Germanic
+----> Old Norse `bekkr`: "brook, creek"
+-----> Danish `bæk`: "brook"
+-----> Icelandic `bekkur`: "creek, stream, spring"
+-----> Old English `becc`
+------> English `beck`
+---> West Germanic
+----> Old English `bæċ`: "stream, brook"
+-----> English `beach`
+----> Frankish <*beki>
+-----> Dutch `beek`: "brook, creek"
+----> Old High German `bah`
+-----> German `Bach`: "brook, stream"
+------> German `Bach`: "Brook (habitational surname), music by Johann Sebastian Bach"
+-------> English `Bach`
+
+
+endbody

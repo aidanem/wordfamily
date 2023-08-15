@@ -1,0 +1,452 @@
+date: 20220225
+tags: Numbers
+
+
+startintro
+
+I've been doing Word Families for 5 years! In that time, I have made 150 families! So this week is <*pénkʷe>: "five".
+
+The <*p-kʷ> sequence in <*pénkʷe> leads to a set highly divergent forms. <*kʷ> is a highly variable sound on its own, becoming /kw/, /w/, /ʍ/, /k/, /t͡ʃ/, /s/, /p/, or /t/ in various descendants; in many cases with multiple branches arriving at the same sound independently in at different times.
+
+On top of that, the <*p-kʷ> assimilates in Germanic (regressively), Celtic, and Italic (both progressively). The progressive assimilation <*p-kʷ> to <*kʷ-kʷ> is a regular change also seen in Celtic and Italic descendants of <*pekʷ->: "to cook" and <*pérkʷu-s>: "oak". 
+
+This is complicated by the fact that some branches in both Celtic and Italic change <*kʷ> to /p/ (a merger in Italic, but following deletion of <*p> in Celtic). And then, Vulgar Latin changed its mind about the assimilation and regressively dissimilates to /k-kʷ/.  That then allows palatalization on the /k/ leading to /t͡ʃ/ (and later /ts/, /ʃ/, or /s/ in various descendants).
+
+Italic and Celtic share regressive assimilation from <*pénkʷe> to <*kʷénkʷe>, and in fact that assimilation is a regular change also seen in Celtic and Italic forms of <*pekʷ->: "to cook" and <*pérkʷu-s>: "oak".
+
+Some of these specifics are discussed in more detail in the footnotes.
+
+I've included another root, Proto-Indo-European <*pewǵ->: "to punch, to fist-fight". This is not so much to claim the roots are related, as that they are close enough in both sound and meaning that there are words that can't be assigned clearly to one or the other; particularly West Germanic <*fūsti>: "fist". The similarity also does allow for them to be potentially related, possibly with <*penkʷ-> coming from a re-analysis of a nasal infix form <*pewǵ->, such as the one attested in Latin `pungō`.
+
+Finally, as I've said before, there are reason to believe that many of the Proto-Indo-European numbers numbers are relatively recent, with only the numbers 1-3 being clearly established in Archaic PIE/Indo-Anatolian. The numbers 5-10 all have reasonably likely derivations, either as borrowings or as morphological derivations from other PIE words.
+
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
+
+
+?> Proto-Indo-European <*pn̥kʷstis>
+
+--> Proto-Indo-European <*pn̥stis> (variant with simplification)
+
+--?> Balto-Slavic
+----> Slavic <*pę̑stь>
+-----> East Slavic
+------> Russian `пясть` <pjastʹ>
+-------> Russian `запя́стье` <zapjástʹje>: "wrist"
+-----> South Slavic
+------> Serbo-Croatian `пе̑ст` <pȇst>: "fist" (regional)
+-------> Serbo-Croatian `пѐсница` <pèsnica>: "fist" (regional)
+-----> West Slavic
+------> Polish `pięść`: "fist"
+
+--?> Germanic <*funstiz> #
+---?> West Germanic <*fūsti>: "fist"
+-----> Old English `fȳst`: "fist"
+------> English `fist`
+-----> Frankish <*fūst>
+------> Dutch `vuist`: "fist"
+-----> Old High German `fūst`
+------> German `Faust`: "fist" ##
+------?> English `Faust`
+------> Yiddish `פֿויסט` <foyst>: "fist"
+
+
+--> Proto-Indo-European <*kʷn̥stis> (variant with metathesis and simplification)
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `kum̃štis`: "fist"
+----> West Baltic
+-----> Old Prussian `kuntis`: "fist"
+
+
+?> Proto-Indo-European <*penkʷrós>
+
+--> Germanic <*fingraz>: "finger" #
+---> East Germanic
+----> Gothic `𐍆𐌹𐌲𐌲𐍂𐍃` <figgrs>: "finger"
+---> North Germanic
+----> Old Norse `fingr`: "finger"
+-----> Danish `finger`: "finger"
+-----> Icelandic `fingur`: "finger"
+---> West Germanic
+----> Old English `finger`: "finger"
+-----> English `finger`
+----> Frankish <*fingar>
+-----> Dutch `vinger`: "finger"
+----> Old High German `fingar`
+-----> German `Finger`: "finger"
+-----> Yiddish `פֿינגער` <finger>: "finger, toe"
+
+
+
+?> Proto-Indo-European <*pénkʷe>: "five" 
+
+--> Pre-Albanian <*penče>
+---> Albanian `pesë`: "five"
+
+--> Old Armenian `հինգ` <hing>: "five"
+---> Armenian `հինգ` <hing>: "five"
+
+--> Balto-Slavic <*pénkti>: "five"
+---> East Baltic
+----> Lithuanian `penkì`: "five"
+---> Slavic <*pętь>: "five"
+----> East Slavic
+-----> Russian `пять` <pjatʹ>: "five"
+----> South Slavic
+-----> Old Church Slavonic `пѧть` <pętĭ>: "five"
+-----> Serbo-Croatian `пе̑т` <pȇt>: "five"
+----> West Slavic
+-----> Polish `pięć`: "five"
+---> West Baltic
+----> Old Prussian <*pentʲ>: "five"
+-----> Old Prussian `pentninx`: "Friday" (likely literally "fifth")
+----> Sudovian `pank`: "five"
+
+--> Pre-Germanic <*pémpe>
+---> Germanic <*fimf>: "five"
+----> East Germanic
+-----> Gothic `𐍆𐌹𐌼𐍆` <fimf>: "five"
+-----> Crimean Gothic `fyuf`: "five"
+----> North Germanic
+-----> Old Norse `fimm`: "five"
+------> Danish `fem`: "five"
+------> Icelandic `fimm`: "five"
+----> West Germanic
+-----> Old English `fīf`: "five"
+------> English `five`
+-----> Frankish <*finf>
+------> Dutch `vijf`: "five"
+-----> Old High German `fimf: "five"
+------> German `fünf`: "five"
+------> Yiddish `פֿינף` <finf>: "five"
+
+--> Hellenic <*pénkʷe>
+---> Ancient Greek `πέντε` <pénte>: "five"
+----> Greek `πέντε` <pénte>: "five"
+----> English `penta-`
+---> Aeolic Greek `πέμπε` <pémpe>: "five"
+
+
+--> Indo-Iranian <*pánča>
+---> Indo-Aryan <*pánća>
+----> Dardic
+-----> Kashmiri `پانٛژھ` <pānċh>: "five"
+----> Mitanni Aryan <*panća>
+-----> Mitanni Aryan <*panća-vartana>: "for five laps" (Kikkuli)
+------> Hurrian
+-------> Hittite <pa-an-za-wa-ar-ta-an-na>: "for five laps" (Kikkuli)
+----> Sanskrit `𑀧𑀜𑁆𑀘𑀦𑁆` <páñcan>: "five"
+-----> Elu
+------> Dhivehi `ފަހެހް` <faheh>: "five"
+------> Sinhala `පහ` <paha>: "five"
+-----> Magadhi `𑀧𑀁𑀘` <paṃca>: "five"
+------> Bengali `পাঁচ` <pãcô>: "five"
+------> Rohingya `fañs`: "five"
+-----> Maharashtri `𑀧𑀁𑀘` <paṃca>: "five"
+------> Marathi `पाच` <pāċ>: "five"
+-----> Pali <pañca>: "five"
+------> Malay `panca`: "five"
+-----> Sauraseni `𑀧𑀁𑀘` <paṃca>: "five"
+------> Madhya
+-------> Hindi `पाँच` <pā̃c>: "five"
+--------> English `punch` (drink with five ingredients)
+------> Pahari
+-------> Punjabi `ਪੰਜ` <pañj>: "five"
+-----> West Indo-Aryan
+------> Romani `panzh`: "five"
+---> Iranian <*pánča>
+----> Avestan `𐬞𐬀𐬧𐬗𐬀` <paṇca>: "five"
+----> Bactrian `πανζο` <panzo>: "five"
+----> Northern Iranian
+-----> Ossetian `фондз` <fonʒ>: "five"
+-----> Sogdian `𐫛𐫗𐫝` <panč>: "five"
+----> Pashto `پنځه` <pinźë́>: "five"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `pênc`: "five"
+-----> Old Persian
+------> Persian `پنج` <panj>: "five"
+-------> Persian `پنجاب` <panjâb>: "Punjab, the five rivers of Punjab" (lit. "five waters")
+--------> Punjabi `ਪੰਜਾਬ` <pañjāb>: "Punjab"
+---------> English `Punjab`
+
+
+--> Italo-Celtic <*kʷenkʷe> (assimilation)
+
+---> Celtic <*kʷenkʷe>
+----> Brythonic <*pɨmp>: "five" ###
+-----> Welsh `pump`: "five" ###
+----> Gaulish `pempe`: "five" ###
+----> Old Irish `cóic`: "five"
+-----> Irish `cúig`: "five"
+
+---> Italic <*kʷenkʷe>
+----> Latin `quīnque`: "five"
+-----> Vulgar Latin <*cīnque>: "five" ####
+------> Sardinian
+-------> Campidanese `cincu`
+-------> Logudorese `chimbi`: "five"
+------> Eastern Romance
+-------> Romanian `cinci`: "five"
+------> Western Romance
+-------> French `cinq`: "five"
+--------> Haitian Creole `senk`: "five"
+-------> Italian `cinque`: "five"
+-------> Spanish `cinco`: "five"
+--------> Tagalog `singko`: "five"
+--------> Spanish `Cinco de Mayo`
+---------> English `Cinco de Mayo`
+-----> Latin `quīntus`: "fifth"
+------> Latin `Quīntus`: "Fifth (personal name)"
+-------> Western Romance
+--------> Italian `Quinto`
+-------> Ancient Greek `Κόϊντος` <Kóïntos>
+-------> Latin `Quīntīnus` (diminutive)
+--------> Western Romance
+---------> French `Quentin`
+----------> English `Quentin`
+---------> Italian `Quintino`
+---------> Spanish `Quintín`
+------> Latin `Quīntīlis`: "July" (before it was renamed after Julius Caesar)
+-------> Latin `Quīnctīlius`: "of July (family name)"
+-----> Latin `quīndecim`: "fifteen"
+------> Vulgar Latin <*quindece> ####
+-------> Sardinian
+--------> Logudorese `bindighi`: "fifteen"
+-------> Western Romance
+--------> French `quinze`: "fifteen"
+-----> Latin `quīncū̆nx`: "five-twelfths, the five on a die"
+------> English `quincunx`
+----> Oscan `𐌐𐌖𐌌𐌐𐌄` <pumpe>: "five"
+-----> Oscan `​​𐌐𐌏𐌌𐌐𐌕𐌖𐌔` <pomptus>: "fifth"
+-----?> Latin `Pontius`: "personal name"
+-------> Western Romance
+--------> French `Ponce`
+--------> Italian `Ponzio`
+---------> Italian `Ponzi`
+----------> English `Ponzi scheme`
+-------> English `Pontius`
+-----> Oscan <*Pumpeis?> ("of five") 
+------> Latin `Pompeiī`
+-------> English `Pompeii`
+-----> Latin `Pompeius` (personal name)
+------> English `Pompey`
+----> Umbrian `𐌐𐌖𐌌𐌐𐌄` <pumpe>
+
+
+--> Messapian `ΠΕΝΚΑΗΕΗ` <penkaheh>: "five"
+
+--> Phrygian `ΠΙΝΚΕ` <pinke>: "five"
+
+--> Tocharian <*p'äñś>
+---> Arshian <päñ>: "five"
+---> Kushean <piś>: "five"
+
+
+--> Proto-Indo-European <*pénkʷedḱomt>: "fifty"
+
+---> Old Armenian `յիսուն` <yisun>: "fifty"
+----> Armenian `հիսուն` <hisun>: "fifty"
+
+---> Hellenic
+----> Ancient Greek `πεντήκοντᾰ` <pentḗkonta>: "fifty"
+-----> Greek `πενήντα` <penínta>: "fifty"
+-----> Ancient Greek `πεντηκοστή` <pentēkostḗ>: "fiftieth, Pentecost"
+------> Latin `Pentēcostē`: "Pentecost"
+-------> English `Pentecost`
+
+---> Indo-Iranian <*pančaHćát>
+----> Indo-Aryan
+-----> Sanskrit `𑀧𑀜𑁆𑀘𑀸𑀰𑀢𑁆` <pañcāśát>: "fifty"
+------> Elu
+-------> Dhivehi `ފަންސާސް` <fan̊sās>: "fifty"
+-------> Sinhala `පනහ` <panaha>: "fifty"
+------> Magadhi
+-------> Bengali `পঞ্চাশ` <pôncash>: "fifty"
+------> Pali `𑀧𑀜𑁆𑀜𑀸𑀲` <paññāsa>: "fifty"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `पचास` <pacās>: "fifty"
+----> Iranian
+-----> Avestan `𐬞𐬀𐬧𐬗𐬁𐬯𐬀𐬙` <paṇcāsat>: "fifty"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `pêncî`: "fifty"
+------> Old Persian
+-------> Persian `پنجاه` <panjâh>: "fifty"
+
+---> Italic
+----> Latin `quīnquāgintā`: "fifty"
+-----> Vulgar Latin <*cīnquāgintā>: "fifty"
+------> Sardinian
+-------> Logudorese `chimbanta`: "fifty"
+------> Western Romance
+-------> French `cinquante`: "fifty"
+-------> Italian `cinquanta`: "fifty"
+-------> Spanish `cincuenta`: "fifty"
+
+
+---> Tocharian
+----> Kushean <piśāka>: "fifty"
+
+
+
+Proto-Indo-European <*pewǵ->: "to punch, to fist-fight"
+
+-> Proto-Indo-European <*punéǵti> (-n- imperfective)
+
+--> Italic
+---> Latin `pungō`: "I puncture"
+----> Western Romance
+-----> French `poindre`: "to prick, to sting, to begin"
+-----> Italian `pùngere`: "to prick, to sting, to prickle"
+
+----> Latin `pungēns`: "puncturing, stinging"
+-----> Western Romance
+------> Old French `poignant`: "pointed, pointy"
+-------> French `poignant`
+-------> English `poignant`
+------> Italian `pungente`: "prickly, biting, pungent"
+-----> English `pungent`
+
+----> Latin `pūnctiō`
+-----> Western Romance
+------> Old French `ponchon`: "puncheon"
+-------> French `poinçon`: "stamp, awl, punch"
+-------> English `puncheon`
+-------> English `punch`
+------> Italian `punzone`: "stamp"
+------> Spanish `punzón`: "awl"
+
+----> Latin <*impungō>
+-----> Eastern Romance
+------> Romanian `a împunge`: "to prod, to goad, to prick"
+----> Latin `expungō`: "strike out, erase"
+-----> English `expunge`
+
+----> Latin `pūnctus`: "punctured, stippled, marked with points"
+-----> Western Romance
+------> Old French `point`
+-------> French `point`: "point"
+-------> English `point`
+------> Italian `punto`: "point"
+------> Spanish `punto`: "point"
+----?> German `bunt`: "spotted, speckled, variegated"
+-----> Vulgar Latin `punctus`
+------> Vulgar Latin <*punctiāre>
+-------> Western Romance
+--------> Italian `ponzàre`
+-----> Medieval Latin `pūnctus`
+------> Medieval Latin `pūnctuō`
+-------> English `punctuate`
+-------> French `punctuer`
+-----> Latin `pūnctūra`: "a puncture"
+------> English `puncture`
+
+
+
+-> Proto-Indo-European <*puǵlis>
+
+--> Italic
+---> Latin `pugil`: "boxer, pugilist"
+----> English `pugilism`
+
+
+-> Proto-Indo-European <*puǵméh>
+
+--> Hellenic <*pugmā́>
+---> Ancient Greek `πυγμή` <pugmḗ>: "fist, fistfight, distance from elbow to knuckles"
+----> Ancient Greek `πυγμαῖος` <pugmaîos>: "pygmy"
+-----> Latin `pygmaeus`: "pygmy"
+------> English `pygmy`
+
+
+-> Proto-Indo-European <*puǵnós>
+
+--> Italic
+---> Latin `pugnus`: "a fistful, a handful, a fist"
+----> Eastern Romance
+-----> Romanian `pumn`: "fist, punch, handful"
+----> Western Romance
+-----> French `poing`: "fist"
+-----> Italian `pugno`: "fist, punch, handful"
+------> Greek `μπουνιά` <bouniá>: "fist, punch"
+-----> Spanish `puño`: "fist, handful, wristband, handle"
+
+----> Latin `pugnō`: "I fight, I oppose, I struggle"
+-----> Western Romance
+------> Italian `pugnàre`: "to fight"
+------> Spanish `puñar`: "to fight, to attack"
+
+-----> Latin `impugnō`: "I attack, I assail"
+------> English `impugn`
+-----> Latin `repugnō`: "I fight against, I resist, I struggle"
+------> Latin `repugnāns`
+-------> English `repugnant`
+
+-----> Latin `pugnāx`: "tending to fight, combative, aggressive"
+------> Western Romance
+-------> French `pugnace`: "pugnacious"
+--------> English `pugnacious`
+-------> Italian `pugnace`: "pugnacious"
+-------> Spanish `pugnaz`: "pugnacious"
+
+
+
+-> Proto-Indo-European <*punǵstis>
+
+-?> Balto-Slavic
+---> Slavic <*pę̑stь>
+----> East Slavic
+-----> Russian `пясть` <pjastʹ>
+------> Russian `запя́стье` <zapjástʹje>: "wrist"
+----> South Slavic
+-----> Serbo-Croatian `пе̑ст` <pȇst>: "fist" (regional)
+------> Serbo-Croatian `пѐсница` <pèsnica>: "fist" (regional)
+----> West Slavic
+-----> Polish `pięść`: "fist"
+
+-?> Germanic <*funstiz>
+--?> West Germanic <*fūsti>: "fist"
+----> Old English `fȳst`: "fist"
+-----> English `fist`
+----> Frankish <*fūst>
+-----> Dutch `vuist`: "fist"
+----> Old High German `fūst`
+-----> German `Faust`: "fist" ##
+-----?> English `Faust`
+-----> Yiddish `פֿויסט` <foyst>: "fist"
+
+
+endbody
+
+
+startnotes
+
+
+## The legendary German figure "Faust", after historical figure Johann Georg Faust, is generally derived from Latin `faustus`: "fortunate", used in Latin as a cognomen and the name of several early Christian martyrs and bishops. It's not clear what if any influence there is from German `Faust`: "fist". There is evidence of the German surname previously being spelled as "Fust" and then changing to "Faust", which is the same change as the word for "fist".
+
+
+### Note that Welsh `pump` (and Gaulish `pempe`) cannot come from the unassimalated <*pénkʷe>. In Proto-Celtic, all IE <*p> become Celtic <*ɸ>, and then lost in all surviving descendants. A Welsh form from <*pénkʷe> would look something like `*emp` instead. So even even though they start with "p-", they are from <*kʷénkʷe>, with a re-emergence of the <p> from the regular <*kʷ> -> <*p> change in the "p-Celtic" languages such as Welsh and Gaulish.
+
+Oscan and Umbrian forms with <p> could be from either <*pénkʷe> or <*kʷénkʷe>, since they have the same <*kʷ> -> <*p>, but in their case that merges <*kʷ> with inherited <*p>. But in this case it appears to be more parsimonious to assume <*p> -> <*kʷ> -> <*p>, than to assume an unchanged <*p>, so they are assumed to come from the same Italic <*kʷénkʷe> as Latin `quīnque`. In 
+
+#### In Vulgar Latin decides it no longer likes the  assimilated `quīnque`, and _dissimilates_ to <*cinque>. But in the Latin `quīndecim`: "fifteen", there is no second <qu>, and no dissimilation occurs, leaving Vulgar Latin <*quindece>. This leads to the phenomenon that in most Romance languages, the words for "five" and "fifteen" start with different sounds, e.g. French `cinq` (/sɛ̃k/) vs. `quinze` (/kɛ̃z/) or Logudorese Sardinian "chimbe" (/kim.bɛ/) vs. "bindighi" (/bin.di.ɡi/). (The Sardinian shows another one of those <kw-> to <p-> type changes).
+
+In Eastern Romance languages, "fifteen" is re-derived from "five" as a calque of Old Church Slavonic `пѧть на десѧте` <pętĭ na desęte>: "five on (top of) ten", and so "five" and "fifteen" do match initial sounds: Aromanian `tsintsi`/`tsisprã-dzatsi` or Romanian `cinci`/`cincisprezece`.
+
+The derivation for "fifty": Latin `quīnquāgintā` keeps the second <qu>, so it dissimilates to <*cīnquāgintā> like "five".
+
+# Oddly, Germanic seems to maintain several hand-related words apparently lost in most or all other branches, except in number words derived from them: `hand` from otherwise unattested <*ḱomt>, which apparently forms the basis of <*déḱm̥>: "ten" and <*(d)ḱm̥tóm>: "hundred", as well as this `fist` and `finger` from same root as <*pénkʷe>: "five". <*pn̥kʷstis>: "fist" is also attested in Balto-Slavic, but <*penkʷrós>: "finger" and <*ḱomt>: "hand" are only in Germanic.
+
+
+endnotes
+

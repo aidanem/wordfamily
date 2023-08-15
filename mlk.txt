@@ -1,0 +1,118 @@
+date: 20220117
+tags: Bonus
+
+
+startintro
+
+MLK is King
+
+(Martin Luther King Jr. Day Holiday Bonus)
+
+endintro
+
+
+
+startbody
+
+
+Semitic <*m-l-k->
+
+
+-> Semitic <*malk->
+
+--> Central Semitic
+
+---> Arabic `مَلِك` <malik>: "king, monarch"
+----> Pashto `ملک` <malik>: "king"
+----> Persian `ملک` <malek>: "king"
+
+----> Arabic `مَلِك` <Malik>: "King (personal name)"
+-----> English `Malik`
+
+---> Northwest Semitic
+----> Aramaic `מַלְכָּא` <malkā>: "king"
+----?> Arabic `مَلِك` <malik>: "king, monarch" (possible borrowing from Aramaic, to account for irregular vowel)
+
+----> Canaanite
+----?> Ammonite `𐤌𐤋𐤊` <mlk>: "king, Moloch"
+-----?> Hebrew `מולך‎` <mólekh>: "Moloch"
+-----> Hebrew `מֶלֶךְ` <mélekh>: "king"
+------> Yiddish `מלך` <meylekh>: "king"
+------> Hebrew `מלכיאור‎` <Melkhior>: "King-of-Light (personal name)"
+-------> English `Melchior`
+
+-----> Phoenician `​​𐤌𐤋𐤊` <mlk>: "king"
+
+----> Ugaritic `𐎎𐎍𐎋` <malku>: "king" 
+
+--> East Semitic
+---> Akkadian `𒂷𒆪` <malku(m)>: "king, prince"
+
+--> South Semitic
+---> Old South Arabian
+----> Sabaean `𐩣𐩡𐩫` <mlk>: "king"
+
+
+-> Semitic <*malkat>: "queen"
+
+--> Central Semitic
+---> Arabic `مَلِكَة` <malika>: "queen"
+----> Persian `ملکه` <maleke>: "queen"
+-----> Hindi `मलिका` <malikā>: "queen"
+----> Swahili `malkia`: "queen"
+----> Arabic `مَلِكَة` <Malika>: "Queen (personal name)"
+-----> English `Malika`
+
+---> Northwest Semitic
+----> Aramaic `מַלְכְּתָא` <malk'ṯā>: "queen"
+----> Canaanite
+-----> Hebrew `מַלְכָּה` <malká>: "queen"
+------> Yiddish `מלכּה` <malke>: "queen"
+-----> Ugaritic `𐎎𐎍𐎋𐎚` <mlkt>: "queen"
+
+
+-> Semitic <*ʔamlāk->: "kings" (broken plural)
+
+--> Central Semitic
+---> Arabic `أَمْلَاك` <ʾamlāk>: "kings"
+
+--> South Semitic
+---> Ethiopic <*ʔamlāk->
+----> Amharic `አምላክ` <ʾämlak>: "god"
+
+
+
+-> Semitic <*malaka>: "to rule"
+
+--> Central Semitic
+---> Arabic `مَلَكَ` <malaka>: "to posses, to rule, to acquire"
+----> Arabic `مَالِك` <mālik>: "owner, leader"
+-----> Persian `مالک` <mâlek>: "owner"
+------> Hindi `मालिक` <mālik>: "God, Lord, boss, owner"
+----> Arabic `مَمْلُوك` <mamlūk>: "possessed, slave, mameluke"
+-----> French `mamelouk`: "mameluke"
+------> English `mameluke`
+
+
+---> Northwest Semitic
+----> Canaanite
+-----> Hebrew `מָלַךְ` <malákh>: "to rule"
+-----> Ugaritic `𐎎𐎍𐎋` <malaka>: "to rule"
+
+
+
+-> Semitic <*ma-mlaka>: "kingdom" (derivative of place)
+
+--> Central Semitic
+---> Arabic `مَمْلَكَة` <mamlaka>: "kindgom"
+----> Persian `مملکت` <mamlekat>: "country"
+----> Ottoman Turkish `مملكت` <memleket>: "kingdom, country"
+-----> Turkish `memleket`: "homeland"
+
+---> Northwest Semitic
+----> Canaanite
+-----> Hebrew `מַמְלָכָה` <mamlakhá>: "kingdom"
+
+
+
+endbody

@@ -1,0 +1,233 @@
+date: 20180202
+theme: Weather ⛈️
+tags: Divinities, Weather
+
+
+
+startbody
+
+Proto-Indo-European <*(s)tenh₂->: "thunder, to be loud, to resound" #
+
+-> Proto-Indo-European <*(s)ténh₂eti>: "thunders, resounds"
+
+--> Balto-Slavic
+---> Lithuanian `steneti`
+---> Slavic <*stenàti>: "to groan, to moan"
+----> East Slavic `стенати` <stenati>
+-----> Russian `стена́ть` <stenátʹ>: "to groan, to moan (archaic)"
+----> South Slavic
+-----> Bulgarian `сте́на` <sténa>
+-----> Serbo-Croatian `стењати` <stenjati>: "to groan, to moan"
+
+--> Hellenic
+---> Classical Greek `στένω` <steno>: "I am loud"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀲𑁆𑀢𑀦𑀢𑀺` <stánati>: "resounds, thunders, roars"
+
+
+-> Proto-Indo-European <*stonh₂éyeti?> (iterative or causative)
+
+--> Germanic <*stunōną>: "to groan, to crash"
+---> West Germanic
+----> Old English `(ġe)stunian`: "to make a loud sound, to crash, to strike with a loud sound, to confound, to astonish, to stupify"
+-----> English `stun`
+-----> Old English <*āstunian>
+-----?> Middle English `astonen`: "to astonish"
+-------> English `astonish`
+-------> Middle English `astoned` (past tense)
+--------> English `astound`
+----> Old High German
+-----> German `stöhnen`: "moan, groan"
+----> Frankish <*stunōn>
+-----> Dutch `steunen`: "to moan, to groan, to hold up, to support"
+------> Dutch `steunbeer`: "buttress" (lit. "support boar")
+----?> Old French `estoner`
+
+--> Italic
+---> Latin `tonō`: "I thunder, I speak thunderously"
+----> Central Romance
+-----> Italian `tuonare` "to thunder"
+----> Eastern Romance
+-----> Romanian `a tuna`: "to thunder, to speak thunderously"
+----> Western Romance
+-----> French `tonner`
+-----> Spanish `tronar`
+------> Spanish `tronada`: "thundered, thunderstorm"
+-------> English `tornado`
+-------> French `tornade`: "tornado"
+-------> Italian `tornado`: "tornado"
+-------> German `Tornado`: "tornado"
+----> Latin `tonitrus`: "thunder"
+-----> Eastern Romance
+------> Romanian `tunet`: "thunder"
+-----> Western Romance
+------> French `tonnerre`: "thunder"
+------> Spanish `estruendo`: "racket, din, noise"
+
+----> Latin `dētonō`: "I cease thundering, I cease raging, I thunder down/forth"
+-----> Central Romance
+------> Italian `detonare`: "to explode, to detonate"
+-----> Eastern Romance
+------> Romanian `a detuna`: "to strike with lightning, to explode, to detonate"
+-----> Western Romance
+------> French `détoner`: "to detonate"
+------> Spanish `detonar`: "to detonate"
+-----> English `detonate`
+
+----> Latin `extonō`
+-----> Western Romance
+-----?> Old French `estoner`
+-------> French `étonner`: "to surprise"
+------?> Middle English `astonen`: "to astonish"
+
+---?> Latin `tonus`: "tension, pitch, sound, thunder" ####
+----> French `ton`: "tone"
+-----> English `tone`
+-----> English `ton`
+-----> English `tune`
+----> English `tone`
+
+
+
+
+
+-> Proto-Indo-European <*(s)tenh₂tōr>: "thunderer, resounder, an epithet of the Divinity of Thunder"
+
+--> Hellenic
+---> Classical Greek `Στέντωρ` <Stentor>: "herald in the Illiad, noted for his loud voice"
+----> Latin `Stentor`: "herald in the Illiad"
+-----> English `stentorian`
+
+--> Indo-Iranian
+---> Iranian
+----> Persian `تندر` <tondar>: "thunder, roaring"
+
+
+
+-> Proto-Indo-European <*(s)tn̥h₂ros>: "thunderous, resounding, an epithet of the Divinity of Thunder"
+
+-?> Anatolian
+---> Hittite `𒀭𒅎` <Tarḫunna>: "Divinity of Weather, esp. Thunder" #####
+--?> Etruscan <Tarchon>: mythical founder of the Etruscan League, associated with lightning ######
+----> Classical Greek `Τάρχων` <Tarchon>: "Tarchon"
+----> Etruscan <Tarchna>: "city of Tarchon, Tarquinia" (A founding city of the Etruscan Leage)
+-----> Latin `Tarquinii`: "Tarquinia"
+------> English `Tarquinia`
+-----> Etruscan <Lauchume Tarchnaś?>: "King of Tarquinia" ######
+------> Latin `Lucius Tarquinius`: "Either of two legendary Etruscan Kings of Rome" ######
+-------> Latin `Tarquinia`: "Roman plebeian family" (associated with the Etruscan Kings)
+----> Etruscan <Tarchies?>
+-----> Latin `Tages`: "child prophet of Etruscan religion"
+
+--> Celtic <*toranos>: "thunder, Divinity of Thunder"
+---> Brythonic
+----> Welsh `taran`: "thunder"
+----> Pictish #######
+-----> Welsh `Taran` (personal name) #######
+----?> Irish `Tarachin`
+---> Old Irish
+----> Irish `Tuireann`: personal name of one of the Tuatha De Dannan
+----> Irish `torann`: "noise, tumult"
+----> Irish `toirneach`: "thunder"
+---> Gaulish `Taranis`: "Divinity of Thunder"
+
+
+--> Germanic <*þunraz>: "thunder, Divinity of Thunder"
+---> Old Norse `Þórr`: "Divinity of Thunder"
+----> Danish `Tor`: "Divinity of Thunder and a personal name"
+----> Icelandic `Þór` <Thór>: "Divinity of Thunder and a personal name"
+-----> English `Thor`
+----> Old Norse `Þórsdís`: "Thor's-Goddess (personal name)"
+-----> Danish `Tordis`
+----> Old Norse `Þorfinnr`: "Thor/Thunder of/to the Finns (personal name)"
+----> Old Norse `Þórslundr`: "Thor's-Grove (place name)" (and later family name)
+-----> Swedish `Torslunda`
+----> Old Norse `Þórbjörn`: "Thunder-Bear (personal name)"
+-----> Danish `Thorbjørn`
+----> Old Norse `Þórhildr`: "Thor's-Battle(-Maiden) (personal name)"
+-----> Norwegian `Torhild`
+----> Old Norse `Þórsø`: "Thor's Island (place name)"
+-----> Swedish `Torsö`
+----> Samic
+-----> Northern Sami `(T)Horagalles`: "Divinity of Thunder"
+---> West Germanic
+----> Old English `þunor`: "thunder, Divinity of Thunder"
+-----> English `thunder`
+-----> English `Thunor`
+-----> Old English `Þunreslēah`: "Thunor's Clearing (place name)" (probably originally worship sites)
+------> English `Thundersley`
+------> English `Thursley`
+-----?> English `Dursley`
+----> Old High German `donar`: "thunder"
+-----> German `Donner`: "thunder"
+-----> German `Donar`: "Divinity of Thunder"
+----> Frankish <*thonar>
+-----> Dutch `donder`: "thunder"
+-----?> English `dunderhead` ##
+------> Dutch `donderbus`: "thunder-box, blunderbus"
+-------> English `blunderbus` (altered by influence of `blunder`)
+---> Germanic <*Þunrastainaz>: "Thunder-Stone (personal name)"
+----> North Germanic
+-----> Old Norse `Þórsteinn`
+------> Swedish `Torsten`
+-----?> English `Dustin`
+----> West Germanic
+-----> Old English `Thurstan`
+------> English `Thurston`
+---> Germanic <*Þunras dagaz>: "Thursday" ("Thunor's Day", calque of Latin `diēs Iovis`: "Jove's Day")
+----> Old Norse `þórsdagr`: "Thursday"
+-----> Icelandic `þórsdagur`: "Thursday (archaic)" ###
+-----> Swedish `torsdag` "Thursday"
+-----> Finnish `torstai`: "Thursday"
+-----> Northern Sami `duorastat`: "Thursday"
+----> West Germanic
+-----> Old English
+------> English `Thursday`
+-----> Old High German
+------> German `Donnerstag`: "Thursday"
+------> Yiddish `דאָנערשטיק` <donershtik>: "Thursday"
+
+endbody
+
+startnotes
+
+# The (s) in the root like this means an "s-mobile" root. https://en.wikipedia.org/wiki/Indo-European_s-mobile. In these roots, there is random variation in whether the descendants in a particularly branch has the [s] or not. Probably because of the large number of PIE grammatical endings that end with 's' means it's very hard to tell difference between, e.g., <*ḱr̥sós sténh₂eti> vs. <*ḱr̥sós ténh₂eti>, so <s> is always getting added and removed at the beginning of roots like this.
+
+## `dunderhead` is sometimes linked to Dutch `donder`, though it's at least as likely to be from  Spanish `redundar`: "overflow" -> West Indies English `dunder`: "dregs of cane juice left after distilling rum" -> `dunderhead`.
+
+### Icelandic `þórsdagur` was replaced during Christianisation by `fimmtudagur` "fifth day".
+
+#### Latin `tonus` is generally considered to be from Greek `τόνος` <tónos>: "strain, tension, pitch" referring to stringed instruments, from `τείνω` <teínō>: "I stretch". But a number of Romance words for thunder are generally traced to `tonus`, e.g. Italian `tuono`, Spanish `trueno`.
+
+My interpretation is that when Latin borrowed <tonus> from Greek, it became conflated with the existing <tono>.
+
+##### The derivation usually given for Hittite `𒀭𒅎` <Tarḫunna>: "Divinity of Weather, esp. Thunder"  is from <*terh-> "through, conquer". I was originally skeptical. But the <*terh> derivation (as well as the possibility of connection to <*tenh->) are covered by Calvert Watkins says:
+
+"Mark Hale pointed out to me a numer of years ago the suspicious similarity of the name of the Hittite Storm God *Tarḫunnaš to that of his closest equivalent in the Germanic pantheon, Old Norse Þórr. For the former we may construct *trh₂Vno-, for the latter *tnh₂Vro-, and the two look like metathesis variants of each other. Both ostensible roots, *terh₂- 'overcome' and *tenh₂- 'thunder', are firmly established in the proto-language. But on the other hand folk etymology or tabu deformation by metathesis are well-docmented precisely in divine names; we can observe the process from *per[k]-aunos (Slavic god Perunъ) and *ker[p]-aunos (Greek κεραυνός 'thunderbolt') to English doggone and goddam. The result is an etymological quandry: is the similarity just accident, or is one divine name metathesized from the other by folk etymology or other deformation--and if so, which?"
+Watkins, Calvert (1995) How to Kill a Dragon: Aspects of Indo-European Poetics. 343, note 1
+
+
+###### It's even more tentative to connect Etruscan <Tarchon> to Anatolian Tarḫun. First, note that Etruscan <ch> is /χ/ and Hittite <ḫ> is either /χ/ or /χʷ/, so don't let the differences in orthography throw you. Also there's some interesting pieces of circumstanial evidence:
+
+1. Genetic evidence is inconsistent between a local origin Italian origin of the Etruscans or an Anatolian origin. A mix of local and Anatolian genetics seems like a strong possibility. There is evidence of linguistic affinity between Etruscan and the pre-Greek language on the island of Lemnos (c. 6th century BCE), which is in the Aegean Sea, close to the coast of Anatolia. Taken together, there is a definite possibility some portion of the ancestors of the Etruscans came from or through Anatolia before migrating to Italy during or after the Late Bronze Age collapse.
+
+2. Even as little as we know about the figures of Tarchon and Tages, both include associations with lightning: One of the few stories of Tarchon in Roman records is that he planted white bryony trees around his house to protect it from thunderbolts. Tages is supposed revealed the methods of divination by lightning used by Etruscans and Romans, and in some Roman writings is said to be a grandson of Jupiter.
+
+Another interesting linguistic note about Tarchon.
+
+There's good indication that what the Roman record as the first two names (and therefore, by Roman convention, the personal name and clan name) of `Lucius Tarquinius Priscus` ("Tarquin the Elder") and `Lucius Tarquinius Superbus` ("Tarquin the Proud") are misunderstandings, by mixing up Etruscan words with similar sounding Roman names.
+
+Livy says that Lucius Tarquinius Priscus (Tarquin the Elder) came from Etruria (i.e. Etruscan territory) and that his original Etruscan name was `Lucumo`. But `Lucumo` is just a variant spelling of the Etruscan word for king, `Lauchume`. So `Lucius Tarquinius` is better understood as "King Tarchon", with `Tarchon` as the personal name, or even as "King of Tarchna" or "King from Tarchna", with no personal name recorded. (In both cases, the third name is a cognomen, or nickname, as expected in Roman names: `Priscus`: "the Elder" and `Superbus`: "the Proud")
+
+Note: The Tarquins are from about the 500s BCE, but Livy is writing about 20 BCE. The last of the Etruscan cities were absorbed into Rome by about 100 BCE, and most of Rome's records of the Regal Period were lost in the sack in 390 BCE (by the Sennones, they'll come up again in May!). So Livy being pretty confused is reasonable.
+
+
+
+####### `Taran mac Entifidich` appears in the Welsh stories of the Old North as the name of a Pictish king, and likely the same figure appears in the Irish Annals of Ulster as `Tarachin` (and the Annals of Ulster also mention `Ainfthech`, almost certainly the same name as `Entifidich` recorded in Welsh, and `Amfodech` in Anlgo-Norman).
+
+(It's also the name of my son, whose birthday is this week)
+
+
+endnotes

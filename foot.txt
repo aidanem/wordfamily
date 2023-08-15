@@ -1,0 +1,55 @@
+startbody
+
+Proto-Indo-European <*ped->: "to walk, to step, to stumble"
+
+-> Proto-Indo-European <*pǝdyéti>: "walks, stumbles" (intransitive deponent verb)
+
+--> Italic <*petkāō>: "I fall, I sin" (with intensive/frequentive -k-??)
+---> Latin `peccō`: "I sin, I transgress, I offend"
+----> Latin `peccabilis`: "likely to offend"
+-----> Latin `impeccabilis`: "unlikely to offend"
+------> Western Romance
+-------> Old French `impeccable`
+--------> English `impeccable`
+
+
+-> Proto-Indo-European <*pedeyéti>: "causes to walk" (causative verb)
+
+--> Germanic <*fatjanã>
+---> West Germanic
+----> Old English `feċċan`: "to fetch, to bring, to seek, to take"
+-----> English `fetch`
+
+
+
+
+
+
+
+-> Proto-Indo-European <*pṓds>: "foot" (genitive <*pedés>)
+
+--> Germanic <*fōts>: "foot"
+---> West Germanic
+----> Old English `fōt`
+-----> English `foot`
+------> English `footie` (diminutive)
+
+--> Indo-Iranian <*pā́ts>: "foot"
+---> Indo-Iranian <*pā́das>: "foot" (thematic levelling form the genitive)
+----> Iranian <*pā́dah>: "foot"
+-----> West Iranian
+------> Old Persian `𐎱𐎠𐎭` <p-a-d>: "foot"
+-------> Persian `پای` <pây>: "foot, leg, limb"
+--------> Persian `پایجامه` <pâyjâma>: "loose, light weight trousers" (lit. "leg garment")
+---------> Hindi `पैजामा` <paijāmā>
+----------> English `pajamas`
+
+--> Italic <*pets>
+---> Latin `pēs`: "foot"
+----> Latin `pedō`: "I foot, I give feet to, I walk"
+-----> Latin `pedōnem`: "foot soldier, conscript"
+------> Western Romance
+-------> Old French `peon`
+--------> English `peon`
+
+endbody

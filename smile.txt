@@ -1,0 +1,124 @@
+
+date: 20170224
+
+
+startbody
+
+Proto-Indo-European <*smey->: "to laugh, to be glad"
+
+-> Proto-Indo-European <*sméyeti> (primry verb)
+
+--> Balto-Slavic
+---> Lithuanian `smiêt`: "to laugh"
+---> Slavic <*smьjàti>: "to laugh"
+----> East Slavic
+-----> Russian `смеяться` <smejátʹsja>: "to laugh, to mock"
+----> South Slavic
+-----> Serbo-Croatian `смѝјати` <smìjati>: "to laugh"
+----> West Slavic
+-----> Polish `śmiaćsię`: "to laugh"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `स्मयते` <smayate>: "to smile, to laugh, to blush"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `स्मित` <smit>: "smile"
+
+--> Tocharian
+---> Arshian <smimāṃ>: "laughing"
+---> Kushean <smiyäṃ>: "to laugh"
+
+
+
+
+-> Proto-Indo-European <*sméyros>: "smiling, happy" (adjective)
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `स्मेर` <smera>: "smiling, proud, happy, friendly, blooming, expanded, manifested"
+
+--> Italic <*smeiros>
+---> Latin `mīrus`: "wonderful, amazing"
+
+----> Latin `mīror`: "I marvel at, I admire, I wonder at"
+-----> Western Romance
+------> French `mirer`: "to look at"
+-------> French `miroir`: "mirror" (instrumental: ~"looking tool/place")
+--------> English `mirror`
+-------> French `mirage`: "mirage"
+--------> English `mirage`
+------> Italian `mirare`: "to aim, to sight, to point, to admire, to comtemplate"
+------> Spanish `mirar`: "to look, to watch, to face (in a direction)"
+
+-----> Latin `admīror`: "admire" (lit. "I wonder at")
+------> French `admirer`: "admire"
+-------> English `admire`
+------> Italian `ammirare`: "to admire, to appreciate"
+------> Spanish `admirar`: "to admire, to be amazed"
+
+-----> Latin `mīrāculum`: "object of wonder"
+------> French `miracle`: "miracle"
+-------> English `miracle`
+------> Italian `miracolo`: "miracle, marvel, wonder"
+------> Spanish `milagro`: "miracle"
+
+-----> Latin `mīrābilis`
+------> Western Romance
+-------> French `merveille`: "wonder, marvel"
+--------> English `marvel`
+-------> Italian `meraviglia`: "wonder, marvel, astonishment, surprise"
+-------> Spanish `maravilla`: "wonder, marvel, sunflower, marigold"
+
+-----> Latin `mīrandus`, "which is to be wondered at, outlook, watchtower"
+------> Spanish `miranda`: "looking, a place from which something can be viewed, an outlook"
+-------> Spanish `Belmonte de Miranda (place name)` #
+--------> Spanish `Miranda (habitational surname)` #
+---------> English `Miranda warning`
+------> English `Miranda` ##
+-------> Translingual `Miranda`: "Moon of Uranus"
+
+
+-> Proto-Indo-European <*smilós>: "laugher?, happy person?" (agentive noun)
+--> Proto-Indo-European <*smiloyéti?> (denominative: "to be a happy person?")
+
+---> Germanic `*smīlijanã`: "to smile"
+----> North Germanic
+-----> Old Norse <*smíla>
+-----> Danish `smile`
+------> English `smile`
+-----> Icelandic
+----> Germanic <*smerōnã>: "to mock, deride" ####
+-----> West Germanic
+------> Old English `smercian`: "to smirk"
+-------> English `smirk`
+
+
+-> Proto-Indo-European <ḱóm smey->: "smile with, smile at"
+--> Proto-Indo-European <ḱóm smis>
+
+---> Italic <*komsmis>
+----> Latin `cōmis`: "courteous, kind, polite, gracious, elegant"
+-----> Latin `cōmitās`: "courtesy, kindness, politeness, elegance" ###
+------> English `comity`
+
+endbody
+
+
+
+startnotes
+
+# Just an example. There are many place names with "Miranda" across Spanish, Portuguese, and Italian
+
+## It is a notably characteristic of Miranda in the Tempest that she both wonders at, and is wondered at.
+
+Miranda's most famous line is: "O wonder! How many goodly creatures are there here! How beauteous mankind is! O brave new world, That has such people in't.".
+
+And Ferdinand, when he first sees her, addresesses her "O you wonder!", which is pretty much actually her name, since they are theoretically speaking Italian.
+
+
+### Latin `cōmis`/`cōmitās` ("smile with") not to be confused with `comes`/`comitis` ("go with"), see 20180105 for the latter.
+
+####: In many descendants, Germanic <*smerōnã>: "to mock, deride" is merged with <*smirwijanã>: "to smear", from <*smerwã>: "grease, butter, fat".
+
+endnotes

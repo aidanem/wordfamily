@@ -1,0 +1,390 @@
+
+
+startintro
+
+In which `linguistics` should probably be <*dinguistics>.
+
+Armenian `լեզու` <lezu>, Lithuanian `liežùvis`, and Latin `lingua` (all "tongue") are modified from their expected reflexes of <*dn̥ǵʰwéh₂s> by association with <*leyǵʰ->: "to lick". The expected words would be Armenian *tezu, Lithuanian *iežùvis, and Latin `dingua` (attested in Old Latin). 
+
+Though in the case of Latin, it could also be part of a larger *d > *l pattern, compare `lacrima` from <*dáḱru-> and `Ulyssēs` from `Ὀδυσσεύς` <Odusseús>. And then there's also `lutro`: "otter" from <*utrā>.
+
+<*dn̥ǵʰwéh₂s>: "tongue, language" is likely a derivative of <*denḱ->: "to bite". You could see <*denḱ-> being related to <*h₃ed->: "to bite" (which gives <*h₃dónts> to "tooth") and/or <*h₁ed->: "to eat"; but if so, the relationship is well beyond the horizon reconstructability.
+
+endintro
+
+
+
+startbody
+
+
+Proto-Indo-European <*denḱ->: "to bite"
+
+-> Proto-Indo-European <*denḱti>: "bites" (root imperfective)
+
+--> Indo-Iranian <*dáćati>
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀰𑀢𑀺` <dáśati>: "bites"
+-----> Elu
+------> Sinhala `ඩහනවා` <ḍahanawā>: "to bite"
+-----> Maharashtri `𑀟𑀲𑀇` <ḍasai>
+------> Marathi `डसणे` <ḍasṇe>: "to sting, to bite"
+-----> Sauraseni `𑀟𑀲𑀤𑀺` <ḍasadi>
+------> Madhya Sauraseni
+-------> Hindi `डसना` <ḍasnā>: "to bite, to sting"
+
+-> Proto-Indo-European <*dn̥ḱnéti>: "bites" (-n- imperfective)
+
+--> Hellenic
+---> Classical Greek `δάκνω` <dákno>: "I bite"
+----> Koine Greek `δαγκάνω` <dankánō>: "I bite"
+-----> Greek `δαγκώνω` <dagkóno>: "I bite"
+
+-> Proto-Indo-European <*donḱéyeti>: "makes bite" (causative imperfective)
+
+--> Germanic <*tangijaną>: "to press together, to fasten"
+
+--> Indo-Iranian <*danćáyati>
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀁𑀰𑀬𑀢𑀺` <daṃśayati>: "makes bite"
+
+
+-> Proto-Indo-European <*dn̥ḱtós>: "bitten" (adjective)
+
+--> Hellenic
+---> Classical Greek `-δηκτός` <-dektós>: "-bitten, -biting"
+----> Classical Greek `καρδιόδηκτος` <kardiódēktós>: "heart-biting, causing sorrow"
+----> Classical Greek `θηριόδηκτος` <thēriódēktós>: "beast-bitten, snake-bitten"
+----> New Latin `-dectus`
+-----> Translingual `Latrodectus`: "taxonomic genus of black widow spiders" (lit. "bandit-biting")
+
+
+-> Proto-Indo-European <*dónḱus>: "biting" (adjective)
+
+--> Germanic <*tanhuz>: "holding together, tenacious, sticky, tough"
+---> West Germanic
+----> Old English `tōh`: "tough"
+-----> English `tough`
+----> Frankish <*tāi>
+-----> Dutch `taai`: "tough, resilient"
+----> Old High German `zāh(i)`
+-----> German `zäh(e)`: "tough, tenacious, chewy, viscous"
+
+---> Germanic <*tanhwą>: "enclosed yard"
+----> North Germanic
+-----> Old Norse `tá`
+------> Old Danish <*tā>
+-------> Old Danish `fortā`
+--------> Danish `forte`: "village commons, enclosed path"
+--------> Danish `fortov`: "sidewalk"
+------> Icelandic `tá`: "path, footpath"
+
+---> Germanic <*tanhwō>: "hard ground"
+----> North Germanic
+-----> Old Norse `tó`: "grassy spot on a cliff"
+------> Icelandic `tó`: "grassy patch among rocks or cliffs"
+
+
+
+-> Proto-Indo-European <*dénḱs>: "biter, bite" (root noun)
+
+--> Hellenic
+---> Classical Greek `δήξ` <dḗx>: "wood worm" (possibly influenced by `σφήξ` <sphḗx>: "wasp" [wff-bee])
+
+
+-> Proto-Indo-European <*donḱéh₂>: "bites, a bite" (collective or abstract action noun)
+
+--> Albanian `dang`: "a bite, a nip"
+---> Albanian `darë`: "tongs"
+
+--> Germanic <*tangō>: "tongs, pliers"
+---> West Germanic
+----> Old English `tange`
+-----> English `tongs`
+----> Frankish <*tanga>
+-----> Dutch `tang`: "pliers, tongs, tweezers"
+------> Malay `tang`: "pliers, to use pliers"
+
+----> Old High German `zanga`: "tongs"
+-----> German `Zange`: "pincers, pliers, tongs, forceps"
+-----> Old High German `hevzanga`: "lifting tongs"
+------> Polish `obcęgi`: "pincers, pliers"
+-------> Ukrainian `обценьки` <obcenʹky>: "pincers"
+
+
+-> Proto-Indo-European <*donḱís>: "biter, bite" (noun)
+
+--> Germanic <*tangiz>: "tongs, pliers"
+---> North Germanic
+----> Old Norse `tǫng`: "tongs"
+-----> Danish `tang`: "tongs, forceps"
+-----> Icelandic `töng`: "pincers, pliers, tongs"
+
+----?> Old Norse `tangi`: "pointed metal tool, tang, cape (of land)"
+
+
+-> Proto-Indo-European <*donḱos>
+
+--> Indo-Iranian <*danćas>
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀁𑀰` <da(ṃ)śa>: "bite, sting, biting insect"
+
+
+-> Proto-Indo-European <*dń̥ḱos>
+
+--> Hellenic
+---> Classical Greek `δάκος` <dákos>: "bite, sting, animal with a venomous bite"
+
+--> Indo-Iranian <*daćas>
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀰` <da(ṃ)śa>: "bite, sting, biting insect"
+
+
+-> Proto-Indo-European <*dénḱmn̥>: "a bite" (action/result noun)
+
+--> Hellenic
+---> Classical Greek `δῆγμα` <dêgma>: "a bite, a sting"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀁𑀰𑁆𑀫𑀦𑁆` <daṃśman>: "a bite"
+
+
+-> Proto-Indo-European <*dénḱtis>: "a bite, biting" (abstract/action noun)
+
+--> Hellenic
+---> Classical Greek `δῆξις` <dêxis>: "a bite, biting, a taunt"
+
+
+-> Proto-Indo-European <*dénḱtrom>: "instrument of biting, tooth, fang" (instrument/tool noun)
+
+--> Indo-Iranian <*dánćtram>
+---> Indo-Aryan <*dánśtram>
+----> Sanskrit `𑀤𑀁𑀱𑁆𑀝𑁆𑀭` <dáṃṣṭra>: "fang, tusk"
+---> Iranian <*dánctram>
+----> Avestan <*dąstra->
+-----> Avestan `𐬙𐬌𐬲𐬌𐬛𐬄𐬯𐬙𐬭𐬀` <tiži-dąstra->: "sharp-toothed"
+
+
+
+?> Proto-Indo-European <*dn̥ǵʰwéh₂s>: "tongue, language"
+
+
+--> Old Armenian `լեզու` <lezu>: "tongue, language, nation" (modified by association with `լիզեմ` <lizem>: "to lick")
+---> Armenian `լեզու` <lezu>: "tongue, language, speech"
+----> Armenian `նախալեզու` <naxalezu>: "proto-language"
+
+
+--> Balto-Slavic <*inźūˀ>: "tongue" (regular loss of *d before *n̥)
+---> East Baltic
+----> Lithuanian `liežùvis`: "tongue" (modified by association with `liežti`: "to lick")
+---> West Baltic
+----> Old Prussian `insuwis`: "tongue"
+---> Balto-Slavic <*inźūˀ-kas>
+----> Slavic <*ęzỳkъ>: "tongue, language"
+-----> East Slavic `ꙗзꙑкъ` <jazykŭ>: "tongue, language, nation"
+------> Russian `язы́к` <jazýk>: "tongue, language"
+------> Ukrainian `язи́к` <jazýk>: "tongue"
+-----> South Slavic
+------> Bulgarian `ези́к` <ezík>: "tongue, language"
+------> Old Church Slavonic `ѩзꙑкъ` <językŭ>: "tongue, language, nation"
+------> Serbo-Croatian `јѐзик` <jèzik>: "tongue, language"
+-----> West Slavic
+------> Czech `jazyk`: "tongue, language"
+------> Polish `język`: "tongue, language"
+
+
+--> Celtic <*dangʷāss>
+---> Celtic <*tangʷāss>: "tongue" (irregular *d -> *t, Germanic influence?)
+----> Brythonic <*tavọd>
+-----> Welsh `tafod`: "tongue"
+------> Welsh `tafodiaith`: "dialect, vernacular"
+----> Old Irish `tengae`: "tongue, language"
+-----> Irish `teanga`: "tongue, language"
+
+
+--> Germanic <*tungȭ>: "tongue, speech, language"
+---> East Germanic
+----> Gothic `𐍄𐌿𐌲𐌲𐍉` <tuggō>: "tongue"
+---> North Germanic
+----> Old Norse `tunga`: "tongue, language"
+-----> Danish `tunge`: "tongue, language, sole (fish)"
+-----> Icelandic `tunga`: "tongue, language"
+---> West Germanic
+----> Old English `tunge`: "tongue, language"
+-----> English `tongue`
+------> Sranan Tongo `tongo`: "language"
+-------> Sranan Tongo `Sranan Tongo`
+--------> English `Sranan Tongo`
+----> Frankish <*tunga>
+-----> Dutch `tong`: "tongue"
+----> Old High German `zunga`: "tongue, language"
+-----> German `Zunge`: "tongue"
+-----> Yiddish `צונג` <tsung>: "tongue"
+----> West Germanic <*tungā-tulga>: "root of the tongue"
+
+
+-?> Indo-Iranian <*diȷ́ʰwáH> ##
+---> Nuristani <*diȷ́ū́>
+----> Ashkun `žū`: "tongue"
+----> Kamviri `dić`: "tongue"
+
+--?> Indo-Iranian <*ȷ́iȷ́ʰwáH> ##
+----> Indo-Aryan <*ȷ́iźʰwáH>
+-----> Dardic
+------> Kashmiri `زؠو` <zyav>: "tongue, language"
+-----> Sanskrit `𑀚𑀺𑀳𑁆𑀯𑀸` <jihvā́>: "tongue"
+------> Elu
+-------> Dhivehi `ދޫ` <dū>: "tongue"
+-------> Sinhala `දිව` <diwa>: "tongue"
+------> Magadhi `𑀚𑀺𑀩𑁆𑀪𑀸 ` <jibbhā>
+-------> Bengali `জিভ` <jibh>: "tongue" 
+------> Maharastri
+-------> Marathi `जीभ` <jībh>: "tongue"
+------> Pali `𑀚𑀺𑀯𑁆𑀳𑀸` <jivhā>: "tongue"
+-------> Thai `ชิวหา` <chiu-hǎa>: "tongue"
+------> Sauraseni `𑀚𑀺𑀩𑁆𑀪𑀸` <jibbhā>
+-------> Madhya
+--------> Hindi `जीभ` <jībh>: "tongue"
+-------> Western Sauraseni
+--------> Gujarati `જીભ` <jībh>: "tongue"
+--------> Romani `ćhib`: "tongue, language"
+------> Telugu `జిహ్వ` <jihva>: "tongue"
+----> Iranian <*hižwáH>
+-----> Avestan `𐬵𐬌𐬰𐬎𐬎𐬁` <hizuuā>: "tongue, language"
+-----> Western Iranian <*hǝzǝwá>
+------> Northwestern Iranian
+-------> Kurdish `ziman`: "language, tongue"
+-------> Parthian `𐫙𐫉𐫁𐫀𐫗` <ʿzbʾn>
+------> Old Persian `𐏃𐏀𐎠` <h-z-a> [hazāna]
+-------> Persian `زبان` <zabân>: "tongue, language"
+--------> Bengali `জবান` <zôban>: "language, speech, pronunciation, promise, tongue"
+---------> Rohingya `𐴎𐴟𐴁𐴝𐴕‎` <zuban>
+--------> Kashmiri `زَبان` <zabān>: "language, tongue"
+--------> Hindi `ज़बान` <zabān>: "tongue, language"
+-----> Iranian <*hižwáHkaH>
+------> Bactrian `εζϐαγο` <ezbago>
+------> Northern Iranian
+-------> Saka
+--------> Khotani <biśā>
+-------> Scythian
+--------> Ossetian `ӕвза́г` <ævzág>: "language"
+------> Pashto `ژبه` <žë́ba>: "language, tongue, word"
+
+
+
+--> Italic <*denɣwā>
+---> Oscan `𐌚𐌀𐌍𐌂𐌖𐌀` <fangua>: "words, language" (attested in plural)
+---> Old Latin `dingua`
+----> Latin `lingua`: "tongue, language, speech" (modified by association with `lingō`: "to lick")
+-----> Central Romance
+------> Dalmatian `langa`: "language, tongue"
+------> Italian `lingua`: "tongue, language"
+-------> Italian `lingua franca`
+--------> English `lingua franca`
+-------> Italian `linguina`: "a linguine" (diminutive)
+--------> Italian `linguine`: "linguine"
+---------> Arabic `لنقويني` <linqwīnī>: "linguine"
+---------> English `linguine`
+---------> Korean `링귀네` <ringgwine>: "linguine"
+---------> Ukrainian `лінгуїне` <linhujine>: "linguine"
+------> Maltese `lingwa`: "language"
+-----> Eastern Romance
+-----> Insular Romance
+------> Sardinian `limba`: "tongue, language, speech"
+-----> Western Romance
+------> French `langue`
+-------> French `langue d'oc`
+--------> English `langue d'oc`
+--------> French `Languedoc`
+---------> English `Languedoc`
+-------> French `langue d'oïl`
+--------> English `langue d'oïl`
+
+----> Latin `lingula` (diminutive)
+-----> Eastern Romance
+------> Romanian `língură`: "spoon"
+-------> Romani `Lingurari` ###
+--------> English `Lingurari` ###
+-----> English `lingula`
+
+----> Vulgar Latin <*linguāticum>: "manner of speaking, language"
+-----> Western Romance
+------> French `language`
+-------> English `language`
+------> Old Occitan `lengaje`: "language"
+-------> Italian `linguaggio`: "language" (adapted back towards Italian `lingua`)
+-------> Spanish `lenguaje`: "language"
+
+----> French `linguiste`: "linguist"
+-----> English `linguist`
+-----> New Latin `linguista`
+------> New Latin `linguisticus`: "linguistic, relating to languages"
+-------> French `linguistique`
+-------> German `Linguistik`: "linguistics, the study of languages"
+--------> English `linguistic`
+--------> English `linguistics`
+
+
+--> Tocharian <*tänkwo>
+---> Tocharian <*käntwo>: "tongue, language" (metathesis)
+----> Arshian <käntu>: "tongue, language"
+----> Kushean <kantwo>: "tongue, language, voice"
+
+
+-?> Proto-Indo-European <*dl̥gʰús>: "tongue" (n~l variant?)
+
+--?> Germanic <*tulgaz>
+----> West Germanic <*tungā-tulga>: "root of the tongue"
+----?> Old English `tungan tulge`
+-----> Old High German <*zunga-zulga>
+------> German `Zungenzolch`
+
+
+--?> Proto-Indo-European <*dlṓgʰis>
+---?> Hellenic <*dlṓťťā>
+-----> Classical Greek `γλῶσσᾰ` <glôssa>: "tongue, language" (regular <dl> -> <gl>, compare <glukus> vs. Latin `dulcis)
+------> Greek `γλώσσα` <glóssa>: "tongue, language"
+------> Latin `glōssa`: "an obscure or foreign term, an explanation of such a term"
+-------> Central Romance
+--------> Italian `chiosa`: "gloss, note, annotation"
+-------> English `gloss`
+-------> Latin `glōssārium`: "glossary, vocabulary, collection of glōssa"
+--------> English `glossary`
+
+------> Classical Greek `πολύγλωσσος` <polúglōssos>
+-------> Koine Greek `πολύγλωττος` <polúglōttos>
+--------> English `polyglot`
+
+------> Classical Greek `γλωσσίς` <glōssís>
+-------> Koine Greek `γλωττίς` <glōttís>
+--------> New Latin `glottis`
+---------> English `glottis`
+----------> English `glottal`
+
+-------> Classical Greek `ἐπιγλωσσίς` <épiglossis>
+--------> Koine Greek `ἐπιγλωττίς` <epiglōttís>
+---------> New Latin `epiglottis`
+----------> English `epiglottis`
+-----------> English `epiglottal`
+
+------> Attic Greek `γλῶττα` <glôtta>
+-------> Koine Greek `πολύγλωττος` <polúglōttos>
+-------> Attic Greek `γλωττίς` <glōttís>
+--------> Koine Greek `γλωττίς` <glōttís>
+---------> Koine Greek `ἐπιγλωττίς` <epiglōttís> 
+
+
+endbody
+
+
+startnotes
+
+
+## The significant phonetic differences of Indo-Iranian <*ȷ́iȷ́ʰwáH>: "tongue" from PIE <*dn̥ǵʰwéh₂s>: "tongue" have suggested an alternate origin, from a reduplicative form of <*ǵʰew->: "to call out, to invoke". Compare Sanskrit `𑀚𑀺𑀳𑁆𑀯𑀸` <jihvā́>: "tongue" to Sanskrit `𑀚𑀼𑀳𑁄𑀢𑀺` <juhóti>, which more clearly comes from a reudplicative <*ǵʰew-> and has the same <j-h> reflexes of <*ǵʰ-ǵʰ>.  [wff-geyser].
+
+On the other hand, the Nuristani forms seem to support an early form <*diȷ́ʰwáH>, which is a better fit to <*dn̥ǵʰwéh₂s>: "tongue". In that case, the later <*ȷ́iȷ́ʰwáH> could be an assimilation and/or palatalization from <*diȷ́ʰwáH>. But Nuristani has distinctive treatment of palatals that I haven't studied in any depth, it's possibly that it was actually Nuristani that changed <*ȷ́iȷ́ʰwáH> to <*diȷ́ʰwáH>.
+
+### `Lingurari` are an ethnic group of Romani, descended from enslaved Romani in Wallachia (now Romania, no etymological relation to Romani). The Lingurari were part of the Boyash or Rudari group that were forced to give up their nomadic lifestyle and work in mines. When the mines became depleted, many switched to making their living as wood-carvers, including the Lingurari or "Spoon-makers".
+
+
+endnotes

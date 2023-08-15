@@ -1,0 +1,233 @@
+date: 20181123
+theme: Spiders 🕷️
+tags: Animals, Divinities, Elements, Runes
+
+
+startbody
+
+
+
+Proto-Indo-European <*wenh₁->: "to love, to want"
+
+-> Proto-Indo-European <*wn̥h₁néwti?> (variant ne imperfective)
+
+-?> Germanic <*winnaną>: "to strive, to work, to gain, to win"
+---> East Germanic
+----> Gothic `𐍅𐌹𐌽𐌽𐌰𐌽` <winnan>: "to suffer"
+-----> Gothic `𐍅𐌹𐌽𐌽𐌰` <winna>: "suffering, passion, the letter 𐍅"
+---> North Germanic
+----> Old Norse `vinna`: "to accomplish"
+-----> Danish `vinde`: "to win, to gain, to achieve"
+-----> Icelandic `vinna`: "to work, to labor, to achieve, to win"
+---> West Germanic
+----> Old English `winnan`: "to struggle, to suffer, to contend"
+-----> English `win`
+----> Frankish <*winnan>
+-----> Dutch `winnen`: "to win, to acquire, to harvest"
+----> Old High German `(gi)winnan`
+-----> German `gewinnen`: "to be victorious, to gain, to extract, to persuade"
+-----> Yiddish `געווינען` <gevinen>: "to win"
+
+
+-> Proto-Indo-European <*wonh₁éyeti>: "to make want, to make love" (causative)
+
+--> Germanic <*wanjaną>: "to accustom, to make used to"
+---> North Germanic
+----> Old Norse `venja`: "to accustom, to make used to, to train"
+-----> Danish `vænne`
+-----> Icelandic `venja`: "to accustom, to train"
+---> West Germanic
+----> Old English `wenian`: "to accustom"
+-----> English `wean`
+----> Frankish <*wennen>
+-----> Dutch `wennen`: "to become accustomed to, to make familiar"
+----> Old High German `wenian`
+-----> German `gewöhnen`: "to get used to, to adapt to"
+
+
+-> Proto-Indo-European <*wn̥h₁sḱéti>: "to pine over, to wish for" (iterative/durative)
+
+--> Germanic <*wunskijaną>: "to wish, to desire"
+---> North Germanic
+----> Old Norse `œskja`: "to wish"
+-----> Danish `ønske`: "to wish"
+-----> Icelandic `ønske`: "to wish"
+---> West Germanic
+----> Old English `wȳsċan`: "to wish"
+-----> English `wish`
+----> Frankish <*wunsken>
+-----> Dutch `wensen`: "to wish"
+----> Old High German 
+-----> German `wünschen`: "to want, to wish, to order, to demand"
+------> Polish `winszować`: "to congratulate"
+-----> Yiddish `ווינטשן` <vintshn>: "to wish"
+
+
+
+-> Proto-Indo-European <*wn̥h₁éh₁yeti> (stative)
+
+--> Germanic <*wunjaną>: "to enjoy, to be satisfied, to be accustomed to, to reside (in a place)"
+---> East Germanic
+----> Gothic <*wunan>
+-----> Gothic `𐌿𐌽𐍅𐌿𐌽𐌰𐌽𐌳𐍃` <unwunands>: "to be unhappy"
+---> North Germanic
+----> Old Norse `una`
+-----> Icelandic `una`: to be satisfied, to be happy, to stay"
+---> West Germanic
+----> Old English `wunian`: "to reside (in a place), to be in (a state), to be accustomed to"
+-----> English `wont`
+-----> Scots `won`: "to dwell, to stay habitually"
+----> Frankish <*wonon>
+-----> Dutch `wonen`: "to reside (in a place)"
+----> Old High German `wonēn`
+-----> German `wohnen`: "to reside (in a place), to stay, to visit"
+
+
+-> Proto-Indo-European <*wénh₁os>: "lovely, loveable" (adjective)
+
+--> Indo-Iranian <*wánas>
+---> Indo-Aryan <wánas>
+----> Sanskrit `𑀯𑀦𑀲𑁆` <vánas>: "loveliness, desire, longing"
+
+--> Italic <*wenos>
+---> Latin `Venus`
+----> English `Venus`
+---> Italic <*wenosolios>
+----> Latin `venerealis`: "to do with sexual love"
+-----> English `venereal`
+---> Italic <*wenosor>
+----> Latin `veneror`: "I adore, I worship, I pay respects"
+-----> Central Romance
+------> Italian `venerare`: "to venerate, to revere"
+-----> Western Romance
+------> French `vénérer`: "to worship, to venerate"
+------> Spanish `venerar`: "to venerate"
+-----> Latin `venerātus`: "worshipped, adored, venerated"
+------> English `venerate`
+
+
+-> Proto-Indo-European <*wenh₁is>: "loved one" (noun)
+
+--> Germanic <*winiz>: "loved one, friend"
+---> North Germanic `ᚹᛁᚾᛁᛉ` <winiz>: "friend"
+----> Old Norse `vinr`: "friend"
+-----> Danish `ven`: "friend"
+-----> Icelandic `vinur`: "friend"
+---> Germanic <*Audawiniz>: "personal name: Rich-Friend"
+----> North Germanic
+-----> Old Norse `Auðunn`
+----> West Germanic
+-----> Old English `Ēadwine`
+------> English `Edwin`
+---> Germanic <*Balþawiniz>: "personal name: Bold-Friend"
+----> West Germanic
+-----> Old English `Bealdwine`
+------> English `Baldwin`
+-----> Frankish <*Baldawin>
+------> Dutch `Boudewijn`
+------> Latin `Balduīnus`
+-------> Central Romance
+--------> Italian `Baldovino`
+-------> Western Romance
+--------> French `Beaudoin`
+---> Germanic <*Batawiniz>: "personal name: Good-Friend"
+----> East Germanic
+-----> Gothic `𐌱𐌰𐍄𐍅𐌹𐌽𐍃` <Batwins>
+---> Germanic <*Diurijawiniz>: "personal name: Dear-Friend"
+----> West Germanic
+-----> Old English `Dēorewine`
+------> English `Darwin`
+---> Germanic <*Winifriþuz>: "personal name: Friend-Peace"
+----> West Germanic
+-----> Old English `Winfriþ`
+------> English `Winfred`
+
+-> Proto-Indo-European <*wonh₁ós>: "one who desires?, lover?"
+
+-?> Germanic <*wanaz>
+---> North Germanic
+---?> Old Norse `Vanr` (pl. `Vanir`)
+-----> Danish `Vane`
+-----> English `Vanir`
+-----> Old Norse `Vanadís`: "Goddess of the Vanir, an epithet of Freyja"
+------> New Latin `vanadium`
+-------> English `vanadium`
+-------> Translingual `V`
+
+-> Proto-Indo-European <*wenh₁esnos>
+
+--> Italic <*weneznos>
+---> Latin `venēnum`: "love potion, potion, poison"
+----> Central Romance
+-----> Italian `veleno`: "poison"
+----> Eastern Romance
+-----> Romanian `venin`: "venom, malice"
+----> Sardinian `belenu`
+----> Western Romance
+-----> Old French `venim`
+------> French `venin`: "venom"
+------> English `venom`
+-----> Spanish `veneno`: "poison, venom"
+---?> Albanian `vrer`: "bile, gall"
+----> Welsh `gwenwyn`: "venom, poison"
+
+
+-> Proto-Indo-European <*wenh₁ostos>
+
+--> Italic <*wenostos>
+---> Latin `venustus`: "friendly, pleasing, charming, elegant"
+
+
+-> Proto-Indo-European <*wn̥h₁trom>: "thing for loving, thing for wanting" (instrumental noun)
+
+--> Germanic <*wundrą>: "a wonder, a miracle"
+---> North Germanic
+----> Old Norse `undr`: "a wonder, a scandal"
+-----> Icelandic `undur`: "a wonder, a miracle"
+---> West Germanic
+----> Old English `wundor`: "miracle, wonder, marvel"
+-----> English `wonder`
+-----> Scots `wunner`
+----> Frankish <*wundar>
+-----> Dutch `wonder`: "miracle"
+----> Old High German `wuntar`
+-----> German `Wunder`: "miracle, wonder"
+---> Germanic <*wundrōną>: "to wonder at" (denominative)
+----> North Germanic
+-----> Old Norse `undra`: "to wonder at, to be astonished"
+------> Danish `undre`: "to be a surprise, to be a wonder"
+------> Icelandic `undra`: "to wonder at, to be amazed by"
+
+
+-> Proto-Indo-European <*wn̥h₁yeh₂>
+
+--> Germanic <*wunjō>: "joy, delight, pleasure, lust, the rune ᚹ"
+---> North Germanic
+----> Old Norse `yndi`: "delight, happiness"
+-----> Icelandic `yndi`: "delight, joy, pleasure"
+---> West Germanic
+----> Old English `wynn`: "joy, delight, the rune ᚹ, the letter Ƿ"
+-----> English `wynn`
+----> Frankish <*wunna>
+-----> Dutch `wonne`
+----> Old High German `wunna`
+-----> German `Wonne`: "bliss, joy, delight, lust"
+---> Germanic <*wunjōsamaz>: "joyful, delightful"
+----> West Germanic
+-----> Old English `wynsum`
+------> English `winsome`
+-----> Old High German `wunnisam`
+------> German `wonnesam`
+
+--> Italic <*weniā>
+---> Latin `venia`: "kindness, mercy, forgiveness"
+----> Western Romance
+-----> Spanish `venia`: "forgiveness, permission"
+----> Latin `veniālis`: "gracious, forgivable"
+-----> Western Romance
+------> Old French
+-------> French `véniel`: "venial, pardonable"
+-------> Engish `venial`
+
+
+endbody

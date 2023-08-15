@@ -1,0 +1,211 @@
+date: 20190614
+theme: Domestic Animals 🐕
+tags: Animals, Domestic Animals
+
+startbody
+
+unknown source
+
+?> Akkadian `𒊺𒄷𒌑` <še-hu-u₂>: "pig"
+
+?> Sumerian `𒋚` <šah>: "pig"
+
+?> Proto-Indo-European <*suH->: "pig"
+
+--> Albanian `thi`: "pig"
+
+--> Germanic <*sūz>
+---> North Germanic
+----> Old Norse `sýr`: "sow (female pig)"
+-----> Danish `so`: "sow"
+-----> Icelandic `sýr`: "sow"
+---> West Germanic
+----> Old High German `sū`
+-----> German `Sau`: "pig, especially female"
+
+--> Hellenic
+---> Ancient Greek `ὗς` <hûs>: "pig"
+----> Ancient Greek `ῠ̔́αινᾰ` <húaina>: "hyena"
+-----> Greek `ύαινα` <ýaina>: "hyena"
+-----> Latin `hyaena`: "hyena"
+------> English `hyena`
+------> French `hyène`: "hyena"
+------> Italian `iena`: "hyena"
+------> Spanish `hiena`: "hyena"
+-----> Russian `гие́на` <gijéna>: "hyena"
+
+
+--> Indo-Iranian <*suH->
+---> Iranian <*huH->
+----> Avestan `𐬵𐬏` <hū>
+----> Northern Iranian
+-----> Scythian
+------> Ossetian `хуы` <x°y>
+
+--> Italic
+---> Latin `sūs`: "pig"
+
+
+--> Proto-Indo-European <*suHinos?>
+
+---> Balto-Slavic
+----> Latvian `sivēns`: "piglet"
+----> Slavic <*svinьja>
+
+---> Germanic <*swīną>: "swine, pig"
+----> East Germanic
+-----> Gothic `𐍃𐍅𐌴𐌹𐌽` <swein>: "pig"
+----> North Germanic
+-----> Old Norse `svín`: "pig, swine"
+------> Danish `svin`: "pig, swine"
+------> Icelandic `svín`: "pig, swine"
+-----> Samic <*svijnē>
+------> Northern Sami `spiidni`: "pig"
+----> West Germanic
+-----> Old English `swīn`: "pig"
+------> English `swine`
+-----> Frankish <*swīn>
+------> Dutch `zwijn`: "pig, swine, bicycle"
+-----> Old High German `swīn`
+------> German `Schwein`: "swine, pig, good luck"
+----> Germanic <*mariswīną>: "porpoise, dolphin" (lit. "sea-pig")
+-----> North Germanic
+------> Old Norse `marsvín`
+-------> Danish `marsvin`: "guinea pig, porpoise"
+-----> West Germanic
+------> Old English `mereswīn`: "porpoise, dolphin"
+-------> English `mereswine`
+------> Frankish <*mariswīn>
+-------> Dutch `meerzwijn`
+------->  French `marsouin`: "porpoise"
+------> Old High German `meriswīn`
+-------> German `Meerschwein`
+--------> German `Meerschweinchen`: "guinea pig"
+
+---> Italic
+----> Latin `suīnus`: "swine, pig-like"
+-----> Eastern Romance
+------> Romanian `sain`: "pork"
+-----> Italian `suino`: "swine, pig, pork"
+-----> Spanish `suino`
+
+--> Tocharian <*suwon>
+---> Kushean <suwo>: "pig"
+
+
+
+
+--> Proto-Indo-European <*suh₂kéh₂>: "sow (female pig)"
+
+---> Celtic <*sukkos>
+----> Brythonic
+-----> Welsh `hwch` "sow"
+----> Old Irish `socc`
+-----> Irish `soc`
+
+---> Germanic <*sugō>
+----> North Germanic
+-----> Old Norse
+------> Swedish `sugga` "sow"
+----> West Germanic
+-----> Old English `sugu`: "sow"
+------> English `sow`
+-----> Frankish <*soga>
+------> Dutch `zeug`: "sow"
+
+---> Indo-Iranian <*huHkáh>
+----> Iranian <*huHkás>
+-----> Western Iranian
+------> Persian `خوک` <xuk>: "pig"
+-----?> Old Armenian `խոզ` <xoz>: "pig" # 
+-------> Armenian `խոզ` <xoz>: "pig"
+----> Indo-Iranian <*suHkarás>
+-----> Indo-Aryan <*suHkarás>
+------> Sanskrit `सूकर` <sūkará>: "pig"
+-------> Magadhi
+--------> Bengali `শুওর` <śuor>
+-------> Maharashtri
+--------> Marathi `डुकर` <ḍukara>: "pig"
+-------> Pali `𑀲𑀽𑀓𑀭` <sūkara>: "pig"
+--------> Thai `สุกร` <sù-gɔɔn>: "pig, pork"
+-------> Sauraseni `𑀲𑀽𑀕𑀭` <sūgara>
+--------> Madhya
+---------> Hindi `सूअर` <sūar>: "pig, pork"
+--------> Pahari
+---------> Punjabi `ਸੂਰ` <sūr>: "pig"
+------> Telugu `సూకరము` <sūkaramu>: "pig"
+
+
+
+Proto-Indo-European <*ǵʰer->: "to yearn, to be excited, to bristle"
+
+-> Germanic <*gernaz>: "eager, willing"
+--> Germanic <*girnijaną>: "to want, to desire"
+---> West Germanic
+----> Old English `giernan`
+-----> English `yearn`
+
+-> Hellenic
+--> Ancient Greek `χᾰ́ρῐς` <kháris>: "beauty, elegance, charm, grace, influence"
+---> Ancient Greek `χᾰ́ρῐσμᾰ` <khárisma>
+----> English `charisma`
+
+-> Italic
+--> Latin `hortor`: "I encourage, I urge"
+---> English `exhort`
+
+-> Proto-Indo-European <*ǵʰḗrs>: "hedgehog" ("bristler")
+
+--> Hellenic
+---> Ancient Greek `χήρ` <khḗr>: 'hedgehog"
+
+--> Italic <*hēr>
+---> Latin `ēr`: "hedgehog"
+----> Latin `ēricius`: "hedgehog"
+-----> Sardinian `rizzu`: "hedgehog"
+-----> Eastern Romance
+------> Romanian `arici`: "hedgehog"
+-----> Western Romance
+------> Old French `heriçun`: "hedgehog"
+-------> French `hérisson`: "hedgehog"
+-------> English `urchin`
+------> Italian `riccio`: "curl, lock, hedgehog, husk, sea urchin"
+------> Spanish `erizo`: "hedgehog, sea urchin"
+-------> Spanish `rizo`: "curl, lock, highlight"
+-----> Latin `ērināceus`: "hedgehog"
+
+
+--> Proto-Indo-European <*ǵʰóryos>: "pig" ("hedgehog-oid")
+
+---> Albanian `derr`: "pig"
+
+--?> Old Armenian `խոզ` <xoz>: "pig" #
+----> Armenian `խոզ` <xoz>: "pig"
+
+---> Hellenic
+----> Ancient Greek `χοῖρος` <khoîros>: "(young) pig"
+-----> Greek `χοίρος` <choíros>: "pig"
+
+--?> Illyrian
+----> Ancient Greek `Δερβανοί` <Derbanoi>: "Illyrian Tribe"
+----> Latin `Deuri`: "Illyrian Tribe"
+
+--?> Karto-Zan <*ɣor->
+----> Georgian `ღორი` <ɣori>: "pig"
+----> Zan
+-----> Mingrelian `ღეჯი` <ɣeǯi>
+---?> Old Armenian `խոզ` <xoz>: "pig" #
+-----> Armenian `խոզ` <xoz>: "pig"
+
+
+endbody
+
+
+startnotes
+
+# Old Armenian is derivable in a number of ways.
+Direct derivation from regional Indo-European <*ǵʰóryos>: "pig". This word only shows up for sure in Greek and Albanian. Armenian is closely associated with both.
+From a Kartvelian cognate of Georgian `ღორი` <ɣori>: "pig" (itself probably derived via a borrowing from the same regional Indo-European). Armenian has been in close contact with the Kartvelian languages for a long time.
+From a Middle Iranian, probably Parthian, cognate of Persian `خوک` <xuk>: "pig". Armenian has many borrowings from Middle Iranian. 
+
+endnotes

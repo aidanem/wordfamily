@@ -1,0 +1,97 @@
+date: 20181213
+theme: Pre-Classical Mediterranean 🏝
+tags: Divinities, Afro-Asiatic
+
+startbody
+
+Afro-Asiatic <*ptḥ>: "to create?, to begin?"
+
+?> Egyptian <ptḥ>: "Ptah, self-created divinity of craft and creation"
+--> English `Ptah`
+--> Egyptian <ḥwt-kꜣ-ptḥ>: "Temple of the Soul of Ptah, Memphis"
+---> Mycenaean Greek <*ai-ku-pi-to>
+----> Ancient Greek `Αἴγυπτος` <Aíguptos>: "Egypt, the Nile"
+-----> Latin `Aegyptus`: "Egypt"
+------> Western Romance
+-------> French `Égypte`: "Egypt"
+--------> English `Egypt`
+----> Mycenaean Greek `𐁁𐀓𐀠𐀴𐀍` <ai-ku-pi-ti-jo>: "Egyptian"
+-----> Ancient Greek `Αἰγύπτιος` <Aigúptios>: "Egyptian"
+------> Byzantine Greek `Γύφτος` <Gúphtos>: "Egyptian"
+-------> Greek `γύφτος` <gýftos>: "gypsy"
+------> Latin `aegyptius`: "Egyptian"
+-------> Western Romance
+--------> Old French `gyptien`
+---------> English `gypsy`
+
+-?> Minoan
+---> Mycenaean Greek `𐀞𐀂𐀵` <Pa-i-to>: "Phaistos" (site of the an early Minoan monumental palace) #
+----> Ancient Greek `Φαιστός` <Phaistós>: "Phaistos"
+----> Mycenaean Greek <*pa-i-ti-jo>: "Phaistian"
+-----> Ancient Greek `Φαιστιος`<Phaistios>: "Phaistian"
+----?> Mycenaean Greek `𐀀𐀞𐀂𐀴𐀍` <A-pa-i-ti-jo>: "The Phaistian?, Hephaestus?" #
+-----?> Ancient Greek `Ἥφαιστος` <Hḗphaistos>: "divinity of craft, metalworking, fire, and volcanoes" #
+-------> Latin `Hephaestus`
+--------> English `Hephaestus`
+
+
+?> Semitic <*ptḥ>: "beginning, development, opening"
+--> Central Semitic
+---> Arabic `فَتَحَ` <fataḥa>: "to open, to explain, to assist, to begin"
+----> Maltese `fetaħ`: "to open"
+---> Northwest Semitic
+----> Canaanite
+-----> Hebrew `פָּתַח` <patákh>: "to open"
+--> South Semitic
+---> Ethiopic
+----> Amharic `ክፈት` <kifeti>: "to open"
+
+endbody
+
+
+startnotes
+
+# Tying Minoan (Cretan) Phaistos and Greek Hephaestus in to this family is speculative, but not as wild a reach as it first looks like.
+
+Hephaestus and Phaistos, Crete
+
+We usually represent the name as "Hephaestus" in the Roman alphabet, after Roman transliteration traditions, but (as shown above) "Hephaistos" is a more accurate transliteration. At that point Phaistos and Hephaistos look nearly identical. Especially considering that "ho"/"he" is a determiner in Greek (Hellenic debuccalization of PIE <*só>: "this, that"). `Hephaestus` is of pre-Greek origin, following morphological patterns that tie it to the same source language as various other pre-Greek names of places and gods (obviously including "Phaistos").
+
+Further support for the connection between Hephaestus and Crete is provided by Roman Vulcanus, who is idenitified with Hephaestus in the interpratio graeca. Roman Vulcanus is though to be connected to "Zeus Velchanos", an aspect of Zeus worshipped on Crete and representing an absorption of a Cretan deity. Velchanos appears on coins from Phaistos, though from the Classical or Hellenistic era, not, as far as I know, the Mycenaean or Minoan eras.
+
+Daedalus I think should also be considered a face of Hephaestus, and is born in Crete and worked for King Minos before fleeing to Sicily (the location of Hephaestus' forge, under Mount Etna).
+
+Hephaestus and Ptah
+
+There are also a number of reasons to associate Hephaestus and Ptah, starting with Herodotus, The Histories (Book 3; Macaulay translation)
+
+"Many such acts of madness did he both to Persians and allies, remaining at Memphis and opening ancient tombs and examining the dead bodies. Likewise also he entered into the temple of Hephaistos and very much derided the image of the god: for the image of Hephaistos very nearly resembles the Phenician Pataicoi, which the Phenicians carry about on the prows of their triremes; and for him who has not seen these, I will indicate its nature,—it is the likeness of a dwarfish man."
+
+Herodotus talks about a temple of Hephaistos in Memphis, but this is before the Hellenic era, so there is clearly not a Greek temple in Memphis. But Memphis is the center of the worship of Ptah, general consensus is he's talking about a temple of Ptah.
+
+"Phoenician Pataicoi" is also almost certainly a version of "Ptah". Remember the Hebrew word we're tracking with Ptah is `פָּתַח` <patákh>, and Phoenician is also Canaanite, like Hebrew, it is highly likely a Phoenician noun cognate to Hebrew <patákh> would be represented in Greek as `παταικος` <pataicos> (plural <pataicoi>). Scholars have been refering to "Ptah-Patek" to represent a single divinity with Egyptian and Phoenician varieties since at least 1881 (Dictionnaire général de l'archéologie et des antiquités chez les divers peuples, Bosc 1881)
+
+Ptah was also syncretized as far back as the Old Kingdom period with another Memphite creator god, Tatenen the Risen Earth, god of underground fire, particularly revered by metalsmiths. The Tatenen aspect also connects with the attested cult of Zeus Velchanos in Crete, which represents Zeus as a god of plant life and fertility.
+
+
+Why not just interpratio graeca?
+
+Okay so we've proved the Greeks associated Ptah with Hephaestus, but they were perfectly happy to associate gods based on parallel development, it doesn't prove shared origin.
+
+Hephaestus and Ptah are both frequently represented as deformed. The Classical Greeks seemed uncomfortable with gods that did not represent physical perfection and gradually minimized this, but some of the oldest depictions of Hephaestus are even more similar to the representations of Ptah as a dwarfish and deformed figure.
+
+There is an alternative to Ptah being the source of this imagery in Hephaestus, which is that it could represent a broader Bronze Age image of the Lame Smith, possibly with a basis in peripheral neuropathy from chronic arsenic poisoning which was an occupational hazard of Bronze Age metalworkers. (Though honestly, I'm not sure that Germanic Weyland Smith can be considered entirely separately from Hellenic Daedalus, and Daedalus certainly can't be considered separate from Hephaestus, and I'm arguing that Hephaestus can't be considered separate from Ptah.)
+
+
+Taking together
+
+The name "Hephaestus" has a non-Indo-European origin, apparently coming north across the Mediterranean from or through Minoan Crete.
+Minoan Crete and Egpyt had been in long and close contact. Some of our best information about Minoan language comes from Egyptian sources (not indecipherable like Linear A or as phonologically strained as Linear B).
+Both Crete and Egypt are sources of advanced technology/knowledge to Archaic Greece, both historically and in Greek symbolism.
+We already see <ai-ku-pi-ti-jo>: "Egyptian" in Mycenaean Linear B, based on <ḥwt-kꜣ-ptḥ>: "Temple of the Soul of Ptah (Memphis)"
+Ptah and Hephaestus are both crafter gods.
+Some of the oldest representations of Hephaestus have the form of the dwarfish man also seen in representations of Ptah, gradually becoming minimized in later depictions.
+
+It is very plausible that Hephaestus is not just syncretized with Ptah, but actually comes from Ptah (or possibly syncretized in the Mycenaean period, not the Hellenic period).
+
+endnotes

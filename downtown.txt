@@ -1,0 +1,122 @@
+
+date: 20180921
+theme: Community 🏘️
+
+startintro
+
+The Celtic word <*dūnom>: "hill fort was borrowed into Germanic twice, once as "hill" and once as "fort".
+
+The first time was borrowed before the completion of Grimm's Law, so Grimm's Law changed the <*d> to <*t> for Germanic <*tūną>: "enclosure", which eventually gave English "town"
+
+The second time appears to have been a borrowing specifically from Gaulish into West Germanic, after each family had split into subfamilies and Grimm's law was no longer active, so we get West Germanic <*dūnǭ>: "hill". This gives English "down", meaning a hill; and eventually "down" the direction, which comes from the compound `adūne`/`ofdūne` meaning "off the hill, downhill".
+
+While some sources list the PIE root <*dʰewH-> as an origin, I don't know of any good evidence for this as a root and not just a Proto-Celtic word <*dūnom>, except for a possible connection to Latin `funus`, which would still not be enough to push it all the way back to PIE.
+
+endintro
+
+startbody
+
+Proto-Indo-European <*dʰewH-?>
+
+?> Proto-Indo-European <*dʰuHnom>: "enclosure"
+
+-?> Celtic <*dūnom>: "hill fort, rampart"
+
+---> Brythonic <*din>: "hill fort, hill"
+----> Welsh `din`: "fort"
+---> Old Irish `dún`: "fort, fortress"
+----> Irish `dún`: "fort, fortress, refuge, haven"
+-----> Irish `Dún na nGall`: "Fort of Foreigners, Donegal"
+------> English `Donegal`
+
+---> Gaulish `dunum`: "hill fort, fortress, fortified town"
+----> Latin `Dunum`
+-----> Old High German `Tuno`
+------> German `Thun`
+----> Gaulish `Cambodunum`: "Crooked-Fort"
+-----> Latin `Cambodunum`
+------> Old High German
+-------> German `Kempten`
+----> Gaulish `Eburodunum`: "Yew-Fort"
+-----> Latin `Ebredunum`
+------> Western Romance
+-------> French `Yverdon`
+----> Gaulish `Lugdunum`: "Fort of (the god) Lugh" ####
+-----> Latin <Lugdūnum>
+------> Western Romance
+-------> Old French
+--------> French `Lyon`
+--------> English `Lyons`
+------> Latin `Gallia Lugdūnēnsis`
+----> Gaulish `Lugidunum`: "Fort of the Lugians"
+----?> Latin `Lignitium`
+------> Polish `Legnica`
+----> Gaulish `Verodunum`: "Strong-Fort"
+-----> Latin `Virodūnum`
+------> Western Romance
+-------> French `Verdun`
+
+----> West Germanic <*dūnǭ>: "hill"
+-----> Old English `dūn`
+------> English `down` (land feature)
+------> Old English `ofdūne`: "off the hill, downhill"
+-------> Old English `adūne`
+--------> English `down` (direction)
+---------> English `downtown`
+-----> Frankish
+------> Middle Dutch `dûne` 
+-------> Dutch `duin`
+-------> French `dune`: "dune"
+--------> English `dune`
+-----> Old Saxon <*dūna>
+------> German `Düne`: "dune"
+
+---> Germanic <*tūną>: "enclosure"
+----> North Germanic
+-----> Old Norse `tún`: "enclosure, courtyard, farmyard, farmstead"
+------> Icelandic `tún`: "hayfield"
+----> West Germanic
+-----> Old English `tūn`: "enclosure, garden, homestead, town"
+------> English `town`
+-------> English `downtown`
+------> Scots `toun`: "town, village, farmstead"
+------> Old English `-tun`
+-------> English `-ton`
+--------> English `Newton`
+---------> Translingual `newton`
+-----> Frankish `tūn`
+------> Dutch `tuin`: "garden, yard"
+-----> Old High German `zūn`
+------> German `Zaun`: "fence"
+
+----> Slavic <*tynъ>: "fence, enclosure"
+-----> East Slavic
+------> Russian `тын` <tyn>: "fence"
+-----> South Slavic
+------> Serbo-Croatian `tin`
+-----> West Slavic
+------> Polish `tyn`
+
+
+?> Proto-Indo-European <*dʰuHnos>: "enclosed?, complete?"
+
+-?> Italic <*fūnos>: "burial mound??"
+--?> Latin `funus`: "death, funeral"
+----> Latin `fūnerālis`: "of a funeral, funereal"
+-----> Western Romance
+------> French `funérailles`: "funeral"
+-------> English `funeral`
+------> Italian `funerale`: "funeral"
+------> Spanish `funeral`: "funeral" 
+
+
+
+endbody
+
+startnotes
+
+
+#### `Lugdunum` is sometimes also given as origin of `London`, but that doesn't stand up to reconstruction. Comparison of the Latin, Old English, and Welsh names of `London` point towards a Celtic reconstruction looking more like <*Londonjon>, possibly meaning "sunken (or flooded) place".
+
+
+endnotes

@@ -1,0 +1,132 @@
+date: 20181228
+theme: Pre-Classical Mediterranean 🏝
+tags: divinities, toponymy
+
+startbody
+
+Semitic <*[ʕ/ġ]rb>: "to depart, to set" #
+
+-> Central Semitic 
+--> Arabic <ġaraba>
+--> Northwest Semitic
+---> Aramaic `ערובה` <ʿrōbā>: "sunset, evening, (Sabbath) eve"
+---> Canaanite
+----> Phoenician <*'irōb>
+----?> Homeric Greek `Εὐρώπη` <Eurṓpē>: "Western shore of the Aegean,\nmainland Greece\n(as opposed to Pelopennese or the islands)" ##
+------> Ancient Greek `Εὐρώπη` <Eurṓpē>: "Land north of the Mediterranean Sea \nand west of the Aegean and Black Seas,\nEurope, Europa"
+-------> Greek `Ευρώπη` <Evrópi>: "Europe, Europa"
+-------> Latin `Europa`
+--------> Western Romance
+---------> French `Europe`
+----------> English `Europe`
+-----------> Hindi `यूरोप` <yūrop>
+-----------> Korean `유럽` <Yureop>
+---------> Italian `Europa`
+---------> Portuguese `Europa`
+----------> Japanese `ヨーロッパ` <Yōroppa>
+---------> Spanish `Europa`
+--------> Arabic `أُورُوبَّا` <ʾūrūbbā>
+--------> Chinese `歐羅巴`: "Europa, Europe (archaic)"
+---------> Mandarian `歐羅巴` <Ōuluóbā>
+----------> Mandarian `歐洲` <Ōuzhōu>: "Europe" ###
+--------> English `Europa`
+--------> German `Europa`
+-------> Russian `Европа` <Jevropa>: "Europe"
+
+--> Central Semitic <*ma-grb>: "place of sunset, western place, the west" (locative)
+---> Arabic `مَغْرِب` <maḡrib>: "place or time of sunset, west, evening"
+----> Arabic `الْمَغْرِب` <al-maḡrib>: "The Maghreb, Morocco"
+----> English `Maghreb`
+
+--> Northwest Semitic
+---> Aramaic
+----> Classical Syriac `ܡܰܥܪܒܐ` <ma‑arba>: "west, occident, sunset, western sky, west wind"
+---> Canaanite
+----> Hebrew `מַעֲרָב` <ma‑ārov>: "the west, occident"
+
+
+-?> Central Semitic <?>: "surety, pledge (money before you leave)?"
+---> Arabic
+---> Northwest Semitic
+----> Hebrew `ערבון` <erabon>: "guarantee"
+----> Phoenician
+------> Punic <*ʿarb>
+------?> Latin `arbiter`
+--------> Western Romance
+---------> French `arbitre`: "mediator, arbitrator, referee"
+----------> English `arbiter`
+---------> Italian `arbitro`: "referee, umpire, arbitrator"
+---------> Spanish `árbitro`: "referee"
+----?> Ancient Greek `ἀρραβών` <arrabōn>: "pledge, surety, deposit, down payment"
+------> Greek `αρραβώνας` <arravónas>: "engagement, betrothal, deposit, earnest money"
+------> Latin `arrhabō`
+-------> Latin `arrha`
+--------> Western Romance
+---------> French `arrhes`: "down payment, deposit"
+---------?> English `earnest` ####
+
+
+-> East Semitic
+--> Akkadian `𒌅` <erēbu>: "to go down, to set, to enter"
+---> Akkadian <Ereb>: "night, sunset, the west" (in contrast to sunrise/east: Asu (Asia?))
+---?> Arabic `عَرَب` <ʿarab>: "Arab" #####
+-----> Aramaic
+------> Old Persian `𐎠𐎼𐎲𐎠𐎹` <Arabāya>: "Arabia"
+------> Ancient Greek `Ἄρᾰψ` <Áraps>: "Arab, Arabian"
+-------> Greek `Άραβας` <Áravas>: "Arab"
+-------> Ancient Greek `Ἀρᾰβῐ́ᾱ` <Arabíā>: "Arabia"
+--------> Greek `Αραβία` <Aravía>: "Arabia"
+--------> Latin `Arabia`: "Arabia"
+---------> English `Arabia`
+---------> French `Arabie`
+---------> Italian `Arabia`
+---------> Spanish `Arabia`
+---------> Yiddish `אַראַביע` <arabye>
+-----> Chinese `阿拉伯` <Ālābó>: "Arabia"
+-----> Hebrew `עֲרָב` <aráv>: "Arabia"
+-----> Persian `عرب` <'arab>: "Arab, Arabian"
+------> Persian `عربستان` <'arabestân>: "Arabia"
+-------> Turkish `Arabistan`: "Arabia"
+-----> Somali `Carabiya`: "Arabia"
+-----> Swahili `Uarabuni`: "Arabia"
+
+
+
+?> Proto-Indo-European <*h₁régʷos>: "darkness" ######
+
+--> Old Armenian `երեկ` <erek>: "evening, west, evening star (Venus)"
+---> Old Armenian `երեկոյ` <erekoy>: "evening"
+----> Armenian `երեկո` <ereko>: "evening"
+---> Old Armenian `երէկ` <erēk>: "yesterday"
+----> Armenian `երեկ` <erek>: "yesterday"
+
+--> Germanic <*rekwaz>: "darkness"
+---> East Germanic
+----> Gothic
+-----> Ostrogothic `𐍂𐌹𐌵𐌹𐍃` <riqis>: "darkness"
+---> North Germanic
+----> Old Norse `røkkr`: "twilight"
+-----> Icelandic `rökkur`: "twilight"
+
+--> Hellenic
+---> Ancient Greek `Ἔρεβος` <Érebos>: "primordial divinity of darkness"
+----> Latin `Erebus`
+-----> English `Erebus`
+
+--> Indo-Iranian <*Hráǰas>
+---> Indo-Aryan <*Hráȷ́as>
+----> Sanskrit `रजस्` <rájas>: "darkness, dust, space between heaven and earth"
+
+
+--> Proto-Indo-European <*h₁regʷesyéti>: "to be getting dark"
+
+---> Germanic <*rikwizjaną>: "to get dark"
+----> East Germanic
+-----> Gothic
+------> Ostrogothic `𐍂𐌹𐌵𐌹𐌶𐌾𐌰𐌽` <riqizjan>: "to become dark, to darken"
+
+---> Indo-Iranian <*Hraǰasyáti>
+----> Indo-Aryan <*Hraȷ́asyáti>
+-----> Sanskrit `रजस्यति` <rajasyáti>: "to become dust, to be scattered"
+
+endbody

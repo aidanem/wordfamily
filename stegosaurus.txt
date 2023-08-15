@@ -1,0 +1,276 @@
+date: 20190412
+theme: Dinosaurs and Friends🦕 
+tags: Animals, Dinosaurs
+
+
+
+startbody
+
+Proto-Indo-European <*(s)teg->: "to cover" (s-mobile root)
+
+-> Proto-Indo-European <*(s)tég-eti> (primary verb)
+
+--> Balto-Slavic
+---> Lithuanian `stíegti`: "to roof, to thatch"
+
+--> Hellenic
+---> Classical Greek `στέγω` <stégō>: "to cover, to wrap, to make watertight"
+----> Classical Greek `στέγη` <stégē>: "roof, cover, shelter, room, house"
+-----> Greek `στέγη` <stégi>: "roof, house"
+----> Classical Greek `στεγνός` <stegnós>: "watertight, waterproof, constipated"
+-----> Greek `στεγνός` <stegnós>: "dry, dull"
+----> Classical Greek `στεγανός` <steganós> #####
+-----> Latin `steganographia`: "steganography" #####
+------> English `steganography`
+
+--> Indo-Iranian <*stʰágati>
+---> Indo-Aryan <*stʰágati>
+----> Sanskrit `𑀲𑁆𑀣𑀕𑀢𑀺` <sthágati>: "to cover, to conceal"
+
+--> Italic
+---> Latin `tegō`: "I cover, I clothe, I protect"
+----> Latin `detegō`: "I uncover, I take off, I reveal"
+----?> Albanian `dëftoj`: "I show"
+-----> Latin `dētēctus`: "uncovered, revealed"
+------> English `detect`
+-------> French `detecter`: "to detect"
+--------> Dutch `detecteren`: "to detect"
+-------> Spanish `detectar`
+----> Latin `integō`: "I cover, I protect"
+-----> Latin `integumentum`: "covering, guard, shield"
+------> English `integument`
+----> Latin `protegō`: "I cover, I protect, I defend" (lit. "cover forward")
+-----> Central Romance
+------> Italian `proteggere`: "to shield, to protect`
+-----> Western Romance
+------> French `protéger`: "to protect"
+-------> French `protégé(e)`: "protected"
+--------> English `protégé`
+-----> Latin `prōtēctus`
+------> English `protect`
+----> Latin <tēgula>: "roof tile"
+-----> Central Romance
+------> Dalmatian `tacla`: "baking sheet"
+------> Italian `teglia`: "baking sheet, wide-brimmed hat"
+------> Italian `tegola`: "roof tile"
+-----> Eastern Romance
+------> Albanian `tjegull`: "shingle, tile"
+------> Serbo-Croatian `те́гла` <tégla>: "jar"
+------> Hungarian `tégla`: "brick"
+-------> Hungarian `téglalap`: "rectangle" (lit. "brick surface")
+-------> Turkish `tuğla`: "brick"
+-----> Western Romance
+------> French `tuile`: "tile, tuile (thin cookie)"
+-------> English `tuile`
+------> Spanish `teja`: "roof tile"
+-----> Germanic <*tigulǭ>: "tile, brick"
+------> North Germanic
+-------> Old Norse `tigl`
+--------> Danish `tegl`
+--------> Icelandic `tigl`: "tile, brick"
+--------> Swedish `tegel`: "brick"
+---------> Finnish `tiili`: "brick, tile"
+------> West Germanic
+-------> Old English `tiġele`
+--------> English `tile`
+-------> Frankish
+--------> Dutch `tegel`: "tile"
+--------> Dutch `tichel`: "roof tile, brick, flagstone"
+-------> Old High German `ziagal(a)`
+--------> German `Ziegel`: "brick, roof tile"
+---------> Serbo-Croatian `ци́гла` <cígla>: "brick"
+--------> Polish `cegła`: "brick"
+---------> Ukranian `це́гла` <céhla>: "brick"
+-----> Latin `tegumentum`: "cover, covering, shell, armor, husk"
+------> English `tegument`
+
+
+
+-> Proto-Indo-European <*stogéy-eti> (causative verb)
+
+--> Indo-Iranian <*stʰagáyati>
+---> Indo-Aryan <*stʰagáyati>
+----> Sanskrit `𑀲𑁆𑀣𑀕𑀬𑀢𑀺` <sthagáyati>: "to make hidden, to make invisible"
+---> Iranian
+----> Northern Iranian
+-----> Saka
+-----?> Khotani <ttajsera>: "pass over" ##
+
+
+-> Proto-Indo-European <*(s)tégos>: "covered"
+
+--> Celtic <*tegos>: "house"
+---> Brythonic <*tɨɣ>
+----> Welsh `tŷ`: "house" ###
+-----> Welsh `bwyty`: "restaurant" (lit. "food-house")
+-----> Welsh `tylwyth`: "family, household" (lit. "house-people")
+------> Welsh `Tylwyth Teg`: "fairy folk"
+---> Old Irish `tech`
+----> Irish `teach`: "house"
+---> Celtic <*kom-tegenos>: "shared, held in common" (lit. "together-housed")
+----> Old Irish `coitchen`: "common, mutual, shared"
+-----> Irish `coiteann`: "common, general, popular"
+---> Celtic <*tego-slowgos>: "household" (lit. "house-troop")
+----> Brythonic
+-----> Welsh `teulu`: "family"
+----> Old Irish `teglach`
+-----> Irish `teaghlach`: "immediate family, household"
+
+--> Hellenic <*(s)tégos>
+---> Classical Greek `στέγος` <stégos>: "roof, house, grave, brothel"
+----> Translingual `Stegosaurus`: "a taxnomic genus of ornithischian dinosaur" (lit. "roof-reptile", for the plates on its back)
+-----> Translingual `Stegosauria`: "the Stegosaurs, a taxonomic suborder of ornithiscian dinosaurs"
+-----> English `stegosaur`
+---> Classical Greek `τέγος` <tégos>: "roof, cover, covered hall"
+
+
+--> Indo-Iranian <*stʰagas>: "covered, concealed"
+---> Indo-Aryan
+----> Sanskrit `𑀲𑁆𑀣𑀕` <sthaga>: "dishonest, fraudulent"
+-----> Maharashtri
+------> Marathi `ठक` <ṭhak>: "thief, swindler"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `ठग` <ṭhag>: "swindler, fraud, robber"
+--------> English `thug`
+
+
+-> Proto-Indo-European <*(s)tǝgto-s>: "covered"
+
+--> Indo-Iranian
+---> Iranian <*taxta->
+----> Northern Iranian
+-----> Saka
+------> Khotani <tti>: "dwelling, nest" ##
+----> Western Iranian
+-----> Old Persian <*taxt>: "throne"
+------> Persian `تخت` <taxt>: "throne, capital, seat, sofa, bed"
+-------> Arabic `تَخْت` <taḵt>: "bed, couch, bench, capital, platform, orchestra"
+-------> Malay `takhta`: "throne"
+-------> Ottoman Turkish `تخت` <taht>: "throne, sofa, stage"
+--------> Turkish `taht`: "throne"
+--------> Armenian `թախտ` <tʿaxt>: "plank-bed, ottoman, sofa"
+--------> Serbo-Croatian `тахт` <taht>: "throne"
+------> Old Armenian `տախտ` <taxt>: "throne, bed, couch"
+-------> Armenian `տախտ` <taxt>: "couch, sofa"
+------> Georgian `ტახტი` <ṭaxṭi>: "ottoman, bench, throne, royal residence"
+------> Kurdish `text`: "throne, bed, wood"
+
+
+
+-> Proto-Indo-European <*(s)togeh₂>
+
+--> Italic
+---> Latin `toga`: "toga, garment, roof"
+----> English `toga`
+
+
+-> Proto-Indo-European <*(s)togós>: "coverer" (agentive)
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `stogas`: "roof"
+---> West Baltic
+----> Old Prussian `stogis`: "roof"
+
+--> Celtic <*togos>: "roof"
+---> Brythonic <*toɣ>
+----> Welsh `to`: "roof"
+
+--> Germanic <*þakã>: "roof, cover"
+---> North Germanic
+----> Old Norse `þak`: "thatch, roof"
+-----> Danish `tag`: "roof"
+-----> Icelandic `þak`: "roof"
+----> Northern Sami `dáhkki`: "roof, ceiling, hearth"
+---> West Germanic
+----> Old English `þæc`: "roof, thatch"
+-----> English `thatch`
+-----> Scots `tha(c)k`: "thatch, roofing material, roof"
+----> Frankish <*thak>
+-----> Dutch `dak`: "roof"
+----> Old High German `dah`
+-----> German `Dach`: "roof"
+------> German `Dachdecker`: "roofer, tiler, thatcher"
+-----> Yiddish `דאַך`‎ <dakh>: "roof"
+-----> Polish `dach`: "roof, apartment"
+------> Polish `dachowiec`: "feral cat" (lit. "roofer")
+------> Ukranian `дах` <dax>: "roof"
+---> Germanic <*þakjaną>: "to cover, to roof"
+----> North Germanic
+-----> Old Norse `þekja`: "to cover, to thatch"
+------> Danish `tække`
+------> Icelandic `þekja`: "to cover, to roof, to thatch"
+----> West Germanic
+-----> Old English `þeċċan`: "to cover, to thatch"
+------> English `thatch`
+-----> Frankish <*thecken>
+------> Middle Dutch
+-------> Dutch `dekken`: "to cover, to set (a table)"
+-------> English `deck (out)`
+------> Frankish <*thecka>: "covering"
+-------> Middle Dutch
+--------> English `deck`
+--------> German `Deck`: "deck (of a ship)"
+-----> Old High German `decchen`: "to cover"
+------> German `decken`: "to cover, to set (a table)"
+-------> German `Dachdecker`: "roofer, tiler, thatcher"
+------> Old High German `decchī`: "covering"
+-------> German `Decke`: "covering, ceiling, roof"
+--------> German `Bettdecke`: "duvet, quilt, bedspread"
+
+
+?> Proto-Indo-European <*(s)teg->: "pole, stick, beam" ####
+
+--> Proto-Indo-European <*stogeh₂>
+
+---> Germanic <*stakô>: "stake"
+----> East Germanic
+-----> Gothic <*staka>
+------> Western Romance `staca`: "stake"
+-------> Old French `estache`: "stake, strap"
+-------> Spanish `estaca`: "stake, tent peg"
+----> North Germanic
+-----> Old Norse `staki`: "stake, rod"
+------> Danish `stage`
+------> Icelandic `staki`
+----> West Germanic
+-----> Old English `staca`: "stake"
+------> English `stake`
+-----> Frankish <*stakō>
+------> Dutch `staak`
+------> Old French `estaie`
+
+
+--> Proto-Indo-European <*(s)togós>
+
+---> Germanic <*stakkaz>: "a barn, a rick, a haystack"
+----> North Germanic
+-----> Old Norse `stakkr`: "barn, haystack, pile"
+------> Danish `stak`: "stack"
+------> Icelandic `stakkur`: "stack"
+------> English `stack`
+
+
+--> Proto-Indo-European <*(s)tegdʰlom>
+---> Italic <*texlom>
+----> Latin `tēlum`: "spear, missile, javelin"
+
+
+endbody
+
+startnotes
+
+
+##### I can't determine what, if anything, the difference between Classical Greek `στεγνός` <stegnós> and `στεγανός` <steganós> is. There's authors that use both, so it's not a dialect difference, but they seem to be interchangeable.
+
+The word `steganography` is first recorded in, and apparently coined for, Johannes Trithemius's 1499 book, Steganographia, which was a steganographical text, apparently an occult book on communicating with spirits, but was actually a book about cryptography and steganography.
+
+## Khotani <ttajsera>: "pass over, overwhelm" and <tti>: "nest" are probably from this root, but Khotani derivation is way above my pay grade, these are just guesses of where they go in the graph. There's also a set of Khotani words with "head" related meanings that may be connected: <ttādai>: "forehead", <ttomau>: "top", <ttiiva>: "crown", <ttīna>: "bridle".
+
+### We saw Welsh <tŷ> before, when Latin `hospitium` was borrowed into Welsh to mean "hospital", but was egg-corned in Welsh to end with `tŷ`: "house", parallel to `bwyty`: "restaurant".
+
+#### While <*(s)teg-> about covering and roofs and <*(s)teg-> about poles and beams are usually considered two different roots, the concept of "pole, stick, beam" seems clearly related to the concept of a roof. On the other hand "pole, stick, beam" is also related to the idea of "pierce, stab" usually assigned to <*steyg-> (whence, "stick", "stitch", "etiquette").
+
+
+endnotes

@@ -1,0 +1,324 @@
+date: 20171110
+theme: Mes de Muertos 💀
+
+
+startbody
+
+
+Proto-Indo-European <*gʷeyh₃->: "to live"
+
+
+-> Proto-Indo-European <*gʷíh₃weti>: "to be alive" 
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `gyventi`: "to live, to inhabit"
+---> Slavic <*žiti>
+----> East Slavic
+-----> Russian `жить` <žitʹ>: "to live, to reside"
+----> South Slavic
+-----> Old Church Slavonic `жити` <žiti>: "to live"
+-----> Serbo-Croatian `жи́вети` <žíveti>: "to live, to exist, to be alive, to dwell, to reside"
+----> West Slavic
+-----> Polish `żyć`: "to live, to be alive"
+
+--> Hellenic <*ďṓwō>: "I live"
+---> Ancient Greek `ζάω` <záō>: "I live"
+----> Greek `ζω` <zo>: "live, endure, sustain"
+----> Ancient Greek `ζωή` <zōḗ>: "life, a living"
+-----> Ancient Greek `Ζωή` <Zoe>: "given name" ##
+------> English `Zoe`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀻𑀯𑀢𑀺` <jī́vati>: "to live, to support, to nourish, to seek a livelihood"
+-----> Magadhi
+------> Assamese `জীয়া` <zia>: "to live, alive, animate, fresh"
+-----> Sauraseni `𑀚𑀻𑀯𑀤𑀺` <jīvadi>
+------> Madhya
+-------> Hindi `जीना` <jīnā>: "to live"
+------> Pahari
+-------> Nepali `जिउनु` <jiunu>: "to live, to survive"
+-------> Punjabi `ਜਿਊਣਾ` <jiūṇā>: "to live"
+------> Pali <jīvati>: "to live, to be alive, to subsist on"
+---> Iranian
+----> Avestan `𐬘𐬎𐬎𐬀𐬌𐬙𐬌` <juuaiti>
+----> Western Iranian
+-----> Old Persian `𐎪𐎡𐎺` <jīva-> ######
+------> Persian `زیستن` <zistan>: "to live"
+-----> Northwestern Iranian
+------> Kurdish <jiyan>: "life"
+
+--> Italic <*gʷīwō>: "I live"
+---> Latin `vīvō`: "I live, I survive, I reside in"
+----> Sardinian `vívere`
+----> Eastern Romance
+-----> Romanian `a via`: "to endure"
+----> Western Romance
+-----> French `vivre`: "to live, to experience"
+-----> Italian `vivere`: "to live, to subsist, to be"
+-----> Spanish `vivir`: "to live, to make a living, to reside, life, lifestyle"
+----> Latin `vīvāx`: "long-lived, vigorous, vivacious"
+-----> Western Romance
+------> French `vivace`: "vivacious, long-lived, enduring, perennial"
+------> Italian `vivace`: "lively, vital, keen, vivid"
+------> Spanish `vivaz`: "animated, lively"
+-----> English `vivacious`
+----> Latin `vīvidus`: "alive, animated, vigorous"
+-----> English `vivid`
+-----> French `vivide`: "vivid"
+-----> Italian `vivido`: "vivid"
+-----> Spanish `vívido`: "vivid"
+
+--> Tocharian
+---> Arshian <śo->: "to live"
+---> Kushean <śai->: "to live"
+
+
+-> Proto-Indo-European <*gʷoyh₃éyeti> (causative)
+--> Balto-Slavic
+---> Slavic <*gojiti>
+----> South Slavic
+-----> Serbo-Croatian `gòjiti`: "to fatten up"
+
+
+-> Proto-Indo-European <*gʷih₃wós>: "alive, living"
+
+--> Balto-Slavic <*gīˀwas>
+---> East Baltic
+----> Lithuanian `gývas`: "alive"
+-----> Lithuanian `gyvsidabris`: "mercury" ("living silver", calque of German or Latin)
+---> Slavic <*živъ>: "alive, live, living, Slavic Divinity of Fertility (Živa/Siwa/Zywye)"
+----> East Slavic
+-----> Russian `живо́й` <živój>: "living, alive, lively, vivacious"
+----> South Slavic
+-----> Old Church Slavonic `живъ` <živŭ>: "alive, lively"
+-----> Serbo-Croatian `жи̑в` <žȋv>: "live, alive"
+----> West Slavic
+-----> Polish `żywy`: "live, alive, lively, vivid"
+
+
+--> Celtic <*biwos>: "alive, living"
+---> Brythonic <*bɨw>: "alive, living, life"
+----> Welsh `byw`: "alive, living, lively, life, living person, quick (sensitive flesh)"
+---> Old Irish `béo`: "alive, living, living thing"
+----> Irish `beo`: "alive, living, lively, life, living thing, livelihood, quick (sensitive flesh)"
+
+--> Germanic <*kwiwaz>
+---> East Germanic
+----> Gothic `𐌵𐌹𐌿𐍃` <qius>: "alive, lively"
+---> Germanic <*kwikwaz>: "alive, lively, quick" (assimilation, North and West only)
+----> North Germanic
+-----> Old Norse `kvikr`: "alive"
+------> Danish `kvik`: "lively, clever, fast"
+------> Icelandic `kvikur`: "alive, lively, quick"
+------> Swedish `kvick`: "quick, quick-witted"
+-------> Swedish `kvicksilver`: "mercury, temperature"
+----> West Germanic
+-----> Old English `cwic`: "living, live, alive, intelligent" #
+------> English `quick`
+------> Scots `qui(c)k`: "living, alive, sharp, piercing"
+------> Old English `cwicseolfor`: "quicksilver, mercury" (lit. "living silver", calque of Latin `argentum vivum`)
+-------> English `quicksiver`
+-----> Frankish
+------> Dutch `kwiek`: "lively, quick"
+-----> Old High German `quec`: "quick"
+------> German `keck`: "sassy, cheeky"
+-------> Danish `kæk`: "brave, bold, cheerful"
+-------> Dutch `kek`: "fashionable, sassy"
+------> Old High German `quecsilbar`: "quicksilver, mercury"
+-------> German `Quecksilbe`>: "quicksilver, mercury"
+
+
+--> Hellenic <*gʷīwos>
+---> Ancient Greek `βίος` <bíos>: "life"
+----> English `bio-`
+-----> English `biology`
+----> Greek `βίος`: "life, lifespan, quality of life, biography"
+
+--> Indo-Aryan
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀻𑀯` <jīva>: "alive, living"
+-----> Magadhi `𑀚𑀻𑀯` <jīva>
+------> Bengali `জীউ` <jiu>: "life, spirit"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `जीव` <jiv>: "life, living creature, lifeforce, soul"
+--------> Hindi `जीव-विज्ञान` <jīv-vigyān>: "biology"
+-----> Telugu `జీవము` <jīvamu>: "life"
+-----> Sanskrit `𑀚𑀻𑀯𑀸𑀢𑁆𑀫𑀦𑁆` <jīvātman>: "personal soul, vital essence" (lit. "life-breath")
+---> Iranian
+----> Avestan `𐬘𐬬𐬀` <jva->
+----> Western Iranian
+-----> Old Persian `𐎪𐎺` <jiva>: "living" 
+------> Middle Persian <*jīwa->: "living"
+-------> Middle Persian <jīwandāg>: "quicksilver, mercury" (lit. "living metal")
+--------> Persian `جیوه` <jive>: "quicksilver, mercury"
+
+--> Italic <*gʷīwos>: "alive, living"
+---> Oscan `𐌁𐌉𐌅𐌖𐌔` <bivus>: "alive, living, lifelike"
+---> Latin `vivus`: "alive, living, lifelike, living thing"
+----> Sardinian `biu`: "live, lively"
+----> Eastern Romance
+-----> Romanian `viu`: "live, alive"
+----> Western Romance
+-----> French `vif`: "lively, brisk, vivid, keen"
+-----> Italian `vivio`: "alive, brisk, animate, vivacious, vivid, living person"
+-----> Spanish `vivio`: "living, alive, vivid"
+----> Latin `Vivianus`: "personal name"
+----> Latin `Viviana`: "personal name"
+-----> French `Vivienne`
+------> English `Vivien`
+
+--> Tocharian
+---> Kushean <śāw->
+
+
+--> Proto-Indo-European <*gʷih₃wotos>: "livingness"
+
+---> Balto-Slavic <*gʔiwot->
+----> East Baltic
+-----> Lithuanian `gyvatà`: "life"
+----> Slavic <*živõtъ>: "life, belly"
+-----> East Slavic
+------> Russian `живо́т` <živót>: "belly, stomach, life (archaic)"
+-----> South Slavic
+------> Old Church Slavonic `животъ` <životŭ>: "life, animal"
+------> Serbo-Croatian `жѝвот` <žìvot>: "life"
+-----> West Slavic
+------> Polish `żywot`: "life (archaic)"
+-------> Polish `żywotny`: "vigorous, full of life, animate"
+
+---> Hellenic
+----> Ancient Greek `βίοτος` <bíotos>: "life"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀚𑀻𑀯𑀺𑀢` <jīvitá>: "living, enlivened, animated, life, living being, livelihood, lifespan"
+------> Madhya
+-------> Hindi `जीवित` <jīvit>: "alive, living"
+------> Maharashtri
+-------> Sinhala `ජීවිතය` <jīvitaya>: "life"
+------> West Indo-Aryan
+-------> Romani `zhuvipe`: "life"
+------> Telugu `జీవితము` <jīvitamu>: "living, existence, life"
+------> Pali <*jīvita>
+-------> Khmer `ជីវិត` <ciivɨt>: "life, existence, living, lifetime, age"
+-------> Thai `ชีวิต` <chii-wít>: "life"
+
+---> Italic <*gʷītā>
+----> Latin `vīta`: "life, subsistence, way of life"
+-----> Sardinian `bida`: "life"
+-----> Eastern Romance
+------> Romanian `vită`: "cow, ox, beef, animal"
+------> Western Romance
+-------> French `vie`: "life"
+-------> Italian `vita`: "life, waist"
+-------> Spanish `vida`: "life, lifestyle, livelihood, lifespan"
+
+-----> Latin <vītālis>
+------> Western Romance
+-------> Italian `vitale`: "vital, living, viable, essential, lively"
+------> French `vital`: "vital"
+-------> English `vital`
+--------> English `vitamin` ###
+------> Spanish `vital`: "vital"
+------> Latin `Vitalis`: "personal name"
+-------> Spanish `Vidal`
+--------> English `Vidalia` #####
+---------> English `vidalia (onion)`  #####
+-----> Medieval Latin `vitabilis`
+------> French `viable`: "viable"
+-------> English `viable`
+
+
+
+
+--> Proto-Indo-European <*gʷih₃wyom> "living thing"
+
+---> Hellenic <*ďṓyyon>: "animal, creature, beast"
+----> Ancient Greek `ζῷον` <zôion>: "animal, beast"
+-----> Greek `ζώο` <zóo>: "animal, beast, mammal"
+-----> Coptic `ⲍⲱⲟⲛ` <zōon>: "animal"
+-----> English `zoo-`: "pertaining to animals"
+------> English `zoology`
+-------> English `zoological garden`
+--------> English `zoo`
+
+
+-> Proto-Indo-European <*gʷeyh₃tos>
+
+--> Balto-Slavic <*geit->
+---> Old Prussian <geytye>: "bread"
+---> Slavic <*žìto>: "grain"
+----> East Slavic
+-----> Russian `жи́то` <žíto>: "grain"
+----> South Slavic
+-----> Old Church Slavonic `жито` <žito>: "grain"
+-----> Serbo-Croatian `жи̏то` <žȉto>: "wheat, koliva"
+----> West Slavic
+-----> Polish `żyto`: "rye"
+
+--> Celtic <*bētom>: "food"
+---> Brythonic <*buɨd>
+----> Welsh `bwyd`: "food"
+---> Old Irish `bíad`
+----> Irish `bia`: "food, substance"
+
+
+-> Proto-Indo-European <*h₂yugʷih₃s>: "long life" ####
+
+-?> Germanic <*ajukiz>: "eternal, long lasting"
+---> West Germanic
+----> Old English `ēċe`: "perpetual, eternal, ever-lasting"
+---> Germanic <*ajukidūþiz>: "eternity"
+----> East Germanic
+-----> Gothic `𐌰𐌾𐌿𐌺𐌳𐌿𐌸𐍃` <ajukduþs>: "eternity"
+
+--> Hellenic
+---> Ancient Greek `ὑγιής` <hugiḗs>: "healthy, strong, wholesome"
+----> Ancient Greek `ὑγιεινή` <hugieinḗ>: "healthy practices, promoting health"
+-----> French `hygiène`: "hygiene"
+------> English `hygiene`
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan `𐬫𐬀𐬎𐬎𐬀𐬈-𐬘𐬍` <yauuae-jī>: "living forever"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Parthian `𐫏𐫀𐫇𐫏𐫤` <yāwēd>: "eternal"
+-------> Old Armenian `յաւէժ` <yawēž>: "eternal, always"
+--------> Armenian `հավերժ` <haverž>: "perpetual, eternal, undying"
+
+--> Italic
+---> Latin `iūgis`: "continual, perpetual, ever-flowing (water)"
+
+endbody
+
+
+
+startnotes
+
+# English `quick`'s archaic meaning: "alive", is perserved in usages like "the quick and the dead" and "quickening"
+
+## The Greek name `Ζωή` <Zoe> is a calque translation of Hebrew name `חַוָּה` <khavá>: "to breathe, to live", also borrowed as `Eve`.
+
+### `vitamin` is a portmanteau of "vital amine". Originally spelled "vitamine" in 1912, the "e" was dropped in 1920 to de-emphasize "amine" when it was determined that vitamin C, and probably a number of other vitamins, had no amine component.
+
+#### In the compound <*h₂yugʷih₃-s>, <*h₂yu-> is the root of "youth", "juvenile", and "-eval" (as in medieval, primeval, etc.) and Scots "aye", meaning "always", "still". (<a href="/word-family-justice.html">Justice WFF</a>)
+
+Germanic <*ajukiz> is definitely derived from <*h₂yu->, but only tentatively derived from <*h₂yugʷih₃-s>, as a possible explanation for the presence of the <-k->.
+
+###### Because Old Persian history is my obsession du jour, Darius's Behistun inscription with `𐎪𐎡𐎺` <jīva->:
+
+yadiy : imâm : hadugâm : naiy : apagaudayâhy : kârahyâ : thâhy : Ahuramazdâ : thuvâm : daushtâ : biya : utâtaiy : taumâ : vasiy : biyâ : utâ : dargam : jîvâ : thâtiy
+
+if : this : record : not : away-hide : people : you-declare : Ahura Mazda : you : friend : be : and-you : family : greatly : be : and : long : live : declare
+
+"if this record you shall not conceal, (but) tell it to the people, may Ahura Mazda be a friend to you, and may family be to you in abundance, and may you live long!"
+
+
+##### Vidalia is either of two place names, one in Louisiana and one in Georgia, named after Don José Vidal, Spanish aristocrat and administrator in New Spain/Spanish Louisiana. The vidalia onion was first grown in Vidalia, Georgia. In Stephen Universe, Onion's mother is named Vidalia.
+
+
+endnotes

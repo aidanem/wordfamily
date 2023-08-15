@@ -1,0 +1,179 @@
+date: 20220805
+tags: Dravidian, Elements, Gemstones, Sumerian
+
+
+
+startbody
+
+Dravidian <*ūr>: "village, settlement"
+-> Central Dravidian
+--> Kolami <ūr>: "village"
+-> Northern Dravidian
+-?> Brahui `ارآ` <urā>: "house" ## 
+-> Southern Dravidian
+--> Kannada `ಊರು` <ūru>: "town, city, dwelling"
+---> Kannada `ಬೆಂಗಳೂರು` <beṅgaḷūru>: "place name: ?-Town"
+----> English `Bangalore`
+--> Tamil `ஊர்` <ūr>: "town, village, dwelling, place"
+---> Tamil `தஞ்சாவூர்` <tañcāvūr>: "place name: Santuary-Town"
+----> English `Tanjore` (obsolete)
+----> English `Thanjavur`
+-> South-Central Dravidian
+--> Telugu `ఊరు` <ūru>: "village, town"
+---> Telugu `ఊరేగు` <ūrēgu>: "to parade, to go in procession" (lit. "go through the town")
+---> Telugu `కల్లూరు` <Kallūru>: "place name: Stone-Town"
+----> English `Kallur(u)`
+---> Telugu `పావులూరు` <Pāvulūru>: "place name: Quarters-Town"
+----> English `Pavuluru`
+----> Telugu `పావులూరి` <Pāvulūri>: "habitational surname: from Quarters-Town"
+-----> English `Pavuluri`
+-----> Telugu `పావులూరి గణితము` <Pāvulūri Gaṇitamu>
+------> English `Pavuluri Ganitamu`
+
+-> Dravidian <*ʋeɭ-ūr>: "place name: White-Town" (modern day Bēlūr, Karnāṭaka)
+
+?> Dravidian <*ūr-?>
+-?> Sumerian `𒋀𒀕𒆠` <Ur-im.KI>: "a place name (in southern Mesopotamia)"
+---> Akkadian `𒋀𒀕𒆠` <Uru>
+----> Hebrew `אוּר` <ʾūr>
+-----> English `Ur`
+
+
+Dravidian <*ʋeɭ->: "white"
+
+-> Southern Dravidian
+--> Kannada `ಬಿಳಿ` <biḷi>: "white"
+--> Malayalam `വെളുത്ത` <veḷutta>: "white"
+--> Tamil `வெள்` <vel>: "white"
+---> Tamil `வெள்ளை` <veḷḷai>: "white"
+---> Tamil `வெண்மை` <veṇmai>: "white"
+----> Tamil `வெங்காயம்` <veṅkāyam>: "onion" (lit. "white scar"?)
+-> South-Central Dravidian
+--> Telugu `వెలి` <veli>: "white, outside, external"
+
+-> Dravidian <*ʋeɭ-am>: "white water?" ###
+--> Southern Dravidian
+---> Malayalam `വെള്ളം`: "water"
+---> Tamil `வெள்ளம்` <veḷḷam>: "flood, water, wetness, abundance, truth"
+
+-> Dravidian <*ʋeɭ-ney>: "butter" (with <*ney>: "oil, ghee")
+--> Southern Dravidian
+---> Kannada `ಬೆಣ್ಣೆ` <beṇṇe>: "butter"
+---> Tamil `வெண்ணெய்` <veṇṇey>: "butter"
+--> South-Central Dravidian
+---> Telugu `వెన్న` <venna>: "butter"
+
+-> Dravidian <*ʋeɭ-i>: "silver"
+--> Southern Dravidian
+---> Kannada `ಬೆಳ್ಳಿ` <beḷḷi>: "silver"
+---> Malayalam `വെള്ളി` <veḷḷi>: "silver, Venus, Friday" #
+----> Malayalam `വെള്ളിയാഴ്ച` <veḷḷiyāḻca>: "Friday" #
+---> Tamil `வெள்ளி` <veḷḷi>: "silver, Venus"
+----> Tamil `வெள்ளிக்கிழமை` <veḷḷikkiḻamai>: "Friday" #
+--> South-Central Dravidian
+---> Telugu `వెండి` <veṇḍi>: "silver"
+
+
+-> Dravidian <*ʋeɭ-ūr>: "place name: White-Town" (modern day Bēlūr, Karnāṭaka)
+--> Southern Dravidian
+---> Kannada `ಬೇಲೂರು` <bēlūru>: "Belur"
+----> Hindi `बेलूर` <belur>: "Belur"
+-----> English `Belur`
+
+
+--> Pali <veḷuriya>: "lapis lazuli, gemstone" ("Veḷurian, from Veḷur")
+
+---> Sanskrit `𑀯𑁃𑀟𑀽𑀭𑁆𑀬` <vaiḍūrya>: "cymophane (cat's eye/chrysoberyl), jewel, lapis lazuli"
+----> Hindi `वैदूर्य` <vaidūrya>: "cymophane"
+----> Middle Chinese `吠瑠璃` <bʉɐiʰ liᴇ>: "a kind of gemstone"
+-----> Japanese `べいるり` <beruri>: "beryl"
+------> Japanese `るり` <ruri>: "lapis lazuli, azure, azurite"
+-------> Japanese `おおるり` <ōruri>: "blue-and-white flycatcher" ("big blue")
+-------> Japanese `こるり` <koruri>: "Siberian blue robin" ("little blue")
+----> Malayalam `വൈഡൂര്യം` <vaiḍūryaṃ>: "cymophane"
+----> Telugu `వైడూర్యము` <vaiḍūryamu>: "cymophane"
+----> Thai `ไพฑูรย์` <pai-tuun>: "chrysoberyl"
+
+---> Middle Persian `𐭡𐭩𐭫𐭥𐭫` <bylwl>: "crystal"
+----> Persian `بلور` <bolur>: "crystal"
+-----> Arabic `بِلَّوْر` <billawr>: "crystal"
+------> Arabic `بِلَّوْرِيّ‎` <billawriyy>: "crystalline"
+-------> Spanish `abalorio`: "glass bead, bauble"
+--------> Malay `hablur`: "crystal, sparkling"
+--------> Tagalog `abaloryo`: "glass bead"
+-----> Geʿez `ብሉር` <bəlur>
+-----> Malay `balur`: "rock-crystal"
+-----> Ottoman Turkish `بلور` <bıllur>: "crystal"
+------> Turkish `billur`
+------> Serbo-Croatian `бѝљӯр` <bìljūr>: "rock crystal"
+-----> Kurdish `belûr`: "crystal"
+-----> Mongolian `ᠪᠣᠯᠤᠷ` <bolor>: "crystal"
+-----> Punjabi `ਬਲੌਰ` <balaur>: "crystal"
+
+
+---> Maharashtri <*veruḷiya>
+----> Parthian `𐫁𐫏𐫡𐫇𐫓` <byrwl / *bērūl>: "crystal"
+
+----> Classical Greek `βηρύλλιον` <bērúllion>: "beryl"
+-----> Old Georgian `ბჳრილიონი` <bwirilioni>: "beryl"
+-----?> Georgian `ბროლი` <broli>: "crystal, glass"
+-------> Georgian `ნაზიბროლა` <Nazibrola>: "personal name: Delicate-Crystal"
+
+-----> Classical Greek `βήρυλλος` <bḗrullos>: "beryl" (variant from <bērúllion>)
+------> Greek `βήρυλλος` <víryllos>: "beryl"
+------> Old Armenian `բիւրեղ` <biwreł>: "beryl, crystal"
+------> Amharic `ብርሌ` <bərəlle>: "glass, crystal, carafe, bottle, beryl"
+
+------> Latin `bēryllus` <bēryllus>: "beryl"
+-------> New Latin `beryllium`
+--------> Translingual `Be`
+-------> Vulgar Latin <berillus>
+--------> Western Romance
+---------> Old French `beril`
+----------> French `béryl`: "beryl"
+-----------> Polish `beryl`: "beryl, beryllium"
+----------> Dutch `beril`: "beryl"
+----------> English `beryl`
+---------> Italian `berillo`: "beryl"
+---------> Spanish `berilo`: "beryl"
+
+
+--------> German `Brille`: "spectacles, glasses, goggles"
+---------> Czech `brýle`: "spectacles, glasses"
+---------> Danish `brille`: "spectacles, glasses"
+---------> Dutch `bril`: "spectacles, glasses, telescope"
+---------> German `WC Brille`: "toilet seat" ("water closet glasses")
+----------> German `Klobrille`: "toilet seat" ("Klo", another shortening of "water closet")
+
+--------> Vulgar Latin <*b(e)rillāre>: "to shine, to sparkle (like a beryl)"
+---------> Western Romance
+----------> Italian `brillàre`
+----------> French `briller`: "to shine, to sparkle"
+-----------> French `brillance`: "shininess, brightness"
+------------> English `brilliance`
+-----------> French `brillant`: "shining, shiny"
+------------> English `brilliant`
+
+endbody
+
+
+startnotes
+
+# Tamil `வெள்ளிக்கிழமை` <veḷḷikkiḻamai>: "Friday", lit. "Venus day (of the week)", a calque ultimately from Greek <Aphrodī́tēs hēméra>: "Aphrodite's day".
+
+Note that in Tamil the word used here, <kiḻamai> means "day of the week", it is not the same as the normal word for day, <nāḷ>. In other contexts, <kiḻamai> means "possession, relation, connection, alliance, attribute", so probably originally it meant "belonging to Venus, connected to Venus", with "day" elided. Compare for example Latin month names, like `iānuārius`: literally "of Janus", an elision of `mensis iānuārius`: "month of Janus".
+
+The corresponding Malayalam `വെള്ളിയാഴ്ച` <veḷḷiyāḻca>: "Friday"—like other Malayalam week day words—uses <āḻca>: "week" in the compound, perhaps best translated as "the Venus of the week", again with "day" elided.
+
+
+## Brahui `ارآ` <urā>: "house" could be related to the descendants of <*ūr>: "village, settlement" in other Dravidian languages.
+
+It could also be related to Tamil <uḷ>: "inside" and/or Dravidian <*uḷ>: "to be, to exist, to live, to stay at, to dwell" (Tamil <uḷ>, Telugu <uṅḍu>). It may be that the Brahui meaning is older, and shows a semantic missing link in a chain of "be" -> "inside"-> "house" -> "village" -> "city". Compare English "-by": "village" (in place names), "building", "booth", and "bottle" (dialectic): "house, dwelling", which are all related to verb `be`.
+
+###  Dravidian <*ʋeɭ-am> looks like it means "white water"—that is rough or moving water—as preserved in the meaning "flood" of Tamil `வெள்ளம்` <veḷḷam>. For <*am>, see Northern Dravidian words for "water": <amm> (Kurukh), <ammu> (Sauria Paharia), <amdu> (Kumarbhag Paharia). I've seen one source also mention Tamil <am>/<ām>: "water", but I haven't been able to verify that.
+
+Other Dravidian languages mostly use descendants of <*nīr> and/or a version of <jalam> for "water". <jalam> is described as a learned borrowing of Sanskrit, but given that a) Indo-Aryan <*jalá(m)> has no cognates in Iranian or any other Indo-European language; and b) the <-m> is only attested in "Dravidian borrowings", I have to wonder if "Indo-Aryan <*jalám>" has some origin or influence from Dravidian <*am>.
+
+But Sanskrit would indeed delete inherited <*-m> in that position (compare Sanskrit <dā́na> vs. Latin <dōnum>, both "gift"). And Dravidian borrowings do regularly add <-m>: Telugu <aśvamu> from Sanskrit <áśva> or <snēhamu> from <sneha>; or Malayalam <rahasyaṃ> from <rahasya>.
+
+endnotes

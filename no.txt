@@ -1,0 +1,160 @@
+startbody
+
+
+Proto-Indo-European <*ne>: "not"
+
+-> Germanic <*ne>: "not"
+--> West Germanic
+---> Old English `ne`: "not"
+----> Old English `nāwiht`: "nought, nothing" ##
+-----> English `not`
+
+
+--> Germanic <*nainaz>: "none, not a, no one" (lit. "not one" <*ne> + <*ainaz>)
+---> West Germanic
+----> Old English `nān`: "none, no, not a, no one"
+-----> English `none`
+-----> English `no` #
+
+
+-> Proto-Indo-European <*n̥-> (zero-grade combining form)
+
+--> Albanian `e-`
+
+--> Old Armenian `ան-` <an->
+
+--> Celtic <*an->
+---> Brythonic <*an->
+----> Welsh `an-`
+
+---> Old Irish `an-`
+----> Irish `an-`
+----> Irish `ain-` (before slender
+----> Old Irish `in-` (before a voiced stop)
+
+----> Old Irish `é-` (before `c` and `t`)
+-----> Irish `éa-`
+
+---> Celtic <*am-> (before *b and *ɸ. *m?)
+----> Brythonic <*aβ̃->
+-----> Welsh `af-`
+
+----> Old Irish <*am->
+
+--> Germanic <*un->
+---> East Germanic
+----> Gothic `𐌿𐌽-` <un->
+
+---> North Germanic
+----> Old Norse `ú-`
+-----> Danish `u-`
+-----> Icelandic `ó-`
+
+---> West Germanic <*un->
+----> Old English `un-`
+-----> English `un-`
+----> Frankish <*un->
+-----> Dutch `on-`
+----> Old High German `un-`
+-----> German `un-`
+-----> Yiddish `אומ־` <um->
+
+--> Hellenic <*ə->
+---> Classical Greek `ἀ-` <a->
+----> Greek `α-` <a->
+----> English `a-` (in Greek-based words)
+---> Pontic Greek `ἀ-` <a->
+----> Laz `ა- -ე` <a- -e> (circumfix)
+----> Laz `უ- -ე` <u- -e> (circumfix)
+
+---> Hellenic <*ən-> (in front of a vowel or PIE <*HV->)
+----> Classical Greek `ἀν-` <an->
+-----> Greek `αν-` <an->
+-----> English `an-` (in Greek-based words)
+
+---> Hellenic <*nē-> (in words from PIE starting with <*h₁C->)
+----> Classical Greek `νη-` <né->
+-----> Classical Greek `νηπενθής` <nēpenthḗs>
+------> English `nepenthe`
+
+---> Hellenic <*nā-> (in words from PIE starting with <*h₂C->)
+----> Classical Greek `νᾱ-` <nā->
+
+---> Hellenic <*nō-> (in words from PIE starting with <*h₃C->)
+----> Classical Greek `νω-` <nō->
+
+
+--> Indo-Iranian <*a->
+---> Indo-Aryan <*a->
+----> Sanskrit `𑀅` <a->
+
+---> Iranian <*a->
+----> Avestan `𐬀` <a->
+----> Western Iranian
+-----> Old Persian
+------> Middle Persian `𐭠` <a->
+
+
+---> Indo-Iranian <*an-> (before vowels)
+----> Indo-Aryan
+-----> Sanskrit `𑀅𑀦-` <an(a)->
+
+----> Iranian <*an->
+-----> Avestan `𐬀𐬥` <an->
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `ne-`
+------> Old Persian `𐎠𐎴` <an->
+-------> Middle Persian `𐭠𐭭` <an->
+
+
+
+--> Italic <*en->
+---> Latin `in-`
+
+----> Latin `im-` (before `b`, `p`, or `m`)
+
+----> Latin `il-` (before `l`)
+
+----> Latin `ir-` (before `r`)
+
+----> Latin `ig-` (before `gn` and sometimes `n`)
+
+----> Latin `īn-` (before `f` or `s`)
+
+----> Latin `in- -is` (circumfix)
+
+--> Tocharian <*e(n)->
+
+
+
+-> Proto-Indo-European <*nekʷe>: "nor" (<*ne>+<*kʷe>: "not-and")
+
+--> Germanic <*nehw>
+
+--> Italic
+---> Latin `neque`
+
+
+
+endbody
+
+startnotes
+
+# In the Middle English period `no` was originally a reduction of `none` in front of a consonant, just as `a` was a reduction of `an` in front of a consonant.
+
+
+## Old English `nāwiht`, which gives both `not` and `nought` in modern English is `ne-` + `āwiht`. `āwight`: "anything" gives "ought" in modern English is itself `ā-`: "ever" + `wiht`: "wight, person, thing". So the apparently simple word "not" comes from "not ever a thing": <n>+<o>+<t>. Equivalent to Proto-Indo-European <*ne-h₂óyu-wektis>
+
+
+
+endnotes
+
+
+
+
+Ah, so is [Latin] -ne is actually from a negative? That's funny because "...no?" is an English interrogative marker used by people I know.
+
+It may well be, or it may be a word meaning "than, as" instead. But it's pretty likely that it's ultimately the same PIE <*ne> either way.
+Compare Sanskrit "ná" which is both "no" and "as". Or Lithuanian "ne": "no" (dialectic "than"), "negi": "than".
+

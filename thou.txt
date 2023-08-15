@@ -1,0 +1,39 @@
+startbody
+
+Proto-Indo-European
+-> Albanian `ti`
+-> Anatolian
+--> Hittite `𒍣𒄿𒅅` <tsīk>
+-> Armenian `դու` <du>
+-> Balto-Slavic
+--> East Baltic
+---> Lithuanian `tù`
+--> Slavic
+---> Russian `ты` <ty>
+-> Celtic
+--> Gaulish <tu>
+--> Irish `tú`
+--> Welsh `ti`
+-> Germanic
+--> East Germanic
+---> Gothic `𐌸𐌿` <þu>
+--> North Germanic
+---> Danish `du`
+--> West Germanic
+---> English `thou`
+-> Hellenic
+--> Ancient Greek `σύ` <sú>
+-> Indo-Iranian
+--> Indo-Aryan
+---> Hindi `तू` <tū>
+--> Iranian
+---> Persian `تو` <to>
+-> Italic
+--> Latin `tū`
+---> French `tu`
+---> Italian `tu`
+---> Spanish `tú`
+-> Tocharian
+--> Kushean `𑀢𑀼𑀯𑁂` <tuwe>
+
+endbody

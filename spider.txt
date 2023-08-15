@@ -1,0 +1,346 @@
+date: 20181102
+theme: Spiders 🕷
+
+
+startbody
+
+Proto-Indo-European <*(s)pen->: "to stretch, to spin"
+
+
+-> Proto-Indo-European <*(s)penH->
+
+
+--> Proto-Indo-European <*(s)penH-ti> (primary verb)
+
+---> Balto-Slavic <*pinˀtei>: "to braid, to stretch"
+----> Lithuanian `pìnti`: "to braid, to twine, to chatter"
+----> Slavic <*pęti>: "to stretch"
+-----> East Slavic `пꙗти` <pjati>
+------> Russian `пять` <pjatʹ>
+-------> Russian `пя́тить` <pjátitʹ>: "to push back, to stick out"
+-------> Russian `распя́ть` <raspjátʹ>: "to crucify" (lit. "to stretch apart")
+-----> South Slavic
+------> Old Church Slavonic `пѧти` <pęti>: "to tie, to fix"
+------> Serbo-Croatian `пе̑ти` <pȇti>: "to climb"
+-----> West Slavic
+------> Polish `piąć`: "to climb"
+-----> Slavic <pę̀dlo>: "loom"
+------> East Slavic
+-------> Russian `пя́ло` <pjálo>: "loom, tanning frame"
+-------> Russian `пя́льцы` <pjálʹcy>: "embroidery hoop" (diminutive)
+-----> Slavic <*pǫ̀to>: "bond, fetter"
+------> East Slavic
+-------> Russian `пу́ты` <púty>: "hobble, fetters, chains"
+------> South Slavic
+-------> Old Church Slavonic `пѫто` <pǫto>
+-------> Serbo-Croatian `пу̏то` <pȕto>: "pastern, hobble"
+------> West Slavic
+-------> Polish `pęto`: "jess, tether, fetter"
+
+
+--> Proto-Indo-European <(s)pónH-os>: "the act of spinning or stretching?"
+
+--?> Hellenic
+----> Ancient Greek `πόνος` <pónos>: "work, toil, exercise"
+-----> Ancient Greek `πονέω` <ponéō>: "I work, I toil"
+------> Ancient Greek `πονηρός` <ponērós>: "toilsome, grevious, painful"
+-------> Greek `πονηρός` <ponirós>: "tricky, cunning, evil"
+
+
+--> Proto-Indo-European <*(s)pénH-os>: "a thing made by spinning"
+
+--?> Hellenic
+----> Ancient Greek `πῆνος` <pênos>
+-----> Ancient Greek `πήνη` <pḗnē>: "thread on a bobbin, weft, bobbin, spool"
+-----> Latin `pānus`: "thread wound around a bobbin, ear of millet, swelling, tumor"
+------> Vulgar Latin <*dēpānō>: "I unravel"
+-------> Eastern Romance
+--------> Romanian `a depăna`: "to reel up, to wind onto a bobbin, to unravel"
+-------> Western Romance
+--------> Italian `dipanare`: "to unravel, to disentangle"
+--------> Spanish `devanar`: "to coil, to wind"
+-----?> Latin `pantex`: "belly, paunch, guts"
+------> Eastern Romance
+-------> Romanian `pântece`: "belly, womb, abdomen"
+------> Western Romance
+-------> Old French `pance`
+--------> French `panse`: "belly"
+--------> English `paunch`
+--------> Old French `panciere`: "coat of mail"
+---------> Old High German
+----------> German `Panzer`: "armor, armor plate, shell"
+-----------> German `Panzerkampfwagen`: "tank" (lit. "armor-fight-vehicle")
+------------> English `panzer`
+-----------> Danish `panser`: "armor, carapace, shell"
+------------> Danish `panserbjørn`
+----------> Polish `pancerz`: "armor"
+-----------> Russian `па́нцирь` <páncirʹ>: "coat of mail, armor, shell"
+-------> Italian `pancia`: "belly, stomach, paunch"
+--------> Italian `panciera`: "corset, girdle"
+-------> Spanish `panza`: "paunch, belly, stomach"
+
+
+
+------> Latin `pānicula`: "tuft, panicle, swelling"
+-------> Western Romance
+--------> Italian `pannocchia`: "corncob, ear, panicle"
+--------> Spanish `panocha`: "corncob, ear, panicle"
+-------> English `panicle`
+------> Latin `pānicum`: "foxtail millet, panicgrass"
+-------> Eastern Romance
+--------> Romanian `părâng`: "millet, esp. foxtail millet"
+-------> Western Romance
+--------> French `panic`: "cockspur shrub, panicgrass"
+---------> English `panicgrass`
+--------> Italian `panico`: "foxtail millet"
+---------> Italian `paniccia`: "polenta made of chickpea flour, soggy mass, bog"
+-------> Translingual `Panicum`: "a taxonomic genus of grasses, including the true millets" ##
+
+-----?> Latin `pānis`: "bread, loaf, food, nourishment" (most descendants from the accusative: `panem`) ###
+-------> Sardinian `pani`: "bread"
+-------> Eastern Romance
+--------> Romanian `pâine`: "bread"
+-------> Western Romance
+--------> Old French
+---------> French `pain`: "bread, block (of ice, soap, etc.)"
+---------> Old French `paneterie`: "bread-baking, storeroom for bread, sale of bread"
+----------> English `pantry`
+--------> Italian `pane`: "bread, block (of butter)"
+--------> Portuguese `pão`: "bread, food"
+---------> Hindi `पाव` <pāv>: "bread"
+---------> Japanese `パン` <pan>: "bread"
+----------> Korean `빵` <ppang>: "bread"
+---------> Thai `ปัง` <bpang>: "bread"
+--------> Spanish `pan`: "bread, money, work"
+---------> Navajo `bááh`: "(leavened) bread"
+
+
+
+--> Proto-Indo-European <*(s)pénn̥He-ti?>: "to be stretching or spinning" (n- imperfective)
+
+---> Germanic <*spinnaną>: "to spin"
+----> East Germanic
+-----> Gothic `𐍃𐍀𐌹𐌽𐌽𐌰𐌽` <spinnan>: "to spin"
+----> North Germanic
+-----> Old Norse `spinna`
+------> Danish `spinde`: "to spin, to purr"
+------> Icelandic `spinna`: "to spin"
+----> West Germanic
+-----> Old English `spinnan`: "to spin"
+------> English `spin`
+-------> English `spinster` #
+-------> French `spin`: "spin (physics)"
+-------> Japanese `スピン` <supin>: "spin (physics)"
+-------> Spanish `espín`: "spin (physics)"
+-----> Frankish <*spinnan>
+------> Dutch `spinnen`: "to spin, to purr, to tell stories, to lie"
+-----> Old High German <spinnan>
+------> German `spinnen`: "to spin, to tell stories, to lie, to freakl out, to purr"
+------> Yiddish `שפּינען` <shpinen>: "to spin"
+----> Germanic <*spinþrô>: "spinner, spider" #
+-----> North Germanic
+------> Old Norse
+-------> Danish `spinder`: "spinner, spider"
+-----> West Germanic
+------> Old English `spīþra`: "spider"
+-------> English `spider` #
+----> Germanic <*spinārijaz>: "spinner" #
+-----> West Germanic
+------> Old English `spinnere`: "spinner" #
+-------> English `spinner`
+------> Old High German <*spinnāri>
+-------> German `Spinne`: "spider"
+-------> Yiddish `שפּין` <shpin>: "spider"
+------> Frankish
+-------> Dutch `spin`: "spider"
+----> Germanic <*spinnilō>: "spindle"
+-----> West Germanic
+------> Old English `spinel`: "spindle"
+-------> English `spindle`
+------> Frankish <*spinla>
+-------> Dutch `spindel`: "spindle, newel"
+-------> Dutch `spil`: "axis"
+------> Old High German `spinnila`
+-------> German `Spindel`: "spindle"
+
+
+--> Proto-Indo-European <*(s)pénō>: "a stretch?" (noun)
+
+---> Germanic <*spannō>: "a span, the width of a stretched hand"
+----> North Germanic
+-----> Old Norse `spǫnn`
+------> Danish `spand`: "(hand)span, span of a bridge"
+------> Icelandic `spönn`: "(hand)span"
+----> West Germanic
+-----> Old English `spann`: "(hand)span"
+------> English `span`
+-----> Frankish
+------> Old French `espan`: "(hand)span"
+-------> French `empan`: "(hand)span"
+-----> Old High German
+------> Lombardic
+-------> Italian `spanna`: "(hand)span"
+
+
+
+-> Proto-Indo-European <*(s)pend->: "to stretch"
+
+
+--> Proto-Indo-European <*(s)pénde-ti> (primary verb)
+
+---> Balto-Slavic <*spenˀstei>
+----> Lithuanian `spę́sti`: "to lay a trap"
+
+---> Italic <*pendō>
+----> Latin `pendō`: "I hang, I weigh, I pay"
+-----> Latin `appendō`
+------> English `append`
+-----> Latin `compendō`
+------> English `compendium`
+-----> Latin `dispendō`
+------> English `dispense`
+-----> Latin `expendō`
+------> English `expense`
+-----> Latin `suspendō`
+------> English `suspend`
+-----> Latin `pensum`: "weight, task"
+------> Eastern Romance
+-------> Romanian `păs`: "suffering, trouble, grief"
+------> Western Romance
+-------> Old French `pois`: "weight"
+--------> French `poids`: "weight"
+--------> English `poise`
+-------> Italian `peso`: "weight"
+-------> Spanish `peso`: "weight, pound"
+--------> Spanish `peso de ocho`: "Spanish dollar" (lit. "weight of eight", and eight real coin)
+---------> Spanish `peso`: "peso"
+----------> English `peso`
+---------> English `pieces of eight` (partial mistranslation)
+-----> Latin `pēnsō`: "I ponder, I consider, I weigh, I purchase" (frequentive)
+------> Vulgar Latin <*pēsāre>
+-------> Eastern Romance
+--------> Romanian `a păsa`: "to care (about/for)"
+-------> Western Romance
+--------> French `peser`: "to weigh"
+--------> Italian `pesare`: "to weigh"
+--------> Spanish `pesar`: "to weigh, to ponder, to be serious"
+---------> Spanish `pesadilla`: "nightmare"
+------> Medieval Latin `pēnsāre`
+-------> French `penser`: "to think, to concentrate"
+--------> French `pensif`: "thoughtful"
+---------> English `pensive`
+-------> Italian `pensare`: "to think, to realize, to expect"
+-------> Spanish `pensar`: "to think, to intend"
+
+
+--> Proto-Indo-European <*(s)pn̥dn-ti>: "to be stretching" (n- imperfective)
+
+---> Germanic <*spannaną>: "to stretch, to span"
+----> West Germanic
+-----> Old English `spannan`: "to span, to fasten, to join, to link, to marry, to yoke"
+------> English `span`
+-----> Frankish <*spannan>
+------> Dutch `spannen`: "to strain, to stretch"
+-----> Old High German `spannan`
+------> German `spannen`: "to stretch, to tighten, to harness, to span"
+----> Germanic <*spannijaną> "to make stretch" (causative)
+-----> North Germanic
+------> Old Norse `spenna`
+-------> Danish `spende`
+-------> Icelandic `spenna`: "to tighten, to make taught, to fasten"
+-------> Old Norse
+--------> Danish `spænde`: "buckle"
+--------> Icelandic `spenna`: "stress, tension, buckle, voltage"
+
+
+--> Proto-Indo-European <*(s)pondéye-ti>: "to make stretch" (causative)
+
+--?> Balto-Slavic
+----> Slavic <*pǫditi>: "to chase"
+-----> East Slavic `пꙋдити` <puditi>
+------> Russian `пуди́ть` <pudítʹ>: "to scare off, to chase"
+-----> South Slavic
+------> Serbo-Croatian `пу́дити` <púditi>: "to chase"
+-----> West Slavic
+------> Polish `pędzić`: "to rush, to scamper"
+
+
+--> Proto-Indo-European <*(s)pn̥déh₁ye-ti>: "to be stretching" (intransitive imperfective)
+
+---> Italic <*pendēō>
+----> Latin `pendeō`: "I hang down, I droop, I weigh"
+-----> Western Romance
+------> French `pendre`: "to hang, to droop"
+-------> English `pend(ing)`
+------> Italian `pendere`: "to droop, to hang, to be pending, to slope"
+------> Spanish `pender`: "to hang, to dangle, to be pending"
+-----> Latin `dependeō`
+------> English `depend`
+-----> Latin `impendeō`
+------> English `impend(ing)`
+-----> Latin `pendēns`: "hanging, pending"
+------> Western Romance
+-------> French `pendant`: "hanging, dangling part of an earing or necklace, throughout, during"
+--------> English `pendant`
+-------> Italian `pendente`: "pending, leaning"
+-------> Spanish `pendiente`: "pending, hanging, pendant"
+-----> Latin `pendulus`: "hanging, suspended, hesitant, doubtful"
+------> English `pendulous`
+------> English `pendulum`
+
+
+--> Proto-Indo-European <*(s)pénd-is>: "a stretch" (noun)
+
+---> Balto-Slavic
+----> Slavic <*pę̑dь>: "span"
+-----> East Slavic
+------> Russian `пядь` <pjadʹ>: "(hand)span"
+-----> South Slavic
+------> Old Church Slavonic `пѧдь` <pędĭ>: "(hand)span"
+------> Serbo-Croatian `пе̑д` <pȇd>
+-----> West Slavic
+------> Polish `piędź`: "(hand)span"
+
+--> Proto-Indo-European <*(s)pénd-os>: "stretched" (adjective)
+
+---> Italic <*pondos>
+----> Latin `pondus`: "weight, pound, burden, consequence"
+
+-----> Germanic <*pundą>: "pound"
+------> East Germanic
+-------> Gothic `𐍀𐌿𐌽𐌳` <pund>: "pound"
+------> North Germanic
+-------> Old Norse `pund`
+--------> Danish `pund`: "pound"
+--------> Icelandic `pund`: "pound, wealth, possessions, talents, merit, worth"
+------> West Germanic
+-------> Old English `pund`: "pound"
+--------> English `pound`
+--------> Scots `pund`: "pound"
+-------> Frankish <*punt>
+--------> Dutch `pond`: "pound"
+-------> Old High German `pfunt`: "pound"
+--------> German `Pfund`: "pound, half kilogram"
+
+-----> Slavic <*pǫdъ>
+------> East Slavic
+-------> Russian `пуд` <pud>: "unit of mass ~18kg, pood"
+--------> English `pood`
+-----> Latin `ponderō`: "I weigh, I ponder"
+------> Western Romance
+-------> French `pondérer`
+--------> English `ponder`
+-------> Italian `ponderare`
+-------> Spanish `ponderar`
+-----> Latin `ponderōsus`: "heavy, weighty"
+------> Western Romance
+-------> French `pondéreux`: "weighty, ponderous"
+-------> Italian `ponderoso`: "heavy, ponderous"
+-------> Spanish `ponderoso`: "level-headed, heavy"
+------> English `ponderous`
+------> Translingual `Pinus ponderosa`: "species name of the ponderosa pine"
+-------> English `ponderosa`
+
+
+endbody
+

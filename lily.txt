@@ -1,0 +1,81 @@
+date: 20171020
+theme: Ancient Borrowings 𒅴
+tags: Afro-Asiatic, Plants
+
+startintro
+
+tulips and lilies from Egyptian
+
+endintro
+
+startbody
+
+Afro-Asiatic <*ḥrr>
+
+-> Egyptian `𓁷:𓂋-𓂋:𓏏-𓆰` <ḥrrt>: "flower, blossom"
+--> Egyptian `𓁹-𓁷:𓂋-𓂋:𓏏-𓆰` <jrj-ḥrrt>: "to blossom" (lit. "make-flower" or "do-flower")
+
+--> Demotic Egyptian <ḥrrj>: "flower"
+---> Coptic `ϩⲣⲏⲣⲉ` <hrēre>: "flower"
+---> Fayyumic Coptic `ϩⲗⲏⲣⲓ` <hlēri>: "flower"
+
+----> Classical Greek `λείριον` <leírion>: "lily"
+-----> Serbo-Croatian `лије̑р` <lijȇr>: "lily"
+-----> Latin `līlium`: "lily" (plural `lilia`)
+------> Translingual `Lilium`: taxonomic genus of true lilies.
+------> Western Romance
+-------> Italian `giglio`: "lily, fleur-de-lis"
+-------> French `lis`: "lily"
+--------> English `fleur-de-lis`
+-------> Spanish `lirio`: "iris, lily"
+--------> Tagalog `liryo`: "iris, lily"
+------> Old English `lilie`
+-------> English `lily`
+------> Old High German `lilia`
+-------> German `Lilie`: "lily, fleur-de-lis"
+-------> Yiddish `ליליע` <lilye>: "lily"
+------> Old Norse `lilja`
+-------> Icelandic `lilja`: "lily, fleur-de-lis"
+-------> Swedish `lilja`: "lily, fleur-de-lis"
+-------> Finnish `lilja`: "lily, fleur-de-lis"
+------> Russian `ли́лия` <lílija>: "lily"
+------> Serbo-Croatian `љѝљан` <ljìljan>: "lily"
+
+----> ?
+-----> Persian `لاله` <lâle>: "tulip"
+------> Arabic `لَعْلَع` <laʿlaʿ>: "tulip"
+------> Hindi `लाला` <lālā>: "tulip"
+------> Ottoman Turkish `لاله` <lâle>: "tulip"
+-------> Turkish `lale`: "tulip"
+-------> Albanian `lale`: "tulip"
+-------> Serbo-Croatian `лала` <lala>: "tulip"
+-----> Albanian `lule`: "flower"
+-----?> Greek `λουλούδι` <louloúdi>: "flower"
+-------> Greek `αγριολούλουδο` <agrioloúloudo>: "wildflower"
+-------> Romani ` luludí`: "flower" 
+
+-?> ?
+---> Sanskrit `𑀳𑀮𑀻` <halī>: "lily"
+----> Sanskrit `𑀳𑀮𑀺𑀦𑀻` <halinī>: "lily"
+
+?> Tamazight
+--> Northern Tamazight
+---> Atlas Tamazight
+----> Central Atlas Tamazight `ⴰⵊⴷⴷⵉⴳ` <ajddig>: "flower"
+
+?> Semitic <*ḥ-r-r> ##
+--> Central Semitic
+---> Arabic `ح ر ر` <ḥ-r-r>: "noble, fine quality, high, extreme"
+----> Arabic `حَرِير` <ḥarīr>: "silk"
+---> Northwest Semitic
+----> Aramaic `𐡇𐡓𐡓` <ḥrr>: "to free, to liberate"
+
+endbody
+
+startnotes
+
+## Afro-Asiatic <ḥ> and <r> are both generally preserved unchanged in Ancient Egyptian and Classical Arabic, so the Semitic <*ḥ-r-r> is formally equivalent to Egyptian <ḥrr-t>. The semantic connections are plausible but require some storytelling. Noble and free are often related concepts, noble and fine quality and silk all make sense together, silk and flower make sense together, but the whole thing is a little shaky.
+
+The Tamazight word connection is the inverse: it is semantically equivalent, but the sound correspondences are more complicated. /a/ <-> /ḥ/ and /d/ <-> /r/ looks plausible to me, but I can't find any more information, and I'm not qualified to evaluate it.
+
+endnotes

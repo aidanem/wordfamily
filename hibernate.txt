@@ -1,0 +1,233 @@
+date: 20221216
+tags: Alcohol, Domestic Animals, Time
+
+
+
+startbody
+
+
+Proto-Indo-European <*ǵʰey->: "winter"
+
+
+-> Proto-Indo-European <ǵʰéyōm>: "winter, snow, frost, a year"
+
+--> Anatolian
+---> Hittite `𒄀𒈠𒀭` <giman>: "winter"
+
+--> Old Armenian `ձիւն` <jiwn>: "snow"
+---> Armenian `ձյուն` <jyun>: "snow"
+
+--> Germanic <*gōį̄>
+---> North Germanic
+----> Old Norse `gói`: "late winter"
+-----> Icelandic `góa`: "month name in traditional calendar (Feb/Mar)"
+
+--> Hellenic <*kʰiṓn>
+---> Classical Greek `χιών` <khiṓn>: "snow, snowmelt"
+----> Koine Greek `χιόνιον` <khiónion>
+-----> Greek `χιόνι` <chióni>: "snow"
+----> Coptic `ⲭⲓⲱⲛ` <khiōn>: "snow, ice"
+
+--> Indo-Iranian <*ȷ́ʰimás>: "cold, frost, winter"
+---> Indo-Aryan <*źʰimás>
+----> Dardic
+-----> Kashmiri <himun>
+----> Sanskrit `𑀳𑀺𑀫` <himá>: "cold, frost, winter"
+-----> Elu
+------> Sinhala `හිම` <hima>: "snow"
+-----> Pali `𑀳𑀺𑀫` <hima>: "snow"
+-----> Sauraseni `𑀳𑀺𑀫` <hima>
+------> Madhya Sauraseni
+-------> Hindi `हिँव` <hĩv>
+------> Western Sauraseni
+-------> Romani `iv`: "snow"
+-----> Hindi `हिम` <him>: "snow, frost, ice"
+-----> Telugu `హిమము` <himamu>: "snow, frost, dew"
+-----> Thai `หิมะ` <hì-má>: "snow"
+
+-----> Sanskrit `𑀳𑀺𑀫𑀸𑀮𑀬` <himālaya>: "House of Snow, the Himalaya Mountains"
+------> Literary Chinese `喜馬拉雅`
+-------> Mandarin `喜馬拉雅` <Xǐmǎlāyǎ>: "Himalaya Mountains"
+------> English `Himalaya(s)`
+------> Hindi `हिमालय` <himālay>: "Himalaya Mountains"
+------> Telugu `హిమాలయము` <himālayamu>: "Himalaya Mountains"
+
+---> Iranian <*jimáh>: "winter, cold, frost"
+----> Avestan `𐬰𐬌𐬌𐬃` <ziiā̊>: "winter"
+----> Northern Iranian
+-----> Khotani <ysumi>
+----> Iranian <*jimakah>
+-----> Avestan `𐬰𐬆𐬨𐬀𐬐𐬀` <zəmaka>: "cold, winter storm"
+-----> Bactrian `ζιμγο` <zimgo>
+-----> Northern Iranian
+------> Ossetian
+-------> Digor `зумӕг` <zumæg>: "winter"
+-------> Iron `зымӕг` <zymæg>: "winter"
+-----> Pashto `ژمی` <žë́may>: "winter"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Parthian `𐫉𐫖𐫃` <zmg> [zamag]: "winter"
+------> Western Iranian <*jimastaHnah> #
+-------> Northwestern Iranian
+--------> Kurdish `zivistan`: "winter"
+--------> Medean <*zimastānah>
+---------> Middle Persian
+----------> Persian `زمستان` <zemestân>: "winter"
+-----------> Urdu `زمستان` <zimastān>: "winter, wisdom, science"
+-------> Old Persian
+--------> Middle Persian `𐫅𐫖𐫏𐫘𐫤𐫀𐫗` <dmystʾn>
+
+
+---> Nuristani <*jimá>: "snow"
+----> Ashkun <źím>: "snow"
+----> Kamviri <žím>: "snow"
+
+
+--> Italic <*hiom->
+---> Latin `hiems`: "winter"
+
+
+
+
+--> Proto-Indo-European <*ǵʰéymr̥>
+
+---> Hellenic <*kʰímər>
+----> Classical Greek `χίμαρος` <khímaros>: "(male) goat" (possibly originally referring to a yearling goat)
+-----> Classical Greek `χίμαιρα` <khímaira>: "female goat"
+------> Classical Greek `Χίμαιρα` <Khímaira>: "Chimera"
+-------> Greek `Χίμαιρα` <Chímaira>
+-------> Latin `Chimaera`
+--------> French `chimère`
+---------> English `chimera`
+----------> Japanese `キマイラ` <Kimaira>
+--------> English `chimera`
+--------> Italian `chimera`
+--------> Spanish `quimera`
+-------> Japanese `キマイラ` <Kimaira>
+
+---> Proto-Indo-European <*ǵʰeymeri(H)nós>: "wintery" (technically an adjective of material: "made of winter")
+
+----> Old Armenian `ձմեռն` <jmeṙn>: "winter"
+-----> Armenian `ձմեռ` <jmeṙ>: "winter"
+
+----> Hellenic <*kʰeimerinós>
+-----> Classical Greek `χειμερινός` <kheimerinós>: "in winter, wintertime, stormy"
+------> Greek `χειμερινός` <cheimerinós>: "winter"
+
+----> Italic <*heimrinos>
+-----> Latin `hībernus`
+------> Eastern Romance
+-------> Romanian `iarnă`: "winter"
+------> Insular Romance
+-------> Sardinian
+--------> Campidanese `ierru`: "winter"
+------> Western Romance
+-------> French `hiver`
+------> Vulgar Latin <*invernum>
+-------> Central Romance
+--------> Italian `inverno`: "winter"
+-------> Western Romance
+--------> Spanish `invierno`: "winter"
+
+------> Latin `hībernō`: "I winter, I pass the winter"
+-------> Eastern Romance
+--------> Romanian `a ierna`: "to winter, to hibernate"
+-------> Western Romance
+--------> French `hiverner`: "to winter, to hibernate"
+--------> Spanish `invernar`: "to winter, to hibernate"
+-------> English `hibernate`
+
+
+--> Proto-Indo-European <*ǵʰeymeh₂>
+
+---> Balto-Slavic <*źeimā́ˀ>: "winter"
+----> East Baltic
+-----> Lithuanian `žiemà`: "winter"
+----> West Baltic
+-----> Old Prussian `semo`: "winter"
+----> Slavic <*zimà>: "winter"
+-----> East Slavic `зима` <zima>
+------> Russian `зима́` <zimá>: "winter"
+------> Ukrainian `зима́` <zymá>: "winter"
+-----> South Slavic
+------> Old Church Slavonic `зима` <zima>: "winter"
+------> Serbo-Croatian `зи́ма` <zíma>: "winter, cold"
+-----> West Slavic
+------> Czech `zima`: "winter, cold"
+------> Polish `zima`: "winter"
+-----> English `Zima` (from one or more Slavic languages)
+
+
+--> Proto-Indo-European <*ǵʰyemos>
+
+---> Celtic <*gyemos>: "winter"
+----> Brythonic
+-----> Welsh `gaeaf`: "winter"
+----> Gaulish <Giamos>: "personal name: Winter"
+----> Primitive Irish <*gami->: "winter"
+-----> Primitive Irish ` ᚌᚐᚋᚔᚉᚒᚅᚐᚄ` <Gamicunas>: "personal name: Winter-Hound"
+-----> Old Irish `gam`: "winter, winter storm"
+------> Old Irish `gaimred`
+-------> Irish `geimhreadh`: "winter"
+
+
+---> Proto-Indo-European <*-ǵʰimos>: "X winters, X years old"
+
+----> Germanic <*-gimaz>
+-----> Germanic <*ainagimaz>: "one-year-old"
+------> West Germanic
+-------> Frankish <*einagim>
+--------> Medieval Latin `ingimus`: "one-year-old (of livestock)"
+-----> Germanic <*twigimaz>: "two-year-old"
+------> West Germanic
+-------> Frankish <*twigim>
+--------> Medieval Latin `tuigimus`: "two-year-old (of livestock)"
+
+----> Hellenic <*-kʰimos>
+-----> Hellenic <*dúskʰimos>: "in a bad winter"
+------> Classical Greek `δύσχιμος` <dýskhimos>: "of bad years, stormy, troubled, alarming, dangerous"
+
+----> Indo-Iranian <*-ȷ́ʰimas>
+-----> Indo-Aryan
+------> Sanskrit <-hima>
+-------> Sanskrit `𑀰𑀢𑀳𑀺𑀫` <śatáhima>: "hundred-year-old, lasting for a hundred years"
+-----> Iranian
+------> Avestan <-ziiama>
+-------> Avestan `𐬵𐬀𐬰𐬀𐬢𐬭𐬋𐬹𐬰𐬌𐬌𐬀𐬨` <hazaŋrō ziiam>: "thousand-year, millennium"
+
+----> Italic <*-himos>
+-----> Italic <*dwihimos>
+------> Latin `bīmus`: "two-year-old, lasting for two years"
+-----> Italic <*trihimos>
+------> Latin `trīmus`: "three-year-old, lasting for three years"
+
+
+
+
+
+-> Proto-Indo-European <*ǵʰéymn̥>
+
+--> Hellenic <*kʰeimə>
+---> Classical Greek `χεῖμα` <kheîma>: "winter, cold, frost"
+----> Classical Greek `χείμαστρον` <kheímastron>: "winter clothing" (instrumental noun)
+
+
+--> Indo-Iranian <*ȷ́ʰáyma>
+---> Indo-Aryan
+----> Dardic
+-----> Kalasha `héman`: "winter"
+----> Sanskrit `𑀳𑁂𑀫𑀦𑁆` <héman>: "winter"
+-----> Sanskrit `𑀳𑁂𑀫𑀦𑁆𑀢` <hemantá>: "winter"
+
+
+--> Proto-Indo-European <*ǵʰéymō> (collective form)
+
+---> Pre-Albanian <*j́īmanʉh>
+----> Albanian `dimër`: "winter"
+
+---> Hellenic
+----> Classical Greek `χειμών` <kheimṓn>: "winter, cold, frost, storm, disaster"
+-----> Greek `χειμώνας` <cheimónas>: "winter, wintertime"
+
+
+endbody

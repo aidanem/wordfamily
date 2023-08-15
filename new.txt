@@ -1,0 +1,453 @@
+date: 20220819
+tags: Elements, SI Units, Time
+
+
+startbody 
+
+Proto-Indo-European <*nu>: "now, well, and then"
+
+-> Albanian `nu`: "when"
+-> Albanian `ni`: "now"
+
+-> Anatolian <*nu>
+--> Hittite `𒉡` <nu>: "now, and"
+--> Cuneiform Luwian `𒈾𒀀𒉡𒌦` <na-a-nu-un> [nānun]: "now"
+
+-> Balto-Slavic <*nu>
+--> East Baltic
+---> Lithuanian `nù`: "now, well"
+--> Slavic <*nъ>: "but, however"
+---> East Slavic `нъ` <nŭ>: "but"
+----> Russian `но` <no>: "but, yet"
+---> South Slavic
+----> Old Church Slavonic `нъ` <nŭ>: "but"
+----> Serbo-Croatian `но` <no>: "but, however, than"
+
+-> Celtic <*nu>
+--> Gaulish `nu`: "now"
+--> Old Irish `no-` (verbal marker)
+
+-> Germanic <*nu>
+--> East Germanic
+---> Gothic `𐌽𐌿` <nu>: "now, and so, so then"
+--> North Germanic `ᚾᚢ` <nu>
+---> Old Norse `nú`: "now"
+----> Danish `nu`: "now, the present, a moment, an instant"
+----> Icelandic `nú`: "now"
+--> West Germanic
+---> Old English `nū`: "now, just now"
+----> English `now`
+---> Frankish <*nū>
+----> Dutch `nu`: "now"
+---> Old High German `nu`
+
+-> Hellenic <*nu>
+--> Classical Greek `νυ`: "now (particle)"
+
+-> Indo-Iranian <*nu>
+--> Indo-Aryan
+---> Sanskrit `नु` <nú>: "now, at once, still"
+--> Iranian
+---> Avestan `𐬥𐬏` <nu>: "now"
+---> Western Iranian
+----> Northwestern Iranian
+-----> Kurdish `niha`: "now"
+
+-> Italic <*nu>
+--> Italic <*nu-per>: "through now"
+---> Latin `nūper`: "newly, recently"
+
+
+
+-> Proto-Indo-European <*nunó->
+
+--> Balto-Slavic <*nunái>
+---> East Baltic
+----> Lithuanian `nū̃n`: "now, today, well"
+---> Slavic <nyně>: "now"
+----> East Slavic
+-----> Russian `ны́не` <nýne>: "now, today"
+-----> Ukrainian `ни́ні` <nýni>: "today, at present"
+----> South Slavic
+-----> Old Church Slavonic `нꙑнѣ` <nyně>: "now"
+----> West Slavic
+-----> Czech `nyní`: "now"
+-----> Old Polish `ninie`: "now, currently"
+------> Old Polish `niniejszy`: "now-er (comparative)"
+-------> Polish `niniejszy`: "this, the present (topic)"
+
+--> Germanic
+---> East Germanic
+----> Gothic `𐌽𐌿𐌽𐌿` <nunu>: "now then, therefore"
+---> North Germanic
+----> Old Norse
+-----> Icelandic `núna`: "now, currently"
+---> West Germanic
+----> Old High German
+-----> German `nun`: "now, well"
+
+--> Hellenic
+---> Classical Greek `νῦν` <nûn>: "now"
+----> Greek `νυν` <nun>: "now"
+
+--> Indo-Iranian <*nūnám>
+---> Indo-Aryan <*nūnám>
+----> Sanskrit `𑀦𑀽𑀦𑀫𑁆` <nūnám>
+---> Iranian <*nūrám> (dissimilation)
+----> Avestan `𐬥𐬏𐬭𐬇𐬨` <nūrə̄m>
+----> Western Iranian
+-----> Old Persian `𐎵𐎢𐎼𐎶` <nu-u-r-m> [nūram]: "now"
+
+--> Italic <*num>
+---> Latin `num`: "now, whether, if"
+----> Latin `nunc`: "now"
+
+
+
+
+-> Proto-Indo-European <*néwos>: "new, fresh, young, recent"
+
+--> Anatolian <*néwos>: "new, descendant"
+---> Hittite `𒉈𒂊𒌋𒉿𒀸` <ne-e-u-wa-aš>: "new, fresh"
+---> Luwian
+----> Cuneiform Luwian `𒈾𒀀𒌑𒉿𒋾` <nāúwati>: "new" (ablative)
+----> Hieroglyphic Luwian `​​𔐤𔗬-` <na-wi->
+---> Lycian <*newe>: "descendant"
+----> Lycian `𐊀𐊖𐊁𐊅𐊁𐊑𐊏𐊁𐊇𐊁` <asedeñnewe>: "collateral descendant"
+
+
+--> Balto-Slavic <*náwas>
+---> Slavic <*nòvъ>: "new"
+----> East Slavic `новъ` <novŭ>
+-----> Russian `но́вый` <nóvyj>: "new, recent, modern"
+------> Russian `Но́вая Земля́` <Nóvaja Zemljá>: "New Land (place name)"
+-------> English `Novaya Zemla`
+-------> English `Nova Zembla`
+-----> East Slavic `Новъгородъ` <Novŭgorodŭ>: "New-Town, Novgorod"
+------> Russian `Но́вгород` <Nóvgorod>
+-------> English `Novgorod`
+------> Ukrainian `Но́вгород` <Nóvhorod>
+----> South Slavic
+-----> Old Church Slavonic `новъ` <novŭ>: "new"
+-----> Serbo-Croatian `но̏в` <nȍv>: "new, recent, modern, fresh"
+----> West Slavic
+-----> Czech `nový`: "new"
+------> Czech `Novotný`: "Newcomer (surname)"
+-----> Polish `nowy`: "new"
+----> Slavic <*snòvъ>: "again" (<*sъn->+ <*nòvъ> ~ "with new")
+-----> East Slavic
+------> Russian `сно́ва` <snóva>: "again"
+------> Ukrainian `зно́ву` <znóvu>: "again"
+-----> West Slavic
+------> Czech `znova`: "again"
+------> Polish `znów`: "again"
+
+--> Hellenic <*néwos>
+---> Mycenaean Greek `𐀚𐀺 ` <ne-wo> [newos]: "new, young"
+---> Classical Greek `νέος` <néos>: "young, new, unexpected"
+----> Greek `νέος` <néos>: "young, modern, new"
+-----> Greek `νέο` <néo>: "news"
+-----> Classical Greek `Νεάπολις` <Neā́polis>: "New-City (place name)"
+------> Levantine Arabic `نابلس` <nābulus>: "Nablus"
+-------> English `Nablus`
+------> Maghrebi Arabic `نابل` <nābil>: "Nabeul"
+-------> French `Nabeul`
+--------> English `Nabeul`
+------> Latin `Neāpolis`: "Naples"
+-------> Western Romance
+--------> French `Naples`: "Naples"
+---------> English `Naples`
+--------> Italian `Napoli`: "Naples"
+-------> Latin `neāpolītānus`: "Neapolitan"
+--------> English `Neapolitan`
+----> New Latin `neon` (from the neuter `νέον` <néon>
+-----> Translingual `Ne`
+-----> English `neon`
+----> Classical Greek `νέο-`: "neo-"
+-----> New Latin `neo-`
+------> English `neo-`
+------> New Latin `neodidymium` ##
+-------> New Latin `neodymium`
+--------> English `neodymium`
+--------> Translingual `Nd`
+
+
+--> Indo-Iranian <*náwas>
+---> Indo-Aryan <*náwas>
+----> Dardic
+-----> Kashmiri `نۆو` <nov>
+----> Sanskrit `𑀦𑀯` <náva>: "new, fresh, young, recent, modern, novice"
+-----> Elu
+------> Sinhala `නව` <nawa>
+-----> Magadhi `𑀡𑀆` <na-ā>
+------> Assamese `ন` <no>: "new"
+------> Bengali `নয়া` <nôẏa>: "new, fresh, recent, modern"
+-----> Maharastri
+------> Marathi `नवा` <navā>
+-----> Sauraseni
+------> Punjabi `ਨਵਾਂ` <navā̃>: "new"
+------> Western Sauraseni
+-------> Romani `nevo`: "new"
+---> Iranian <*náwah>
+----> Avestan `𐬥𐬀𐬎𐬎𐬀` <nauua>
+----> Pashto `نوی` <nëway>: "new"
+
+----> Iranian <*náwākah>: "new" #
+-----> Northern Iranian
+------> Khotani <navaka>
+-----> Ossetian
+------> Digor `нӕуӕг` <næwæg>: "new, fresh, young"
+------> Iron `ног` <nog>: "new, fresh, young"
+------> Sogdian `𐫗𐫇𐫀𐫐𐫇` <nwʾkw>
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `nû`: "new"
+-------> Parthian <nwk> [nawag]: "new"
+--------> Parthian <*nawa-kadag?>: "new house?"
+---------> Old Armenian `նաւակատիք` <nawakatikʿ>: "inaugaration, dedication ceremony"
+----------> Armenian `նավակատիք` <navakatikʿ>: "eve of the Feast of Tabernacles"
+--------> Parthian <*nawaβsarδ>: "New Year"
+---------> Old Armenian `նաւասարդ` <nawasard>
+----------> Armenian `նավասարդ` <Navasard>: "first month of the Armenian calendar"
+------> Old Persian
+-------> Middle Persian `𐭭𐭥𐭪𐭩` <nwky> [nōg]: "new, recent"
+--------> Persian `نو` <now>: "new, fresh, pristine"
+---------> Persian `نوروز` <Nowruz>: "New Day, New Year's Day in Iranian/Zoroastrian Year"
+----------> English `Nowruz`
+
+
+
+--> Italic <*nowos>: "new"
+---> Oscan `𐌍𐌞` <nú>: "new"
+---> Umbrian `𐌍𐌖𐌅𐌉𐌔` <nuvis>: "new"
+---> Latin `novus`: "new, fresh, young, recent, strange"
+----> Sardinian `nou`: "new"
+----> Eastern Romance
+-----> Romanian `nou`: "new"
+----> Western Romance
+-----> French `neuf`: "brand new"
+-----> Italian `nuovo`: "new"
+-----> Spanish `nuevo`: "new, fresh"
+----> Latin `nova stēlla`: "new star"
+-----> New Latin `nova`: "nova"
+------> English `nova`
+-------> English `supernova`
+
+----> Latin `novellus`: "new, young, fresh, newly made, novel"
+-----> Vulgar Latin <*novellus>
+------> Western Romance
+-------> Old French `novel`: "new"
+--------> French `nouveau`: "new"
+--------> English `novel`
+--------> Old French `novelté`: "newness, novelty"
+---------> French `nouveauté`: "newness, novelty"
+---------> English `novelty`
+
+------> Vulgar Latin <*novella>: "news, story" (neuter plural substantive)
+-------> Western Romance
+--------> Italian `novella`: "story, short story, news"
+---------> French `nouvelle`
+----------> English `novel` (noun)
+-----------> Welsh `nofel`: "a novel"
+---------> English `novella`
+
+---?> Latin `nūntius`: "messenger, envoy, report, news, decree"
+-----> Italian `nunzio`
+------> English `nuncio`
+------> French `nonce`
+-----> Latin `nūntiō`: "I announce, I report, I bring news of"
+------> Latin `annūntiō`
+-------> Western Romance
+--------> French `anoncier`
+---------> English `announce`
+------> Latin `dēnūntiō`
+-------> Western Romance
+--------> French `dénoncer`
+---------> English `denounce`
+------> Latin `ēnūntiō`
+-------> Western Romance
+--------> French `énoncer`
+-------> English `enunciate`
+------> Latin `prōnūntiō`
+-------> Western Romance
+--------> French `prononcer`
+---------> English `pronounce`
+------> Latin `renūntiō`
+-------> Western Romance
+--------> French `renoncer`
+---------> English `renounce`
+
+
+--> Tocharian <*ñuwe>
+---> Arshian <ñu>: "new"
+---> Kushean <ñuwe>: "new"
+
+
+--> Proto-Indo-European <*new(y)eh₂kos>: "novice, one who is new"
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `naujõkas`: "novice"
+----> Slavic <*novãkъ>
+-----> East Slavic
+------> Ukrainian `новак` <novak>
+-----> South Slavic
+------> Old Church Slavonic `новакъ` <novakŭ>
+------> Serbo-Croatian `но̀ва̄к` <nòvāk>: "recruit, novice, newcomer"
+-------> Serbo-Croatian `Nȍvāk`: "Newcomer (personal or surname)"
+--------> English `Novak`
+-----> West Slavic
+------> Old Czech `novák`: "novice, recruit, newcomer"
+-------> Czech `Novák`: "Newcomer (personal or surname)"
+--------> English `Novak`
+------> Old Polish `nowak`
+-------> Polish `Nowak`
+--------> English `Nowak`
+
+---> Hellenic
+----> Classical Greek `νέᾱκος` <néākos>: "young man"
+
+---> Italic
+----> Latin `novīcius`: "new, fresh"
+-----> Late Latin `novīcius`: "novice, beginner"
+------> French `novice`: "beginner, novice"
+-------> English `novice`
+------> Italian `novizio`: "novice, beginner, newcomer"
+------> Spanish `novicio`: "novice"
+
+
+--> Proto-Indo-European <*newrós>
+
+---> Old Armenian `նոր` <nor>: "new, fresh, young, modern, strange"
+----> Armenian `նոր` <nor>: "new, fresh"
+
+---> Hellenic
+----> Classical Greek `νεᾰρός` <nearós>: "young, fresh, recent"
+-----> Classical Greek `νεαρὸν ὕδωρ` <nearòn húdōr>: "fresh water"
+------> Greek `νερό` <neró>: "water"
+
+--?> Italic <*nowerka> (feminine substantive?)
+----> Latin `noverca`: "stepmother, adoptive mother"
+-----> Eastern Romance
+------> Aromanian `nuearcã`: "stepmother"
+------> Albanian `njerkë`: "stepmother"
+-------> Albanian `njerk`: "stepfather" (back-formed)
+-----> Western Romance
+------> Italian `noverca`: "stepmother"
+
+
+
+--> Proto-Indo-European <*néwyos>: "new" (alternate, non-ablauting form)
+
+---> Balto-Slavic <*náujas>
+----> East Baltic
+-----> Lithuanian `naũjas`: "new"
+
+---> Celtic <*nouyos>
+----> Brythonic <*nöwɨð>
+-----> Welsh `newydd`: "new, the news"
+----> Celtiberian <*nouyos>: "new"
+----?> Celtiberian <*Nouyom>: "New (place name)"
+-----> Classical Greek `Νοουιον` <Noouion>: "place name in Iberia, possibly Noia"
+-----> Galician `Noia`
+------> English `Noia`
+----> Gaulish <*novios>
+-----> Gaulish <*Noviodūnom>: "New-Fort (place name)"
+------> Latin `Noviodūnum`
+-----> Gaulish <*Noviomagos>: "New-Field or New-Market (place name)"
+------> Latin `Noviomagus`
+-------> Dutch `Nijmegen`
+-------> French `Noyon`
+-------> German `Neumagen`
+-----> Gaulish <*Noviorīgyom>: "New-Kingdom (place name)"
+------> Latin `Novioregum`
+----> Old Irish `nuae`: "new"
+-----> Irish `nua`: "new, fresh, recent"
+
+---> Germanic <*niwjaz>
+----> East Germanic
+-----> Gothic `𐌽𐌹𐌿𐌾𐌹𐍃` <niujis>: "new"
+----> North Germanic
+-----> Old Norse `nýr`
+------> Danish `ny`: "new"
+-------> Old Danish `Nybylløv`: "New-Settlement (place name)" (with Scanian place name suffix `-løv`)
+--------> Swedish `(Östra) Nöbbelöv`
+---------> Swedish `Nobel`: "habitational surname"
+----------> English `Nobel Prize`
+----------> New Latin `nobelium` (after Alfred Nobel)
+-----------> Translingual `No`
+-----------> English `nobelium`
+------> Icelandic `nýr`: "new"
+----> West Germanic
+-----> Old English `nīewe`: "new"
+------> English `new`
+-------> English `Newman`: "Newcomer (surname)"
+------> Old English `Nēowa Tūn`: "New Town (place name)"
+-------> English `Newton`: "New-town (place name, habitational surname)"
+--------> English `newton`
+---------> Translingual `N`
+------> Old English `Nīewe Weorc`: "New Work (place name)"
+-------> English `Newark`
+-----> Frankish <*niwi>
+------> Dutch `nieuw`: "new"
+-----> Old High German `niuwi`: "new"
+------> German `neu`: "new"
+-------> German `Neumann`: "Newcomer (surname)"
+------> Yiddish `נײַ` <nay>: "new, recent"
+
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀦𑀯𑁆𑀬` <návya>: "new"
+------> Sauraseni `𑀡𑀯𑀺𑀅` <ṇavia>
+-------> Hindi `नया` <nayā>: "new"
+------> Telugu `నవ్యము` <navyamu>: "new"
+----> Nuristani
+-----> Kamviri `nuĩ`: "new"
+
+---> Proto-Indo-European <*new(y)eh₂kos>: "novice, one who is new"
+
+
+
+--> Proto-Indo-European <*néweh₂ti>: "to make new, to renew"
+
+---> Anatolian
+----> Hittite `𒉈𒂊𒌋𒉿𒄴𒄩𒀭𒍣` <ne-e-u-wa-aḫ-ḫa-an-zi>: "to renew"
+
+
+---> Hellenic <*newaō>
+----> Classical Greek `νεάω` <neáō>
+
+
+
+---> Italic <*nowāō>
+----> Latin `novō`: "I make new, I renew, I refresh, I change"
+-----> Latin `innovō`
+------> English `innovate`
+------> French `innover`
+------> Italian `innovàre`: "to innovate, to reform"
+------> Spanish `innovar`: "to innovate"
+-----> Latin `renovō`: "I renew, I restore, I touch up, I change"
+------> Western Romance
+-------> Italian `rinnovare`: "to renew, to update, to replace, to extend the duration of, to repeat"
+------> English `renovate`
+------> French `rénover`
+-------> German `renovieren`: "to renovate"
+-------> Romanian `renova`: "to renovate"
+------> Spanish `renovar`: "to renovate"
+
+
+
+endbody
+
+
+
+
+startnotes
+
+# In many Iranian languages <*náwah>: "new" became homonymous with <*Hnáwa>: "nine" and was replaced by <*náwākah>, approximately "new-ish".
+
+Some have speculated a connection in Proto-Indo-European <*h₁néwn̥>: "nine" and <*néw->: "new", based on a derivation of <*h₁n-néwn̥>: "in the new", assuming that Old Armenian `նոր` <nor> represents a r/n alternation stem <néwr̥> ~ <néwn̥>. But there are a number of problems with this idea. I think <*h₁new->: "without" seems like a better source for <*h₁néwn̥>, with the idea of "(ten) without (the last one)".
+
+
+endnotes

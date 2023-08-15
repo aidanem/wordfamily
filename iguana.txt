@@ -1,0 +1,25 @@
+
+
+
+startbody
+
+
+Arawakan
+
+-> Wayuu <iwana>: "iguana"
+
+-> Taíno <*iwana>: "iguana"
+--> Spanish `iguana`
+---> Arabic `إغوانة` <ʾiḡwānā>: "iguana"
+---> Dutch `leguaan`: "iguana" (with rebracketing of Spanish `la iguana`)
+----> German `Leguan`: "iguana, lizard"
+-----> Polish `legwan`: "iguana"
+----> Finnish `leguaani`: "iguana"
+---> English `iguana`
+----> English `'guana`
+-----> English `goanna`
+---> French `iguane`
+---> Japanese `イグアナ` <iguana>: "iguana"
+
+
+endbody

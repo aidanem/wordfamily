@@ -1,0 +1,402 @@
+date: 20200423
+tags: Chess
+
+
+
+startintro
+
+This is quite a large family with a number of borrowings into other language families. Because, it turns out, the Indo-European speakers' relationship with wheels is pretty important in a lot of people's history, like the Sumerians' relationship with reeds.
+
+There is also a root <*wel(h₁)->: "to turn, to wind, to eddy", which it's hard to argue is completely unrelated to <*kʷel(h₁)->: "to roll, to turn"! But doing they're both quite big families, and I ran out of time to do them both at once. The <*wel(h₁)-> family includes words like `revolution`, `waltz`, `walk`, `vulgar`, and `wall`.
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*kʷelh₁->: "to roll, to turn"
+
+-> Proto-Indo-European <*kʷélh₁eti>: "rolls, travels" (primary verb)
+
+--> Albanian `sjell`: "to turn, to bring, to dawdle"
+
+--> Hellenic <*kʷélō>
+---> Ancient Greek `πέλω` <pélō>: "to go, to become, to be"
+
+----> Ancient Greek `πάλαι` <pálai>: "gone, far away, long ago"
+-----> English `paleo-`
+
+--> Indo-Iranian <*čárati>
+---> Indo-Aryan <*ćárati>
+----> Sanskrit `चरति` <cárati>: "moves, walks, wanders, directs, behaves"
+-----> Pali <carati>: "walks, moves"
+---> Iranian <*čárati>
+----> Avestan `𐬗𐬀𐬭𐬁𐬥𐬍` <carānī>: "I move, I approach"
+----> Northern Iranian
+-----> Alanian
+------> Ossetian `цӕрын` <cæryn>: "I live"
+----> Pashto `څرېدل` <caredal>: "to take to pasture, to set to graze"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `çerîn`: "to set to graze"
+-----> Old Persian
+------> Persian `چریدن‎`: "to take to pasture, to set to graze"
+
+--> Italic <*kʷelō>
+---> Latin `colō`: "I plow, I cultivate, I inhabit, I worship"
+----> Latin `-cola`: "inhabitor, cultivator, worshipper"
+-----> Latin `agricola`: "farmer" (lit. "field-turner")
+------> Latin `Agricola`: "Farmer" (personal or family name)
+-------> English `Agricola` #######
+------> French `agricole`: "agricultural"
+----> Latin `colōnus`: "farmer, inhabitant, colonist"
+-----> Western Romance
+------> French `colon`: "colonist, colonizer, camper, sharecropper"
+------> Italian `colono`: "colonist, settler, farmer"
+------> Spanish `colono`: "colonist, settler, farmer" ########
+-----> Latin `colōnia`: "colony, settlement, estate"
+------> English `colony`
+
+---> Italic <*inkʷelō>
+----> Italic <*inkʷelīnos>
+-----> Latin `inquilīnus`: "sojourner, tenant, of foreign origin"
+
+-> Proto-Indo-European <*kʷelh₁esyeti>
+
+--> Hellenic <*kʷeléyyō>
+---> Ancient Greek `τελέω` <teléō>: "I complete, I fulfill, I perform"
+
+
+-> Proto-Indo-European <*kʷólh₁os>
+
+--> Hellenic <*kʷólos>
+---> Ancient Greek `πόλος` <pólos>: "axle, pivot, hinge"
+----> Greek `πόλος` <pólos>: "pole (of an axis or battery)"
+-----> Greek `Βόρειος Πόλος`: "North Pole"
+----> Latin `polus`: "pole (of an axis)"
+-----> Old French `pole`
+------> French `pôle`
+------> English `pole`######
+
+
+-> Proto-Indo-European <*kʷl̥h₁tós>: "turned" (adjective)
+
+--> Italic <*kʷəltos>
+---> Latin `cultus`: "tilled, cultivated, nurtured, worshipped, religious group"
+----> French `culte`
+-----> English `cult`
+----> Latin `cultūra`: "care, cultuivation, agriculture, culture"
+-----> French `culture`
+------> English `culture`
+-----> Italian `cultura`
+-----> Spanish `cultura`
+-----> Latin `agricultūra` ("field-cultivation")
+------> English `agriculture`
+
+
+
+-> Proto-Indo-European <*kʷélh₁os>
+
+--> Hellenic <*kʷélos>
+---> Ancient Greek `τέλος` <télos>: "completion, fulfillment, result, end, death, highest authority, taxes"
+----> Greek `τέλος`: "end, finish"
+----> Ancient Greek `Ἀριστοτέλης` <Aristotélēs>: "Best-Result (personal name)"
+-----> Latin `Aristotelēs`: "Aristotle"
+------> English `Aristotle`
+----> English `tele(o)-`
+
+
+-> Proto-Indo-European <*kʷelh₁om>
+
+--> Balto-Slavic
+---> West Baltic
+----> Old Prussian `kelan`: "wheel"
+
+
+-> Proto-Indo-European <*kʷékʷlh₁os>
+
+--> Anatolian <*kuakula??>: "wheels (collective)" #
+--?> Hittite `𒆪𒄢𒆷` <KU.GUL.LA>: "donut"
+--?> Sumerian `𒇀` <GIGIR>: "chariot"
+--?> Northwest Semitic <*GLGL>: "wheels, rolling"
+----> Hebrew `גַּלְגַּל` <gálgal>: "wheel"
+----> Hebrew `הִתְגַּלְגֵּל` <hitgalgél>: "to roll"
+
+--> Balto-Slavic <*kaklas>: "neck" ##
+---> Eastern Baltic
+----> Lithuanian `kãklas`: "neck, collar"
+----> Finnic <*kakla>
+-----> Finnish `kaula`: "neck"
+
+--> Germanic <*hwehwlã>: "wheel"
+---> North Germanic
+----> Old Norse `hvél` 
+-----> Icelandic `hvel`: "wheel, disk, circle"
+---> Germanic <*hweulō>: "wheels"
+----> North Germanic
+-----> Old Norse `hjól`: "wheel"
+------> Danish `hjul`: "wheel"
+------> Icelandic `hjól`: "wheel, tire"
+-------> Icelandic `reiðhjól`: "bicycle"
+----> West Germanic
+-----> Old English `hwēol`: "wheel"
+------> English `wheel`
+-----> Frankish <*wiol>
+------> Dutch `wiel`: "wheel"
+
+--> Hellenic
+---> Ancient Greek `κῠ́κλος` <kúklos>: "circle, wheel, crowd, sphere"
+----> Greek `κύκλος` <kýklos>: "circle, cycle, course"
+----> Latin `cyclus`: "circle, cycle"
+-----> French `cycle`
+------> English `cycle`
+-------> Japanese `サイクル` <saikuru>
+------> French `bicycle`
+-------> French `bicyclette`
+-------> English `bicycle`
+-----> Italian `ciclo`
+-----> Spanish `ciclo`
+----> English `Kuklos Adelphon` (Greek learned borrowing: "circle of brothers")
+-----> English `Ku Klux Klan`
+----> Ancient Greek `κυκλόω` <kuklóō>: "to go in a circle, to surround"
+-----> English `cyclone`
+----> Ancient Greek `Κύκλωψ` <Kúklōps>: "cyclops" (partly) #####
+-----> English `cyclops`
+
+
+--> Indo-Iranian <*čakrám>: "wheel"
+---> Indo-Aryan <*ćakrám>
+----> Sanskrit `चक्र` <cakrá>: "wheel, circle, cycle"
+-----> Magadhi
+------> Bengali `চাকা` <caka>
+-----> Pali <cakka>: "wheel, circle, cycle, command"
+------> Burmese `စက်` <cak>: "circle, wheel, cycle, machine"
+------> Thai `จักร` <jàk>: "wheel, circle, gear, chakra, realm"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `चक्कर` <cakkar>: "circle, curve, roundabout"
+-----> Telugu `చక్రము` <cakramu>: "wheel"
+-----> English `chakra`
+-----> English `chakram`
+-----> Sanskrit `चक्रवर्तिन्` <cakravartin>
+------> English `chakravartin`
+
+---> Iranian <*čaxrám>
+----> Avestan `𐬗𐬀𐬑𐬭𐬀` <caxra>: "wheel"
+----> Northern Iranian
+-----> Alanian
+------> Ossetian `цалх` <calx>: "wheel"
+----> Pashto `څرخ` <carx>
+----> Western Iranian
+-----> Northwestern Iranian
+------> Balochi `چہر` <čahr>
+------> Kurdish `çerx`: "wheel"
+-----> Old Persian
+------> Persian `چرخ` <čarx>: "wheel, cart, spool, pulley"
+----> Iranian <*čaxrákah>: "spinning wheel"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Balochi `چہرگ` <čahrag>
+------> Old Persian
+-------> Persian `چرخه` <čarxe>: "spinning wheel"
+
+---> Finnic <*kecrä>: "spindle, wheel, flywheel"
+----> Finnish `kehrä`: "spindle, disk of the Sun or Moon"
+---?> Finnish `kekri`: "harvest festival" ("turning of the year?")
+
+--> Phrygian `κίκλην` <kíklēn>
+
+--> Tocharian <*kukäle>
+---> Arshian `kukäl`: "wagon, cart"
+---> Kushean `kokale`: "wagon, cart"
+
+
+
+-> Proto-Indo-European <*kʷólh₁os>
+
+--> Balto-Slavic <*kalas>
+---> Slavic <*kȍlo>: "wheel, circle"
+
+--> Celtic <*kʷolos>
+---> Old Irish `cul`: "chariot?"
+----> Old Irish `culgaire`: "chariot noise" (with `gaire`: "call, shout")
+
+
+->  Proto-Indo-European <*kʷolh₁som>
+
+--> Italic <*kʷolsom>
+---> Latin `collum`: "neck"  ##
+----> Sardinian `coddu`: "neck"
+----> Western Romance 
+-----> Old French `col`
+------> French `cou`: "neck"
+------> French `col`: "collar, neck (of a vase, etc.)"
+-----> Italian `collo`: "neck, collar, package"
+-----> Spanish `cuello`: "neck, collar"
+----> Latin `collāris`: "of the neck, collared"
+-----> Old French `coler`
+------> French `colier`
+------> English `collar`
+-------> Irish `coiléar`: "collar, truss"
+
+
+-> Proto-Indo-European <*kʷolh₁sos>
+
+--> Germanic <*halsaz>: "neck" ##
+
+
+
+-> Proto-Indo-European <*kʷl̥h₁is>
+
+--> Hellenic
+---> Ancient Greek <*pális>: "back, reverse" ("turned part")
+----> Ancient Greek `πᾰ́λῐν` <pálin>: "backwards, again"
+-----> Greek `πάλι` <páli>: "again"
+-----> Coptic `ⲡⲁⲗⲓⲛ` <palin>: "again"
+-----> Ancient Greek `πᾰλῐ́μψηστος` <palímpsēstos>: "re-scraped"
+------> Latin `palimpsēstus`: "manuscript scraped clean for re-use, palimpsest"
+-------> English `palimpsest`
+
+
+-> Proto-Indo-European <?>
+
+--> Tocharian
+---> Kushean <kleŋke>: "wagon"
+
+--?> Old Chinese <*kla>: "chariot" ####
+----> Middle Chinese `車` <kɨʌ>: "chariot (xiangqi), rook (chess)" ####
+-----> Mandarin `車` <jū>
+-----> Wu `車` <geoi¹>
+-----> Yue `車` <jy¹>
+--?> Old Chinese <*kʰlja>: "chariot, cart" ####
+----> Middle Chinese `車` <t͡ɕʰia>: "chariot, cart, vehicle, machine" ####
+-----> Mandarin `車` <chē>: "chariot, cart, vehicle, machine"
+-----> Wu `車` <tsho¹>: "chariot, cart, vehicle, machine"
+-----> Yue `車` <ce¹>: "chariot, cart, vehicle, machine"
+-----> Japanese `車` <sha>: "vehicle"
+-----> Korean `차` <cha>: "vehicle"
+--?> Old Chinese `轂` <*kloːɡ>: "hub, wheel, chariot"
+
+
+-> Uralic <*kulke->: "to go, to walk"
+--> Finno-Ugric
+---> Finnic <*kulkedak>
+----> Finnish `kulkea`: "to go, to walk, to travel"
+---> Ugric
+----> Hungarian `halad`: "to proceed, to advance"
+
+--> Samoyedic
+---> Nenets `хуˮла` <χūllā>: "to drift"
+
+
+?> Proto-Indo-European <*kʷlh₁ewt->: "to turn, to change" (a new root re-analyzed from a zero-grade form?)
+
+--> Proto-Indo-European <*kʷlh₁utsḱéti> (iterative verb)
+
+---> Tocharian <*klutk->
+----> Arshian <lutk->: "to make, to change, to become, to turn into"
+----> Kushean <klutk->: "to make, to change, to become, to turn into"
+
+--> Proto-Indo-European <*kʷlh₁ewtsm̥>
+
+---> Albanian `qeshë`: "was" (suppletive past tense of `jam`)
+
+
+?> Proto-Indo-European <*klh₁eyp-?>: "(flat) bread" ###
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `kliẽpas`: "loaf of bread"
+
+--> Germanic <*hlaibaz>: "bread
+---> East Germanic
+----> Gothic `𐌷𐌻𐌰𐌹𐍆𐍃` <hlaifs>: "bread"
+----> Slavic <*xlě̀bъ>
+-----> East Slavic `хлѣбъ` <xlěbŭ>
+------> Russian `хлеб` <xleb>: "bread, loaf, living"
+-----> South Slavic
+------> Old Church Slavonic `хлѣбъ` <xlěbŭ>: "bread, loaf"
+------> Serbo-Croatian `хље̏б` <hljȅb>: "bread, loaf"
+-----> West Slavic
+------> Polish `chleb`: "bread, work"
+---> North Germanic
+----> Old Norse `hleifr`: "loaf"
+-----> Danish `lev`
+-----> Icelandic `hleifur`: "loaf (of bread)"
+---> West Germanic
+----> Old English `hlāf`: "bread, loaf"
+-----> English `loaf`
+-----> Scots `laif`
+-----> Old English `hlǣfdīġe`: "mistress of a household" (lit. "bread-kneader")
+------> English `lady`
+-----> Old English `hlāfweard`: "master of a houshold" (lit. "bread-guard")
+------> English `lord`
+------> Scots `laird`
+
+---> Finnic <*laipa>
+----> Finnish `leipä`: "bread"
+---> Samic <*lājpē>
+----> Northern Sami `láibi`: "bread"
+
+
+--> Hellenic
+---> Ancient Greek `κρῑ́βᾰνος` <krī́banos>: "bread pan, bread oven" (also appears as <klī́banos>)
+----> Greek `Κλίβανος`: "furnace"
+----> Latin `clībanus`: "breadpan, oven, furnace"
+
+
+
+endbody
+
+
+startnotes
+
+# Sumerian `𒇀` <GIGIR>: "chariot" and/or Hebrew `גַּלְגַּל` <gálgal>: "wheel" may derive from IE introduction of the chariot, but it is far from certain.
+
+
+## Words for "neck" come from this root via the concept of "thing that turns (your head)".
+
+Germanic <*halsaz> you'd expect to be <*hwalsaz>. Perhaps the <*w> was absorbed by the <*o> before it was lowered to <*a>, or it could have been influenced by Latin `collum`, where the absorption of the <*w> is expected.
+
+### <*klh₁eyp-?> is a plausible root for at least two words of unknown origin connected to bread: Germanic <*hlaibaz>: "loaf" and Ancient Greek <krī́banos>/<klī́banos>: "bread pan, bread oven". The East Baltic words (represented by Lithuanian `kliẽpas`: "loaf of bread") may be a third, or may represent an early borrowing from Germanic, like the later Slavic borrowing.
+
+Germanic <*hlaibaz> (`loaf`) is thought to have originally meant flatbread, in constrast to <*braudã> (`bread`), connected to `brew` and meaning "leavened bread". Assuming this is correct, the semantic connection to <kʷel-> is the wheel-like shape of most flatbread.
+
+On the other hand, the phonology is shaky and Ancient Greek words that vary between <l> and <r> tend to be borrowings from non-IE sources. Often because the Minoan language appears not to have had an <l>/<r> distinction, and/or because some but not all Ancient Egyptian dialects in which <l> merged into <r>. So these words could also be borrowed from one or more unknown languages. (see "lion")
+
+#### 
+
+There are three Chinese words related to wheels and vehicles that sound vaguely like <*kʷelh₁-> or <*kʷékʷlh₁os>:
+
+`車` <*kʰlja>/<*kla>: "chariot, cart"
+`轂` <*kloːɡ>: "hub, wheel, chariot"
+`軲轆` <gu lu(k)>: "wheel"
+
+There's a good chance at least one of these is from Indo-European, since chariots arrived in China from the west across the steppe and through the Jade Gate.
+
+車 is a great example of a hanzi where you can still see the ancient pictographic origin. It's a top down view of a chariot with the an axle and wheels to the top and bottom. (Note: `車` appears as a semantic component of the hanzi `轂` and both of the hanzi in `軲轆`).
+
+On the other hand, there are also similar sounding words with more general circular meanings that are less likely to be from Indo-European, and also provide an alternate origin for the ones above:
+
+`回` <*ɡuːl>: "to turn around, to repeat, to refuse"
+`歸` <*klul>: "to return, to come back to"
+
+Tibetan also has `འཁོར` <'khor>: "to turn around, to spin, to gather, circle, wheel, cycle" and `འཁོར་ལོ` <'khor lo>: "wheel, vehicle, chariot, machine", which adds support to a native Sino-Tibetan origin of some of them, especially, `軲轆` <gu lu(k)>: "wheel".
+
+
+##### `Κύκλωψ` <Kúklōps>: "cyclops" can be understood as "round eye", but this may be an eggcorn of <*péḱu-klṓps>: "cattle-thief", after Greek stopped using the word <*péḱu>. If so, the reinterpretation of the word may have led to a re-envisioning of the creature. (Reconstruction shows that cattle-raiding was clearly an important part of Proto-Indo-European culture and probably mythology.)
+
+
+###### English `pole` as in North Pole or the pole of a magnet is from Greek `πόλος` <pólos>: "axle, pivot point". But `pole` like an upright stick is from Latin `palus`, thus setting up much confusion as to whether there is a pole at the North Pole.
+
+
+####### As in Georgius Agricola, the Latinate name of Georg Bauer the author of "De Rei Metallica", the foundational work of geology. "Bauer" means "farmer" in German, thus the translation to "Agricola". But also, "Georg(ius)" is from Greek `γεωργός` <geōrgós>: "farmer" ("geo-" + "ergo-": "earth-work"), so he is "Farmer Farmer".
+
+
+######## Do Spanish speakers make puns on `Cristobal Colón` (the Spanish version of `Christopher Columbus`) and `colono`: "colonizer"? 
+
+(He was probably natively `Cristoffa Corombo`. In any case the family name meant "dove".)
+
+
+endnotes
+

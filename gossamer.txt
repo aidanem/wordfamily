@@ -1,0 +1,317 @@
+date: 20201023
+tags: Animals, Birds, Hydronymy
+
+startintro
+
+The period of unseasonably hot weather after an initial autumn cooling—now often called "Indian summer"—was previously called "goose summer" in English because it corresponds with the beginning of goose hunting season. Compare Irish `fómhar beag na ngéanna`: "warm period in Autumn (Indian summer)", literally "little autumn of the geese"
+
+The word then became associated with another seasonal event at the same time: the mass dispersal of spiderlings by ballooning on fine silk, which can leave fields or trees covered in fine spider silk. And finally, the word came to refer to this fine spider silk, and things resembling it: "gossamer"
+
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*semh₂->: "summer"
+
+
+-> Proto-Indo-European <*sǝmeh₂>
+
+--> Indo-Iranian <*sámaH>
+---> Indo-Aryan <*sámaH>
+----> Sanskrit `𑀲𑀫𑀸` <sámā>: "season, weather, year, half-year"
+
+---> Iranian <*hamaH>
+----> Avestan `𐬵𐬀𐬨𐬀` <hama>: "summer"
+-----> Avestan `𐬨𐬀𐬌𐬜𐬌𐬌𐬋𐬌.𐬴𐬀𐬨𐬀` <maiδiiōi.ṣ̌ama>: "midsummer"
+----> Northern Iranian
+-----> Saka
+------> Khotani <hamana->: "summer"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `havîn`: "summer"
+-----> Old Persian
+------> Persian  `هامین` <hâmin>: "late summer, harvest season"
+
+--?> Indo-Iranian <*sámaH-ā́ps?>: "summer water (place name)"
+----> Slavic
+-----> East Slavic
+------> Russian `Сама́ра` <Samára> #####
+-------> English `Samara` #####
+
+--> Tocharian
+---> Arshian <ṣme>
+---> Kushean <ṣmāye>
+
+-> Proto-Indo-European <*sm̥h₂ós>
+
+--> Old Armenian `ամ` <am>: "summer, year"
+---> Old Armenian `ամանոր` <amanor>: "New Year"
+----> Armenian `Ամանոր` <Amanor>: "New Year, New Year's Day"
+---> Old Armenian `ամառն` <amaṙn>
+----> Armenian `ամառ` <amaṙ>: "summer"
+
+--> Celtic <*samos>: "summer"
+---> Brythonic <*haβ̃>
+----> Welsh `haf`: "summer"
+---> Old Irish `sam`: "summer"
+----> Old Irish `samrad`: "summer"
+-----> Irish `samhradh`: "summer"
+
+---> Celtic <*medyo-samīnos>: "midsummer"
+----> Brythonic
+-----> Welsh `Mehefin`: "June"
+----> Old Irish `mithem`
+-----> Irish `Meitheamh`: "June"
+
+--?> Celtic <*samonios>: "November, Samhain" ######
+----> Old Irish `Samain`: "November, Samhain, All Hallows"
+-----> Irish `Samhain`: "November, Samhain"
+------> English `Samhain`
+------> Irish `Oíche Shamhna`: "Halloween" (lit. "Samhain Night")
+
+--> Germanic <*sumaraz>
+---> North Germanic
+----> Old Norse `sumar`: "summer"
+-----> Danish `sommer`: "summer"
+-----> Icelandic `sumar`: "summer"
+---> West Germanic
+----> Old English `sumor`: "summer"
+-----> Middle English `somer`: "summer"
+------> English `summer`
+------> Middle English `gossomer`: "warm period in Autumn, spider silk"
+-------> English `gossamer`
+----> Frankish <*sumar>
+-----> Dutch `zomer`: "summer"
+----> Old High German `sumar`
+-----> German `Sommer`: "summer"
+-----> Yiddish `זומער‎` <zumer>: "summer"
+
+
+
+Untitled Goose Language <gonk> ###
+
+-> English `honk`
+-> German `gack`: "honk (goose onomatopoeia)"
+-> Hungarian `gá`: "honk (goose onomatopoeia)"
+-> Norwegian `gakk`: "honk (goose onomatopoeia)"
+-> Russian `га-га-га́` <ga-ga-gá>: "honk (goose onomatopoeia)"
+
+-> Proto-Indo-European <*ǵʰh₂éns>: "goose" ###
+
+--> Albanian `gatë`: "heron"
+
+--> Balto-Slavic <*źansís>: "goose"
+---> East Baltic
+----> Lithuanian `žąsìs`: "goose"
+--?> Slavic <*gǫ̑sь>
+----> East Slavic `гу́сь` <gúsĭ>
+-----> Russian `гу́сь` <gúsʹ>: "goose"
+----> South Slavic
+-----> Old Church Slavonic `гѫсь` <gǫsĭ>: "goose"
+----> West Slavic
+-----> Polish `gęś`: "goose"
+----> Slavic <*gǫ̑sьka> (dimunitive)
+-----> East Slavic
+------> Ukrainian `гу́ска` <húska>: "goose"
+-----> South Slavic
+------> Serbo-Croatian `гу̏ска` <gȕska>: "goose"
+------> Romanian `gâscă`: "goose"
+-----> West Slavic
+------> Polish `gąska`: "gosling"
+---> West Baltic
+----> Old Prussian <sansy>
+---> Finnic <*hanhi>
+----> Finnish `hanhi`: "goose"
+---> Mordvinic
+----> Erzya `шенже` <šenže>: "duck"
+
+--> Celtic <*gansis>
+---> Old Irish `géiss`: "swan"
+---> Celtic
+----> Old Irish `ganndal`: "gander"
+-----> Irish `gandal`: "gander"
+--?> Celtic <*gezdā> ###
+----> Brythonic
+-----> Welsh `gŵydd`: "goose, fool"
+----> Old Irish <*géd>
+-----> Irish `gé`: "goose"
+------> Irish `fómhar beag na ngéanna`: "warm period in Autumn (Indian summer)" (lit. "little autumn of the geese")
+
+--> Germanic <*gans>: "goose"
+---> East Germanic
+----> Gothic <*gans>
+----?> Slavic <*gǫ̑sь>
+---> North Germanic
+----> Old Norse `gás`: "goose"
+-----> Danish `gås`: "goose"
+-----> Icelandic `gæs`: "goose"
+------> Icelandic `Grágás`: "Grey-Goose" #
+---> West Germanic
+----> Old English `gōs`: "goose"
+-----> Middle English `goos`
+------> English `goose`
+------> Middle English `gossomer`: "warm period in Autumn, spider silk"
+-------> English `gossamer`
+----> Frankish
+-----> Dutch `gans`: "goose"
+----> Old High German `gans`
+-----> German `Gans`: "goose"
+------> German `Gänseaugen`: "quatation mark (obsolete)" (lit. "goose eye")
+-------> Danish `gåseøjne`: "quotation mark" ("goose eye", calque of German)
+------> German `Gänsefüßchen`: "quotation mark" (lit. "little goose-feet")
+-----> Yiddish `גאַנדז‎` <gandz>: "goose"
+------> Yiddish `גענדזן־פֿיסלעך` <gendzn-fislekh>: "quotation mark" (lit. "little goose-feet")
+
+
+---> Germanic <*ganzô>: "gander"
+----> East Germanic
+-----> Gothic <*ganzo>
+-----> Spanish `ganso`: "goose, gander, fool"
+----> North Germanic
+-----> Old Norse `gassi`
+------> Danish `gase`: "gander"
+------> Icelandic `gassi`: "
+----> West Germanic
+-----> Old English `ganra`: "gander"
+------> English `gander`
+-----> Old High German `ganzo`
+------> German `Ganter`: "gander"
+------> German `Ganser` (surname)
+
+--> Hellenic <*kʰā́n>
+---> Mycenaean Greek `𐀏𐀜` <ka-no>
+---> Classical Greek `χήν` <khḗn>: "goose"
+----> Greek `χήνα` <chína>: "goose"
+
+--> Indo-Iranian <*ȷ́ʰansás>
+---> Indo-Aryan <*źʰansás>
+----> Sanskrit `𑀳𑀁𑀲` <haⁿsá>: "goose, swan, water-bird"
+-----> Magadhi
+------> Bengali `হাঁস` <hãsô>: "goose"
+-----> Pali
+------> Thai `หงส์` <hong>: "swan"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `हंस` <hans>: "swan"
+-----> Telugu `హంస` <haṃsa>: "swan"
+---> Iranian <*janháh>
+----> Avestan `𐬰𐬁𐬋` <zāō>: "goose"
+
+--> Italic <*hāns>
+---> Latin `ānser`: "goose"
+----> Western Romance
+-----> Spanish `ansar`: "wild goose"
+----> Translingual `Anser`: "taxonomic genus of geese"
+-----> Translingual `Anseriformes`: "taxonomic order of waterfowl"
+----> Latin `ānserīnus`
+-----> English `anserine`
+
+
+-> Proto-Sino-Tibetan <*ŋan>
+--> Old Chinese <*ŋaːl>
+---> Middle Chinese `鵝`: "domestic goose"
+----> Mandarin `鵝` <é>
+----> Wu `鵝` <ngu³>
+----> Yue `鵝` <ngo⁴>
+---> Min
+----> Hokkien `鵝` <ngô͘>
+
+----> Literary Chinese `企鵝`: "pegnuin" (lit. "upright goose")
+----> Literary Chinese `天鵝`: "swan" (lit. "heavenly goose")
+-----> Literary Chinese `天鵝絨`: "velvet" ("swan fabric")
+----> Literary Chinese `鵝卵石`: "cobblestone, pebble" (lit. "goose egg stone")
+
+
+--> Old Chinese <*ŋraːns>
+---> Middle Chinese `雁`: "wild goose"
+----> Mandarin `雁` <yàn>
+----> Wu `雁` <nge³>
+----> Yue `雁` <ngo⁴>
+---> Min
+----> Hokkien `雁` <gān>
+
+--> Tibeto-Burman
+---> Bodish
+----> Tibetan `ངང་པ` <ngang pa>: "goose, duck, swan"
+---> Lolo-Burmese
+----> Burmese `ငန်း` <ngan:>: "goose, swan"
+
+
+
+-> Proto-Turkic <*kāź>
+
+--> Oghur
+---> Chuvash `хур` <hur>: "goose"
+
+--> Common Turkic
+
+---> Oghuz
+----> East Oghuz
+-----> Turkmen `gāz`
+----> West Oghuz
+-----> Azerbaijani `qaz`: "goose"
+-----> Ottoman Turkish `قاز‎` <qaz>: "goose"
+------> Turkish `kaz`: "goose"
+------> Armenian `ղազ` <łaz>: "goose"
+
+---> Kipchak
+----> North Kipchak
+-----> Bashkir `ҡаҙ` <qað>: "goose"
+-----> Tatar `каз` <qaz>: "goose"
+----> South Kipchak
+-----> Kazakh `қаз` <qaz>
+
+---> Karluk
+----> East Karluk
+-----> Uyghur `غاز` <ghaz>
+----> West Karluk
+-----> Uzbek `g'oz`
+
+---> Siberian Turkic
+----> North Siberian Turkic
+-----> Dolgan `каас` <kaas>: "goose"
+----> South Siberian Turkic
+-----> Altai Turkic
+------> Northern Altai `кас` <kas>
+-----> Sayan Turkic
+------> Tuvan `кас` <kas>
+------> Tofa `қас` <qas>
+-----> Yenisei Turkic
+------> Khakas `хас` <xas>
+------> Shor `қас` <qas>
+------> Old Uyghur <qaz>: "geese"
+
+---> Kurmanji `qaz`: "goose" ####
+---> Ossetian `ъаз` <qaz>: "goose" ####
+---> Persian `غاز` <ğâz>: "goose" ####
+---> Tajik `ғоз` <ġoz>: "goose" ####
+---> Pashto `قازه` <qā́za>: "goose" ####
+
+
+endbody
+
+
+startnotes
+
+# Icelandic `Grágás`: "Grey-Goose": https://en.wikipedia.org/wiki/Gray_Goose_Laws
+
+
+### Proto-Indo-European <*ǵʰh₂éns>, Sino-Tibetan <*ŋan>, and Turkic <*kāz> are probably all independently derived from the honking sound of a goose, though there is also a possibility some or all may related by wander-word. Animal words often go wandering.
+
+Similarly, Celtic <*gezdā> is probably a re-derivation from onomatopoeia, rather than derived from the Celtic reflex of <*ǵʰh₂éns>, which gives Old Irish `géiss`: "swan".
+
+
+#### For many of the Turkic borrowings, it is very difficult to say exactly what Turkic language they were borrowed from, or whether they were borrowed directly, or via one of the other borrowings.
+
+
+##### There are at least two rivers named Samara in Eastern Europe, tributaries of the Volga and of the Dnieper. The name is thought to have been borrowed from Indo-Iranian and mean "summer-water".
+
+The tributary of the Volga is the origin of the name of "Samara Culture", a Copper Age culture that is a likely predecessor of the Indo-European homeland culture. Sun and horse motifs are common in Samara artifacts. (Though this is likely still before the domestication of the horse.)
+
+The same river is the namesake of a city along it, Samara. The city of Samara was an important industrial center involved in the early Soviet space program. In honor of this, there is also an asteroid named "(26922) Samara".
+
+endnotes
+

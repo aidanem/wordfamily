@@ -1,0 +1,537 @@
+date: 2021-01-01
+tags: Colors, Gemstones, Plants
+
+
+startbody
+
+
+Proto-Indo-European <*h₁rewdʰ->: "red"
+
+
+-> Proto-Indo-European <*h₁réwdʰeti>: "reddens"
+
+--> Germanic <*reudanã>: "to redden"
+---> North Germanic
+----> Old Norse `rjóða`: "to redden"
+---> West Germanic
+----> Old English `rēodan`: "to redden, to to make bloody, to wound"
+
+--> Hellenic <*eréutʰō>
+---> Classical Greek `ἐρεύθω` <ereúthō>: "I redden"
+
+
+-> Proto-Indo-European <*h₁rudʰéh₁ti>: "is red (stative)"
+
+--> Balto-Slavic <*rudḗˀtei>
+---> Slavic <*rъděti>
+----> East Slavic `ръдѣти сѧ` <rŭděti sę>: "to redden" (with reflexive pronoun)
+-----> Russian `рдеть` <rdetʹ>
+-----> Ukrainian `рди́тися` <rdýtysja>
+----> South Slavic
+-----> Old Church Slavonic `ръдѣти сѧ` <rŭděti sę>
+----> West Slavic
+-----> Czech `rdíti se`
+
+--> Germanic <*rudānã>: "to be red"
+---> North Germanic
+----> Old Norse `roða`: "to redden"
+---> West Germanic
+----> Old English `rudian`: "to be red"
+-----> English `rud`
+-----> English `rudden`
+----> Frankish
+-----> Dutch `roden`
+----> Old High German `rōten`
+-----> German `röten`: "to redden"
+
+---> Germanic <*rudō>: "redness"
+----> West Germanic
+-----> Old English `rudu`: "redness"
+------> Old English `rudiġ`: "ruddy"
+-------> English `ruddy`
+
+---> Germanic <*rudalōnã>
+----> West Germanic
+-----> Old English
+------> English `ruddle`
+-----> Old High German
+------> German `Rötel`
+
+
+
+--> Italic <*ruðēō>
+---> Latin `rubeō`: "I am red, I redden, I blush"
+----> Latin `rubeus`: "red, reddish"
+-----> Sardinian `ruju`: "red"
+-----> Eastern Romance
+------> Romanian `roib`: "chestnut, sorrel"
+-----> Western Romance
+------> French `rouge`: "red"
+-------> English `rouge`
+------> Italian `robbio`: "red, crimson"
+------> Spanish `rubio`: "blond"
+-------> Spanish `Rubio`: "surname"
+--------> English `Rubio`
+------> Spanish `roja`: "(plant) rust"
+-----> French `rubis`: "ruby" (re-borrowing)
+------> English `ruby`
+
+
+-> Proto-Indo-European <*h₁rowdʰós>: "red (adj)"
+
+--> Balto-Slavic <*raudas>
+---> Lithuanian `rùdas`: "brown"
+---> Slavic <*rȗdъ>: "red, reddish, red-haired, brown"
+----> East Slavic
+-----> Russian `ру́дый` <rúdyj>: "red, red-haired"
+----> South Slavic
+-----> Serbo-Croatian `ру̑д` <rȗd>: "reddish-brown"
+----> West Slavic
+-----> Polish `rudy`: "reddish brown, rusty, auburn, red-haired"
+
+----> Slavic <*rudà>: "ore, mineral"
+-----> East Slavic `руда` <ruda>
+------> Russian `руда́` <rudá>: "ore"
+-----> South Slavic
+------> Old Church Slavonic `роуда` <ruda>: "ore, metal"
+------> Bulgarian `ру́да` <rúda>: "ore"
+-------> Bulgarian `рудар` <rudar>: "miner"
+--------> Romani `rudar`: "Rudar"
+---------> English `Rudari`
+------> Serbo-Croatian `ру́да` <rúda>: "ore, mineral"
+-----> West Slavic
+------> Polish `ruda`: "ore"
+
+----?> Finnic <*rauta>: "iron"
+
+
+--> Celtic <*roudos>: "red"
+---> Brythonic <*rrʉð>
+----> Welsh `rhudd`: "red, crimson"
+---> Gaulish <roudos>
+----> Primitive Irish
+-----> Old Irish `rúad`: "red"
+------> Irish `rua`: "red, reddish, redhead, wild"
+------> Scottish Gaelic `ruadh`: "red, redhead"
+-------> Scottish Gaelic `Raibeart Ruadh`: "Robert the Redhead"
+--------> English `Rob Roy`
+-----> Primitive Irish `ᚏᚑᚇᚐᚌᚅᚔ` <rodagni>: "Little-Red's (personal name, genitive)"
+------> Old Irish `Rúadán`
+-------> Irish `Ruadhán`
+--------> English `Rowan`
+
+
+--> Germanic <*raudaz>
+---> East Germanic
+----> Gothic `𐍂𐌰𐌿𐌸𐍃` <rauþs>
+-----> Ibero-Romance <*raudanus> (from the accusative <raudan(a)>)
+------> Galician `ruán`: "roan, auburn"
+------> Portuguese `ruão`: "roan"
+------> Spanish `roano`: "roan"
+-------> French `rouan`
+--------> English `roan`
+---> North Germanic
+----> Old Norse `rauðr`: "red"
+-----> Danish `rød`: "red"
+-----> Icelandic `rauður`: "red"
+---> West Germanic
+----> Old English `rēad`: "red"
+-----> English `red`
+----> Frankish <*rōt>
+-----> Dutch `rood`: "red"
+------> Afrikaans `rooi`: "red"
+-------> Afrikaans` rooibos`: "rooibos" (lit. "red-bush")
+--------> English `rooibos`
+----> Old High German `rōt`: "red"
+-----> German `rot`: "red": "red"
+-----> Yiddish `רויט` <royt>: "red"
+--?> Finnic <*rauta>: "iron"
+----> Finnish `rauta`: "iron"
+----> Samic <*ruovtē>
+-----> Northern Sami `ruovdi`: "iron"
+
+---> Germanic <*raudnanã>: "to become red"
+----> North Germanic
+-----> Old Norse `roðna`
+------> Icelandic `roðna`
+------> English `rudden`
+
+---?> Germanic <*raudnijaz?>
+-----> North Germanic
+------> Old Norse `reynir`: "rowan tree"
+-------> Danish `røn`: "rowan"
+-------> Icelandic `reynir`
+-------> Middle English
+--------> English `rowan`
+---------> English `Rowan`
+
+
+--> Indo-Iranian <*Hrawdʰás>: "red, red metal, copper"
+---> Indo-Aryan <*Hrawdʰás>
+----> Sanskrit `𑀮𑁄𑀳` <lohá>: "red, copper, iron"
+-----> Magadhi
+------> Bengali `লোহা` <loha>
+-----> Sauraseni  `𑀮𑁄𑀳` <loha>
+------> Madhya
+-------> Hindi `लोहा` <lohā>: "iron"
+------> Pahari
+-------> Punjabi `ਲੋਹਾ` <lohā>: "iron"
+-----> Pali <loha>: "metal"
+-----> Hindi `लोह` <loh>: "iron, steel, metal"
+---> Iranian <*Hrawdáh>: "copper, brass"
+----> Northern Iranian
+-----> Sogdian <rwδ‏>
+----> Western Iranian
+-----> Northwestern Iranian
+------> Balochi `رود` <rōd>: "bronze, metal"
+------> Medean <*arōδ>
+-------> Old Armenian `արոյր` <aroyr>: "brass"
+--------> Armenian `արույր` <aruyr>: "brass"
+--------> Georgian `რვალი` <rvali>: "copper, brass, bronze"
+------> Parthian `𐫡𐫇𐫔` <rwδ>: "copper"
+
+--> Italic <*rouβos>
+---> Latin `rōbus`: "red"
+----> Latin `rōbīgō`: "rust, mildew"
+-----> Western Romance
+------> Spanish `robín`: "rust"
+-----> Latin <*robicula>
+------> Western Romance
+-------> French `rouille`: "rust"
+---> Umbrian  `𐌓𐌖𐌚𐌓𐌖` <rufru>
+----> Latin `rūfus`: "red-haired"
+-----> Latin `Rūfus`
+------> English `Rufus`
+
+
+
+-> Proto-Indo-European <*h₁rewdʰós>: "red (adj)"
+
+--> Germanic <*reudaz>
+---> East Germanic
+----> Gothic `𐌲𐌰𐍂𐌹𐌿𐌸𐍃` <gariuþs>: "honorable, dignified"
+
+
+-> Proto-Indo-European <*h₁rudʰrós>: "red (adj)"
+
+--> Balto-Slavic <*rudras>
+---> Slavic <*rъdrъ>
+----> East Slavic `ръдръ` <rŭdrŭ>
+-----> Russian `рёдрый` <rjódryj>: "red, tawny"
+
+
+--> Hellenic <*erutʰrós>
+---> Mycenaean Greek `𐀁𐀬𐀵𐀫` <e-ru-to-ro>
+---> Classical Greek `ἐρῠθρός` <eruthrós>: "red"
+----> Classical Greek `Ἐρῠθρᾱ́` <Eruthrā́>: "Red Sea, Indian Ocean"
+-----> Greek `Ερυθρά θάλασσα`: "Red Sea"
+-----> Classical Greek `Ἐρῠθραίᾱ` <Eruthraíā>: "Eritrea"
+------> Latin `Erythraea`: "Eritrea"
+-------> Italian `Eritrea`: "Eritrea"
+--------> English `Eritrea`: "Eritrea"
+--------> Tigrinya `ኤርትራ` <ʾertra>: "Eritrea"
+----> Classical Greek `ἐρῠθρῖνος` <eruthrînos>: "red sea bream"
+-----> Greek `λυθρίνι` <lythríni>: "red sea bream"
+----> English `erythro-`
+-----> English `erythrocyte`
+
+--> Indo-Iranian <*Hrudʰrás>
+---> Indo-Aryan
+----> Sanskrit `𑀭𑀼𑀥𑀺𑀭` <rudhirá>: "red, bloody, Mars (planet)"
+-----> Tamil `రుధిరము` <rudhiramu>: "blood"
+
+--> Italic <*ruðros>: "red"
+---> Latin `ruber`: "red, ruddy"
+----> Latin `rubellus`: "reddish"
+-----> English `rubella`
+---> Latin `rubrīca`: "red ochre, ruddle, title/heading (written in red)"
+----> Western Romance
+-----> French `rubrique`: "category, heading, rubric"
+------> English `rubric`
+-----> Italian `rubrica`: "rubric, notebook, newspaper column"
+-----> Spanish `rúbrica`: "signature, initials, title, heading, section"
+---> Latin `rubia`: "red dye, madder"
+----> Eastern Romance
+-----> Romanian `roibă`: "madder"
+----> Western Romance
+-----> Italian `robbia`: "madder"
+----> Translingual `Rubia`: "taxonomic genus of madder plants"
+
+--> Tocharian <*rätre>: "red"
+---> Arshian <rtär>: "red"
+---> Kushean <ratre>: "red"
+
+
+-> Proto-Indo-European <*h₁rowdʰsos>: "red (adj)"
+
+--> Balto-Slavic
+---> Slavic <*rusъ>: "fair, blond, red, yellow"
+----> East Slavic
+-----> Russian `ру́сый` <rúsyj>: "fair-haired, blond" ##
+----> South Slavic
+-----> Old Church Slavonic `роусъ` <rusŭ>
+----> West Slavic
+-----> Polish `rusy`: "fair (haired)"
+
+--> Italic <*roussos>
+---> Latin `russus`: "red, reddish-brown"
+----> Eastern Romance
+-----> Romanian `roșu`: "red"
+----> Western Romance
+-----> Old French `rous`
+------> French `roux`: "red-haired, russet"
+------> Old French `rousset`
+-------> English `russet`
+------> Old French `roussel`: "red-head"
+-------> French `Rousseau`: "surname"
+--------> English `Rousseau`
+-------> English `Russell`
+-----> Italian `rosso`: "red, red-haired"
+------> Italian `Rosso`: "surname"
+-------> English `Rosso`
+------> Italian `Rossi`: "surname"
+-------> English `Rossi`
+
+
+-> Proto-Indo-European <*h₁ru(H)dʰyos>: "red (adj)"
+
+--> Balto-Slavic
+---> Slavic <*ryďь>
+----> East Slavic
+-----> Russian `ры́жий` <rýžij>: "red, sorrel, red-haired"
+-----> Polish `ryży`: "red-haired"
+----> South Slavic
+-----> Serbo-Croatian `ри̑ђ` <rȋđ>: "reddish, red"
+
+
+-> Proto-Indo-European <*h₁réwdʰitos>: "red (adj)"
+
+--> Indo-Iranian <*Hráwdʰitas>
+---> Indo-Aryan <*Hráwdʰitas>
+----> Dardic <*lóhita>
+-----> Kalasha `لؕوُی‎` <ḷúi>: "blood, life, strength"
+----> Sanskrit `𑀮𑁄𑀳𑀺𑀢` <lohita>: "red, reddish, coppery, blood"
+-----> Maharashtri `𑀮𑁄𑀳𑀺𑀅` <lohia>
+-----> Pali <lohita>: "red, blood"
+------> Khmer `លោហិត` <loohət>: "blood"
+------> Thai `โลหิต` <loo-hìt> ###
+-----> Sauraseni
+------> Madhya
+-------> Hindi `लहू` <lahū>: "blood"
+------> Western Sauraseni
+-------> Romani `lolo`: "red"
+----> Sanskrit `𑀭𑁄𑀳𑀺𑀢` <róhita>: "red, a red horse, a kind of red tree, a kind of red fish"
+-----> Maharashtri `𑀭𑁄𑀳𑀺𑀅` <rohia>
+-----> Sauraseni
+------> Madhya
+-------> Hindi `रोहू` <rohu>: "rohu, a kind of carp"
+--------> English `rohu`
+
+
+-> Proto-Indo-European <*h₁rowdʰ-os>: "redness, red thing (noun)"
+
+--> Italic <*rouβos>
+---> Latin `rōbur`: "common oak or sessile oak, strength, hardness" #
+----> Western Romance
+-----> French `rouvre`: "sessile oak"
+-----> Italian `rovere`: "sessile oak"
+-----> Spanish `roble`: "oak, strength"
+------> Spanish `Robles`: "surname"
+------> Spanish `Paso Robles`: "Pass of Oaks (place name)" (among many other place names)
+-------> English `Paso Robles`
+----> Latin `rōbustus`: "oaken, hard, firm, solid, robust"
+-----> English `robust`
+-----> French `robuste`
+-----> Italian `robusto`
+-----> Spanish `robusto`
+----> Latin `rōborō`: "I strengthen"
+-----> Latin `corrōborō`: "I make strong, I reinforce, I fortify, I corroborate"
+------> English `corroborate`
+------> French `corroborer`: "to corroborate"
+------> Italian `corroborare`: "to strengthen, to fortify, to support, to corroborate"
+------> Spanish `corroborar`: "to corroborate"
+
+
+-> Proto-Indo-European <*h₁rudʰyeh₂>: "red thing (noun)"
+
+--> Balto-Slavic
+---> Slavic <*rъďa>: "rust"
+----> East Slavic
+-----> Ukrainian `іржа́` <iržá>: "rust"
+----> South Slavic
+-----> Serbo-Croatian `р̀ђа` <r̀đa>: "rust"
+----> West Slavic
+-----> Polish `rdza`: "rust"
+
+
+-> Proto-Indo-European <*h₁rudʰmḗn>
+
+--> Balto-Slavic
+---> Lithuanian `raumuõ`: "muscle"
+---> Slavic <*ru(d)měnъ>: "ruddy, rosy, pink"
+----> East Slavic
+-----> Russian `румя́ный` <rumjányj>: "ruddy, rosy, pink"
+----> South Slavic
+-----> Serbo-Croatian `ру̀мен` <rùmen>: "ruddy, rosy, pink, reddish"
+----> West Slavic
+-----> Polish `rumiany`: "ruddy, reddening"
+
+
+
+?> Proto-Indo-European <*wr̥dʰo->: "sweetbriar rose" ####
+
+
+--> Pre-Albanian <*wurdā>
+---> Albanian `hurdhe`: "ivy"
+----> Albanian `urth`: "ivy"
+
+--> Germanic <*wurdã>
+---> West Germanic
+----> Old English `word`: "thorn bush"
+
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan `𐬬𐬀𐬭𐬆𐬜𐬀` <varəδa>
+----> Northern Iranian
+-----> Sogdian <ward>
+----> Western Iranian
+-----> Northwestern Iranian
+------> Parthian `𐫇𐫀𐫡` <wʾr>
+------> Old Armenian `վարդ` <vard>: "rose"
+-------> Armenian `վարդ` <vard>: "rose"
+-------> Georgian `ვარდი` <vardi>: "rose"
+-----> Old Persian <*vr̥da->
+------> Persian `گل‎` <gol>: "rose, flower"
+-------> Arabic `جل` <jull>: "rose, jasmine"
+-------> Hindi `गुल` <gul>: "flower, rose"
+-------> Pashto `ګل` <gul>: "flower, Monday"
+-------> Ottoman Turkish `گل` <gül>: "rose"
+--------> Turkish `gül`: "rose"
+--------> Serbo-Croatian `ђу̑л` <đȗl>: "rose"
+-------> Persian `گلاب` <golâb>: "rose water"
+--------> Arabic `جلاب ` <julāb>: "rose water syrup, julep"
+---------> English `julep`
+--------> Hindi `गुलाब` <gulāb>: "rose, rose water"
+--------> Khmer `ផ្កាកុលាប` <pkaa ko’laap>: "rose" (with <pkaa>: "flower")
+--------> Telugu `గులాబి`: "rose, pink"
+---------> Telugu `గులాబిపువ్వు` <gulābipuvvu>: "rose (flower)"
+--------> Thai `กุหลาบ` <gù-làap>: "rose"
+------> Arabic `وردة‎` <warda>: "rose, flower, bloom, rosette, washer"
+-------> Arabic `ماء ورد` <māʾ ward>: "rose water"
+--------> Malay `mawar`: "rose"
+------> Aramaic <warda>
+-------> Classical Syriac `ܘܪܕܐ` <wardā>
+-------> Demotic Egyptian <wrṱ>: "rose"
+--------> Coptic `ⲟⲩⲣⲧ` <ourt>: "rose"
+
+--?> Hellenic <*wródon>
+----> Classical Greek `ῥόδον` <rhódon>: "rose"
+-----> Greek `ρόδο` <ródo>: "rose"
+------> Greek `ροδοδάφνη` <rododáfni>: "oleander" (lit. "rose-laurel")
+-----> Classical Greek `ῥοδοδᾰ́κτῠλος` <rhododáktulos>: "rosy-fingered" (dawn)
+-----> Classical Greek `ῥοδόδενδρον` <rhodódendron>: "rosebay, oleander"
+------> Latin `rhododendron`: "rosebay, oleander"
+-------> Translingual `Rhododentron`
+------?> Vulgar Latin <*arodandrum>
+--------> Vulgar Latin <*lorandrum>
+---------> Western Romance 
+----------> French `oléandre` #####
+-----------> English `oleander` #####
+----------> Galician `loendro`: "oleander"
+----------> Italian `oleandro`: "oleander" #####
+----?> Oscan
+-----?> Latin `rosa`: "rose"
+-------> Western Romance
+--------> Old French `rose`
+---------> French `rose`: "rose, pink"
+----------> Finnish `roosa`: "pink"
+----------> Greek `ροζ` <roz>: "pink"
+----------> Persian `رز` <roz>: "rose"
+----------> French `rosette`: "rosette"
+-----------> English `rosette`
+---------> Dutch `roos`: "rose, bullseye, rash, dandruff"
+--------> Italian `rosa`: "rose, pink"
+---------> Maltese `roża`: "rose, pink"
+---------> Italian `rosetta`: "rosette"
+----------> English `rosetta`
+----------> Italian `Rosetta` ######
+-----------> English `Rosetta Stone`
+--------> Spanish `rosa`: "rose, pink"
+---------> Cebuano `rosa`: "rosa, pink"
+---------> Tagalog `rosas`: "rose"
+-------> Old English
+--------> English `rose`
+---------> Hawaiʻian `loke`: "rose"
+-------> Old Church Slavonic `рожа` <roža>: "rose"
+--------> Russian `ро́за` <róza>: "rose"
+-------> Latin `Rosa`: "Rose (personal name)"
+--------> English `Rosa`
+--------> Spanish `Rosa`
+---------> Spanish `Santa Rosa`
+----------> English `Santa Rosa`
+-------> Latin `rosārium`: "rose garden, rosary"
+--------> Western Romance
+---------> French `rosaire`: "rosary"
+---------> Portuguese `rosário`: "rosary"
+----------> Japanese `ロザリオ` <rozario>: "rosary"
+----------> Malay `rosario`: "rosary"
+---------> Spanish `rosario`: "rosary"
+----------> Spanish `Rosario`: "Rosary (personal name)"
+-----------> English `Rosario`
+--------> English `rosary`
+
+--?> Kartvelian <*bard->
+----> Georgian `ბარდი` <bardi>: "undergrowth, brush, bushes"
+----> Svan `ბარდ` <bard>: "stalk, stem, undergrowth"
+
+
+--> Italic <*wruðos>
+---> Latin `rubus`: "blackberry, bramble"
+----> Eastern Romance
+-----> Romanian  `rug`: "bramble"
+----> Western Romance
+-----> Italian `rovo`: "blackberry, bramble"
+----> Translingual `Rubus`: "taxonomic genus of brambles"
+
+
+
+
+
+
+endbody
+
+
+
+
+startnotes
+
+# Old Latin `rōbus` had an oblique stem of `rōbores` due to intervocalic rhoticization of the `s`. In Classical Latin, the paradigm was levelled back into the direct stem to change it to `rōbur` instead of `rōbus`.
+
+The oak tree is named `rōbur` from its reddish timber, and the "strength" and "hardness" meanings derive from the oak timber.
+
+
+## The name of "Russia" comes from the `Русь` <Rus>, which were probably so called after the Swedish ruling class. Compare the Finnish word for Sweden: `Ruotsi`, as well as various other Uralic names from both Sweden and Russia. Those names are probably related to words for "row" (compare modern Swedish `Roslagen`), but `Русь` <Rus> may have been influenced by Slavic <*rusъ>: "fair, blond, red, yellow".
+
+
+### Due to an interesting coincidence, Thai has two very similar sounding words for "blood" with completely different origins: Thai `โลหิต` <loo-hìt>: "blood" is from Sanskrit `𑀮𑁄𑀳𑀺𑀢` <lohita>: "blood", from Indo-European <*h₁rewdʰ->: "red". But Thai `เลือด` <lʉ̂ʉat>: "blood" is from Proto-Tai <*lɯət>: "blood".
+
+
+#### <*wr̥dʰo-> has no certain connections. It is sometimes derived from <*Hwardh->: "to grow, to grow strong". There is no attestation of that root outside of Indo-Iranian, but it's possible all the <*wr̥dʰo-> words come through Indo-Iranian.
+
+But it's at least worth considering whether it could be from <*h₁rewdʰ->: "red", with metathesis of the <*w> and <*r>. The <*h₁> could have easily been lost in the metathesis, but also even if the <*h₁> was actually there in the PIE, we wouldn't have any evidence of it, since we have only this one zero-grade form for the paradigm.
+
+Deriving <*wr̥dʰo-> from <*h₁rewdʰ-> is an interesting possibility, because it unifies "rose" with "red": French `rose` with `rouge`, Italian `rosa` with `rosso`, Latin `rubus` with `rubeus`. And even the species name of the sweetbriar rose: "Rosa rubiginosa". 
+
+<*wr̥dʰo-> is not likely to be related to <*wréh₂ds>: "root, plant"; those are not as similar as the notation makes them look.
+
+Sweetbriar rose is also called "eglantine" in English: https://www.aidanem.com/word-family-edge.html
+
+
+##### The connection of `oleander` to Greek <oleo-ander>: "I will kill a man" is almost certainly folk etymology, though the word may have been modified under influence of that folk etymology.
+
+###### The Italian name "Rosetta" for the town in Egypt is a modification by folk-etymology from Coptic `ⲣⲁϣⲓⲧ` <Rashit> (as is the Arabic name <Rashid>). It is vaguely possible the Arabic is an adaptation of an old Egyptian name, perhaps related to Coptic `ⲣⲁϣⲓ` <raši>: "joy, to rejoice" (Demotic <ršy>, Ancient Egyptian <ršw>); but it is probably an Arabic original name.
+
+It was in Rashit that Napoleon's campaign in Egypt found the Rosetta Stone, a bilingual/triscriptual text in Ancient Egyptian (in both Hieroglyphic and Demotic scripts) and Classical Greek which allowed Ancient Egyptian to be deciphered.
+
+endnotes

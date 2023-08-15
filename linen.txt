@@ -1,0 +1,188 @@
+date: 20200821
+tags: Animals, Birds, Cloth, Plants, Unknown Substrate
+
+startintro
+
+While <*linom>: "flax" and <*līnom>: "flax" obviously must be connected in some way, the difference in vowel length cannot be reconciled by any regular changes.
+
+All versions with the long vowel are plausibly attributable to derivation from Latin `līnum`. All the short vowel versions could theoretically be from Greek, but that's more of a stretch. My interpretation is that it is a European substrate/regional word, probably Balkan, which was borrowed more or less separately into Balto-Slavic, Celtic, Hellenic, and Italic (twice).
+
+endintro
+
+
+
+startbody
+
+
+Balkan substrate?
+
+
+?> Balto-Slavic <*lina>
+--> East Baltic
+---> Lithuanian `lìnas`: "flax"
+--> West Baltic
+---> Old Prussian `linno`
+--> Slavic <*lь̀nъ>: "flax"
+---> East Slavic `льнъ` <lĭnŭ>
+----> Russian `лён` <ljon>: "flax"
+---> South Slavic
+----> Old Church Slavonic `льнъ` <lĭnŭ>: "flax"
+----> Serbo-Croatian `ла̏н` <lȁn>: "flax"
+---> West Slavic
+----> Polish `len`: "flax"
+
+?> Celtic <*linnā>: "veil, cloak"
+--> Brythonic
+---> Welsh `llen`: "curtain, veil, sheet"
+--> Gaulish <*linnā>
+---> Latin `linnā`: "Gaulish mantle"
+--> Old Irish `lenn`: "cloak, mantle"
+
+?> Hellenic <*linom>
+--> Ancient Greek `λῐ́νον` <línon>: "flax, anything made of flax"
+---> Byzantine Greek
+----> Greek `λινό` <linó>: "linen"
+----> Byzantine Greek `λινάριον` <linárion>
+-----> Greek `λινάρι` <linári>: "flax"
+---> Ancient Greek `Λῖνος` <Lînos>: "Flax (personal name)"
+----> Greek `Λίνος` <Línos>
+----> Latin `Linus`
+-----> English `Linus`
+------> English `Linux`
+
+
+?> Italic <*lintom>
+--> Latin `linteum`: "linen cloth, sail, awning"
+---> Western Romance
+----> Portuguese `lenço`: "handkerchief, headscarf"
+-----> Malay `lenso`
+-----> Swahili `leso`: "handkerchief"
+----> Spanish `lienzo`: "linen, canvas, painting, picture"
+---> Koine Greek `λέντιον` <léntion>: "linen cloth, towel, apron, scarf"
+----> Armenian `ղենջակ` <łenǰak>: "apron, towel"
+----> Coptic `ⲗⲉⲛⲧⲓⲟⲛ` <lention>: "towel, napkin, sarong, loincloth"
+
+---> Latin `linteolum`: "small linen cloth" (diminuitive)
+----> Eastern Romance
+-----> Romanian `lințoliu`
+----> Western Romance
+-----> French `linceul`: "shroud"
+-----> Italian `lenzuolo`: "sheet, bedsheet"
+-----> Spanish `lenzuelo`: "bedsheet"
+
+
+
+?> Italic <*līnom>
+--> Latin `līnum`: "flax, linen, line, cloth, net, sail"
+---> Sardinian `linu`: "flax"
+---> Eastern Romance
+----> Romanian `in`: "flax"
+---> Western Romance
+----> Old French `lin`
+-----> French `lin`: "linen, flax"
+------> Vietnamese `lanh`: "flax"
+-----> Old French `linette`: "small piece of flax"
+------> English `lint`
+-----> Old French `linette`: "linnet" (linnets eat flax seeds)
+------> French `linotte`: "linnet"
+------> English `linnet`
+----> Italian `lino`: "flax, linen"
+----> Spanish `lino`: "flax, linen"
+
+---> Latin `līnea`: "linen thread, thread, string, line"
+----> Western Romance
+-----> French `ligne`: "line"
+-----> Italian `linea`: "line"
+----> Albanian `linjë`: "line"
+----> Old High German `linia`: "line"
+-----> German `Linie`: "line"
+-----> Yiddish `ליניע` <linye>: "line"
+-----> Danish `linje`: "line"
+-----> Polish `linia`: "line"
+------> Russian `линия` <linija>: "line"
+----> Spanish `línea`: "line"
+-----> Tagalog `linya`: "line"
+----> Welsh `llinell`: "line"
+
+----> Latin `līnaria`: "linen-weaver, weaving shop"
+-----> Translingual `Linaria`: "taxonomic genus of toadflax plants"
+-----> Translingual `Linaria`: "taxnomic genus of linnets"
+
+----> Latin `līneō`: "I draw a line, I make straight"
+-----> Western Romance
+------> French `ligner`: "to make a line, to add lines"
+------> Italian `lineare`: "to draw, to trace, to plot, to delineate"
+------> Spanish `linear`: "to outline, to mark out"
+
+-----> Latin `alīneō`
+------> Western Romance
+-------> French `aligner`: "to align"
+--------> English `align`
+-------> Spanish `aliñar`: "to prepare, to adorn, to season (food)"
+
+-----> Latin `dēlīneō`: "I sketch out"
+------> English `delineate`
+----> Latin `līneāris`: "consisting of lines, linear"
+-----> English `linear`
+
+
+---> Translingual `Linum`: "taxonomic genus of flax plants"
+
+---> English `linoleum` (learned formation referring to linseed oil)
+----> English `lino`
+-----> English `linocut`
+
+--?> Albanian `li`: "flax"
+
+--?> Brythonic
+----> Cornish `lin`: "linen"
+----> Welsh `llin`: "flax"
+-----> Welsh `llinos`: "linnet"
+--?> Old Irish `lín`: "linen, flax, cloth, thread"
+----> Irish `líon`: "flax, linen"
+----> Scottish Gaelic `líon`: "flax, linen"
+-----> Scottish Gaelic `gealbhonn-lìn`: "linnet" (lit. "flax-sparrow")
+
+--?> Germanic <*līnã>: "flax"
+----> East Germanic
+-----> Gothic `𐌻𐌴𐌹𐌽` <lein>: "linen"
+----> North Germanic
+-----> Old Norse `lín`
+------> Icelandic `lín`: "flax, linen"
+----> West Germanic
+-----> Old High German
+------> German `Lein`: "flax, linen"
+
+----> Germanic <*līnȭ>: "thing made of flax, string, chord"
+-----> North Germanic
+------> Old Norse `lína`
+-------> Danish `line`
+-------> Icelandic `lína`: "line, string"
+-----> West Germanic
+------> Old English
+-------> English `line`
+------> Frankish
+-------> Dutch `lijn`: "line, string, rope"
+--------> Malay `lin`: "line, band, route"
+-------?> Dutch `lint`: "ribbon, cloth band"
+------> Old High German `līna`
+-------> German `Leine`: "line, leash"
+
+----> Germanic <*līnīnaz>: "made of flax, linen"
+-----> West Germanic
+------> Old English `līnen`: "made of flax, linen"
+-------> English `linen`
+-------> Scots `linin`
+------> Frankish <*līnīn>
+-------> Dutch `linnen`: "linen"
+------> Old High German `līnīn`
+-------> German `Leinen`: "canvas, cloth"
+
+----> Finnic <*liina>
+-----> Finnish `liina`: "cloth, line, linen, hemp"
+----> Samic <*lijnē>
+-----> Northern Sami `liidni`: "cloth, scarf"
+
+
+
+endbody

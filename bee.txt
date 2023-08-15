@@ -1,0 +1,229 @@
+date: 20180523
+theme: Bees
+tags: Animals, Toponymy
+
+
+
+startbody
+
+
+Proto-Indo-European <*bʰewh₂->: "to hit, to strike"
+
+-> Proto-Indo-European <*bʰewh₂ti> (primary verb)
+
+--> Proto-Albanian <*bajā>
+---> Albanian `bahe`: "sling"
+
+--> Balto-Slavic
+---> Lithuanian `bausti`: "to chastise, to punish"
+
+-?> Celtic
+---> Old Irish `fo-botha`: "threaten" (lit. "under-*beat")
+
+
+--> Italic
+---> Latin <*fūtō>
+----> Latin `confūtō`
+-----> Western Romance
+------> French
+-------> English `confute`
+----> Latin `refūtō`: "I restrain, I repress, I refute"
+-----> Western Romance
+------> French `réfuter`: "to refute"
+-------> English `refute`
+------> Spanish `refutar`: "to refute"
+---?> Latin `fūstis`: "cudgel, staff, club"
+-----> Eastern Romance
+------> Romanian `fuște`: "lance"
+-----> Western Romance
+------> French `fût`: "tree trunk, keg, barrel"
+------> Italian `fusto`: "trunk, hunk (attractively muscled), stem, keg"
+------> Spanish `fuste`: "wood, timber, shaft, importance"
+------> Spanish `fusta`: "whip, crop"
+-----> Old Irish `súist`
+------> Irish `súiste`: "flail"
+-----> Latin <*fūsticellus> (diminutive of `fūstis`)
+------> Eastern Romance
+-------> Romanian `fuscel`: "rod, pole, stairstep"
+
+
+-> Proto-Indo-European <*bʰǝdʰh₂newti?> (transitive imperfective?)
+
+-?> Germanic <*bautaną>: "to strike, to beat, to push"
+---> East Germanic
+----> Gothic `𐌱𐌰𐌿𐍄𐌰𐌽` <bautan>
+---> North Germanic
+----> Old Norse `bauta`
+-----> Icelandic `bauta`
+---> West Germanic
+----> Old English `bēatan`: "to beat, to hit, to strike"
+-----> English `beat`
+----> Frankish <*bautan>
+-----> Dutch `boten`: "to hit, to thresh"
+-----> Old French
+------> French `bouter`: "to push, to pin, to nail"
+------> English `butt` (as in "head-butt", not as in "butt-head")
+------> Spanish `botar`: "to bounce, to throw"
+----> Old High German `pōzan`
+-----> German `boßen` <bossen>: "to thrash"
+
+
+?> Proto-Indo-European <*bʰeyh₂->: "strike, attack" ##
+
+--> Proto-Indo-European <*bʰih₂-ti>
+
+---> Balto-Slavic <*bī́ˀtei>: "to beat"
+----> Slavic <*bìti>: "to beat"
+-----> East Slavic
+------> Russian `бить` <bitʹ>: "to beat, to clap, to chime"
+-----> South Slavic
+------> Serbo-Croatian `би̏ти` <bȉti>: "to beat, to hit, to strike" ###
+-----> West Slavic
+------> Polish `bić`: "to beat, to mint, to forge, to ring"
+
+--> Proto-Indo-European <*bʰinéh₂-ti>
+
+---> Celtic <*binati>: "to strike, to hit"
+----> Brythonic <*bɨnad>: "to strike, to hit"
+-----> Brythonic <*kummɨnad>: "to cut down, to fell"
+------> Welsh `cymynaf`: "to fell, to hew"
+----> Old Irish `benaid`: "to strike, to hit"
+-----> Irish `bain`: "to extract, to release, to agitate, to win"
+-----> Old Irish `frisben`: "to heal" (lit. "against strike")
+
+
+--> Proto-Indo-European <*bʰoyh₂ós>
+
+---> Balto-Slavic
+----> Slavic <*bȏjь>: "battle, fight"
+-----> East Slavic
+------> Russian `бой` <boj>: "fight, struggle, battle, striking (of a clock)" ####
+-----> South Slavic
+------> Serbo-Croatian `бо̑ј` <bȏj>: "battle"
+-----> West Slavic
+------> Polish `bój`: "fight, combat, fray"
+
+--?> Celtic
+----> Gaulish <*Boia?>: "tribe name, the Boii"  #####
+-----> Latin `Boii` 
+-----> Germanic <*Boiohaimaz>: "land of the Boii" ("Boii-home") #####
+------> Late Latin `Boiohaemum`
+-------> French `Bohême`: "Bohemia"
+--------> English `Bohemia`
+--------> French `bohème`
+---------> English `bohemian`
+---------> German `Bohème`: "bohemian society"
+---------> Italian `La bohème`
+----------> English `La bohème`
+-------> German `Böhmen`: "Bohemia"
+--------> Yiddish `פיהם` <Pihm>: "Bohemia"
+------> Germanic <*Boiowarjaz>: "settlers of Boii(home)" #####
+-------> Late Latin `Bojuvarii`
+--------> English `Bavaria`
+--------> German `Bayern`: "Bavaria"
+---------> Yiddish `בײַערן` <bayern>: "Bavaria"
+-----> Celtic <*Boiabona?>: "Boii-Settlement (place name)" #####
+------> Latin `Bonōnia`
+-------> Western Romance
+--------> Italian `Bologna` #####
+---------> English `baloney`
+--------> French `Boulogne` #####
+
+
+--?> Italic
+----> Venetic `𐌘𐌏𐌉𐌉𐌉𐌏(𐌔)` <Boiiios>: "The Boii? A family name?" ######
+
+
+--> Proto-Indo-European <*bʰih₂tweh>
+
+---> Balto-Slavic
+----> Slavic <*bìtva>: "battle, fight"
+-----> East Slavic
+------> Russian `би́тва` <bítva>: "battle, fight"
+-----> South Slavic 
+------> Serbo-Croatian `битка` <bitka>: "battle"
+-----> West Slavic
+------> Polish `bitwa`: "battle"
+
+
+--> Proto-Indo-European <*bʰikwó->: "striker, stinger, bee"
+
+---> Balto-Slavic
+----> Lithuanian `bitė`: "bee"
+----> Slavic <*bьčelà>: "bee"
+-----> East Slavic
+------> Russian `пчела́` <pčelá>: "bee"
+-----> South Slavic
+------> Serbo-Croatian `пчѐла` <pčèla>: "bee"
+-----> West Slavic
+------> Polish `pszczoła`: "honey bee"
+
+---> Celtic <*bekos>
+----> Brythonic
+-----> Middle Welsh `byg-egyr`: "drone" (lit. "bee-fly")
+-----> Welsh `bydaf`: "beehive"
+----> Old Irish `bech`: "bee"
+-----> Irish `beach`: "bee"
+------> Irish `beachlann`: "beehive"
+
+---> Germanic <*bijō>
+----> North Germanic
+-----> Old Norse `bý`: "bee"
+------> Danish
+------> Icelandic `bý`: "bee (archaic)" ###
+-------> Icelandic `býfluga` "bee" (lit "bee-fly")
+----> West Germanic
+-----> Old English `bēo`: "bee" ###
+------> English `bee` ###
+------> Scots `bee`: "bee, caprice, fanciful idea"
+------> Old English `Bēoƿulf`: "Beowulf" #######
+-------> English `Beowulf`
+
+----> Germanic <*biniz>
+-----> West Germanic
+------> Old High German `bini`
+-------> German `Biene`: "bee"
+-------> Yiddish `בין` <bin>: "bee"
+
+--?> Hellenic (not part of the Northwest IE group)
+----> Ancient Greek `σφήξ` <sphḗx>: "wasp"
+-----> Translingual `Sphex`: "genus of digger wasps"
+------> English `sphexish`
+-------> English `antisphexish`
+
+---> Italic
+----> Latin `fūcus`: "male bee, drone"
+-----> Western Romance
+------> Italian `fuco`: "male bee, drone"
+
+
+
+
+endbody
+
+
+
+
+startnotes
+
+
+## <*bʰeyh₂->: "strike, attack" looks like a Late Northwestern IE dialectic form of <*bʰewh₂->. It appears primarily in <*bʰikwó>: "bee", whose reflexes, with the exception of the uncertain Greek <σφήξ>, are distributed in a perfect match for the Late Northwestern group: Baltic, Celtic, Germanic, Italic, Slavic.
+
+### "bee" (insect) and "be" (copula) are homonyms in several IE languages, such as English, Icelandic, and Croatian. Because they started out so similarly in PIE <*bʰewh₂->: "to strike" and <*bʰwH->: "to be".
+
+#### Russian `бой` <boj> is sometimes seen in English language sources in the phrase <blizhnii boi>/<blizny boy>: "close combat", e.g. the tactics of close combat employed by the Red Army in World War 2, or the 2007 movie "Blizhniy Boy: The Ultimate Fighter".
+
+##### The Gaulish tribe name `Boii` is of uncertain origin, but is likely either from this root and means "battle people", or unrelated and means "cattle people". If "cattle people", presumably related to the speculatively reconstructed Proto-Celtic social class terms: <*bouios>/<*ambouios>: "cattle-owners"/"not cattle owners".
+
+Germanic <*Boiohaimaz> is the land ("home") of the Boii. Germanic <*Boiowarjaz> means "settlers of Boii (home)", the name adopted by the Germanic Marcomanni who settled in Boiohaimaz after the majority of the Boii migrated to northern Italy and southern France (one of the immediate predecessors of Ceasar's Gaulish Campaigns)
+
+In Italty <Bononia> (modern <Bologna>) was one of their major settlements, presumably from Celtic <*Boi-bona>: "Boii Settlement". Compare <*Windo-bona>: "white fort/settlement", modern Vienna. There are some places in France called <Boulogne>, which likely have the same etymology, but are not in the part of France settled by the Boii, may have been named by Roman settlers from the other Bononia.
+
+###### Venetic `𐌘𐌏𐌉𐌉𐌉𐌏(𐌔)` <Boiiios> is interpreted as a family name in the name "Lemetor Boios". Alternatively, could be an ethnic designator borrowed from the Celtic, thus "Lemetor the Boii". (Venetic inscription in Old Italic script at Este in northern Italy)
+
+####### Beowulf, literally "bee-wolf", is a kenning for a bear. There is some good evidence that Beowulf is a reflex of a Germanic archetype sometimes called "The Bear's Son". The archetype is also represented by Bödvar Bjarki ("Bodvar Little-Bear") who has some of the same adventures as Beowulf, but also has the ability to either turn into a bear or to project his spirit in the form of a bear.
+
+
+endnotes
+
+

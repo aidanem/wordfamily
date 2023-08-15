@@ -1,0 +1,189 @@
+date: 20170707
+theme: Miscellaneous 🔨
+
+
+startintro
+
+This week begins a very loose July "theme" of a handful of miscellaneous everyday words, before we move into some strongly themed months for most of the rest of the year.
+
+For 2017-07-07, I just had to do "seven".
+
+All words mean "seven" unless otherwise specified.
+
+endintro
+
+
+startbody
+
+Proto-Afro-Asiatic <*sṗɣ>?
+
+-> Berber
+--> Amazigh <satti>
+--> Northern Berber
+---> Kabyle <sebea>
+---> Atlas Berber
+----> Taselhit <sa>
+---> Zenati
+----> Riffian <sa>
+--> Tuareg <essa>
+
+-> Egyptian <sfḫw>
+--> Demotic Egyptian <sáfxe>
+---> Coptic `ϣⲁϣϥ` <šašf>
+
+-> Semitic <*s-b-'tu>
+--> Central Semitic
+---> Arabic `سَبْع` <sabʿ>
+----> Maltese `sebgħa`
+---> Northwest Semitic
+----> Aramaic `שבע` <šbaʕ>
+----> Canaanite
+-----> Hebrew `שֶׁבַע` <sheva>
+-----?> Hebrew `שַׁבָּת` <shabát>: "Shabat, Sabbath, week"
+-----> Phoenician `𐤔𐤁𐤏` <šbʻ>
+--> East Semitic
+---> Akkadian <šibit>
+---?> Proto-Kartvelian <*šwid>
+-----> Georgian `შვიდი` <švidi>
+--> South Semitic
+---> Ethiopic
+----> Amharic `ሰባት` <säbat>
+----> Ge'ez `ሰብዐቱ` <säbʿätu>
+----> Tigrinya `ሸውዓተ` <šäwʿatä>
+
+-?> Proto-Indo-European <*septḿ̥>: "seven"
+
+---> Albanian `shtatë`
+
+--?> Anatolian
+----> Hittite <*šipta?>
+----?> Hittite <šiptamiya>: "name of a drink" #
+
+---> Old Armenian `եաւթն` <eawtʿn>
+----> Armenian `յոթ` <yotʿ>
+
+---> Balto-Slavic <*septim>
+----> Lithuanian `septyni`
+----> Slavic <*sedmь>
+-----> East Slavic
+------> Russian `семь` <semʹ>
+-----> South Slavic
+------> Serbo-Croatian `се̏дам` <sȅdam>
+-----> West Slavic
+------> Polish `siedem`
+---?> Finno-Ugric <*śäjćem> ##
+-----> Finnic <*säic'en>
+------> Finnish `seitsemän`
+------> Estonian `seitse`
+-----> Permic
+------> Komi-Permyak `сизим` <sizim>
+-----> Samic <*čiečëm>
+------> Northern Sami `čieža`
+-----> Ugric <*säptɜ>¹
+------> Hungarian `hét`
+
+---> Celtic <*sextam> (Pre-Celtic <*seɸtam>)
+----> Brythonic <*seiθ>
+-----> Breton `seizh`
+-----> Welsh `saith`
+----> Gaulish `sextam`
+----> Old Irish `secht`
+-----> Irish `seacht`
+
+
+---> Germanic <*sebun>
+----> East Germanic
+-----> Gothic `𐍃𐌹𐌱𐌿𐌽` <sibun>
+-----> Crimean Gothic `sevene`
+----> North Germanic
+-----> Old Norse `sjau`
+------> Danish `sjv`
+------> Icelandic `sjö`
+----> West Germanic
+-----> Old English `seofon`
+------> English `seven`
+------> Scots `seiven`
+-----> Frankish
+------> Dutch `zeven`
+-----> Old High German `sibun`
+------> German `sieben>`
+------> Yiddish `זיבן` <zibn>
+
+---> Hellenic <*heptə́>
+----> Ancient Greek `ἑπτά` <heptá>
+-----> English `hepta-`
+-----> Greek `εφτά` <eftá>
+------> Romani `efta`
+
+---> Indo-Iranian <*saptá>
+----> Indo-Aryan
+-----> Sanskrit `सप्तन्` <saptán>
+------> Elu
+-------> Sinhala `හත` <hata>
+------> Magadhi
+-------> Bengali `সাত` <sat>
+------> Maharashtri
+-------> Marathi
+------> Sauraseni
+-------> Madhya
+--------> Hindi `सात` <sāt>
+-------> Pahari
+--------> Punjabi `ਸੱਤ` <satta>
+-------> Pali
+--------> Malay `sapta`
+----> Iranian
+-----> Avestan `hapta`
+-----> Northern Iranian
+------> Scythian 
+-------> Ossetian `авд` <avd>
+-----> Pashto `اوه` <uwë>
+-----> Western Iranian
+------> Kurdish <heft>
+------> Old Persian
+-------> Persian `هفت` <haft>
+
+---> Italic
+----> Latin `septem`
+-----> Sardinian `sette`
+-----> Eastern Romance
+------> Romanian `șapte`
+-----> Western Romance
+------> French `sept`
+------> Italian `sette`
+------> Spanish `siette`
+-----> English `sept-`
+-----> Latin <*septem-o-mēnsris>: "seventh month"
+------> Classical Latin `september`: "September" ###
+-------> Italian `settembre`: "September"
+-------> English `September`
+-------> Arabic `سبتمبر` <sibtimbir>: "September"
+-------> Greek `Σεπτέμβριος` <Septémvrios>: "September"
+
+---> Tocharian 
+----> Arshian <ṣpät>
+----> Kushean <ṣukt>
+---?> Samoyedic <*säjkwə> ##
+-----> Nenets `сиˮив` <siqiw>
+
+-?> Etruscan `𐌔𐌄𐌌𐌘` <semf>
+
+endbody
+
+
+Collected English words, no more than the obivous: seven, hept-, sept- (but not sept), September
+
+startnotes
+
+# "Seven" is written with a sumerogram (cuneiform logogram) in Hittite, and (like all other numbers above 4) never appears spelled out in phonetic form. But a word for "seven" may reflected in the Hittite drink <šiptamiya>, which could mean either "seventh" or "made of seven (ingredients)".
+
+## Reconstructing Finno-Ugric "seven" comes up with slightly different answers from different descendant languages: <*śäjćem>, <*śićem>, or <*śäćem>. It's a strong possibility that the Indo-European words for seven were borrowed on several different occassions in different forms.
+
+
+### People often conflate the off-by-two phenomenon in Roman month names (September is 9th, October is 10th, etc.) with the fact that July and August are named after the emperors Julius and Augustus Caesar, and attribute the off by two to inserting those two months. In fact, those months were renamed, not added, and used to be called <Quintilis> and <Sextilis>.
+
+The two inserted months that caused the mismatch between names and numbering were actually January and February at the beginning of the year; the approx. two month period of winter was originally not part of any month, and the year began at the beginning of spring, with March.
+
+Compare common Roman masculine names https://en.wikipedia.org/wiki/Praenomen#Masculine_names which include Quintus, Sextus, Septimus, Octavius, Nonus, and Decimus (but not names based on 1-4).
+
+endnotes
+

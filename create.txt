@@ -1,0 +1,277 @@
+date: 20170728
+tags: Cloth, Divinities, Elements, Plants, Spiders
+
+
+startintro
+
+<*ḱer(h₁)->: "to grow, to make grow, to increase" is mostly in the western IE languages; <*ḱer->: "to braid, to weave, rope" is mostly in the east, with only Greek and Armenian having both forms. I would suspect the western <*ḱerh₁->: "to make grow" form is a derived root adding <*-h₁-> and extending the meaning from "to weave".
+
+The problem is that clashes the possible derivation of [wff-triceratops|<*ḱer(h₂)->: "horn, head, top"] from <*ḱer(h₁)-> "grow" with a <*-h₂> collective, since <*ḱer(h₂)->: "horn, head, top" appears throughout IE languages. Unless "horn, head, top" is actually from the <*ḱers-> "fur, bristle" meaning, and is that from "grow" or "woven rope"?
+
+It is also tempting to connect <*ḱorwos>: "a young man" (Classical Greek `κόρος`=grc-Grek <kóros>: "boy, youth") with <*kóryos>: "band of young men as warrior-hunters". But satem forms show that <*ḱer(h₂)->: "horn" must be *ḱ and <*kóryos> must be *k. <*ḱer(h₁)->: "to grow, to increase" is almost entirely found in centum languages except for Armenian `սերմ`=hye-Armn <serm>: "seed"; so on both phonological and semantic grounds, <*kóryos> is a less likely connection.
+
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*ḱer->: "to braid, to weave, a woven rope"
+
+
+-> Proto-Indo-European <*ḱéryeti> (with <*-yóh₂> first person)
+
+--> Pre-Albanian <*tsurja>
+---> Albanian `thur`: "to braid, to knit, to interweave, to fence in"
+
+
+-> Proto-Indo-European <*ḱr̥éh₁ti> (with <*-éh₁mi> first person)
+
+--> Old Armenian `սարիմ` <sarim>: "to set up, to spin, to throw"
+---> Armenian `սարել` <sarel>
+
+-?> Proto-Indo-European <*ḱer(h₁)->: "to grow, to increase" (re-analyzed root extension?)
+
+
+-> Proto-Indo-European <*ḱr̥tus>: "spinning" (action noun)
+
+--> Old Armenian `սարդ` <sard>: "spider"
+---> Armenian `սարդ` <sard>: "spider"
+---> Georgian `ზარდლი` <zardli>: "spider" (archaic)
+---> Turkish `sart`: "spider, cobweb" (dialectal)
+---> Old Armenian `սարդիոստայն` <sardiostayn>: "spiderweb"
+----> Armenian `սարդոստայն` <sardostayn>: "spiderweb"
+
+
+
+-> Proto-Indo-European <*ḱr̥nos>
+
+--> Indo-Iranian <*ćr̥nas>
+
+--> Indo-Aryan <*śṛṅas>: "rope? woven?"
+---> Indo-Aryan <*śṛṅ-kʰaras>: "chain" (probably with <*kʰaras>: "hard, sharp, iron";  "iron rope"?, "hard woven"?)
+
+----> Sanskrit `𑀰𑀾𑀗𑁆𑀔𑀮` <śṛṅkhala>: "chain, belt, fetter"
+-----> Magadhi
+------> Bengali `শিকল` <śikol>: "chain"
+-----> Maharashtri `𑀲𑀗𑁆𑀓𑀮𑀻` <saṅkalī>
+------> Marathi `साखळी` <sākhḷī>: "chain"
+-----> Sauraseni `𑀲𑀁𑀓𑀮` <saṃkala>
+------> Hindi `साँकल` <sā̃kal>: "chain, door latch, leash, necklace chain"
+-----> Hindi `शृंखला` <śŕṅkhlā>: "series, mountain range, chain, shackle"
+-----> Malay `sengkela`: "chain, shackles"
+
+
+-> Proto-Indo-European <*ḱr̥yos>
+
+--> Hellenic <*kəřřós>
+---> Classical Greek `καῖρος` <kaîros>: "thrums, the ends of the warp threads attached to the loom"
+
+
+-> Proto-Indo-European <*ḱorkom?>
+
+--> Pre-Albanian <*tsarka>
+---> Albanian `thark`: "pen for animals, large basket for hay, storage shed for corn" 
+
+
+
+-> Proto-Indo-European <ḱr̥yéh₂?>
+
+--> Old Armenian `սարիք` <sarikʿ>: "rope, sling"
+
+
+
+?> Proto-Indo-European <*ḱers->: "fibrous, rough, hairy" (root extension, Balto-Slavic innovation?) ###
+
+--> Proto-Indo-European <*ḱr̥stís>
+---> Balto-Slavic
+----> Slavic <*sь̑rstь>: "fur, hair, wool"
+-----> East Slavic
+------> Russian `шерсть` <šerstʹ>: "fur, wool, worsted"
+------> Ukrainian `шерсть` <šerstʹ>: "wool"
+-----> West Slavic
+------> Czech `srst`: "fur, animal hair"
+------> Polish `sierść`: "fur, animal hair"
+
+--> Proto-Indo-European <*ḱérsus>
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `šerỹs`: "bristle"
+
+
+
+
+?> Proto-Indo-European <*ḱer(h₁)->: "to grow, to increase" (re-analyzed root extension?)
+
+--> Proto-Indo-European <*ḱreh₁eh₂yéti>: "make grow" (transitive)
+
+---> Italic <*kreāō>
+----> Latin `creāre`: "I create, I give birth to, I prepare, I choose"
+-----> Central Romance
+------> Italian `creare`: "to create, to appoint, to set up"
+-----> Western Romance
+------> French `créer`: "to create"
+------> Spanish `criar`: "to rear (a child)"
+------> Portuguese `criar`: "to create, to invent, to rear (a child)
+-------> Portuguese `cria`: "one who is raise, offspring, kid, ward"
+--------> Portuguese `crioulo`: "someone raised in the colonies, creole"
+---------> Spanish `criollo`: "someone raised in the colonies, creole"
+----------> English `creole`
+-----> Spanish `crear`: "to create" (reborrowed from Latin)
+-----> Latin `creātus`: "created, begotten, chosen"
+------> Western Romance
+-------> Portuguese `criado`: "servant"
+--------> French `griot`
+---------> English `griot`
+-------> Spanish `criado`: "servant"
+------> English `create`
+------> Late Latin `creātūra`: "a creation, a created thing, a creature"
+-------> English `creature`
+
+
+--> Proto-Indo-European <*ḱreh₁sḱéti>: "is growing" (iterative/continuative)
+
+---> Italic <*krēskō>
+----> Latin `crēscere`: "I increase, I thrive, I become visible"
+-----> Central Romance
+------> Italian `crescere`: "to grow"
+-----> Eastern Romance
+------> Romanian `crește`: "grow, increase, raise, cultivate"
+-----> Insular Romance
+------> Sardinian `creschi`
+-----> Western Romance
+------> French `croître`: "to grow"
+------> Spanish `crecer`: "to grow"
+-----> Latin `accrēscere`
+------> Central Romance
+-------> Italian `accrescere`: "to increase"
+------> Western Romance
+-------> French `accroître`: "to increase"
+--------> French `accrû`: "increased" (past participle)
+---------> English `accrue`
+-------> Spanish `acrecer`: "to increase"
+------> Latin `accrētiō`: "increment"
+-------> English `accretion`
+------> Latin `concrēscere`: "I thicken, condense, curdle, stiffen, congeal"
+-------> Latin `concrētus`: "condensed, thick, hardened, solid" (past participle)
+--------> English `concrete` #
+-----> Latin `dēcrēscere`
+------> Western Romance
+-------> French `décroître`: "to decrease"
+--------> English `decrease`
+-----> Latin `incrēscere`: "I grow in, I swell"
+------> Central Romance
+-------> Italian `increscere`: "to regret"
+------> Western Romance
+-------> Old French `encroistre`: "to increase"
+--------> Anglo-Norman `encreistre`: "to increase"
+---------> English `increase`
+------> Latin `incrēmentum`: "growth, development, increment"
+-------> English `increment`
+-----> Latin `crēscēns`: "increasing, thriving, becoming visible" (active participle)
+------> Central Romance
+-------> Italian `crescente`: "growing, rising, waxing (moon)"
+--------> Italian `crescente`: "sourdough"
+------> Western Romance
+-------> French `croissant`: "crescent, crescent moon, croissant"
+--------> English `crescent`
+--------> English `croissant`
+-------> Spanish `creciente`: "crescent of a waxing moon, increasing"
+-----> Latin `crēscendus`: "that which is to increase, that which is to become visible" (future passive participle)
+------> Central Romance
+-------> Italian `crescendo`: "growing, increasing"
+--------> English `crescendo`
+---------> Japanese `クレッシェンド` <kuresshendo>: "crescendo"
+--------> Spanish `crescendo`: "crescendo"
+------> Western Romance
+-------> Spanish `creciendo`: "growingly"
+
+
+--> Proto-Indo-European <*ḱorwos>: "growing, a thing or person who is growing"
+
+---> Hellenic <*kórwā>
+----> Mycenaean Greek `𐀒𐀷` <ko-wa>: "girl, maiden"
+----> Classical Greek `κόρη` <kórē>: "girl, maiden"
+-----> Greek `kóri`: "daughter, girl, kore (statue)"
+-----> English `kore`
+-----> Classical Greek `Κόρη` <Kórē>: "the Maiden, divine epithet of Persephone" ##
+---> Hellenic <*kórwos>
+----> Mycenaean Greek `𐀒𐀺` <ko-wo>: "boy, youth"
+----> Classical Greek `κόρος` <kóros>: "boy, youth"
+-----> English `kouros`
+-----> Classical Greek `Δῐόσκουροι` <Dióskouroi>: "the Twins Castor and Pollux" (lit. "Zeus's Boys")
+------> Latin `Dioscūrī`
+-------> English `Dioscuri`
+
+--?> Proto-Indo-European <*kóryos> (must be *k not *ḱ)
+
+
+
+--> Proto-Indo-European <*ḱeres-s>: "growthful?"
+
+---> Germanic <*hirsaz>
+----> Germanic <*hirsijô>
+-----> North Germanic
+------> Old Norse
+-------> Danish `hirse`: "millet"
+-------> Icelandic `hirsi`: "millet"
+-------> Finnish `hirssi`: "millet"
+-----> West Germanic
+------> Old High German `hirso`: "millet"
+-------> German `Hirse`: "millet"
+-------> Yiddish `הירזש` <hirzh>: "millet"
+
+---> Italic <*kerēs>
+----> Latin `Cerēs`: Goddess of Bounty and Agriculture ##
+-----> English `Ceres`
+-----> Latin `Cerealis`: "of Ceres"
+------> French `céréale`: "cereal" (all meanings)
+-------> English `cereal`
+-----> New Latin `ceria`: "cerium oxide" (after the planet/asteroid/dwarf planet Ceres)
+------> English `cerium`
+------> Translingual `Ce`
+
+
+--> Proto-Indo-European <*ḱermn̥>: "grown" (resultative)
+
+---> Old Armenian `սերմն` <sermn>: "seed, berry, bud, progeny, race"
+----> Armenian `սերմ` <serm>: "seed"
+
+
+--> Proto-Indo-European <*sem-ḱer-> "grow whole"
+
+---> Italic
+----> Latin `sincērus`: "clean, sound, uninjured, natural, sincere"
+-----> Central Romance
+------> Italian `sincero`: "sincere, honest"
+-----> Eastern Romance
+------> Romanian `sincer`: "sincere"
+-----> Western Romance
+------> French `sincère`: "sincere"
+-------> English `sincere`
+------> Spanish `sincero`: "sincere, honest"
+
+
+-?> Proto-Indo-European <*ḱer(h₂)->: "horn, head, top" [wff-triceratops]
+
+
+
+endbody
+
+
+startnotes
+
+# Many languages borrow the Latin `concretus`=lat-Latn for the adjective meaning "tangible, not abstract", but mostly only English uses it for the building material. Most other Latin-borrowing languages derive the word for the building material from Latin `bitūmen`=lat-Latn (mineral pitch, bitumen) instead. Latin did not have a word for "concrete" distinct from "cement".
+
+## Persephone is called the Maiden, in relation to Demeter the Mother. Ceres, in the interpretatio graeca, considered analogous Demeter.
+
+
+### Proto-Indo-European <*ḱers->: "fibrous, rough, hairy" has been suggested as an origin for Germanic <*hērą>: "hair", but I think <*hērą> is better explained as <*kesróm>: "what is combed", compare the derivation of [https://www.aidanem.com/word-family-cis.html|here].
+
+
+
+endnotes
+
+

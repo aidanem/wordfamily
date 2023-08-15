@@ -1,0 +1,248 @@
+date: 20230714
+tags: Currency, Food
+
+
+startintro
+
+The Mystery of the Penny.
+
+I've got three families, each a possible origin for West Germanic <*panning>: "penny", possible borrowings from either Latin `patina`: "pan" (via variants <*patna>, <*panna>), Latin `pannus`: "cloth, or—less realistically—Punic `𐤐𐤍` <pene>: "face".
+
+
+I prefer the explanation that the first pennies were small and thin enough to be left distinctly concave from the striking process—and were thus called "little pans", <*panningaz>.
+
+Latin `pannus`: "cloth" I am willing to grant as plausible, but have no particularly story to tell for it.
+
+A derivation from the Punic `𐤐𐤍` <pene>: "face" (cf. Hebrew `פנים` <paním>) would be a cool story, just barely this side of possible. Carthaginian coins were almost always struck with the face of Tanit, one of whose common epithets is <Pene Baʻal>: "the Face of Baʻal". So the coins had the face of the face of Baʽal, so it would be unexceptional for "face" to be used metanymically for a coin. Compare `crown`, `escudo`, `florin`, `lei`, or <kopek>, all named for an image imprinted on the coin.
+
+While I am not persuaded by Venneman's larger Phoenician superstratum theory, the indirect transmission of a Punic word for "coin" to Western Germanic around the time of the indirect transmission of Punic coins like the [https://commons.wikimedia.org/wiki/File:Carthago_-_330-300_BC_-_silver_tetradrachm_-_head_of_horse_and_date_palm_-_head_of_Tanit_-_Berlin_MK_AM_18206038.jpg|Saltford Carthaginian Coin, 300 BC - 264 BC] seems just barely plausible. 
+
+
+I do not think the evidence supports <*pandingaz> (e.g. Old High German `phant`) being an early form, so derivation from Germanic <*pandanô>: "pledge" or Latin `pondus`: "pound" are unlikely.
+
+endintro
+
+
+
+startbody
+
+Proto-Indo-European <*peh₂n->: "fabric, woven"
+
+-> Germanic <*fanô>: "cloth, banner, flag"
+--> East Germanic
+---> Gothic `𐍆𐌰𐌽𐌰` <fana>: "piece of cloth"
+--> North Germanic
+---> Old Norse `fáni`
+----> Danish `fane`: "banner"
+----> Icelandic `fáni`: "flag"
+--> West Germanic
+---> Old English `fana`: "cloth, patch, flag, banner, vane"
+----> English `vane`
+-----> English `weathervane`
+---> Frankish <*fano>
+----> Dutch `vaan`: "banner, weathervane"
+----> Old French `fanon`
+-----> French `fanon`: "dewlap, feathering, fanon, tabs on a banner"
+-----> English `fanon`
+---> Old High German `fano`
+----> German `Fahne`: "flag, banner, vane"
+----> Yiddish `פֿאָן` <fon>: "flag"
+
+--> Germanic <*gunþifanô>: "war banner"
+---> North Germanic
+----> Old Norse `gunnfáni`
+-----> Icelandic `gunnfáni`: "regimental standard"
+---> West Germanic
+----> Old English `gūþfana`: "war banner"
+----> Frankish
+-----> Old French `gonfanon`: "gonfalon, standard"
+------> French `gonfanon`
+------> Old French `gonfalon` (variant)
+-------> English `gonfalon`
+-------> Italian `gonfalone`
+
+-> Hellenic
+--> Classical Greek `πήνη` <pḗnē>
+---> Classical Greek `πηνίον`: "bobbin"
+---> Classical Greek `πηνος` <pēnos>: "thread, bobbin"
+
+----> Latin `pānus`: "thread on a bobbin, ear of millet, swelling, tumor" (from Doric variant <pânos>)
+-----> Central Romance
+------> Italian `pane`: "thread of a screw"
+
+-----> Vulgar Latin <*depānāre>: "to unravel, to untangle by winding up"
+------> Central Romance
+-------> Italian `dipanare`: "to wind into a ball, to untangle, to unravel"
+------> Eastern Romance
+-------> Romanian `a depăna`: "to wind onto a reel or bobbin"
+------> Western Romance
+-------> Spanish `devanar`: "to coil, to wind"
+
+
+-> Italic
+--> Latin `pannus`: "cloth, rag, garment"
+---> Central Romance
+----> Italian `panno`: "cloth, clothes, laundry"
+---> Western Romance
+----> Spanish `paño`: "cloth, wipe"
+-----> Spanish `pañal`: "diaper"
+-----> French `pagne`: "loincloth, grass skirt"
+------> English `pagne`
+
+----> Gallo-Romance <*pann-> ##
+-----> Catalan `pany`: "piece, lock" ##
+-----> Old French `pan`: "bit, piece, part" ##
+------> French `pan`: "piece, part, side, face, flap, patch, area, section"
+-------> English `pan`
+
+------> Middle English
+-------> English `pane`
+--------> English `windowpane`
+
+-----> Gallo-Romance <*pannell-> (diminutive)
+------> Old French
+-------> French `panneau`
+-------> English `panel`
+------?> Italian `pannello`
+
+
+--?> West Germanic <*panning>: "penny"
+
+
+
+Semitic <*pan->: "front, face, before"
+
+-> East Semitic
+--> Akkadian `𒉺𒀀𒉡` <pānum>: "front, surface, face, prestige, past"
+
+-> Central Semitic
+--> Arabic `فني` <faniya>: "to cease, to pass away, to perish"
+--> Northwest Semitic
+---> Canaanite
+----> Hebrew `פנים` <paním>: "face, interior"
+-----> Hebrew `לפני` <lif'néi>: "before, facing, prior to, ago"
+-----> Yiddish `פּנים` <ponem>
+------> Dutch `ponem`
+------> English `punim`
+
+----> Phoenician `𐤐𐤍` <pani>
+-----> Punic `𐤐𐤍` <pane>
+
+-----?> West Germanic <*panning>: "penny"
+
+
+Classical Greek `πατάνη` <patánē>: "a kind of flat dish" #
+
+-> Latin `patina`: "shallow dish, pan, a kind of cake, manger"
+--> Central Romance
+---> Italian `patina`: "patina, glaze, film"
+----> English `patina`
+----> French `patine`
+-----> English `patine`
+
+
+--> Medieval Latin `patena`: "paten, Eucharist dish"
+---> English `patena`
+---> French `patène`: "paten"
+----> English `paten`
+---> Italian `​​patena`: "paten"
+
+
+-?> Latin `patella`: "shallow pan or dish, knee cap" (diminutive of `patina`, or of `patera` with similar meaning but distinct etymology)
+---> Central Romance
+----> Dalmatian `padella`: "pan"
+----> Italian `padella`: "frying pan, skillet, bedpan"
+---> Western Romance
+----> Old French `paelle`
+-----> French `poêle`: "pan, frying pan, metal detector"
+------> Dené Dháh `libé`: "frying pan" (from `la poêle`)
+-----> Catalan `paella`: "frying pan, paella"
+------> Spanish `paella`: "paella"
+-------> English `paella`
+----?> Old English `pæġel`: "wine pot, pail"
+------> English `pail`
+----> Old Spanish
+-----> Spanish `padilla`: "saucepan"
+-----> Spanish `paila`: "a shallow tray, pan, or bowl, frying pan, paila"
+------> English `paila`
+---> Brythonic <*padell>
+----> Welsh `padell`: "pan, bowl"
+---> English `patella`
+---> Koine Greek `πάτελλα` <pátella>: "dish, patella"
+---> Polish `patelnia`: "frying pan"
+
+--> Latin <*patna> (variant)
+
+---> Latin <*panna> (variant)
+----> Central Romance
+----?> Italian `panna`: "cream"
+
+----> Germanic <*pannǭ>
+-----> North Germanic
+------> Old Norse `panna`
+-------> Old East Norse
+--------> Danish `pande`: "pan, forehead"
+--------> Swedish `panna`: "pan, forehead, boiler"
+---------> Finnish `pannu`: "pan, pot"
+-------> Old West Norse
+--------> Icelandic `panna`: "pan, sump"
+-----> West Germanic
+------> Old English `panne`: "pan, frying pan"
+-------> English `pan`
+--------> Japanese `パン` <pan>: "pan"
+------?> Irish `panna`: "pan"
+------> Frankish <*panna>
+-------> Dutch `pan`: "pan, cooking pot"
+--------> Dutch `pannetje` (diminutive)
+---------> Malay `panci`: "pot, saucepan"
+------> Old High German `pfanna`
+-------> German `Pfane`: "frying pan"
+-------> Yiddish `פֿאַן` <fan>: "pan"
+
+-----?> West Germanic <*panning>: "penny"
+-------> Old English `penning`: "penny"
+--------> English `penny`
+--------> Spanish `penique`: "penny"
+-------> Frankish <penning>
+--------> Dutch `penning`: "penny, medal, cash"
+-------> Old High German `pfenning`
+--------> German `Pfennig`: "penny"
+---------> English `pfennig`
+-------> Old Saxon
+--------> Low German `Penning`
+
+-------?> Old Norse `penningr`
+---------> Danish `penning`: "historical coin"
+----------> Danish `penge`: "money" (originally a plural of `penning`)
+---------> Icelandic `peningur`: "coin, mdeal, wealth"
+---------> Swedish `penning`: "coin, penny, money, cash"
+----------> Finnish `penni`: "penny"
+--------?> Irish `pingin`: "penny"
+
+-------> Slavic <pěnędzь>: "coin, money"
+--------> East Slavic
+---------> Russian `пенязь` <pénjazʹ>: "penny (historical), pfennig (historical), coin (archaic)"
+--------> South Slavic
+---------> Serbo-Croatian `пенези` <penezi>: "money (regional)"
+--------> West Slavic
+---------> Czech `peníz`: "coin"
+---------> Polish `pieniądz`: "currency, money"
+---------> Hungarian `pénz`: "money"
+
+
+
+endbody
+
+
+startnotes
+
+# Greek `πατάνη` <patánē>: "a kind of flat dish" has an instrument suffix <-άνη> that appears in several other words. A few of those words can be tied to known PIE roots, like [wff-cow|`βοτάνη` <botánē> (botany)], but many cannot, or the connection is dubious. The suffix itself may be Pre-Greek that was applied by analogy to a few originally IE roots.
+
+
+## In Gallo-Romance specifically, the words that appear to be derivations of Latin `pannus`: "cloth" primarily mean "piece, part, side" rather than "cloth" (Old French `pan`, Catalan `pany`). Most likely this is a normal semantic extension with an intermediate meaning of "patch" and/or the dressmaking meaning of "panel".
+
+But it's also not impossible that was an additional sense borrowed from Punic `𐤐𐤍` <pane>: "face, side, surface" into the Vulgar Latin dialects of originally Carthaginian-controlled territory in Narbonensis and Hispania Tarraconensis.
+
+
+
+endnotes

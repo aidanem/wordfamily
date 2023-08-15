@@ -1,0 +1,412 @@
+date: 20171201
+theme: Religion 📿
+tags: Divinities, Runes, Time
+
+startintro
+
+We start religion words with <*dyḗwos ph₂tḗr>, Old Father Shining-Sky himself.
+
+Interestingly English "day" is not from this root, despite similarity to many IE words for day, e.g. Latin `diēs`, etc. Germanic <d> corresponds to Latin <f> (PIE <dʰ>); Latin <d> corresponds to Germanic <t> (PIE <d>). Germanic used to have a cognate word for "day": <*tīnaz>, but in English it is preserved only in the <t> at the end of `Lent` (<*langatīnaz>, "long-days, lengthening-days", i.e. "spring").
+
+Likewise, Greek `θεός` <theós>: "god", is unrelated despite the similarity to Latin `deus`. Greek <θ> also comes from PIE <dʰ>, so would also correspond to Latin <f>, not <d>.
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
+
+-> Proto-Indo-European <*diwós>: "bright"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀺𑀯𑀲` <divasa>: "day"
+-----> Pali <divasa>: "day"
+------> Thai `ทิวส`
+-----> Sauraseni
+------> Western Sauraseni
+-------> Gujarati `દી` <dī>: "day"
+-------> Romani `dives`
+-----> Marathi `दिवस` <divas>
+-----> Telugu `దివసము` <divasamu>
+
+-> Proto-Indo-European <*diwoh₁>: "bright"
+
+--> Old Armenian `տիւ` <tiw>: "day, daytime"
+
+
+
+-> Proto-Indo-European <*dyḗwos>: "sky, heaven, Dyeus (Indo-European divinity of the Daytime Sky)" (agentive: ~"brightener, heavener")
+
+--> Anatolian
+---> Hieroglyphic Luwian <Tiwaz>: "Divinity of the Sun"
+
+--> Celtic <*dīyos>: "day"
+---> Brythonic <*dið>
+----> Welsh `dydd`: "day"
+---> Old Irish `día`: "day"
+----> Irish `día`: "day (archaic)"
+---> Celtic <*dīyūi>: "on (this) day, of the day"
+----> Old Irish
+-----> Irish `Dé`: "on (of a day of the week)"
+----> Celtic <*so dīyūi>: "at this day, today"
+-----> Brythonic
+------> Welsh `heddiw`: "today"
+
+--> Hellenic <*dzeus>
+---> Mycenaean Greek `𐀇𐀺` <di-wo>: "Zeus"
+---> Classical Greek `Ζεύς` <Zeús>: "Zeus"
+----> English `Zeus`
+----> Classical Greek `Δῐός` <Diós>: "Zeus's" (genitive)
+-----> Classical Greek `Δῐόσκουροι` <Dióskouroi>: "The Twins, Castor and Pollux" (lit. "Zeus's Boys")
+------> Latin `Dioscūrī`
+-------> English `Dioscuri`
+
+
+--> Indo-Iranian <*dyā́wš>
+---> Indo-Aryan <*dyā́wṣ>
+----> Sanskrit `𑀤𑁆𑀬𑀼` <dyú>: "heaven, sky, day, fire"
+---> Iranian <*dyā́wš>
+----> Avestan <dyaoš>: "from the sky"
+-----> Persian `زاوش` <Zāvoš>: "from the sky, heavenly, Zeus (greek divinity), Jupiter (planet)"
+
+--> Italic <*djous>: "day, sky, Jupiter"
+---> Italic <*djēm> (accusative)
+----> Latin `diēs`: "day" (back-formed from accusative)
+-----> Central Romance
+------> Italian `dì`: "day (archaic)"
+-----> Insular Romance
+------> Sardinian
+-------> Campidanese `dì`: "day"
+-----> Eastern Romance
+------> Romanian `zi`: "day"
+-----> Western Romance
+------> Old French `di`: "day"¹
+-------> French `-di`
+------> Spanish `día`: "day"
+-----> Latin `hōc diē`: "this day, today"
+------> Latin `hodiē`: "today"
+-------> Central Romance
+--------> Dalmatian `vai`: "today"
+--------> Italian `oggi`: "today"
+-------> Insular Romance
+--------> Sardinian
+---------> Campidanese `oi`: "today"
+-------> Western Romance
+--------> Old French `hui`
+---------> French `aujourd'hui`: "today"
+---------> French `méshui`: "today, now, from now on"
+--------> Spanish `hoy`: "today"
+
+-----> Latin `diēs Sōlis`: "Sun's day, Sunday"
+-----> Latin `diēs Lūnae`: "Moon's day, Monday"
+-----> Latin `diēs Mārtis`: "Mars's day, Tuesday"
+-----> Latin `diēs Mercuriī`: "Mercury's day, Wednesday"
+-----> Latin `diēs Iovis`: "Jupiter's day, Thursday"
+-----> Latin `diēs Veneris`: "Venus's day, Friday"
+-----> Latin `diēs Saturnī`: "Saturn's day, Saturday"
+
+---> Italic <*djowes>: (genitive)
+----> Latin `Iovis`: "of Jupiter (genitive)"
+-----> Latin `diēs Iovis`: "Jupiter's day, Thursday"
+------> Central Romance
+-------> Italian `giovedì`: "Thursday"
+------> Eastern Romance
+-------> Romanian `joi`: "Thursday"
+------> Insular Romance
+-------> Sardinian
+--------> Campidanese `gióbia`: "Thursday"
+------> Western Romance
+-------> French `jeudi`: "Thursday"
+-------> Spanish `jueves`: "Thursday"
+
+---> Italic <*djowi>: (ablative)
+----> Latin `Iove`: "from Jupiter (ablative)"
+-----> English `Jove`
+
+---> Italic <*djousnus>: "daily, day-like"
+----> Latin `diurnus`: "daily, of the day"
+-----> Central Romance
+------> Italian `giorno`: "day"
+-----> Western Romance
+------> French `jour`: "day"
+-------> French `aujourd'hui`: "today"
+-----> French `diurne`: "diurnal"
+------> Romanian `diurn`: "diurnal"
+-----> Spanish `diurno`: "diurnal"
+
+-----> Latin `diurnālis`: "of the day, taking place in the day, diurnal"
+------> Central Romance
+-------> Italian `giornale`: "(daily) newspaper"
+------> Western Romance
+-------> French `journal`: "daily, (daily) diary, (daily) newspaper"
+--------> English `journal`
+------> English `diurnal`
+
+-----> Medieval Latin `diurnata`: "A day's work, a day's travel"
+------> French `journée`
+-------> English `journey`
+------> Spanish `jornada`: "working day, hike, day trip"
+------> Welsh `diwrnod`: "day (24 hours), a day's activity"
+
+--> Paleo-Balkan
+---> Albanian `Zojz`: "divinity of the sky and lightning"
+---> Messapian `ΖΙΣ` <Zis>: "divinity of the sky"
+
+
+--> Proto-Indo-European <*dyḗwos ph₂tḗr>: "Father Dyeus"
+
+---> Celtic <*dēwos ɸatir>: "Father God"
+----> Celtic <*sindos dago-dēwos ollo-ɸatir>: "The Good God, All Father"
+-----> Old Irish `in Dagdae, Ollathair`: "The Good God, All Father"
+------> Old Irish `in Dagdae`: "The Dagda"
+-------> Irish `in Daghdha`: "The Dagda"
+--------> English `(the) Dagda`
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀤𑁆𑀬𑁅𑀱𑁆𑀧𑀺𑀢𑀾` <Dyauṣpitṛ>: "Sky Father, Rigvedic divinity of the sky—possibly the father or grandfather of Indra"
+
+---> Italic <*djous patēr>: "Father Day Sky"
+----> Latin `Iuppiter`: "Jupiter"
+-----> English `Jupiter`
+----> Umbrian `𐌉𐌖𐌐𐌀𐌕𐌄𐌓` (iupater): "Jupiter"
+
+--> Proto-Indo-European <*átta dyḗwos>: "Father (Dad) Dyeus"
+
+---> Pre-Albanian <*dziew atta> (words reversed)
+----> Albanian `Zot`: "Sky Father, Father Zojz"
+
+---> Anatolian
+----> Hieroglyphic Luwian <Tatiš Tiwaz>: "Father Tiwaz"
+
+--> Proto-Indo-European <*diwHō>: "authority of Dyeus" ("Hoffmann's suffix")
+---> Proto-Indo-European <*diwoHonh₂>: "She who has the authority of Dyeus, or She who is under the authority of Dyeus"
+
+----> Celtic 
+-----> Gaulish `Deuona`: "goddess, or the divinity of springs specifcally"
+------> Classical Greek `Δηουόνα` <Dēouóna>
+------> Latin `Divona`: "Gallo-Roman divinity of Bordeaux's sacred spring"
+
+
+----> Hellenic <*Diwōna>
+-----> Classical Greek `Διώνη` <`ē>: "Dione"
+------> Greek `Διώνη` <Dióni>: "Dione"
+------> Latin `Diōne`
+-------> English `Dione`
+
+----> Italic <*Dīwāna>
+-----> Latin `Diana` (shortened by syncope)
+
+
+-----> Italic <*Dīwa Iāna> (re-intrepreted as "Goddess Iana")
+-----> Latin `Dīvā Iāna` 
+------> Latin `Iāna`
+-------> Sardinian `jana`: "fairy"
+
+
+
+
+--> Proto-Indo-European <*diwés gʷl̥h₂enos>: "Dyeus's acorn, divine nut"
+
+---> Pre-Armenian <*tukałin>
+----> Armenian `տկողին` <tkołin>: "hazelnut"
+
+---> Hellenic
+----> Classical Greek `Διὸς βάλανος`: "sweet chestnut"
+
+---> Italic <*djouglānts>
+----> Latin `iūglāns`: "walnut"
+-----> Translingual `Juglans`: "taxonomic genus of walnuts"
+-----> English `juglans`
+
+
+--> Proto-Indo-European <*deywós>: "god" (Vriddhi derivative with vowel in incorrect position for this root, but more common in other roots)
+
+---> Anatolian
+----> Hittite `𒅆𒍑` <sius>: "god"
+
+---> Balto-Slavic <*deiwas>: "god"
+----> East Baltic
+-----> Lithuanian `diẽvas`: "god"
+----> Slavic <*divъ>: "miracle"
+-----> East Slavic
+------> Russian `ди́во` <dívo>: "wonder, miracle, marvel"
+-----> West Slavic
+------> Polish `dziw`: "wonder"
+----> West Baltic
+-----> Old Prussian `deywis`: "god"
+----> Finnic <*taivas>: "sky, heaven"
+-----> Estonian `taevas`: "sky, heaven"
+-----> Finnish `taivas`: "sky, heaven"
+
+---> Celtic <*dēwos>: "god"
+----> Brythonic <*duɨw>: "god"
+-----> Welsh `duw`: "god"
+----> Old Irish `día`: "god" (phonologically recollapsed with "day")
+-----> Irish `dia`: "god"
+
+
+---> Germanic <*Tīwaz>: "god generally, or Tyr specifically, divinity of Law and Heroic Glory, the rune ᛏ"
+----> West Germanic
+-----> Old English `Tī`: "Tyr, the rune ᛏ"
+-----> Old High German `Ziu>: "Tyr"
+----> Old Norse `Týr`: "Tyr, the rune ᛏ"
+-----> Danish
+-----> Icelandic `Týr`: "Tyr"
+----> East Germanic
+-----> Gothic `𐍄𐌴𐌹𐍅𐍃` <teiws>: "Tyr, the letter 𐍄"
+----> English `Tiwaz`: "the rune ᛏ"
+----> Germanic <*Tīwas dagaz>: "Tuesday, Tyr's day" (calque of Latin <dies Martis>, "Mars' day")
+-----> West Germanic
+------> Old English `tiwesdæġ`: "Tuesday"
+-------> English `Tuesday`
+-------> Scots `Tysday`: "Tuesday"
+------> Old High German `zīostag`: "Tuesday"
+-------> German `Ziestag`: "Tuesday (dialectic)"
+-----> Old Norse `tý(r)sdagr`: "Tuesday"
+------> Danish `tirsdag`: "Tuesday"
+------> Finnish `tiistai`: "Tuesday"
+
+---> Indo-Iranian <*daywás>: "god"
+----> Indo-Aryan <*daivás>
+-----> Sanskrit `𑀤𑁂𑀯` <devá>: "god, divine, idol"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `देव` <dev>: "deity, god, deva"
+------> Telugu `దేవుడు` <dēvuḍu>: "god, cloud"
+------> Malay `dewa`: "god"
+----> Iranian <*daywáh>
+-----> Avestan <daēuua>: "(false) god, daeva"
+------> English `daeva`
+------> West Iranian
+-------> Old Persian `𐎭𐎡𐎺` <daiva>: "false god, daeva, demon"
+--------> Persian `دیو` <dêv>: "demon, daeva"
+---------> Arabic `دِيُو` <diyū>: "daeva"
+---------> Ottoman Turkish `دیو` <div>: "demon, jinn, giant"
+----------> Turkish `dev`: "giant, colossus, huge"
+----------> Serbo-Croatian `див` <div>: "giant"
+---------> Armenian `դեւ` <dew>: "demon, evil spirit, ghost"
+---------> Georgian `დევი` <devi>: "giant, monster, dragon"
+--------> Aramaic `𐡃𐡉𐡅𐡀` <daywā>: "demon, evil spirit"
+
+---> Italic <*deiwos>: "god"
+----> Oscan `𐌃𐌄𐌝𐌅𐌀𐌝` <deívaí>
+----> Latin `deus`: "god"
+-----> Central Romance
+------> Italian `dio`: "god"
+-----> Eastern Romance
+------> Romanian `zeu`: "god"
+-----> Western Romance
+------> French `dieu`: "god"
+-------> Haitian Creole `Bondye`
+------> Spanish `dios`: "god"
+-------> Quechua `dyus`: "god"
+-------> Tagalog `diyos`: "god"
+-----> Latin `ad deus`: "to god, farewell"
+------> Central Romance
+-------> Italian `addio`: "goodbye, farewell"
+------> Western Romance
+-------> French `adieu`: "farewell, goodbye"
+-------> Spanish `adiós`: "goodbye, farewell"
+-----> Latin `deitās`: "divinity, deity, the nature of a god"
+------> Eastern Romance
+-------> Romanian `zeitate`: "deity"
+------> Central Romance
+-------> Italian `deità`: "godhood, divinity, deity"
+------> Western Romance
+-------> French `déité`: "deity"
+--------> English `deity`
+-------> Spanish `deidad`: "deity"
+----> Latin `dīvus`: "divine, godlike, godly, deified mortal"
+-----> Central Romance
+------> Italian `divo`: "god, star/celebrity (deified mortal)"
+-------> English `diva`
+-----> Latin `dīvīnus`: "of a god"
+------> Central Romance
+-------> Italian `divino`: "divine, heavenly"
+------> Western Romance
+-------> French `divin`: "divine"
+--------> English `divine`
+-------> Spanish `divino`: "divine, heavenly"
+
+
+---> Proto-Indo-European <*dey-> (reinterpreted root)
+----> Proto-Indo-European <*deynos>: "day"
+
+-----> Albanian `din`: "to dawn"
+
+-----> Balto-Slavic
+------> Lithuanian `dienà`: "day, daytime, time, era"
+------> Slavic <*dь̑nь>: "day"
+-------> East Slavic
+--------> Russian `день` <denʹ>: "day, daytime, afternoon"
+-------> South Slavic
+--------> Serbo-Croatian `да̑н` <dȃn>: "day"
+-------> West Slavic
+--------> Polish `dzień`: "day, daytime"
+
+-----> Germanic <*tīnaz>: "day"
+------> Germanic <*langatīnaz>: "spring" (lit. "long-days")
+-------> West Germanic
+--------> Old English `lencten`: "spring, Lent"
+---------> English `Lent`
+--------> Old High German `lenzin`
+---------> German `Lenz`: "spring"
+------> Germanic <*sintīnaz>: "daily" ##
+-------> East Germanic
+--------> Gothic `𐍃𐌹𐌽𐍄𐌴𐌹𐌽𐍃` (sinteins): "daily, always" ##
+
+-----> Indo-Iranian
+------> Indo-Aryan <*dinám>: "day"
+-------> Sanskrit `𑀤𑀺𑀦` <diná>: "day"
+--------> Magadhi
+---------> Bengali <din>: "day"
+--------> Sauraseni
+---------> Madhya
+----------> Hindi `दिन` <din>: "day, time"
+---------> Pahari
+----------> Punjabi `ਦਿਨ` <din>: "day"
+--------> Telugu `దినము` <dinamu>: "day, daytime"
+
+-----> Italic <*dinos>
+------> Latin `-din-`
+-------> Latin `nūndinus`: "market-day" ###
+
+-> Proto-Indo-European <*dyewp-> (root extension)
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀻𑀧𑁆` <dīp>: "to blaze, to glow, to illuminate"
+-----> Sanskrit `𑀤𑀻𑀧` <dīpa>: "lamp, light"
+------> Sauraseni `𑀤𑀻𑀯` <dīva>
+-------> Madhya
+--------> Hindi `दिया` <diyā>: "light, lamp"
+------> Hindi `दीप` <dīp>: "lamp, light"
+------> Sanskrit `𑀤𑀻𑀧𑀓` <dīpaka>
+-------> Hindi `दीपक` <dīpak>: "lamp, light, personal name"
+--------> English `Deepak`
+------> Sanskrit `𑀤𑀻𑀧𑀸𑀯𑀮𑀺` <dīpāvali>: "row of lights, illumination, Diwali"
+-------> Maharashtri
+--------> Marathi `दिवाळी` <divāḷī>: "Diwali"
+-------> Sauraseni
+--------> Madhya
+---------> Hindi `दिवाली` <divālī>: "Diwali"
+----------> English `Diwali`
+--------> Pahari
+---------> Punjabi `ਦਿਵਾਲੀ` <divālī>: "Diwali"
+-------> Telugu `దీపావళి` <dīpāvaḷi>: "row of lights, Diwali"
+
+endbody
+
+startnotes
+
+## Gothic `𐍃𐌹𐌽𐍄𐌴𐌹𐌽𐍃` (sinteins): "daily, always" (reconstructed Germanic <*sintīnaz>) is a compound of something and "day": "go-day"?, "old-day"?, "sense-day"?, "one's-own-day"?
+
+### Latin `nūndinus` is literally, "nine-day", meaning what we would describe as "every eight days", because Latin counts days inclusively on both sides.
+
+endnotes
+
+

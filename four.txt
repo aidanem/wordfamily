@@ -1,0 +1,329 @@
+date: 20200410
+theme:  🦠
+tags: Numbers, COVID-19
+
+startintro
+
+<*kʷetwer-> is too long for a root. The feminine root suggests that there may have been an original root of just <*kʷet->. There are also several reasons to believe that none of this is the original word for four: 
+
+* Hittite's word for "four", <meyawes>, is unrelated (Hittite is the oldest attested, and oldest split)
+* The word for "eight" <*oḱtṓw> is a dual, suggesting a lost word for "four" <*h₃eḱt->, attested only in Avestan <ašti->: "width of four fingers", and likely in Proto-Kartvelian <*oxto->: "four".
+
+Note: I haven't written in the definitions for words meaning "four", "four-", or "forty" if they're in the respective section.
+
+endintro
+
+startbody 
+
+Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*kʷétesr->)
+
+-> Albanian `katër`
+
+-> Anatolian <*gʷetʷóres>
+-?> Hittite <kutruwan>: "witness" (a fourth party in a legal preceeding)
+--> Lycian `𐊗𐊁𐊗𐊁𐊕𐊆` <teteri>
+
+
+-> Old Armenian `չորք` <čʿorkʿ>
+--> Armenian `չորս` <čʿors>
+
+-> Balto-Slavic <*ketures>
+--> East Baltic
+---> Lithuanian `keturì`
+--> Slavic <*četỳre>
+---> East Slavic
+----> Russian `четы́ре` <četýre>
+----> Ukrainian `чоти́ри` <čotýry>
+---> South Slavic
+----> Old Church Slavonic `четꙑре` <četyre>
+----> Serbo-Croatian `чѐтири` <čètiri>
+---> West Slavic
+----> Polish `cztery`
+
+-> Celtic <*kʷetwares>
+--> Brythonic <*pedwar>
+---> Welsh `pedwar`
+--> Old Irish `cethair`
+---> Irish `ceathair`
+
+-> Pre-Germanic <*petwṓr> ##
+--> Germanic <*fedwōr>
+---> East Germanic
+----> Gothic `𐍆𐌹𐌳𐍅𐍉𐍂` <fidwōr> ###
+----> Crimean Gothic `fyder` ###
+---> North Germanic
+----> Old Norse `fjórir`
+-----> Danish
+-----> Icelandic
+---> West Germanic <*feuwar>
+----> Old English `fēower`
+-----> English `four`
+-----> Scots `fower`
+----> Frankish <*fiuwar>
+-----> Dutch `vier`
+----> Old High German `fior`
+-----> German `vier`
+-----> Yiddish `פֿיר` <fir>
+---> Germanic <*fedwōr tigwiz>: "four decades, forty"
+----> North Germanic
+-----> Old Norse `fjórutigi`
+------> Danish `fyrre(tyve)`
+------> Icelandic `fjörutíu`
+----> West Germanic
+-----> Old English `fēowertiġ`
+------> English `forty`
+-----> Frankish <*fiurtig>
+------> Dutch `veertig`
+-----> Old High German `fiorzug`
+------> German `vierzig`
+------> Yiddish `פֿערציק` <fertsik>
+
+
+-> Hellenic <*kʷétwores>
+--> Classical Greek `τέσσερες` <tésseres>
+---> Greek `τέσσερις` <tésseris>
+---> English `tessera-`
+----> English `tesseract`
+
+-> Indo-Iranian <*čatwā́ras>
+--> Indo-Aryan <*ćatwā́ras>
+---> Sanskrit `𑀘𑀢𑀼𑀭𑁆` <catur>
+----> Elu
+-----> Sinhala `හතර` <hatara>
+----> Magadhi `𑀘𑀢𑁆𑀢𑀸𑀭𑁄` <cattāro>
+-----> Bengali `চার` <car>
+----> Maharashtri `𑀘𑀢𑁆𑀢𑀸𑀭𑁄` <cattāro>
+-----> Marathi `चार` <cār>
+----> Pali <catur>
+-----> Malay <catur>: "four, chess"
+----> Sauraseni `𑀘𑀢𑁆𑀢𑀸𑀭𑁄` <cattāro>
+-----> Madhya
+------> Hindi `चार` <cār>
+-----> Pahari
+------> Nepali `चार` <cāra>
+------> Punjabi `ਚਾਰ` <chār>
+-----> Western Sauraseni
+------> Romani `śtar`
+----> Sanskrit `𑀘𑀢𑀼𑀭𑀗𑁆𑀕` <cátur-aṅga>: "four limbs, four parts, army, chess"
+-----> Pali <caturaṅga>
+------> Malay <catur>: "four, chess"
+-----> Middle Persian <čatrang>
+------> Arabic `شطرنج‎` <šaṭranj>: "chess"
+-------> English `shatranj`
+-------> Persian `شطرنج` <šatranj>
+-------> Spanish `ajedrez`: "chess" (from <aš-šaṭranj>
+-------> Swahili `sataranji`: "chess"
+------> Georgian `ჭადრაკი` <č̣adraḳi>: "chess"
+------> Mongolian `шатар` <šatar>: "chess"
+-----> Telugu `చతురంగము` <caturaṅgamu>
+--> Iranian <*čaθwā́rah>
+---> Avestan `𐬗𐬀𐬚𐬡𐬀𐬭` <caθβar>
+---> Bactrian `σοφαρο` <sofaro>
+---> Northern Iranian
+----> Scythian
+-----> Ossetian `цыппар` <cyppar>
+---> Pashto `څلور` <shalór>
+---> Western Iranian
+----> Northwestern Iranian
+-----> Balochi `چار` <cár>
+-----> Kurdish `çar`
+----> Old Persian
+-----> Persian `چهار` <čahâr>
+--> Nuristani <*čatā́ra>
+---> Ashkun `ćātā`
+---> Kamviri `što`
+
+
+-> Italic <*kʷettwōr>
+--> Oscan `𐌐𐌄𐌕𐌕𐌉𐌖𐌓` <pettiur>
+--> Umbrian `𐌐𐌄𐌕𐌖𐌓` <petur>
+--> Latin `quattuor`
+---> Central Romance
+----> Italian `quattro`
+---> Eastern Romance
+----> Romanian `patru`
+---> Insular Romance
+----> Sardinian `bator`
+---> Western Romance
+----> French `quatre`
+-----> Haitian Creole `kat`
+----> Spanish `cuatro`
+---> Latin `quadrus`: "square, four-cornered"
+
+----> Vulgar Latin <*quadrellus> (diminutive)
+-----> Central Romance
+------> Italian `quadrello`: "quarrel, quarry tile"
+------> Dalmatian `cadrial`: "brick"
+-----> Western Romance
+------> Old French `quarel`
+-------> French `carreau`: "square, quarrel (tile, windowpane, crossbow bolt)"
+-------> English `quarrel`
+------> Spanish `cuadrillo`: "# (number sign)"
+
+----> Latin `quadrāre`: "I make square"
+-----> Vulgar Latin <*quadraria>: "quarry" ("squaring-place")
+------> Western Romance
+-------> Old French `quarrière`
+--------> French `carrière`: "quarry"
+--------> English `quarry`
+
+-----> Vulgar Latin <*exquadrare>: "to make square" (lit. "to square out")
+------> Vulgar Latin <*exquadra> (deverbal)
+-------> Central Romance
+--------> Italian `squadra`: "square (tool), team, squad, crew"
+---------> French `escouade`: "squad, sqaudron"
+----------> English `squad`
+---------> Italian `squadrone`: "squadron" (augmentative)
+----------> English `squadron`
+-------> Western Romance
+--------> Old French `esquarre`
+---------> French `équerre`: "square (tool)"
+---------> English `square`
+----> Latin `quārtus`
+-----> Central Romance
+------> Italian `quarto`: "fourth"
+-------> English `quarto`
+-----> Western Romance
+------> French `quart`: "fourth, quarter"
+-------> English `quart`
+-----> Latin `quartarium`
+------> French `quartier`
+-------> English `quarter`
+-----> Latin `quaternī`
+------> Old French `quaier`
+-------> French `cahier`
+--------> English `cahier`
+-------> English `quire`
+-----> Vulgar Latin <*quartus>
+------> Vulgar Latin <*quartō>
+-------> Vulgar Latin <*exquartō>
+--------> Western Romance
+---------> French `écarter`: "to spread out, to separate, to diverge, to dismiss"
+
+
+-> Lusitanian `petranioi` ######
+
+
+-> Thracian `κετρι` <ketri> ####
+
+-> Tocharian <*śǝtwer>
+--> Arshian <śtwar>
+--> Kushean <śtwer>
+
+
+
+
+
+-> Proto-Indo-European <*kʷetwr̥-> (combining form)
+
+--> Old Armenian `քառ-` <kʿaṙ->
+---> Armenian `քառ-` <kʿaṙ->
+----> Armenian `քառուղի` <kʿaṙułi>: "crossroads, intersection" (lit. "four-way")
+
+--> Germanic <*feþur->
+---> East Germanic
+----> Gothic `𐍆𐌹𐌳𐌿𐍂-` <fidur->
+-----> Gothic `𐍆𐌹𐌳𐌿𐍂𐍆𐌰𐌻𐌸𐍃` <fidurfalþs>: "four-fold"
+---> North Germanic
+----> Old Norse `fer-`
+-----> Icelandic `fer-`
+------> Icelandic `ferfet`: "square foot"
+----> West Germanic
+-----> Old English `fiþer-`
+
+--> Hellenic
+---> Classical Greek `τετρα-` <tetra->
+----> English `tetra-`
+-----> English `tetrapod`
+----> Russian `тетра-` <tetra->
+-----> Russian `Те́трис` <Tɛ́tris>: "Tetris"
+------> English `Tetris`
+
+--> Italic 
+---> Latin `quadr(i)-`
+----> English `quadr(i)-`
+-----> English `quad`
+
+--> Phrygian `διθυρ-`
+
+
+
+--> Proto-Indo-European <*kʷetwr̥-(d)ḱomt>: "forty"
+
+---> Old Armenian `քառասուն` <kʿaṙasun>
+
+---> Balto-Slavic
+----> Lithuanian `keturiasdešimt`
+
+---> Hellenic
+----> Classical Greek `τεσσᾰρᾰ́κοντᾰ` <tessarákonta>
+-----> Greek `σαράντα` <saránta> (re-bracketed, with the `tes-` interpreted as a definite article)
+
+---> Indo-Iranian <*čatwārHćát>
+----> Indo-Aryan <*ćatwārHśát>
+-----> Sanskrit `𑀘𑀢𑁆𑀯𑀸𑀭𑀺𑀁𑀰𑀢𑁆` <catvāriṃśát>
+------> Prakrit <*catwaliśá>
+-------> Elu
+--------> Sinhala `හතළිහ` <hataḷiha>
+-------> Magadhi
+--------> Bengali `চল্লিশ` <côlliś>
+-------> Sauraseni
+--------> Madhya
+---------> Hindi `चालीस` <cālīs>
+----> Iranian <*čatwārHcát>
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `çil`
+------> Old Persian
+-------> Persian `چهل` <chehel>
+
+
+---> Italic
+----> Latin `quadrāgintā`
+-----> Central Romance
+------> Italian `quaranta`
+-------> Italian `quarantina`: "about forty, forty days"
+------> Venetian `quaranta`
+-------> Venetian `quarantena`: "about forty, forty days" #####
+--------> English `quarantine`
+-----> Latin `quadrāgēsimus`: "fortieth"
+------> Latin `quadrāgēsima`: "Lent, Christian forty day fast"
+-------> Vulgar Latin <*quarēsima>
+--------> Central Romance
+---------> Italian `Quaresima`: "Lent"
+--------> Eastern Romance
+---------> Aromanian `preasinj`: "Lent"
+--------> Insular Romance
+---------> Sardinian `caresima`: "Lent"
+--------> Western Romance
+---------> French `carême`: "Lent"
+---------> Spanish `Cuaresma`
+--------> Albanian `kreshmë`: "Lent"
+
+-------> Old Irish `Corgus`
+--------> Irish `Carghas`: "Lent"
+
+endbody
+
+
+
+startnotes
+
+
+
+## In Germanic <*fedwōr> (PreG <*petwṓr>) the irregular sound change from *kʷ- was probably influenced by the *p- in <*pénkʷe>: "five".
+
+### Note that both of the East Germanic forms preserve the medial <*d>, though it has been dropped in all North and West Germanic languages.
+
+
+
+#### Compare Thracian `κετρι` <ketri> to the Lithuanian `keturì`. Connection to Balto-Slavic is one of the strong contenders for classification of Thracian.
+
+
+##### An isolation period was imposed by the Venetian Senate on ships arriving in Ragusa during the spread of the Black Death. First recorded in 1377, the waiting period was thirty days (`trentena`). In 1448, during the Second Plague Pandemic, the waiting period was increased to forty days: the quarantine.
+
+###### 
+Lusitanian <petranioi> known from rock inscription from Lamas de Moledo (Búa, C. 1999. “Hipótesis para algunas inscripciones rupestres del Occidente peninsular').
+
+
+endnotes

@@ -1,0 +1,95 @@
+date: 20200326
+theme:  🦠
+
+startintro
+
+Celtic, Greek, and Latin each have words for "island" that involve /n/ and /s/ and cannot be completely explained. One possibility is that they are all borrowings from the same non-Indo-European source.
+
+Even if those three are all connected, it would still be beyond credibility for Malayo-Polynesian <*nusa>: "island" to be related. ... Right?
+
+endintro
+
+startbody
+
+
+Unknown substrate <*?n?s?>
+
+?> Celtic <*enistī>: "island" #
+--> Brythonic <*ɨnɨs>: "island"
+---> Welsh `ynys`: "island"
+--> Old Irish `inis`
+---> Irish `inis`: "island"
+----> Irish `leithinis`: "peninsula" ("semi-island")
+
+
+?> Ancient Greek `νῆσος` <nêsos>: "island" ##
+--> Greek `νησί` <nisí>: "island"
+--> Ancient Greek `χερσόνησος` <khersónēsos>: "peninsula" ("dry land island")
+--> Ancient Greek `Πελοπόννησος` <Pelopónnēsos>: "Peloponnese" ("island of Pelops")
+---> English `Peloponnese`
+--> Coptic `ⲛⲏⲥⲟⲥ` <nēsos>: "island"
+--> English `-nesia`
+---> English `Indonesia`
+---> English `Melanesia`
+---> English `Micronesia`
+---> English `Polynesia`
+
+
+
+?> Latin `īnsula`: "island, tenement, apartment building" ###
+--> Sardinian `isula`: "island"
+--> Western Romance
+---> Old French `isle`: "island"
+----> French `île`: "island"
+-----> Haitian Creole `zile`
+----> English `isle` ####
+---> Italian `isola`: "island"
+---> Spanish `isla`: "island"
+--> Albanian `ishull`: "island"
+--> Middle High German
+---> German `Insel`: "island"
+----> German `inselbegabt`: "savant" (lit. "island-gifted", i.e. "isolated gift")
+----> German `Inselaffe`: "British person (derogatory): (lit. "island-monkey")
+---> Yiddish `אינדזל` <indzl>: "island"
+
+--> Latin `īnsulāris`: "like an island, like things on an island"
+---> English `insular`
+
+--> Latin `īnsulō`: "I make into an island"
+---> Western Romance
+----> Italian `isolare`: "to isolate, to confine, to insulate, to soundproof"
+----> Spanish <*islar>
+-----> Spanish `aislar`: "to isolate, to separate, to quarantine" ("to at-island")
+------> Spanish `aislarse`: "to self isolate" (reflexive form)
+
+---> Latin `īnsulātus`: "made into an island"
+----> Western Romance
+-----> Italian `isolato`: "isolated, cut off, lonely, insulated"
+------> English `isolated`
+-------> English `isolate`
+------> French `isolé`
+-------> French `isoler`: "to isolate, to insulate"
+-------> French `isolation`: "isolation, insulation"
+--------> English `isolation`
+----> English `insulate`
+-----> English `insulation`
+
+
+--> Latin `paenīnsula`: "peninsula" ("almost-island")
+---> English `peninsula`
+
+
+
+endbody
+
+startnotes
+
+# Matasovic tentatively suggests Celtic <*enistī> could be derived from  <*(h₁)eni-sth₂-ih₂>: "that which stands in (the water)".
+
+## Other possible origins for Ancient Greek `νῆσος` <nêsos> include `νήχω`: "I swim" (PIE <*(s)neh₂- >: "to flow, to swim") or from <*néh₂s>: "nose", similar to Germanic <*nasją>: "headland, promontory" from "nose".
+
+### For Latin `īnsula`: "island", Pokorny suggested "(terra) in salō": "(land) in the salty". de Vaan also considers <*en-sol-h₂>: "the ground in??", but he is not happy with either his idea or Pokorny's.
+
+#### Anglo-Norman `isle` is the source of the imaginary 's' in `island`. `Island` is not actually related, being from Old English `īeġland`, from Germanic <*awjōlandą>, see https://www.aidanem.com/word-family-aqua.html. But someone thought it was at some point, and added the 's' from `isle` into `island`.
+
+endnotes

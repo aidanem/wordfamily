@@ -1,0 +1,176 @@
+date: 20180223
+theme: Weather ⛈️
+
+
+startbody
+
+Proto-Indo-European <*sneygʷʰ->: "to snow"
+
+-> Proto-Indo-European <*snigʷʰ(e)ti>: "(it) snows" (imperfective) #
+
+--> Balto-Slavic <*snigtei>
+---> East Baltic
+----> Lithuanian `snigti`: "to snow"
+
+--?> Finnic <*niɣatta>: "to snow?" ####
+----> Finnic <*niɣatos>: "snow drift" (action result noun)
+-----> Finnish `nietos`: "snow drift"
+
+--> Hellenic
+---> Classical Greek `νίφω` <níphō>: "to snow, to rain"
+
+
+-> Proto-Indo-European <*snéygʷʰeti>: "(it) snows" (imperfective) #
+
+--> Pre-Germanic
+---> Germanic <*snīwaną>: "to snow"
+----> North Germanic
+-----> Old Norse `snjófa`
+------> Icelandic `snjóa`: "to snow"
+----> West Germanic
+-----> Old English `snīwan`: "to snow"
+------> English `snew`
+-----> Old High German `snīwan`
+------> German `schneien`: "to snow"
+
+--?> Finnic <*niɣatta->
+
+
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan `𐬯𐬥𐬀𐬉𐬲𐬀𐬌𐬙𐬌` <snaēžaiti>: "(it) snows"
+
+
+-> Proto-Indo-European <*sninégʷʰti>: "(it) snows" (imperfective) #
+
+--> Italic
+---> Latin `ning(u)it`: "it snows"
+----> Eastern Romance
+-----> Romanian `a ninge`: "to snow"
+-----> Western Romance
+------> Italian `nigne`: "to snow" (dialectic)
+
+
+-> Proto-Indo-European <*snigʷʰyéti>: "(it) snows" (imperfective) #
+
+--> Celtic <*snigʷyeti>: "to snow"
+---> Brythonic
+----> Welsh `nyfio`: "to snow" ##
+---> Old Irish `snigid`: "to drip, to drop, to flow"
+----> Irish `snigh`: "to pour down, to flow"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀲𑁆𑀦𑀺𑀳𑁆𑀬𑀢𑀺` <snihyati>: "to be adhesive, to stick, to remain" ###
+
+
+-> Proto-Indo-European <*snígʷʰs>: "snow" (noun)
+
+--> Celtic
+---> Old Irish `snechtae`: "snow"
+----> Irish `sneachta`: "snow"
+---> Brythonic
+----> Welsh `nyf`: "snow" ##
+
+--> Hellenic
+---> Classical Greek `νίφα` <nípha>: "snow"
+
+--> Italic <*sniks>
+---> Latin `nix`: "snow, white hair" (stem: `niv-`)
+----> Central Romance
+-----> Italian `neve`: "snow"
+----> Eastern Romance
+-----> Romanian `nea`: "snow"
+----> Insular Romance
+-----> Sardinian `nii`
+----> Western Romance
+-----> Old French `noif`: "snow"
+-----> Spanish `nieve`: "snow, ice cream"
+----> Vulgar Latin <*nivō>: "I snow"
+-----> Sardinian `niai`: "to snow"
+-----> Western Romance
+------> Spanish `nevar`: "to snow"
+-----> Western Romance <*nivicāre>: "to snow"
+------> French `neiger`: "to snow"
+-------> French `neige`: "snow"
+------> Italian `nevicare`: "to snow"
+----> Latin `nivātus`: "snowy, snowed on"
+-----> Western Romance
+------> Spanish `nevada`: "snowy, snowstorm"
+-------> Spanish `Sierra Nevada`: "place name: Snowy Mountain Range"
+--------> English `Sierra Nevada`
+---------> English `Nevada`
+
+--> Tocharian
+---> Kushean <*śiñce>
+----> Kushean <śiñcatstse>: "snowy"
+
+
+-> Proto-Indo-European <*snóygʷʰos>: "snow" (noun)
+
+--> Balto-Slavic <*snaigas>
+---> East Baltic
+----> Lithuanian `sniẽgas`: "snow"
+---> Slavic <*sně̑gъ>: "snow"
+----> East Slavic
+-----> Russian `снег` <sneg>: "snow"
+------> Russian `Снегу́рочка` <Snegúročka>: "Snow Maiden" (Aarne-Thompson #703)
+-------> English `Snegurochka` (Aarne-Thompson #703)
+----> South Slavic
+-----> Serbo-Croatian `сне̑ијг` <snijȇg>: "snow"
+----> West Slavic
+-----> Polish `śnieg`: "snow"
+---> West Baltic
+----> Old Prussian <snaygis>: "snow"
+
+--> Germanic <*snaiwaz>: "snow"
+---> East Germanic
+----> Gothic `𐍃𐌽𐌰𐌹𐍅𐍃` <snaiws>: "snow"
+---> North Germanic
+----> Old Norse `snær``: "snow"
+-----> Danish `sne`: "snow"
+-----> Icelandic `snjór`: "snow"
+---> West Germanic
+----> Old English `snāw`: "snow"
+-----> English `snow`
+-----> Scots `snaw`: "snow"
+----> Old High German `snēo`: "snow"
+-----> German `Schnee`: "snow"
+-----> Yiddish `שניי` <shney>: "snow"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀲𑁆𑀦𑁂𑀳` <sneha>: "oil, grease, viscidity, smoothness, tenderness, fondness, moisture, bodily fluid" ###
+-----> Gandhari Prakrit <siṇeha>: "snow" ###
+-----> Pali
+------> Thai `เสน่ห์` <sà-nèe>: "charm, enchantment, fascination" ###
+-----> Telugu `స్నేహము` <snēhamu>: "friendship" ###
+
+
+
+endbody
+
+
+startnotes
+
+# There seems to be quite a lot of divergence in late Proto-Indo-European dialects as to how form the imperfective (or, in older but less accurate terminology, "present") form of this verb; four different imperfective forms are reconstructed from different daughter languages:
+
+A) Simple thematic imperfective (<*snigʷʰe-ti>),
+B) "Narten"-style thematic imperfective (<*snéygʷʰe-ti>),
+C) A nasal infix imperfective (<*sninégʷʰ-ti>). This is morphology for forming an imperfective verb from a root with an inherent perfective aspect, you wouldn't normally expect to see that on the same root as simple imperfectives, which assume a root with an inherent imperfective aspect, and
+D) A yé-imperfective (<*snigʷʰyé-ti>), which forms intransitive and/or middle-voice imperfectives. Middle voice is when a subject cannot be simply categorized as either agent or patient, but has elements of each. This would be vaguely similar to English "it is snowing", which has referent-less placeholder subject, but an object that has elements of both patient and agent.
+
+
+
+## A `nyf`/`nyfio` are rare words in Welsh. The usual Welsh word for snow is `eira`, descended from Celtic <*argyos>: "white" (compare Welsh `arian` and Latin `argentum` both meaning "silver").
+
+So the usual way to say "it is snowing" in Welsh is `mae'n bwrw eira`: "she is throwing white"!
+
+
+### Strange, strange things happened to the word for "snow" in India.
+
+
+#### For Finnish `nietos`: "snow drift", I'm following Pystynen: https://twitter.com/jlingpystynen/status/1533068996676919296
+
+endnotes

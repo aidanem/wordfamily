@@ -1,0 +1,661 @@
+date: 20181026
+theme: Nighttime 🌃
+tags: Divinities, SI Units
+
+
+startbody
+
+
+Proto-Indo-European <*meh₁->: "to measure"
+
+
+-> Proto-Indo-European <*miméh₁ti> (reduplicate imperfective)
+
+--> Indo-Iranian <*mimáHti>
+---> Indo-Aryan
+----> Sanskrit `मिमीते` <mimīte>: "to measure, to mark off" 
+---> Iranian
+----> Avestan `𐬟𐬭𐬀𐬨𐬍𐬨𐬀𐬚𐬁`‎ <framīmaθā>: "set the limits of, assign, authorize"
+
+
+-> Proto-Indo-European <*moh₁ros>: "big, great"
+
+--> Celtic <*māros>: "big, great"
+---> Brythonic <*mọr>
+----> Welsh `mawr`: "large, big, great"
+---> Old Irish <mór>: "big, great"
+----> Irish <mór>: "big, large, great"
+---> Celtic <*Katumāros>: "Battle-Great" (personal name)
+----> Gaulish 
+-----> Latin `Catumarus`
+---> Celtic <*Lūtumāros>: "Fury-Great" (personal name)
+----> Gaulish
+-----> Latin <Lutumarus>
+----> Lepontic `𐌋𐌀𐌕𐌖𐌌𐌀𐌓𐌖𐌉` <Latumarui>
+---> Celtic <*Segomāros>: "Victory-Great" (personal name)
+----> Gaulish 
+-----> Classical Greek `Σεγομαρος` <Segomaros>
+---> Celtic <*mārāti>: "to enlarge"
+----> Old Irish <móraid>: "to make great, to glorify, to praise, to increase"
+---> Gaulish
+----> Byzantine Greek `μάραον` <máraon>: "sweet chestnut" (a large nut)
+-----> Italian `marrone`: "chestnut, chestnut tree, chestnut brown"
+------> French `marron`: "chestnut, brown"
+-------> English `maroon`
+
+
+-> Proto-Indo-European <*mēh₁rós>: "big, great"
+
+--> Balto-Slavic
+---> Slavic <*-měrъ>
+----> Slavic <*Voldiměrъ>: "Great-Power" (personal name) ######
+-----> East Slavic `Володимѣръ` <Volodiměrŭ> ######
+------> Ukrainian `Володи́мир` <Volodýmyr>
+------> Danish `Valdemar` ######
+-------> English `Valdemar`
+-----> South Slavic
+------> Old Church Slavonic `Владимѣръ` <Vladiměrŭ> ######
+-------> Old Church Slavonic <Vladimȋrъ> ######
+--------> Russian `Влади́мир` <Vladímir>
+---------> English `Vladimir`
+--------> Polish `Włodzimierz`
+
+--> Germanic <*mēraz>: "great, excellent, famous"
+---> Germanic <*mērijaną>: "to praise, to proclaim"
+----> East Germanic
+-----> Gothic `𐌼𐌴𐍂𐌾𐌰𐌽` <mērjan>: "to proclaim, to preach"
+----> North Germanic
+-----> Old Norse `mæra`
+------> Icelandic `mæra`
+----> West Germanic
+-----> Old English `mǣran`
+-----> Frankish <*māren>
+------> Dutch `maren`: "to announce, to make known"
+-------> Dutch `vermaren`: "to make famous"
+--------> Dutch `vermaard`: "renowned"
+----> Germanic <*mērijaz>: "famous"
+-----> North Germanic `ᛗᚨᚱᛁᛉ` <mariz>
+------> Old Norse `mærr`: "famous, glorious, illustrious"
+-----> West Germanic
+------> Old English `mǣre`: "famous, renowned, sterling (silver)"
+------> Frankish <*mēri>
+-------> Middle Dutch `mâre`: "famous, honored, prestigious, message, rumor"
+------> Old High German `māri`
+-------> German `Mär`: "tidings, news, story"
+--------> German `Märchen`: "fable, fairy tale"
+---> Germanic <*Mērijawīgą>: "Famous-Battle" (personal name)
+----> West Germanic
+-----> Frankish <*Mērowīg> #####
+------> Latin `Meroveus`
+-------> Latin `Merovingi`: "the descendants of Meroveus/Merovech"
+--------> French `mérovingien`: "Merovingian"
+---------> English `Merovingian`
+-----> Old High German `Mārwīg`
+---> Germanic <*Aþalamērijaz>: "Noble-Famous" (personal name)
+----> West Germanic
+-----> Old English <Æþelmǣr>
+------> English `Elmer`
+-----> Frankish `Athalmēr`
+------> Dutch `Adelmar`
+------> Old French
+-------> Norman `Adelmar`
+--------> Spanish `Edelmir`
+---> Germanic <*Raginamērijaz>: "Counsel-Famous" (personal name)
+----> East Germanic
+-----> Gothic <Ranamēr>
+------> Latin <Ranamirus>
+-------> Spanish <Ramiro>
+--------> Spanish <Ramirez> (patronymic)
+---> Germanic <*Wiljamērijaz>: "Will-Famous" (personal name)
+----> North Germanic
+-----> Old Norse `Vilmærr`
+------> Danish `Vilmar`
+----> West Germanic
+-----> Old English `Wilmǣr`
+------> English `Wilmer`
+
+---> Germanic <*mēriþō>: "fame, renown, reputation"
+----> East Germanic
+-----> Gothic `𐌼𐌴𐍂𐌹𐌸𐌰` <mēriþa>: "fame"
+----> North Germanic
+-----> Old Norse `mærð`
+------> Icelandic `mærð`: "praise, flattery"
+----> West Germanic
+-----> Old English `mǣrþo`
+
+
+-> Proto-Indo-European <*méh₁tis>: "measurement" (action noun)
+
+--> Albanian `mot`: "weather, year"
+
+--> Germanic <*mēþiz>: "measure, degree"
+---> West Germanic
+----> Old English `mǣþ`: "moderation"
+
+--> Hellenic
+---> Classical Greek `μῆτις` <mêtis>: "skill, counsel, plan, cunning
+----> Classical Greek `Μῆτις` <Mêtis>: "Metis, Divinity of Prudence" (mother of Athena)
+-----> Latin `Metis`
+------> English `Metis`
+
+--> Italic <*mētis>
+---> Latin <*mētis>
+----> Latin `mēta`: "goal post, boundary markert"
+-----> Central Romance
+------> Italian `meta`: "destination, goal, boundary marker"
+-----> Western Romance
+------> Spanish `meta`: "goal, target"
+----> Latin `mētior`: "I measure, I estimate, I traverse, I distribute"
+
+-----> Latin `mēnsus`: "measured, estimated, distributed"
+------> Latin `mēnsūra`: "measuring, standard for measure, amount"
+-------> Central Romance
+--------> Italian `misura`: "measure, measurement, size, moderation"
+-------> Eastern Romance
+--------> Romanian `măsură`: "measure"
+-------> Western Romance
+--------> French `mesure`: "measure, measurement"
+---------> English `measure`
+---------> Irish `miosúr`: "measure, tape measure"
+--------> Spanish `mesura`: "moderation, mesuring glass"
+-------> Old Irish `mesar`: "measure, measuring vessel"
+--------> Irish `measair`: "measure"
+-------> Vulgar Latin `mēnsūrō`: "I measure, I estimate"
+--------> Central Romance
+---------> Italian `misurare`: "to measure, to gauge, to survey, to estimate, to appraise, to try on"
+--------> Eastern Romance
+---------> Romanian `a măsura`: "to measure, to estimate, to judge, to calculate"
+--------> Western Romance
+---------> French `mesurer`: "to measure"
+---------> Spanish `mesurar`: "to temper"
+------> Latin `immēnsus`: "immeasurable, boundless, immense"
+-------> Central Romance
+--------> Italian `immenso`
+-------> Western Romance
+--------> French `immense`
+---------> English `immense`
+--------> Spanish `inmenso`
+
+
+
+-> Proto-Indo-European <*meh₁lom>: "measurement, time"
+
+--> Germanic <*mēlą>: "measurement, time, occasion, meal time"
+---> East Germanic
+----> Gothic `𐌼𐌴𐌻` <mēl>: "a point in time, hour"
+---> North Germanic
+----> Old Norse `mál`: "measurement, size, time, mealtime, meal"
+-----> Danish `mål`: "goal, measuring cup"
+-----> Icelandic `mál`: "measurement, size, time, mealtime, meal"
+---> West Germanic
+----> Old English `mǣl`: "measure, time, occasion, season, mealtime, meal"
+-----> English `meal`
+----> Frankish <*māl>
+-----> Dutch `maal`: "meal, time, turn, occurrence"
+----> Old High German `māl`
+-----> German `Mahl`: "meal" (archaic)
+------> German `Mahlzeit`: "mealtime, meal"
+-----> Yiddish `מאָל` <mol>: "time, instance, times (multiplied by)"
+
+
+--> Proto-Indo-European <*sm̥-meh₁lom>: "one-time"
+---> Italic
+----> Latin `semel`: "once, a single time"
+-----> English `semel-`
+
+
+-> Proto-Indo-European <*méh₁trom> (instrument noun)
+
+--> Hellenic
+---> Classical Greek `μέτρον` <métron>: "something used to measure, rule, weight, length, breadth, meter (poetic)"
+----> Greek `μέτρο` <métro>: "measure, meter (length), meter (poetry), moderation"
+----> Latin `metrum`: "a measure, meter (poetic)"
+-----> Central Romance
+------> Italian `metro`: "meter (length), ruler, criterion"
+-----> Western Romance
+------> French `mètre` (length)
+-------> English `meter` (length)
+------> Spanish `metro`: "meter (length), ruler, measuring tape"
+-----> Old English
+------> English `meter` (poetic)
+----> Classical Greek `μετρικός` <metrikós>
+-----> Latin `metricus`
+------> Central Romance
+-------> Italian `metrica`: "meter (poetic)"
+------> Western Romance
+-------> French `metrique`: "metric, metrical, meter (poetic)"
+-------> Spanish `métrica`: "meter (poetic)"
+
+
+?> Proto-Indo-European <*mḗh₁n̥s>: "moon, month" (the moon measures time)
+
+--> Proto-Albanian <*māsnja> (metathesis)
+---> Albanian `muaj`: "month"
+
+--> Old Armenian `ամիս` <amis>: "month"
+---> Armenian `ամիս` <amis>: "month"
+
+--> Balto-Slavic <*meˀn(e)s->
+---> East Baltic
+----> Lithuanian `mė́nuo`: "month, moon"
+---> Balto-Slavic <*meˀns(e)nko->
+----> Slavic <*mě̀sę̄cь>: "moon, month"
+-----> East Slavic
+------> Russian `ме́сяц` <mésjac>: "month, moon"
+-----> South Slavic
+------> Old Church Slavonic `мѣсѧць` <měsęcĭ>: "moon, month"
+------> Serbo-Croatian `ме̏се̄ц` <mȅsēc>: "moon, month"
+-----> West Slavic
+------> Polish `miesiąc`: "month"
+----> West Baltic
+-----> Old Prussian `menig`
+
+--> Celtic <*mīns>
+---> Brythonic <*mis>
+----> Welsh `mis`: "month"
+---> Old Irish `mí`: "month"
+----> Irish `mí`: "month"
+-----> Irish `Mí na Nollag`: "December" ("Month of Christmass/Noël")
+
+--> Germanic <*mēnô>: "moon"
+---> East Germanic
+----> Gothic `𐌼𐌴𐌽𐌰` <mēna>: "moon"
+---> North Germanic <*mānō>
+----> Old Norse `máni`: "the moon"
+-----> Danish `måne`: "moon, bald spot"
+-----> Icelandic `máni`: "the moon (archaic)" (replaced by `tungl`)
+----> Samic <*mānō>
+-----> Northern Sami `mánnu`: "moon"
+------> Northern Sami `-mánnu`: "-month" (used in names of all 12 months)
+------> Northern Sami `mánotbadji`: "month" ("moon sojourn, time moon takes")
+---> West Germanic
+----> Old English `mōna`: "moon"
+-----> English `moon`
+-----> Scots `muin`: "moon, month"
+----> Frankish <*māno>
+-----> Dutch `maan`: "moon"
+----> Old High German `māno`: "moon"
+-----> German `Mond`: "moon, lunar month"
+---> West Germanic <*mēniniz dagaz>: "Monday"  ##
+----> West Germanic
+-----> Old English `mōnandæg`: "Monday"
+------> English `Monday`
+------> Scots `Monanday`: "Monday"
+-----> Frankish <*mānendag>
+------> Dutch `maandag`: "Monday"
+-----> Old High German `mānitag`: "Monday"
+------> German `Montag`: "Monday"
+------> Yiddish `מאָנטיק` <montik>: "Monday"
+----> Old Norse `mánadagr`: "Monday" ##
+-----> Danish `mandag`: "Monday"
+-----> Icelandic `mánudagur`: "Monday"
+-----> Finnish `maanantai`: "Monday"
+-----> Northern Sami `mánnodat`: "Monday"
+---> Germanic <*mēnōþs>: "month"
+----> East Germanic
+-----> Gothic `𐌼𐌴𐌽𐍉𐌸𐍃` <mēnōþs>: "month"
+----> North Germanic
+-----> Old Norse `mánaðr`: "month"
+------> Danish `måned`: "month"
+------> Icelandic `mánuður`: "month"
+----> West Germanic
+-----> Old English `mōnaþ`: "month"
+------> English `month`
+------> Scots `moneth`: "month"
+-----> Frankish <*mānoth>
+------> Dutch `maand`: "month"
+-----> Old High German `mānōd`: "month"
+------> German `Monat`: "month"
+------> Yiddish `מאָנאַט‎` <monat>: "month"
+
+--> Hellenic <*mḗns>
+---> Classical Greek `μείς` <meís>: "month, visible part of the moon"
+----> Greek `μήνας` <mínas>: "month"
+---> Classical Greek `μήνη` <mḗnē>: "moon"
+----> Classical Greek `μηνίσκος` <mēnískos>: "crescent"
+-----> Greek `μηνίσκος` <minískos>: "crescent, meniscus"
+-----> English `meniscus`
+----> Classical Greek `Ἀλκμήνη` <Alkmḗnē>: "Strength-of-Moon" (personal name)
+-----> Latin `Alcmēnē`: "Alcmene"
+------> English `Alcmene`
+---?> Classical Greek `Μενέλᾱος` <Menélāos> ###
+-----> Latin `Menelāus`
+------> English `Menelaus`
+
+--> Italic <*mēns->
+---> Latin `mēnsis`: "month"
+----> Sardinian `mese`: "month"
+----> Central Romance
+-----> Italian `mese`: "month"
+----> Western Romance
+-----> French `mois`: "month"
+-----> Spanish `mes`: "month"
+----> Latin `mēnstruus`
+-----> Latin `mēnstruālis`: "monthly, every month"
+------> Western Romance
+-------> French `menstruel`: "menstrual"
+--------> English `menstrual`
+-------> Spanish `menstrual`: "menstrual"
+----> Latin `trimestris`: "three month period"
+-----> Central Romance
+------> Italian `trimestre`: "quarter (year), three-month period, term, trimester, quarterly payment"
+-----> Eastern Romance
+------> Romanian `trimestru`
+-----> Western Romance
+------> French `trimestre`: "quarter (year), term, trimester"
+-------> English `trimester`
+------> Spanish `trimestre`: "trimester"
+----> New Latin `sēmestris`: "six month period"
+-----> German `Semester`: "semester"
+------> English `semester`
+---> Umbrian `𐌌𐌄𐌍𐌆𐌍𐌄` <menzne>: "month"
+
+--> Indo-Iranian <*mā́Has>: "moon, month"
+---> Indo-Aryan <*mā́Has>
+----> Sanskrit `मास्` <mā́s>: "moon, month"
+---> Iranian <*mā́Hah>
+----> Avestan <måŋh>: "month, moon"
+----> Northern Iranian
+-----> Scythian
+------> Ossetian `мæй` <mæj>: "moon, month"
+-----> Pashto `مياشت‎` <myāšt>: "month"
+----> Western Iranian
+-----> Kurdish `meh`: "month"
+-----> Old Persian `𐎶𐎠𐏃` <māha>: "month, moon"
+------> Persian `ماه‎` <mâh>: "moon, month, lovely"
+-------> Hindi `माह` <māh>: "month"
+----> Iranian <*mā́Hhtáwbah>: "moonlight"
+-----> Northern Iranian
+------> Sogdian <mahtob>: "moon"
+-----> Western Iranian
+------> Old Persian
+-------> Persian `مهتاب` <mahtâb>: "moonlight"
+---> Indo-Iranian <*mā́Hasas>: "of the moon" (gen.)
+----> Indo-Aryan
+-----> Sanskrit `मास` <mā́sa>: "moon, month"
+------> Magadhi
+-------> Bengali `মাস` <mas>: "month"
+------> Sauraseni `𑀫𑀸𑀲` <māsa>
+-------> Madhya
+--------> Hindi `मास` <mās>: "month"
+-------> Pali <māsa>: "month"
+------> Telugu `మాసము` <māsamu>: "month"
+------> Sanskrit <?>
+-------> Maharashtri
+--------> Marathi ` महिना` <mahinā>: "month" ####
+-------> Sauraseni
+--------> Madhya
+---------> Hindi `महीना` <mahīnā>: "month" ####
+--------> Pahari
+---------> Punjabi `ਮਹੀਨਾ` <mahīnā>: "month" ####
+----> Nuristani <*mā́sa>: "moon"
+-----> Kamviri <mōs>: "moon"
+
+--> Tocharian
+---> Arshian <mañ>: "moon, month"
+---> Kushean <meñe>: "moon, month"
+
+
+?> Proto-Indo-European <*meh₁d->: "to measure, to consider, to give advice, to heal"
+
+--> Proto-Indo-European <*mḗh₁d-eti> (primary verb)
+
+---> Proto-Albanian <*matśi>
+----> Albanian `mas`: "to measure"
+
+---> Celtic <*medeti>: "to measure, to judge"
+----> Brythonic <*mėðɨd>: "to measure, to judge"
+-----> Middle Welsh `meddu`
+----> Old Irish `midithir`: "to weight, to judge, to estimate"
+
+---> Germanic <*metaną>: "to measure"
+----> North Germanic
+-----> Old Norse `meta`
+------> Icelandic `meta`: "to measure, to assess, to esteem"
+----> West Germanic
+-----> Old English `metan`: "to measure"
+------> English `mete (out)`
+-----> Frankish <*metan>
+------> Dutch `meten`: "to measure"
+-----> Old High German `mezzan`
+------> German `messen`: "to measure, to complete"
+
+---> Hellenic
+----> Classical Greek `μέδω` <médō>: "to protect, to rule over"
+-----> Classical Greek `μέδων` <médōn>: "ruler, councillor"
+-----> Classical Greek `Μέδουσᾰ` <Médousa>: "She Rules"
+------> Latin `Medusa`
+-------> English `Medusa`
+----> Classical Greek `μέδομαι` <médomai>: "to provide for, to think of, to be mindful of"
+
+
+--> Proto-Indo-European <*meh₁deh₁(ye)-ti> (stative)
+
+---> Italic <*medēōr>
+----> Latin `medeor`
+-----> Latin `medicus`
+------> Central Romance
+-------> Italian `medico`: "doctor"
+--------> Italian `Medici`: "Doctor (occupational surname)"
+---------> English `Medici`
+------> English `medic`
+------> Brythonic <*meðïg>
+-------> Welsh `meddyg`
+--------> Welsh `meddyglyn`: "metheglin" (lit. "medicinal liquor")
+---------> English `metheglin`
+------> Latin `medicīnus`: "medical"
+-------> Latin `medicīna`: "medicine, remedy, the practice of healing" (substantive)
+--------> Central Romance
+---------> Italian `medicina`: "medicine"
+--------> Western Romance
+---------> Old French
+----------> French `médecine`: "medicine (field of study)"
+----------> English `medicine`
+---------> Spanish `medicina`: "medicine"
+------> Medieval Latin `medicālis`
+-------> French
+--------> English `medical`
+------> Latin `meditor`: "I consider, I contemplate, I plan, I practive, I meditate" (frequentive)
+-------> English `meditate`
+-------> French `méditer`
+-------> Spanish `meditar`
+------> Latin `remedium`: "remedy, cure, medicine, aid, assistance"
+-------> Central Romance
+--------> Italian `rimedio`: "remedy, cure, medicine"
+-------> Eastern Romance
+--------> Romanian `remediu`: "remedy"
+-------> Western Romance
+--------> French `remède`: "remedy"
+---------> English `remedy`
+--------> Spanish `remedio`: "remedy, solution, medicine, amendment"
+-------> Latin `remedialis`
+--------> English `remedial`
+
+
+--> Proto-Indo-European <*mēh₁dyé-ti> (ye imperfective)
+
+---> Tocharian <*mei->: "to think"
+----> Tocharian <*meim>
+-----> Arshian <mem>: "thought, thinking"
+-----> Kushean <maim>: "thought, thinking"
+
+
+--> Proto-Indo-European <*méh₁dtus>
+
+---> Celtic <*messus>
+----> Old Irish `mess`: "judgement"
+
+
+--> Proto-Indo-European <*mḗh₁dos>
+
+---> Old Armenian `միտ` <mit>: "mind, intellect, understanding, reason, intent, advice"
+----> Armenian `միտք` <mitkʿ>: "brains, intellect, idea, intention"
+
+---> Hellenic
+----> Classical Greek `μήδεα` <mḗdea>: "plan, art, prudence, counsel"
+-----> Classical Greek `μήδομαι` <mḗdomai>: "to deliberate, to advise, to estimate"
+-----> Classical Greek `Μήδεια` <Mḗdeia>
+------> Greek `Μήδεια` <Mídeia>
+------> Latin `Medea`
+-------> English `Medea`
+-----> Classical Greek `Ἀρχιμήδης` <Arkhimḗdēs>
+------> Greek `Αρχιμήδης` <Archimídis>
+------> Latin `Archimēdēs`
+-------> English `Archimedes`
+-----> Classical Greek `Γανυμήδης` <Ganumḗdēs>
+------> Greek `Γανυμήδης` <Ganymídis>
+------> Etruscan `𐌂𐌀𐌕𐌌𐌉𐌕𐌄` <catmite>
+-------> Latin `catamitus`
+--------> English `catamite`
+------> Latin `Ganymede`
+-------> English `Ganymede`
+
+
+--> Proto-Indo-European <*moh₁dós>
+
+---> Italic <*modos>
+----> Latin `modus`: "measure, limit, manner, mode, (grammatical) mood"
+-----> Central Romance
+------> Italian `modo`: "manner, way, style, (grammatical) mood"
+-----> Western Romance
+------> Old French
+-------> French `mode`: "fashion, trend, means, mode, (grammatical) mood"
+--------> English `à la mode`
+--------> Vietnamese `mốt`: "fashion, trend"
+-------> English `mode`
+--------> English `(grammatical) mood`
+------> Spanish `modo`: "way, (grammatical) mood"
+-----> Latin `modo`: "just, only, just now, presently"
+------> Central Romance
+-------> Italian `mo'`: "now" (regional)
+--------> Italian `a mo' di`: "like, as, by way of"
+------> Western Romance
+------> Latin `quōmodo`: "how" (lit. "what mode")
+-------> Vulgar Latin <*quōmo>: "how, like, as"
+--------> Central Romance
+---------> Italian `come`: "how, as, such as, as soon as"
+--------> Eastern Romance
+---------> Romanian `cum`: "how, as, because"
+--------> Western Romance
+---------> French `comme`: "like, as, how, because"
+----------> French `comment`: "how"
+---------> Spanish `como`: "as, how, since"
+------> Medieval Latin `Quasimodo`: "the Sunday one week before Easter" #
+-----> Latin `modicus`: "moderate, restrained, reasonable"
+------> Central Romance
+-------> Italian `modico`: "low, modest, reasonable"
+------> Western Romance
+-------> French `modique`: "low, modest, limited"
+-------> Spanish `módico`: "moderate, modest, limited, scarce"
+------> Latin `modicum`: "a little, a small amount"
+-------> English `modicum`
+-----> Latin `modificō`: "I limit, I control, I regulate"
+------> Central Romance
+-------> Italian `modificare`: "to change, to modify"
+------> Western Romance
+-------> French `modifier`: "to change, to modify"
+--------> English `modify`
+-------> Spanish `modificar`: "to modify"
+-----> Latin `moderor`: "I limit, I moderate, I restrain, I manage, I control"
+------> Central Romance
+-------> Italian `moderare`: "to moderate"
+------> Western Romance
+-------> French `modérer`: "to moderate, to lessen, to weaken"
+-------> Spanish `moderar`: "to moderate"
+------> Latin `moderātus`: "moderated, controlled"
+-------> English `moderate`
+-----> Latin `modestus`: "moderate, calm, discreet, modest"
+------> Central Romance
+-------> Italian `modesto`: "modest, small"
+------> Western Romance
+-------> French `modeste`: "modest"
+--------> English `modest`
+-------> Spanish `modesto`: "modest"
+-----> Latin `modulus`: "a small measure, a small piece, a water meter, rhythm or time signature (music)"
+------> Western Romance
+-------> Old French `modle`
+--------> French `moule`: "mold, matrix, cake pan"
+--------> English `mold`
+------> English `modulus`
+------> French `module`
+-------> English `module`
+------> Latin `modulor`: "I measure, I regulate, I beat time, I modulate"
+-------> Central Romance
+--------> Italian `modulare`: "to modulate"
+-------> Western Romance
+--------> French `moduler`: "to modulate"
+--------> Spanish `modular`: "to modulate"
+-------> English `modulate`
+--------> English `modem` (clipping of "modulator-demodulator")
+-----> Latin `commodus`: "convenient, suitable, pleasant, timely"
+------> Central Romance
+-------> Italian `comodo`: "convenient, comfortable"
+------> Western Romance
+-------> French `commode`: "convenient"
+--------> English `commode`
+--------> English `comodo`
+-------> Spanish `cómodo`: "comfortable, convenient, lazy"
+------> English `commodious`
+------> Latin `commodō`: "I make convenient, I adapt, I bestow, I lend, I hire"
+-------> Latin `accommodō`: "I adapt, I prepare (for use), I adjust, I accommodate, I support"
+--------> Central Romance
+---------> Italian `accomodare`: "to repair, to arrange, to accommodate, to be suitable"
+--------> Western Romance
+---------> French `accommoder`: "to accommodate"
+---------> Spanish `acomodar`: "to accommodate, to usher, to settle, to be suitable"
+--------> English `accommodate`
+
+--> Proto-Indo-European <*méh₁dō>
+
+---> Germanic <*mētō>: "measure, size"
+----> West Germanic
+-----> Frankish <*māta>
+------> Dutch `maat`: "measure, size, rhythm"
+-----> Old High German `māza` [matsa]
+------> German `Maß` [mās]: "size, extent, measure" (note, unrelated to `Masse`: "mass" from Latin and Greek)
+------> Yiddish `מאָס` <mos>: "measure"
+
+
+
+
+--> Proto-Indo-European <?>
+---> Indo-Iranian
+----> Iranian
+-----> Avestan <vīmad>: "physician"
+
+
+endbody
+
+
+startnotes
+
+
+##### The Frankish king <*Mērowīg>'s name (when not Latinised as `Meroveus`) is spelled as "Merovech" in the Latin alphabet. This makes sense given on the one hand the Latin V/U/W conflation, and on the other hand likely final-obstruent devoicing in Frankish turning /g/ into [k] or [x]. Final-obstruent devoicing, which now occurs throughout continental West Germanic, probably originates in Frankish: it is first attested in Old Dutch, but Old French also shows signs of final-obstruent devoicing in its Frankish influenced vocabulary.
+
+###### The 12th century Danish King, Valdemar I, was named after his maternal great-grandfather, Volodimer II Monomakh, Prince of Kiev (Old East Slavic/Ukrainian)
+
+Volodimer II Monomakh was in turn the great-grandson of Volodiměrъ I, called (Saint) Vladimir the Great in English and `Владимѣръ` <Vladiměrŭ> in Old Church Slavonic. In later Old Church Slavonic, the second morpheme in Saint Vladimir's name was modified by folk etymology to <*mȋrъ>: "peace, world" instead of <*měrъ>: "famous, great".
+
+Side note, on his father's side, Valdemar I was the great-grandson of Sweyn II of Denmark, who was born in England, while his uncle Cnut the Great was king of both Denmark and England (and later also Norway, forming the "North Sea Empire"). Sweyn II was the great-grandson of Harald Bluetooth, the eponym of the wireless data exchange standard.
+
+It's also possible that the name was Germanic to begin with (Old Norse Valdemarr, of the same meaning) and adapted to Slavic instead of the other way around. Volodiměrъ I is a member of the Rurikid dynasty and while his father Sviatoslav had a Slavic-origin name, his grandfather Igor (Ingvar) and great-grandfather Rurik (Hrǿríkʀ/Roderick) had Germanic-origin names. The Germanic name Valdemar (<*Waldąmēra>) would be a perfectly expected name, but it is not attested in Germanic before the Valdemar I. (I also can't think of any other Germanic names that use <*waldą> as a first element rather than a second element, but many elements can be used in either position.)
+
+
+## West Germanic <*mēniniz dagaz>, literally "Moon's day" is a calque of Latin `dīes Lūnae`: "day of the Moon", which in turn is a calque of Classical Greek `hēmérā Selḗnēs`. Old Norse is suggested to have calqued `mánadagr` in turn from one of the West Germanic languages, rather than getting it directly form Latin, or inheriting it from Common Germanic.
+
+I had to cut off this note at this point, because it was threatened to turn into a full essay on weekday names. I'll complete that later.
+
+
+
+### Formally, the first morpheme in "Menelaus" is `μένος`: "power, rage", or possibly `μένω`: "I stand fast, I abide, I wait for". But with the precedent of the archaic name "Alkmḗnē", and given that there a quite a number of good reasons to speculate that Helen (Menelaus's wife) is a reflex of the Proto-Indo-European Sun Goddess, Hausos, I have to wonder if "Menélaos": "People's-Rage" might be an eggcorn of an archaic "Ménelaos": "Moon-Warrior".
+
+Compare also, "the lofty halls of famous Menelaus shone like the dazzling light of sun or moon." From Book 4 of the Odyssey (Wilson 2017 translation).
+
+
+#### The resemblance between Hindi or Punjabi <mahīnā> meaning "month" and Hawai'ian or Tongan `mahina` meaning "moon, month" is entirely coincidental. The second is the expected descendant of Proto-Polynesian <*masina>: "moon", which is a descendent of Proto-Austronesian <*siNaʀ>: "light" (<*ma-> is a common productive prefix). Cognates include Tagalog `sinag`: "sunshine" and Fijian `cina`: "torch".
+
+
+# Medieval Latin `Quasimodo`: "the Sunday one week before Easter" is after the traditional entrance antiphon for mass on this day: "Quasi modo geniti infantes..." ("As if newborn babes..."). The character named Quasimodo in Victor Hugo's novel was left at the cathedral as a foundling on this day, and so given the name of the day.
+
+
+endnotes

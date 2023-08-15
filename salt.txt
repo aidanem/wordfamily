@@ -1,0 +1,281 @@
+date: 20230519
+tags: Food
+
+
+
+startbody
+
+Proto-Indo-European <*séh₂l-s>: "salt"
+
+-> Pre-Albanian <*śālā>
+--> Albanian `gjollë`
+
+-> Old Armenian `աղ` <ał>
+
+
+-> Balto-Slavic <sāˀlis>
+--> East Baltic
+---> Latvian `sāls`: "salt"
+--> West Baltic
+---> Old Prussian `sal(i)`
+--> Slavic <*sȍlь>: "salt"
+---> East Slavic
+----> Russian `соль` <solʹ>: "salt"
+----> Ukrainian `сіль` <silʹ>: "salt"
+---> South Slavic
+----> Bulgarian `сол` <sol>: "salt"
+----> Serbo-Croatian `со(л)` <so(l)>: "salt"
+---> West Slavic
+----> Czech `sůl`: "salt"
+----> Polish `sól`: "salt"
+
+
+-> Celtic <*sālos> (probably a levelling of <*séh₂ls> and gen. <*sh₂los>)
+
+--> Brythonic
+--?> Welsh `hâl`: "salt"
+--> Gaulish
+--?> German `Hallstatt`: "Salt?-Place" (an important salt mine for at least the past 3000 years)
+----> English `Hallstatt`
+
+--> Celtic <*salēnos>: "salt"
+---> Brythonic <*haluɨn>
+----> Welsh `halen`: "salt"
+----?> Welsh `hâl`: "salt" (possibly back-formed, possibly under influence from Latin)
+
+--> Celtic <*salanos> (variant)
+---> Old Irish `salann`
+----> Irish `salann`: "salt"
+
+
+-> Hellenic <*hāls>
+--> Classical Greek `ἅλς` <hals>: "salt, brine, sea"
+---> Koine Greek `ἅλας` <halas>: "salt"
+----> Koine Greek `ἁλάτιον` <halátion> (diminutive)
+-----> Greek `αλάτι` <aláti>: "salt"
+---> Classical Greek `ἅλινος` <halinos>: "(made) of salt"
+----> English `haline`
+---> Swedish `halogen` (learned formation by Jöns Jacob Berzelius in 1842)
+----> English `halogen`
+
+
+--?> Etruscan `𐌀𐌋𐌑𐌀𐌔𐌄` <alśase>: "with (the) salt?" #
+
+
+-> Indo-Iranian <*saHls>
+--> Indo-Aryan <*saHl->
+---> Indo-Aryan <*saHlila>
+----> Sanskrit `𑀲𑀮𑀺𑀮` <salila>: "water"
+-----> Bengali `সলিল` <śolil>: "water"
+--> Iranian <*haHl->
+---> Western Iranian
+----> Persian `هلتاک` <haltâk>
+
+
+
+-> Italic <*sāls>
+--> Latin `sāl`: "salt" (accusative: `saleᵐ`)
+---> Central Romance
+----> Italian `sale`: "salt"
+---> Eastern Romance
+----> Romanian `sare`: "salt"
+---> Insular Romance
+----> Sardinian `sale`
+---> Western Romance
+----> Old French `sal`
+-----> French `sel`: "salt"
+------> French `fleur de sel`
+-------> English `fleur de sel`
+----> Spanish `sal`
+
+---> Latin `salīre`: "to salt, to sprinkle"
+----> Vulgar Latin <*salāre>
+-----> Central Romance
+------> Italian `salàre`: "to salt, to brine"
+-----> Eastern Romance
+------> Romanian `a săra`: "to salt, to brine"
+------> Albanian `shëllij`: "I salt, I brine"
+-----> Insular Romance
+------> Sardinian `salire`
+-----> Western Romance
+------> French `saler`: "to salt"
+------> Spanish `salar`: "to salt"
+
+-----> Vulgar Latin <*salāto/a>: "salted"
+------> Central Romance
+-------> Italian `salato`: "salted, expensive, salad (dialectic)"
+--------> French `salade`: "salad, greens"
+---------> Dutch `salade`: "salad, lettuce (archaic)"
+----------> Dutch `sla`: "lettuce, salad (diminutive)"
+-----------> English `slaw`
+-----------> Dutch `koolsla`: "cabbage salad, coleslaw"
+------------> English `coleslaw`
+---------> English `salad`
+---------> Persian `سالاد` <salâd>: "salad"
+---------> Russian `салат` <salat>: "salad, lettuce"
+---------> Vietnamese `xà lách`: "lettuce"
+--------> Greek `σαλάτα` <saláta>: "salad"
+--------> Italian `salatino`: "cracker"
+--------?> English `saltine`
+
+
+-----> Vulgar Latin <*salsa>: "(salted) sauce"
+------> Central Romance
+-------> Italian `salsa`: "sauce"
+--------> Greek `σάλτσα` <saltsa>: "sauce, salsa"
+---------> Turkish `salça`: "sauce"
+------> Western Romance
+-------> French `sauce`
+--------> English `sauce`
+--------> Vietnamese `xốt`: "sauce"
+
+-------> Spanish `salsa`: "sauce, gravy, salsa"
+--------> English `salsa`
+
+-----> Vulgar Latin <*insalāre>
+------> Central Romance
+-------> Italian `insalàre`: "to salt (archaic)"
+------> Eastern Romance
+-------> Aromanian `ãnsar`: "I salt"
+
+------> Vulgar Latin <*insalāta>
+-------> Central Romance
+--------> Italian `insalata`: "salad, lettuce"
+
+-----> Vulgar Latin <*salicare>
+------> Western Romance
+-------> Portuguese `salgar`: "to salt"
+
+-----> Latin `salārium`: "salary, stipend, wages, meal" ##
+------> French `salaire`
+-------> English `salary`
+------> Italian `salario`
+------> Spanish `salario`
+
+-----> Latin `salīna`: "salt pan, salt works"
+------> English `Salina`
+------> English `Salinas`
+
+---> Latin `sal petrae`: "potassium nitrate, saltpetre" ("salt of the rock")
+----> Old French `salpetre`: "saltpetre"
+-----> French `salpêtre`: "saltpetre"
+-----> English `saltpetre`
+
+---> Latin `sal nitrum`: "potassium nitrate, saltpetre"
+----> Catalan `salnitre`
+-----> Spanish `salitre`: "saltpetre, nitre"
+----> Italian `salnitro`: "saltpetre"
+
+
+--> Umbrian `𐌔𐌀𐌋𐌖` <salu>: "salt"
+
+
+-> Proto-Indo-European <*sh₂eldus>
+
+--> Balto-Slavic <*salˀdus>: "sweet"
+---> East Baltic
+----> Lithuanian `saldùs`: "sweet"
+---> Slavic <*soldъ>: "malt"
+----> East Slavic
+-----> Russian `солод` <solod>: "malt"
+----> South Slavic
+-----> Bulgarian `слад` <slad>: "malt"
+-----> Serbo-Croatian `слад` <slad>: "malt"
+----> West Slavic
+-----> Czech `slad`: "malt"
+-----> Polish `słód`: "malt"
+
+----> Slavic <*sòldъkъ>: "sweet"
+-----> East Slavic
+------> Ukrainian `солодкий` <solodkyj>: "sweet"
+-----> South Slavic
+------> Bulgarian `сладък` <sladǎk>: "sweet, cute"
+------> Serbo-Croatian `сладак` <sladak>: "sweet, cute"
+------> Russian `сладкий` <sladkij>: "sweet"
+-----> West Slavic
+------> Czech `sladký`: "sweet"
+------> Polish `słodki`: "sweet, cute"
+
+
+
+-> Proto-Indo-European <*sh₂eldóm>
+
+-?> Old Armenian `աղտ` <ałt>
+
+--> Germanic <*saltą>: "salt"
+---> East Germanic
+----> Gothic
+-----> Crimean Gothic `salt`: "salt"
+-----> Visigothic `𐍃𐌰𐌻𐍄` <salt>: "salt"
+---> North Germanic
+----> Old Norse `salt`: "salt"
+-----> Danish `salt`: "salt"
+-----> Icelandic `salt`: "salt"
+---> West Germanic
+----> Old English `sealt`
+-----> English `salt`
+-----> Scots `saut`: "salt, sarcasm"
+-----> Yola `zall`: "salt"
+----> Frankish <*salt>
+-----> Dutch `zout`: "salt"
+------> Sranan Tongo `sowtu`: "salt"
+----> Old High German `salz`
+-----> German `Salz`: "salt"
+------> German `Salzach`: "river name: Salt-Water" (salt mined in the Alps was shipped down the Salzach)
+------> German `Salzburg`: "Salt-Castle" (originally a customs checkpoint for the salt shipping on the Salzach)
+-------> English `Salzburg`
+-----> Yiddish `זאַלץ` <zalts>: "salt"
+
+---> Samic
+----> Northern Sami `sálti`: "salt"
+
+
+---> Germanic <*sultijō>: "saltwater, brine, salt marsh"
+----> North Germanic
+-----> Old Norse `sylt`
+------> Danish `sylt`: "saltmarsh"
+------?> Danish `Sild`
+------?> German `Sylt`
+--------> English `Sylt`
+-----?> English `silt`
+----> West Germanic <*sulta>: "brine, brined or pickled food"
+-----> Frankish
+------> Dutch `zult`
+-----> Old High German
+------> German `Sülze`
+
+
+
+
+-> Proto-Indo-European <*sh₂lmós>
+
+--> Pre-Albanian <*(n)-śalim->
+---> Albanian `ngjelmë`: "salty, savory"
+----> Albanian `ngjelmët`: "salty, briny"
+
+--> Hellenic
+---> Classical Greek `ἅλιμος` <hálimos>
+----> Classical Greek `ἅλιμα` <hálima>: "seaside"
+----> Classical Greek `ἅλιμον` <hálimon>: "saltbush (Atriplex halimus)"
+----> Classical Greek `Ἁλιμοῦς` <Hálimoûs>: "placename: Seaside?" (a fishing village outside Athens)
+-----> Greek `Άλιμος`
+------> English `Alimos`
+-----> Latin `Halmius`
+
+
+
+
+
+endbody
+
+startnotes
+
+# On the Pyrgi Tablets, the Etruscan phrase `𐌉𐌋𐌀𐌂𐌅𐌄·𐌀𐌋𐌑𐌀𐌔𐌄` <ilacve.alśase>, the word <alśase> has been interpreted as containing a word for "salt" connected to Greek `ἅλς` <háls>, with an Etruscan suffix <-ase>. But this reading—like so many Etruscan words—is disputed.
+
+
+## The exact reason why the Latin word `salārium`, etymologically "(thing) pertaining to salt" means "wages, salary" is unclear and much debated. It is probably not because Roman soldiers were literally paid in salt. It is more likely that "salt" stood metonymically either for miscellaneous supplies the soldiers paid for out of their wages; or else that "pertaining to salt" referred more literally to the military rations they were provided, and extended to the money they were paid as well (cf. the English use of `bread` to mean "money").
+
+
+endnotes
+
+

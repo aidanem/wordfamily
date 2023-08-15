@@ -1,0 +1,255 @@
+date: 20170526
+theme: Cloth 👘
+tags: Body Parts, Cloth, Food, Plants, Pride in Words, Star Trek
+
+
+startbody
+
+Proto-Indo-European <*terh₁->: "to rub, turn"
+
+-> Proto-Indo-European <*terh₁ti> (primary verb form)
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `trinti`: "to rub"
+---> Slavic <*tèrti>: "to rub"
+----> East Slavic
+-----> Russian `тере́ть` <terétʹ>: "to rub, to polish, to grind"
+----> South Slavic
+-----> Serbo-Croatian `тр̏ти` <tȑti>: "to rub, to scour, to scrub"
+----> West Slavic
+-----> Polish `trzeć`: "to rub"
+
+--> Germanic <*þrēanã>: "to twist, to turn"
+---> West Germanic
+----> Old English `þrāwan`: "to twist, to turn, to writhe"
+-----> English `throw`
+-----> Scots `thraw`: "to twist, to turn"
+----> Frankish <*thrāien>
+-----> Dutch `draaien`: "to turn, to play a record or cd, to host a party"
+-----> Danish `dreje`: "to turn, to twist, to dial"
+----> Old High German `drāen`: "to twist, to turn"
+-----> German `drehen`: "to turn, to roll, to veer, to record film"
+-----> Yiddish `דרייען` <dreyen>: "to turn"
+------> Yiddish `דרײדל‎` <dreydl>: "top, dreidel"
+-------> English `dreidel`
+
+--> Hellenic
+---> Classical Greek `τρῑ́βω` <trī́bō>: "I rub, I grind, I thresh, I wear away"
+----> Greek `τρίβω` <trívo>: "I grate, I chafe, I rub"
+----> Classical Greek `τριβάς` <tribás>: "lesbian"
+-----> Latin `tribas`: "lesbian"
+------> English `tribade`
+
+--> Indo-Iranian
+---> Iranian <*tarHenti>: "to rub, wipe off"
+----> North Iranian
+-----> Sogdian `ܕܣܦܪܛܪ` <dsprtr>: "hand towel, handkerchief" (dast-par-tar, "hand-full-wipe")
+------> Persian `لسپردرک` <laspardarak>: "hand towel, handkerchief"
+------?> Yiddish `לאַפּסערדאַק` <lapserdak>: "A traditional Jewish black kaftan"
+--------> English `lapserdak`
+--------> Russian `лапсерда́к` <lapserdák>: "lapserdak"
+----> West Iranian
+-----> Persian `ستردن` <setordan>: "to wipe, to clean, to shave"
+
+--> Italic
+---> Latin `terere`: "to rub, to wear away, to tread, to graze, to grind"
+----> Latin `tritus`: "rubbed, worn away, ground"
+-----> Late Latin `tritare`: "to grind or crush; to beat the chaff from the wheat"
+------> French `trier`: "to sort, pick out, calibrate"
+-------> English `triage`
+------> Italian `tritare`: "chop, mince, dice, grind or crush"
+-----> Latin `trīticum`: "a kind of wheat"
+------> Translingual `Triticum`: botanical genus name for wheat spp.
+-------> English `triticale` (Triticum x Secale)
+--------> English `quadrotriticale`
+-----> English `trite`
+----> Latin `trībulum`
+-----> English `tribulation`
+----> Latin `terebra`
+
+----> Latin `atterere`: "to rub at, to wear away at"
+-----> English `attrition`
+
+----> Latin `conterere`
+-----> English `contrite`
+
+
+
+
+-> Proto-Indo-European <*tórh₁mos>: "bored hole"
+
+--> Germanic <*þarmaz>: "intestine, gut"
+---> North Germanic
+----> Old Norse `þarmr`: "intestine, gut"
+-----> Danish `tarm`: "intestine, bowels"
+-----> Icelandic `þarmur`: "intestine, gut"
+---> West Germanic
+----> Old English `þearm`: "instestine, gut"
+-----> Scots `thairm`: "intestine used for haggis, gut used for a musical instrument"
+----> Old High German `darm`
+-----> German `Darm`: "instestine"
+
+--> Hellenic
+---> Classical Greek `τόρμος` <tórmos>: "peg, tenon"
+
+
+-> Proto-Indo-European <*tórh₁nos>
+
+--> Hellenic
+---> Classical Greek `τόρνος` <tórnos>: "a turned thing, a pair of compasses, a lathe, a circle"
+----> Latin `tornus`: "lathe, potter's wheel"
+-----> Central Romance
+------> Italian `tornio`: "lathe"
+-------> Turkish `torna`: "lathe"
+-----> Western Romance
+------> French `tour`: "lathe, potter's wheel"
+------> Spanish `torno`: "lathe, winch"
+-------> Spanish `tornillo`: "a screw"
+-----> Latin `tornāre`: "to turn, to round off, to lathe"
+------> Central Romance
+-------> Dalmatian `tornuar`: "to return"
+-------> Italian `tornare`: "to return, to do again, to turn"
+------> Eastern Romance
+-------> Romanian `a turna`: "to pour, to shape, to fashion"
+------> Insular Romance
+-------> Sardinian `torrare`: "to return, to retreat, to give back"
+------> Western Romance
+-------> Old French `torner`
+--------> French `tourner`: "to turn, to stir, to tour"
+---------> Spanish `turnar`: "to take turns, to alternate"
+--------> Middle English `turnen`
+--------> Old French `tourn`
+---------> French `tour`: "a turn, a circumference, a round (everyone taking a turn), a ride"
+----------> English `tour`
+----------> French `Tour de France`
+-----------> English `Tour de France`
+---------> Anglo-Norman `tur`
+----------> Anglo-Norman `turrete`
+-----------> English `terret`
+------> Old English `turnian`: "to turn on a lathe, to turn"
+-------> Middle English `turnen`
+--------> English `turn`
+
+----> Vulgar Latin <*tornidiare>
+-----> Western Romance
+------> Old French `tornoiier`: "to turn, to participate in a tournament"
+-------> French `tournoyer`: "to swirl, to twirl, to wheel"
+-------> Old French `tornei`
+--------> English `tourney`
+--------> Old French `tornoiement`
+---------> English `tournament`
+
+
+
+
+
+
+--> Proto-Indo-European <*terh₁ǵ->
+
+---> Proto-Indo-European <*terh₁ǵéyeti>
+
+----> Italic
+-----> Latin `tergēre`: "to rub, to wipe off, to clean, to polish, to harass"
+
+------> Latin `tersus`: "clean, neat, pure, uncluttered, terse"
+-------> English `terse`
+
+------> Latin `dētergere`: "to rub away"
+-------> English `detergent`
+
+------> Latin `extergere`: "to rub out"
+-------> Eastern Romance
+--------> Romanian `a șterge`
+
+------> Latin `manutergere`: "to rub by hand"
+-------> Latin `manutergium`
+------?> Latin `mantēle`
+
+
+
+
+-> Proto-Indo-European <*treh₁-> (metathesized root)
+
+
+
+--> Proto-Indo-European <*treh₁sḱeti> (iterative/durative)
+
+---> Germanic <*þreskaną>:  "thresh"
+----> East Germanic
+-----> Gothic `𐌸𐍂𐌹𐍃𐌺𐌰𐌽` <þriskan>
+------> Portuguese `triscar`: "to touch lightly"
+------> Spanish `triscar`: "to leap about, to stomp, to mix"
+----> North Germanic
+-----> Old Norse `þreskja`: "to thresh"
+------> Danish `tærske`: "to thresh, to thrash"
+------> Icelandic `þreskja`: "to thresh"
+----> West Germanic
+-----> Old English `þrescan`: "thresh, trample"
+------> English `thresh`
+------> English `thrash`
+------> Old English `þrescold`: "threshold"
+-------> English `threshold`
+-----> Old High German
+------> German `dreschen`: "to thresh, to thrash"
+
+
+--> Proto-Indo-European <*tréh₁tus>
+
+---> Germanic <*þrēduz>: "twisted fiber, thread"
+----> North Germanic
+-----> Old Norse `þráðr`: "thread"
+------> Danish `tråd`: "thread, wire, string, filament"
+------> Icelandic `þráður`: "string, thread"
+----> West Germanic
+-----> Old English `þrǣd`: "thread"
+------> English `thread`
+------> Scots `threed`: "thread"
+-----> Frankish <*thrāt>
+------> Dutch `draad`: "thread, wire"
+-----> Old High German `drāt`
+------> German `Draht`: "wire"
+
+--> Proto-Indo-European <*tréh₁mn̥> (noun of result, ~"a bored hole")
+
+---> Hellenic <​​*trḗmə>
+----> Classical Greek `τρῆμα` <trêma>: "hole, aperture, perforation, dots on a die"
+-----> New Latin `trema`
+------> French `tréma`: "diaresis, trema"
+-------> English `trema`
+------> New Latin `monotrema`
+-------> English `monotreme`
+
+
+--> Proto-Indo-European <*treh₁ǵ->
+
+---> Proto-Indo-European <*trh₁ǵti> (primary verb form)
+
+----> Old Armenian `արածեմ` <aracem>: "to graze, to pasture"
+-----> Armenian `արածել` <aracel>: "to graze, to pasture, to browse"
+
+----> Hellenic
+-----> Classical Greek `τρώγω` <trṓgō>: "chew, gnaw, eat"
+------> Classical Greek `τράγος` <trágos>: "male goat, lechery"
+------?> Classical Greek `τραγῳδία` <tragōidía>: "epic play, tragedy" #
+--------> Latin `tragoedia`: "tragedy" (theatrical meaning only)
+---------> French `tragédie`: "tragedy"
+----------> English `tragedy`
+
+--->  Proto-Indo-European <*treh₂ǵtis>? (action noun)
+
+----> Old Armenian `արաւտ` <arawt>: "pasture, herbage, grass for grazing"
+-----> Armenian `արոտ` <arot>: "pasture, herbage, grass for grazing"
+
+
+endbody
+
+
+startnotes
+
+
+#  If this is the correct etymology, it would be formed as trago-ode, "goat-song", and have originally referred to the Satyr Plays, burlesque tragicomedies featuring satyrs. This is an etymology presented by Aristotle. It has a number of the warning signs of a folk etymology, but it also has more supporting circumstanital evidence than you'd expect. There's also no better idea of where `τραγῳδία` comes from.
+
+The other part of the word is definitely from `ᾠδή` <ōidḗ>: "song", also the root of English `ode`, `comedy`, `melody`, `rhapsody`, etc. The inflection paradigm of `ἀείδω` suggests an Indo-European origin, reconstructed as <*h₂weyd->, but there is no evidence of that root outside of Greek. Possibly related to <*h₂weh₁->: "to blow (of wind)" (see 20180209). Coincidentally, <*h₂weh₁-> has a potential relationship to Hebrew `הָיָה` <hayah>: "to happen", which is what the <ה‬> stands for on a dreidel.
+
+endnotes

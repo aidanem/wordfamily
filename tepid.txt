@@ -1,0 +1,187 @@
+date: 20170929
+theme: Fire 🔥
+
+startbody
+
+
+? Unknown original source #
+
+?> Proto-Afro-Asiatic <*dp->: "heat, fire, steam" #
+
+--> Chadic
+---> Hausa `dafa`: "to cook"
+
+--> Cushitic <*daf->: "steam, sweat"
+---> Gedeo <daffa>: "sweat"
+---> Oromo `damfa`: "steam"
+----> Oromo `damfisa`: "boil, heat in water"
+
+--> Semitic <*d-p-ʔ->: "heat, be warm"
+---> Central Semitic
+----> Arabic `دفئ` <dāfiʾ>: "warm"
+
+
+
+-> Proto-Kartvelian <*ṭep-> #
+--> Georgian `თბილი` <tbili>: "warm"
+---> Georgian `თბილისი` <Tbilisi>: "place name: Warm (place)" (after the local hot springs)
+----> Russian `Тбили́си` <Tbilísi>
+-----> English `Tbilisi`
+
+
+-> Proto-Indo-European <*tep->: "to be warm, be hot" #
+
+--> Proto-Indo-European <*tep-eti> (primary verb)
+
+--?> Balto-Slavic
+----> Slavic <**tep-ti> ####
+-----> Slavic <*teplъ> "warm" ####
+------> East Slavic
+-------> Russian `тёплый` <tjóplyj>: "warm"
+------> South Slavic <*toplъ>
+-------> Serbo-Croatian `то̏пао` <tȍpao>: "warm"
+--------> Serbo-Croatian `топлѝна` <toplìna>: "heat, warmth"
+---------> Serbo-Croatian `то̏пломје̄р` <tȍplomjēr>: "thermometer"
+------> West Slavic
+-------> Polish `ciepły`: "warm"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `तपति` <tápati>: "to be hot, to heat up, to damage"
+
+
+--> Proto-Indo-European <*tpeh₁y-eti> (stative)
+
+---> Albanian <ftoh>: "to cool"
+
+---> Italic <*tepēō>
+----> Latin `tepeō``: "be warm, lukewarm, tepid"
+-----> Latin `tepidus`: "tepid, lukewarm"
+------> Sardinian `tébidu`
+------> Western Romance
+-------> French `tiède`: "tepid"
+-------> Italian `tiepido`: "tepid, lukewarm, half-hearted"
+-------> Spanish `tibio`: "lukewarm"
+------> English `tepid`
+
+
+--> Proto-Indo-European <*tpsḱ-éti> (inchoative)
+
+---> Indo-Iranian
+----> Iranian
+-----> Avestan <tafsat̰>
+-----> Northern Iranian
+------> Scythian
+-------> Ossetian `тӕфсы́н` <tæfsýn>
+-----> Western Iranian
+------> Old Persian
+-------> Persian `تفسیدن` <tafsidan>: "to become hot"
+
+
+--> Proto-Indo-European <*topéy-eti> (causative)
+
+---> Balto-Slavic
+----> Slavic <*topìti>: "to heat"
+-----> East Slavic `топити` <topiti>
+------> Russian `топи́ть` <topítʹ>: "to heat, to stoke (an oven)"
+-----> South Slavic
+------> Serbo-Croatian `то̀пити` <tòpiti>: "to melt, to melt down"
+-------> Albanian `topit`: "I make blunt, I wear out"
+-----> West Slavic
+------> Polish `topić`: "to melt, to fuse"
+
+
+--> Proto-Indo-European <*tptó-s>: "heated"
+
+---> Indo-Iranian <*taptá->
+----> Dardic
+-----> Kashmiri `تۆت` <tot>: "hot, warm, zealous"
+----> Indo-Aryan
+-----> Sanskrit `तप्त` <taptá>
+------> Pali `𑀢𑀢𑁆𑀢` <tatta>: "hot, heated, glowing"
+------> Sauraseni `𑀢𑀢𑁆𑀢` <tatta>
+-------> Madhya
+--------> Hindi `तत्ता` <tattā>: "hot, warm, zealous, wrathful"
+-------> Western Sauraseni
+--------> Romani `tato`
+
+----> Iranian <*taftá->
+-----> Avestan <tafta>
+-----> Pashto `تود‏` <tod>: "hot, warm"
+-----> Northern Iranian
+------> Scythian
+-------> Ossetian `тӕвд` <tævd>
+-----> Western Iranian
+------> Old Persian
+-------> Persian `تفت‏` <taft>: "heat, warmth"
+-------> Old Armenian `տօթ` <tōtʿ>: "hot weather, heat of the sun, sunburn"
+--------> Armenian `տոթ` <totʿ>: "oppressive or stuffy heat"
+
+
+--> Proto-Indo-European <*tépo-s>: "heat, warmth"
+
+---> Indo-Iranian <*tápas>
+----> Indo-Aryan
+-----> Sanskrit `तपस्` <tápas>: "heat, pain, mortification, penance"
+------> Old Gujarati `तापस` <tāpasa>: "ascetic"
+------> Hindi `तापमापी` <tāpmāpī>: "thermometer"
+----> Iranian <*tapah-> 
+-----> Western Iranian
+------> Old Persian
+-------> Persian `تاب` <tâb>: "heat, warmth, burning"
+-------> Armenian `տապ` <tap>: "heat, warmth, inflammation"
+-----> Iranian <*tāpaka->: "heater, cooking place"
+------> Western Iranian
+-------> Old Persian
+--------> Middle Persian <tābag>: "frying pan"
+---------> Persian `تاوه` <tâve>: "frying pan, skillet"
+----------> Ottoman Turkish `تاوه‏` <tava>: "frying pan"
+-----------> Turkish `tava`: "frying pan, skillet"
+-----------> Armenian `թավա` <tʿava>: "frying pan, skillet"
+-----------> Serbo-Croatian `та́ва` <táva>: "frying pan, skillet"
+---------> Arabic `طَابُوق` <ṭābūq>: "brick"
+
+
+
+
+--> Proto-Indo-European <*tépti-s?> (action noun)
+
+--?> Tocharian
+----> Tocharian B <antāpce>: "torch, firebrand"
+
+
+--> Proto-Indo-European <*tepent-s> (present participle)
+
+---> Celtic <*teɸents>
+----> Old Irish `té`: "hot"
+-----> Irish `te`: "hot, warm"
+
+---> Indo-Iranian
+---?> Iranian <*tapantī>: "warming"?
+-----> North Iranian
+------> Scythian <*tavitī> ###
+-------> Classical Greek `Ταβιτί` <Tabití>: "Scythian divinity of hearth and/or fire" ###
+
+
+--> Proto-Indo-European <*tepnet-s>
+
+---> Celtic <*teɸnets>: "fire"
+----> Brythonic
+-----> Welsh `tân`: "fire"
+----> Old Irish `teine`
+-----> Irish `tine`: "fire"
+
+endbody
+
+
+
+startnotes
+
+
+# Some combination of borrowing between Afro-Asiatic, Kartvelian, and Indo-European. Unless they all inherited it from Nostratic. Who knows?!
+
+### According to Herodotus, a fire/hearth goddess and the most important deity in the Scythian pantheon. "Scythian Hestia" in the interpretatio graeca. That is to say, basically the chief goddess of the Amazons.
+
+#### Attested words only allow reconstruction of the l-participle (resultative) of an otherwise unattested Slavic verb
+
+endnotes

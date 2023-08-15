@@ -1,0 +1,521 @@
+date: 20211202
+tags: Divinities, Runes, Water
+
+
+
+startbody
+
+Proto-Indo-European <*h₃er->: "to move, to stir, to rise"
+
+
+-> Proto-Indo-European <*h₃r̥néwti>
+
+--> Anatolian
+---> Hittite `𒅈𒉡𒊻𒍣` <ar-nu-uz-zi>: "to send, to address"
+
+--> Old Armenian `յառնեմ` <yaṙnem>: "to rise, to stand, to awake"
+---> Armenian `հառնել` <haṙnel>: "to get up, to stand up"
+
+
+--> Hellenic
+---> Classical Greek `​​ὄρνῡμῐ` <órnūmi>: "I set in motion, I awaken, I excite, I stir up"
+
+
+--> Indo-Iranian <*Hr̥náwti>
+---> Indo-Aryan
+----> Sanskrit `𑀋𑀡𑁄𑀢𑀺` <ṛṇóti>: "to go, to move, to rise"
+
+
+-> Proto-Indo-European <*h₃r̥yéti> (ye- intransitive)
+
+--> Italic <*orjōr>: "to rise"
+---> Umbrian 
+---> Latin `orior`: "I rise, I appear, I become visible, I come to exist"
+----> Eastern Romance
+-----> Romanian `a urca`: "to rise, to ascend, to mount, to board (a vehicle)"
+----> Latin `ortus`: "risen, made visible, birth, sunrise, east"
+-----> Western Romance
+------> Italian `orto`: "sunrise, east"
+------> Spanish `oroto`: "sunrise"
+----> Latin `aborior`: "I disappear, I fail to appear, I miscarry"
+-----> Latin `abortus`: "premature delivery, miscarriage, abortion, miscarried, aborted, disappeared"
+------> Latin `abortō` (variant of `aborior` with the stem levelled)
+-------> English `abort`
+-------> Italian `aborto`: "miscarriage, abortion"
+-----> Latin `abortiō`: "premature delivery, miscarriage, abortion"
+------> English `abortion`
+----> Latin `oriēns`: "rising, originating, sunrise, east"
+-----> Western Romance
+------> French `Orient`: "Orient"
+-------> English `Orient`
+-------> French `orienter`: "to orient, to set direction, to guide"
+--------> English `orient`
+--------> French `orientation`
+---------> English `orientation`
+------> Italian `oriente`: "east, Orient"
+------> Spanish `oriente`: "east"
+-----> Latin `orientālis`: "eastern, rising"
+------> Western Romance
+-------> French `oriental`
+--------> English `oriental`
+----> Latin `oriundus`: "descended from, born in"
+-----> Italian `oriundo`: "native, ancestrally"
+
+----> Latin `orīgō`: "birth, origin, source" (oblique stem `orīgin-`)
+-----> Western Romance
+------> Old French `orine`: "heritage, breeding"
+------> Italian `origine`: "origin, derivation"
+------> Spanish `origen`: "origin"
+-----> French `origine`: "origin"
+------> English `origin`
+-----> Latin `orīginālis`: "original"
+------> Western Romance
+-------> Old French `orinel`
+-------> Italian `originale`: "original, authentic, creative"
+-------> Spanish
+------> French `original`: "original, unique, eccentric"
+-------> English `original`
+------> French `originel`: "original, first"
+
+
+
+
+-> Proto-Indo-European <*h₃ernis> (adjective)
+
+-?> Germanic <*arniz>
+---> Germanic <*ernustuz>: "fight, struggle, strength, seriousness, earnestness"
+----> West Germanic
+-----> Old English `eornost`: "earnestness, vigour"
+------> English `earnest`
+-----> Frankish <*ernust>
+------> Dutch `ernst`: "seriousness"
+-----> Old High German `ernust`: "serious"
+------> German `ernst`: "serious"
+------> Old High German `Ernust`: "Serious Boy (personal name)"
+-------> German `Ernst`
+-------> Czech `Arnošt`
+-------> English `Ernest`
+--------> English `Ernie`
+
+
+-> Proto-Indo-European <*h₃r̥nós> (de-verbal adjective)
+
+--> Italic <*ornōs>: "rising"
+---> Umbrian <urnasiaru>: "a month name, probably in spring"
+
+
+-> Proto-Indo-European <*h₃értis>: "movement, disturbance, quarrel" (noun)
+
+--> Balto-Slavic
+---> Slavic <*ortь>: "war, battle"
+----> East Slavic
+-----> Russian `рать` <ratʹ>: "army, battle, war" (archaic/poetic)
+----> South Slavic
+-----> Old Church Slavonic `рать` <ratĭ>: "war, battle, enemy army"
+-----> Serbo-Croatian `ра̏т` <rȁt>: "war"
+----> Slavic <*ortьnikъ>: "warrior" ("battle-nik")
+-----> East Slavic
+------> Russian `ра́тник` <rátnik>: "warrior, soldier" (archaic)
+-----> South Slavic
+------> Serbo-Croatian `ра̏тнӣк` <rȁtnīk>: "warrior"
+
+--> Hellenic
+--?> Classical Greek `ἔρῐς` <éris>: "strife, quarrel, rivalry, discord"
+----> Greek `έριδα` <érida>: "strife, feud"
+----> Classical Greek `Ἔρις` <Éris>: "divinity of strife"
+-----> English `Eris`
+
+--?> Hellenic
+----> Mycenaean Greek `𐀁𐀪𐀝` <e-ri-nu>
+-----> Classical Greek `Ἐρῑνῡ́ς` <Erīnū́s>: "divinity of vengeance, a Fury"
+------> Latin `Erinys`
+-------> English `Erinys`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀋𑀢𑀺` <ṛtí>: "quarrel, strife, attack"
+
+
+-> Proto-Indo-European <*h₃érmn̥> (action or result noun)
+
+--> Greco-Armenian <*h₃érmn̥>: "a rising, a plant coming up out of the ground"
+
+---> Old Armenian `արմն` <armn>: "root, tree trunk"
+----> Armenian `արմ` <arm>: "root, tree trunk"
+----> Old Armenian `արմատ` <armat>: "root, origin, foundation, stock"
+-----> Armenian `արմատ` <armat>: "root (including mathematical and linguistic senses)"
+
+---> Hellenic
+----> Classical Greek `ὄρμενος` <órmenos>: "shoot, sprout, stalk"
+
+
+
+-> Proto-Indo-European <*h₃erdʰeti> (resultative verb)
+--> Proto-Indo-European <*h₃erdʰ->: "to rise, high, to increase, to grow" (re-analyzed root)
+
+
+---> Proto-Indo-European <*h₃erdʰsḱéti> (sḱe- imperfective)
+
+----> Tocharian
+-----> Kushean <*ārtk->: "to be make abundant"
+------> Kushean <artkiye>: "abundance"
+
+---> Proto-Indo-European <*h₃r̥dʰnéwti> (nw- imperfective)
+
+----> Indo-Iranian <*Hr̥dʰnáwti>
+-----> Indo-Aryan
+------> Sanskrit `𑀋𑀥𑁆𑀦𑁄𑀢𑀺` <ṛdhnóti>: increases, grows, succeeds"
+
+---> Proto-Indo-European <*h₃r̥dʰyéti> (ye- imperfective)
+
+----> Indo-Iranian <*Hr̥dʰyáti>
+-----> Indo-Aryan
+------> Sanskrit `𑀋𑀥𑁆𑀬𑀢𑀺` <ṛdhyáti>: increases, grows, succeeds"
+
+
+---> Proto-Indo-European <*h₃r̥dʰōs>: "a height, a grown thing"
+
+----> Italic <*arðōs>
+-----> Latin `arbor`: "tree"
+------> English `arbor`
+-------> English `Arbor Day`
+-------> English `Ann Arbor`
+------> Latin` arborētum`
+-------> English `arboretum`
+------> Latin `arboreus`
+-------> English `arboreal` (17th C modification of `arboreus`, possibly influenced by `boreal(is)`)
+
+
+---> Proto-Indo-European <*h₃ŕ̥dʰtis>: "growth" (abstract action noun)
+
+----> Indo-Iranian <*Hŕ̥ddʰiṣ>
+-----> Indo-Aryan
+------> Sanskrit `𑀋𑀤𑁆𑀥𑀺`
+
+
+---> Proto-Indo-European <*h₃r̥dʰwós>: "high, grown, upright" (adjective)
+
+----> Celtic <*ardwos>: "high"
+-----> Brythonic <*arð>
+------> Welsh `ardd`: "high"
+-----> Old Irish `ard`
+------> Irish `ard`: "high, tall, loud, ambitious"
+-----> Celtic <*ardo-windā?>: "Height-Blessed?, place (forest) name" ## 
+------> Brythonic
+-------> English `Arden`
+------> Gaulish `Arduenna`
+-------> Latin `Arduenna (Silva)`
+--------> Western Romance
+---------> French `Ardennes`
+----------> English `Ardennes`
+
+----> Hellenic <*ortʰwós>
+-----> Mycenaean Greek `𐀃𐀵𐀺-` <o-to-wo->
+-----?> Mycenaean Greek `𐀃𐀵𐀺𐀹𐀋` <o-to-wo-wi-je>: "probable personal name"
+-----> Classical Greek `ὀρθός` <orthós>: "straight, upright, true, correct, prosperous"
+------> English `ortho-`
+------> Classical Greek `ὀρθόδοξος` <orthódoxos>
+-------> English `orthodox`
+
+----> Indo-Iranian <*r̥Hdʰwás>: "high, upright" (metathesis)
+-----> Indo-Aryan
+------> Sanskrit `𑀊𑀭𑁆𑀥𑁆𑀯`
+
+----> Italic <*arðwos>
+-----> Latin `arduus`: "high, steep, difficult to reach"
+------> English `arduous`
+
+
+---> Proto-Indo-European <*h₃r̥dʰtós>: "high, grown, upright" (adjective)
+
+----> Indo-Iranian <*Hr̥ddʰás>
+-----> Indo-Aryan
+------> Sanskrit `𑀋𑀤𑁆𑀥`
+
+
+---> Proto-Indo-European <*h₃erdʰros>: "risen" (adjective)
+
+----> Hellenic <*ortʰros>
+-----> Classical Greek `ὄρθρος` <órthros>: "dawn, sunrise, morning twilight"
+
+
+
+-> Proto-Indo-European <*h₃ryéti> (transitive or deponent verb)
+--> Proto-Indo-European <*h₃reyH->: "to move, to set in motion, to flow" (re-analyzed root)
+
+---> Proto-Indo-European <*h₃rinéHti>
+
+----> Albanian `rij`: "to humidify, to moisten"
+
+----> Balto-Slavic
+-----> Slavic <rìnõti>
+
+----> Germanic <*rinnanã>: "to run, to rush"
+-----> East Germanic
+------> Gothic `𐍂𐌹𐌽𐌽𐌰𐌽` <rinnan>: "to run, to flow"
+-------> Gothic <*runna>: "runner, walker, traveller"
+--------> Gothic <*haljōrunna>: "witch, sorceress" (assumed to be lit. "hell-walker")
+---------> Latin `haliurunna`: "Gothic witch"
+-----> North Germanic
+------> Old Norse `rinna`: "to flow, to run, to hurry, to melt"
+-------> Danish `rinde`: "to flow, to secrete"
+-------> Icelandic `renna`: "to flow, to slide, to slip, to melt"
+-----> West Germanic
+------> Old English `rinnan`: "to run"
+-------> English `run`
+------> Frankish <*rinnan>
+-------> Dutch `rennen`: "to run, to hurry, to flow, to leak, to combine"
+------> Old High German `rinnan`
+-------> German `rinnen`: "to flow, to leak, to trickle"
+
+
+----> Hellenic
+----?> Classical Greek `ὀρῑ́νω` <orī́nō>
+
+----> Indo-Iranian <*HrináHti>
+-----> Indo-Aryan
+------> Sanskrit `𑀭𑀺𑀡𑀸𑀢𑀺` <riṇā́ti>: "to release, to make flow"
+
+
+---> Proto-Indo-European <*h₃réy(H)tis>
+
+----> Germanic <*rīþiz>
+
+----> Indo-Iranian <*HriHtíš>
+-----> Indo-Aryan
+------> Sanskrit `𑀭𑀻𑀢𑀺` <rītí>: "motion, course, stream, custom, manner, literary style"
+
+
+
+---> Proto-Indo-European <*h₃riHtós> (adjective)
+
+----> Italic <*rītos>
+-----> Italic <*enrītos>
+-----> Latin `irrītō`: "I incite, I instigate, I provoke, I irritate"
+------> English `irritate`
+
+
+---> Proto-Indo-European <*h₃riHnós> (adjective)
+
+----> Albanian `ren`: "clouds, mist"
+
+----> Celtic <*rēnos>: "river, waterway
+-----> Old Irish `rían`: "sea, course, ocean, way, manner"
+------> Irish `rian`: "path, track, genealogy"
+-------> Irish `rianaí`: "wanderer, tracker, genealogist"
+-----> Gaulish <rēnos>: "river"
+------> Gaulish <Rēnos>: "The River, used as a name of a specific river"
+-------> Germanic <*Rīnaz>: "the river Rhine"
+--------> North Germanic
+---------> Old Norse `Rín`: "Rhine"
+----------> Danish `Rhinen`: "Rhine" (with -h- spelling from Latin)
+----------> Icelandic `Rín`: "Rhine"
+--------> West Germanic <*Rīn>
+---------> Old English `Rīn`: "Rhine"
+----------> English `Rhine` (with -h- spelling from French)
+---------> Frankish <*Rīn>
+----------> Dutch `Rijn`: "Rhine"
+---------> Old High German `Rīn`
+----------> German `Rhein`: "Rhine" (with -h- spelling from Latin)
+----------> Old French `Rin`
+-----------> French `Rhin`: "Rhine" (with -h- spelling from Latin)
+
+-------> Classical Greek `Ῥῆνος` <Rhênos>: "the river Rhine"
+--------> Greek `Ρήνος` <Rínos>: "Rhine"
+--------> Armenian `Հռենոս` <Hṙenos>: "Rhine"
+
+-------> Latin `Rhēnus`: "the river Rhine, the river Reno" (possibly re-spelled based on Greek)
+--------> Western Romance
+---------> Italian `Reno`: "Rhine, Reno"
+--------> Greek `Ρήνος` <Rínos>: "Rhine"
+
+----> Messapian `ῥινός`: "cloud"
+
+
+---> Proto-Indo-European <*h₃riHwós> (adjective)
+
+----> Italic <*rīwos>
+-----> Latin `rīvus`: "a small stream, brook, channel, gutter" #
+------> Eastern Romance
+-------> Romanian `râu`: "river"
+------> Western Romance
+-------> French `ru`: "small stream"
+-------> Italian `rio`
+-------> Italian `rivo`
+-------> Spanish `río`
+------> Latin `rīvulus`
+-------> Western Romance
+-------> Old French
+--------> English `rivulet` #
+-------> Italian `rivolo`
+------> Latin `rīvālis`: "related to a small stream, competitor for water rights"
+-------> English `rival` #
+------> Latin `rīvō`
+-------> Latin `dērīvō`: "I divert (as a stream of water), I draw off, I derive"
+--------> English `derive` #
+
+---> Proto-Indo-European <*h₃róyHkos> (adjective)
+----> Proto-Indo-European <*h₃róyHkeh₂> (collective noun)
+-----> Balto-Slavic <*raikāˀ>
+------> Slavic <*rě̄kà>: "river"
+-------> East Slavic `рѣка` <rěka>: "river"
+--------> Russian `река́` <reká>: "river, stream"
+--------> Ukrainian `ріка́` <riká>: "river"
+-------> South Slavic
+--------> Old Church Slavonic `рѣка` <rěka>
+--------> Serbo-Croatian `рије́ка` <rijéka>: "river"
+-------> West Slavic
+--------> Czech `řeka`: "river"
+--------> Polish `rzeka`: "river"
+
+
+
+--> Proto-Indo-European <*h₃reyHdʰh₁éti> (resultative)
+---> Proto-Indo-European <*h₃réy(H)dʰh₁-> (re-analyzed root)
+
+----> Proto-Indo-European <*h₃réy(H)dʰh₁eti>: "moves" (imperfective)
+
+-----> Celtic <*rēdeti>
+
+-----> Germanic <*rīdanã>: "to ride"
+------> North Germanic
+-------> Old Norse `ríða`: "to ride"
+--------> Danish `ride`: "to ride"
+--------> Icelandic `ríða`: "to ride"
+------> West Germanic
+-------> Old English `rīdan`: "to ride"
+--------> English `ride`
+-------> Old High German `rītan`: "to ride"
+--------> German `reiten`: "to ride"
+-------> Frankish `rīdan`: "to ride"
+--------> Dutch `rijden`: "to ride, to drive"
+------> Finnic <*raććas>
+-------> Finnish `ratsastaa`: "to ride"
+
+
+----> Proto-Indo-European <*h₃roydʰh₁éyeti>: "sets in motion, sends" (causative)
+
+-----> Balto-Slavic <*ráidīˀtei>
+
+----> Proto-Indo-European <*h₃rey(H)dʰh₁éh₁ti> (stative?)
+
+-----> Balto-Slavic <*reidḗˀtei>
+
+
+----> Proto-Indo-European <*h₃rey(H)dʰh₁-os> (action/result noun)
+
+-----> Celtic <*rēdos>: "a ride"
+------> Gaulish `reda`: "chariot"
+------> Old Irish `ríad`: "journey, ride"
+------> Celtic <*uɸorēdos>: "horse" (lit. "under-ride")
+-------> Brythonic <*gworuɨð>
+--------> Welsh `gorwydd`: "horse"
+-------> Gaulish <*werēdos>
+--------> Latin `verēdus`: "fast or light breed of horse"
+---------> Byzantine Greek `βέρεδος`: "posthorse"
+----------> Arabic `بَرِيد` <barīd>: "mail, postal service"
+---------> Latin `verēdārius`: "courier, horse-mounted messenger"
+----------> Western Romance
+-----------> Spanish `veredero`: "courier"
+---------> Latin `paraverēdus`
+----------> Western Romance
+-----------> Old French `palafrei`: "small riding horse, palfrey"
+------------> French `palefroi`: "palfrey"
+------------> English `palfrey`
+-----------> Old Occitan
+------------> Italian `palafreno`: "palfrey"
+------------> Spanish `palafrén`
+----------> West Germanic <*parafred>: "horse"
+-----------> Frankish <*parifrid>
+------------> Dutch `paard`
+-----------> Old High German `pfarifrit`
+------------> German `Pferd`
+------------> Yiddish `פֿערד` <ferd>
+-------> Celtiberian <*werēda>
+-------?> Vulgar Latin
+---------> Spanish `vereda`: "path, lane, horsepath, sidewalk"
+
+
+
+----> Proto-Indo-European <*h₃roy(H)dʰh₁eh₂> (collective, action, or abstract noun)
+
+-----> Germanic <*raidō>: "ride, journey, the rune ᚱ"
+------> East Germanic
+-------> Gothic `𐍂𐌴𐌳𐌰` <rēda>: "the letter 𐍂"
+------> North Germanic
+-------> Old Norse `reið`: "the rune ᚱ"
+--------> Danish `red`
+--------> Icelandic `reið`: "ride, chariot"
+------> West Germanic
+-------> Old English `rād`: "journey, ride, expedition, the rune ᚱ"
+--------> English `road`
+--------> Scots `raid`: "expedition, raid"
+---------> English `raid`
+-------> Old High German `reita`
+------> Finnic
+-------> Finnish `raide`: "track, railroad"
+------> Samic <*rājδō>
+-------> Northern Sami `ráidu`: "line of reindeer"
+------> English `raido`: "the rune ᚱ"
+
+
+-> Proto-Indo-European <*h₃rwós>: "moving, fast" (adjective)
+--> Proto-Indo-European <*h₃rew->: "to run, to hurry" (re-analyzed root)
+
+---> Proto-Indo-European <*h₃reweti>: "hurries" (primary verb)
+
+----> Italic <*rowō>
+-----> Latin `ruō`: "I hurry, I rush, I fall down, I fail"
+------> Sardinian `ruere`
+------> Western Romance
+-------> French `ruer`: "to struggle, to fight, to kick (of a horse)"
+-------> Spanish `ruir`: "to collapse"
+------> Latin `ruīna`: "a falling down, a collapse, ruins, debris"
+-------> Western Romance
+--------> French `ruine`
+---------> English `ruin`
+--------> Italian `rovina`: "destruction, collapse, bane, ruins, debris, mess"
+--------> Spanish `ruina`: "ruin, decay, decline, ruins"
+------> Latin `corruō`
+-------> Western Romance
+--------> French `crouler`
+---------> French `écrouler`
+--------> Italian `crollàre`
+------> Latin `dīruō`
+-------> Western Romance
+--------> Spanish `derruir`
+
+---> Proto-Indo-European <*h₃róweti>: "hurries" (o-stem verb)
+
+----> Hellenic <*orówō>
+-----> Classical Greek `ὀρούω` <oroúō>: "to rush, to spring forward"
+
+
+---> Proto-Indo-European <*h₃rowsos>: "rush, movement" (action noun)
+
+----> Balto-Slavic <*raušas>
+-----> Slavic <*rȗxъ>: "movement"
+------> East Slavic
+-------> Ukrainian `рух` <rux>: "movement, traffic"
+------> West Slavic
+-------> Polish `ruch`: "movement, traffic"
+------> Slavic <*ruxnǫti>: "to move"
+-------> East Slavic
+--------> Russian `ру́хнуть` <rúxnutʹ>: "to collapse, to crash, to fall"
+
+
+
+
+
+endbody
+
+
+startnotes
+
+# The Latin `rīvus`: "a small stream, brook, channel, gutter" gives Spanish `río`: "river", as well as English `rivulet`, `rival` (originally someone you are feuding with over water rights), and `derive` (originally to divert a stream of water); but not `river`! `river` is from Latin `rīpa` instead, from PIE <*h₁reyp->: "to tear" (PIE <*h₁reyp-> gives English "riven", but not English `rip`!)
+
+
+## In Celtic <*ardo-windā?>: "Height-Blessed?, place (forest) name"—the presumed ancestor of both the English Forest of Arden and the French Forest of Ardennes—the <*ardo->: "height" part is fairly certain; the <*windos>: "blessed, fair, white" is much less certain.
+
+
+endnotes

@@ -1,0 +1,264 @@
+
+date: 20181005
+theme: Nighttime 🌃
+tags: Divinities
+
+
+startbody
+
+Proto-Indo-European <*negʷ->: "bare"
+
+-> Proto-Indo-European <*nogʷó-s>: "naked thing, naked one" (noun)
+
+--> Balto-Slavic <*nōˀgás>: "naked"
+---> Lithuanian `núogas`: "naked"
+---> Slavic <*nȃgъ>: "naked"
+----> East Slavic
+-----> Russian `наго́й` <nagój>: "naked"
+----> South Slavic
+-----> Serbo-Croatian `наг` <nag>: "naked"
+----> West Slavic
+-----> Polish `nagi`: "naked"
+
+--> Indo-Iranian <*nāgás>
+---> Indo-Aryan <*nāgás>
+----> Sanskrit `नाग` <nāgá>: "elephant, snake, serpent-spirit" ("hairless one") ##
+-----> Sauraseni
+------> Madhya
+-------> Hindi `नाग` <nāg>: "serpent, cobra, naga"
+------> Pali <nāga>
+-------> Burmese `နဂါး` <na.ga:>: "naga, dragon"
+-------> Malay `naga`: "dragon"
+-------> Thai `นาค` <nâak>: "elephant, naga, dragon, snake"
+-----> English `naga`
+-----> Telugu `నాగము` <nāgamu>: "cobra, elephant"
+-----> Translingual `Naja`: "taxonomic genus of cobras"
+
+
+-> Proto-Indo-European <*nogʷedʰo-s>
+
+--> Germanic <*nakwadaz>: "naked"
+---> East Germanic
+----> Gothic `𐌽𐌰𐌵𐌰𐌸𐍃` <naqaþs>: "naked"
+---> North Germanic
+----> Old Norse `nakinn`
+-----> Danish `nøgen`: "naked"
+-----> Icelandic `nakinn`: "naked"
+---> West Germanic
+----> Old English `nacod`: "naked"
+-----> English `naked`
+-----> Scots `nakit`: "naked"
+
+--> Italic <*nogʷedos>
+---> Latin `nūdus`: "naked, simple, poor, deprived"
+----> Eastern Romance
+-----> Romanian `nud`: "naked"
+----> Western Romance
+-----> French `nu`: "naked"
+------> Vietnamese `nuy`: "naked" (literary or euphemistic)
+-----> Italian `nudo`: "naked"
+----> English `nude`
+----> Latin `dē(s)nūdō`: "I denude, I uncover"
+-----> Western Romance
+------> Old French
+-------> French `dénuder`: "to denude"
+-------> English `denude`
+------> Spanish `desnudo`: "naked"
+
+
+-> Proto-Indo-European <*nogʷnó-s>
+
+--> Hellenic <*gonʷnós> (methathesis, possible taboo deformation)
+---> Ancient Greek `γυμνός` <gumnós>: "naked, unarmored, destitute"
+----> Greek `γυμνός` <gymnós>: "naked"
+-----> English `gymno-`
+----> Ancient Greek `γυμνάζω` <gumnázō>: "I exercise, I train" (tendency of Greek warriors to train naked, or at the very least without their armor)
+-----> Ancient Greek `γυμναστικός` <gumnastikós>: "fond of exercise, skilled at exercise"
+------> Latin `gymnasticus`: "gymnastic"
+-------> English `gymnastic`
+-----> Ancient Greek `γῠμνᾰ́σιον` <gumnásion>: "exercises, school"
+------> Greek `γυμνάσιο` <gymnásio>: "middle school, military drills"
+------> Coptic `ⲅⲩⲙⲛⲁⲥⲓⲁ` <gumnasia>: "physical sport, physical exercise"
+------> Latin `gymnasium`: "gymnasium"
+-------> English `gymnasium`
+--------> English `gym`
+
+--> Indo-Iranian <*nagnás>: "naked"
+---> Indo-Aryan <*nagnás>
+----> Sanskrit `नग्न` <nagná>: "naked, desert, new, a naked mendicant"
+-----> Magadhi
+------> Bengali `নাঙ্গা` <naṅga>: "naked"
+-----> Sauraseni <ṇagga>
+------> Madhya
+-------> Hindi `नंगा` <naṅgā>: "naked, shameless"
+------> Pali <nagga>
+---> Iranian <*magnáh> (dissimilation?)
+----> Avestan `𐬨𐬀𐬕𐬥𐬀` <maġna>
+----> Iranian <*bagnákah>
+-----> Northern Iranian
+------> Scythian
+-------> Ossetian `бӕгънӕ́г` <bæǧnǽg>: "naked"
+-----> Western Iranian
+------> Old Persian
+-------> Persian `برهنه` <barahna>: "naked"
+----> Iranian <*magnáh-ĉr̥Hah>: "bare-head"
+-----> Northern Iranian
+------> Scythian
+-------> Ossetian `бӕгъӕ́мсар` <bæǧǽmsar>: "bareheaded"
+------?> Armenian `Մանկասար` <Mankasar>: "given name"
+
+
+-> Proto-Indo-European <*nogʷtó-s>
+
+--> Celtic <*noxtos>: "naked"
+---> Brythonic <*noɨθ>: "naked"
+----> Welsh `noeth`: "naked, bleak"
+---> Old Irish `nocht`: "naked"
+----> Irish `nocht`: "naked"
+
+
+-> Proto-Indo-European <*negʷmont-s>
+
+--> Anatolian
+---> Hittite `𒉈𒆪𒈠𒀭𒍝` <ne-ku-ma-an-za>: "naked"
+
+
+
+?> Proto-Indo-European <*nókʷts>: "night" (apparently derived from *negʷ->, possibly "stripped (of light)" or "(sky) unadorned (by the sun)")
+
+--> Pre-Albanian <*naktā>
+---> Albanian `natë`: "night"
+
+--> Anatolian
+---> Hittite `𒉈𒆪𒍖` <ne-ku-uz>: "evening, nightfall, twilight, dawn"
+
+--> Balto-Slavic <*naktis>
+---> Lithuanian `naktìs`: "night"
+---> Slavic <*nȏ(k)ťь>
+----> East Slavic `ночь` <nočĭ>: "night"
+-----> Russian `ночь` <nočʹ>: "night"
+----> South Slavic
+-----> Old Church Slavonic `ⱀⱁⱋⱐ` <noštĭ>: "night"
+-----> Serbo-Croatian `но̑ћ` <nȏć>: "night"
+----> West Slavic
+-----> Polish `noc`: "night"
+
+--> Celtic <*noxs>
+---> Gaulish `noxs`
+---> Old Irish `nocht`: "night" (note: homphonous with "naked")
+---> Celtic <*eni-noxtē>: "tonight" ("in the night", dative)
+----> Brythonic
+----> Welsh `hano`: "tonight"
+----> Old Irish `innocht`: "tonight"
+-----> Irish `anocht`: "tonight"
+
+--> Germanic <*nahts>
+---> East Germanic
+----> Gothic `𐌽𐌰𐌷𐍄𐍃` <nahts>: "night"
+---> North Germanic
+----> Old Norse `nátt`: "night"
+-----> Danish `nat`: "night"
+-----> Icelandic `nótt`: "night"
+---> West Germanic
+----> Old English `niht`: "night"
+-----> English `night`
+-----> Scots `nicht`: "night, evening, tonight"
+----> Frankish <*naht>
+-----> Dutch `nacht`: "nigh"
+----> Old High German `naht`: "night"
+-----> German `Nacht`: "night, darkness"
+-----> Yiddish `נאַכט`‎ <nakht>: "night"
+----> West Germanic <*nahtigalǭ>: "nightingale"
+-----> Old English `nihtegale`: "nightengale"
+------> English `nightingale`
+------> Scots `nichtgale`: "nightengale"
+-----> Frankish <*nahtagala>
+------> Dutch `nachtegaal`: "nightengale"
+-----> Old High German `nahtigala`: "nightengale"
+------> German `Nachtigall`: "nightengale"
+-----> Old Saxon `nahtigala`: "nightengale"
+------> Danish `nattergal`: "nightengale"
+------> Icelandic `næturgali`: "nightengale"
+
+--> Hellenic <*nokʷts>
+---> Ancient Greek `νῠ́ξ` (núx): "night, divinity of night"
+----> Greek `νύχτα` (nýchta): "night" (from the accusative of Ancient Greek)
+----> Latin `Nyx`: "Greek divinity of night"
+-----> Translingual `Nyx`: "a taxonomic genus of metalmark moths"
+-----> Translingual `Nix`: "a moon of Pluto"
+----> English `nycto-`
+
+--> Indo-Iranian <*nákts>
+---> Indo-Aryan <*nákts>
+----> Sanskrit `नक्` <nák>: "night"
+-----> Telugu `నక్తము` <naktamu>: "night"
+---> Iranian <*náxts>
+----> Avestan <*naxt?>
+-----> Avestan `𐬎𐬞𐬀𐬥𐬀𐬑𐬙𐬎𐬭𐬎𐬱𐬎` <upa.naxturušu>: "at the edge of night"
+----> Western Iranian
+-----> Kurdish `nixte`: "overcast"
+
+--> Italic <*noks>
+---> Latin `nox`: "night, darkness" (accusative: `nocte(m)`)
+----> Sardinian `noti`: "night"
+----> Eastern Romance
+-----> Romanian `noapte`: "night"
+----> Western Romance
+-----> French `nuit`: "night"
+-----> Italian `notte`: "night"
+-----> Spanish `noche`: "night"
+----> Latin `nocturnus`: "of the night, nocturnal"
+-----> Western Romance
+------> French `nocturne`: "nocturnal, nocturne"
+-------> English `nocturne`
+------> Italian `notturno`: "nocturnal, nightly, nocturne, nightclub"
+------> Spanish `nocturno`: "nocturnal, nocturne"
+-----> English `nocturns`
+-----> Latin `nocturnalis`
+------> English `nocturnal`
+
+
+--> Proto-Indo-European <*n̥kʷtéw-s>: "night-ish, twilight"
+
+---> Germanic <*unhtwǭ>
+----> East Germanic
+-----> Gothic `𐌿𐌷𐍄𐍅𐍉` <uhtwō>: "dawn, daybreak"
+----> North Germanic
+-----> Old Norse `ótta`
+------> Icelandic `ótta`: "start of the second traditional division of the day (into eighths), about 03:00"
+----> West Germanic
+-----> Old English `ūhta`: "time just before the dawn, nocturns service (midnight mass)"
+------> Old English `ūhtacearu`: "pre-dawn anxiety"
+-----> Frankish <*ūhto>
+------> Middle Dutch `uchten`: "morning" (modified by analogy to `avont`: "evening")
+-------> Dutch `ochtend`: "morning"
+-----> Old Saxon `ūhta`
+------> Low German `Uchte`: "nocturns service (midnight mass)"
+
+---> Hellenic
+---?> Ancient Greek `ἀκτῑ́ς` <aktī́s>: "ray, beam, brightness, splendor, spoke" (like the setting/rising sun?)
+
+---> Indo-Iranian <*aktúš>
+----> Indo-Aryan <*aktúṣ>
+-----> Sanskrit `अक्तु` <aktú>: "tinge, ray, beam of light, darkness, night" (sunset?)
+
+
+---> Tocharian <*nekʷtu->
+----> Arshian <nokte>: "at night"
+----> Kushean <naktiṃ>: "last night"
+
+
+---> Proto-Indo-European <*nokʷtewyo-s>
+
+----> Tocharian <*nekʷcäwye->
+-----> Arshian <nakcu>: "during the night, last night"
+-----> Kushean <nekcīye>: "during the night, last night"
+
+endbody
+
+startnotes
+
+## Indo-Iranian merger of labio-velars with plain velars merges <*nogʷó-s> from <*negʷ->: "bare" with <*nogó-s> from <*(s)neg->: "to crawl, to creep, snake". <nāgá> meaning "snake" presumably primarily comes from <*(s)neg->, but is at the very least reinforced by, and <nāgá> from <*negʷ->. I have grouped the Sanskrit "elephant" and "snake" together as the same word here, because descendants and borrowings of the Sanskrit largely treat them as if they are the same word.
+
+
+endnotes

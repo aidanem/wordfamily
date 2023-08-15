@@ -1,0 +1,144 @@
+date: 20170616
+theme: Pride In Words 🏳️‍🌈
+
+
+startbody
+
+
+Proto-Indo-European <*terh₂->: "to cross over, pass through, overcome"
+
+-> Proto-Indo-European <*térh₂eti> (primary verb form)
+
+--> Indo-Iranian <*tárHati>
+---> Indo-Aryan <*tárHati>
+----> Sanskrit `तरति` <tarati>: "pass over, float, swim"
+-----> Sauraseni <*tiradi>
+------> Madhya
+-------> Hindi `तैरना` <tairnā>: "to float"
+---> Iranian <*tárHatī>
+----> Avestan <titarat̰>: "overcame"
+----> Northern Iranian
+-----> Ossetian `тӕрын` <tæryn>: "fly"
+
+
+-> Proto-Indo-European <*térh₂eh₂>
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `तार` <tāra>: "carried across, carrying across, crossing"
+-----> Sanskrit `अवतार` <avatāra>: "avatar, appearance of a deity on earth, distinguished person" ("down-across", "descended from the sky")
+------> Magadhi
+-------> Bengali `অবতার` <ôbtar>: "avatar, descent"
+------> Pali
+-------> Thai `อวตาร` <à-wá-dtaan>: "avatar, monarch, sock puppet"
+--------> Thai `พงศาวดาร` <pong-sǎa-wá-daan>: "lineage of kings, history, (biblical book of) Chronicles"
+------> Hindi `अवतार` <avtār>: "descent, respected person, translation, incarnation"
+-------> English `avatar`
+------> Telugu `అవతారము` <avatāramu>: "avatar, incarnation, metamorphosis"
+
+
+-> Proto-Indo-European <*tr̥h₂n̥t-s> (resultative?, ~"the other side")
+
+--> Celtic <*trānss>
+---> Brythonic
+----> Middle Welsh `traws`
+---> Old Irish `trá`: "then, indeed, however"
+
+--> Italic <*trān(t)s>
+---> Latin `trāns`: "across, beyond"
+----> Western Romance
+-----> French `très`: "very"
+-----> Italian `tra-`: "trans-, between, among"
+------> Italian `travestire`: "to dress up, to disguise"
+-------> French `travestir`: "to disguise, to dress up, to distort, to make a travesty of"
+--------> English `travesty`
+-----> Spanish `tras`: "after, beyond"
+----> English `trans-` "Across, through, over, beyond, to or on the other side of, outside of"
+----> Latin `trādō`: "I hand over, I give up, I transmit, I teach, I betray"
+-----> Western Romance
+------> Old French `traïr`
+-------> French `trahir`
+-------> English `tray`
+--------> English `betray`
+------> Italian `tradire`: "to betray, to reveal"
+-----> Latin `trāditiō`: "surrender, handing over, instruction, proverb"
+------> Western Romance
+-------> Old French `traïson`: "betrayal, treason"
+--------> French `trahison`: "treason"
+--------> English `treason`
+-------> Italian `tradizione`: "tradition, delivery, transfer"
+-------> Spanish `traición`: "treason, treachery"
+------> Old French `tradicion`
+-------> French `tradition`: "tradition"
+-------> English `tradition`
+-------> Spanish `tradición`: "tradition, lore"
+-----> Latin `trāditor`: "bretrayer, traitor, teacher"
+------> Western Romance
+-------> Old French `traitor`: "traitor"
+--------> French `traître`: "traitor"
+---------> Haitian Creole `trèt`: "traitor"
+--------> English `traitor`
+---------> Irish `tréatúir`: "traitor"
+-------> Italian `traditore`: "traitor, adulterer"
+-------> Spanish `traidor`: "traitor"
+----> Medieval Latin `Transylvania` ("beyond the woods")
+-----> English `Transylvania`
+---> Umbrian `𐌕𐌓𐌀𐌚` <traf>: "on the other side of"
+
+
+
+-> Proto-Indo-European <*térh₂dʰrom> (instrumental)
+
+--> Hellenic
+---> Ancient Greek `τέρθρον` <térthron>: "end, extremity, end of the sail-yard"
+
+
+?> Proto-Indo-European <*térmn̥>: "boundary"
+
+--> Hellenic
+---> Ancient Greek `τέρμα` <térma>: "finish line, goal, conclusion"
+---> Latin `terminus`: "boundary, limit, end"
+----> Western Romance
+-----> French `terme`: "limit, period of time, word or phrase especially in a specialized field"
+------> English `term`
+----> English `terminus`
+----> Latin `terminālis`: "boundary, terminal, final"
+-----> English `terminal`
+
+
+-> Proto-Indo-European <*tr̥h₂> (zero-grade form)
+
+--> Celtic
+---> Brythonic
+----> Welsh `drwy`: "through, by means of"
+---> Old Irish
+----> Irish `trí`: "through"
+
+
+--> Proto-Indo-European <*néḱ-tr̥h₂>: "death-overcome, unperishing"
+
+---> Hellenic
+----> Ancient Greek `νέκταρ` <néktar>: "drink of the gods, nectar"
+-----> Latin `nectar`: "nectar"
+------> Western Romance
+-------> Italian `nettare`: "nectar"
+------> English `nectar`
+
+
+--> Proto-Indo-European <*tr̥h₂kʷe> (distributive, "through-and" or "through-each")
+
+---> Germanic <*þurhw>: "through"
+----> East Germanic
+----> Gothic `𐌸𐌰𐌹𐍂𐌷` <þairh>: "through"
+----> West Germanic
+-----> Old English `þurh`
+------> English `through`
+------> English `thorough`
+------> Scots `thorow`
+-----> Frankish <*thurox>
+------> Dutch `door`: "through, across, by means of"
+-----> Old High German <duruh>: "through"
+------> German `durch`: "through, via, by means of"
+------> Yiddish `דורך` <durkh>: "through"
+
+endbody

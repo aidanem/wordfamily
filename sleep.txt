@@ -1,0 +1,206 @@
+date: 20181012
+theme: Nighttime 🌃
+
+
+startbody
+
+?
+
+?> Proto-Indo-European <*(s)leh₂b->: "to hang loosely, to be weak, lip, to lick"
+
+
+--> Proto-Indo-European <*(s)leh₂be-ti>: "to fall down? to relax?" (primary verb)
+
+---> Germanic <*slēpaną>: "to sleep"
+----> East Germanic
+-----> Gothic `𐍃𐌻𐌴𐍀𐌰𐌽` <slēpan>: "to sleep"
+------> Crimean Gothic `schlipen`: "to sleep"
+----> West Germanic
+-----> Old English `slǣpan`: "to sleep"
+------> English `sleep`
+-----> Frankish <*slāpan>
+------> Dutch `slapen`: "to sleep"
+-----> Old High German `slāfan`: "to sleep"
+------> German `schlafen`: "to sleep"
+------> Yiddish `שלאָפֿן` <shlofn>: "to sleep"
+
+--?> Indo-Iranian
+----> Iranian
+-----> West Iranian
+------> Kurdish `liv`: "movement, flapping"
+
+---> Italic
+----> Latin `labō`: "I totter, I waver"
+----> Latin `lābor`: "I slip, I glide, I flow"
+-----> Latin `lābilis`: "slipping, slippery"
+------> English `labile`
+-----> Latin `lāpsus`
+------> Western Romance
+-------> Old French
+--------> English `lapse`
+-----> Latin `collābor`: "I collapse"
+------> English `collapse`
+-----> Latin `lābēs`: "a fall, a defect, a subsidence"
+------> Latin `lābīna`: "slippery place, landslide"
+-------> Western Romance
+--------> Old French `avalençhe`
+---------> French `avalanche`
+---------> English `avalanche`
+--------> Italian `valanga`: "avalance"
+-------> Old High German
+--------> German `Lawine`: "avalance"
+
+
+--> Proto-Indo-European <*(s)lh₂p-ti>
+
+---> Albanian `llapë`: "I sip, I lap, I swallow"
+
+---> Old Armenian `լափեմ` <lapʿem>: "to lap up, to lick up"
+----> Armenian `լափել` <lapʿel>: "to lap up, to lick up"
+
+---> Hellenic
+----> Ancient Greek `λάπτω` <láptō>: "to sip, to lap"
+
+
+--> Proto-Indo-European <*(s)lh₂néb-ti> (ne-infix imperfective)
+
+---> Balto-Slavic
+----> Lithuanian `lapènti`: "to gobble up"
+----> Slavic
+-----> East Slavic
+------> Russian `ло́пать` <lópatʹ>: "to gobble up"
+
+---> Italic
+----> Latin `lambō`: "I lick, I lap, I taste"
+-----> Western Romance
+------> Italian `lambire`: "to lap (of water), to lick (of flame)"
+------> Spanish `lamer`: "to lick"
+
+
+--> Proto-Indo-European <*(s)léh₂bō> (primary noun)
+
+---> Germanic <*lepô>: "lip"
+----> North Germanic
+-----> Old Norse <*lepi>
+------> Danish `læbe`: "lip"
+----> Germanic <*lipjô>: "lip" (diminutive)
+-----> West Germanic
+------> Old English `lippa`: "lip"
+-------> English `lip`
+------> Frankish <*lippa>
+-------> Dutch `lip`
+-------> French `lippe`: "lip, pouty lip"
+------> Old High German <*lippa>
+-------> German `Lippe`: "lip"
+
+---> Indo-Iranian <*lap->
+----> Iranian <*lap->
+-----> West Iranian
+------> Old Persian
+-------> Persian `لب` <lab>: "lip, edge"
+------> Kurdish `lêv`: "lip"
+
+
+--> Proto-Indo-European <*(s)loh₂bós> (agentive noun)
+
+---> Hellenic
+----> Ancient Greek `λοβός`: "lobe"
+-----> Latin `lobus`
+------> French `lobe`
+-------> English `lobe`
+------> Translingual `Trilobita`: "taxonomic class of trilobites" ("three-lobed")
+-------> English `trilobite`
+
+
+--> Proto-Indo-European <*(s)léh₂bōs>?
+
+---> Italic
+----> Latin `labium`
+-----> English `labium`
+-----> Spanish `labio`: "lip, labium"
+
+----> Italic
+-----> Latin `labrum`: "lip, edge, margin, rim"
+------> Western Romance
+-------> French `lèvre`: "lip"
+-------> Italian `labbro`: "lip, labium, edge, rim"
+------> English `labrum`
+
+--> Proto-Indo-European <*lh₂bel-os>
+
+---> Germanic <*lapilaz>: "spoon"
+----> West Germanic
+-----> Frankish <*lapil>
+------> Dutch `lepel`: "spoon"
+-----> Old High German `lepfil`
+------> German `Löffel`: "spoon"
+------> Yiddish `לעפֿל` <lefl>: "spoon"
+
+
+-?> Proto-Indo-European <*leb->
+---> Albanian `lëpij`: "I lick"
+
+
+?> Proto-Indo-European <*slewbʰ->
+--> Germanic
+---> West Germanic
+---?> Old English `slype`
+-----> English `slip` (ceramics)
+----> Frankish
+-----> Dutch `slippen`: "to slide, to slip"
+----> Old High German `slupfen`
+-----> German `schlüpfen`: "to slip, to hatch"
+----> Old Saxon
+-----> Middle Low German `slippen`
+------> English `slip`
+
+
+?> Proto-Indo-European <*slegʷ->
+--> Proto-Indo-European <*slegʷos>
+---> Germanic <*slakaz>
+----> West Germanic
+-----> Old English `slæc`: "slack, lazy"
+------> English `slack`
+
+
+?> Proto-Indo-European <*leyǵʰ->: "to lick"
+
+--> Proto-Indo-European <*léyǵʰ-ti> (athematic imperfective)
+
+---> Old Armenian `լիզեմ` <lizem>: "to lick, to lap, to destroy"
+----> Armenian `լիզել` <lizel>: "to lick"
+
+---> Balto-Slavic <*léiźtei>
+
+---> Celtic <*ligeti>
+
+---> Hellenic <*léikʰō>
+
+---> Indo-Iranian <*ráyždʰi>
+
+
+--> Proto-Indo-European <*liǵʰé-ti> (zero-grade imperfective)
+
+---> Indo-Iranian <*riĵʰáti>
+
+
+--> Proto-Indo-European <*linéǵʰ-ti> (nasal imperfective)
+
+---> Germanic <*likkōną>: "to lick"
+----> West Germanic
+-----> Old English `liccian`: "to lick"
+------> English `lick`
+
+---> Italic <*lingō>
+----> Latin `lingō`: "I lick"
+
+
+--> Proto-Indo-European <*lḗyǵʰs-t> (s perfective)
+
+---> Hellenic
+----> Ancient Greek `λεῖξαι` <leîxai>
+
+---> Indo-Iranian <*Hálikšat>
+
+
+endbody

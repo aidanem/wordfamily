@@ -1,0 +1,109 @@
+date: 20220729
+tags: Afro-Asiatic, Gemstones
+
+
+startintro
+
+Both Classical Sanskrit `𑀫𑀭𑀓𑀢` <marakata>: "emerald" and Classical Greek `μᾰ́ραγδος` <máragdos>: "emerald" appear to be borrowed from a source like <*maraktV>.
+
+This is presumably a form closely related to the Phoenician <brqt> and Hebrew <baréket>: "emerald", from <*b-r-ḳ>: "shining, sparkling". Akkadian cognate <baraqu>: "shine" instead might have had an equivalent -t form, which would have looked like <*baraqtu(m)> which would be an excellent source for <*maraktV>, though as far as I know, no such -t noun is attested in Akkadian.
+
+
+endintro
+
+
+startbody
+
+Afro-Asiatic <*bǎrk’->: "sparkle, flash"
+
+-> Egyptian `𓃀*𓏲-𓏭:𓂋-𓈎*(𓏤)-𓄿-𓁻` <bwyrqꜣ.EYE>: "to sparkle"
+
+
+-> Semitic <*b-r-ḳ>
+
+--> Semitic <*barVḳ>: "sparkling"
+
+---> East Semitic
+----> Akkadian `𒁀𒊏𒄣` <baraqu>: "scintillation, shine"
+-----> Akkadian <*baraqtu(m)> (feminine or abstract/collective noun)
+-----?> Unknown transmission <*maraktV?>
+
+---> Central Semitic <*baraḳ>
+----> Arabic `بَرَقَ` <baraqa>: "to shine, to flash, to spark, to lightning"
+-----> Arabic `بَرْق` <barq>: "lightning, telegraph"
+------> Maltese `beraq`: "lightning"
+------> Persian `برق` <barq>: "electricity, flash, sparkle, sheen"
+------> Ottoman Turkish `برق` <berk>: "lightning"
+-------> Turkish `berk`: "lightning"
+----> Northwest Semitic
+-----> Aramaic `𐡁𐡓𐡒𐡀` <barqā>: "lightning"
+------> Classical Syriac `ܒܪܩܐ` <barqā>: "lightning"
+-----> Ugaritic `𐎁𐎗𐎖` <brq>: "lightning"
+-----> Canaanite
+------> Hebrew `בָּרָק` <barák>: "lightning, shine, Barak"
+------> Canaanite
+-------> Hebrew `בָּרֶקֶת` <baréket>: "emerald"
+-------> Phoenician `𐤁𐤓𐤒𐤕` <brkt>: "emerald"
+
+------?> Unknown transmission <*maraktV?>
+
+-------?> Classical Greek `μᾰ́ραγδος` <máragdos>: "emerald"
+---------> Classical Greek `σμάραγδος` <smáragdos>: "emerald"
+----------> Classical Greek `σμαράγδιον` <smarágdion> (diminutive)
+-----------> Greek `σμαράγδι` <smarágdi>: "emerald"
+----------> Czech `smaragd`: "emerald"
+----------> Latin `smaragdus`: "emerald"
+-----------> German `Smaragd`: "emerald"
+-----------> Vulgar Latin <*smaraldus>
+------------> Western Romance
+-------------> Old French `esmeralde`
+--------------> French `émeraude`: "emerald"
+--------------> English `emerald`
+--------------> Spanish `esmeralda`: "emerald"
+---------------> Spanish `Esmeralda`
+----------------> English `Esmeralda`
+-------------> Italian `smeraldo`: "emerald"
+--------------> Romanian `smarald`: "emerald"
+----------> Lithuanian `smarãgdas`: "emerald"
+----------> Middle Persian `𐭠𐭥𐭦𐭬𐭡𐭥𐭫𐭲` <ʾwzmbwlt>
+-----------> Persian `زمرد` <zomorrod>: "emerald"
+------------> Arabic `زمرد` <zumurrud>: "emerald"
+-------------> Malay `zamrud`: "emerald"
+-------------> Swahili `zumaridi`: "emerald"
+------------> Ottoman Turkish `زمرد` <zümrüd>
+-------------> Turkish `zümrüt`: "emerald"
+-------------> Armenian `զմրութ` <zmrutʿ>: "emerald (dialectic)"
+------------> Mandarin `祖母綠` <zǔmǔlǜ>: "emerald" (phono-semantic with `綠` <lǜ>: "green")
+------------> Russian `изумру́д` <izumrúd>: "emerald"
+-----------> Old Armenian `զմրուխտ` <zmruxt>: "emerald"
+------------> Armenian `զմրուխտ` <zmruxt>: "emerald"
+------------> Georgian `ზურმუხტი` <zurmuxṭi>: "emerald"
+
+
+-------?> Sanskrit `𑀫𑀭𑀓𑀢` <marakata>: "emerald"
+---------> Elu
+----------> Sinhala `මරා` <mara>
+---------> Sauraseni `𑀫𑀭𑀕𑀤` <maragada>: "emerald"
+---------> Hindi `मरकत` <markat>: "emerald"
+---------> Telugu `మరకతము` <marakatamu>: "emerald"
+---------> Thai `มรกต` <mɔɔ-rá-gòt>: "emerald"
+---------> Tibetan `མར་གད` <mar-gad>: "emerald"
+----------> Mongolian `ᠮᠠᠷᠭᠠᠳ` <marɣad>: "emerald"
+
+
+--> Semitic <*baraḳ->: "lightning"
+
+---> East Semitic
+----> Akkadian `𒉏𒄈` <birqu(m)>: "lightning"
+
+---> Central Semitic <*baraḳ>
+
+---> South Semitic
+----> Ethiopic
+-----> Amharic `በረቀ` <bäräḳä>: "to lightning, to thunder"
+----> Old South Arabian
+-----> Sabaean `𐩨𐩧𐩤` <brq>: "to lightning, a storm, the rainy season"
+---?> Coptic `ⲉⲃⲣⲏϭⲉ` <ebrēce>: "lightning"
+
+
+endbody

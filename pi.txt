@@ -1,0 +1,51 @@
+Proto-Sinatic
+
+-> Phoenician <𐤐>
+--> Tifinagh <ⵒ>
+--> Western Archaic Greek
+---> Old Italic <𐌐>
+----> Roman <P>
+-----> Roman Minuscule <p>
+----> Futhark <ᛈ>
+---> Eastern Archaic Greek
+----> Greek <Π>
+-----> Greek Minuscule <π>
+-----> Coptic <Ⲡ>
+-----> Cyrillic <П>
+-----> Gothic <𐍀>
+
+--> Aramaic
+---> Syriac <ܦ>
+----> Hebrew <ף>
+----> Arabic <ف>
+---> Imperial Aramaic <𐡐>
+----> Mandaic <ࡐ>
+----> Pahlavi
+-----> Avestan <𐬞>
+----> Sogdian
+-----> Mongolian <ᠠ>
+
+----> Brahmi <𑀧>
+-----> Gupta
+------> Nagari
+-------> Devanagri <प>
+-------> Gujarati <પ>
+------> Siddham
+-------> Bengali <প>
+-------> Tibetan <པ>
+------> Sharada
+-------> Gurmukhi <ਪ>
+-----> Southern Brahmic
+------> Sinhala <ප>
+------> Tamil <ப>
+------> Odia <ପ>
+------> Proto-Kannada
+-------> Kadamba
+--------> Telugu <ప>
+--------> Kannada <ಪ>
+-------> Pallava
+--------> Khmer <ប>
+--------> Malayalam <പ>
+--------> Thai <บ>
+
+-> Ugaritic <𐎔>

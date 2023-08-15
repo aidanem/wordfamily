@@ -1,0 +1,83 @@
+date: 20200814
+tags: Cloth, Sumerian, Unknown Substrate
+
+
+startbody
+
+Anatolian Neolithic substrate?
+
+-> Eastern substrate <*kito>: "flax"
+
+-?> Sumerian `𒃰` <gada>: "flax"
+-?> Sumerian `𒆤` <kid>: "cloth mat"
+
+-?> Akkadian `𒃰` <kitu>: "flax"
+--?> Old Armenian `կտաւ` <ktaw>: "flax"
+----> Armenian `Կտավ` <ktav>: "flax, linen, canvas"
+
+-?> Ugaritic `𐎖𐎉` <qṭ>: "flax, linseed"
+
+
+--> Central substrate  <*kito-na>
+
+--?> Aramaic `𐡊𐡉𐡕𐡍𐡀` <kittānā>: "linen, flax"
+----> Aramaic `𐡊𐡉𐡕𐡅𐡍𐡀` <kittōnā>: "linen garment, tunic, shirt, layer, shell"
+-----> Hebrew `כֻּתֹּנֶת` <kutónet>: "tunic, coat, robe"
+----> Arabic `كَتَّان` <kattān>: "flax, linen"
+-----> Ge'ez `ክታን` <kətan>: "linen"
+-----> Swahili `katani`: "flax or hemp fiber"
+---?> Arabic `قُطْن` <quṭn>: "cotton"
+-----> Egyptian Arabic `قُطُن‎` <quṭun>
+------> Italian `cotone`
+-------> French `coton`
+--------> English `cotton`
+-----> Maghrebi Arabic
+------> Andalusi Arabic `قُطُن‎` <quṭun>
+-------> Old Spanish `alcoton`: "cotton" (borrowed with article <al->)
+--------> Spanish `algodón`: "cotton"
+--------> Old French `auqueton`
+---------> English `aketon`
+----> Persian `کتان` <katân>: "flax, linen"
+
+--?> Hellenic
+----> Mycenaean Greek `𐀑𐀵` <ki-to>: "chiton, tunic"
+----> Classical Greek `χῐτών` <khitṓn>: "tunic, coat of mail, covering, clothes"
+-----> Greek `χιτώνας`: "chiton, tunic"
+-----> Latin `chitōn`
+------> English `chiton`
+------> French `chitine`
+-------> English `chitin`
+
+
+--?> Western substrate <*tonika> (with multiple metathesis)
+
+---?> Mycenaean Greek `𐀵𐀖𐀏` <to-mi-ka>: "unclear word related to textiles"
+----?> Mycenaean Greek `𐀵𐀛𐀊` <to-ni-ja>: "unclear word related to textiles"
+----?> Mycenaean Greek `𐀶𐀙𐀜` <tu-na-no>: "unclear word related to textiles"
+
+
+---?> Etruscan
+----?> Latin `tunica`: "tunic"
+------> Central Romance
+-------> Italian `tonaca`: "habit, frock"
+------> Western Romance
+-------> Spanish `tonga`: "coating"
+------> French `tunique`: "tunic, membrane"
+-------> English `tunic`
+------> Italian `tunica`: "tunic"
+------> Spanish `túnica`: "tunic"
+------> Latin `tunicō`: "I put a tunic on"
+-------> Vulgar Latin <*intunicō>
+--------> Eastern Romance
+---------> Romanian `a întuneca`: "to darken, to shroud"
+--------> Western Romance
+---------> Spanish `entunicar`: "to put on a tunic, to cover with primer"
+------> Latin `tunicātus`: "wearing a tunic"
+-------> Translingual `Tunicata`: "taxonomic subphylum, the sea squirts"
+--------> English `tunicate`
+
+
+
+endbody
+
+

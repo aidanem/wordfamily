@@ -1,0 +1,156 @@
+date: 20200403
+theme:  🦠
+
+startintro
+
+Pandemic in the Zeitgeist
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*deh₂->: "to share, to divide"
+
+-> Proto-Indo-European <*dh₂yéti>: "divides"
+
+--> Albanian `daj`: "I divide"
+
+--> Hellenic <*dayomai>
+---> Ancient Greek `δαίομαι` <daíomai>: "to divide, to distribute"
+
+--> Indo-Iranian <*dáyatay>
+---> Indo-Aryan <*dáyatay>
+----> Sanskrit `दयते` <dáyate>: "to divide, to take part in, to sympathize with, to defend, to pity, to love"
+-----> Sanskrit `दया` <dayā>: "sympathy, compassion, pity, mercy" #
+------> Hindi `दया` <dayā>: "pity, mercy"
+
+
+-> Proto-Indo-European <*deh₂mos>: "division, part"
+
+--> Hellenic <*dāmos>
+---> Mycenaean Greek `𐀅𐀗` <da-mo>: "village, community"
+---> Ancient Greek `δῆμος` <dêmos>: "district, land, town, commoners, free citizens, popular assembly"
+----> Greek `δήμος` <dímos>: "people, common people, municipality"
+----> Ancient Greek `δημαγωγός` <dēmagōgós>: "popular leader, mob leader"
+-----> French `démagogue`
+------> English `demagogue`
+----> Ancient Greek `δημοκρᾰτῐ́ᾱ` <dēmokratíā>: "popular government, democracy"
+-----> Medieval Latin `dēmocratia`: "democracy"
+------> French `démocratie`: "democracy"
+-------> English `democracy`
+------> Italian `democrazia`: "democracy"
+------> Spanish `democracia`: "democracy"
+-----> Russian `демокра́тия` <demokrátija>: "democracy"
+-----> Ancient Greek `ἔνδημος` <éndēmos>: "at home, native, specific to a place or people"
+------> English `endemic`
+-----> Ancient Greek `ἐπιδήμιος` <epidḗmios>
+------> Medieval Latin `epidemia`
+-------> French `épidémie`
+--------> French `épidémique`
+---------> English `epidemic`
+-----> Ancient Greek `πάνδημος` <pándēmos>
+------> English `pandemic`
+----> Ancient Greek `Δημοσθένης` <Dēmosthénēs>: "People-Strength" (personal name)
+-----> Latin `Dēmosthenēs`
+------> English `Demosthenes`
+-----> Ancient Greek `Νῑκόδημος` <Nīkódēmos>: "Victory-People" (personal name)
+------> Latin `Nīcodēmus`
+-------> English `Nicodemus`
+
+
+-> Proto-Indo-European <*deh₂lom>
+
+--> Celtic <*dālom>: "part, share, portion"
+---> Old Irish `dál`: "part, share, land occupied by a tribe"
+----> Old Irish `Dál Riata`: "Gaelic Kingdom in Ulster and Argyll"
+-----> English `Dalradia`
+------> English `Dalradian`
+
+
+
+
+-> Proto-Indo-European <*deh₂y->: "to share, to divide"
+
+
+--> Proto-Indo-European <*déh₂itis>: "division, interval, period of time"
+
+---> Pre-Albanian <*dīti>
+----> Albanian `ditë`: "day"
+
+---> Old Armenian `տի` <ti>: "year, era, lifetime, century"
+
+---> Germanic <*tīdiz>
+----> North Germanic
+-----> Old Norse `tíð`: "time, hour"
+------> Danish `tid`: "time"
+------> Icelandic `tíð`: "time, period, weather conditions"
+----> West Germanic
+-----> Old English `tīd`: "a time, an hour, a season
+------> English `tide`
+-----> Frankish <*tīt>
+------> Dutch `tijd`: "time"
+-----> Old High German `zīt`
+------> German `Zeit`: "time, period, era"
+-------> German `Zeitgeist`: "spirit of the age, zeitgeist" (equiv. to "tide-ghost")
+--------> English `zeitgeist`
+------> Yiddish `צײַט` <tsayt>: "time, age, era"
+
+---> Hellenic
+----> Ancient Greek `δαῖσις` <daîsis>: "division of property"
+
+
+
+-> Proto-Indo-European <déh₂imō>: "divider"
+
+--> Germanic <*tīmô>: "a part of the day, a time"
+---> North Germanic
+----> Old Norse `tími`: "a part of the day, a time"
+-----> Danish `time`: "hour, class, lesson"
+-----> Icelandic `tími`: "time, hour, class, lesson"
+---> West Germanic
+----> Old English `tīma`: "a time"
+-----> English `time`
+
+
+--> Hellenic
+---> Ancient Greek `δαίμων` <daímōn>: "divine power, guardian spirit, (later) demon"  ##
+----> Coptic `ⲇⲁⲓⲙⲱⲛ` <daimōn>: "demon"
+----> Latin `daemon`: "genius loci, protective spirit, demon"
+-----> Western Romance
+------> Italian `demonio`: "demon"
+-----> English `demon`
+-----> French `démon`: "demon"
+-----> Irish `deamhan`: "demon"
+------> Irish `deamhan fola`: "vampire" (lit. "blood demon")
+----> Ancient Greek `εὐδαίμων`
+-----> Ancient Greek `εὐδαιμονίᾱ` <eudaimoníā>
+------> English `eudemonia`
+-----> Ancient Greek `Ᾰ̓ρᾰβῐ́ᾱ Εὐδαίμων` <Arabíā Eudaímōn>: "Southern Arabia, Yemen" ###
+
+
+-> Proto-Indo-European <*deh₂p->: "to sacrifice, to lose"
+--> English `damage`
+
+
+?> Proto-Indo-European <*deh₃->: "to give"
+--> English `add`
+--> English `donate`
+--> English `data`
+
+
+endbody
+
+
+
+startnotes
+
+# You could imagine Japanese `同情` <dōjō>: "sympathy" coming from Sanskrit `दया` <dayā>: "sympathy, compassion, pity, mercy", via Buddhism, but it's not. It's standard Sino-Japanese from Middle Chinese `同情` <duŋ-d͡ziᴇŋ>.
+
+## Ancient Greek `δαίμων` <daímōn>: "divine power, guardian spirit, (later) demon" via the idea of "one who dispenses, one who allots". Compare Old Persian `𐏎` <baga>: "god" from <*bʰeh₂g->: "to divide, to distribute".
+
+It can seem more related to the meaning of <*deh₃->: "to give", the phonetics clearly align it with <*deh₂->. This semantic blurring lends weight to the idea that <*deh₂->: "divide" and <*deh₃->: "give" have a Pre-Proto-Indo-European relationship. 
+
+### Ancient Greek `Ᾰ̓ρᾰβῐ́ᾱ Εὐδαίμων` <Arabíā Eudaímōn>: "Southern Arabia, Yemen", literally "Prosperous Arabia", calqued into Latin as `Arabia Felix`.
+
+endnotes

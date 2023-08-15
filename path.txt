@@ -1,0 +1,192 @@
+date: 20190927
+
+
+startintro
+
+One day, I picked up my phone to look up the etymology of "Pontic", but got distracted and looked up the etymology of "path" first. And it turned out they were the same!
+
+But wait, how does that work, cause Grimm's Law? Germanic <*paþaz> is apparently a borrowing from late Scythian/Pre-Alanian into either West Germanic or Late Common Germanic in the Migration Period.
+
+Another possible origin for <*paþaz> is PIE <*gʷeh₂->: "to go" -> Celtic <*bā-> -> Celtic <*bāda> -> Germanic <*patha->. On the one hand, this would be a more common borrowing path; on the other hand, both Kroonen and Matasovic expect that the Celtic would already have shifted semantically to "pass away, die" by then. A late borrowing is also circumstantially supported by its restriction to West Germanic.
+
+endintro
+
+startbody
+
+
+
+Proto-Indo-European <*pent->: "to pass, path"
+
+
+-> Proto-Indo-European <*pénteti> (primary verb)
+
+--> Germanic <*finþaną>
+---> East Germanic
+----> Gothic `𐍆𐌹𐌽𐌸𐌰𐌽` <finþan>: "to discover, to find out"
+---> North Germanic
+----> Old Norse `finna`: "to find"
+-----> Danish `finde`: "to consider, to find"
+-----> Icelandic `finna`: "to find, to meet"
+---> West Germanic
+----> Old English `findan`: "to find, to meet"
+-----> English `find`
+------> Welsh `ffeindio`: "to find"
+------> English `pathfinder`
+----> Frankish <*findan>
+-----> Dutch `vinden`: "to find"
+----> Old High German `findan`
+-----> German `finden`: "to find"
+-----> Yiddish `געפֿינען` <gefinen>: "to find"
+
+---> Germanic <*fandōną>: "to investigate, to search for, to test"
+----> North Germanic
+-----> Old Norse `fendinn`: "to test, to tempt"
+------> Danish `fanden`: "hell, devil"
+------> Swedish `fan`: "devil"
+----> West Germanic
+-----> Old English `fandian`: "to test, to visit, to examine"
+-----> Old High German `fantōn`
+------> German `fahnden`: "to search"
+-------> German `Fahnder`: "investigator"
+
+
+-> Proto-Indo-European <*póntoh₁s>: "path, road"
+
+--> Pre-Armenian <*fon->
+---> Armenian `հուն` <hun>: "riverbed, ford, direction"
+---> Georgian `ფონი` <poni>: "ford"
+
+--> Balto-Slavic <*pontis>
+---> Slavic <*pǫ̃tь>: "way, path"
+----> East Slavic `путь` <putĭ>
+-----> Russian `путь` <putʹ>: "way, path, road, journey"
+----> South Slavic
+-----> Bulgarian `път` <pǎt>
+-----> Old Church Slavonic `пѫть` <pǫtĭ>
+-----> Serbo-Croatian `пу̑т` <pȗt>: "road, path, journey"
+----> West Slavic
+-----> Polish `pąć`: "travel, pilgrimage"
+---> West Baltic
+----> Old Prussian `pintis`: "way, path"
+
+-?> Celtic <*φāntīs> ####
+---> Old Irish `áitt`: "place, position, dwelling"
+----> Irish `áit`: "place, holding, situation"
+
+
+--> Hellenic <*póntos>
+---> Homeric Greek `πόντος` <póntos>: "the sea, the Mediterranean"
+----> Classical Greek `Πόντος` <Póntos>: "The Black Sea, Pontus"
+-----> Latin `Pontus`: "The Black Sea, Pontus"
+------> English `Pontus`
+----> Classical Greek `Ποντικός`: "Pontic"
+
+-----> Classical Greek `Ποντικός μῦς` (lit. "pontic mouse")
+------> Byzantine Greek `ποντικός`
+-------> Greek `ποντικός`: "mouse"
+--------> Greek `τυφλοπόντικας`: "mole" ("blind mouse")
+-------> Byzantine Greek `ποντίκιον`
+--------> Greek `ποντίκι`: "mouse"
+
+-----> Classical Greek `Ποντῐκόν κάρυον` <Pontikón káruon>: "hazelnut" (lit. "Pontic nut")
+------> Latin `nux Pontica`: "hazelnut" (partial calque)
+------> Middle Persian <pndk'>
+-------> Persian `پندک‎` <pondok>: "hazelnut" (archaic)
+-------> Arabic `بُنْدُق‎` <bunduq>: "hazelnut"
+--------> Armenian `պնդուկ` <pnduk>: "hazelnut"
+--------> French `bonduc`: "nickernut, nicker tree"
+---------> English `bonduc`
+--------> Spanish `albóndiga`: "meatball"
+--------> Arabic `بُنْدُقِيَّة‎` <bunduqiyya(t)>: "rifle, gun" ##
+---------> Persian
+----------> Hindi `बंदूक़` <bandūq>: "gun, rifle"
+-----------> English `bundook`
+---------> Swahili `bunduki`: "gun"
+-------> Arabic `فُنْدُق‎` <funduq>: "hazelnut"
+--------> Ottoman Turkish `فندق‎` <funduq>
+---------> Turkish `fındık`: "hazelnut"
+---------> Greek `φουντούκι` <fountoúki>: "hazelnut" ###
+---------> Russian `фунду́к` <fundúk>: "hazelnut"
+------> Classical Syriac `ܦܢܕܩܐ` <pendəqāʾ>: "hazelnut, pill"
+
+--?> Classical Greek `πάτος` <pátos>; "path, step, floor, dirt"
+----> Classical Greek `πᾰτέω` <patéō>: "I walk, I tread, I reside in, I trample"
+-----> Classical Greek `περῐπᾰτέω` <peripatéō>: "I walk around"
+------> Classical Greek `περῐπᾰτητῐκός` <peripatētikós>: "given to walking around"
+-------> Classical Greek `Περῐπᾰτητῐκοί` <Peripatētikoí>: "Peripatetics"
+-------> Latin `peripatēticus`
+--------> French `péripatétique`: "peripatetic, Peripatetic, Aristotlean"
+---------> English `peripatetic`
+
+
+--> Indo-Iranian <*pántas>
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀣𑀺𑀦𑁆` <páthin>: "way, path, doctrine"
+---> Iranian <*pántah>
+----> Avestan `𐬞𐬀𐬧‎𐬙𐬃` <paṇ‎tā̊>
+----> Northern Iranian
+-----> Scythian
+------> Ossetian `фӕндаг` <fændag>: "road"
+-----?> West Germanic <*paþaz>
+-------> Old English `pæþ`: "path"
+--------> English `path`
+---------> English `pathfinder`
+-------> Frankish
+--------> Dutch `pad`: "path"
+-------> Old High German
+--------> German `Pfad`: "path"
+---?> Pashto `پونده` <punda>: "heel"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Parthian `𐫛𐫗𐫅𐫀𐫗‎` <pndʾn>: "path"
+-----> Old Persian `𐎱𐎰` <paθi>
+------> Persian `پند` <pand>: "advice, counsel, technique, knack"
+-------> Arabic `فن` <fann>: "technique, art, genre"
+--------> Persian `فن` <fann>: "technique"
+--------> Swahili `fani`: "a field of knowledge, a discipline, successful, prosperous, worth"
+--------> Turkish `fen`: "science"
+---> Nuristani <*pã́tā>
+----> Kamviri <pút>
+
+--> Italic <*ponts>
+---> Latin `pōns`: "bridge"
+----> Sardinian `ponti`
+----> Eastern Romance
+-----> Romanian `punte`: "footbridge, deck"
+----> Western Romance
+-----> French `pont`: "bridge, deck"
+------> English `Pont`
+------> French `du Pont`
+-------> English `Dupont`
+-----> Italian `ponte`: "bridge, deck"
+-----> Spanish `puente`: "bridge"
+----> Latin `pontō`: "ferryboat, floating bridge, pontoon"
+-----> French `ponton`: "pontoon"
+------> English `pontoon`
+----> Latin `pontifex`: "high priest, pontiff" (apparently lit. "bridge-maker")
+-----> French `pontife`: "pontiff
+------> English `pontiff`
+-----> Italian `pontefice`: "pontiff"
+-----> Spanish `pontífice`: "pontiff"
+-----> Latin `pontificare`: "to preside as high priest"
+------> English `pontificate`
+
+
+
+
+endbody
+
+
+startnotes
+
+
+## The bullets shot by a "stone bow" or pellet-firing crossbow were shaped like hazelnuts. Thus Arabic `بُنْدُق‎` <bunduq>: "hazelnut" became a word for these bullets, then for crossbows, then for firearms.
+
+
+### Greek `φουντούκι` <fountoúki>: "hazelnut" is from Turkish from Persian from Arabic from Persian from Greek! Truly requiring a `pathfinder`!
+
+
+#### Old Irish `áitt`: "place, position, dwelling" is of uncertain origin. Matasovic find it unconvincing to derive it from <*pent-> -> <*φāntīs> -> `áitt`; but he's not that happy with his alternate idea, either.
+
+endnotes
+

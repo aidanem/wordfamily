@@ -1,0 +1,493 @@
+date: 20180525
+theme: kinship terms 👨‍👩‍👧‍👧
+
+
+startbody
+
+Teaser: female, doe, filial, Tethys, daughter
+
+startbody
+
+Proto-Indo-European <*dʰewgʰ->: "to produce, to be strong, to be fruitful, to give milk"
+
+
+-> Proto-Indo-European <*dʰéwgʰ-ti> (primary verb form)
+
+--> Hellenic
+---> Ancient Greek <τεύχω> (teúkhō): "to make, to produce, to build, to cause"
+
+--> Indo-Iranian <*dáwgdʰi>: "to milk"
+---> Iranian <*dáwgdi>
+----> West Iranian
+-----> Kurdish `doşîn`: "to milk"
+-----> Old Persian
+------> Persian `دوشیدن` <dušidan>: "to milk"
+----> Iranian <*dáwgah>: "buttermilk"
+-----> West Iranian
+------> Kurdish `dew`
+------> Old Persian
+-------> Persian `دوغ` <duğ>: "buttermilk, doogh (yogurt drink)"
+--------> English `doogh`
+
+
+-> Proto-Indo-European <*dʰunégʰ-ti> (imperfective)
+
+--> Hellenic
+---> Ancient Greek `τυγχάνω` <tunkhánō>: "to happen to be (doing), to succeed at (doing)"
+
+
+-> Proto-Indo-European <*dʰedʰówgʰe>: "to be productive" (reduplicated stative)
+
+--> Germanic <*duganą>: "to be useful, to avail"
+---> East Germanic
+----> Gothic
+-----> Ostrogothic `𐌳𐌿𐌲𐌰𐌽` <dugan>: "to be useful, to be of value, to be suitable"
+---> North Germanic
+----> Old Norse `duga`: "to help, to suffice"
+-----> Danish `du`: "to be good, to be fit"
+-----> Icelandic `duga`: "to suffice, to be fit"
+---> West Germanic
+----> Old English `dūgan`: "to be of use, to serve, to be fit"
+-----> Scots `dow`: "to be of use, to be of value"
+----> Frankish <*dugan>
+-----> Dutch `deugen`: "to be good, to be well-behaved, to be of good quality"
+---> Germanic <*dugan-ne-wiht>: "good-for-nothing" (lit. "useful-not-thing")
+----> North Germanic
+-----> Old Norse
+------> Danish `døgenigt`: "lazy person"
+----> West Germanic
+-----> Frankish
+------> Dutch `deugniet`: "good-for-nothing, rascal, knave"
+-----> Old High German
+------> German `Taugenichts`: "good-for-nothing"
+---> Germanic <*dugunþō>: "usefulness, ability, strength, virtue"
+----> North Germanic
+-----> Old Norse `dygð`
+------> Danish `dyd`: "virtue, chastity"
+------> Icelandic `dyggð`: "virtue"
+----> West Germanic
+-----> Old English `duguþ`: "prosperity, benefit, host of warriors"
+------> English `dought`: "strength, virtue, manhood, men collectively, an army or retinue"
+-------> English `doughty`
+------> Scots `douth`: "reliability, shelter, comfort"
+-----> Frankish <*dugeth>
+------> Dutch `deugd`: "virtue"
+-----> Old High German `tungundi`
+------> German `Tugend`: "virtue"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `दुदोह` <dudóha>: "grain?, produce?"
+
+-> Proto-Indo-European <*dʰewgʰo-s>
+
+--> Hellenic 
+---> Ancient Greek `τεῦχος` <teûkhos>: "tool, container, vessel"
+
+
+-> Proto-Indo-European <*dʰugʰ-tós> (adjective)
+
+--> Indo-Iranian <*dugdʰás>: "milk"
+---> Indo-Aryan
+----> Sanskrit `दुग्ध` <dugdhá>: "milk, sap"
+-----> Elu
+------> Sinhala `දුදු` <dudu>
+-----> Magadhi
+------> Bengali `দুধ` <dudh>: "milk, juice, latex"
+-----> Maharashtri `𑀤𑀼𑀤𑁆𑀥` <duddha>
+------> Marathi `दूध` <dūdh>: "milk, sap, emulsion"
+-----> Pali <duddha>
+-----> Sauraseni
+------> Madhya
+-------> Hindi `दूध` <dūdh>: "milk"
+------> Pahari
+-------> Nepali `दूध` <dūdha>: "milk, breast"
+-------> Punjabi `ਦੁੱਧ` <duddha>: "milk"
+-----> West Indo-Aryan
+------> Romani `thud`: "milk"
+-----> Tamil `துத்தம்` <tuttam>: "milk"
+
+
+-> Proto-Indo-European <*dʰugʰ-nós>
+
+-?> Old Armenian <*dugn>
+---> Old Armenian `յանդուգն` <yandugn>: "boldly, rashly"
+----> Armenian `հանդուգն` <handugn>: "impertinent, insolent, bold"
+
+
+-> Proto-Indo-European <*dʰugʰ-eh₂> (noun)
+
+--> Hellenic <*túkʰā>
+---> Ancient Greek `τῠ́χη` <túkhē>: "act of god, fate, fortune, chance"
+----> Greek `τύχη` <týchi>: "fate, chance, luck"
+
+
+-> Proto-Indo-European <*dʰewgʰye-ti> middle voice verb form
+-?> Proto-Indo-European <*dʰeh₁(y)->: "to suckle, to nurse" (re-analysis) ¹
+
+
+---> Proto-Indo-European <*dʰoh₁(y)éye-ti>: "to suckle, to cause to suck" (causative)
+
+----> Balto-Slavic
+-----> Lithuanian `žįsti`: "to suckle, to nurse"
+-----> Slavic <*dojiti>: "to give milk, to milk"
+------> East Slavic
+-------> Russian `дои́ть` <doítʹ>: "to milk"
+------> South Slavic
+-------> Serbo-Croatian `до̀јити` <dòjiti>: "to breastfeed, to suckle"
+------> West Slavic
+-------> Polish `doić`: "to milk"
+
+----> Celtic <*dina->
+-----> Brythonic
+------> Welsh `denu`
+-----> Old Irish `denaid`
+
+----> Germanic <*dajjaną>: "to suck, to suckle"
+-----> East Germanic
+------> Gothic
+-------> Ostrogothic `𐌳𐌰𐌳𐌳𐌾𐌰𐌽` <daddjan>: "to suckle"
+-----> North Germanic
+------> Old Norse <*deggja>
+-------> Danish `dægge`: "to suckle"
+------?> English `dug`
+-----> West Germanic
+------> Old English `dēon`: "to suck"
+------> Old High German `tāen`: "to suck"
+
+----> Indo-Iranian
+-----> Indo-Aryan
+------> Sanskrit `धयति` <dháyati>: "to suck, to suckle, to drink, to absorb"
+
+
+---> Proto-Indo-European <*dʰeh₁m̥néh₂>: "milk-giving?"
+
+----> Indo-Iranian
+-----> Indo-Aryan
+------> Sanskrit `धेनु` <dhénu>: "milk cow"
+-----> Iranian
+------> East Iranian
+-------> Avestan <daēnu>: "female"
+
+----> Italic <*fēmanā>
+-----> Latin `fēmina`: "woman, wife, female, feminine"
+------> Eastern Romance
+-------> Romanian `famen`: "eunuch"
+------> Western Romance
+-------> French `femme`: "woman, wife"
+--------> English `femme`
+-------> Italian `femmina`: "female"
+-------> Spanish `hembra`: "female"
+------> Latin `fēmella`: "young girl, young woman" (diminutive)
+-------> English `female`
+------> Latin `fēminīnus`: "feminine"
+-------> English `feminine`
+
+
+---> Proto-Indo-European <*dʰeh₁(y)tus> (noun)
+
+----> Italic
+-----> Latin `fētus/fēta`: "pregnant, fruitful, young, offspring, fruit"
+------> Eastern Romance
+-------> Romanian `făt`: "fetus, young boy"
+-------> Romanian `fată`: "girl, daughter"
+------> Western Romance
+-------> French `faon`: "fawn"
+--------> English `fawn`
+------> English `fetus`
+------> French `fœtus`: "fetus"
+------> Italian `feto`: "fetus"
+------> Spanish `feto`: "fetus"
+
+
+---> Proto-Indo-European <*dʰéh₁(y)ō> (noun)
+
+----> Germanic <*dajjǭ>: "female deer"
+-----> West Germanic
+------> Old English `dā`: "female deer, doe"
+-------> English `doe`
+-------> Scots `da(e)`: "doe"
+------> Old High German <*tē>
+-------> German `Tē`: "doe" (dialectic)
+
+
+
+---> Proto-Indo-European <*dʰeh₁(y)tis> (noun)
+
+----> Balto-Slavic
+-----> Slavic <*dětь>: "child"
+------> Slavic <*dě̄tę̀>: "child" (diminutive)
+-------> East Slavic
+--------> Russian `дитя́` <ditjá>: "child, baby, kid" (poetic)
+-------> South Slavic
+--------> Serbo-Croatian `де́те` <déte>: "child, kid"
+-------> West Slavic
+--------> Polish `dziecię`: "child" (poetic)
+---------> Polish `dziecko`: "child" (additional diminutive)
+
+
+---> Proto-Indo-European <?>
+
+----> Balto-Slavic
+-----> Slavic <*děvìca>: "maiden, girl"
+------> East Slavic
+-------> Russian `деви́ца` <devíca>: "damsel, maiden, girl"
+------> South Slavic
+-------> Serbo-Croatian `дјѐвица` <djèvica>: "virgin, maiden, girl"
+------> West Slavic
+-------> Polish `dziewica`: "maiden, virgin"
+
+
+
+---> Proto-Indo-European <*dʰeh₁(y)lu-s>
+
+----> Hellenic
+-----> Ancient Greek `θῆλυς` <thêlus>: "female, feminine"
+
+
+---> Proto-Indo-European <*dʰeh₁léh₂>: "nipple, teat"
+
+----> Old Armenian `դալ` <dal>: "colostrum"
+-----> Armenian `դալ` <dal>: "colostrum"
+
+----> Celtic <*dilā>: "teat"
+-----> Old Irish
+------> Irish `dilu`
+
+----> Germanic <*delō>: "nipple"
+-----> North Germanic
+------> Old Norse `dilkr`
+-------> Swedish `del`
+-----> West Germanic
+------> Old English `delu`: "nipple, teat"
+------> Old High German `tila`
+
+----> Hellenic
+-----> Ancient Greek `θηλή` <thēlḗ>: "nipple, teat, head of a pole"
+------> Greek `θηλή` <thilí>: "nipple, teat"
+
+
+
+---> Proto-Indo-European <*dʰeh₁(y)lwih₂k-s>
+
+----> Italic <*fēlīks>
+-----> Latin `fēlīx`: "happy, blessed, fruitful, lucky, prosperous"
+------> Eastern Romance
+-------> Romanian `ferice`: "happy" (archaic)
+------> Western Romance
+-------> Italian `felice`: "happy"
+-------> Spanish `feliz`: "happy, pleased, innocent"
+------> Latin `fēlīcitās`: "frutifulness, fetility, happiness, success, good fortune"
+-------> Western Romance
+--------> French `félicité`: "bliss, happiness, felicity"
+---------> English `felicity`
+--------> Italian `felicità`: "happiness"
+--------> Spanish `felicidad`: "felicity, happiness"
+------> Latin `Fēlīx`: given name
+-------> English `Felix`
+-------> Latin `Fēlīcius`
+--------> Latin `Fēlīcianus`
+--------> Latin `Fēlīcia`
+---------> English `Felicia`
+
+
+---> Proto-Indo-European <*dʰeh₁(y)lio-s>: "suckler, sucker"
+
+----> Balto-Slavic
+-----> Latvian `dēls`: "son" ²
+-----> Lithuanian `dėlė`: "leech"
+
+----> Italic <*feiljos>
+-----> Latin `fīlius`: "son, male descendant, children" ²
+------> Sardinian `fillu`: "son"
+------> Eastern Romance
+-------> Romanian `fiu`: "son"
+------> Western Romance
+-------> Old French `fi(l)s`
+--------> French `fils`: "son, male descendant, Jr."
+--------> English `Fitz-`
+-------> Italian `figlio`: "child, son"
+-------> Spanish `hijo`: "son, child"
+--------> Tagalog `iho`: "boy"
+--------> Spanish `hidalgo`: "noble, nobleman" (lit. "son of something")
+---------> Spanish `Hidalgo`: "surname and placename" (esp. after Miguel Hidalgo y Costilla)
+----------> English `Hidalgo`
+------> Latin `fīlia`: "daughter, female descendant"
+-------> Sardinian `filla`: "daughter"
+-------> Eastern Romance
+--------> Romanian `fie`: "daughter"
+-------> Western Romance
+--------> French `fille`: "girl, daughter"
+--------> Italian `figlia`: "daughter"
+--------> Spanish `hija`: "daughter"
+------> Latin `fīliālis`: "filial, pertaining to a son or daughter"
+-------> English `filial`
+------> Latin `affīliāre`: "to adopt (as a son)"
+-------> English `affiliate`
+------> Latin `fīliaster`: "stepson, son-in-law, nephew"
+-------> Sardinian `fidhastru`
+-------> Eastern Romance
+--------> Romanian `fiastru`: "stepson" (archaic)
+-------> Western Romance
+--------> Italian `figliastro`: "stepson, stepchild"
+--------> Spanish `hijastro`: "stepchild, stepson"
+-------> Albanian `thjeshtër`: "stepson, stepchild"
+
+
+---> Proto-Indo-European <*dʰeh₁(y)léh₂ye-ti> (iterative/intensive/causative)
+
+----> Italic
+-----> Latin `fellō`: "I suck, I fellate"
+------> English `fellate`
+
+---> Proto-Indo-European <*dʰédʰh₁i>
+
+----> Albanian `djathë`: "cheese"
+
+----> Indo-Iranian <*dʰádʰHi>
+-----> Indo-Aryan
+------> Sanskrit `दधि` <dádhi>: "sour milk, curd"
+-------> Magadhi
+--------> Bengali `দই` <dôi>: "curd, yogurt"
+-------> Maharashtri
+--------> Marathi `दही` <dahī>: "curd, yogurt"
+-------> Sauraseni
+--------> Madhya
+---------> Hindi `दही` <dahī>: "curd, yogurt"
+--------> Pahari
+---------> Punjabi `ਦਹੀਂ` <dahī̃>: "yogurt"
+
+
+
+---> Proto-Indo-European <?>
+
+----> Hellenic
+-----> Ancient Greek `τήθη` <tḗthē>: "grandmother"
+------> Ancient Greek `Τηθῡ́ς` <Tēthū́s>: "Tethys, divinity of fresh water"
+-------> Greek `Τηθύς` <Tithýs>
+-------> Latin `Tethys`
+--------> English `Tethys` ³
+
+
+---> Proto-Indo-European <?>
+
+----> Indo-Iranian
+-----> Iranian
+------> Kurdish `dayik`: "mother"
+------> Old Persian
+-------> Persian `دایه` <dâye>: "nurse, foster mother, midwife"
+-------> Old  Armenian `դայեակ` <dayeak>: "nurse, wet-nurse, midwife, tutor"
+--------> Armenian `դայակ` <dayak>: "nanny, nurse"
+
+
+---> Proto-Indo-European <?>
+
+----> Italic
+-----> Latin `fēcundus`: "fertile, fruitful, productive, imaginative"
+------> English `fecund`
+
+
+
+--?> Proto-Indo-European <*dʰugh₂tḗr>: "daughter" (Pre-Proto-Indo-European: "suckler, infant")
+
+----> Anatolian
+-----> Hittite
+------> Hittite `𒁺𒌓𒋻𒊑𒄿𒀀𒋾𒄿𒀀𒀸` <duttariyatiyas>: "of the daughter" (only attested as genitive)
+
+----> Armenian
+-----> Old Armenian `դուստր` <dustr>
+------> Armenian `դուստր` <dustr>
+
+----> Balto-Slavic <*duktē>
+-----> Lithuanian `duktė`
+-----> Slavic <*dъťi>
+------> East Slavic
+-------> Russian `дочь` <dočʹ>
+------> South Slavic
+-------> Serbo-Croatian `кћи̑` <kćȋ>
+------> West Slavic
+-------> Old Polish `dca`
+--------> Polish `córka`
+------> Finnic <*tüt'är>
+-------> Finnish `tytär`
+
+----> Celtic <*duxtīr>
+-----> Celtiberian <tuateros> (only attested in genitive)
+-----> Gaulish <duxtīr>
+-----> Old Irish `Der-`: only remains as an element in personal names, see ²
+------> Old Irish `Derdriu`: personal name, "daughter of ?"
+-------> Irish `Deirdre`: personal name
+--------> English `Deirdre`: personal name
+------> Old Irish `Deirbhile`: personal name, "daughter of a poet"
+------> Old Irish `Deirbhaíl`: personal name, "daughter of Fál (Ireland)"
+
+----> Germanic <*duhtēr>
+-----> East Germanic
+------> Gothic
+-------> Ostrogothic `𐌳𐌰𐌿𐌷𐍄𐌰𐍂` <dauhtar>
+-----> North Germanic `ᛞᛟᚺᛏᚱᛁᛉ` <dohtriz> (attested as plural)
+------> Old Norse `dóttir`
+-------> Danish `datter`
+-------> Icelandic `dóttir`
+----->  West Germanic
+------> Old English `dohtor`
+-------> English `daughter`
+-------> Scots `dochter`
+------> Frankish `dohter`
+-------> Dutch `dochter`
+------> Old High German `tohter`
+-------> German `Tochter`
+-------> Yiddish `טאָכטער>` <tokhter>
+
+----> Hellenic <tʰugatēr>
+-----> Mycenaean Greek `𐀶𐀏𐀳` <tu-ka-te>
+-----> Ancient Greek `θυγάτηρ` <thugátēr>: "daughter, female slave, maidservant"
+------> Greek `θυγατέρα` <thygatéra>: "daughter (archaic)"
+
+----> Indo-Iranian <*dʰugʰdʰā>/<dʰúǰʰitā>  (both forms as part of a single paradigm)
+-----> Indo-Aryan <*dʰúhitā>
+------> Dardic
+-------> Kashmiri <čhu>
+------> Sanskrit `दुहितृ` <dúhitṛ>
+-------> Elu
+--------> Sinhala `දුව` <duwa>
+-------> Magadhi
+--------> Assamese `দুহীতা` <duhita>
+-------> Maharashtri
+--------> Old Marathi `धुवा` <dhuvā>
+-------> Sauraseni `𑀥𑀻𑀤𑀸` <dhīdā>
+--------> Madhya
+---------> Hindi `धिया` <dhiyā>
+--------> Pahari
+---------> Punjabi `ਧੀ` <dhī>
+-------> Pali <duhitā>
+--------> Khmer `ធីតា` <thiidaa>: "daughter, girl" (formal)
+-------> Hindi `दुहितृ` <duhitŕ> (reborrowing)
+-------> Telugu `దుహిత` <duhita>
+-----> Iranian <*dugdā>
+------> East Iranian
+-------> Avestan <dugədar>
+-------> Pashto `لور` <lur>
+------> West Iranian
+-------> Kurdish `do-`: "daughter (in compounds)"
+--------> Kurdish `domam`: "uncle's daughter, cousin"
+-------> Old Persian <*duxçī>
+--------> Persian `دختر` <doxtar>
+
+----> Italic <*fuɣtēr>
+-----> Oscan `𐌚𐌖𐌕𐌝𐌓` <futír> (only attested as dative)
+
+----> Tocharian <*täkā́cër>
+-----> Arshian `ckācar`
+-----> Kuchean `tkācer`
+
+----> Proto-Indo-European <*dʰugh₂tḗr dyēws>: "daughter of Dyeus"
+
+-----> Hellenic
+------> Homeric Greek `Διὸς θυγάτηρ` <dios thugatēr>: "daughter of Zeus" (Aphrodite, Helen) ⁴
+
+-----> Indo-Iranian
+------> Indo-Aryan
+-------> Vedic Sanskrit `दुहिता दिव` <duhitā́ diváḥ>: "Daughter of the Sky" (Ushas) ⁴
+
+endbody

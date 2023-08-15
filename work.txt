@@ -1,0 +1,312 @@
+date: 20220812
+tags: Divinities, Elements
+
+
+
+startbody
+
+Proto-Indo-European <*werǵ->: "to make"
+
+
+-> Proto-Indo-European <*wérǵeti>: "makes"
+
+
+--> Albanian `argëtój`: "I entertain, I amuse"
+
+--> Celtic <*wregeti>: "does, makes"
+---> Brythonic <*gwrėɣɨd>
+----> Welsh `gwneud`: "doing, making"
+----> Pictish `ᚒᚏᚏᚐᚉᚈ` <urract>: "he made"
+---> Old Irish `fairged`
+
+
+-> Proto-Indo-European <*wr̥ǵti>
+
+--> Indo-Iranian <*wr̥šti> (voicing assimilation from <*wr̥ȷ́ti>)
+---> Indo-Iranian <*swawr̥šti>
+----> Indo-Aryan
+-----> Sanskrit `𑀲𑁆𑀯𑀯𑀾𑀱𑁆𑀝𑀺` <svávṛṣṭi> (epithet of Indra)
+
+
+-> Proto-Indo-European  <*wr̥ǵyéti>: "makes" (intransitive/deponent imperfective?)
+
+--> Germanic <*wurkijanã>: "to work, to make"
+---> East Germanic
+----> Gothic `𐍅𐌰𐌿𐍂𐌺𐌾𐌰𐌽` <waurkjan>: "to work, to make"
+----> Crimean Gothic `warthata`: "made"
+---> North Germanic `ᚹᛟᚱᚨᚺᛏᛟ` <worahto>: "I made" (Tune Stone)
+----> Old Norse `yrkja`: "to work, to compose"
+-----> Icelandic `yrkja`: "to cultivate, to till"
+-----> English `irk`
+-----> Old Norse `orka`: "work, strength"
+------> Danish `orke`
+------> Icelandic `orka`: "strength, power, energy"
+---> West Germanic
+----> Old English `wyrċan`: "to make, to work, to do"
+-----> English `work`
+
+
+--?> Finnic <*pürkidäk>: "to strive for, to tend to (do)"
+----> Finnish `pyrkiä`: "to strive to, to pursue, to aspire to be, to tend to (do)"
+--?> Samic <*përkëtēk>: "to work"
+----> Northern Sami `bargat`: "to do, to work"
+-----> Northern Sami `bargu`: "work, job"
+
+--> Hellenic <*wreďďō>
+---> Classical Greek `ῥέζω` <rhézō>: "to do, to make, to act"
+
+--> Indo-Iranian <*wr̥ȷ́yáti>
+---> Indo-Aryan
+----> Sanskrit `𑀯𑀾𑀚𑁆𑀬𑀢𑁂` <vṛjyáte>
+---> Iranian
+----> Avestan `𐬬𐬆𐬭𐬆𐬰𐬌𐬌𐬈𐬌𐬙𐬌` <vərəziieiti>
+
+
+-> Proto-Indo-European <*wérǵyeti>   (transitive imperfective?)
+
+--> Germanic <*wirkijanã>: "to make, to make happen"
+---> North Germanic
+----> Old Norse `virkja`
+-----> Danish `virke`: "to work, to function, to affect, to seem"
+------> Icelandic `virka`: "to work, to function"
+-----> Icelandic `virkja`: "to make work, to harness, to exploit"
+---> West Germanic
+----> Frankish
+-----> Dutch `werken`
+----> Old High German `wirken`
+-----> German `wirken`: "to work, to function, to seem, to take effect"
+
+--> Hellenic <*wérďō>
+---> Mycenaean Greek `𐀺𐀽𐀁` <wo-ze-e> [worzei]: "to work"
+---> Classical Greek `ἔρδω` <érdō>: "to act, to do, to perform"
+
+
+-> Proto-Indo-European <*wr̥ǵtós>: "worked, made" (adjective)
+
+--> Germanic <*wurhtaz>: "done, made, happened" (/past participle of <*wurkijaną>)
+---> West Germanic
+----> Old English `(ġe)worht`
+-----> English `wrought`
+
+---> Germanic <*wurhtijō>: "worker, workman, maker"
+----> West Germanic
+-----> Old English `wyrhta`: "worker, maker"
+------> English `wright`
+-----> Frankish <*wurhto>
+------> Dutch `wrecht`: "worker, builder, wright"
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan `𐬬𐬀𐬭𐬱𐬙𐬀` <varšta>: "done, complete, worked"
+
+
+
+-> Proto-Indo-European <*wérǵom>: "a work, a making"
+
+--> Old Armenian `գործ` <gorc>: "work, deed, action, business, effect"
+---> Armenian `գործ` <gorc>: "work, job, business"
+
+
+--> Germanic <*werką>: "work (noun)"
+---> North Germanic
+----> Old Norse `verk`: "work"
+-----> Danish `værk`: "work, creation"
+-----> Icelandic `verk`: "work, chore, creation"
+-----> Old Norse `Bǫlverkr`: "Bale-Worker, Evil-Doer (pseudonym of Odin)"
+---> West Germanic
+----> Old English `weorc`
+-----> English `work`
+-----> Old English `Nīewe Weorc`: "New Work (place name)"
+------> English `Newark`
+----> Frankish <*werk>
+-----> Dutch `werk`: "task, job, chore, creation"
+----> Old High German `werc`
+-----> German `Werk`: "creation, achievement, factory"
+----> Old Saxon
+-----> Middle High German `werk`
+------> Middle High German `bolwerk`: "bulwark, stronghold" ("tree trunk work")
+-------> Dutch `bolwerk`
+--------> English `bulwark`
+--------> French `boulevard`
+---------> English `boulevard`
+
+--> Hellenic <*wérgon>
+---> Classical Greek `ἔργον` <érgon>: "work, labor, task, deed, result of work, creation"
+----> Greek `έργο`: "work, project, creation"
+
+----> Classical Greek `ἐργάτης` <ergátēs>: "worker, laborer, capstan, winch"
+-----> Greek `εργάτης` <ergátis>: "worker, laborer, servant, capstan, winch"
+-----> Ottoman Turkish `ارغات` <ırgat>
+------> Turkish `ırgat`
+------> Albanian `argat`
+------> Serbo-Croatian `а̀ргат` <àrgat>
+
+----> English `ergo-`
+-----> English `ergonomic`
+
+
+--> Indo-Iranian <*wárȷ́am>
+---> Indo-Aryan
+----> Sanskrit `𑀯𑀭𑁆𑀚` <várja>
+---> Iranian
+----> Avestan `𐬬𐬀𐬭𐬆𐬰𐬆𐬨` <varəzəm>
+
+--> Tocharian
+---> Arshian <wark>: "wickerwork, basketry"
+
+
+
+-> Proto-Indo-European <wérǵos>: "working, a work"
+
+--> Celtic <*wergos>: "active, lively"
+---> Brythonic
+----> Welsh `gwery`
+---> Gaulish <*wergobretos>
+----> Latin `vergobretus`
+
+--> Hellenic
+---> Classical Greek `εργός` <ergós>: "working, active, complete"
+
+----> Classical Greek `ἐνεργός` <energós>: "at work, active"
+-----> Classical Greek `ἐνέργειᾰ` <enérgeia>: "activity, vigor, workmanship, cosmic force"
+------> Latin `energia`
+-------> English `energy`
+-------> German `Energie`
+
+----> Classical Greek `ᾰ̓εργός` <aergós> "not working, idle, lazy, incomplete"
+-----> Classical Greek `ᾱ̓ργός` <ārgós>: "not working, idle, lazy, incomplete" (contraction)
+------> New Latin `argon`
+-------> Translingual `Ar`
+-------> English `argon`
+
+------> Classical Greek `λήθᾱργος` <lḗthārgos>: "forgetful, lethargic"
+-------> Classical Greek `ληθᾱργίᾱ` <lēthārgíā>
+--------> English `lethargy`
+
+----> German `Allergie`: "allergy" (learned construction "other-work", based on `Energie`)
+-----> English `allergy`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀊𑀭𑁆𑀚𑁆` <ū́rj>: "vigor, strength, sap"
+---> Iranian
+----> Avestan `𐬬𐬀𐬭𐬆𐬰` <varǝz>: "strength, performance, work, activity"
+
+
+-> Proto-Indo-European <*worǵós>: "worker, maker"
+
+--> Hellenic <*-worgós> (used in compounds)
+---> Mycenaean Greek `-𐀺𐀒` <-wo-ko> [-worgos]
+----> Mycenaean Greek `𐀆𐀓𐀶𐀺𐀒` <de-ku-to-wo-ko> [dektu-worgos]: "net-maker"
+----> Mycenaean Greek `𐀂𐀋𐀫𐀺𐀒` <i-je-ro-wo-ko> [hiero-worgos]: "priest" (lit. "holy-worker")
+----> Mycenaean Greek `𐀓𐀬𐀰𐀺𐀒` <ku-ru-so-wo-ko> [khruso-worgos]: "goldsmith" ("gold-worker")
+---> Classical Greek `-ουργός` <-ourgós>
+----> Classical Greek `γεωργός` <geōrgós>: "tilling the ground, farmer" ("earth-work")
+-----> Classical Greek `Γεώργιος` <Geṓrgios>: personal name
+------> Latin `Geōrgius`
+-------> English `George`
+----> Classical Greek `δημῐουργός` <dēmiourgós>: "skilled worker, craftsman, builder, public engineer, magistrate" #
+-----> Koine Greek `Δημιουργός` <Dēmiourgós>: "Demiurge" #
+------> English `Demiurge` #
+----> Classical Greek `λειτουργός` <leitourgós>: "public servant" ("townhall worker")
+-----> Classical Greek `λειτουργία` <leitourgíā>: "public service, ministration"
+------> Greek `λειτουργία` <leitourgía>: "function, service, liturgy, Mass"
+------> Latin `lītūrgia`: "liturgy"
+-------> English `liturgy`
+----> Classical Greek `μεταλλουργός` <metallourgós>: "miner, metal-worker"
+-----> French `métallurgie`
+------> English `metallurgy`
+----> Classical Greek `χειρουργός` <kheirourgós>: "craftsman, surgeon" ("hand-worker")
+-----> Latin `chīrūrgus`: "surgeon"
+-----> Classical Greek `χειρουργία` <kheirourgíā>: "handiwork, handicraft, surgery"
+------> Latin `chīrūrgia`: "surgery"
+-------> Western Romance
+--------> Old French `surgie`
+---------> English `surgery`
+-------> Latin <*chīrurgiānus>
+--------> Western Romance
+---------> Old French `surgien`
+----------> English `surgeon`
+---------> Old French `cirurgiien`
+----------> French `chirurgien`
+----------> Dutch `chirurgijn`
+----------> English `chirurgeon`
+
+
+-> Proto-Indo-European <*wérǵih₂>
+
+--> Celtic <*wergā>: "anger"
+---> Old Irish `ferg`: "anger, wrath"
+----> Irish `fearg`: "anger"
+
+
+-> Proto-Indo-European <*worǵéh₂>
+
+--> Hellenic <*worgā́>
+---> Classical Greek `ὀργή` <orgḗ>: "temper, passion, anger, temperament"
+----> Greek `οργή` <orgí>: "rage, anger"
+
+----> Classical Greek `ὀργάω` <orgáō>: "I am eager, I am excited, I ripen, I am aroused"
+-----> Classical Greek `ὀργασμός` <orgasmós>: "eagerness, arousal, orgasm"
+------> Greek `οργασμός` <orgasmós>
+------> French `orgasme`
+-------> English `orgasm`
+
+----> Classical Greek `ὀργίζω` <orgízō>: "I anger, I irritate, I become angry"
+-----> Greek `οργίζω` <orgízo>: "I anger, I enrage"
+
+----> Classical Greek `ὄργια` <órgia>: "secret rituals, cultic practices"
+-----> Latin `orgia`: "secret revel, festival of Bacchus, orgy"
+------> French `orgie`
+-------> English `orgy`
+
+
+-> Proto-Indo-European <*worǵnom>: "tool for work"
+
+--> Hellenic <*worganon>
+---> Classical Greek `ὄργᾰνον` <órganon>: "tool, instrument, musical instrument, sense organ"
+----> Greek `όργανο` <órgano>: "body organ, musical instrument, appliance, equipment"
+----> Aramaic `𐡀𐡅𐡓𐡂𐡍𐡅𐡍` <ʾōrganōn>: "instrument, tool, vessel, body organ"
+----> Old Armenian `երգիոն` <ergion>: "(pipe) organ"
+-----> Armenian `երգեհոն` <ergehon>: "(pipe) organ"
+----> Latin `organum`: "implement, tool, musical instrument"
+-----> French `organe`: "organ"
+------> English `organ`
+-----> French `orgue`: "(pipe) organ"
+------> English `orgue`
+------> Persian `ارگ` <org>: "(pipe) organ"
+-----> Latin `organicus`
+------> French `organique`
+-------> English `organic`
+-----> Medieval Latin `organizō`: "I organize"
+------> French `organiser`: "to organize"
+-------> English `organize`
+-------> French `organisation`
+--------> English `organization`
+----> Persian `ارغنون` <arğanun>: "(pipe) organ"
+
+
+
+
+endbody
+
+startnotes
+
+# I always associated the Gnostic "Demiurge" with "demigod", and assumed it was "demi-": "half". But that's a Latin prefix. "Demiurge" actually has the "demi-" meaning "people, public" from "democracy" or "demographic" instead; a dēmiourgós was a public craftsman, often an engineer of public works.
+
+endnotes
+
+
+
+
+
+-?> Balto-Slavic
+---> East Baltic
+----> Lithuanian `varžas`: "fish trap, crossbar, resistor"
+---> Slavic <*vь̀rša>: "fish trap, fishing basket"
+----> East Slavic `вьрша` <vĭrša>
+-----> Russian `ве́рша` <vérša>
+----> South Slavic
+-----> Serbo-Croatian `вр̑ша` <vȓša>
+----> West Slavic
+-----> Polish `wiersza`

@@ -1,0 +1,173 @@
+startbody
+
+Egyptian Hieroglyphs `𓏴` <swꜣ, ḥḏj, wpj, ḏꜣj, …>
+-> Egyptian Hieratic
+
+-?> Proto-Sinatic <t>
+
+---> Ugaritic `𐎚` <t>
+
+---> Old South Arabian `𐩩` <t>
+----> Ge'ez `ተ` <t>
+-----> Ge'ez `ቸ` <t͡ʃ>
+
+---> Phoenician `𐤕` <t>
+---?> Libyco-Berber
+----?> Tuareg Tifinagh `ⵜ` <t>
+------> Neo-Tifinagh `ⵜ` <t>
+-------> Neo-Tifinagh `ⵝ` <θ>
+----> Southern Archaic Greek `Τ`
+-----> Western Archaic Greek `Τ`
+------> Old Italic `𐌕` <t>
+-------> Roman `T` <t>
+--------> Cherokee `Ꭲ` <i>
+-------> Futhark `ᛏ` <t>
+------> Eastern Archaic Greek `Τ` <t>
+-------> Classical Greek `Τ` <t>
+--------> Coptic `Ⲧ` <t>
+--------> Cyrillic `Т` <t>
+---------> Serbian Cyrillic `Ћ` <t͡ɕ>
+--------> Gothic `𐍄` <t>
+--------> Lycian `𐊗` <t, d>
+--------> Lydian `𐤯` <t, d>
+---------> Lydian `𐤳` <ʃ>
+----------> Lydian `𐤴` <t͡ʃ>
+---------> Lydian `𐤹` <t͡s>
+-------?> Armenian `Տ` <t>
+---------> Caucasian Albanian `𐕜` <tʼ>
+-------?> Georgian Asomtavruli `Ⴟ` <d͡ʒ>
+---------> Georgian Nuskhuri `ⴟ` <d͡ʒ>
+----------> Georgian Mkhedruli `ჯ` <d͡ʒ>
+-------?> Glagolitic `Ⱅ` <t>
+
+----> Imperial Aramaic `𐡕` <t, θ>
+-----> Elymaic `𐿵` <t>
+-----> Hatran `𐣵` <t>
+-----> Hebrew `ת` <t, θ>
+-----> Syriac `ܬ` <t, θ>
+-----> Samaritan `ࠕ` <t>
+-----> Nabataean `𐢞` <t>
+------> Arabic
+-------> Naskh `ت` <t>
+--------> Sindhi Naskh `ٺ` <ʈʰ>
+--------> Sindhi Naskh `ٽ` <ʈ>
+--------> Sindhi Naskh `ٿ` <tʰ>
+-------?> Adlam `𞤚`
+-------> Nastaʿlīq `ت` <t>
+--------> Pashto `ټ` <ʈ>
+--------> Urdu `ﭦ` <ʈ>
+-----> Kharosthi `𐨟` <t>
+-----> Mandaic `ࡕ`
+-----> Inscriptional Pahlavi `𐭲`
+------> Inscriptional Parthian `𐭕`
+------> Psalter Pahlavi `𐮑`
+------> Avestan `𐬙`
+-----> Old Sogdian `𐼚`
+------> Sogdian `𐽂`
+-------> Mongolian `ᠲ` <t>
+------> Old Uyghur `𐾀`
+-------> Mongolian `ᠲ` <t>
+--------> Mongolian `ᠳ` <d, tʰ, t>
+------> Manichaean `𐫤` <t>
+------> Old Turkic `𐱅` <tö>
+-------> Yenisei `𐱆` <tö>
+
+-----?> Brahmi `𑀢` <ta>
+-------> Northern Brahmi
+--------> Gupta
+---------> Sharada `𑆠` <ta>
+----------> Landa
+-----------> Gurmukhi `ਤ` <ta>
+-----------> Khojki `𑈙` <ta>
+-----------> Khudabadi `𑋍` <ta>
+-----------> Mahajani `𑅣` <ta>
+-----------> Multani `𑊖` <ta>
+----------> Takri `𑚙` <ta>
+-----------> Dogri `𑠙` <ta>
+-----------> Sirmauri
+---------> Siddham `𑖝` <ta>
+----------> Nagari
+-----------> Devanagri `त` <ta>
+-----------> Modi `𑘝` <ta>
+-----------> Gujarati `ત` <ta>
+-----------> Nandinagari `𑦽` <ta>
+-----------> Kaithi `𑂞` <ta>
+------------> Syleti Nagari `ꠔ` <ta>
+----------> Gadui
+-----------> Eastern Nagari `ত` <ta>
+------------> Assamese `ত` <ta>
+------------> Bengali `ত` <ta>
+-----------> Odia `ତ` <ta>
+-----------> Tirhuta `𑒞` <ta>
+----------> Nepal Script
+-----------> Pracalit Newa `𑐟` <ta>
+-----------> Soyombo `𑩫` <ta>
+----------> Bhaiksuki `𑰝` <ta>
+----------> Tibetan `ཏ` <ta>
+-----------> Meitei `ꯇ` <ta>
+-----------> Lepcha `ᰊ` <ta>
+------------> Limba `ᤋ` <ta>
+-----------> ʼPhags-pa `ꡈ` <ta>
+------------> Zanabazar `𑨙` <ta>
+-----------> Marchen `𑱺` <ta>
+--------> Tocharian
+-------> Southern Brahmi
+--------> Tamil-Brahmi
+---------> Pallava
+----------> Tamil `த` <ta>
+----------> Grantham `𑌤` <ta>
+-----------> Malayalam `ത` <ta>
+-----------> Tigalari
+-----------> Dhives Akuru `𑤛` <ta>
+------------> Thaana `ތ` <ta>
+-----------> Saurashtra `ꢡ` <ta>
+----------> Khmer `ត` <ta>
+-----------> Khom Thai `ด` <ta>
+-----------> Sukothai <tá>
+------------> Thai `ด` <tá>
+-------------> Tai Viet `ꪔ` <tá>
+------------> Sukothai <tà>
+-------------> Thai `ต` <tà>
+--------------> Tai Viet `ꪕ` <tà>
+------------> Fakkham
+-------------> Thai Noi
+--------------> Lao `ຕ` <ta>
+----------> Cham `ꨓ` <ta>
+----------> Kawi
+-----------> Balinese `ᬢ` <ta>
+-----------> Batak `ᯖ` <ta>
+-----------> Buda
+-----------> Javanese `ꦠ` <ta>
+-----------> Sundanese `ᮒ` <ta>
+-----------> Lampung
+-----------> Lontara `ᨈ` <ta>
+-----------> Makasar `𑻦` <ta>
+-----------> Rencong
+-----------> Rejang `ꤳ` <ta>
+-----------> Baybayin `ᜆ` <ta>
+------------> Buhid `ᝆ` <ta>
+------------> Hanunoo `ᜦ` <ta>
+------------> Tagbanwa `ᝦ` <ta>
+------------> Kulitan
+----------> Old Mon
+----------?> Burmese `တ` <ta>
+---------> Vatteluttu
+----------> Kolezhuthu
+----------> Malayanma
+--------> Sinhala `ත` <ta>
+--------> Bhattiprolu
+---------> Kadamba
+----------> Telugu `త` <ta>
+----------> Kannada `ತ` <ta>
+----------> Pyu
+----------?> Burmese `တ` <ta>
+------------> Chakma `𑄖` <ta>
+------------> Lik-Tai `တ` <ta>
+-------------> Ahom `𑜄` <ta>
+-------------> Khamti
+-------------> Tai Le `ᥖ` <ta>
+------------> Mon `တ` <ta>
+-------------> Tai Tham `ᨲ` <ta>
+--------------> Tai Lue `ᦎ` <ta>
+
+endbody

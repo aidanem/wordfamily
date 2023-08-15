@@ -1,0 +1,309 @@
+date: 20181207
+theme: Pre-Classical Mediterranean 🏝️
+
+
+startbody
+
+Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
+
+
+-> Proto-Indo-European <*ǵerh₂e-ti> (primary verb)
+
+--> Balto-Slavic
+---> Slavic <*zьrěti>: "to ripen"
+----> East Slavic
+-----> Russian `зреть` <zretʹ>: "to ripen, to mature"
+-----> Ukrainian `зрі́ти` <zríty>: "to ripen, to grow, to form"
+----> South Slavic
+-----> Serbo-Croatian `зре̏ти` <zrȅti>: "to ripen, to mature"
+----> West Slavic
+-----> Polish `źrzeć`: "to ripen"
+----> Slavic <*zьrělъ>: "ripe"
+-----> East Slavic `зьрѣлыи` <zĭrělyi>: "ripe"
+------> Russian `зре́лый` <zrélyj>: "mature, ripe"
+-----> South Slavic
+------> Old Church Slavonic `зьрѣлъ` <zĭrělŭ>: "ripe"
+
+--> Indo-Iranian <*ĵárati>
+---> Indo-Aryan <*ȷ́árati>
+----> Sanskrit `𑀚𑀭𑀢𑀺` <járati>: "to make old"
+
+
+-> Proto-Indo-European <*ǵr̥h₂y-éti> (intransitive imperfective)
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀽𑀭𑁆𑀬𑀢𑀺` <juryati>: "to grow old, to decay, to become decrepit"
+
+--> Tocharian <*kwär->: "to age, to grow old"
+---> Arshian <*kwär->
+---> Kuchean <*kwär->
+
+
+-> Proto-Indo-European <*ǵorh₂eu?>
+
+-?> Anatolian
+---> Hittite <karū>: "formerly, earlier, already"
+
+
+-> Proto-Indo-European <*ǵr̥h₂nó-s>: "matured, old" (basic adjective)
+
+--> Indo-Iranian <*ĵr̥Hnás>
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀻𑀭𑁆𑀡` <jīrṇá>: "aged, worn out, decayed"
+
+
+
+-> Proto-Indo-European <*ǵr̥h₂yó-s>: "matured, old" (alternate adjective form)
+
+--> Hellenic
+---> Ancient Greek `γεραιός` <geraiós>: "old"
+----> Latin `Grāius`
+
+
+--> Proto-Indo-European <*ǵr̥h₂yeh₂>: "old person, old women"
+
+---> Hellenic
+----> Ancient Greek `γραῖα` <graîa>: "old woman"
+-----> Greek `γριά` <griá>: "old woman"
+----?> Ancient Greek `Γραῖα` <Graîa>: "an ancient Greek city in Boeotia"
+-----?> Ancient Greek `Τᾰ́νᾰγρ(αῖ)ᾰ` <Tánagr(ai)a>: "Greek city in Boeotia, sometimes identified with Graîa"
+------> Ancient Greek `Γραικός` <Graikós>: "inhabitant of Graia"
+-------> Latin `Graecus`: "Greek" (presumably after early visitors/colonists to southern Italy from Graia)
+--------> Sardinian `grecu`: "Greek"
+--------> Eastern Romance
+---------> Romanian `grec`: "Greek"
+--------> Western Romance
+---------> Old French `griu`: "Greek"
+---------?> French `grive`: "thrush (bird)"
+---------?> French `pie-grièche`: "shrike (bird)"
+---------> Italian `greco`: "Greek"
+---------> Spanish `griego`: "Greek"
+---------?> Spanish `gringo`: "foreigner, outlander"
+-----------> English `gringo`
+--------> Old English `Grecas`: "Greek"
+---------> English `Greek`
+---------> Old English `Grēcland`
+--------> French `grec`: "Greek"
+--------> Gothic `𐌺𐍂𐌴𐌺𐍃` <krēks>: "Greek"
+--------> Latin `Graecia`: "Greece"
+---------> Western Romance
+----------> French `Grèce`
+-----------> English `Greece`
+
+
+-> Proto-Indo-European <*ǵerh₂ro-s>
+
+--> Hellenic
+---> Ancient Greek `γεραρός` <gerarós>: "old man, respectable, majestic"
+
+
+
+-> Proto-Indo-European <*ǵérh₂onts>: "old" (Caland adjective)
+
+--> Old Armenian `ծերուն` <cerun>: "old"
+---> Armenian `ծերուն` <cerun>: "old"
+---> Old Armenian `ծերունի` <ceruni>: "old person, aged, senile"
+----> Armenian `ծերունի` <ceruni>: "old person, aged, senile"
+
+--> Hellenic
+---> Ancient Greek `γέρων` <gérōn>: "old, old man, elders, council of elders"
+----> Greek `γέροντας` <gérontas>
+----> English `geronto-`
+
+--> Indo-Iranian <*ĵárHants>
+---> Indo-Aryan <*ĵárHants>
+----> Sanskrit `𑀚𑀭𑀢𑁆` <járat>: "old, ancient, decayed"
+---> Iranian <*ĵárHanth>
+----> Northern Iranian
+-----> Scythian
+------> Alanian <*zarand>
+-------> Ancient Greek `Ζάρανδος` <Zárandos> (personal name)
+------> Ossetian `зӕронд` <zærond>: "old, ancient, archaic"
+
+--> Messapic
+---> Messapian <*deranθ->: "old"
+----> Messapian `ΔΕΡΑΝθΟΑ` <deranθoa>: "elders, council of elders, senate"
+
+--> Tocharian <*śärān->
+---> Kuchean <śrāñ->: "old"
+
+
+-> Proto-Indo-European <*ǵērh₂-s>
+
+--> Hellenic
+---> Ancient Greek `γῆρας` <gêras>: "age, old age"
+----> English `geriatric`
+---?> Ancient Greek `γέρας` <géras>: "gift of honour, gift, perquisite, reward"
+
+
+-> Proto-Indo-European <*ǵérh₂o>: "old person, old man"
+
+--> Old Armenian `ծեր` <cer>: "old man, elder"
+---> Armenian `ծեր` <cer>: "old, old man"
+
+--> Germanic <**karą>: "old man"
+---> Germanic <*karilaz>: "young man, free man, franklin" (dimunitive)
+----> North Germanic `ᚲᚨᚱᛁᛚᚨᛉ` <karilaz>
+-----> Old Norse `karl`: "man"
+------> Danish `karl`: "farmhand, groom, guy"
+------> Icelandic `karl`: "man, husband"
+------> Old English `carl`
+-------> English `carl`
+-----> Finnic <karilas>
+----> West Germanic
+-----> Old English `ċeorl`: "man, peasant, churl"
+------> English `churl`
+-----> Frankish <*karal>
+----> Samic
+-----> Northern Sami `gállis`: "old man"
+----> Germanic <*Karilaz> (personal name)
+-----> North Germanic
+------> Old Norse `Karl`
+-------> Danish `Karl`
+--------> Kalaallisut `Kaarali`
+-------> Icelandic `Karl`
+-------> English `Carl`
+-----> West Germanic
+------> Old High German <*Karal>
+-------> German `Karl`
+--------> English `Carl`
+-------> Latin `Carolus`
+--------> Western Romance
+---------> Old French `Carles`
+----------> French `Charles`
+-----------> English `Charles`
+----------> Old French `Carles li magnes`: "Charles the Great, Charlemagne"
+-----------> French `Charlemagne`
+------------> English `Charlemagne`
+---------> Italian `Carlo`
+---------> Spanish `Carlos`
+-------> Slavic <*kõrljь>: "Charlemagne, king"
+--------> East Slavic `король` <korolĭ>: "king"
+---------> Russian `коро́ль` <korólʹ>: "king"
+--------> South Slavic
+---------> Serbo-Croatian `кра̑љ` <krȃlj>: "king"
+---------> Hungarian `király`: "king"
+---------> Romanian `crai`: "king, emperor, ruler, lady's man"
+---------> Ottoman Turkish `قرال‎` <kral>: "king"
+----------> Turkish `kral`: "king"
+--------> West Slavic
+---------> Polish `król`: "king"
+
+
+-> Proto-Indo-European <*ǵr̥h₂nóm>: "grain"
+
+--> Proto-Albanian <*grunā>: "wheat"
+---> Albanian `grurë`: "wheat"
+
+--> Balto-Slavic <*źirˀna->: "grain"
+---> Lithuanian `žìrnis`: "pea"
+---> Slavic <*zь̀rno>: "grain"
+----> East Slavic
+-----> Russian `зерно́` <zernó>: "grain, cereal, seed"
+----> South Slavic
+-----> Old Church Slavonic `зрьно` <zrĭno>: "grain"
+-----> Serbo-Croatian `зр̏но` <zȑno>: "grain, kernel, bullet"
+----> West Slavic
+-----> Polish `ziarno`: "grain"
+---> Finnic <*herneh> :"pea"
+----> Finnish `herne`: "pea"
+
+--> Celtic <*grānom>
+---> Brythonic <*grọn>
+----> Welsh `grawn`: "cereal, seed"
+-----> Welsh `grawnwin`: "grape" (lit. "seed-wine")
+---> Old Irish `grán`
+----> Irish `grán`: "grain"
+
+--> Germanic <*kurną>: "grain, cereal"
+---> East Germanic
+----> Gothic `𐌺𐌰𐌿𐍂𐌽` <kaurn>: "grain, seed"
+-----> Crimean Gothic `kor`: "wheat, grain"
+---> North Germanic
+----> Old Norse `korn`: "grain"
+-----> Danish `korn`: "cereal, grain"
+-----> Icelandic `korn`: "cereal, grain"
+------> Icelandic `frjókorn`: "pollen"
+---> West Germanic
+----> Old English `corn`: "grain, seed"
+-----> English `corn`
+------> Māori `kānga`: "maize, corn"
+----> Frankish <*korn>
+-----> Dutch `koren`: "grain"
+------> Afrikaans `koring`: "wheat"
+----> Old High German `korn`
+-----> German `Korn`: "kernel, bead, cereal, grain"
+------> German `Korn(brand)`: "grain brandy, Korn"
+-------> English `Korn`
+-----> Yiddish `קאָרן‎` <korn>
+---> Samic
+----> Northern Sami `gordni`: "grain"
+---> Germanic <*kurnilaz>: "kernel"
+----> West Germanic
+-----> Old English `cyrnel`
+------> English `kernel`
+-----> Old High German
+------> Yiddish `קערנדל` <kerndl>: "kernel"
+
+--> Italic <*grānom>
+---> Latin `grānum`: "grain, seed, kernel"
+----> Eastern Romance
+-----> Romanian `grâu`: "wheat, grain, cereal"
+----> Western Romance
+-----> Old French `grain`
+------> French `grain`
+------> English `grain`
+------> Irish `gráinne`: "single grain, small amount"
+-----> Italian `grano`: "wheat, cereal, grain, peppercorn, bead, money"
+------> Italian `granire`: "to granulate"
+-------> Italian `granito`: "granite" (lit. "granulated")
+--------> French `granit`: "granite"
+---------> English `granite`
+-----> Spanish `grano`: "cereal, seed, bean, grain, pimple, point"
+----> Latin `grānulum`: "small grain, granule"
+-----> English `granule`
+----> Latin `grānātus`: "having many seeds or grains"
+-----> Western Romance
+------> Spanish `granado`: "grained, seeded, rich"
+-----> Latin `grānātum`: "pomegranate"
+------> Western Romance
+-------> Old French `grenate`: "pomegranate"
+--------> French `grenade`: "pomegranate, grenade
+---------> English `grenade`
+--------> French `grenat`: "garnet"
+--------> English `garnet`
+--------> Old French `pomme grenate`: "pomegranate" (lit. "pomegranate fruit")
+---------> English `pomegranate`
+-------> Italian `granata`: "pomegranate, grenade"
+--------> Italian `granato`: "garnet"
+-------> Spanish `granada`: "pomegranate, grenade, artillery shell"
+
+
+----> Latin `grānārium`: "granary"
+-----> Eastern Romance
+------> Romanian `grânar`: "granary"
+-----> Western Romance
+------> Old French
+-------> French `grenier`: "granary, attic, garret"
+-------> English `garner`
+------> Italian `granaio`: "granary, barn"
+------> Spanish `granero`: "granary, barn"
+-----> English `granary`
+----> Vulgar Latin <*granica>
+-----> Western Romance
+------> Old French `grange`: "granary, barn, small farm"
+-------> French `grange`: "barn"
+-------> English `grange`
+-------> Italian `grangia`: "grange, monastic farm"
+
+
+-> Proto-Indo-European <*ǵérhmn̥> (resultative noun)
+
+--> Indo-Iranian
+---> Iranian
+----> West Iranian
+-----> Old Persian
+------> Persian `خرمن` <xarman>: "harvest, crop"
+
+endbody

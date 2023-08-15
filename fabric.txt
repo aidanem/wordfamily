@@ -1,0 +1,130 @@
+date: 20170519
+theme: Cloth 👘
+tags: Cloth, Sumerian
+
+
+startintro
+
+A small family, apparently from <*dʰeh₂bʰ->: "fit together, fitting, make".
+
+Germanic <*(ge)dabaną>: "to fit, to be fitting" and Balto-Slavic forms like Lithuanian `dabinti`: "to decorate, to beautify" and Slavic <*dobrъ>: "good" are almost certainly related to each other. Likewise Latin `faber`: "craftsman, maker, smith" and Armenian `դարբին` <darbin>: "blacksmith, smith" are also almost certainly related to each other. The two groups seem related, but there are severeal issues. One explanation for the inconsistencies is they could all be borrowings from outside PIE.
+
+Armenian and/or Latin could also be related to Sumerian <tabira>: "joiner" and/or Hurrian <tabiri>: "metal founder, smelter", but the direction is not obvious. The Hurrians were probably getting their iron from Armenian at the time, so the Hurrian could be borrowed from Proto-Armenian. Compare, the Armenian endonym `հայ` <hay> is thought to be related to <*h₂éyos>, which originally meant "copper, bronze", but later shifted to mean "iron" in some langauges, and "metal" generally in others.
+
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*dʰeh₂bʰ->: "fit together, fitting, make"
+
+?> Proto-Indo-European <*dʰh₂bʰénti> (imperfective)
+
+--> Balto-Slavic
+---> Lithuanian `dabinti`: "to decorate, to beautify"
+
+--> Germanic <*(ge)dabaną>: "to fit, to be fitting"
+---> East Germanic
+----> Gothic `𐌲𐌰𐌳𐌰𐌱𐌰𐌽` <gadaban>: "to happen, to be appropriate"
+---> North Germanic
+----> Old Norse `dafna`: "thrive"
+-----> Icelandic `dafna`: "thrive"
+---> Germanic <*daftuz>: "fit, appropriate, convenient"
+----> West Germanic
+-----> Old English `dæfte` ####
+------> English `deft` ####
+------> English `daft` ####
+-----> Frankish <*daftih>
+------> Middle Dutch `deftich`: "suitable, solid, weighty"
+-------> Dutch `defitg`: "refined, genteel"
+-------> German `deftig`: "hearty, rustic, coarse"
+
+
+?> Proto-Indo-European <*dʰh₂bʰros>: "fitting, well suited, felicitous" (adjective)
+
+--> Balto-Slavic
+---> Lithuanian `dabà`: "habit, character"
+---> Slavic <*dobrъ>: "good" (adj.)
+----> East Slavic
+-----> Russian `до́брый` <dóbryj>: "kind, good, genial"
+----> South Slavic
+-----> Serbo-Croatian `до̏бар` <dȍbar>: "good, well-behaved"
+----> West Slavic
+-----> Polish `dobry`: "good"
+----> Slavic <*dobro>: "good, goods, goodwill" (n.)
+-----> East Slavic
+------> Russian `добро́` <dobró>: "the good, goods, approval"
+-----> West Slavic
+------> Slovak `dobro`: "good"
+-------> Translingual `Dobro` ##
+--------> English `dobro`
+
+
+
+?> Proto-Indo-European <*dʰh₂bʰḗr?> (agentive)
+
+--> Pre-Armenian
+---> Old Armenian `դարբին` <darbin>: "craftsman, blacksmith"
+----> Armenian `դարբին` <darbin>: "blacksmith, smith"
+--?> Hurrian `𒋰𒄿𒊑` <tabiri>: "metal founder, smelter"
+---?> Sumerian `𒁾𒉄` <tabira>: "joiner"
+
+--> Italic <*faβro>
+---> Latin `faber`: "craftsman, maker, smith"
+----> Central Romance
+-----> Italian `fabbro`: "smith"
+----> Eastern Romance
+-----> Romanian `faur`: "blacksmith"
+----> Western Romance
+-----> French `Favre`: "occupational surname: Smith"
+-----> French `Fabre`: "occupational surname: Smith"
+------> Translingual `Fabrosaurus` (after French geologist Jean Fabre, i.e. "John Smith")
+----> German `Faber`: "occupational surname: Smith"
+
+----> Latin `fabrica`: "workshop, smithy, industry, craft, production, fabric"
+
+-----> Western Romance
+------> Old French `faverge`: "smithy"
+-------> French `forge`: "forge"
+--------> English `forge`
+--------> Italian `forgiare`: "to forge, to fashion"
+--------> Spanish `forja`: "forge, foundry"
+-------> French `Faverges`: "place name"
+-------> Russian `Фаберже́` (Faberžé): "surname"
+--------> French `Fabergé`
+---------> English `Fabergé (egg)`
+------> Spanish `fragua`: "forge"
+
+-----> Italian `fabbrica`: "factory"
+------> Turkish `fabrika`: "factory"
+-----> German `Fabrik`: "factory"
+-----> Russian `фа́брика` <fábrika>: "factory"
+-----> French <fabrique>: "factory" (reborrowing from Latin)
+------> Dutch `fabriek`: "factory"
+-------> Malay `pabrik`: "faactory"
+------> English `fabric` ### 
+-------> Irish `fabraic`: "fabric"
+
+----> Latin `Fabricius`: "occupational gens name: Craftsman/Smith"
+-----> French `Fabrice`
+-----> Italian `Fabrizio`
+-----> Spanish `Fabricio`
+
+
+endbody
+
+
+startnotes
+
+
+
+## The guitar company Dobro's name is a pun by the Slovakian-American founders, John and Emil Dopyera, combining the Slovakian `dobro`: "good" with a contraction of "Do(pyera) bro(thers)".
+
+### Originally the phrase "cloth of fine fabric" meant "cloth of fine worksmanship", later shifting meaning to "cloth of fine material", with `fabric` coming to mean "fiber material"
+
+
+#### English `daft` and `deft` are a split of the same Old English: `dæfte`; each going through a different chain of semantic shifts: "fitting" -> "appropriate" -> "qualified" -> "skillful" (`deft`) and  "fitting" -> "appropriate" -> "gentle" -> "meek" -> "silly" (`daft`).
+
+endnotes

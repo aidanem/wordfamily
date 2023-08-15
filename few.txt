@@ -1,0 +1,68 @@
+startbody
+
+Proto-Indo-European <*peh₂w->: "small, small number"
+
+-> Proto-Indo-European <*peh₂ukos>
+
+--> Italic <*paukos>
+---> Latin `paucus`
+
+
+
+
+-> Proto-Indo-European <*polH->: "young animal"
+
+--> Albanian `pelë`: "mare"
+
+--> Old Armenian `ուլ` <ul>
+---> Armenian `ուլ` <ul>: "kid, fawn"
+
+--> Germanic <*fulô>: "foal"
+---> East Germanic
+----> Gothic `𐍆𐌿𐌻𐌰` <fula>: "foal, colt"
+---> North Germanic
+----> Old Norse `foli`: "foal"
+-----> Danish `fole`
+-----> Icelandic `foli`
+-----> Old Norse `fylja`: "filly"
+------> Icelandic `fylja`: "filly"
+------> English `filly`
+---> West Germanic
+----> Old English `fola`
+-----> English `foal`
+
+---> Germanic <*fulīną>
+----> West Germanic
+-----> Frankish <*folīn>
+------> Dutch `veulen`: "foal"
+-----> Old High German `fulin`
+------> German `Füllen`: "foal"
+
+--> Italic
+---> Latin `pullus`: "young animal, foal, chick, chicken"
+----> Sardinian `pudhu`
+----> Eastern Romance
+-----> Romanian `pui`: "chicken, chick, young animal"
+----> Western Romance
+-----> Spanish `pollo`: "chicken, chick"
+-----> Italian `pollo`: "chicken"
+
+----> Latin `pulla` (feminine)
+-----> Eastern Romance
+------> Romanian `pulă`: "dick"
+-----> Western Romance
+------> French `poule`: "hen"
+-------> French `poulet`
+--------> English `pullet`
+
+
+----> Latin `pullanus`
+-----> Latin <*pullanittus>
+------> Western Romance
+-------> Old French `poulenet`
+--------> Scots `powny`
+---------> English `pony`
+
+endbody
+
+

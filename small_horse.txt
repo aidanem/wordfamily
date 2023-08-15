@@ -1,0 +1,107 @@
+date: 20170331
+theme: Horses 🐎
+tags: Animals, Domestic Animals
+
+startintro
+
+Two final, small "horse" families.
+
+endintro
+
+startbody
+
+Proto-Indo-European <*reydʰ->: "to ride"
+
+-> Proto-Indo-European <*reydʰ-ti> (primary verb)
+
+--> Germanic <*rīdanã>: "to ride"
+---> North Germanic
+----> Old Norse `ríða`: "to ride"
+-----> Danish `ride`: "to ride"
+-----> Icelandic `ríða`: "to ride"
+---> West Germanic
+----> Old English `rīdan`: "to ride"
+-----> English `ride`
+----> Old High German `rītan`: "to ride"
+-----> German `reiten`: "to ride"
+----> Frankish `rīdan`: "to ride"
+-----> Dutch `rijden`: "to ride, to drive"
+---> Finnic <*raććas>
+----> Finnish `ratsastaa`: "to ride"
+
+
+-> Proto-Indo-European <*reydʰōs>: "the act of riding"
+
+--> Celtic <*rēdos>
+---> Celtic <*uɸorēdos>: "horse" (lit. "under-riding"?)
+----> Brythonic <*gworuɨð>: "horse"
+------> Welsh `gorwydd`: "horse" (less common than `ceffyl`)
+----> Gaulish <*werēdos>
+-----> Latin `verēdus`: "fast or light breed of horse"
+-----?> Spanish `veredas`: "horse path, sidewalk"
+------> Late Latin `paraverēdus`: "extra horse, post horse"
+-------> Western Romance
+--------> French `palefroi`: "small riding horse, palfrey"
+---------> English `palfrey`: "small riding horse"
+--------> Spanish `palafrén`: "palfrey"
+-------> Old High German `pfarifrit`: "horse"
+--------> German `Pferd`: "horse" (also the chess piece)
+-------> Frankish <*pered>
+--------> Dutch `paard`: "horse" (also the chess piece)
+
+--> Germanic <*raidō>: "ride, journey"
+---> East Germanic
+----> Gothic `𐍂𐌴𐌳𐌰` <rēda>
+---> North Germanic
+----> Old Norse `reið`
+-----> Danish `red`
+-----> Icelandic `reið`: "ride, chariot"
+---> West Germanic
+----> Old English `rād`: "journey, ride, expedition"
+-----> English `road`
+-----> Scots `raid`: "expedition, raid"
+------> English `raid`
+----> Old High German `reita`
+---> Finnic
+----> Finnish `raide`: "track, railroad"
+---> Samic <*rājδō>
+----> Northern Sami `ráidu`: "line of reindeer"
+
+
+Proto-Indo-European <*kankest->: "horse"
+
+-> Celtic <*kassikā>
+--> Gaulish <cassica>: "mare"
+--> Insular Celtic
+---> Brythonic
+----> Welsh `caseg`: "mare"
+
+-> Germanic <*hangistaz>: "horse, stallion"
+--> North Germanic
+---> Old Norse `hestr`: "horse"
+----> Danish `hest`: "horse"
+-----> Greenlandic Inuit `hiisti`: "horse"
+----> Icelandic `hestur`: "horse"
+----> Faroese `hestur`: "stallion, horse"
+-----> English `Hestur`
+--> West Germanic
+---> Old English `hengest`: "horse, gelding, stallion"
+----> Old English <*hengstmann>: "groom" ("horse-man")
+-----> English `henchman`
+---> Old Frankish
+----> Dutch `hengst`: "stallion"
+---> Old High German
+----> German `Hengst`: "stallion"
+---> Old Saxon <*hengist>
+----> Low German `Hingst`: "horse"
+----> Old English `Hengist` #
+----> Danish `hingst`: "stallion"
+
+endbody
+
+
+startnotes
+
+# Hengist is one of the two legendary brothers who led the Anglo-Saxon invasion of Britain (along with Horsa). Presumably a reflex of the Divine Horse Twins myth.
+
+endnotes

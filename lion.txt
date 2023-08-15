@@ -1,0 +1,165 @@
+date: 20191227
+theme: Lions 🦁
+
+startintro
+
+It has long been noted that the Ancient Greek `λέων` <léon>: "lion" (whence the word for lion in nearly all Balto-Slavic, Germanic, and Italic languages, as well as a few others) looks almost like it comes from Semitic <*labu>, but not quite. Pre-Classical Greek would be expect to have a digamma in the middle (loss of digamma is completely regular), `λέϝων` <léwo(n)>. This is corroborated in Mycenean Greek by the Linear B `𐀩𐀺` <(r/l)e-wo> (Linear B does not distinguish between Greek <r> and <l> sounds, assumed to be because the Minoan language did not have separate sounds of <r> and <l>.) The similarity between <lewo> and <labu> is even harder to dismiss, but still irregular.
+
+I would suggest that Mycenaean Greek gets `𐀩𐀺` <(r/l)e-wo> from `𓃭` <rw>, the Egyptian reflex of the same Afro-Asiatic. And that it came via Minoan, which probably had only one liquid (thus lack of distinction in Cretan writing), and Mycenaean borrowed it as indeterminate between <l> and <r>, later settling to <l>, or that Minoan <r> was allophonically <l> in that position.
+
+
+endintro
+
+startbody
+
+Proto-Afro-Asiatic <*labwʾ->: "lion"
+
+-> Semitic <*lbʾ>: "lion"
+
+--> East Semitic
+---> Akkadian `𒊊` <lābu>: "lion"
+---?> Unknown transmission
+----?> Proto-Kartvelian ###
+------> Old Georgian `ლომი` <lom>: "lion"  (Asomtavruli)
+-------> Georgian `ლომი` <lom>: "lion"
+--------> Chechen `лом` <lom>: "lion"
+------?> Svan `ლო̈მ` <löm>: "lion" ###
+-----?> Svan `ლო̈მ` <löm>: "lion" ###
+---?> Demotic Egyptian
+-----> Coptic `ⲗⲁⲃⲟ` <labo> (Bohairic)
+
+--> Central Semitic
+---> Northwest Semitic
+----> Canaanite
+-----> Hebrew `לָבִיא` <laví>: "lion (archaic)"
+
+----> Ugaritic `𐎍𐎁𐎜` <lbủ>: "lion"
+
+--> Semitic <*lbʾt>: "lioness"
+
+---> Central Semitic <*lbʾt>: "lioness"
+----> Arabic `لَبُؤَة` <labuʾa(t)>: "lioness"
+----> Central Semitic <*ʿbdlbʾt>: "Servant of the Lioness (personal name, likely theophoric)"
+-----> Northwest Semitic
+------> Canaanite
+-------> Phoenician `𐤀𐤁𐤃𐤋𐤁𐤏𐤕` <ʿbdlbʾt>: "Servant of the Lioness"
+-----> Ugaritic `𐎀𐎁𐎄𐎍𐎁𐎓𐎚` <ʿbdlbʾt>: "Servant of the Lioness"
+
+
+-> Egyptian `𓃭` <rw>: "lion" #
+-?> Minoan
+--?> Mycenaean Greek `𐀩𐀺` <re-wo>: "lion"
+----> Ancient Greek `λέων` <léon>: "lion"
+-----> Greek `λιοντάρι` <liontári>: "lion"
+
+----?> Albanian `luan`
+-----> Coptic `ⲗⲉⲱⲛ` <leōn> (Sahidic)
+
+----> Latin `leō`: "lion"
+-----> Vulgar Latin <*leōne> (from the accusative, with regular loss of <-m>)
+------> Sardinian `leone`: "lion"
+------> Western Romance
+-------> Old French `lion`
+--------> Middle French `lyon`
+---------> French `lion`
+---------> Haitian Creole `lyon`
+--------> English `lion`
+---------> Hawaiian `liona`
+---------> Japanese `ライオン` <raion>
+-------> Italian `leone`: "lion"
+-------> Spanish `león`
+--------> Quechua `liyun`
+
+---?> Albanian `luan`
+
+-----> Germanic <*laujan>
+------> East Germanic
+-------> Gothic <*liwa>
+-------?> Slavic <*lь̀vъ> ##
+---------> East Slavic
+----------> Belarusian `леў` <ljeŭ>
+----------> Russian `лев` <lev>: "lion"
+---------> South Slavic
+----------> Old Church Slavonic `львъ` <lĭvŭ>: "lion"
+----------> Serbo-Croatian `ла̏в` <lȁv>: "lion"
+---------> West Slavic
+----------> Polish `lew`
+-------?> Lithuanian `liūtas`: "lion"
+------> West Germanic <*lawe>
+-------> Frankish <*lewo>
+--------> Dutch `leeuw`
+-------> Old High German
+--------> German `Löwe`: "lion"
+--------> Yiddish `לייב` <leyb>: "lion"
+-------> Old Saxon 
+--------> Low German `Lööw`: "lion"
+--------> Danish `løve`: "lion"
+---------> Kalaallisut `løveq`
+--------> Latvian `lauva`: "lion"
+
+------> Old Irish `léoman`: "lion"
+-------> Irish `leon`: "lion"
+-------> Scottish Gaelic `leòmhann`: "lion"
+
+------> Old Norse
+-------> Icelandic `ljón`: "lion"
+-------> Swedish `lejon`: "lion"
+--------> Finnish `leijona`: "lion"
+--------> Northern Sami `lēdjon`: "lion"
+
+-----> Basque `lehoi`
+-----> Brythonic <*lew>
+------> Welsh `llew`
+
+-----> Romanian `leu`: "lion" (would be <*ieuna> if inherited)
+
+
+
+
+
+-----> Ancient Greek `λεόπαρδος` <leópardos>: "leopard" #####
+------> Greek `λεοπάρδαλη` <leopárdali>: "leopard"
+-------> Latin `leopardus`: "leopard"
+--------> Western Romance
+---------> Old French
+----------> French `léopard`: "leopard"
+----------> English `leopard`
+---------> Italian `leopardo`: "leopard"
+---------> Spanish `leopardo`: "leopard"
+
+
+-----> Ancient Greek `χᾰμαιλέων` <khamailéōn>: "chameleon"  ####
+------> Greek `χαμαιλέοντας` <chamailéontas>: "chameleon"
+------> Latin `chamaeleōn`: "chameleon"
+-------> Western Romance
+--------> Old French `cameleon`: "chameleon"
+---------> French `caméléon`: "chameleon"
+---------> English `chameleon` (spelling re-Latinized in 1700s)
+--------> Italian `camaleonte`: "chameleon"
+--------> Spanish `camaleón`: "chameleon"
+------> Russian `хамелео́н` <xameleón>: "chameleon"
+
+endbody
+
+startnotes
+
+
+# Written Standard Egyptian does not preserve Afro-Asiatic <*l>, merging it into various liquids and glides depending on environment, and Egyptian <r> in this position is completely expected within the limits of Afro-Asiatic reconstruction. I'm unclear on whether the <*b> to <w> would be regular in this position: it seems reasonable, but the number of Afro-Asiatic reconstructions that both have <*b> in them and have an Egyptian reflex is low enough that it would take more specific expertise than mine to confirm that.
+
+
+## Slavic <*lь̀vъ> is thought to be borrowed through East Germanic because it shows the <i> vowel we would expect in a Gothic form. The Gothic form is not directly attested, though it is possible that it is preserved in Latinised Gothic names like `Leovigild`.
+
+
+### A Svan cognate to Georgian `ლომი` <lom> apparently pushes the borrowing of <*lom-> from whatever source back to before Svan splits from the rest of Kartvelian, estimated to be 1000 years before the next division among surviving Kartvelian languages (c. 1800 BCE vs. c. 800 BCE), which leaves a significantly smaller pool of possible sources of the borrowing, and probably represents a second hand borrowing originating in the northern Akkadian Empire.
+
+Unless Svan borrowed it from Georgian at a later date, and it is not actually an independent descent from Proto-Kartvelian. In which case it could be borrowed from any number of different routes.
+
+
+
+#### Ancient Greek `χᾰμαιλέων` <khamailéōn>: "chameleon" is a calque of Akkadian `𒌨𒈤𒊭𒆠` <nēšu ša qaqqari>: "chameleon, lizard", literally "lion of the ground" or "predator that crawls".
+
+
+##### Greek `λεόπαρδος` <leópardos>: "leopard" is `λέων` <léō(n)> + `πάρδος` <párdos>. <Párdos> is an Indo-Iranian borrowing meaning "leopard, panther", compare Sanskrit `𑀧𑀾𑀤𑀸𑀓𑀼` <pṛ́dāku>. Greek `πᾰ́νθηρ` <pánthēr> is also Indo-Iranian, quite possibly a different form of the same word.
+
+
+endnotes

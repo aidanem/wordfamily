@@ -1,0 +1,110 @@
+date: 20181130
+theme: Spiders 🕷
+
+
+startbody
+
+Proto-Indo-European <*h₂eyd->: "to swell, abcess, tumor"
+
+
+-> Proto-Indo-European <h₂oydéy-eti>
+
+--> Old Armenian `այտնում` <aytnum>: "to swell, to be inflamed, to be bloated"
+
+--> Hellenic
+---> Ancient Greek `οἰδέω`: "I swell, I become swollen"
+----> Ancient Greek `οἴδημᾰ` <oídēma>: "a swelling, a tumor"
+-----> English `edema`
+
+
+-> Proto-Indo-European <h₂oydro-s>: "swollen" (basic adjective)
+
+--> Hellenic
+---> Ancient Greek `οἰδῐ́ος` <oidíos>: "swollen" #
+----> Ancient Greek `Οἰδῐ́πους` <Oidípous>: "Swollen-Foot" (personal name)
+-----> Latin `Oedipūs`
+------> English `Oedipus`
+
+
+-> Proto-Indo-European <*h₂éydō> (basic noun)
+
+--> Old Armenian `այտ` <ayt>: "cheek"
+
+--> Balto-Slavic
+---> Slavic <*jadъ>
+----> East Slavic
+-----> Russian `яд` <jad>: "poison, venom"
+----> South Slavic
+-----> Old Church Slavonic `ꙗдъ` <jadŭ>: "poison"
+-----> Serbo-Croatian `jа̏д` <jȁd>: "sorrow"
+
+--> Germanic <*aitǭ>: "swelling, gland, nodule"
+---> West Germanic
+----> Old English `āte`
+-----> English `oat`
+----> Frankish
+-----> Dutch `eit`: "ear wax"
+----> Old High German `eiz`: "abcess, boil"
+-----> German `Eiß`: "ulcer, sore"
+
+
+-> Proto-Indo-European <*h₂oydós> (agentive noun)
+
+--> Hellenic
+---> Ancient Greek `οἶδος` <oîdos>: "tumor, swelling"
+
+
+-> Proto-Indo-European <*h₂eydrom> (instrumental noun)
+
+--> Germanic <*aitrą>: "boil, sore, pus, poison"
+---> North Germanic
+----> Old Norse `eitr`: "poison"
+-----> Danish `edder`
+-----> Icelandic `eitur`: "poison"
+---> West Germanic
+----> Old English `ātor`: "poison, venom" ##
+-----> English `atter`
+----> Frankish <*ētar>
+-----> Dutch `etter`: "pus"
+----> Old High German `eitar`: "pus"
+-----> German `Eiter`: "pus"
+---> Germanic <*aitrąkuppaz>: "spider" (lit. "poison-head" or "pus-head")
+----> North Germanic
+-----> Old Norse
+------> Danish `edderkop`: "spider"
+----> West Germanic
+-----> Old English `ātorcoppe`: "spider"
+------> English `attercop`
+-----> Frankish <*ētarkopp>
+------> Dutch `etterkop`: "peevish, disagreeable person"
+
+
+-> Proto-Indo-European <*h₂idsth₂-os>
+
+--> Balto-Slavic <*iˀst->
+---> Lithuanian `ìnkstas`: "testicle"
+---> Slavic <*jьsto>
+----> South Slavic
+-----> Old Church Slavonic `исто` <isto>: "kidney, testicle, entrail"
+
+--> Germanic <*aista->: "testicle"
+---> North Germanic
+----> Old Norse `eista`: "testicle"
+-----> Icelandic `eista`: "testicle"
+
+
+-> Proto-Indo-European <*h₂oydskeh₂>
+
+--> Albanian `eshke`: "kidney"
+
+
+endbody
+
+
+startnotes
+
+# Ancient Greek `οἰδῐ́ος` <oidíos>: "swollen" is not the origin of English `odious`, which is from Latin `ōdī`: "I hate, i destest" from PIE <*h₃ed->: "to stink". It wouldn't be surprising if <*h₂eyd->: "pus" and <*h₃ed->: "stink" were connected in Pre-Proto-Indo-European.
+
+## The poisonous snake `adder` is not formally related, being the result of a segmentation error from older `nadder` ("a nadder" -> "an adder"). `nadder` is from PIE <*nh₁trih₂>, compare Latin `nātrīx`: "water-snake" or Irish `nathair`: "snake, adder". You could certainly see how the segmentation error could have been influenced by the similar sounding word for "poison", though.
+
+endnotes

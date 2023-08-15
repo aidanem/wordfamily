@@ -1,0 +1,200 @@
+date: 20201120
+
+
+startintro
+
+Democracy is Hard.
+
+
+
+endintro
+
+
+startbody
+
+
+
+Proto-Indo-European <*kret->: "strength, power"
+
+-> Proto-Indo-European <*krétus>
+
+--> Hellenic
+---> Ancient Greek `κρατύς` <kratús>
+
+--> Indo-Iranian <*krátuš>: "power, capability, intelligence"
+---> Indo-Aryan <*krátuṣ>
+----> Sanskrit `क्रतु` <krátu>: "intelligence, plan, power, ability"
+---> Iranian <*xrátuh>
+---> Avestan `𐬑𐬭𐬀𐬙𐬎` <xratu>: "intelligence, thought, guidance"
+---> Western Iranian
+----> Northwestern Iranian
+-----> Medean <*xratu>
+------> Old Persian `𐎧𐎼𐎬` <x-r-tu>
+-------> Persian `خرد` <xerad>: "judgment, intellect, wisdom"
+-------> Old Armenian `խրատ` <xrat>: "advice, judgment, correction, punishment, discipline, education"
+--------> Armenian `խրատ` <xrat>: "admonition, advice, lesson, punishment"
+
+
+-> Proto-Indo-European <*krétos>
+
+--> Hellenic
+---> Ancient Greek `κράτος` <krátos>: "strength, power, rulership, valour, violence"
+----> Greek `κράτος` <krátos>: "state (sovereign country)"
+
+----> Ancient Greek `Ναύκρᾰτῐς` <Naúkratis>: "Ship-Command (place name)"
+-----> Greek `Ναύκρατις` <Náfkratis>
+-----> Egyptian `𓊖𓂓𓂋𓍿𓊖` <nwtkꜣrṯ>
+-----> Latin `Naucratis`
+
+----> Ancient Greek `Ῐ̔πποκρᾰ́της` <Hippokrátēs>: "Horse-Power (personal name)"
+-----> Greek `Ιπποκράτης` <Ippokrátis>
+-----> Latin `Hippocratēs`
+------> English `Hippocrates`
+-------> English `Hippocratic Oath`
+
+----> Ancient Greek `Σωκρᾰ́της` <Sōkrátēs>: "Safety-Power (personal name)"
+-----> Arabic `سُقْرَاط` <suqrāṭ>
+------> Persian `سقراط` <soqrât>
+-------> Hindi `सुक़रात` <suqrāt>
+-----> Chinese `苏格拉底` <sū gé lā dǐ>
+-----> Latin `Sōcratēs`
+------> English `Socrates`
+
+----> Ancient Greek `Ξενοκρᾰ́της` <Xenokrátēs>: "Guest-Power (personal name)"
+
+----> Ancient Greek `-κρατία` <-kratía>
+-----> Ancient Greek `ἀριστοκρατίᾱ` <aristokratíā>: (lit. "rule of the noble")
+------> English `aristocracy`
+
+-----> Ancient Greek `αὐτοκρατία` <autokratía>: (lit. "rule alone")
+------> English `autocracy`
+------> Ancient Greek `αὐτοκρατορία` <autokratoría>
+-------> Greek `αυτοκρατορία` <aftokratoría>: "empire"
+
+-----> Ancient Greek `δημοκρατία`: "democracy, popular government" (lit. "rule of the people")
+------> Greek `δημοκρατία` <dimokratía>: "democracy, republic"
+------> Latin `dēmocratia`
+-------> Old French
+--------> French `démocratie`
+--------> English `democracy`
+
+-----> English `-cracy`
+
+
+
+-> Proto-Indo-European <*kortús>
+
+--> Germanic <*harduz>: "brave, strong, hard, hardy"
+---> East Germanic
+----> Gothic `𐌷𐌰𐍂𐌳𐌿𐍃` <hardus>: "hard"
+---> North Germanic
+----> Old Norse `harðr`: "hard, hardy, stern, severe"
+-----> Danish `hård`: "hard, tough, harsh, severe"
+-----> Icelandic `harður`: "severe, harsh, stubborn, remorseless"
+---> West Germanic
+----> Old English `heard`: "hard, harsh, severe, hardy, brave, stubborn"
+-----> English `hard`
+----> Frankish <*hard>
+-----> Dutch `hard, strong, harsh, loud"
+----> Old High German `hart`
+-----> German `hart`: "hard, severe, harsh"
+-----> Yiddish `האַרט` <hart>: "tough"
+---> Finnic <*hardas>
+----> Finnish `harras`: "earnest, devout, pious"
+
+---> Germanic <*hardijanã>: "to make hard, to harden, to strengthen"
+----> East Germanic
+-----> Gothic `𐌲𐌰𐌷𐌰𐍂𐌳𐌾𐌰𐌽` <gahardjan>: "to harden"
+----> North Germanic
+-----> Old Norse `herða`: "to harden, to temper, to embolden, to encourage"
+------> Icelandic `herða`: "to harden, to tighten"
+----> West Germanic
+-----> Old English `hierdan`: "to harden, to strengthen, to tighten, to embolden"
+------> English `harden`
+-----> Frankish 
+------> Dutch `harden`: "to harden, to temper, to endure"
+------> Old French `hardir`: "to harden"
+-------> Old French `hardi`: "hardy, tough, brave"
+--------> French `hardi`: "bold, brave"
+--------> English `hardy`
+-----> Old High German `herten`
+------> German `härten`: "to solidify, to harden, to set"
+----> Finno-Samic
+-----> Finnic <*kärcidäk>: "to endure, to suffer"
+------> Finnish `kärsiä`: "to suffer from, to experience, to undergo"
+-----> Samic <*kiertëtēk>: "to suffer"
+------> Northern Sami `gierdat`: "to suffer, to endure, to withstand"
+
+---> Germanic <*Bernuharduz>: "Bear-Brave (personal name)"
+----> West Germanic
+-----> Frankish
+------> Latin `Bernardus`
+-------> French `Bernard`
+-------> English `Bernard`
+-------> Italian `Bernardo`
+-----> Old High German `Bernhart`
+------> German `Bernhard`
+
+
+---> Germanic <*Gaizaharduz>: "Spear-Brave (personal name)"
+----> West Germanic
+-----> Frankish
+------> Dutch `Gerart`
+------> French `Gérard`
+-------> English `Gerard`
+--------> English `Garrett`
+-----> Old High German
+------> German `Gerhard`
+
+---> Germanic <*Leonharduz>: "Lion-Brave (personal name)"
+----> West Germanic
+-----> Frankish
+------> French `Léonard`
+-------> English `Leonard`
+------> Italian `Leonardo`
+
+---> Germanic <*Raginaharduz>: "Advice-Brave (personal name)"
+----> West Germanic
+-----> Frankish
+------> Dutch `Reinaart`
+-------> English `Reynard`
+------> Old French `Renart`
+-------> French `renard`: "fox" (after the medieval cycle of Reynard the Fox)
+-------> English `Reynard`
+
+---> Germanic <*Rīkaharduz>: "King-Brave (personal name)"
+----> North Germanic
+-----> Old Norse `Ríkharðr`
+------> Icelandic `Ríkharður`
+----> West Germanic
+-----> Frankish <*Rīkahard>
+------> French `Richard`
+-------> English `Richard`
+--------> English `Rick` (pet form)
+---------> English `Dick` (rhyming pet form)
+----------> English `dick`
+----------> English `Dixon` (patronymic)
+----------?> English `Dixie`
+---------> English `Hick` (rhyming pet form)
+----------> English `Hitchcock`
+----------> English `hick`
+--------> Welsh `Richard`
+---------> Welsh `ap Richard` (patronymic)
+----------> English `Prichard`
+------> Spanish `Ricardo`
+-----> Old High German
+------> German `Rikard`
+
+---> Germanic <*Wiljaharduz>: "Will-Brave (personal name)"
+----> West Germanic
+-----> Old English `Wilheard`
+------> English `Willard`
+
+
+-> Proto-Indo-European <*kr̥teros>
+
+--> Hellenic
+---> Ancient Greek `καρτερός` <karterós>: "strong, steadfast, obstinate, violent"
+
+
+endbody

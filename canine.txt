@@ -1,0 +1,368 @@
+date: 20190607
+theme: Domestic Animals 🐕
+tags: Animals, Domestic Animals
+
+startintro
+
+I get a little speculative here, if not downright provocative. There are words for dog all over Eurasia that recall each other. These could be onomatopoeic, but they do not much resemble the common forms you find in words that actually used as dog sound onomatopoeia. On the other hand, domestic animal words often go a-Wanderworting around the time of the domestication of the animal (compare the <*mar> type words for horse), and so "dog", as the very first domestic animal (Upper Paleolithic as opposed to Neolithic like most others) is exactly the word you'd expect to have been borrowed widely several thousand years beyond the horizon of confident reconstruction. But of course, we can't be confident of that, ipso facto.
+
+I left out a whole part where I tentatively reconstruct an Uto-Aztecan root for dog (and "coyote") to the same approximate shape, as a step too far, so this is the conservative form of this proposal!
+
+endintro
+
+
+startbody
+
+Unknown possible origin
+
+?> Proto-Indo-European <*ḱwṓ>: "dog" (Voc: <*ḱwón>, Acc: <*ḱwónm̥>, Gen: <*ḱunés>)
+
+--> Anatolian
+---> Hittite <*ku-wa>
+----> Hittite `𒆪𒉿𒀸` <ku-wa-aš>: "dog handler, hound-man"
+
+--> Old Armenian `շուն` <šun>: "dog"
+---> Armenian `շուն` <šun>: "dog"
+---> Old Armenian `շնիկ` <šnik>: "little dog, doggy, Canis Minor" (dimunitive)
+----> Armenian `շնիկ` <šnik>: "little dog, doggy"
+
+--> Balto-Slavic <*śwō>: "dog"
+---> Lithuanian `šuõ`: "dog"
+---> Slavic
+----> Slavic <*sǫka>: "female dog"
+-----> East Slavic `сꙋка` <suka>: "female dog"
+------> Russian `су́ка` <súka>: "female dog"
+-----> South Slavic
+------> Old Church Slavonic `сѫка` <sǫka>
+------> Serbo-Croatian `сука` <suka>
+-----> West Slavic
+------> Polish `suka`: "female dog"
+-----> Hungarian `szuka`: "female dog, female fox"
+
+--> Celtic <*kū>: "dog, hound" (Gen: <*kunos>)
+---> Brythonic <*ki>: "dog"
+----> Welsh `ci`: "dog"
+-----> Welsh `corgi`: "corgi" (lit. "stunted dog, dwarf dog")
+------> English `corgi`
+----> Brythonic <**duβki>: "black dog"
+----?> Old English <docga>: "a kind of large, strong dog" #
+------> English `dog` #
+---> Gaulish `cuna`
+---> Old Irish `cú`: "dog, hound, wolf"
+----> Irish `cú`: "dog, hound, champion"
+----> Old Irish `cúan`: "little dog, puppies, litter, pack, band"
+-----> Irish `cuain`: "litter, brood, pack, band, company"
+-----> Irish `Cúan` (personal name)
+----> Old Irish `conan`: "little hound" (from stem)
+-----> Irish `Conan` (personal name)
+------> English `Conan`
+----> Old Irish `Conall`
+-----> Irish `Conall`
+------> English `Conal(l)`
+----> Old Irish `Conchobur`: "Hound-Desiring" (personal name)
+-----> Irish `Conchobhar`
+-----> Irish `Conchúr`
+------> English `Connor`
+-----> Old Irish `Ó Conchobur`: "descendant of Conchobur"
+------> Irish `Ó Conchúir`
+-------> English `O'Connor`
+----> Old Irish `Cúcheanann`: "Fair-Head-Hound" (personal name)
+-----> Irish `Ó Con Cheanainn`: "descendant of Cúcheanann" (note: in becoming genitive, `Cú` is declined to `Con` seperate from `cheanann` declining to `Cheanainn`)
+------> English `Concannon` 
+----> Old Irish `Cú Chulainn`: "Culann's Hound" (nickname)
+-----> English `Cuchulain`
+
+---> Celtic <*dubrokū>: "otter" (lit. "water-dog")
+----> Brythonic <*düβrgi>
+-----> Welsh `dyfrgi`: "otter"
+----> Old Irish `doburchú`: "otter"
+-----> Irish `dobharchú`: "otter"
+
+---> Celtic <*Kunokwennos>: "Hound-Head, Champion-Leader?" (personal name)
+----> Gaulish <*Cunopennos>
+-----> Latin `Cunopennus`
+----> Primitive Irish `ᚉᚒᚅᚐᚉᚓᚅᚅᚔ` <Cunacenni>
+-----> Old Irish `Concenn`
+-----?> Welsh `Cyngen`
+
+---> Celtic <*Kunobelenos>: "Hound (Champion) of Belenos?, Hound-Strong?" (personal name)
+----> Brythonic <*Cunobelinos>
+-----> Welsh `Cynfelyn`
+-----> Latin `Cunobelinus`
+-----> Medieval Latin `Kimbelinus`
+------> English `Cymbeline`
+
+--> Hellenic
+---> Mycenaean Greek `𐀓𐀙` <ku-na->
+---> Ancient Greek `κῠ́ων` <kúōn>: "dog"
+----> Tsakonian `κούε` <koúe>: "dog"
+----> Ancient Greek `κυνικός` <kunikós>: "doglike"
+-----> Ancient Greek `Κυνικός` <Kunikos>: "Cynic (philosopher)"
+------> Latin `Cynicus`: "Cynic"
+-------> Western Romance
+--------> French `cynique`: "Cynic, cynic, cynical, canine"
+---------> English `cynic`
+
+--> Indo-Iranian <*ĉwā́>
+---> Indo-Aryan <*śwā́>
+----> Dardic <*šoā́>
+-----> Kashmiri `ہوٗن‎` <hūn>: "dog"
+----> Sanskrit `श्वा` <śvā>: "dog, hound" (Voc: <śvan>, Acc: <śvānam>, Gen: <śunaḥ>)
+-----> Pali `𑀲𑁄𑀡` <soṇa>: "dog"
+------> Thai `โสณ` <sǒon>: "hound"
+-----> Hindi `श्वान` <śvān>: "dog, hound"
+---> Iranian <*ćwā́>: "dog"
+----> Avestan `𐬯𐬞𐬁‎` <spā>: "dog" 
+----> Northern Iranian
+-----> Saka
+------> Khotani <śve>
+----> Pashto `سپی` <spay>: "dog"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `se(g)`: "dog"
+------> Medean `σπάκα` <spā́kəʰ>
+-------> Kermanic
+--------> Tari `سبه‎` <seba>
+-------> East Slavic
+--------> Russian `соба́ка` <sobáka>: "dog, hound"
+---------> Aleut `sabaakax`
+------> Medean <*spakaniH>: "dog-leader"
+-------> Old Armenian `ասպականի` <aspakani>: "hunter, huntsman (with dogs)"
+--------> Old Armenian `ասպականի` <aspakani>: "pack of hunting dogs" (with <-ani> reanalysed as a collective)
+------> Parthian
+-------> Persian `اسبه`‎ <esba>: "dog"
+-----> Old Persian `𐏂𐎣` <çaka>
+------> Persian `سگ‎` <sag>: "dog"
+
+--> Italic <*kō>: "dog" (Acc: <*kwanem>, Gen: <*kunes>)
+---> Latin `canis`
+----> Vulgar Latin <*cane>
+-----> Sardinian `cani`
+-----> Eastern Romance
+------> Romanian `câine`: "dog"
+-----> Western Romance
+------> French `chien`: "dog"
+------> Italian `cane`: "dog"
+
+----> Latin `canīnus`: "dog-like, canine"
+-----> English `canine`
+------> Malay `kanin`
+-----> French `canin`
+-----> Italian `canino`
+-----> Spanish `canino`
+
+----> Latin `canārius`: "to do with dogs"
+-----> Latin `Insula Canaria`: "Gran Canaria" (lit. Dog Island")
+------> Latin `Canariae Insulae`: "Canary Islands" (the archipelago around `Insula Canaria`)
+-------> Spanish `Islas Canarias`: "Canary Islands"
+--------> English `Canary Islands`
+--------> Spanish `canario`: "a person or thing from the Canary Islands, a canary"
+---------> French `canarie`: "canary"
+----------> English `canary`
+
+----> Latin `canicula`: "little dog, dogfish, Sirius (Dog Star)" ####
+-----> Western Romance
+------> French `chenille`: "caterpillar, chenille, whirligig"
+-------> English `chenille`
+-----> French `canicule`: "Sirius (Dog Star), dog days (of summer)" ####
+-----> Italian `canicola`: "dog days (of summer)" ####
+-----> Spanish `canícula`: "dog days (of summer)" ####
+
+--> Tocharian <*ku>
+---> Arshian <ku>: "dog"
+---> Kushean <ku>: "dog"
+
+
+--> Proto-Indo-European <*ḱwont->
+
+---> Old Armenian `սկունդ` <skund>: "dog, puppy"
+
+
+--> Proto-Indo-European <*kuntós>
+
+---> Germanic <*hundaz>
+----> East Germanic
+-----> Gothic `𐌷𐌿𐌽𐌳𐍃` <hunds>: "dog"
+----> North Germanic
+-----> Old Norse `hundr`: "dog"
+------> Danish `hund`: "dog"
+------> Icelandic `hundur`: "dog"
+------> Finnish `hunttu`
+----> West Germanic
+-----> Old English `hund`: "dog"
+------> English `hound`
+-----> Frankish
+------> Dutch `hond`: "dog"
+-----> Old High German `hunt`: "dog"
+------> German `Hund`: "dog"
+-------> German `Dachshund`: "dachshund" (lit. "badger-dog"
+--------> English `dachshund`
+------> Yiddish `הונט‎` <hunt>: "dog"
+
+
+
+
+
+?> Unknown adstrate
+
+--> Iranian <*kútah>
+---> Northern Iranian
+----> Bactrian `κοδο` <kodo>: "dog"
+----> Scythian
+-----> Ossetian `куыдз` <k°yʒ>: "dog"
+---> Western Iranian
+----> Northwestern Iranian
+-----> Balochi `کچک` <kucak>: "dog"
+-----> Kurdish `kûçik`: "dog"
+
+--> Prakrit <*kutta>: "dog"
+---> Magadhi
+----> Bengali `কুত্তা` <kutta>: "dog"
+---> Maharashtri `𑀓𑀼𑀢𑁆𑀢` <kutta>
+----> Marathi `कुत्रा` <kutrā>: "dog"
+---> Sauraseni `𑀓𑀼𑀢𑁆𑀢` <kutta>
+----> Madhya
+-----> Hindi `कुत्ता` <kuttā>: "dog"
+----> Pahari
+-----> Punjabi `ਕੁੱਤਾ` <kutā>: "dog"
+
+--> Sanskrit `कुक्कुर` <kukkura>: "dog"
+---> Magadhi
+----> Bengali `কুকুর` <kukur>: "dog"
+---> Sauraseni
+----> Pahari
+-----> Nepali `कुकुर` <kukura>: "dog"
+
+
+
+?> Unknown adstrate <**kul>
+
+-?> Ancient Greek <(s)kulla>
+---> Ancient Greek `σκῠ́λᾰξ` <skúlax>: "puppy"
+----> Greek `σκυλί` <skylí>: "dog"
+---> Ancient Greek `σκύλῐον` <skúlion>: "dogfish"
+-?> Celtic <*kulēnos>: "puppy, whelp"
+---> Old Irish `cuilén`: "pup, cub, kitten"
+----> Irish `coileán`: "pup, cub, youth, trickster"
+-?> Balto-Slavic
+---> Lithuanian `kalė̃`: "female dog"
+
+-?> Afro-Asiatic <*kul-ab>: "dog" ##
+
+--?> Semitic <*kalb>: "dog"
+----> Central Semitic
+-----> Arabic `كَلْب‎` <kalb>: "dog"
+------> Maltese `kelb`: "dog"
+----> Northwest Semitic
+-----> Aramaic `כַּלְבָּא‎` <kalbā>
+-----> Canaanite
+------> Hebrew `כֶּלֶב‎` <keleḇ>: "dog"
+-------> Hebrew `כָּלֵב` <Kaleb>: "personal name"
+--------> Ancient Greek `Χαλεβ` <Khaleb>
+---------> English `Caleb`
+------> Phoenician `𐤊𐤋𐤁‎` <klb>: "dog"
+-----> Ugaritic `𐎋𐎍𐎁` <klb>
+----> East Semitic
+-----> Akkadian `𒌨𒌆` <kalbu>: "dog"
+----> South Semitic
+-----> Ethiopic
+------> Amharic `ከልብ` <kälb>: "dog"
+------> Tigrinya `ከልቢ` <kälbi>: "dog"
+-----> Old South Arabian 
+------> Sabaean `𐩫𐩡𐩨‎` <klb>: "dog"
+
+
+
+?> Austronesian <*(u-)(ŋ)kuɣ(kuɣ)>
+--> Paiwan <kuku>: "toy, pet"
+--> Puyuma <kurkur>: "puppy"
+--> Malayo-Polynesian <*uŋkuʔ(kuʔ)>
+---> Malay `kuyuk`: "dog"
+---> Sundanese `ᮌᮥᮌᮥᮊ᮪` <guguk>: "dog"
+--?> Japonic <*iŋku>
+----> Japanese `いぬ` <inu>: "dog"
+-----> Japanese `しばいぬ` <shibainu>: "Shiba Inu" (lit. "brushwood dog")
+------> English `Shiba Inu`
+----> Okinawan `いん` <in>: "dog"
+
+
+
+-?> Austroasiatic <*cɔʔ>: "dog"
+
+---> Khasic
+----> Khasi `ksew`
+
+---> Vietic <*ʔa-cɔːʔ>
+----> Vietnamese `chó`: "dog"
+----> Khmer `ច` <cɑɑ>: "Year of the Dog"
+
+--?> Old Chinese `狗` <*koːʔ>: "dog"
+----> Middle Chinese `狗` <kəuX>: "dog"
+-----> Mandarin `狗` <gǒu>: "dog"
+-----> Wu `狗` <keu2>: "dog"
+-----> Yue `狗` <gau2>: "dog"
+----> Min
+-----> Hokkien `狗` <káu>: "dog"
+----> Korean `견` <gyeon>: "dog"
+-----> Korean `견유` <gyeonyu>: "cynic" (lit. "dog-scholar")
+---?> Korean `구` <gu>: "dog"
+----> Vietnamese `cẩu`: "dog"
+
+---?> Oghuz Turkic <*köp-ek>: "dog" (all branches of Turkish have <*īt>: "dog", but only Oghuz languages also have <*köpek>)
+-----> Turkish `köpek`: "dog"
+
+-?> Austroasiatic <*cgəj>: "dog"
+---> Vietic
+----> Vietnamese `cầy`: "dog, civet"
+---> Khasic
+----> Khasi `skei`: "muntjac, barking deer"
+---> Khmeric
+----> Khmer `ឆ្កែ` <chkae>: "dog"
+
+--?> Sino-Tibetan <*(d)-kʷəɣ-(n)>: "dog"
+
+----> Old Chinese `犬` <*kʰʷeːnʔ> ### 
+-----> Middle Chinese
+------> Mandarin `犬` <quǎn>: "dog"
+------> Wu `犬` <qyoe2>: "dog"
+------> Yue `犬` <hyun2>: "dog"
+-----> Min
+------> Hokkien `犬` <khián>: "dog"
+----?> Korean `개` <gae>: "dog"
+
+----> Tibeto-Burman
+-----> Burmese `ခွေး` <hkwe:>: "dog"
+-----> Tibetan `ཁྱི` <khyi>: "dog"
+
+
+
+
+?> Northeast Caucasian
+
+--> Avar `гьой` <hoj>: "dog"
+--> Dargwa `хя` <χə>: "dog"
+--> Lak `ккаччи` <k̄ač̄i>: "dog"
+--> Lezgi `кицӏ` <kic̣>: "dog"
+
+
+
+
+endbody
+
+
+
+
+startnotes
+
+# English `dog` is ultimately unexplained, despite considerable effort over the years. We can trace it only as far as Old English `docga`/`dogga`, which is though to contain the suffix `-ga` also found in "frog" and "pig", suggesting the existence of a morpheme <*doc?>. It has been suggested this could be the same as the `fingerdocce`, which might mean "finger muscle", but definitely means "foxglove", so "finger-plant" could be the original meaning, compare "burdock", "common dock", Danish `dokke`. This "supposed muscle, powerful" word can also not be traced beyond Old English. So the "muscle dog" theory is highly tentative.
+
+Since the <*doc?> morpheme cannot be traced to any Germanic source predating the Old English arriving in Brittain, I think at least as likely that it is derived from a Brittanic dog breed name meaning "black dog", equivalent to Welsh `du`: "black" + `ci`: "dog". Compare Welsh `corgi`: "dwarf dog" and `Gwyllgi`: "Twilight Dog", a mythic creature pictured as a black mastiff (and Old English `docga` is probably a kind of mastiff).
+
+
+### Chinese `犬` presumably represents an older word, now mostly replaced by `狗`, with `犬` now appearing mostly in compounds. (Also, `狗` is a compound sign built on `犬`.)
+
+
+## For the -ab suffix, compare <*ǯiʾ-b->: "wolf", <*ʿaqr-ab>: "scorpion", <*θaʿl-ab>: "fox", <*dab-b>: "bear". Argued by Diakonoff to be the best preserved part of a no longer productive nominal class system from Pre-Afro-Asiatic.
+
+#### The "dog days" of summer are the hot days in the summer between in July, August, and/or September, so-called because it coincides with the paart of the year when the star Sirius rises at the same time as the Sun. Compare, `Sirius` from `Σείρῐος`: "scorching, destructive".
+

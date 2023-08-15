@@ -1,0 +1,799 @@
+date: 2020-07-24
+tags: Divinities, Elements
+
+
+
+startintro
+
+There is also <*ḱel-> and <*ḱley-> meaning "to shelter, to cover" /word-family-hall.html . It's easy to imagine that "lean" and "cover" could be related.
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
+
+-> Proto-Indo-European <*h₂eus-ḱl̥teh₂ye-ti>: "leans an ear"
+
+--> Italic <*auskultā>
+---> Latin `auscultō`: "I listen, I hear, I heed, I obey"
+----> Eastern Romance
+-----> Romanian `a asculta`: "to listen, to hear"
+----> Western Romance
+-----> Old French `escouter`: "to listen"
+------> French `écouter`: "to listen"
+------> English `scout`
+-----> Italian `ascoltare`: "to listen"
+-----> Spanish `escuchar`: "to listen"
+
+
+-> Proto-Indo-European <*ḱóltos>: "sloping, inclined"
+
+--> Germanic <*halþaz>: "sloping, inclined"
+---> East Germanic
+----> Gothic <*halþs>
+-----> Gothic `𐍅𐌹𐌻𐌾𐌰𐌷𐌰𐌻𐌸𐌴𐌹` <wiljahalþei>: "partisanship, bias, partiality"  (lit. "intention inclined")
+---> North Germanic
+----> Old Norse `hallr`: "slope, hill, rock, stone, leaning over, biased"
+-----> Norwegian `hall`: "slope, sloping terrain"
+---> West Germanic
+----> Old English `heald`: "bent, inclined"
+
+---> Germanic <*halþōnã>: "to tilt, to make tilt, to incline"
+----> North Germanic
+-----> Old Norse `halla`
+------> Icelandic `halla`: "to slant, to put down, to go to sleep"
+---> Germanic <*halþijanã>: "to tilt, to make tilt, to incline"
+----> North Germanic
+-----> Old Norse `hella`: "to pour out"
+------> Icelandic `hella`: "to pour"
+----> West Germanic
+-----> Old English `hieldan`: "to lean, to slope, to push down"
+------> English `heel` (nautical)
+-----> Frankish <*helden>
+------> Dutch `hellen`: "to incline"
+
+
+-> Proto-Indo-European <*ḱl̥tós>: "sloped, inclined" (passive participle)
+
+--> Germanic <*hulþaz>: "inclined, favorable, gracious, loyal"
+---> East Germanic
+----> Gothic `𐌷𐌿𐌻𐌸𐍃` <hulþs>: "merciful"
+---> North Germanic
+----> Old Norse `hollr`
+-----> Danish `huld`: "faithful, gracious, sweet"
+-----> Icelandic `hollur`: "good, wholesome, loyal"
+---> West Germanic
+----> Old English `hold`: "gracious, loyal, kind"
+----> Frankish <*hold>
+-----> Dutch `hou`: "friendly, favorable"
+----> Old High German `hold`
+-----> German `hold`: "friendly"
+
+---> Germanic <*hulþô>: "friend, confidant"
+----> West Germanic
+-----> Frankish <*holdo>
+------> Dutch `houd`
+-----> Old High German `holdo`: "friend"
+------> German `Holde`
+----?> West Germanic <*kobeholdo>: "kobold, goblin" ####
+------> Frankish
+-------> Dutch `kabouter`: "goblin, gnome"
+-------> Old French `gobelin` ####
+--------> French `gobelin`
+--------> English `goblin`
+------> Old High German
+-------> German `Kobold`
+--------> English `kobold`
+-------> English `cobalt`
+-------> Translingual `Co`
+---> Germanic <*unhulþaz>: "unfriendly, hostile"
+----> West Germanic
+-----> Old English `unhold`
+-----> Old High German `unhold`
+----> Germanic <*unhulþô>: "harmful spirit, monster, devil"
+-----> East Germanic
+------> Gothic `𐌿𐌽𐌷𐌿𐌻𐌸𐌰` <unhulþa>: "devil, evil spirit, monster"
+-----> West Germanic
+------> Old English `unholda`
+------> Old High German `unholda`: "demon, devil"
+-------> German `Unhold`: "monster, fiend"
+
+
+
+-> Proto-Indo-European <*ḱól-i-s>
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `šalìs`
+
+
+-> Proto-Indo-European <*ḱléy->: "to lean, to slope" (probably re-analyzed from <-éy-> or <-yé-> form verbs )
+
+
+--> Proto-Indo-European <*ḱléyeti>: "leans"
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `šlieti`: "to lean against, to rest against"
+
+---> Indo-Iranian <*ćráyati>: "leans"
+----> Indo-Aryan
+-----> Sanskrit `श्रयति` <śráyati>: "leans, leans on, turns towards"
+----> Iranian
+-----> Avestan `𐬯𐬭𐬀𐬌𐬌𐬀𐬙𐬀` <sraiiata>: "leans"
+
+
+--> Proto-Indo-European <*ḱl̥néyti>: "leans"
+
+---> Italic <*kl(e)inō>
+----> Latin <*clīno> (effectively unattested in bare form)
+-----> Western Romance
+------> Italian `chinare`: "to bend, to bow, to lean"
+-----> Latin `clīnātus`: "inclined, leaning"
+-----> Latin `clēmēns`: "merciful, gentle, peaceful, compliant"
+------> Western Romance
+-------> French `clément`
+--------> English `clement`
+------> Latin `Clement`
+-------> Western Romance
+--------> French `Clément`
+---------> English `Clement`
+---------> French `Clémentine`
+----------> English `Clementine`
+---------> French `clémentine`
+----------> English `clementine`
+-----> Latin `dēclīnō`
+------> English `decline`
+-----> Latin `inclīnō`
+------> English `incline`
+-----> Latin `reclīnō`
+------> English `recline`
+
+
+--> Proto-Indo-European <*ḱlinéwti>: "leans"
+
+---> Indo-Iranian
+----> Iranian
+-----> Avestan `𐬥𐬌𐬯𐬭𐬌𐬥𐬀𐬊𐬨𐬌` <ni-srinaomi>: "I lean"
+
+
+--> Proto-Indo-European <*ḱlíneti>: "leans"
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `šliñti`: "to lean"
+
+--> Proto-Indo-European <*ḱlinyéti>: "leans"
+
+---> Hellenic <*klinō>
+----> Ancient Greek `κλῑ́νω` <klī́nō>
+-----> Ancient Greek `κλῐ́μᾰ` <klíma>: "slope, inclination, latitude, clime"
+------> Greek `κλίμα` <klíma>: "climate, atmosphere, mood, see"
+------> Arabic `إِقْلِيم` <ʾiqlīm>: "region, climate, territory"
+-------> Hebrew `אַקְלִים` <aklím>: "climate, environment"
+-------> Persian `اقلیم` <eqlim>: "climate"
+-------> Turkish `iklim`: "climate"
+------> Aramaic
+-------> Classical Syriac `ܩܠܝܡܐ` <qəlīmā>: "clime, region, land"
+------> Latin `clima`: "slope, inclination, climate, region"
+-------> French `climat`
+--------> English `climate`
+-------> English `clime`
+-----> Ancient Greek `κλῖμᾰξ` <klîmax>: "ladder, staircase, rhetorical climax"
+------> Latin `clīmax`
+-------> English `climax`
+-----> Ancient Greek `κλιτικός` <klitikós>: "inflectional"
+------> English `clitic`
+
+--> Proto-Indo-European <*ḱlinéh₁ti>: "is leaning" (stative)
+
+---> Germanic <*hlinānã>
+----> West Germanic
+-----> Old English `hlinian`: "to lean, to lie down, to rest"
+------> English `lean`
+-----> Frankish <*hlinon>
+------> Dutch `leunen`: "to lean"
+-----> Old High German
+------> German `lehnen`: "to lean"
+----> Germanic <*hlainijanã> (causative)
+-----> North Germanic
+------> Old Norse
+-------> Danish `læne`: "to lean"
+
+
+
+
+--> Proto-Indo-European <*ḱléyos>: "sloped, curved, bent" (adjective)
+
+---> Celtic <*klēyos>: "left"
+----> Brythonic <*kluɨð>
+-----> Welsh `cledd`: "left, left hand"
+----> Old Irish `clé`
+-----> Irish `cle`: "left"
+
+
+--> Proto-Indo-European <*ḱleywós>: "sloped, curved, bent" (adjective)
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `šleĩvas`: "bow-legged"
+
+---> Italic
+----> Latin `clīvus`: "hill"
+
+
+--> Proto-Indo-European <*ḱlitós>
+
+---> Pre-Albanian <*klitā>
+----> Albanian  `qetë`: "a rock"
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `pašiltas`: "crooked, bent"
+
+---> Hellenic
+----> Ancient Greek `ἄκλῐτος` <áklitos>: "indeclinable"
+-----> Greek `άκλιτος` <áklitos>: "uninflected, invariable"
+
+---> Indo-Iranian <*ćritás>
+----> Indo-Aryan
+-----> Sanskrit `श्रित` <śritá>: "leaning against, attached to, subordinate to, contained in"
+----> Iranian
+-----> Avestan `𐬯𐬭𐬌𐬙𐬀` <srita>: "leaned"
+
+
+--> Proto-Indo-European <*ḱloywóm>
+
+--?> Germanic <*hlaiwã>: "hill, mound, barrow, grave" (or from <*ḱley->: "to cover")
+----> East Germanic
+-----> Gothic `𐌷𐌻𐌰𐌹𐍅` <hlaiw>: "tomb, grave"
+----> North Germanic
+-----> Proto-Norse `ᚺᛚᚨᛁᚹᚨ` <hlaiwa>: "tomb, grave"
+----> West Germanic
+-----> Old English `hlǣw`: "mountain, barrow, cairn, cave"
+
+
+
+--> Proto-Indo-European <*ḱléyteh₂>: "something sloped, something leaning"
+
+
+
+--> Proto-Indo-European <*ḱlóy-neh>
+
+---> Pre-Albanian <*klaina>
+----> Albanian `qye`: "peak, summit"
+
+
+--> Proto-Indo-European <*ḱlóydʰrom>: "thing for leaning, leaning tool"
+
+---> Germanic <*hlaidrijō>
+----> West Germanic
+-----> Old English `hlǣder`
+------> English `ladder`
+------> Scots `ledder`: "ladder"
+-----> Frankish <*lēdara>
+------> Dutch `ladder`: "ladder"
+-----> Old High German `hleitra`
+------> German `Leiter`: "ladder"
+-------> Hungarian `létra`: "ladder"
+------> Yiddish `לייטער` <leyter>: "ladder"
+
+
+
+-> Proto-Indo-European <*ḱlew->: "to hear"
+
+--> Proto-Indo-European <*ḱléwt>: "hear" (perfective)
+
+--?> Balto-Slavic
+----> Slavic <*slùti>: "to say, to be said to, to be known for"
+-----> East Slavic `слути` <sluti>
+------> Russian `слыть` <slytʹ>: "to be said to, to be known for, to pass as"
+-----> South Slavic
+------> Old Church Slavonic `слоути` <sluti>: "to be known as"
+------> Serbo-Croatian `слу̏ти` <slȕti>: "to call, to speak"
+-----> West Slavic
+------> Polish `słynąć`: "to be famous"
+
+---> Indo-Iranian <*Háćrawt>
+----> Indo-Aryan
+-----> Sanskrit `अश्रोत्` <áśrot>: "heard, listened"
+----> Iranian
+-----> Avestan `𐬯𐬭𐬀𐬊𐬙𐬏‎` <sraotū>: "listen, attend, concentrate"
+
+
+--> Proto-Indo-European <*ḱluyéti>
+
+---> Hellenic
+----> Ancient Greek `κλύω` <klúo>: "I hear"
+
+
+--> Proto-Indo-European <*ḱléwyeti>: "hears of" (transitive imperfective)
+
+---> Hellenic <*kleyyō>
+----> Ancient Greek `κλέω` <kléō>: "I tell of, I make heard, I make famous, I celebrate"
+
+
+--> Proto-Indo-European <*ḱl̥néwti>
+
+---> Celtic <*klinetor>: "to hear"
+----> Old Irish `ro·cluinethar`: "to hear"
+-----> Irish `cluin`: "to hear"
+
+---> Indo-Iranian <*ćr̥náwti>: "listens, hears"
+----> Indo-Aryan
+-----> Sanskrit `शृणोति` <śṛṇóti>: "listens, hears"
+------> Magadhi `𑀰𑀼𑀡𑁂𑀤𑀺` <śuṇedi>
+-------> Bengali `শোনা` <shona>: "to hear, to listen"
+------> Pali <suṇāti>: "to hear"
+------> Sauraseni `𑀲𑀼𑀡𑁂𑀤𑀺` <suṇedi>
+-------> Madhya
+--------> Hindi `सुनना` <sunnā>: "to listen, to hear, to endure"
+-------> Pahari
+--------> Punjabi `ਸੁਣਨਾ` <suṇnā>
+------> West Indo-Aryan
+-------> Romani <šunel>: "hears"
+----> Iranian
+-----> Avestan `𐬯𐬎𐬭𐬎𐬥𐬀𐬊𐬌𐬙𐬌` <surunaoiti>: "hears"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `stirîn`: "to sing"
+------> Old Persian
+-------> Persian `سرودن` <sorudan>: "to sing, to recite"
+
+---> Tocharian <*klän->
+----> Kushean <käln->: "to resound"
+
+
+--> Proto-Indo-European <*ḱl̥wéh₁ti>: "is heard" (stative)
+
+---> Pre-Albanian <*kluaj>
+----> Albanian `quaj`: "I call, I name"
+
+---> Indo-Iranian <*ćr̥wáHti>
+----> Iranian
+-----> Avestan `𐬯𐬭𐬎𐬌𐬌𐬉` <sruiiē>: "I am heard"
+
+---> Italic <*kluēō>
+----> Latin `clueō`: "I am called, I am reputed, I am named"
+-----> Latin `cluēns`: "reputing, naming" (active participle)
+-----?> Latin `cliēns`: "customer, follower, retainer, companion, client"
+-------> Western Romance
+--------> French `client`: "client"
+---------> English `client`
+--------> Italian `cliente`: "client"
+--------> Spanish `cliente`: "client"
+
+---> Messapic `ΚΛΑΟΗΙ` <klaohi>: "listen"
+
+
+--> Proto-Indo-European <*ḱlowéyeti> (causative)
+
+---> Indo-Iranian <*ćrāwáyati>
+----> Indo-Aryan
+-----> Sanskrit `श्रावयति` <śrāváyati>: "makes heard, narrates, directs, sets in motion"
+----> Iranian
+-----> Avestan `𐬯𐬭𐬁𐬎𐬎𐬀𐬌𐬌𐬈𐬌𐬙𐬌` <srāuuaiieiti>: "recites?"
+
+
+--> Proto-Indo-European <*ḱlutós>: "heard, known, famous"
+
+---> Celtic <*klutom>: "rumor, fame, reputation"
+----> Brythonic
+-----> Welsh `clod`: "praise, credit, renown"
+----> Old Irish `cloth`
+
+----> Celtic <*Klutyos>: "Famous (personal name)"
+-----> Gallaecian `𐌊𐌏𐌋𐌏𐌖𐌕𐌉𐌏𐌔` <Koloutios>
+-----> Gaulish <*Cloutios>
+------> Latin `Cloutius`
+
+---> Germanic <*hlūdaz>: "heard, famous, loud"
+----> West Germanic
+-----> Old English `hlūd`: "loud"
+------> English `loud`
+-----> Frankish <*lūd>
+------> Dutch `luid`: "loud"
+-----> Old High German `lūt`
+------> German `laut`: "loud"
+
+----> Germanic <*Hlūdawīg>: "Famous-Battle (personal name)"
+-----> West Germanic
+------> Frankish <*Hlodowig>
+-------> Dutch `Lodewijk`
+-------> Old French
+--------> French `Louis`
+---------> English `Louis`
+--------> French `Clovis`
+---------> English `Clovis`
+--------> English `Lewis`
+--------> Italian `Luigi`
+---------> English `Luigi`
+--------> Old Occitan `Aloys`
+---------> Medieval Latin `Aloysius`
+----------> English `Aloysius`
+--------> Spanish `Luis`
+---------> English `Luis`
+--------> Old French
+---------> French `Louise`
+---------> English `Louisa`
+-------> Basque `Koldobika`
+-------> Latin `Ludovīcus`
+--------> Italian `Ludovico`
+------> Old High German `Lūdwīg`
+-------> German `Ludwig`
+--------> English `Ludwig`
+
+
+----> Germanic <*Hlūdahildiz>: "Famous-Battle (personal name)"
+-----> West Germanic
+------> Frankish
+-------> Old French
+--------> French `Clotilde`
+--------> English `Clotilda`
+
+----> Germanic <*Hlūdaharjaz>: "Famous-Army (personal name)"
+-----> West Germanic
+------> Frankish <*Hlothar>
+-------> English `Clothar`
+-------> English `Lothar`
+-------> French `Lothaire`
+-------> Latin `Lotharius`
+--------> Spanish `Lothario`
+---------> English `lothario`
+-------> Frankish <*Hlotharing>: "belonging to Lothar"
+--------> Latin `Lotharingia`: "Land belonging to Lothar"
+---------> French `Lorraine`
+----------> English `Lorraine`
+---------> English `Lotharingia`
+------> Old High German `Liuther`
+-------> German `Luther`
+--------> English `Luther`
+---------> English `Lutheran`
+
+
+---> Hellenic <*klutós>
+----> Ancient Greek `κλῠτός` <klutós>: "renowned, splendid, famed, glorious"
+-----> Ancient Greek `δουρικλυτός` <douriklutós>: "famed for the spear" (Homeric epithet)
+-----> Ancient Greek `Κλυταιμνήστρᾱ` <Klutaimnḗstrā>: "Clytemnestra, Famous-Plotter"
+------> Latin `Clytaemnēstra`
+-------> English `Clytemnestra`
+
+---> Indo-Iranian <*ćrutás>
+----> Indo-Aryan
+-----> Sanskrit `श्रुत` <śrutá>: "heard, learned (orally), famous, known as"
+------> Pali <suta>: "learning, lore"
+-------> Burmese `သုတ` <suta>: "heard, learned, knowledge, leearning"
+
+---> Italic <*klutos>
+----> Italic <*enklutos>
+-----> Latin `inclitus`
+
+
+--> Proto-Indo-European <*ḱlewetos>: "heard, known, famous"
+
+---> Hellenic
+----> Ancient Greek `κλειτός` <kleitós>: "renowned, famous, excellent"
+
+
+
+--> Proto-Indo-European <*ḱlówō>
+
+---> Balto-Slavic <*ślā́ˀwāˀ> (with unexpected larygneals)
+----> East Baltic
+-----> Lithuanian `šlovė̃`: "fame, honor, halo"
+----> Slavic <*slàva>: "glory, fame"
+-----> East Slavic `слава` <slava>
+------> Russian `сла́ва` <sláva>: "glory, fame, reputation, rumor"
+-----> South Slavic
+------> Old Church Slavonic `слава` <slava>: "fame, glory"
+------> Serbo-Croatian `сла̏ва` <slȁva>: "glory, fame, feast"
+-----> West Slavic
+------> Polish `sława`: "fame, glory, name, celebrity"
+
+-----> Slavic <*Gostislava>: "Guest-Glory (personal name)"
+------> West Slavic
+-------> Polish `Goscław`
+------?> Old Swedish `Gøtstaf`
+--------> Swedish `Gustav`
+
+-----> Slavic <*Stanislava>: "Firm-Glory (personal name)"
+------> East Slavic
+-------> Russian `Станисла́в` <Stanisláv>
+------> West Slavic
+-------> Polish `Stanisław`
+
+-----> Slavic <*Vęťeslavъ>: "More-Glory (personal name)"
+------> East Slavic
+-------> Russian `Вячесла́в` <Vjačesláv>
+------> West Slavic
+-------> Old Czech `Venceslav`
+--------> Czech `Václav`
+--------> Medieval Latin `Wenceslaus`
+---------> English `Wenceslaus`
+---------> German `Wen(t)zel`
+
+-----> Slavic <*Voldislava>: "Ruling-Glory (personal name)"
+------> South Slavic
+-------> Old Church Slavonic `владьслава` <Vladĭslava>
+--------> Polish `Władysław`
+---------> Russian `Vladislav`
+--------> Hungarian `László` 
+
+
+
+
+
+
+--> Proto-Indo-European <*ḱléwmn̥>: "hearing" (action noun)
+
+---> Germanic <*hleumô>
+----> East Germanic
+-----> Gothic `𐌷𐌻𐌹𐌿𐌼𐌰` <hliuma>: "hearing"
+
+---> Indo-Iranian <*ćráwma>
+----> Iranian
+-----> Avestan `𐬯𐬭𐬀𐬊𐬨𐬀𐬥` <sraoman>: "hearing"
+
+
+---> Proto-Indo-European <*ḱléwmn̥to->
+
+----> Germanic <*hleumundaz>: "reputation, fame"
+-----> West Germanic
+------> Old High German `liumunt`
+-------> German `Leumund`: "reputation, report, opinion"
+
+----> Indo-Iranian <*ćráwmatam>
+-----> Indo-Aryan
+------> Sanskrit `श्रोमत` <śrómat>: "fame, renown, glory"
+
+
+--> Proto-Indo-European <*ḱléwos>: "fame"
+
+---> Balto-Slavic <*ślawas>
+----> Slavic <*slȍvo>: "word"
+-----> East Slavic `слово` <slovo>
+------> Russian `сло́во` <slóvo>: "word, speech"
+-----> South Slavic
+------> Old Church Slavonic `слово` <slovo>: "speech, utterance, word, sermon, book"
+------> Serbo-Croatian `сло̏во` <slȍvo>: "letter (of the alphabet), speech, sermon"
+-----> West Slavic
+------> Polish `słowo`: "word"
+
+----?> Slavic <*slověninъ>: "Slav" ##
+------> East Slavic `словѣнинъ` <slověninŭ>
+-------> Russian `славяни́н` <slavjanín>: "Slav"
+------> South Slavic
+-------> Old Church Slavonic `словѣне` <slověne>
+-------> Serbo-Croatian `Сло̀ве̄н` <Slòvēn>: "Slav"
+-------> Byznatine Greek `Σλαβῆνος` <Slabênos>
+--------> Byzantine Greek `Σκλᾰ́βος` <Sklábos>: "Slav"
+---------> Greek `Σλάβος` <Slávos>: "Slav"
+---------> Arabic `صَقَالِبَة‎` <ṣaqāliba>: "Slav"
+---------> Medieval Latin `Sclavus`: "Slav"
+----------> Romanian `șcheau`: "Slav, Bulgarian" (archaic)
+----------> Albanian `shqa`: "Bulgarian`
+----------> Western Romance
+-----------> French `slave`: "Slav"
+------------> English `Slav`
+-----------> Italian `slavo`: "Slave"
+-----------> Spanish `eslavo`
+----------> Medieval Latin `Sclavonia`
+-----------> English `Slavonia`
+-----------> Medeical Latin `Sclavonicus`
+------------> English `Slavonic`
+
+----------> Medieval Latin `sclavus`: "slave"
+-----------> Western Romance
+------------> Old French `sclave`
+-------------> French `esclave`: "slave"
+-------------> English `slave`
+-----------> Italian `schiavo`: "slave"
+-----------> Spanish `esclavo`: "slave"
+-----------> Venetian `sciavo`
+------------> Venetian `s-ciao vostro`: "your slave" ###(valediction, cf. "at your service", "humbly yours")
+-------------> Italian `ciao`
+--------------> English `ciao`
+-----------> Greek `σκλάβος` <sklávos>: "slave"
+
+------> West Slavic
+-------> Polish `Słowianin`: "Slav"
+
+------> Slavic <*slověninъka>: "Slavic"
+-------> South Slavic
+--------> Slovene `Slovẹ́nəc`: "Slovene"
+---------> German `Slowene`: "Slovene"
+----------> English `Slovene`
+-------> West Slavic
+--------> Slovak `Slovák`: "Slovak"
+---------> English `Slovak`
+
+
+---> Celtic <*klowos>: "fame, hearing"
+----> Brythonic
+-----> Welsh `clyw`: "hearing, earshot"
+----> Old Irish `clú`: "fame"
+-----> Irish `clú`: "honor, praise, fame"
+
+---> Hellenic <*kléwos>
+----> Mycenaean Greek `𐀐𐀩𐀺` <ke-re-wo>
+----> Ancient Greek `κλέος` <kléos>: "fame, glory, rumor"
+-----> Greek `κλέος` <kléos>: "fame, honor"
+-----> Ancient Greek `Κλειώ` <Kleiṓ>: "Clio, Divinity of History and Heroic Poetry"
+------> English `Clio`
+-----> Ancient Greek `Κλέων` <Kléon>: "Glory (personal name)"
+------> Latin `Cleōn`
+-------> English `Cleon`
+-----> Ancient Greek `Κλεοπᾰ́τρᾱ` <Kleopátrā>: "Glory-of-Father (personal name)"
+------> Latin `Cleopatra`
+-------> English `Cleopatra`
+
+---> Indo-Iranian <*ćráwas>: "fame"
+----> Indo-Aryan <*śráwas>
+-----> Sanskrit `श्रवस्` <śrávas>: "praise, glory, fame"
+----> Iranian <*cráwah>: "fame, word"
+-----> Avestan `𐬯𐬭𐬀𐬎𐬎𐬀` <srauua>: "word"
+----> Nuristani <*cráwa>
+-----> Kamviri `ṣu`: "news, information"
+
+
+---> Proto-Indo-European <*h₁némn̥ ḱléwos>: "famous name"
+----> Tocharian
+-----> Arshian <ñomklyu>: "fame"
+-----> Kushean <ñemkälywe>: "fame"
+
+
+--> Proto-Indo-European <*ḱlewēs>
+
+---> Hellenic <*kléwēs>
+----> Ancient Greek `-κλῆς` <-klês>
+-----> Ancient Greek `Δῐοκλῆς` <Dioklês>: "Zeus-Fame (personal name)"
+------> Latin `Diocletianus`
+-------> English `Diocletian`
+-----> Ancient Greek `Δημοκλῆς` <Dēmoklês>: "People-Fame (personal name)"
+------> English `Damocles`
+-----> Ancient Greek `Ἐμπεδοκλῆς` <Empedoklês>: "Enduring-Fame (personal name)"
+------> English `Empedocles`
+-----> Ancient Greek `Ἡρακλῆς` <Hēraklês>: "Hercules" ("Hera-Fame")
+------> Etruscan `𐌇𐌄𐌓𐌂𐌋𐌄` <hercle>: "Hercules"
+-------> Latin `Herculēs`
+--------> English `Hercules`
+------> Ancient Greek `Ἡράκλειᾰ` <Hērákleia>: "Heraclea" (any of many places named after Hercules)
+-------> Latin `Hēraclēa`
+--------> English `Heraclea`
+-------> Turkish `Ereğli`
+-----> Ancient Greek `Θεμῐστοκλῆς` <Themistoklês>: "Oracular-Fame (personal name)"
+------> English `Themistocles`
+-----> Ancient Greek `Πᾰ́τροκλος` <Pátroklos>: "Father-Fame (personal name)"
+------> English `Patroclus`
+-----> Ancient Greek `Περῐκλῆς` <Periklês>: "Very-Famous (personal name)"
+------> English `Pericles`
+-----> Ancient Greek `Σοφοκλῆς` <Sophoklês>: "Wisdom-Fame (personal name)"
+------> English `Sophocles`
+-----> Ancient Greek `Χᾰρῐκλῆς` <Khariklês>: "Grace-Fame (personal name)"
+------> English `Charicles`
+
+
+--> Proto-Indo-European <*ḱléwtrom> (instrumental, "thing for hearing")
+
+---> Germanic <*hleuþrã>: "noise"
+----> West Germanic
+-----> Old English `hlēoþor`: "hearing, sound, noise, voice, song"
+
+---> Indo-Iranian <*ćráwtram>
+----> Indo-Aryan
+-----> Sanskrit `श्रोत्र` <śrótra>: "ear"
+------> Pali <sota>: "ear"
+
+
+--> Proto-Indo-European <*ḱléwtom>
+
+---> Old Armenian `լու` <lu>: "hearing"
+----> Old Armenian `հլու` <hlu>: "obedient" (lit. "well-heard")
+-----> Armenian `հլու` <hlu>: "obedient"
+
+---> Germanic <hleuþã>: "listening, sound, silence" #
+----> East Germanic
+-----> Gothic `𐌷𐌻𐌹𐌿𐌸` <hliuþ>: "silence, stillness, peace"
+----> North Germanic
+-----> Old Norse `hljóð`: "silence, hearing, sound, music"
+------> Danish `lyd`: "sound, noise"
+------> Icelandic `hljóð`: "sound, a cry, silence"
+------> Scots `luid`: "sound, tone, tone of voice, mood"
+------> Old Norse `hljóðr`: "silent, taciturn"
+-------> Icelandic `hljóður`: "silent"
+------> Old Norse `hljóðfæri`: "musical instrument"
+-------> Icelandic `hljóðfæri`: "musical instrument"
+
+
+--> Proto-Indo-European <*ḱlowsteh₂>
+
+---> Celtic <*kloustā>: "ear"
+----> Brythonic <*klʉst>
+-----> Welsh `clust`: "ear"
+----> Old Irish `clúas`: "ear, hearing"
+-----> Irish `cluas`: "ear"
+
+
+--> Proto-Indo-European <*ḱlews-> (root extension)
+
+--->  Proto-Indo-European <*ḱléwsyeti>
+
+----> Balto-Slavic
+-----> East Baltic
+------> Lithuanian `klausýti`: "to hear, to listen, to obey"
+
+----> Celtic <*klusīti>
+-----> Brythonic
+------> Welsh `clywed`: "to hear, to listen"
+
+---> Proto-Indo-European <*ḱlusnéyeti>
+
+----> Germanic <*hlusnijaną>
+-----> West Germanic
+------> Old English `hlysnan`: "to listen"
+-------> English `listen`
+------> Old High German
+-------> German `lauschen`: "to listen, to eavesdrop"
+
+
+---> Proto-Indo-European <*ḱlusto->
+
+----> Germanic <*hlūstaną>: "to listen"
+-----> North Germanic
+------> Old Norse
+-------> Danish `lytte`: "to listen"
+-------> Icelandic `hlusta`: "to listen"
+
+-----> Germanic <*hlūstrijaną>: "to listen" (frequentative)
+------> West Germanic
+-------> Frankish
+--------> Dutch `luisteren`: "to listen"
+
+
+
+
+
+---> Proto-Indo-European <*ḱlowsos>
+
+----> Balto-Slavic <*ślaušás>
+-----> Slavic <*slȗxъ>: "hearing, rumor"
+------> East Slavic `слоухъ` <sluxŭ>
+-------> Russian `слух` <slux>: "hearing, ear, rumor, news"
+------> South Slavic
+-------> Old Church Slavonic `слоухъ` <sluxŭ>: "hearing, ear, rumor, news"
+-------> Serbo-Croatian `слу̑х` <slȗh>: "hearing"
+------> West Slavic
+-------> Polish `słuch`: "hearing"
+
+
+
+endbody
+
+
+
+startnotes
+
+# Germanic <hleuþã> paradoxically means both "sound" and "silence", because both are extensions of the action of listening.
+
+Icelandic `hljóð` keeps both meanings, Danish `lyd` only retains the "sound" meaning. Gothic `𐌷𐌻𐌹𐌿𐌸` <hliuþ> only records the meaning "silence", being used in the Ulfilas Bible as a translation of New Testament Greek `ἡσυχία` <hesuchia>: "peace, silence, stillness".
+
+
+## The origin of <*slověninъ>: "Slav" is disputed, but one of the main possibilities is a derivative of <*slȍvo>: "word", probably along the lines of "people who can speak (our language)". Compare the Slavic word for "foreigner", <*němьcь>, which literally means "mute, unable to speak (our language)"
+
+
+### `s-ciao vostro`: "your slave" was used as a valediction in Venetian. Compare "at your service" or "humbly yours". 
+
+
+#### West Germanic <*kobeholdo>: "kobold, goblin" (German `Kobold`, Dutch `kabouter`) may be <*kubô> + <*hulþô>: "shed/cove/room/house?" + "friend", indicating a household spirit. The "friend" part may be euphemisitc.
+
+Old French `gobelin` is likely a blend of Frankish <*kobeholdo> and Latin `cobalus` (from Greek).
+
+The metal cobalt was called 'kobold ore' (`Kobalterz`) because coming across a vein of cobalt while mining caused a number of problems.
+
+
+
+endnotes
+
+

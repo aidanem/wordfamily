@@ -1,0 +1,222 @@
+date: 20180420
+theme: Birds 🐦
+tags: Animals, Birds, Water
+
+startintro
+
+Donald Duck dives to the deep abyss of Dover in a bathysphere. (What a dope.)
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*dʰewb->: "deep, hollow"
+
+-> Proto-Indo-European <*dʰewbti>: "goes deep, sinks, dives" (primary verb)
+
+--> Balto-Slavic
+---> Slavic <*ďubati>: "to peck"
+----> East Slavic
+-----> Russian `дю́бать` <djúbatʹ>
+
+--> Germanic <*dūbanã>: "to dive, to sink"
+---> West Germanic
+----> Old English `dūfan`: "to dive, to sink"
+-----> English `dive`
+
+--?> Germanic <*dūkanã>: "to duck, to dive under" (intensive -k-? compare `hear`/`hark` and `smile`/`smirk`)
+----> West Germanic
+-----> Old English <*dūcan>: "to dive, to dip, to plunge"
+------> English `duck`
+------> Scots `douk`: "to duck, to dive"
+------> Old English `dūce`: "duck (bird)" (lit. "diver")
+-------> English `duck`
+-------> Scots `deuk`: "duck"
+-----> Frankish <*dūkan>
+------> Dutch `duiken`: "to dive"
+-------> Dutch `duiker`: "diver, culvert, loon (bird), duiker (antelope)"
+--------> English `duiker`
+-----> Old High German `tūchan`
+------> German `tauchen`: "to dive, to bathe"
+-------> German `Taucher`: "diver, loon (bird), grebe (bird)"
+
+
+-> Proto-Indo-European <*dʰowbéyeti>: "makes deep, submerges" (causative verb)
+
+--> Germanic <*daubijanã>
+---> North Germanic
+----> Old Norse
+-----> Icelandic `dýfa`: "to dip, to dive"
+---> West Germanic
+----> Old English `dȳfan`: "to dive"
+-----> English `dive`
+
+---> Germanic <*daupijanã>  (variant)
+----> West Germanic
+-----> Old English `dīepan`
+------> Scots `depe`: "to dip, to incline"
+
+---> Germanic <*dupjanã> (variant)
+----> East Germanic
+-----> Gothic `𐌳𐌰𐌿𐍀𐌾𐌰𐌽` <daupjan>: "to dip, to immerse, to baptize"
+----> North Germanic
+-----> Old Norse `deypa`
+------> Danish `døbe`: "to baptize, to name"
+----> West Germanic
+-----> Old English `dyppan`
+------> English `dip`
+-----> Frankish <*dōpen>
+------> Dutch `dopen`: "to dip, to immerse, to baptize, to name"
+-------> English `dope`
+-----> Old High German `toufen`: "to dip, to immerse, to baptize"
+------> German `taufen`: "to baptize"
+------> Lombardic <*taufan>
+-------> Italian `tuffare`: "to plunge, to dip"
+
+
+-> Proto-Indo-European <*dʰéwbus>: "deep" (adjective)
+
+--> Proto-Albanian <*deubeta>
+---> Albanian `det`: "sea"
+
+--> Balto-Slavic <*dubus>
+---> Lithuanian `dubùs`: "deep, hollow"
+
+--> Germanic <*deupaz>: "deep"
+---> East Germanic
+----> Gothic `𐌳𐌹𐌿𐍀𐍃` <diups>: "deep"
+---> North Germanic
+----> Old Norse `djúpr`: "deep"
+-----> Danish `dyb`: "deep, profound"
+-----> Icelandic `djúpur`: "deep"
+---> West Germanic
+----> Old English `dēop`: "deep"
+-----> English `deep`
+-----> Scots `depe`: "deep, profound"
+----> Frankish <*diop>
+-----> Dutch `diep`: "deep, low, profound"
+----> Old High German `tiuf`
+-----> German `tief`: "deep, low"
+------> English `tiefling`
+-----> Yiddish `טיף‎` <tif>: "deep, profound"
+---> Germanic <*diupiþō>: "deepness, depth"
+----> East Germanic
+-----> Gothic `𐌳𐌹𐌿𐍀𐌹𐌸𐌰` <diupiþa>: "depth"
+----> North Germanic
+-----> Old Norse `dýpt`
+------> Danish `dybde`: "depth"
+------> Icelandic `dýpt`: "depth"
+----> West Germanic
+-----> Old English <*dīepþu>
+------> English `depth`
+------> Scots `deepth`
+-----> Frankish <*diopitha>
+------> Dutch `diepte`: "depth"
+
+--> Hellenic <*butʰós> (metathesis)
+---> Classical Greek `βῠθός` <buthós>: "depth, deep water, bottom of the sea" (metathesis from <*thubós>)
+
+----> Classical Greek `ἄβῠσσος` <ábussos>: "bottomless, unfathomable, abyss" (<a-buthos>: "without bottom")
+-----> Latin `abyssus`: "abyss"
+------> Western Romance
+-------> Italian `abisso`: "abyss, gulf"
+------> English `abyss`
+------> French `abysse`: "abyss, deep sea"
+------> Late Latin <*abyssimus>: "abyssal, abysmal"
+-------> Western Romance
+--------> Old French `abisme`
+---------> French `abîme`: "abyss, chasm, hell"
+---------> English `abysm`
+----------> English `abysmal`
+---------> Spanish `abismo`: "abyss"
+
+
+---?> Classical Greek `βένθος` <bénthos>: "the depths" #
+-----> English `benthic`
+-----> Classical Greek `βᾰθῠ́ς` <bathús>: "high, deep, profound, intense" (zero-grade form) #
+------> English `bathy-`
+-------> English `Bathysphere`
+
+
+-> Proto-Indo-European <*dʰubnós>: "deep"
+
+--> Balto-Slavic <*dubno>
+---> Lithuanian `dùgnas`: "bottom, background"
+---> Slavic <*dъnò>: "bottom"
+----> East Slavic `дъно` <dŭno>: "bottom"
+-----> Russian `дно` <dno>: "floor, (river) bed, bottom"
+----> South Slavic
+-----> Serbo-Croatian `дно̏` <dnȍ>: "bottom"
+----> West Slavic
+-----> Polish `dno`: "bottom, (river) bed"
+
+--> Celtic <*dubnos>: "depth, world"
+---> Brythonic <*duβn>
+----> Breton `don`: "deep"
+----> Welsh `dwfn`
+---> Old Irish `domun`: "world, Earth, country, realm"
+----> Irish `domhan`: "world, earth, domain, universe"
+---> Celtic <*Dubnorix>: "World-King (personal name)"
+----> Gaulish `Dumnorix`
+---> Celtic <*Dubnowalos>: "World-Chief (personal name)"
+----> Brythonic <*Duβnowal>
+-----> Welsh `Dyfynwal`
+----> Old Irish `Domnall`
+-----> Irish `Domhnall`
+-----> Latin `Donvaldus`
+------> English `Donald`
+---> Celtic <*Dubnotalos>: "World-head?, World-boss? (personal name)"
+----> Gaulish `Dubnotalus`
+
+
+-> Proto-Indo-European <*dʰubrós>: "deep"
+
+--> Balto-Slavic <*dubrā́ˀ>
+---> Lithuanian `Dubrà`
+---> Slavic <*dьbrь>
+----> East Slavic `дъбрь` <dŭbrĭ>: "valley"
+-----> Russian `де́бри` <débri>: "thicket, jungle, wilderness"
+-----> East Slavic `Дьбрꙗньскъ` <Dĭbrjanĭskŭ>: "Thicket-Town? (place name)"
+------> Russian `Брянск` <Bryansk>
+-------> English `Bryansk`
+----> South Slavic
+-----> Serbo-Croatian `дебри` <debri>
+
+--> Celtic <*dubros>: "water"
+---> Gaulish
+----> German `Tauber` (name of a river)
+---> Celtiberian
+----> Galician `Dubra` (name of a river)
+---> Brythonic <*duβr>: "water"
+----> Welsh `dŵr`: "water"
+----> English `Dour`
+----> Brythonic <*duβras>: "waters, Dover"
+-----> Latin `(Portus) Dubris`: "Dover"
+------> Old English `Dofras`: "Dover"
+-------> English `Dover`
+------> Brythonic <*wenduβras>: "white waters"
+-------> English `Wendover`: name of a river
+---> Celtic <*dubrokū>: "otter" (lit. "water-dog")
+----> Brythonic <*düβrgi>
+-----> Welsh `dyfrgi`: "otter"
+----> Old Irish `doburchú`: "otter"
+-----> Irish `dobharchú`: "otter"
+
+--> Tocharian <*täpre>
+---> Arshian <tpär>
+---> Kuchean <tapre>: "high, tall, fat"
+----> Kuchean <tparṣke>: "shallow"
+
+
+endbody
+
+
+startnotes
+
+# Most sources say <bathús> is probably not related to <buthós>. But the ablaut alternation between <benthos> and <bathos> points to an Indo-European origin (equivalent to <*bendʰ-> vs <*bn̥dʰ->), and this is by far the most likely IE origin I can think of.
+
+Alternatively it could be from the "language of the geminates", a northern European substrate language that apparently had grammatical alternation in prenasalization of internal consonants like <-th->/<-nth->. But of course Greek is not northern European, so that weakens that possibility (that substrate is primarily seen in Celtic, Germanic, and Finnic).
+
+
+endnotes

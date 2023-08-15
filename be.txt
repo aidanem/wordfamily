@@ -1,0 +1,250 @@
+date: 20170714
+tags: ATLA
+
+
+
+startbody
+
+
+
+Proto-Indo-European <*bʰuH->: "to become, grow, appear"
+
+-> Proto-Indo-European <*bʰúH-t> "become" (zero-grade aorist)
+
+--> Albanian `bëhem`: "become, get"
+
+--> Balto-Slavic <*būtei>: "to be"
+---> Lithuanian `būti`: "to be"
+---> Slavic <*byti>: "to be"
+----> East Slavic
+-----> Russian `быть` <bytʹ>: "to be"
+----> South Slavic
+-----> Serbo-Croatian `би̏ти` <bȉti>: "to be"
+----> West Slavic 
+-----> Polish `być`: "to be"
+
+-?> Germanic <*būanã>: "to dwell, to reside"
+---> West Germanic
+----> Old English `būan`: "to dwell"
+----> Old High German `būan`: "to build"
+-----> German `bauen`: "to build, to construct"
+-----> Yiddish `בויען` <boyen>: "build, construct"
+---> Old Norse `búa`: "to dwell, to prepare"
+----> Danish `bo`: "to live, to dwell, to stop, an estate, an abode, a nest"
+----> Icelandic `búa`: "to dwell, to prepare, to run a farm or home"
+----> Old Norse `búinn`:  "prepared" (past participle)
+-----> Middle English `boun`: "ready, prepared"
+------> Scots `boun`: "ready, prepared"
+------> English `bound`
+-------> English `-bound`: "moving in the direction of" (unrelated to meanings of binding or jumping)
+---> Gothic `𐌱𐌰𐌿𐌰𐌽` <bauan>: "dwell, inhabit, live"
+
+--> Hellenic
+---> Classical Greek `φύω` <phúō>: "to grow, to give birth to, to be by one's nature, to be natural"
+----> Classical Greek `φύσις` <phúsis>: "origin, nature, form, Nature"
+-----> Greek `φύση` <fýsi>: "nature"
+-----> English `physis`
+-----> Classical Greek `φυσικός` <phusikós>: "natural, physical"
+------> Latin `physica`: "study of nature"
+-------> Old French `fisike`: "natural science, art of healing"
+--------> English `physic`
+---------> English `physician`
+-----> English `physics`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀪𑀽` <bhū́>: "to be"
+-----> Sanskrit `𑀪𑀽𑀫𑀺` <bhūmi>: "earth, soil, base, country, the element of Earth" ("that which is")
+------> Sauraseni
+-------> Western Sauraseni
+--------> Romani `phuv`: "earth"
+
+------> Hindi `भूमि` <bhūmi>: "earth, soil, ground, country, Earth, Goddess of the Earth"
+------> Malay `bumi`: "earth, soil, Earth"
+------> Thai `ภูมิ` <puu-mí>: "land"
+------> English `Bumi`, King of Omashu
+------> Sanskrit `𑀪𑀽𑀫𑀦𑁆` <bhūman>: "world, territory, majority, assembly"
+------> Sanskrit <bhūmisparśa>: "earth-witness, name for a pose (or mudra) the Buddha is commonly depicted in"
+
+--> Italic <*fūai>
+---> Latin `fuī`: "I was, I've been" (suppletive first-person singular perfect active indicative of `sum`)
+----> Spanish `fui`: "I was" (suppletive first-person singular preterite indicative form of both `ir` and `ser`)
+
+
+-> Proto-Indo-European <*bʰewH->: "become" (full grade present)
+
+--> Germanic <*beunã>: "to be, to become"
+---> West Germanic
+----> Old English `bēon`: "to be, become"
+-----> English `be` (`being`, `been`, `bist`, but not suppletive forms like `is`, `was`) 
+----> Old High German `bim`: "am"
+-----> German `bin`: "am" (and other suppletive forms of `sein` "to be")
+
+--> Indo-Iranian <*bʰávati>
+---> Indo-Aryan
+----> Sanskrit `𑀪𑀯𑀢𑀺` <bhavati>: "to be, become, happen"
+-----> Sauraseni `होइ` <bhodi>: "become, be"
+------> Hindi `होना` <honā>: "be, exist"
+---> Iranian
+----> Avestan `𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌` <bavaiti>
+----> Persian `بودن` <budan>: "be, exist"
+
+
+-> Proto-Indo-European <*bʰuHyéti>: "be becoming, be growing, be appearing" (imperfective)
+
+--> Celtic <*buyeti>
+---> Brythonic
+----> Welsh `bod`: "to be"
+---> Old Irish `bí`
+----> Irish `bí`: "to be"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀪𑀽𑀢` <bhūt>: "ghost, spirit"
+
+--> Italic <*fuiō>
+---> Latin `fīō`: "I become"
+----> Latin `fīat`: "let it be made" (third-person singular present active subjunctive of `fiō`)
+-----> English `fiat`
+---> Oscan `𐌚𐌉𐌉𐌄𐌕` <fiiet>: "are" (3rd pl)
+---> Umbrian `𐌚𐌖𐌉𐌀` <fuia>: "is" (3rd sing)
+
+
+-> Proto-Indo-European <*bʰúH-tis>: "being, existence"? (abstract noun from verb)
+
+--> Germanic <*būþiz>
+---> Old Norse `búð`
+----> Icelandic `búð`: "shop, tent, camp"
+----> English `booth`
+----> German `Bude`: "kiosk, booth, shack"
+
+--> Hellenic
+---> Classical Greek `φῠτόν` <phutón>: "plant, tree, creature, descendant"
+----> English `phyto-`
+----> English `-phyte`
+
+
+-> Proto-Indo-European <*bʰuH-tlom>: "dwelling"? (instrumentive: ~"thing for being in")
+
+--> Germanic <*bōþlã>: "house, dwelling"
+---> West Germanic
+----> Frankish
+-----> Dutch `boedel`: "estate, collective property of a person" (not land)
+------> English `boodle`: "money, swag"
+------> English `kit and (ca)boodle`: a large collection of things
+----> Old English `botl`
+-----> English `bottle`: "house, dwelling" (dialectic, unrelated to more common `bottle`)
+---> Old Norse `ból`
+----> Icelandic `ból`: "abode, home, farm"
+---> Germanic <*buþlijanã>: "build"
+----> West Germanic
+-----> Old English `byldan`: "build"
+------> Old English `holbyldan`: "hole builder, builds-houses-in-holes, hobbit" (calque of Archaic Westron <kûd-dûkan>)
+-------> English `hobbit`
+------> English `build`
+
+--> Balto-Slavic
+---> Slavic <*bydlo>: "dwelling, abode"
+----> West Slavic
+-----> Sorbian `bydło`: "residence, domicile"
+-----> Czech `bydlo`: "livelihood"
+-----> Polish `bydło`: "cattle"
+------> Russian `бы́дло` <býdlo>: "cattle (obsolete), rabble, sheeple"
+
+
+-> Proto-Indo-European <*bʰewH-ko>
+
+--> Armenian
+---> Old Armenian `բոյս` <boys>: "plant, vegetation"
+----> Armenian `բույս` <buys>: "plant"
+
+
+-> Proto-Indo-European <*bʰewH-no>
+
+--> Armenian
+---> Old Armenian `բոյն` <boyn>: "nest"
+----> Armenian `բույն` <buyn>: "nest, den, lair, hovel"
+----> Turkish `pin`: "chicken coop"
+
+
+-> Proto-Indo-European <*bʰuH-lo->
+
+--> Armenian
+---> Old Armenian `բոյլ` <boyl>: "group, company, body, assembly"
+----> Armenian `բույլ` <buyl>: "constellation (group of stars), pack, flock, cluster"
+
+--> Hellenic
+---> Classical Greek `φῡλή` <phūlḗ>: "tribe, race, nation, set of things, gender"
+----> English `phylum`
+----> Coptic `ⲫⲩⲗⲏ` <phulē>: "tribe"
+
+
+-> Proto-Indo-European <*bʰuH-s>
+
+--> Italic
+---> Latin `-bus`
+----> Latin `probus`: "good, noble" (pro-bus, "to be forward")
+-----> Latin `probō`: "approve, commend, test, demonstrate"
+------> Western Romance
+-------> French
+--------> English `prove`
+------> English `probe`
+------> Latin `approbō`: "to regard as good, approve, favor"
+-------> Spanish `aprobar`: "to approve, to pass an exam"
+-------> French `approuver`: "to approve (of)"
+--------> English `approve`
+------> Latin `approbātiō`: "the act of approving"
+-------> English `approbation`
+----> Latin `superbus`: "proud, superior, arrogant, splendid, magnificent" (super-bus, "to be above")
+-----> English `superb`
+----> Latin `tribus`: "one of the three tribes of Romans, a division of people, a tribe, the lower classes" (tri-bus, "to be a third")
+-----> English `tribe`
+-----> Latin `tribuō`: "grant, bestow, concede, allow"
+------> English `tribute`
+------> English `tributary`
+------> English `attribute`
+------> English `contribute`
+------> English `distribute`
+------> English `retribution`
+------> English `tribunal`
+
+
+-> Proto-Indo-European <*swe-bʰuH->: "to be like self, people like me"
+
+-?> Balto-Slavic
+--?> Slavic <*sьrbъ> <sirbu> (or from <*ser->, "to protect" via "ally")
+----> East Slavic
+-----> Russian `серб` <serb>: "Serb, Serbian"
+----> South Slavic
+-----> Serbo-Croatian `Ср̏би` <Srbi>: "Serb, Serbian (ethnonym)"
+------> English `Serb`
+----> West Slavic
+-----> Sorbian `Serb`: "Sorb, Serb"
+------> German `Sorbe`: "Sorb"
+-------> English `Sorb`
+
+-?> Celtic
+---> Gaulish
+----> Latin `Senones`: "Senones (ethnonym)"
+
+--> Germanic <*swēbaz>: "Suebi (ethnonym)"
+---> West Germanic
+----> Old High German
+-----> German `Schwabe`: "Swabian"
+---> Old Norse `Sváfa`: "Suebi"
+---> Latin `suēbus`: "Suebi"
+----> English `Suebi`: "Suebi"
+
+--> Italic
+---> Osco-Umbrian
+----> Sabine `Sabus`: "Sabine (ethnonym)"
+-----> Latin `Sabīnī`: "Sabines (ethnonym)"
+------> English `Sabine`
+------> Latin `Sabina`: "Sabine (personal name)" (originally an early cognomen/nickname)
+-------> English `Sabina`
+------> Latin `Samnium`: "land of the Sabines" (contraction of an earlier form, `Sabinium`)
+-------> Italian `Sannio`: "region in southern Italy"
+
+
+
+endbody

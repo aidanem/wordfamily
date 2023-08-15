@@ -1,0 +1,213 @@
+date: 20220520
+tags: Animals, Birds
+
+
+startintro
+
+Turtledoves are not named after turtles, in fact "turtle" has meant the bird for longer than it meant the reptile.
+
+In Middle English `tortu` meant "turtle" (from Latin `tortuca`) and `turtel` mean "turtledove" (from Latin `turtur`), then they collapsed into "turtle". The modern meaning of "turtle" won out, and made the meaning of the bird obsolete, leaving the elaborated form `turteldoufe` -> `turtledove`. (Compare the parallel German words `Turtel` and `Turteltaube`, which both still mean "turtle dove", but there also, the elaborated `Turteltaube` has mostly replaced the simple `Turtel`.)
+
+The Old English word for "turtle" is `byrdling`, which has nothing to do with birds; it is in fact "board-ling" (that is, "shieldling").
+
+endintro
+
+
+
+startbody
+
+
+Northwest Semitic
+-> Phoenician `𐤕𐤓𐤔𐤔‎` <tršš>
+-> Hebrew `תַּרְשִׁישׁ` <Taršīš>
+--> Koine Greek `Tharseis`
+---> Latin `Tharsis`
+--> English `Tarshish`
+
+?> Classical Greek `Ταρτησσός` <Tartēssós>
+--> Latin `Tartessos`
+---> English `Tartessos`
+
+-?> Classical Greek `Τάρτᾰρος` <Tártaros>: "Tartarus" ####
+---> Latin `Tartarus`: "Tartarus, Hell, a river in Venetia"
+----> Western Romance
+-----> French `Tartare`
+-----> Italian `Tartaro`
+----> English `Tartarus`
+
+---> Koine Greek `ταρταροῦχος` <tartaroûkhos>: "Holder of Tartaros, Keeper of Hell"
+
+---?> Medieval Latin `tortuca`: "turtle, tortoise" #
+-----> Western Romance
+------> Old French `tortüe`
+-------> French `tortue`: "turtle, tortoise"
+--------> French `le de la Tortue`: "Tortuga, Island of the Turtle (place name)"
+-------> Middle English `tortou`
+--------> English `turtle`
+------> Spanish `tortuga`: "turtle, tortoise"
+-------> Spanish `Isla Tortuga`: "Turtle Island (place name)"
+--------> English `Tortuga`
+-----> Middle English `tortuce`
+------> English `tortoise`
+
+
+
+
+Northwest Semitic <*tār>
+-> Hebrew `​​תּוֹר` <tōr>: "turtle dove" (with Canaanite shift of <*ā> to <ō>)
+-> Ugaritic `𐎚𐎗` <tr>: "turtle dove"
+
+
+?> Latin `turtur`: "turtle dove"  ###
+--> Vulgar Latin <*turturã> (from the accusative, as normal)
+---> Eastern Romance
+----> Romanian `turtură`: "turtle dove (rare, regional)"
+---> Western Romance
+----> French `tourte`: "passenger pigeon (regional), dove (regional)"
+----> Italian `tortora`: "turtle dove"
+--> Welsh `turtur`: "turtle dove"
+--> Finnish `turturikyyhky`: "turtle dove" (with `kyyhky`: "pigeon, dove")
+
+--> Vulgar Latin <*turtulã> (variant with dissimulation)
+---> Western Romance
+----> Spanish `tórtola`: "turtle dove"
+
+---> Albanian `turtull`: "turtle dove"
+---> Old English `turtle`: "turtle dove"
+----> Middle English `turtle`
+-----> English `turtle`
+-----> Middle English `turtledouve` (with `douve`: "pigeon, dove")
+------> English `turtledove`
+---> Old High German `turtil`
+----> German `Turtel`: "turtle dove (dated)"
+----> Old High German `turtiltūba` (with `tūba`: "pigeon, dove")
+-----> German `Turteltaube`: "turtle dove"
+
+--> Latin `turturella` (diminutive)
+---> Eastern Romance
+----> Romanian `turturea`: "turtle dove"
+---> Western Romance
+----> Old French `turterele`
+-----> French `tourterelle`: "turtle dove"
+----> Italian `tortorella`
+
+
+
+Proto-Indo-European <*teter->: "fowl, specific kind of fowl?" (probably onomatopoeic)
+
+-> Hellenic
+--> Classical Greek `
+--> Classical Greek `τέτρᾰξ` <tétrax>: "hazel grouse"
+---> Translingual `Tetrax`: "taxonomic genus of little bustards"
+---> Classical Greek `τετρᾰ́ζω` <tetrázō>: "to cackle like a grouse" #####
+--> Classical Greek `τέτρῐξ` <tétrix>
+---> Translingual `Tetrix`: "taxonomic genus of grouse locusts"
+--> Classical Greek `τετράων` <tetráōn>: "black grouse"
+---> Latin `tetrao`
+----> Translingual `Tetrao`: "taxonomic genus of wood grouse"
+
+
+-> Indo-Iranian
+--> Indo-Aryan
+---> Sanskrit `तित्तिर` <tittirá>: "partridge"
+----> Magadhi
+-----> Bengali `তিতির` <titir>: "partridge, guineafowl, francolin"
+----> Pali `𑀢𑀺𑀢𑁆𑀢𑀺𑀭` <tittira>: "partridge"
+----> Sauraseni `𑀢𑀺𑀢𑁆𑀢𑀺𑀭` <tittira>
+-----> Hindi `तीतर` <tītar>: "partridge"
+
+-> Italic
+-?> Latin `turtur`: "turtle dove"  ###
+
+
+-> Proto-Indo-European <*tetr̥wós>
+
+--> Balto-Slavic <*teterwás>: "grouse"
+---> East Baltic
+----> Lithuanian `tetervà`
+---> West Baltic
+----> Old Prussian `tatarwis`: "black grouse"
+-----> Old Prussian `medenixtatarwis`: "partridge"
+---> Slavic <*tȅtervь>: "grouse, black grouse"
+----> East Slavic `тетеревь` <teterevĭ>
+-----> Russian `те́терев` <téterev>: "black grouse"
+----> South Slavic
+-----> Bulgarian `те́трев` <tétrev>: "black grouse"
+-----> Old Church Slavonic `тетрѣвь` <tetrěvĭ>
+-----> Serbo-Croatian `те̏трије̄б` <tȅtrijēb>: "grouse"
+----> West Slavic
+-----> Czech `tetřev`: "grouse, capercaillie"
+-----> Polish `cietrzew`: "grouse, black grouse"
+------> Polish `zacietrzewić`: "to become enraged" (lit. "to be-grouse-ish")
+
+
+--> Celtic <*teteros>
+---> Old Irish
+----> Middle Irish `tethra`: "hooded crow"
+----?> Middle Irish `Tethra`: "name of a Fomorian king"
+
+--> Germanic <*þeduraz>
+---> North Germanic
+----> Old Norse `þiðurr`: "wood grouse, capercaillie"
+-----> Icelandic `þiður`: "capercaillie"
+-----> Swedish `tjäder`: "capercaillie"
+
+
+--> Indo-Iranian <*tatr̥wás>
+---> Iranian <*tatr̥wáh>: "pheasant"
+----> Northern Iranian
+-----> Khotani `𑀢𑁆𑀢𑀢𑀭` <ttatara>: "partridge"
+-----> Sogdian `𐫤𐫤𐫡𐫀𐫇` <ttr'w>: "a kind of bird"
+----> Pashto `تارو‎` <tārú>: "partridge, francolin"
+----> Western Iranian <*tatura>
+-----> Northwestern Iranian
+------> Medean <*tatura(s)>
+-------> Classical Greek `τέτᾰρος` <tétaros>
+-----> Old Persian
+------> Persian `تذرو` <tazarv>: "pheasant"
+
+-----> Western Iranian <*taturak>
+------> Northwestern Iranian
+-------> Old Armenian `տատրակ` <tatrak>: "turtle dove"
+--------> Armenian `տատրակ` <tatrak>: "turtle dove"
+------> Old Persian
+-------> Middle Persian <*tadurug>
+--------> Arabic `تَدْرُج` <tadruj>: "pheasant"
+---------> Persian `دراج` <dorrâj>: "partridge, francolin"
+----------> Ottoman Turkish `تراج‎` <turac>: "black francolin"
+-----------> Turkish `turaç`: "black francolin"
+-----------> Georgian `დურაჯი` <duraǯi>: "black francolin"
+-----------> Russian `тура́ч` <turáč>: "black francolin"
+
+
+
+
+endbody
+
+
+
+startnotes
+
+##### Verb forms of the root <*teter-> probably don't exist. The two possibilities are Greek τετράζω (tetrázō) ‘cackle’ and Latin tetrinniō ‘quack’. Greek <-azō> verbs are usually later formations (not inherited from PIE) and Latin <-inniō> verbs are, as far as I know, all onomatopoeias: `(ad)hinniō`: "whinny", `tinniō`: "jingle, clink" (whence `tinnitus`), and `tertinniō`: quack" are basically the whole set. There is no particular evidence that any of the Latin <inniō> verbs are inherited from PIE, and no decent path derive `tertinniō` from <*teter->. A -ne- infix verb form would be the closest thing, and there's a whole bunch of things wrong with that idea.
+
+
+#### Classical Greek `Τάρτᾰρος` <Tártaros>: "Tartarus, Hades, Hell" was thought by Strabo to be a fanciful modification of `Ταρτησσός` <Tartēssós>, a semi-mythical port beyond the Pillars of Herakles (in southwest Iberia). I am unaware of any better ideas since then.
+
+`Ταρτησσός` <Tartēssós> may in turn represent a Phoenician colony, possibly cognate with Phoenician `𐤕𐤓𐤔𐤔‎` <tršš> and Hebrew `תַּרְשִׁישׁ` <Taršīš>. In Ezekiel 27, Tarshish is said to have "exchanged silver, iron, tin and lead" for the merchandise of Tyre—which is pretty much what the Phoenicians were doing in southwest Iberia.
+
+The ethnonym `Tartar` is a modification of Old Turkic `𐱃𐱃𐰺` <Tatar> by association with `Tartarus`, so the form `Tatar` is preferable, being more accurate and less judgmental. The naming of "steak tartare" is likewise based on Medieval European derogatory ideas of Tatars and other steppe cultures.
+
+
+
+# The Greek `ταρταροῦχος` <tartaroûkhos>: "keepers of Tartarus" is used in the apocrypha Apocalypse of Paul to refer to a class of demons who torture damned souls in hell, and one or two other early gnostic/hermetic sources.
+
+Medieval Latin `tortuca`: "turtle, tortoise" is of unknown origin, but one possibility is that turtles got associated with these demons and it comes from <tartaroûkhos>, or a related form like <(thērion) tartaroûkhon> -> `(bēstia) tartaruca` -> `tortuca`. This could have been influenced by sound similarity to `testūdō`: "turtle, tortoise" (from `testa`: "pot, pottery, tile, shell", itself of disputed origin). The other likely possibility is that it could be from `tortus`: "twisted" due the shape of turtle's legs and feet.
+
+I have seen several sources say that turtles were associated with the underworld in Late Hellenic/Early Christian symbolism but not any source that seems particularly definitive. While there definitely were some negative associations (turtles representing the burden of sin, etc.), I'm not yet sure someone didn't made up the association with the underworld at some point to justify connecting `tortuca` with <tartaroûkhos>.
+
+### Latin `turtur` could be related to all the <*tetr-> bird words; but it is the only one with an <r> in the first syllable, and one of the few that does not refer to a bird from the order Galliformes (landfowl).
+
+It could also be an independent onomatopoeia, or it could be related to the Northwest Semitic words: Hebrew `​​תּוֹר` <tōr> and Ugaritic `𐎚𐎗` <tr>: "turtle dove".
+
+
+endnotes

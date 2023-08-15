@@ -1,0 +1,116 @@
+date: 20200103
+theme: Lions 🦁
+tags: Toponymy
+
+
+startbody
+
+
+Central Asian substrate <*sVrng-??>
+
+
+
+-> Late Indo-European dialect <*sinǵʰos>
+
+--> Armenian `ինձ` <inj>: "panther"
+---> Armenian `ընձառյուծ` <ənjaṙyuc>: "leopard"
+
+--> Indo-Aryan <*sinȷ́ʰás> ##
+---> Indo-Aryan
+----> Sanskrit `𑀲𑀺𑀁𑀳`<sĩhá>: "lion, hero" ####
+-----> Maharashtri `𑀲𑀺𑀁𑀖` <sĩgha>
+------> Tamil `சிங்கம்` <ciṅkam>: "lion, Leo"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `सिंघ` <sĩgh>: "lion"
+-----> Pali `𑀲𑀻𑀳` <sīha>: "lion"
+------> Old Khmer
+-------> Khmer `សីហៈ` <səyhaʾ>: "lion"
+-------> Khmer `សីហា` <səyhaa>: "August" ( via Leo?)
+-------> Thai `สีห์` <sǐi>: "lion"
+
+-----> Hindi `सिंह` <sĩh>: "lion, Leo"
+-----> Khmer `សឹង្ហ` <səng>: "lion"
+-----> Malay `singa`: "lion"
+-----> Punjabi `ਸਿੰਘ` <sĩgh>: "lion, Singh (Sikh surname)"
+------> English `Singh`
+-----> Telugu `సింహము` <sĩhamu>: "lion, Leo"
+-----> Thai `སེངྒེ` <sengge>: "lion"
+
+
+-----> Sanskrit `𑀲𑀺𑀁𑀳𑀮` <sĩhala>: "Sri Lanka, Sri Lankan" ("of/with the lions")
+------> Elu
+-------> Sinhala `සිංහල` <sĩhala>: "Sinhala"
+--------> English `Sinhala`
+
+-----> Sanskrit `𑀲𑀺𑀁𑀳𑀧𑀼𑀭` <sĩhá-pura>: "Singapore" (lit. "Lion-City") ###
+------> Malay `Singapura`: "Singapore" (lit. "Lion-City")
+-------> English `Singapore`
+
+
+-> Iranian <*šarguh> ##
+--> Northern Iranian
+---> Khotani <sarau>: "lion"
+---> Sogdian <šrγω>: "lion"
+--?> Old Chinese <*sri>
+----> Middle Chinese `獅`: "lion"
+-----> Mandarin `獅` <shī>: "lion"
+-----> Wu `獅` <sr>: "lion"
+-----> Yue `獅` <si1>: "lion"
+----> Old Chinese <*sri *ʔslɯʔ> (lit. "lion child")
+-----> Middle Chinese `獅子`: "lion (cub), bodhisattva"
+------> Mandarin `獅子` <shízi>
+-------> Mandarin `獅子狗` <shīzigǒu>: "pekingese, shih tsu" (lit. "lion-cub-dog")
+--------> English `shih tzu`
+------> Japanese `獅子` <shishi>: "lion"
+------> Korean `사자` <saja>: "lion"
+------> Vietnamese `sư tử`: "lion"
+----> Old Chinese <*djaɡ sri (*ʔslɯʔ)> (lit. "stone lion (child)")
+-----> Middle Chinese `石獅(子)`: "foo dog"
+------> Mandarin `石獅(子)` <shíshī(zi)>
+--> Western Iranian
+---> Northwestern Iranian
+----> Kurdish `şêr`: "lion"
+----> Parthian `𐫢𐫡𐫃` <šrg>: "lion"
+---> Old Persian <*šagra>
+----> Persian `شیر` <šêr>
+
+-> Pre-Tocharian <*sīǵeǵo?> 
+--> Tocharian
+---> Arshian <ṣiśäk>: "lion"
+---> Kushean <ṣecake>: "lion"
+
+
+-> Sino-Tibetan
+--> Old Chinese <*swar ŋe>
+---> Middle Chinese `狻猊` <*suɑn  ŋei>
+----> Mandarin `狻猊` <suān ní>: "lion, lion-dragon"
+----> Yue `狻猊` <yun1 ngai4>: "lion, lion-dragon"
+---> Min `狻猊` <suêng1 ngi5>: "lion, lion-dragon"
+
+--> Tibeto-Burman
+---> Burmese `ခြင်္သေ့` <chindhe>: "lion"
+---> Tibetan `སེང་གེ` <seng ge>: "lion"
+
+
+endbody
+
+
+startnotes
+
+
+## Iranian <*šarguh> is formally derivable from Indo-Iranian <*(C)šargus>, but I haven't found any indication of it in Indo-Aryan. Likewise, Indo-Aryan <*sinȷ́ʰás> can be formally derived from Indo-Iranian <*sinźʰás> from PIE <*sinǵʰos>, but there is no Iranian descendant of that form. So they probably represent separate borrowings of the wanderwort.
+
+Though, interesting note, if Iranian <*šarguh> was derived from a borrowing into Indo-Iranian, it would appear to have had an extra consonant in the initial cluster, probably <*kš->, which would make it look an awful lot like a BMAC borrowing.
+
+
+#### Though Sanskrit  `𑀲𑀺𑀁𑀳`: "lion" is <siṃhá> in standard transliteration, the `ं` (or anusvara) is really a diacritic marking either an undetermined nasal <N> takes on the place of the following consonant, or nasalization on the preceding vowel. I feel it is more accurate in general, and especially more useful in this particular context, to transliterate it as a tilde diacritic (<◌̃>).
+
+Also, the <h> is really /ɦ/, a sound transliterated as <g> from some languages, which helps make sense of why it looks like Indo-Aryan <j> part of <-ȷ́ʰ-> disappeared in Sanskrit, and then came back as <g(h)> in some later forms.
+
+So, once we've determined the Sanskrit transliteration of "siṃhá" is misleading, the Swahili `simba`: "lion" is not as similar as it looks. The Swahili is from Proto-Bantu  <*ǹcímbá>: "wild feline, lion, leopard", and Proto-Bantu is unlikely to be from a Central Asian substrate!
+
+### The Sanskrit <pura>: "city"  in <sĩhá-pura> (Singapore) is a reflex of the same IE as Greek <polis>: "city" (whence English "metropolis", "policy", and "police").
+
+
+endnotes

@@ -1,0 +1,119 @@
+date: 20181031
+theme: Halloween
+tags: Bonus, Divinities
+
+
+startintro
+
+Bonus word family for Halloween by special request from my 4 year old: "witch" from <*weyk->: "to separate, to choose, to consecrate".
+
+<*weyk-> looks like an extended root implying <*wey->, but I can't find any clear evidence for that root. If it is an extension of <*wey->, a zero-grade of that would be the adverb <*wi>: "apart, asunder" (though that could also be a variant of <*dwi->: "in two"). And [<*weyd->: "to see"] could possibly be another extension of <*wey->—"see", "choose", "pick out" being reasonably a semantic group.
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*weyk->: "to separate, to choose, to consecrate"
+
+
+-> Proto-Indo-European <*wiknéh₂ti>
+
+--> Germanic <*wikkōną>: "to divine, to cast auguries”
+---> West Germanic <*wikkōną>: "to practice sorcery”
+----> Old English `wiċċian`
+-----> English `(be)witch`
+----> Frankish <*wikkon>
+----> Old High German <*wikkōn>
+-----> German `wicken`
+----> West Germanic <*wikkô>: “sorcerer, wizard, witch”
+-----> Old English `wiċċa`: “wizard, druid, necromancer”
+------> English `witch`
+------> Scots `wich`: "witch" 
+------> English `Wicca` (learned reborrowing)
+------> Middle English `wicke` (adjectival use)
+-------> English `wicked`
+-----> Old High German `wicko`
+------> Middle High German `wicker`: "soothsayer, magician"
+
+
+-> Proto-Indo-European <*wenéykti> (transitive imperfective)
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀯𑀺𑀦𑀓𑁆𑀢𑀺` <vinakti>: "to separate, to discern, to judge"
+---> Iranian
+----> Avestan <vaecaiia->: "to separate"
+
+
+-> Proto-Indo-European <*weykos>: "chosen, consecrated"
+
+--> Germanic <*wīhaz>: "holy, consecrated"
+---> East Germanic
+----> Gothic `𐍅𐌴𐌹𐌷𐍃` <weihs>: "holy, sacred"
+---> West Germanic
+----> Old High German `wīh`
+-----> German `weih-`
+------> German `Weihnachten`: "Christmas" (lit. "Holy Night")
+------> German `Weihwasser`: "holy water"
+----> West Germanic <*wīharaukiz>: "incense" (lit. "holy smoke")
+-----> Frankish <*wīrōk>
+------> Dutch `wierook`: "incense"
+-----> Old High German `wīhrouh`: "incense"
+------> German `Weihrauch`: "incense"
+---> Germanic <*wīhijaną>: "to hallow, to consecrate"
+----> East Germanic
+-----> Gothic `𐍅𐌴𐌹𐌷𐌰𐌽` <weihan>: "to hallow, to consecrate"
+----> North Germanic
+-----> Old Norse `vígja`
+------> Danish `vie`: "to devote, to dedicate, to wed"
+------> Icelandic `vígja`: "to consecrate, to inaugurate, to ordain"
+------> Old Swedish `vighia`
+-------> Swedish `viga`: "to wed, to devote"
+-------> Finnish `vihkiä`: "to wed, to ordain, to consecrate, to devote, to inaugurate" 
+----> West Germanic
+-----> Frankish <*wīen>
+------> Dutch `wijden`: "to dedicate, to inaugurate, to bless"
+-------> Dutch `wijwater`: "holy water"
+-----> Old High German `wīhen`
+------> German `weihen`: "to consecrate, to ordain"
+---> Germanic <*wīhą>: "holy place or thing"
+----> North Germanic
+-----> Old Norse `vé`: "shrine"
+-----> Old Norse `Vé`: "one of the brothers of Odin" #
+----> West Germanic
+-----> Old English `wēoh`: "idol, image"
+------> Old English `wēofod`: "altar"
+
+
+
+-> Proto-Indo-European <*wiktós>: "chosen, consecrated"
+
+--> Proto-Indo-European <*wiktom->: "a chosen thing"
+
+---> Italic <*wiktVmā>
+----> Latin `victima`: "sacrifice, sacrificial victim"
+-----> Central Romance
+------> Italian `vittima`: "victim"
+-----> Western Romance
+-----> French `victime`: "victim"
+------> English `victim`
+-----> Spanish `víctima`: "victim"
+-----> Latin `victimō`: "I offer as sacrifice"
+------> Eastern Romance
+-------> Romanian `a vătăma`: "to injure, to damage"
+----> Italic <*ek-wiktVmā>
+-----> Umbrian `𐌄𐌖𐌄𐌉𐌄𐌕𐌖` <eveietu>: "electrum" (lit. ~"it will consecrate")
+
+
+endbody
+
+
+startnotes
+
+# In the Old Norse triad `Óðinn`, `Vili`, and `Vé`, all three would have originally alliterated, instead of just two. They correspond to Common Germanic <*Wōdinaz>, <*Wiljô>, and <*Wīhą> or Proto-Norse <*Wódin>, <*Wili>, and <*Wé>. The /w/ in <*Wōdin> was absorbed by the rounded vowel.
+
+<*Wódin>, <*Wili>, and <*Wé> represent three divine aspects of mind: Wódin is ecstasy (transcendent inspiration), Wili is will (thought leading to action), and Vé is spiritual power.
+
+endnotes

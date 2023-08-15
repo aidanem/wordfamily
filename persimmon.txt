@@ -1,0 +1,66 @@
+date: 20181008
+theme: Indigenous Peoples Day 
+
+startbody
+
+Algic <*mene>: "berry"
+
+-> Yurok `menomen`: "Juneberry"
+
+-> Algonquian <*mi·na>: "berry"
+
+--> Arapaho `biino`: "chokecherry"
+---> Arapaho `biinehe'`: "cherry"
+--?> Arapaho `biisib`: "peach, plum"
+--> Blackfoot `ᒍᐡ` <min'>: "berry"
+--> Cheyenne <mene>: "berry, fruit"
+
+--> Central Algonquian
+---> Cree `ᒦᓂᐢ` <miinis>: "(wild) berry or fruit"
+----> Cree `ᒥᓵᐢᑲᐧᑑᒥᐣ` <misa˙skwato˙min>: "saskatoon berry"
+-----> English `saskatoon`
+------> English `Saskatoon`
+---> Menominee <-men->: "fruit, berry, grain"
+---> Ojibwe <-min>: "berry"
+----> Ojibwe <niibiminaa>: "high-bush cranberry"
+-----> English `pembina`
+----> Ojibwe <mishiimin>: "apple" (presumably "[big] berry, big fruit")
+-----> Ojibwe <Mishiiminens-oodena>: "Minneapolis" (bilingual pun, literally "mini-apple town")
+
+--> Eastern Algonquian
+---> Abenaki <min->: "fruit, berry, seed"
+---> Mahican <men>: "berry"
+---> Powhatan <*min>
+----> Powhatan <*chechinquamins>
+-----> English `chinquapin`
+----> Powhatan <*pichamins>: "dried fruit"
+-----> English `persimmon`
+---> Unami <min>: "berry"
+----> Unami <ximin>: "persimmon"
+
+
+--> Algonquian <*wete·himini>: "strawberry"
+---> Central Algonquian
+----> Cree `ᐅᑌᐦᐃᒥᐣ` <otehimin>: "strawberry"
+----> Miami <ateehimini>: "strawberry"
+----> Ojibwe `ᐅᑌᐃᒥᓐ` <ode'imin>: "strawberry"
+---> Eastern Algonquian
+----> Massachusett <wuttahminneoh>: "strawberry"
+----> Unami <wtèhim>: "strawberry"
+
+--> Algonquian <*ka·wimina>: "spiny berry"
+---> Central Algonquian
+----> Miami <kaayominiiki>: "gooseberries"
+--> Algonquian <*(r)assimin>
+---> ?
+----> Cajun French `assiminier`: "common pawpaw"
+-----> English `asimina`
+------> Translingual `Asimina`: "a taxonomic genus of pawpaws"
+
+--> Algonquian <*pyakimini>: "cranberry"
+---> Central Algonquian
+----> Miami `pyaakimina`: "persimmon"
+---> Eastern Algonquian
+----> Mohegan `pôcum`: "cranberry"
+
+endbody

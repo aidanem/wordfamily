@@ -1,0 +1,599 @@
+date: 20171020
+theme: Mes de Muertos 💀
+tags: Divinities, Afro-Asiatic, Sino-Tibetan, Na-Dené
+
+startintro
+
+I'm not seriously proposing that words for "death" all across the Northern Hemisphere are related, but I'm not entirely not proposing that, or at least that there may be an ancient wander-word (possibly driven by taboo replacement?) that made its way across much Eurasia.
+
+In any case, some of the relations are plausible enough to be fun to explore, and for it to be a good excuse to explore a bunch of other language families.
+
+endintro
+
+
+startbody
+
+
+
+Central Asian Substrate??
+
+
+?> Proto-Indo-European <*mer->: "to die" #
+
+--> Proto-Indo-European <*mér-ti> (primary verb)
+
+---> Anatolian
+----> Hittite `𒈨𒅕𒍣` <me-er-zi>: "diminish?, disappear?"
+
+---> Balto-Slavic
+----> Lithuanian `mir̃ti`: "to die"
+----> Slavic <*merti>: "to die"
+-----> East Slavic `мерети` <mereti>
+------> Russian `мере́ть` <merétʹ>: "to die, to perish (in large numbers)"
+-----> South Slavic
+------> Bulgarian `мра` <mra>: "to die"
+------> Old Church Slavonic `мрѣти` <mrěti>: "to die"
+------> Serbo-Croatian `мрије̑ти` <mrijȇti>: "to die"
+-----> West Slavic
+------> Polish `mrzeć`: "to die"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀫𑀭𑀢𑀺` <marati>: "to die"
+------> Elu
+-------> Sinhala `මැරෙනවා` <mærenavā>
+------> Magadhi
+-------> Bengali `মরা` <môra>: "to die"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `मरना` <marnā>: "to die, to be dead"
+-------> Pahari
+--------> Nepali `मर्नु` <marnu>: "to die"
+--------> Punjabi `ਮਰਣਾ` <marṇā>: "to die"
+----> Iranian
+-----> Avestan `𐬨𐬀𐬭𐬙𐬈` <marte>
+-----> Pashto `مړینه` <mrrīta>: "to die"
+-----> Western Iranian
+------> Persian `مردن‏` <mordan>: "to die"
+------> Northwestern Iranian
+-------> Kurdish `mirin`: "death"
+
+
+--> Proto-Indo-European <*mr̥yé-ti> (ye- intransitive)
+
+---> Indo-Iranian <*mr̥iyáte>
+----> Indo-Aryan <*mr̥iyáte>
+-----> Sanskrit `𑀫𑁆𑀭𑀺𑀬𑀢𑁂` <mriyate>: "to die, decease"
+----> Iranian <*mr̥iyáte>
+-----> Avestan `𐬨𐬌𐬭𐬌𐬌𐬈𐬙𐬈‎` <miriiete>: "dies"
+-----> Western Iranian
+------> Old Persian `𐎠𐎶𐎼𐎡𐎹𐎫𐎠` <amriyta>: "died?" #####
+
+---> Italic <*morjor>
+----> Latin `morior`: "I die, I wither"
+-----> Sardinian `morrere`: "to die"
+-----> Eastern Romance
+------> Romanian `a muri`: "to die"
+-----> Western Romance
+------> French `mourir`: "to die, to be dying"
+------> Italian `morire`: "death, to die"
+------> Spanish `morir`: "to die"
+-----> Latin `moribundus`: "dying, moribund, fatal"
+------> French `moribond`: "moribund"
+-------> English `moribund`
+------> Italian `moribondo`: "dying, moribund, dying person"
+------> Spanish `moribundo`: "moribund, near death"
+-----> Latin `morticinium`
+------> Western Romance
+-------> Old French `mourine`
+--------> English `murrain`
+-------> Spanish `morriña`: "homesickness, murrain"
+
+
+--> Proto-Indo-European <*moréye-ti>: "to kill" (causative)
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀫𑀸𑀭𑀬𑀢𑀺` <māráyati>
+------> Sauraseni
+-------> Madhya
+--------> Hindi `मारना` <mārnā>: "to beat, to strike, to kill, to murder"
+
+---> Balto-Slavic
+----> Slavic <*moriti>: "to murder"
+-----> East Slavic
+------> Russian `мори́ть` <morítʹ>: "to destroy, to poison, to exhaust"
+-----> South Slavic
+------> Serbo-Croatian `мо̀рити` <moriti>: "to kill, to assassinate"
+-----> West Slavic
+------> Polish `morzyć`: "to kill cruelly (archaic)"
+
+
+--> Proto-Indo-European <*mérs-n̥t> (s perfective)
+
+---> Old Armenian `մեռանիմ` <meṙanim>: "to die"
+----> Armenian `մեռնել` <meṙnel>: "to die"
+
+
+--> Proto-Indo-European <*mr̥tó-s>: "dead, mortal" (primary adjective)
+
+---> Old Armenian `մարդ` <mard>: "mortal, human, the human race"
+----> Armenian `մարդ` <mard>: "human being, person, human race, someone"
+
+---> Germanic <*murþã>: "death, murder" (noun)
+----> North Germanic
+-----> Old Norse `morð`: "murder"
+------> Danish `mord`: "murder"
+------> Icelandic `morð`: "murder"
+----> West Germanic
+-----> Old English `morþ`: "death, crime, murder"
+------> Scots `murth`: "murder, slaughter"
+-----> Frankish
+------> Dutch `moord`: "murder"
+-----> Old High German `mord`: "murder"
+------> German `Mord`: "murder"
+
+
+---> Indo-Iranian <*mr̥tás>: "dead, mortal, human"
+----> Indo-Aryan
+-----> Sanskrit `𑀫𑀾𑀢` <mṛtá>: "dead, deathly, death, a grave"
+------> Elu
+-------> Sinhala `මළ` <maḷa>
+------> Magadhi
+-------> Bengali `মৃত` <mritô>: "dead"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `मृत` <mṛtá>: "dead"
+------> Sanskrit `𑀫𑀭𑁆𑀢` <mártas>: "mortal, human, the mortal world, the Earth"
+----> Iranian
+-----> Avestan `𐬨𐬆𐬭𐬆𐬙𐬀` <mərəta>: "dead"
+-----> Northern Iranian
+------> Ossetian `мард`: "dead"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `mêr`: "man, husband"
+------> Old Persian `𐎶𐎼𐎫𐎡𐎹` <m-r-t-i-y>: "mortal, human, man"
+-------> Persian `مرد‏` <mard>: "mortal, human, man"
+--------> Turkish `mert`: "manly, brave"
+-------> Old Persian <*martya-χvāra>: "manticore" (lit. "man-eater")
+--------> Persian `مردخوار` <mardykhor>: "manticore"
+--------> Ancient Greek `μαρτῐχόρᾱς` <martikhórās>
+---------> Latin `mantichōra`
+----------> French `manticore`
+-----------> English `manticore`
+----> Uralic
+-----> Finnic <*mardas>: "dead, dying"
+------> Finnish `marras`: "dead or dying person, soul of a dead person, omen of death"
+------> Estonian `marras`: "fragile, brittle"
+-----?> Finnic <*mardas-keci>: "dead-skin"
+-------> Finnish `marraskesi`: "stratum corneum, the outermost layer of skin that flakes"
+-----> Mordvinic
+------> Erzya `мирде` <mirde>: "man, husband"
+-----> Permic
+-----> Komi `морт` <mort>: "person"
+
+
+---> Proto-Indo-European <*n̥mr̥tós>: "undying, immortal"
+
+----> Hellenic <*amrtos>
+-----> Ancient Greek `ᾰ̓́μβροτος` <ámbrotos>: "immortal, divine, food of the gods"
+------> Latin `ambrosia`: "food of the gods, ambrosia"
+-------> French `ambroisie`: "ambrosia"
+-------> English `ambrosia`
+
+----> Indo-Iranian
+-----> Indo-Aryan
+------> Sanskrit `𑀅𑀫𑀾𑀢` <amṛta>: "immortal, immortality, food or drink of the gods"
+-------> Sauraseni
+--------> Madhya
+---------> Hindi `अमृत` <amrit>: " drink of the gods, nectar, elixir of immortality"
+--------> Pahari
+---------> Punjabi `ਅੰਮ੍ਰਿਤ` <ammrit>: "baptismal holy water, nectar"
+-------> Telugu `అమృతము` <amr̥tamu>: "nectar, antidote to poison"
+-----> Iranian
+------> Avestan <amərətāt>: "Divinity of long life and eternal afterlife"
+
+
+---> Proto-Indo-European <*mr̥wó-s>: "dead, mortal" (adjective variant)
+
+----> Celtic <*marwos>
+-----> Brythonic <*marw>: "dead"
+------> Welsh `marw`: "dead"
+-----> Old Irish `marb`: "dead, pertaining to the dead, inanimate, stagnant,dead body"
+------> Irish `marbh`: "dead, dead person"
+-----> Celtic <*marwāti> (re-derived verb)
+------> Old Irish `marbaid`: "to kill, to slay, to annul"
+
+
+
+---> Proto-Indo-European <*mr̥twó-s>: "dead, mortal" (adjective variant)
+
+----> Balto-Slavic
+-----> Slavic  <*mьrtvъ>
+------> East Slavic
+-------> Russian `мёртвый` <mjórtvyj>: "dead, lifeless, a dead person"
+------> South Slavic
+-------> Serbo-Croatian `мр̀тав` <mr̀tav>: "dead, lifeless, lethargic
+------> West Slavic
+-------> Polish `martwy`: "dead, inanimate"
+--------> Polish `martwa natura`: "still life (art)"
+
+----> Italic <*mortwos>
+-----> Latin `mortuus`: "dead, a dead body" ##
+------> Sardinian `mortu`: "dead"
+------> Eastern Romance
+-------> Romanian `mort`: "dead, dead body"
+------> Western Romance ##
+-------> French `mort`: "dead, dead person" ##
+-------> Italian `morto`: "dead, dead person, dead body" ##
+-------> Spanish `muerto`: "dead, dead person" ##
+--------> Spanish `Día de Muertos`: "Day of  the Dead" ###
+---------> English `Dia de los Muertos` ###
+------> Latin `mortuārium` (place or thing of the dead)
+-------> Old French `mortuarie`
+--------> English `mortuary`
+------> Vulgar Latin <*admortēscō>: "I deaden, I bring to death"
+-------> Eastern Romance
+--------> Romanian `a amorți`: "to numb, to deaden"
+-------> Western Romance
+--------> Old French
+---------> French `amortir`: "to deaden, to muffle, to absorb, to pay off, to amortize"
+---------> English `amortize`
+--------> Italian `ammortire`: "to deaden, to numb, to muffle, to dim"
+
+
+--> Proto-Indo-European <*morbʰos>: "deathly? appearing dead?"
+
+--?> Italic
+----> Latin `morbus`: "disease, ailment, grief, failing, death"
+-----> Western Romance
+-----?> French `morve`: "snot, glanders"
+------> Italian `morbo`: "disease"
+------> Spanish `muermo`: "glanders, boredom"
+-----> Latin `morbidus`: "sickly, unwholesome"
+------> English `morbid`
+
+
+--> Proto-Indo-European <*mértis>: "death" (abstract noun)
+
+---> Pre-Albanian <*merusa>
+----> Albanian `mërshë`: "corpse, carrion"
+
+---> Balto-Slavic
+----> Lithuanian <mirtìs>: "death"
+----> Slavic <*mьrtь>: "death"
+-----> Slavic <*sъmьrtь>:  "natural death, death" (lit. "good death")
+------> East Slavic
+-------> Russian `смерть` <smertʹ>: "death"
+------> South Slavic
+-------> Serbo-Croatian `смр̏т` <smȑt>: "death"
+------> West Slavic
+-------> Polish `śmierć`: "death"
+
+---> Indo-Iranian
+----> Indo-Aryan <*mr̥tyúṣ>
+-----> Sanskrit `𑀫𑀾𑀢𑁆𑀬𑀼` <mṛtyú>: "death, dying, divinity of death"
+------> Pali <maccu>: "death"
+------> Hindi `मृत्यु` <mŕtyu>: "death, divinity of death"
+------> Telugu `మృత్యువు` <mr̥tyuvu>: "death"
+------> Thai `มฤตยู` <má-rʉ́t-dtà-yuu>: "deadly, fatal, divinity of death, Uranus (planet)"
+----> Iranian <*mr̥θyúš>
+-----> Avestan <mərəiti>
+-----> Western Iranian
+------> Northwestern Iranian 
+-------> Parthian <*marh(u)>
+--------> Old Armenian `մահ` <mah>: "death"
+---------> Armenian `մահ` <mah>: "death"
+------> Old Persian <məršiyu>
+
+---> Italic <*mortis>
+----> Latin `mors`: "death" (acc.: `mortem`) ##
+-----> Sardinian `molte`: "death"
+-----> Eastern Romance
+------> Romanian `moarte`: "death"
+-----> Western Romance
+------> Old French `mort`: "death"
+-------> French `mort`: "death" ##
+-------> Old French `mort gage`
+--------> English `mortgage`
+------> Italian `morte`: "death" ##
+------> Spanish `muerte`: "death" ##
+-----> Latin `mortālis`: "mortal"
+------> Western Romance
+-------> French `mortel`
+--------> English `mortal`
+-------> Italian `mortale`: "mortal"
+-------> Spanish `mortal`: "deadly, mortal"
+------> Latin `immortālis`: "immortal, undying"
+-------> French `immortel`
+-------> Italian `immortale`
+-------> Spanish `inmortal`
+-------> English `immortal`
+
+
+--> Proto-Indo-European <*mórō>: "evil spirit associated with death, sleep, and dreams"
+
+
+--?> Albanian `merë`: "fear, awe"
+---> Albanian `tmerr`: "horror, terror"
+
+--?> Balto-Slavic ####
+----> Slavic <*mara>
+-----> West Slavic
+------> Czech `mura`: "nightmare, moth"
+------> Polish `mara`: "dream, nightmare, creature that drinks the blood of sleeping people"
+-----?> Polish `zmora`: "bane, nightmare" ####
+
+---?> Balto-Slavic <*máras> ####
+-----> Lithuanian `mãras`
+-----> Slavic <*morъ>
+------> East Slavic
+-------> Russian `мор` <mor>: "pestilence, plague"
+------> South Slavic
+-------> Serbo-Croatian `мо̑р` <mȏr>
+------> West Slavic
+-------> Polish `mór`: "plague"
+
+---?> Balto-Slavic <*Máre?>: "Divinity of Winter, Death and Rebirth, and Dreams" ####
+-----> Lithuanian `Morė`
+-----> Slavic
+------> East Slavic
+-------> Russian `Марена`
+------> South Slavic
+-------> Serbo-Croatian `Morana`
+------> West Slavic
+-------> Polish `Marzanna`
+
+---> Celtic <*moro>
+---?> Celtic <*Moro-rīganīs>
+-----> Old Irish `Morrígan`: "Divinity of Fate and Doom" (lit. "Phantom Queen") ######
+------> English `Morrigan`
+
+---> Germanic <*marȭ>: "evil spirit, incubus, mara" 
+----> Old Norse `mara`
+-----> Icelandic `mara`
+-----> English `mara`
+-----> Finnish `mara`: "nightmare, mara"
+----> West Germanic
+-----> Old English `mare`: "mara, evil spirit, nightmare"
+-----> Old High German `mara`
+------> German `Mahr`: "mara, succubus"
+-----> Frankish <*mara>
+------> Dutch `mare`: "mara, nightmare, witch"
+------> Old French `mare`
+-------> Old French `cauquemare`: "nightmare" (lit. "pressing mara")
+--------> French `cauchemar`: "nightmare"
+-----> West Germanic <*nahts-marȭ> (lit. "night mara"")
+------> Old English <*nihtemare>
+-------> English `nightmare`
+-------> Scots `nichtmare`
+------> Old High German
+-------> German `Nachtmahr`
+-------> Frankish `nahtmara`
+--------> Dutch `nachtmerrie`: "nightmare"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀫𑀸𑀭` <māra>: "death pestilence, killing, Divinity of Death (Hinduism), Divinity of Anti-Enlightenment (Buddhism)"
+
+
+--> Proto-Indo-European <*mŕ̥trom> (instrumental)
+
+---> Germanic <*murþrã>: "murder, killing"
+----> East Germanic
+-----> Gothic `𐌼𐌰𐌿𐍂𐌸𐍂` <maurþr>: "murder" 
+----> West Germanic
+-----> Old English `morþor`: "murder"
+------> English `murder` (noun)
+-----> Frankish <*murþra>: "murder"
+------> Medieval Latin `murdrum`
+-------> English `murdrum`
+------> Old French `murdre`
+----> Germanic <*murþrijanã>: "to murder"
+-----> East Germanic
+------> Gothic `𐌼𐌰𐌿𐍂𐌸𐍂𐌾𐌰𐌽` <maurþrjan>: "to murder, to kill"
+-----> North Germanic
+------> Old Norse `myrða`: "to murder"
+-------> Danish `myrde`: "to murder"
+-------> Icelandic `myrða`: "to murder"
+-----> West Germanic
+------> Old English `myrþran`: "to murder"
+-------> English `murder` (verb)
+------> Old High German `murdirēn`
+-------> German `mördern`
+------> Frankish <*murthrijan>
+-------> French `meurtrir`: "to injure, to hurt, to bruise"
+
+
+
+?> Proto-Afro-Asiatic <*mUt->
+
+--> Berber <*mVt->
+---> Northern Berber
+----> Kabyle <emmet>
+----> Atlas Berber
+-----> Tamazigh <emmet>
+
+--> Chadic <*mawut->
+---> East Chadic
+----> Dangaléat <muutu>
+---> West Chadic
+----> Hausa <mutu>
+----> Tangale <mud->
+
+--> Cushitic <*-umaaw->
+
+--> Egyptian <mwt>: "to die, death"
+---> Demotic Egyptian <mwt>
+----> Coptic `ⲙⲟⲩ` <mou>: "to die"
+
+--> Semitic <*mūt->: "to die"
+---> Central Semitic
+----> Arabic `مَاتَ` <māta>: "to die"
+----> Northwest Semitic
+-----> Aramaic `מית` <mīt>: "to die"
+-----> Canaanite
+------> Hebrew `מֵת` <met>: "dead, to die"
+-------> Yiddish `מת` <meys>: "dead person"
+---> East Semitic
+----> Akkadian <mâtu>
+-----> Akkadian `𒉆𒁁𒈨𒌍` <mutanu>
+------> Aramaic `מוֹתָנָא` <mōṯānā>: "pestilence, plague"
+-------> Arabic `مَوْتَان` <mawtān>: "plague, pestilence, murrain"
+---> South Semitic
+----> Ethiopic
+-----> Amharic `መሞት` <mämot>: "to die"
+-----> Ge'ez `ሞተ` <motä>: "to die"
+
+---> Semitic <*mawVt>: "death"
+----> Central Semitic
+-----> Arabic `مَوْت` <mawt>: "death"
+-----> Northwest Semitic
+------> Aramaic <mawt'e>: "death, cause of death, execution, plague"
+------> Canaanite
+-------> Hebrew `מוות` <mávet>: "death"
+--------> Yiddish `מוות` <moves>: "death"
+----> South Semitic
+-----> Ethiopic
+------> Amharic `ሞት` <mot>: "death"
+
+---> Semitic <*mut->: "mortal, person, man"
+----> Central Semitic
+-----> Northwest Semitic
+------> Amorite
+-------> Ugaritic `𐎎𐎚` <mt>: "mortal, person, man"
+----> East Semitic
+-----> Akkadian `𒁮` <mutu>: "husband, spouse"
+
+
+?> Sino-Austronesian <**mtj>
+
+-?> Austronesian <*mataj>
+---> East Formosan
+----> Amis <patay>: "death, to die"
+---> Malayo-Polynesian
+----> Borito
+-----> Malagasy `maty`
+----> Javanese `mati`: "dead"
+----> Malay `mati`: "to die, dead"
+----> Philippine
+-----> Tagalog `matay`: "to die"
+----> Oceanic
+-----> Fijian `mate`: "dead, death"
+-----> Polynesian <*mate>: "death"
+------> Tongan `mate`: "death, dead"
+------> Nuclear Polynesian
+-------> Marquesic
+--------> Hawaiʻian `make`: "death, peril, to die, to faint"
+---------> Hawaiʻian Creole English `maki`: "dead, broken"
+-------> Rapa Nui `mate`: "dead, to die"
+-------> Tahitic
+--------> Māori `mate`: "dead, death, disease"
+--------> Tahitian `mate`: "dead, to die"
+
+---?> Malayo-Polynesian <**tau-mataj>: "mortal person?" (with <*tau>: "person")
+----?> Oceanic <*taumataʻ>: "person"
+------> Polynesian <*taŋata>: "person"
+-------> Tongan `tangata`: "man"
+-------> Nuclear Polynesian
+--------> Marquesic
+---------> Hawai'ian `kanaka`: "human, subject, retainer, Hawaiian"
+----------> English `kanaka`
+-----------> French `canaque`: "native of New Caledonia, Kanak"
+------------> English `Kanak`
+---------> Marquesan `ʻenata`
+--------> Rapa Nui `tangata`: "human, person, man"
+---------> Rapa Nui `tangata manu`: "birdman"
+--------> Samoan `tagata`: "man, human"
+--------> Tahitic
+---------> Māori `tangata`: "human, person, man"
+---------> Tahitian `taʻata`: "human, person, man"
+
+
+-?> Hmong-Mien
+---> Hmong `tuag` <tṳə>: "to die"
+
+
+-?> Kra-Dai
+---> Tai <*p.tāj>
+----> Northern Tai
+-----> Zhuang `dai`: "to die"
+----> Southwestern Tai
+-----> Lao `ຕາຍ` <tāi>: "to die"
+-----> Thai `ตาย` <dtaai>: "to die"
+------> Khmer `តាយ` <taay>: "to die"
+
+
+-?> Sino-Tibetan <*səj>
+---> Old Chinese <*sijʔ>
+----> Middle Chinese `死` <sˠiɪˣ>: "to die, death, dead, deadly"
+-----> Cantonese `死` <sei²>
+-----> Mandarin `死` <sǐ>
+-----> Shanghainese `死` <xi²>
+-----> Japanese `死` <shi>: "death"
+-----> Vietnamese `tử`: "to die" 
+-----> Middle Chinese `死亡`: "death, to die (formal)"
+------> Cantonese `死亡` <sei² mong⁴>: "death, to die (formal)"
+------> Mandarin `死亡` <sǐwáng>: "death, to die (formal)"
+------> Shanghainese `死亡` <sr vaan>: "death, to die (formal)"
+------> Japanese <shibō>: "to die"
+------> Korean `사망` <samang>: "death"
+------> Vietnamese `tử vong`: "to die (formal)"
+----> Taiwanese `死` <sí>
+---> Tibeto-Burman
+----> Burmese `သေ` <se>: "to die, dead"
+----> Tibetan `འཆི་བ` <'chi ba>: "death, to die, to be destroyed"
+
+-?> Austroasiatic <*kc(ə)t>
+---> Monic
+----> Mon `ချိုတ်` <chat>: "to die"
+---> Vietic <*k-ceːt>
+----> Vietnamese `chết`: "to die"
+
+-?> Northwest Caucasian
+---> Abkhaz `псра` <ṗsrā>: "death"
+
+-?> Dené–Yeniseian
+--?> Na-Dené
+----> Athbaskan <*(da̓)-tsa-(nʸ)>: "dies"
+-----> Northern Athbaskan
+------> Athna <daztsaan>: "dies"
+-----> Pacific Coast Athbaskan
+-----?> Hupa <chi'chi't>: "to die (direct, impolite)"
+-----> Southern Athbaskan
+------> Navajo `daatsaah`: "is sick, dies"
+-------> Navajo `jóhonaaʼéí daaztsą́`: "solar eclipse"
+
+
+
+
+endbody
+
+startnotes
+
+# Let's work through the steps of how I came to include so many language families as possible relations:
+
+1. PIE <*mer-> is pretty short root for PIE, the standard root has three or four consonants ("triconsonantal roots", anyone?). If it was a borrowing from, say, <**mʁt>, the "t" would likely have been dropped from the root due to rebracketing because they are so many PIE grammatical endings which start with /t/. Note that the majority of the IE words are from forms with /t/ suffixes: the verb <*mér-ti>, the adjective <*mr̥tó-s>, and noun <*mérti-s>.
+2. There are so many plausible borrowings between Proto-Semitic and Proto-Indo-European that it's almost certain that at least some of them are truly connected. So the Semitic root <m-w-t>: "death" jump out as a possible relation.
+3. The Semitic root <*m-w-t> for death is clearly shared with other branches of Afro-Asiatic; basically every branch of Afro-Asiatic has a word for "death" with /m/, /w/, and/or /t/.
+4. At this point, suddenly Malayo-Polynesian words like Tagalog "matay" for "death" are getting caught in the phonological nets I'm casting to fill out related words.
+5. Malayo-Polynesian is part of Austronesian. There are a striking number of similar roots between Proto-Austronesian and Proto-Sino-Tibetan, and often Proto-Tai-Kadai and Proto-Hmong-Mien as well. So having an Austronesian root, I check those other branches. Proto-Tai <*p.taj> is just de-nasalization compared to Austronesian <*matay>. 
+6. Sino-Tibetan <*sej> does not immediately stand out as looking all that much like <*matay>, but if you start from something like Proto-Tai <*p.taj>, the /p/ would be lost as part of the standard loss of archaic Sino-Tibetan consonant prefixes, and then all that needs to happen is for the vowel to become fronted, which would then trigger palatalization, and you could get <*sej>.
+7. At that point, why not include Proto-Austroasiatic <*kc(ə)t> (sometimes included in Sino-Austronesian), and Northwest Caucasian (Abkhaz) <ṗsrā> and Na-Dene <*tsa> (occasionally grouped with Sino-Tibetan as "Sino-(Dené)-Caucasian") as well! Just for fun!
+
+
+
+
+## There is a merge or near-merge between <mortuus>, "dead" (adj.)/"dead (person)" and <mortem>, "death" (abstract noun) in Western Romance languages.
+
+### Spanish `Día de Muertos` is perhaps more literally "Day of Dead People". It is an indefinite plural in the original Spanish, unlike the English translation `Day of the Dead` (definite mass noun), or the common Anglophone back-translation mistake, `Día de los Muertos` (definite plural).
+
+
+#### The Baltic and Slavic languages have a lot of words related to the <*mórō> concept, but it's difficult to nail down the specifics of how they all relate to each other.
+
+##### Old Persian `𐎠𐎶𐎼𐎡𐎹𐎫𐎠` <amriyta> appears in the Behistun inscription of Darius I, in his story of how he came to be Emperor: "After that, Cambyses died by his own hand." <agarbâyatâ : pasâva : Kabûjiya : uvâmarshiyush : amariyatâ : thâtiy> http://www.avesta.org/op/op.htm#db1
+
+###### The Morrigan's name in Old Irish is alternately spelled either `Morrígan`, connected to this root, and interpreted as "Phantom Queen", or else as `Mórrígan`: "great queen". It seems likely `Mórrígan` is an eggcorn, as `mór` ("big, great") is a still a very common word in Irish, but `mor` has disappeared.
+
+
+endnotes

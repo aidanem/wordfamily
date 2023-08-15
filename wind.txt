@@ -1,0 +1,295 @@
+date: 20180209
+theme: Weather ⛈️
+tags: Air, Divinities
+
+startbody
+
+Proto-Indo-European <*h₂weh₁->: "to blow (of wind)" #
+
+-> Proto-Indo-European <*h₂wéh₁(n)-ti>: "to be blowing" (imperfective)
+
+--> Balto-Slavic <*wḗˀtei>
+---> East Baltic
+----> Lithuanian `vėtyti`: "to winnow"
+---> Slavic <*vějati>: "to blow (of wind), to winnow"
+----> East Slavic
+-----> Russian `ве́ять` <véjatʹ>: "to blow gently, to flutter, to winnow"
+----> South Slavic
+-----> Serbo-Croatian `ве̏јати` <vȅjati>: "to winnow, to blow violenty"
+----> West Slavic
+-----> Polish `wiać`: "to blow (of wind), to run, to escape"
+
+--> Germanic <*wēaną>: "to blow (of wind)"
+---> East Germanic
+----> Gothic `𐍅𐌰𐌹𐌰𐌽` <waian>: "to blow (of wind)"
+---> West Germanic
+----> Old English `wāwan`: "to blow (of wind)"
+----> Old High German `wāen`
+-----> German `wehen`: "to blow (of wind)"
+
+--> Hellenic <*awēmi>
+---> Ancient Greek `ἄημι` <áēmi>
+
+--> Indo-Iranian <*Hwā́-ti>
+---> Indo-Aryan
+----> Sanskrit `वाति` <vā́ti>: "to blow, to smell, to hurt"
+-----> Sanskrit `वान` <vāna>: "blown" (past participle)
+------> Sanskrit `निर्वाण` <nirvāṇa>: "blowing out, cessation, disappearance, emancipation from matter, extinction of individual existence, passion, or desire"
+-------> Magadhi
+--------> Bengali `নির্বাণ` <nirbaṇ>: "nirvana, extinguishment"
+-------> Pali <nibbāna>
+--------> Thai `นิพพาน` <níp-paan>: "nirvana, ascendance, death"
+--------> Middle Chinese
+---------> Mandarin `涅槃` <nièpán>: "nirvana"
+---------> Japanese `ねはん` <nehan>: "nirvana, enlightenment, death of the Buddha, death, salvation"
+---------> Korean `열반` <yeolban>: "nirvana"
+---------> Vietnamese `niết bàn`: "nirvana"
+-------> Sinhala `නිවන` <nivana>
+-------> Hindi `निर्वाण` <nirvāṇ>: "extinguished, blown out, nirvana"
+-------> Punjabi `ਨਿਰਵਾਣ` <nirvāṇ>
+-------> English `nirvana`
+---> Iranian
+----> Avestan `𐬬𐬁𐬌𐬙𐬌` <vāiti>: "to blow
+----> Western Iranian
+-----> Persian `وزیدن` <vazidan>: "to blow, to bluster"
+
+
+-> Proto-Indo-European <*h₂wéh₁n̥t-s>: "blowing (adjective), that which blows, wind, air"
+
+--> Anatolian
+---> Hittite `𒄷𒉿𒀭𒍝` <ḫu-wa-an-za>
+
+--> Celtic <*wintos>: "wind"
+---> Brythonic <*gwɨnt>: "wind"
+----> Welsh `gwynt`: "wind"
+---> Old Irish `fet`: "whistle"
+
+--> Germanic <*windaz>: "wind"
+---> East Germanic
+----> Gothic `𐍅𐌹𐌽𐌳𐍃` <winds>: "wind"
+---> North Germanic
+----> Old Norse `vindr`: "wind"
+-----> Icelandic `vindur`: "wind"
+-----> Swedish `vind`: "wind, attic, loft"
+-----> Old Norse `vindauga`: "window" (lit. "wind-eye")
+------> Danish `vindue`: "window"
+------> Swedish `vindöga`: "window (archaic)"
+------> English `window`
+------> Irish `fuinneog`: "window"
+---> West Germanic
+----> Old English `wind`: "wind"
+-----> English `wind`: "wind"
+----> Old High German `wint`: "wind"
+-----> German `Wind`: "wind"
+-----> Yiddish `ווינט` <vint>: "wind"
+
+--?> Germanic <*windwōną>: "to toss into the wind, to throw about, to winnow"
+----> East Germanic
+-----> Gothic `*𐍅𐌹𐌽𐌸𐌾𐌰` <*winþjan>
+------> Gothic `𐌳𐌹𐍃𐍅𐌹𐌽𐌸𐌾𐌰` <diswinþjan>: "to throw (grain) apart, to scatter like chaff"
+----> North Germanic
+-----> Old Norse `vinza`: "to winnow"
+------> Icelandic `vinza`: "to winnow"
+----> West Germanic
+-----> Old English `windwian`: "to winnow, to blow away, to ventilate"
+------> English `winnow`
+------> Scots `windo`: "winnow"
+-----> Old High German `wintōn`: "to fan, to winnow"
+
+--> Hellenic <*awḗəts>
+---> Ancient Greek `ἀείς` <aeís>: "blowing"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `वात` <vā́ta>: "wind, air, God of Wind"
+-----> Sauraseni
+------> Pali <vāta>: "wind"
+-----> Telugu `వాతము` <vātamu>: "wind, air"
+---> Iranian
+----> Avestan `𐬬𐬁𐬙𐬀` <vāta>
+----> Western Iranian
+-----> Kurdish `با` <ba>: "weather, wind"
+-----> Persian `باد` <bâd>: "wind"
+------> Pashto `باد` <bâd>: "wind (archaic)"
+
+--> Italic <*wentos>: "wind"
+---> Latin `ventus`: "wind"
+----> Sardinian `bentu`: "wind"
+----> Eastern Romance
+-----> Romanian `vânt`: "wind"
+------> Romanian `a avânta`: "to rush at"
+----> Western Romance
+-----> French `vent`: "wind, empty words"
+------> English `vent`
+------> French `ventail`: "leaf (of a door), panel (of a window), ventail (archaic)"
+-------> English `ventail`
+-----> Italian `vento`: "wind"
+-----> Spanish `viento`: "wind, woodwind"
+------> Spanish `aventar`: "to blow, to fan, to throw, to blow away"
+----> Latin `ventulus`: "slight wind, breeze"
+-----> Latin `ventilo`: "I toss, I swing, I brandish, I expose to draught, I winnow"
+------> Sardinian `bentulai`
+------> Eastern Romance
+-------> Romanian `a vântura`: "to winnow, to fan, to wander"
+------> Western Romance
+-------> Spanish `beldar`: "to winnow"
+------> English `ventilate`
+------> French `ventiler`
+------> Italian `ventilare`
+----> Latin `ventosus`: "windy"
+-----> Sardinian `bentosu`
+-----> Eastern Romance
+------> Romanian `vântos`: "windy, breezy"
+-----> Western Romance
+------> French `venteux`: "windy"
+-------> French `ventouse`: "plunger, suction cup, ventouse, sucker"
+--------> English `ventouse`
+--------> Greek `βεντούζα` <ventoúza>: "plunger, suction cup"
+-------> French `Ventôse`: "six month of the French Republican calendar"
+------> Italian `ventoso`: "windy, conceited"
+------> Spanish `ventoso`: "windy"
+----> Vulgar Latin <*ventana>
+-----> Spanish `ventana`: "window"
+------> Tagalog `bintana`: "window"
+----> Latin <*exventō>: "I expose to air"
+-----> Sardinian `sbintari`: "to air, to aerate, to degas"
+-----> Eastern Romance
+------> Romanian `a zvânta`: "to dry, to air, to thrash"
+-----> Western Romance
+------> French `éventer`: "to air, to ventilate, to expose to wind, to fan, to go stale, to go flat"
+-------> French `éventail`: "fan, range, array"
+-------> English `vent`
+------> Italian `sventare`: "to foil, to thwart, to baffle"
+
+--> Tocharian <*wʲente>
+---> Arshian `want`: "wind"
+---> Kushean `yente`: "wind"
+
+
+-> Proto-Indo-European <*h₂weh₁yu-s>?
+
+--> Balto-Slavic <*wēyas>
+---> Lithuanian `vė́jas`: "wind, God of Wind"
+
+--> Indo-Iranian
+----> Sanskrit `वायु` <vāyú>: "wind, God of Wind, the element of air, breath"
+----> Avestan `𐬬𐬀𐬌𐬌𐬎` <vaiiu>: "air, wind, the space between earth and heaven"
+
+
+-> Proto-Indo-European <*h₂wéhdro-m>: "weather, "that which causes blowing"?? (instrumental)
+
+-?> Proto-Albanian <*ŭ(n)dərā>
+---> Albanian `vrëndë`: "light rain"
+
+--> Balto-Slavic
+---> Slavic
+----> East Slavic
+-----> Russian `вёдро` <vjódro>: "fair weather"
+
+--> Germanic <*wedrą>: "weather, storm"
+---> North Germanic
+----> Old Norse `veðr`: "weather"
+-----> Icelandic `veður`: "weather, storm"
+-----> Swedish `väder`: "weather"
+---> West Germanic
+----> Old English `weder`: "sky, weather, season"
+-----> English `weather`
+----> Old High German `wetar`
+-----> German `Wetter`: "weather, storm"
+-----> Yiddish `וועטער` <veter>: "weather"
+
+---> Germanic <*unwedrą>: "bad weather, storm"
+----> North Germanic
+-----> Old Norse `óveðr`
+------> Icelandic `óveður`: "storm"
+------> Swedish `oväder`: "storm, bad weather"
+----> West Germanic
+-----> Old English `unweder`: "bad weather, storm"
+------> English `unweather`
+-----> Old High German `unwetar`
+------> German `Unwetter`: 'severe weather"
+
+--> Hellenic <*áwethlon> "thing that makes you winded"??
+---> Ancient Greek `ἆθλον` <âthlon>: "contest, prize, arena" ##
+----> English `-athlon`
+-----> English `triathlon`
+----> Greek `άθλος` <áthlos>: "feat, accomplishment, contest, task" ##
+----> Ancient Greek `ᾱ̓θλέω` <āthléō>: "I contend, I wrestle, I compete"
+-----> Ancient Greek `ἀθλητής` <athlētḗs>: "contender, combatant, champion, prizefighter"
+------> Greek `αθλητής` <athlitís>: "athlete, sportsman"
+------> Latin `āthlēta`: "wrestler, athlete"
+-------> Western Romance
+--------> French `athlète`: "athlete"
+---------> English `athlete`
+--------> Italian `atleta`: "athlete"
+--------> Spanish `atleta`: "athlete, fit person"
+-----> Ancient Greek `ἄθλημα` <áthlēma>: "sport"
+------> Greek `άθλημα` <áthlima>: "sport"
+
+
+-> Proto-Indo-European <*h₂wh₁nó-s>: "windy"
+
+--> Italic
+---> Latin `vannus`: "winnowing basket, winnowing fan"
+----> Western Romance
+-----> French `van`: "winnowing basket"
+-----> Italian `vanni`: "wings (poetic)" 
+----> Old English `fann`: "winnowing basket, fan"
+-----> English `fan`
+----> Old High German `wanna`: "tub" ###
+-----> German `Wanne`: "tub"
+------> German `Badewanne`: "bathtub"
+-----> Yiddish `וואַנע` <vane>: "bathtub"
+-----> Polish `wanna`: "bathtub, bath"
+-----> Russian `ва́нна` <vánna>: "bath, bathtub"
+----> Latin `vannō`: "I fan, I winnow"
+-----> Western Romance
+------> French `vanner`: "to winnow, to shake about, to scrutinize, to stir"
+
+
+-> Proto-Indo-European <*h₂wéh₁trih₂-n>?: "one who is blowing" (present agentive)
+
+-?> Balto-Slavic <*wetrā>
+---> East Baltic
+----> Lithuanian `vė́tra`: "storm"
+---> Slavic <*vě̀trъ>: "wind"
+----> East Slavic 
+-----> Russian `ве́тер` <véter>: "wind"
+----> South Slavic 
+-----> Serbo-Croatian `ве̏тар` <vȅtar>: "wind"
+----> West Slavic 
+-----> Polish `wiatr`: "wind"
+
+
+-> Proto-Indo-European <?> 
+
+--> Hellenic <*awetmós> ####
+---> Ancient Greek `ἀτμός` <atmos>: "vapor, steam, smoke" ####
+----> English `atmo-`
+-----> English `atmosphere`
+----> Greek `ατμός` <atmós>: "steam, water vapor"
+
+endbody
+
+
+startnotes
+
+# Possibly, a relative (of indeterminate degree) with Arabic `هَوَاء` <hawāʔ>: "empty space, void, air, atmosphere". In which case, it is an interesting data point in the question of how <h₁> and <h₂> were pronounced.
+
+There are two theories about where `هَوَاء` <hawāʔ> comes from. Synchronically (that is, in modern morphology, without regard to history), it derives from `ه و ي` <h-w-y>: "valley, depression", with the assumption that by extension, it means the empty/airy space in the valley. In which case it would be from Semitic <*hVw>: "fall upon", from Afro-Asiatic <*haw>: "fall").
+
+Less well attested, but more obviously connected is a possible Afro-Asiatic root <*haway->: "blow", which appears in Chadic <*haway->: "wind", Bachama <hawey>, Bata <haue>.
+
+Orel and Stubolva (Hamito-Semitic Etymological Dictionary, 1995) list Arabic <hwy> under both <*haw> and <*haway->.
+
+Side note, if from the "valley"/"fall" option, the Hebrew reflex is `הָיָה` <haya>: "to happen, to occur, to be" as in `נֵס גָּדוֹל הָיָה שָׁם` <nés gadól hayá shám>: "A great miracle happened there." (the acronym represented by the four letters on a dreidel) and `אֶהְיֶה אֲשֶׁר אֶהְיֶה` <’ehyeh ’ăšer ’ehyeh>: "I will be what I will be" (King James, "I am that I am"). This is thought to also be related to `יהוה` <Yahweh>, perhaps meaning either "he who is" or "he who sends down".
+
+## As in `οἱ Ἡρακλέους ἆθλοι` <hoi Hērakleous athloi>: "The Labours of Hercules".
+
+### I don't quite follow the semantic leap there, but everyone seems to agree that `wanna` comes from `vannus`. Possibly it was conflated with Latin `balneum`/Vulgar Latin <*baneu>/Spanish `baño`, meaning "bath").
+
+#### My sources list `ἀτμός` from <*h₂weh₁-> via the given Hellenic form, but not the PIE form. I can't think of a way in either Proto-Indo-European or Greek to get that <t> in there between the root and the <m>.
+
+endnotes
+
+

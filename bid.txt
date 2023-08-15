@@ -1,0 +1,417 @@
+date: 20171208
+theme: Religion 📿
+tags: Divinities
+
+
+
+startintro
+
+*bʰewdʰ- vs. *gʷʰedʰ-: two families that end up being super confusing in Germanic languages, since <*bʰ> and <*gʷʰ> merge at the beginning of a word. In English, they end up being homophones with complementary/opposite meanings: "offer" vs. "ask for".
+
+I had to do these two at the same time just to make sure I was tracking which words go where, because the dictionaries and other sources sometimes also mix them up. Even in the rest of the Germanic langauges where the two English <bids> aren't complete homonyms the meanings can get awfully confusing; compare German `bitten`, to ask someone to do something (`bid`) vs. `ver-bieten`, to ask someone _not_ to do something (`forbidden`).
+
+They probably don't have a common derivation. Probably. If they do, it's before reconstructable language.
+
+Also, Happy Bodhi Day (Japanese Calendar variant).
+
+endintro
+
+Teaser:  bid, forbid, Buddha / bid, bead, geas
+
+
+startbody
+
+Proto-Indo-European <*bʰewdʰ->: "to be awake, to be aware"
+
+-> Proto-Indo-European <*bʰéwdʰeti>: "being awake, being aware"
+
+--> Balto-Slavic <*bljaustei>
+---> Slavic <*bljustì>: "to watch"
+----> East Slavic
+-----> Russian `блюсти́` <bljustí>: "to guard, to keep, to watch over"
+----> South Slavic
+-----> Old Church Slavonic `блюсти` <bljusti>
+-----> Serbo-Croatian `бљу̏сти` <bljȕsti>
+
+--> Germanic <*beudanã>: "to offer, to bid, to command?"
+---> West Germanic
+----> Old English `bēodan`: "to offer, to give, to announce"
+-----> English `bid`: "to offer a price, to make an attempt" #
+----?> Old English `Bīeda`: "personal name"
+------> English `(Saint) Bede (the Venerable)`
+----> Old High German `biotan`: "to offer"
+-----> German `bieten`: "to offer, to present, to bid"
+---> Old Norse `bjóða`
+----> Danish `byde`: "to order, to command, to invite, to offer"
+----> Icelandic `bjóða`: "to offer, to invite, to command"
+---> East Germanic
+----> Gothic <*biudan>
+---> Germanic <*furibeudaną>: "to forbid, to command against"
+----> West Germanic
+-----> Old English `forbēodan`: "to forbid, to restrain"
+------> English `forbid`
+-----> Old High German `firbiotan`
+------> German `verbieten`: "to forbid, to prohibit"
+----> Old Norse `fyrirbjóða`
+-----> Danish `forbyde`: "to disallow, to forbid, to ban"
+----> East Germanic
+-----> Gothic `𐍆𐌰𐌿𐍂𐌱𐌹𐌿𐌳𐌰𐌽` <faurbiudan>: "to forbid"
+
+--> Hellenic <*péutʰomai>
+---> Ancient Greek <πεύθομαι> (peúthomai): "I give notice that" ##
+----> Ancient Greek <πυνθάνομαι> (punthánomai): "I hear, I learn, I hear about" ##
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀩𑁄𑀥𑀢𑀺` <bódhati)> "to wake, to know, to understand"
+-----> Magadhi
+------> Bengali `বোঝা` <bojha>: "to understand"
+---> Iranian
+----> Avestan <baoδaiti>
+----> West Iranian
+-----> Persian `بیدار‏` <bīdār>: "awake"
+
+-> Proto-Indo-European <*bʰudʰtós>: "one who has awoken, one who is known"
+
+--> Hellenic
+---> Ancient Greek `πυστός` <pustós>: "known, familiar, famous"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀩𑀼𑀤𑁆𑀥` <buddha>: "awoken, enlightened, the Buddha"
+-----> Sauraseni
+------> Pali <Buddha>: "the enlightened one, the Buddha"
+-------> Thai `พุทธ` <pút>: "Buddha"
+-------> Middle Chinese `佛陀` <bɨutdɑ>: "Buddha"
+--------> Mandarin `佛` <Fó>: "Buddha"
+--------> Japanese `ぶ​つだ` <Butsuda>: "Buddha"
+--------> Korean `부처` <Bucheo>: "Buddha"
+-------> Sogdian `bwt`: "the Buddha, statue of the Buddha"
+--------> Persian `بت` <bot>: "idol, Buddha statue"
+---------> Hindi `बुत` <but>: "idol, statue, fetish"
+---------> Persian `بت‌خانه‏` <bot-khāne>: "temple, shrine" (lit. "idol-house")
+----------> Hindi `बुत-ख़ाना` <but-khānā>: "temple, pagoda"
+-----> English `Buddha`
+-----> Hindi `बुद्ध` <buddh>: "Buddha"
+-----> Telugu `బుద్ధుడు` <buddhuḍu>: "wise person, sage, enlightened person, the Buddha"
+---> Iranian
+----> Avestan <busta>: "realized, oberved"
+
+
+-> Proto-Indo-European <*bʰowdʰéyeti>: "to make aware, to awaken" (causative imperfective)
+
+--> Balto-Slavic <*baudeitei>
+---> Lithuanian `báudyti`: "incite, instigate, to encourage"
+---> Slavic <*buditi>: "to awaken, to rouse"
+----> East Slavic
+-----> Russian `буди́ть` <budítʹ>: "to wake up, to awaken"
+----> South Slavic
+-----> Serbo-Croatian `бу́дити` <búditi>: "to awaken, to rouse, to begin (of an era, etc.)"
+----> West Slavic
+-----> Polish `budzić`: "to awaken"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀩𑁄𑀥𑀬𑀢𑀺` <bodhayati>: "to awaken, to restore to life or consciousness, to cause to observe"
+---> Iranian
+----> Avestan <baodaiieiti>
+
+
+-> Proto-Indo-European <*bʰudʰis>: "awareness, awakeness, knowledge"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀩𑁄𑀥𑀺` <bodhi>: "perfecent knowledge, englightenment, bodhi"
+-----> Pali `𑀩𑁄𑀥𑀺` <bodhi>: "perfect knowledge, englightenment, bodhi"
+------> Middle Chinese
+-------> Mandarin `菩提` <pútí>: "bodhi"
+-------> Japanese `ぼだい` <bodai>: "bodhi"
+-------> Korean `보리` <bori>: "bodhi"
+------> Thai `โพธิ` <poo-tí>: "bodhi"
+-----> English `bodhi`
+-----> Sanskrit `𑀩𑁄𑀥𑀺𑀲𑀢𑁆𑀢𑁆𑀯` <bodhi-sattva>: "one on the way to enlightenment, Buddhist saint, bodhisattva"
+------> Pali <bodhisatta>: "bodhisattva"
+-------> Arshian <bodʰisattu>: "bodhisattva"
+-------> Middle Chinese `菩提薩埵` <buo dei sɑt tuɑh>: "bodhisattva"
+--------> Mandarin `菩薩` <púsà>: "bodhisattva"
+--------> Japanese `ぼさつ` <bosatsu>: "bodhisattva, "
+-------> Thai `โพธิสัตว์` <poo-tí-sàt>: "bodhisattva"
+------> English `bodhisattva`
+------> Persian `بودسف` <Bodisav>
+-------> Arabic `بوذسف` <Būdhasaf>
+--------> Arabic `يوذسف` <Yūdhasaf> (hand writing mistake changed <b> to <y>) #####
+---------> Georgian `ჲოდასაფ` <Iodasaph> #####
+----------> Greek `Ἰωάσαφ` <Ioasaph> #####
+-----------> Latin `(Sanctus) Iosaphatus` (assimilated to Biblical name `יְהוֹשָׁפָט` <Yehoshafat>) #####
+------------> English `(Saint) Josaphat` #####
+
+
+
+-> Proto-Indo-European <*bʰudʰyétor> "one who has been awoken, one who has been taught"?
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀩𑀼𑀥𑁆𑀬𑀢𑁂` <búdhyate>: "to wake, to know, to understand"
+-----> Magadhi
+------> Bengali `বোঝা` <bojha>
+---> Iranian
+----> Avestan <būiδiiaēta>: "they should be taught"
+
+
+-> Proto-Indo-European <*bʰudʰéh₁yeti>: "to be particularly awake?" (intensive imperfective)
+
+--> Balto-Slavic <*budeʔtei>
+---> Lithuanian `budė́ti`: "to be awake, to watch, to be on duty"
+---> Slavic <*bъděti>
+----> East Slavic `бъдѣти` <bŭděti>
+-----> Russian `бдеть` <bdetʹ>: "to keep watch, to keep vigil" (dated, literary)
+----> South Slavic
+-----> Old Church Slavonic `бъдѣти` <bŭděti>: "to watch over, to keep vigil"
+-----> Serbo-Croatian `бде̏ти` <bdȅti>: "to watch over, to keep vigil"
+----> West Slavic
+-----> Czech `bdít`: "to be awake, to watch over"
+
+
+-> Proto-Indo-European <*bʰowdʰos>: (action or result noun)
+
+--> Celtic <*bowdos>
+---> Celtic <*ɸrobowdos>  (with <*ɸro->: "fore-, pro-")
+----> Brythonic
+-----> Welsh `rhybudd`: "warning, advice, notice"
+----> Old Irish `robud`: "forenotice"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀩𑁄𑀥` <bodha>
+-----> Sauraseni
+------> Madhya
+-------> Hindi `बोध` <bodh>: "insight, knowledge, perception, congition"
+---> Iranian
+----> Avestan <baoda>
+
+--> Tocharian <*pāut->
+---> Arshian <pot->: "to honor, to flatter"
+---> Kushean <paut->: "to honor, to flatter"
+----> Kushean <pauto>: "honor, flattery"
+
+
+-> Proto-Indo-European <*bʰéwdʰtis> (abstract action noun)
+
+--> Balto-Slavic
+---> Lithuanian `bùsti`: "wake up, wake"
+
+--> Hellenic
+---> Ancient Greek `πῠ́στῐς` <pústis>: "inquiry, question, news, report"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀩𑀼𑀤𑁆𑀥𑀺` <buddhi>: "intelligence, reason, intellect"
+-----> Madhya
+------> Hindi `बुद्धि` <buddhi>: "intelligence"
+---> Iranian
+----> Avestan <busti>
+
+
+-> Proto-Indo-European <*bʰudʰo>
+
+--> Celtic <*budos>
+---> Brythonic
+----> Welsh `bodd`: "free will, consent"
+
+--> Germanic <*budą>: "offer, message"
+---> West Germanic
+----> Old English `bod`: "command, order, mandate"
+-----> English `bode`
+---> Old Norse `boð`
+----> Danish
+----> Icelandic `boð`: "message, order, offer, omen"
+
+---> Germanic <*budô>: "messenger"
+----> West Germanic
+-----> Old English `boda`: "messenger, envoy, apostle, angel, prophet"
+------> English `bode`
+-----> Old High German `boto`: "messenger, envoy"
+------> German `Bote`: "messenger, letter carrier, apostle"
+-------> German `Botschaft`: "news, tidings, embassy"
+
+---> Germanic <*budilaz>: "messenger, herald, bearer of an order"
+----> West Germanic
+-----> Old English `bydel`: "herald, warrant officer, announce, preacher"
+------> English `beadle`: "parish constable, warrant officer"
+------> Scots `bedel`: "attendant to a minister"
+-----> Old High German `butil`
+------> German `Büttel`: "court officer, policeman, menial"
+-----> Frankish <*budil>
+------> Dutch `beul`: "executioner, torturer, cruel person"
+------> Medieval Latin `bedellus`
+-------> French `bedeau`: "attendant at a church, caretaker of a church"
+-------> Italian `bidello`: "caretaker, janitor"
+-------> Spanish `bedel`: "janitor"
+
+---> Germanic <*budōnã>: "to proclaim, to announce, to instruct"
+----> West Germanic
+-----> Old English `bodian`: "announce, foretell, preach"
+------> English `bode`
+-------> English `forebode`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀩𑀼𑀥` <budha>: "Mercury (planet), Puranic Hindu divinity associated with intellect, wit, communication, trade, and the planet Mercury"
+-----> Magadhi
+------> Bengali `বুধ` <budh>: "Mercury (planet)"
+----->Sauraseni
+------> Madhya
+-------> Hindi `बुध` <budh>: "Mercury (planet)"
+------> Pali
+------?> Mongolian `Буд` <Bud>: "Mercury (planet)"
+-------> Thai `ดาวพุธ` <daao-put>: "Mercury (planet), Budha (Hindu deity)"
+--------> Thai `วันพุธ` <wan pút>: "Wednesday"
+-----> Telugu `బుధుడు` <budhuḍu>: "Mercury (planet)"
+-----> Sanskrit `𑀩𑀼𑀥𑀯𑀸𑀭` <budhavāra>: "Wednesday" (Mercury's day) ######
+------> Elu
+-------> Sinhala `බදාදා` <badādā>: "Wednesday"
+------> Magadhi
+-------> Bengali `বুধবার` <budhbar>: "Wendesday"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `बुधवार` <budhvār>: "Wednesday"
+------> Telugu `బుధవారము` <budhavāramu>: "Wednesday"
+
+-> Proto-Indo-European <*bʰudʰrós>: "wakeful"? (adjective)
+
+--> Balto-Slavic <*budras>
+---> Lithuanian `budrùs`: "vigilant"
+---> Slavic <*bъ̀drъ>: "alert, cheerful"
+----> East Slavic
+-----> Russian `бо́дрый` <bódryj>: "cheerful, brisk, vivacious"
+----> South Slavic
+-----> Serbo-Croatian `бо̏дар` <bȍdar>: "alert, brisk, keen, strong"
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan <*budra>
+-----> Avestan <zaēnibudra>
+
+
+
+
+Proto-Indo-European <*gʷʰedʰ->: "to request, pray, ask for"
+
+-> Proto-Indo-European <*gʷʰédʰyeti>: "to be praying, to be asking for"
+
+-?> Balto-Slavic
+---> Lithuanian `gedė́ti`: "to mourn"
+----> Lithuanian `gedė́jimas`: "mourning (noun)"
+---> Slavic <*žę̄dàti>: "to wish, to desire"
+----> East Slavic `жѧдати` <žędati>
+-----> Russian `жада́ть` <žadátʹ>: "crave, thirst for (archaic)"
+----> South Slavic
+-----> Old Church Slavonic `жѧдати` <žędati>: "to thirst, to desire"
+----> West Slavic
+-----> Polish `żądać`: "to demand"
+
+--> Celtic <*gʷedyeti>: "to pray"
+---> Brythonic
+----> Welsh `gweddïo`: "to pray"
+---> Old Irish `guidid`: "to pray"
+----> Irish `guigh`: "to pray"
+
+--> Germanic <*bidjanã>: "to request, to ask for"
+---> East Germanic
+----> Gothic `𐌱𐌹𐌳𐌾𐌰𐌽` <bidjan>: "to request, to ask, to pray, to beg"
+-----> Gothic `𐌱𐌹𐌳𐌰𐌲𐍅𐌰` <bidagwa>: "beggar"
+---> North Germanic
+----> Old Norse `biðja`: "to ask, to beg, to request, to pray"
+-----> Danish `bede`: "to ask, to beg, to request, to pray"
+-----> Icelandic `biðja`: "to ask, to request, to pray"
+---> West Germanic
+----> Old English `biddan`: "to ask for, to entreat, to beg, to demand"
+-----> English `bid`: "to issue a command, to invite, to summon, to utter a greeting" #
+----> Frankish
+-----> Dutch `bidden`: "to pray"
+----> Old High German `bitten`: "to ask"
+-----> German `bitten`: "to ask, to plead, to beg, to request"
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan <jaiδiiemi>
+----> West Iranian
+-----> Old Persian `𐎩𐎮𐎡𐎹𐎠𐎷𐎡𐎹` <ja-di-i-y-a-mi-i-y>: "I pray"
+
+
+-> Proto-Indo-European <*gʷʰedʰeh₂> (noun derivation)
+
+--> Balto-Slavic
+---> Slavic <*žęďa>: "thirst, craving, wish, desire"
+----> East Slavic `жажа` <žaža>
+----> South Slavic
+-----> Old Church Slavonic `жѩжда` <žjęžda>
+------> Russian `жа́жда` <žážda>: "thirst, craving"
+-----> Serbo-Croatian `же̑ђ(а)` <žȇđ(a)>: "thirst"
+----> West Slavic
+-----> Polish `żądza`: "lust, craaving"
+
+--> Germanic <*bedō>: "a request, a prayer, a plea"
+---> East Germanic
+----> Gothic `𐌱𐌹𐌳𐌰` <bida>: "request, prayer, plea"
+---> West Germanic
+----> Old English `bedu`: "request, prayer, religious worship"
+-----> English `bead` ####
+-----> Scots `bede`: "prayer, rosary"
+----?> Old English `Bīeda`: "personal name"
+------> English `(Saint) Bede (the Venerable)`
+----> Frankish
+-----> Dutch `bede`: "plea"
+----> Old High German `bita`: "request, inquiry"
+-----> German `Bitte`: "request"
+---> Germanic <*bedōną>: "to pray"
+----> West Germanic
+-----> Old High German `betōn`: "to pray"
+------> German `beten`: "to pray"
+
+
+-> Proto-Indo-European <*gʷʰédʰtis> (abstract action noun)
+
+-?> Proto-Armenian <*god-i->? "worship, pagan cult"?
+---> Old Armenian `գոթի` <gotʿi>: "worship, sorcery"
+
+--> Celtic <*gʷeddis>
+---> Brythonic
+----> Welsh `gweddi`: "prayer"
+---> Old Irish `geis`: "curse, taboo"
+----> Irish `geis`: "magical injunction, spell, prohibition, taboo"
+----> Scottish Gaelic `geas`
+-----> English `geas`
+
+
+-> Proto-Indo-European <*gʷʰodʰyeh₂>
+--> Celtic
+---> Old Irish `guide`: "prayer"
+----> Irish `guí`: "prayer"
+
+
+-> Proto-Indo-European <*gʷʰedʰos> (action or result noun)
+--> Hellenic
+---> Ancient Greek `πόθος` <póthos>: "longing, regret, desire" (unrelated to <páthos> of similar meaning)
+----> Greek `πόθος` <póthos>: "longing, regret, desire"
+
+endbody
+
+
+startnotes
+
+# Old English `bēodan`, "to offer" and Old English `bidda`, "to ask for" got confused in Middle English and merge into Modern English `bid``, resulting in a very confusing pair of homonym-antonyms from different PIE roots.
+
+#### `bead` means "prayer", then "prayer with a rosary" -> "a rosary" -> "rosary beads" -> "beads in general"
+
+
+
+##### "But not till the mid-nineteenth century was it recognised that, in Josaphat, the Buddha had been venerated as a Christian saint for about a thousand years." David M. Lang's 1967 introduction to Woodward and Mattingly's 1914 translation of Barlaam and Ioasaph (http://www.hup.harvard.edu/catalog.php?isbn=9780674990388).
+https://en.wikipedia.org/wiki/Barlaam_and_Josaphat
+
+###### India and Rome had a shared inheritance of Hellenistic astrology, after the conquests of Alexander the Great expanded and transformed the Persian sphere of influence. When the astrological 7-day week of planetary hours began to replace the 8-day nundinal cycle (see last week: https://www.aidanem.com/word-family-diurnal.html) over the first few centuries CE, the idea spread widely through the Hellenistic world and beyond within a few hundred years.
+
+
+endnotes
+
+

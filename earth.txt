@@ -1,0 +1,267 @@
+Date: 20170811
+Theme: Earth and Water 🌎🌊
+Tags: Divinities, Elements, Earth, Afro-Asiatic
+
+
+startintro
+
+Semtic <*ʾartɬʼ->: "earth" and Proto-Indo-European <*h₁erTeH>: "earth". I connect these for several reasons (beyond the obvious). First, there are several indicators that *h₁ was pronounced as a glottal stop, including a number of other words that are apparent correspondences between PIE *h₁ and Semitic *ʾ. Second, the PIE word doesn't have a completely regular sound correspondence—the *T corresponds to a Baltic <*dw> -> Lithuanian `dv`, Germanic <*þ>, and Hellenic <*d'> (ɟ) -> Classical Greek `ζ`. These seem like reasonable attempts to fit a borrowed <*tɬʼ> into each phonology.
+
+Proto-Indo-European <*h₂erh₃->: "to plow" is (almost certainly) not related, but ends up getting mixed up with <*h₁erTeH> in a few cases, so I'm treating them both here.
+
+
+
+endintro
+
+
+
+startbody
+
+Proto-Afro-Asiatic <*ʔaritɬʼ->
+
+-> Tamazight
+--> Tashelhit <ṛṛgg>: "earth, soil"
+
+-> Chadic
+--> West Chadic  <*Hritɬ’->
+---> Pa'a <riŝa>: "earth"
+--> East Chadic <*ʔirtɬ’->
+---> Bidiyo <'iraadya>: "valley"
+
+-> Semitic <*ʾartɬʼ->: "earth
+--> East Semitic
+---> Akkadian `𒆠` <erṣetu>: "earth"
+--> Central Semitic
+---> Arabic `أَرْض` <ʾarḍ>: "land, earth, country, ground"
+----> Maltese `art`: "earth"
+----> Swahili `ardhi`: "land, earth"
+----> Turkish `arz`: "earth"
+----> Arabic `أَرْضِيَّة` <ʾarḍiyya>: "floor"
+---> Northwest Semitic
+----> Aramaic `𐡀𐡓𐡏𐡀` <ʾarʿā>: "land, soil, earth"
+----> Canaanite
+-----> Hebrew `אֶרֶץ` <ʾéretz>: "country, land, earth, ground"
+------> Hebrew `אֶרֶץ יִשְׂרָאֵל` <ʾéretz yisraél>: "Land of Israel"
+-----> Phoenician `𐤀𐤓𐤑` <ʾrṣ>: "earth, land"
+------> Punic `𐤀𐤓𐤎` <ʾrs>: "earth"
+----> Ugaritic `𐎀𐎗𐎕` <ảrṣ>: "earth, ground"
+-----> Ugaritic `𐎀𐎗𐎕𐎊` <ʾArṣay>: "Divinity of the earth and underworld"
+
+
+-?> Proto-Indo-European <*h₁erTeH>
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `erdvė̃`: "space, expanse"
+
+---> Celtic
+----> Brythonic
+----?> Welsh `erw`: "field, acre, erw"
+
+---> Germanic <*erþō>: "earth"
+----> East Germanic
+-----> Gothic `𐌰𐌹𐍂𐌸𐌰` <airþa>: "earth"
+----> North Germanic
+-----> Old Norse `jǫrð`
+------> Danish `jord`: "earth, dirt, soil, ground"
+------> Icelandic `jörð`: "earth, ground, estate"
+------> Old Norse `Jǫrð`: "Personification of the earth" (A giantess and mother of Thor)
+-------> Icelandic `Jörð`: "Jord"
+--------> English `Jord`
+----> West Germanic
+-----> Old English `eorþe`: "earth, ground, dry land"
+------> English `earth`
+-------> English `Middle Earth`
+-----?> Scots `yird`: "earth, Earth, to bury" ##
+-----> Frankish
+------> Dutch `aarde`: "earth, soil, ground"
+-------> Afrikaans `aarde`
+--------> Afrikaans `aardwolf`: "aardwolf" (lit. "earth-wolf")
+---------> Afrikaans `erdwolf`
+---------> Dutch `aardwolf`: "aardwolf"
+---------> English `aardwolf`
+--------> Afrikaans `aardvark`: "aardwolf" (lit. "earth-pig")
+---------> Afrikaans `erdvark`
+---------> English `aardvark`
+-----> Old High German `erda`: "Earth, soil, ground"
+------> German `Erde`: "Earth, soil, ground"
+------> Yiddish `ערד` <erd>: "Earth, earth, ground, soil"
+----> Germanic <*erþōbazją>: "strawberry" (lit. "earth-berry")
+-----> North Germanic
+------> Old Norse `jarðber`: "strawberry"
+-------> Danish `jordbær`: "strawberry"
+-------> Icelandic `jarðarber`: "strawberry"
+-----> West Germanic
+------> Old English `eorþberġe`: "strawberry"
+------> Frankish
+-------> Dutch `aardbei`: "strawberry"
+--------> Malay `arbei`: "strawberry"
+------> Old High German `erdberi`: "strawberry"
+-------> German `Erdbeere`: "strawberry"
+
+---> Hellenic <*eraďe>
+----> Classical Greek `ἔραζε` <éraze>: "to/on the ground"
+
+
+
+
+Proto-Indo-European <*h₂erh₃->: "to plow"
+
+
+-> Proto-Indo-European <*h₂éryeti>: "to be plowing"
+
+--> Balto-Slavic <*arˀti>
+---> East Baltic
+----> Lithuanian `árti`: "to plow"
+---> Slavic <*oràti>: "to plow"
+----> East Slavic
+-----> Russian `ора́ть` <orátʹ>: "to plow" (archaic)
+----> South Slavic
+-----> Serbo-Croatian `о̀рати` <òrati>: "to plow, to till"
+----> West Slavic
+-----> Polish `orać`: "to plow, to work hard"
+
+--> Celtic <*aryeti>: "to plow"
+---> Brythonic <*ėrðɨd>: "to plow"
+----> Welsh `aredig`: "to plow"
+---> Old Irish `airid`: "to plow, to till"
+----> Irish `air`: "to plow" (archaic)
+
+--> Germanic <*arjanã>: "to plow"
+---> East Germanic
+----> Gothic `𐌰𐍂𐌾𐌰𐌽` <arjan>: "to plow"
+---> North Germanic
+----> Old Norse `erja`
+-----> Danish `ærje`
+-----> Icelandic `erja`: "to plow, to till"
+---> West Germanic
+----> Old English `erian`: "to plow"
+-----> English `ear`: "to plow" (archaic, dialectic)
+----> Old High German `erren`
+
+--> Hellenic <*aroyō>: "to plow, to till"
+---> Classical Greek `ἀρόω` <aróō>: "I plow, I till, I sow, I beget"
+----> Classical Greek `ἀροτήρ` <arotḗr>: "plower, farmworker"
+
+--> Italic <*araō>
+---> Latin `arāre`: "I plow, I till, I cultivate land, I acquire by farming"
+----> Central Romance
+-----> Italian `arare`: "to plow"
+----> Eastern Romance
+-----> Romanian `a ara`: "to plow"
+----> Insular Romance
+-----> Sardinian `arai`: "to plow"
+----> Western Romance
+-----> Spanish `arar`: "to plow"
+----> Latin `arabilis`: "able to be plowed, able to be farmed, capable of growing crops, arable"
+-----> Central Romance
+------> Italian `arabile`: "arable"
+-----> Western Romance
+------> French `arable`: "arable"
+-------> English `arable`
+
+
+
+
+-> Proto-Indo-European <*h₂erh₃wós>: "plowable, arable"
+
+--> Celtic <*arwor>
+---> Brythonic
+---?> Welsh `erw`: "field, acre, erw"
+-----> English `erw`
+---> Old Irish `arbar`
+----> Irish `arbhar`: "grain, cereal"
+
+--> Italic
+---> Latin `arvus`: "arable, plowed, cultivated"
+
+
+-> Proto-Indo-European <*h₂érh₃wons>
+--> Old Armenian `հարաւունք` <harawunkʿ>: "tilled land, fields, sowing"
+
+
+-> Proto-Indo-European <*h₂érh₃ōs>: "plowing" (action or result noun)
+
+-?> Old Armenian `արօս` <arōs>: "untilled soil"
+---> Armenian `արօս` <arōs>: "fallow field"
+
+
+-> Proto-Indo-European <*h₂érh₃trom>: "plow" (instrumental)
+
+--> Old Armenian `արօր` <arōr>: "plow"
+---> Armenian `արոր` <aror>: "plow"
+
+--> Balto-Slavic <*árˀtla>: "plow"
+---> East Baltic
+----> Lithuanian `árklas`: "scratch plow, ard"
+---> Slavic <*òrdlo>: "plow"
+----> East Slavic `рало` <ralo>
+-----> Russian `ра́ло` <rálo>: "plow"
+----> South Slavic
+-----> Old Church Slavonic `рало` <ralo>
+-----> Serbo-Croatian `ра̏ло` <rȁlo>: "plow, plowshare"
+----> West Slavic
+-----> Polish `radło`: "simple plow, ard"
+
+--> Celtic <*aratrom>: "plow"
+---> Brythonic <*aradr>: "plow"
+----> Welsh `aradr`: "plow"
+---> Old Irish
+----> Irish `arathar`: "plow" (archaic)
+
+--> Germanic <*arþrã>: "plow"
+---> North Germanic
+----> Old Norse `arðr`: "plow"
+-----> Danish `ard`
+-----> Norwegian `ard`: "scratch plow, ard"
+------> English `ard`
+-----> Swedish `årder`: "scratch plow, ard"
+----> Finnic <*atra>: "plow"
+-----> Finnish `aura`: "plow, V of birds"
+
+--> Hellenic
+---> Classical Greek `ᾰ̓́ροτρον` <árotron>: "plow"
+----> Greek `άροτρο` <árotro>: "plow"
+
+--> Italic
+---> Latin `arātrum`: "plow"
+----> Central Romance
+-----> Italian `aratro`: "plow"
+----> Eastern Romance
+-----> Romanian `arat`: "plow"
+----> Insular Romance
+-----> Sardinian `aradu`
+----> Western Romance
+-----> French `araire`: "scratch plow, ard"
+-----> Spanish `arado`: "plow"
+
+
+-> Proto-Indo-European <*h₂érh₃tis> (abstract noun)
+
+-?> Germanic <*ardiz>: "nature, character, kind" #
+---> West Germanic 
+----> Old English `eard`: "homeland, earth, land, state, condition"
+-----> Scots `airt`: "direction, area, to guide, to direct, to confine"
+-----> Old English `Middaneard`: "the world, the inhabited world" (re-analyzed from `Middanġeard`)
+------> English `Middle Earth` (partial translation)
+----> Frankish <*ard>
+-----> Dutch `aard`: "nature, character, disposition"
+----> Old High German <*art>
+-----> German `Art`: "kind, type, species, nature, method"
+------> German `Mundart`: "dialect"
+----> Old Saxon <*ard>
+-----> Low German `Aard`
+-----> Danish `art`: "kind, nature, species"
+
+
+endbody
+
+startnotes
+
+# Germanic <*ardiz>: "nature, character, kind" is kind of odd. If you just looked at Old English `eard`: "homeland, earth, land, state, condition", that would seem to back up the connection to <*h₂érh₃-> suggested by the sounds. But none of the other languages have that "earth"/"land" connection. So, is Old English innovative in that (possibly mixing it up with `eorþe`), or is Old English conservative and thet Germanic should be understood as have a meaning more like "local character, the nature of a particular place or of the people from a particular place, the way things are done in a place"?
+
+
+## There seems to be some confusion over whether Scots `yird` is from `eorthe` (English `earth`) or `ġeard` (English `yard`). The evidence seems better for `eorthe`. Compare the re-analysis of Old English `Middanġeard` (Midgard) to `Middaneard` (Middle Earth).
+
+endnotes
+

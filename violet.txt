@@ -1,0 +1,160 @@
+date: 20220401
+tags: Plants
+
+
+startintro
+
+A Mediterranean/Caucausian substrate word approximately like <*wion>: "violet (flower)", was borrowed into Hellenic, Iranian, and Italic.
+
+
+Greek Ionia is probably not related, since the Mycenaean shows `𐀂𐀊𐀺𐀚 ` <i-ja-wo-ne> for "Ionians" with digamma in a different position than the <*wion> expected for "violet" , and Egyptian `​​𓇌𓅱𓈖𓏭𓉻𓂝𓏛` <ywnj-ꜥꜣ> supports that. 
+
+But it's vaguely possible the Ionians were named for the flower either in the substrate or in an early Attic-Ionic dialectic form, which had already lost the /w/ before lending the name into Mycenaean (Ionic appears to have been the first to lose /w/, already lost by the time Ionic was first written alphabetically). The Egyptian would be expected to be borrowed from contact with Mycenaean speakers (or even from Mycenaean via Minoan speakers).
+
+So while it's not very likely that Ionia is related to "violet", it's another fun little family, and I've taken the opportunity of the possible connection to do both at once.
+
+
+endintro
+
+
+startbody
+
+Mediterranean substrate <*wion?>
+
+?> Georgian `ია` <ia>: "violet" #
+
+-> Italic <*wiona>
+--> Latin `viola`
+---> Eastern Romance
+----> Romanian `vioară`: "violet (flower)"
+---> Western Romance
+----> Old French `viola`
+-----> Old French `violette`
+------> French `violet`: "violet (color)"
+------> French `violette`: "violet (flower)"
+-------> French `Violette`: "Violet (personal name)"
+------> English `violet`
+-------> English `Violet`: "Violet (personal name)"
+------> German `violett`: "violet (color), purple"
+-------> Polish `fiolet`: "violet (color)"
+-------> Russian `фиоле́товый` <fiolétovyj>: "violet (color)"
+------> Greek `βιολετί` <violetí>: "violet (color)"
+----> Italian `viola`: "violet"
+----> Spanish `viola`
+-----> Spanish `violeta`: "violet"
+--?> Hungarian `ibolya`: "violet"
+----> Hungarian `Ibolya`: "Violet (personal name)"
+---> Old High German `viola`
+----> Middle High German
+-----> German `Veil`
+------> German `Veilchen`: "violet (flower), black eye"
+-----> Polish `fioł`
+------> Polish `fiołek`: "violet (flower)"
+-------> Russian `фиа́лка` <fiálka>: "violet (flower)"
+--------> Yiddish `פֿיאַלקע` <fyalke>: "violet (flower)"
+---> Old Norse `fjóla`: "violet (flower)"
+----> Icelandic `fjóla`: "violet (flower)"
+-----> Icelandic `fjólublár`: "violet (color)" (lit. "violet-blue")
+---> Translingual `Viola`: "taxonomic genus of violets"
+
+
+-> Hellenic <*wion>
+--> Classical Greek `ῐ̓́ον` <íon>: "violet, sweet lily, flower"
+---> Classical Greek `Ἰάνθη`: "Violet-Flower (personal name)"
+----> Latin `Ianthe`
+-----> English `Ianthe`
+---> Classical Greek `ἰοειδής` <ioeidḗs>: "violet-ish, violet (color)"
+----> Greek `ιώδης` <iódis>: "violet (color), purple"
+---> Classical Greek `ἰάζω` <iázō>: "to be violet colored"
+---> Classical Greek `λευκόϊον`: "gilliflower" (lit. "white violet")
+----> German `Levkoje`: "wallflower, stock (flower)"
+-?> Hellenic <*wia>
+--?> Classical Greek `γία` <gía>: "name of unidentified flower"
+
+
+-> Iranian <*vyan>
+--> Western Iranian <*vyan-afš-ak>
+---> Northwest Iranian
+----> Kurdish `binewşe`: "violet (flower)"
+----> Mazanderani `ونوشه` <vanūše>: "violet (flower), Violet (personal name)"
+-----> Mazanderani `ونوشه` <Vanūše>: "Violet (personal name)"
+---> Middle Persian `𐭥𐭭𐭯𐭱𐭪` <wanafšag>: "violet"
+----> Persian `بنفشه` <banafše>: "violet (flower)"
+-----> Persian `بنفشه` <Banafše>: "Violet (personal name)"
+-----> Persian `بنفش` <banafš>: "violet (color)"
+-----> Arabic `بنفسج‎` <banafsaj>
+-----> Hindi `बनफ़्शा` <banafśā>: "violet (flower)"
+-----> Kurdish `binefş`
+-----> Ottoman Turkish `منكشه` <meneḱşe>
+------> Turkish `menekşe`: "violet"
+------> Greek `μενεξές` <menexés>: "violet (flower)"
+------> Serbo-Croatian `меневиш` <meneviš>: "violet (color)"
+-----> Persian <*gul-banafše>: "violet-flower"
+------> Bengali `গুলবনফ্‌শা` <gulbônôf‌śa>: "violet (flower)"
+----> Old Armenian `մանուշակ` <manušak>
+-----> Armenian `մանուշակ` <manušak>
+-----> Ossetian `ма́лусӕг` <málusæg>: "snowdrop" (-n- to -l- under regular dissimilation of nasals)
+
+
+
+?> Archaic Ionic Greek <*Iā́wōn> ##
+
+--> Classical Greek `Ἴων` <Íōn>: "personal name, mythical founder of Ionia"
+---> Latin `Īōn`
+---> Koine Greek `Ἴων` <Íōn>
+----> Koine Greek `Ἰωνόπολῐς` <Iōnópolis>
+-----> Ottoman Turkish
+------> Turkish `İnebolu`
+
+--> Archaic Ionic Greek <*Iā́wōnia>: "Ionia"
+---> Mycenaean Greek `𐀂𐀊𐀺𐀚 ` <i-ja-wo-ne>: "Ionians"
+----> Egyptian `​​𓇌𓅱𓈖𓏭𓉻𓂝𓏛` <ywnjꜥꜣ>: "Ionia" ###
+---> Classical Greek `Ἰωνῐ́ᾱ` <Iōníā>
+----> Greek `Ιωνία` <Ionía>
+----> Latin `Iōnia`: "Ionia"
+-----> English `Ionia`
+
+
+---> Old Persian `𐎹𐎢𐎴` <y-u-n>: "Ionia, Greece"
+----> Persian `یونان` <yunân>: "Greece"
+-----> Persian <yunânistan>: "Greece"
+------> Old Armenian `Յունաստան` <Yunastan>: "Greece"
+-------> Armenian `Հունաստան` <Hunastan>: "Greece"
+------> Ottoman Turkish `یونانستان` <Yunanistan>: "Greece"
+-------> Turkish `Yunanistan`: "Greece"
+-----> Arabic `اَلْيُونَان` <al-yūnān>: "Greece"
+------> Arabic `يُونَانِيّ` <yūnāniyy>: "Greek"
+-------> Malay `Yunani`: "Greece, Greek"
+-----> Old Armenian `յոյն` <yoyn>: "Greek"
+------> Armenian `հույն` <huyn>: "Greek"
+-----> Hindi `यूनान` <yūnān>: "Greece"
+-----> Kurdish `Yûnan`: "Greek"
+-----> Ottoman Turkish `یونان` <yunân>: "Greek"
+------> Turkish `Yunan`
+----> Aramaic `𐡉𐡅𐡍` <yawan>: "Greece"
+-----> Classical Syriac `ܝܘܢ‎` <yawwān>: "Greece"
+-----> Aramaic <*Yawnayīn>: "Greeks"
+------> Demotic Egyptian <wynn>
+-------> Coptic `ⲟⲩⲉⲓⲛⲓⲛ` <oueinin>: "Greek, Hellenist"
+-----> Hebrew `יוון` <Yaván>: "Greek? (personal name), Greece"
+------> English `Javan`
+-----> Phoenician `𐤉𐤅𐤍` <ywn>: "Greece"
+----> Elamite `𒅀𒌋𒈾` <ia-u-na>: "Greece"
+----> Prakrit `𑀬𑁄𑀦` <yona>: "Greek"
+-----> Sanskrit `𑀬𑀯𑀦` <yavana>: "Greek, Bactrian, foreigner, European, Arab"
+---?> Middle Chinese `大宛`: "Da-Yuan (a Greco-Bactrian kingdom in the Ferghana Valley), horse from Dayuan" (lit. "Greater Yuan")
+-----> Mandarin `大宛` <Dàyuān>
+
+
+endbody
+
+
+startnotes
+
+# Possibly Goergian `ია` <ia> may be directly related to the substrate word, but it's more likely a contraction of `იასამანი` <iasamani> related to jasmine/yasmin (see parallel contraction in Persian `یاس` <yâs>).
+
+
+### Egyptian `​​𓇌𓅱𓈖𓏭𓉻𓂝𓏛` <ywnjꜥꜣ>: "Ionia" is more properly "Great Ionia" (compare Chinese  `大宛` <Da Yuan>), with the same Egyptian suffix <-ꜥꜣ> as in <pr-ꜥꜣ> "pharaoh", which is literally "great house", meaning "palace" and later (metonymically) "king of Egypt". (Egyptian does not use the same words for foreign kings as for their own.)
+
+
+endnotes

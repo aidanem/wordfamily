@@ -1,0 +1,93 @@
+date: 20190104
+
+startbody
+
+Proto-Indo-European <*weys->: "slime, poison, flow, melt"
+
+
+-> Proto-Indo-European <*wisós> (action noun, zero-grade variant)
+
+--> Hellenic <*wihós>
+---> Ancient Greek `ῑ̓ός` <īós>: "poison, venom"
+----> Greek `ιός` <iós>: "venom, virus"
+
+--> Indo-Iranian <*wišás>
+---> Indo-Aryan <*wíṣas>
+----> Dardic <*biṣá>
+-----> Kalasha `biṣ`: "poison"
+----> Sanskrit `विष` <viṣá>: "poison, venom, bane"
+-----> Sauraseni `𑀯𑀺𑀲` <visa>
+------> Madhya
+-------> Hindi `बिस` <bis>
+-----> Pali
+------> Malay `bisa`: "poison"
+------> Thai `พิษ` <pít>: "poison, venom, toxin"
+-------> Thai `มลพิษ` <mon-lá-pít>: "pollution"
+-----> Hindi `विष` <viṣ>: "poison, venom" (re-borrowing)
+-----> Telugu `విషము` <viṣamu>: "poison, venom, water"
+---> Iranian <*wíšah>
+----> Avestan `viša`: "poison"
+---> Uralic <*wiša>: "poison, gall, green"
+----> Finnic <*viha>: "poison, greeness"
+-----> Finnic <*viherä>: "green"
+------> Finnish `vihreä`: "green"
+----> Mordvinic
+-----> Erzya `ожо` <ožo>: "yellow, jaundice"
+----> Permic
+-----> Udmurt `вож` <vož>: "green"
+
+
+--> Tocharian <*wä́së>
+---> Arshian <wäs>: "poison"
+---> Kuchean <wase>: "poison"
+
+
+-> Proto-Indo-European <*weysós> (action noun, full-grade variant)
+
+--> Italic <*weisos>
+---> Latin `vīrus`: "slime, poison, venom"
+----> English `virus`
+----> Latin `vīrulentus`: "poisonous"
+-----> English `virulent`
+
+
+-> Proto-Indo-European <*weysō>: "stink thing? flow thing?"
+
+--> Germanic <*wisō>
+---> Germanic <*wisulǭ>: "weasel, polecat" (diminutive)
+----> North Germanic
+-----> Old Norse `visla`: "weasel"
+------> Danish `væsel`: "weasel"
+------> Old Norse `hreysivisla`: "weasel" (lit. "den-weasel")
+-------> Icelandic `hreysivisla`: "weasel"
+----> West Germanic
+-----> Old English `weosule`
+------> English `weasel`
+-----> Frankish <*wisala>
+------> Dutch `wezel`: "weasel"
+-----> Old High German `wisala`
+------> German `Wiesel`: "weasel"
+
+
+?> Proto-Indo-European <*wisn̥tós>: "stinked thing?"
+
+--> Germanic <*wisund(a)z>: "wild ox"
+---> East Germanic
+----> Gothic <*Uisandus>
+-----> Latin `Uisandi`
+------> Western Romance
+-------> Galician `Guisande`
+---> West Germanic
+----> Old English `wesend`: "bison, wild ox"
+----> Old High German `wisunt`
+-----> German `Wisent`: "wisent, European bison"
+------> Dutch `wisent`
+------> English `wisent`
+---> Latin `bisōn`: "bison"
+----> Western Romance
+-----> French `bison`
+------> English `bison`
+---> Ancient Greek `βίσονας`: "bison"
+
+
+endbody

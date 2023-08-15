@@ -1,0 +1,210 @@
+date: 20220204
+tags: Runes, Time
+
+
+
+startintro
+
+In which `yes-` and `-day` in `yesterday` are the same root.
+
+PIE <*dʰǵʰes-tero-dʰoǵʰes>
+Germ. <*(d)ges-tera-dagaz>
+OE `ġes-ter-dæġ`
+English `yes-ter-day`
+
+"The day that’s the other day"
+
+Germanic <*dagaz> is often explained as being from <*dʰegʷʰ->: "to burn", but the loss of labialization would be irregular, and the semantic connection is questionable. But if you take the idea that <*dʰǵʰes->: "yesterday" (widely attested) is the zero-grade of a mostly unattested <*dʰeǵʰ-es->, then there would be an expected o-grade <*dʰogʰ-es>, which is a perfect fit for Germanic <*dagaz>. (I'm working from the van den Oever/Kloekhorst/Klimp theory of <*dagaz>.)
+
+endintro
+
+
+startbody
+
+
+
+Proto-Indo-European <*dʰeǵʰ->: "day?, repeat?"
+
+
+-> Proto-Indo-European <*dʰeǵʰnos>: "daily?, repeating?"
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `dãžnas`: "frequent"
+---> West Baltic
+----> Old Prussian <*desnai>
+-----> Old Prussian `kudesnammi`: "periodically, every so often"
+
+
+
+-> Proto-Indo-European <*dʰeǵʰ-es>
+
+
+--> Proto-Indo-European <*dʰoǵʰ-es>
+
+--?> Germanic <*dagaz>: "day, the rune ᛞ"
+----> East Germanic
+-----> Gothic `𐌳𐌰𐌲𐍃` <dags>: "day, the letter 𐌳"
+------> Crimean Gothic `tag`: "day"
+-----?> Gothic <*Dagisþius>: "Day-People? (personal name)"
+-------> Greek `Δαγισθαῖος` <Dagisthaîos>
+----> North Germanic
+-----> Old Norse `dagr`
+------> Danish `dag`
+------> Icelandic `dagur`
+----> West Germanic
+-----> Old English `dæġ`: "day, the rune ᛞ"
+------> English `day`
+------> Old English `dæġes ēage`: "daisy" (lit. "day's eye")
+-------> English `daisy`
+-----> Frankish
+------> Dutch `dag`
+-----> Old High German `tag`
+------> German `Tag`
+------> Yiddish `טאָג` <tog>: "day"
+----> English `dagaz`: "the rune ᛞ"
+
+----> Germanic <*gesteradagaz>: "yesterday" (see below)
+
+
+
+--> Proto-Indo-European <*dʰǵʰes-> (petrified genitive singular?)
+
+
+---> Proto-Indo-European <*dʰeǵʰesr̥> (r/n stem noun)
+
+
+---?> Indo-Iranian <*áȷ́ʰr̥> (loss of <*dʰ-> by influence from a zero-grade form?)
+-----> Indo-Aryan
+------> Sanskrit `𑀅𑀳𑀭𑁆` <áhar>: "day"
+-------> Sanskrit `𑀲𑀧𑁆𑀢𑀸𑀳` <saptāhá>: "seven-day, week"
+--------> Pali `𑀲𑀢𑁆𑀢𑀸𑀳` <sattāha>: "seven-day, week"
+---------> Khmer `សត្តាហៈ` <sattaahaʼ>: "week"
+--------> Sauraseni
+---------> Pahari
+----------> Nepali `साता` <sātā>: "week"
+--------> Hindi `सप्ताह` <saptāh>: "week"
+--------> Tamil `ஸப்தாஹம்` <saptāham>: "week"
+--------> Thai `สัปดาห์` <sàp-daa>: "week"
+-----> Iranian
+------> Avestan `𐬀𐬌𐬌𐬀𐬭` <aiiar>: "day"
+
+
+----> Proto-Indo-European <*dʰǵʰéni> (locative)
+
+-----> Indo-Iranian <*áȷ́ʰani>
+------> Indo-Aryan
+-------> Sanskrit `𑀅𑀳𑀦𑀺` <áhani>
+
+
+---> Proto-Indo-European <*dʰǵʰési> (locative)
+
+----> Albanian `dje`: "yesterday"
+
+----> Celtic <*gdesi>
+-----> Brythonic
+------> Welsh `ddoe`: "yesterday"
+-----> Celtic <*sindos gdesi>: "this yesterday"
+------> Old Irish `indé`
+-------> Irish `inné`: "yesterday"
+
+----> Hellenic <*kʰtʰés>
+-----> Ancient Greek `χθές` <khthés>: "yesterday"
+------> Greek `χθες` <chthes>: "yesterday, the past"
+
+----> Italic <*hezī>
+-----> Latin `heri`: "yesterday"
+------> Eastern Romance
+-------> Romanian `ieri`: "yesterday"
+------> Western Romance
+-------> French `hier`: "yesterday"
+--------> Haitian Creole `yè`: "yesterday"
+-------> Italian `ieri`: "yesterday:
+-------> Spanish `ayer`: "yesterday"
+------> Latin `abante heri`: "day before yesterday"
+-------> Western Romance
+--------> French `avant-hier`: "day before yesterday"
+--------> Italian `avantieri`: "day before yesterday"
+--------> Spanish `anteayer`: "day before yesterday"
+
+
+
+
+---> Proto-Indo-European <*dʰǵʰesteros> (with contrastive <*-teros>)
+
+----> Germanic <*gesteraz>: "yesterday"
+-----> West Germanic
+------> Old English `ġiestran`
+-------> English `yester-`
+------> Frankish
+-------> Dutch `gisteren`: "yesterday"
+------> Old High German `gesteren`
+-------> German `gestern`: "yesterday"
+
+-----> Germanic <*gesteradagaz>: "yesterday"
+------> East Germanic
+-------> Gothic `𐌲𐌹𐍃𐍄𐍂𐌰𐌳𐌰𐌲𐌹𐍃` <gistradagis>: "tomorrow"
+------> West Germanic
+-------> Old English `ġiestrandæġ`: "yesterday"
+--------> English `yesterday`
+------> North Germanic
+-------> Old Norse
+--------> Swedish `gårdag`: "yesterday"
+
+
+----> Italic <*hesternos>
+-----> Latin `hesternus`: "related to yesterday, yesterday's"
+------> Translingual `Camelops hesternus`: "Yesterday's Camel (species name)"
+
+
+
+--> Proto-Indo-European <*dʰǵʰyes->  (separately petrified genitive singular?)
+
+---> Germanic <*gēz>: "yesterday"
+----> North Germanic
+-----> Old Norse `gær`: "yesterday"
+------> Old Norse `í gær`: "yesterday" ("at yesterday" compare locative <*dʰǵʰés-i>)
+-------> Danish `i går`: "yesterday"
+-------> Icelandic `í gær`: "yesterday, last night"
+----> West Germanic
+----?> Old English `ġeāra`: "long ago" ##
+------> English `yore` ##
+
+---> Indo-Iranian <*ȷ́ʰyás>
+----> Indo-Aryan <*źʰyás>
+-----> Sanskrit `𑀳𑁆𑀬𑀲𑁆` <hyás>: "yesterday"
+------> Elu
+-------> Sinhala `ඊයේ` <īyē>: "yesterday"
+------> Pali <hiyyō>
+------> Sauraseni `𑀳𑀺𑀚𑁆𑀚𑁄` <hijjo>
+-------> Nepali `हिजो` <hijo
+------> Western Indo-Aryan
+-------> Romani `idž`: "yesterday"
+----> Iranian <*ȷ́yáh>
+-----> Avestan `𐬰𐬫𐬋` <zyō>
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `duhî`: "yesterday"
+------> Old Persian `𐎮𐎹𐎣` <di-ya-ka>
+-------> Persian `دی` <di>: "yester, yesterday"
+--------> Persian `دیروز` <diruz>: "yesterday"
+--------> Persian `دیشب` <dišab>: "last night"
+
+---> Hellenic
+----> Ancient Greek `χθιζός` <khthizós>: "related to yesterday, yesterday's"
+
+
+
+endbody
+
+
+
+
+startnotes
+
+
+
+
+## Old English merges Germanic <*je-> and <*ge- > both to `ġe-`. Most likely the Old English "ġeāra" represents Germanic <*je->, and "yore" is connected "year" (https://www.aidanem.com/word-family-year.htm). But if it represents Germanic <*ge->, then it strongly resembles Old Norse "gær": "yesterday". Either options is semantically plausible.
+
+endnotes

@@ -1,0 +1,571 @@
+date: 20190503
+theme: Plants 🌱
+
+startintro
+
+In which "dryad" and "druid" are basically the same word, "trust" and "tryst", "trees" and "truce". Plus horse racing history.
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
+
+
+-> Proto-Indo-European <*droweh₂yéti>
+
+--> Germanic <*trūwijaną>
+---> North Germanic
+----> Old Norse `trúa`: "to believe"
+-----> Danish `tro`: "to believe, to think"
+-----> Icelandic `trúa`: "to believe"
+---> West Germanic
+----> Old English `trūwian`: "to trust, to have faith in"
+-----> English `trow`
+----> Frankish <*triuwon>
+-----> Dutch `trouwen`
+----> Old High German `trūwēn`
+-----> German `trauen`: "to trust, to marry"
+
+
+-> Proto-Indo-European <*drewéyeti?> #
+
+--> Germanic <*trēwaną?> #
+---> Germanic <*triwwiz>: "true, faithful"
+----> East Germanic
+-----> Gothic `𐍄𐍂𐌹𐌲𐌲𐍅𐍃` <triggws>: "true, faithful"
+----> North Germanic
+-----> Old Norse `tryggr`: "true"
+------> Danish `tryg`: "safe, secure, easy, confident"
+------> Icelandic `tryggur`: "safe, secure"
+----> West Germanic
+-----> Old English `trēowe`: "true"
+------> English `true`
+------> Scots `trew`
+-----> Frankish <*triuwi>
+------> Dutch `trouw`: "true, faithful, loyal"
+-----> Old High German `triuwi`
+------> German `treu`: "loyal, faithful, true"
+----> Germanic <*triwwiþō>: "promise, contract"
+-----> North Germanic
+------> Old Norse `tryggð`
+-------> Danish `trygd`
+-------> Icelandic `tryggð`: "loyalty, fidelity"
+-----> West Germanic
+------> Old English `trēowþ`
+-------> English `truth`
+-------> English `troth`
+--------> English `betrothal`
+
+----> Germanic <*triwwijaną>: "to be faithful, to make faithful"
+-----> North Germanic
+------> Old Norse `tryggja`
+-------> Icelandic `tryggja`: "to secure, to ensure, to insure"
+-----> West Germanic
+------> Old English `trēowan`
+-------> English `trow`
+
+
+
+-> Proto-Indo-European <*druwós> 
+
+-?> Italic <*dūros> ##### 
+---> Latin `dūrus`: "hard, harsh, vigorous, stern, unyielding"
+----> Sardinian `duru`: "hard, tough"
+----> Western Romance
+-----> French `dur`: "hard, tough, harsh"
+-----> Italian `duro`: "hard, tough, harsh"
+-----> Spanish `: "hard, solid, tough, cruel, stingy"
+----> Middle Irish
+-----> Irish `dúr`: "hard, tough, difficult, grim, dense, sluggish"
+-----> Scottish Gaelic `dùr`: "obstinate, stubborn, sullen, dour"
+------> Scots `dour`
+-------> English `dour`
+----> Latin `dūrō`: "I harden, I last, I endure"
+-----> Western Romance
+------> French `durer`
+-------> French `durée`: "duration"
+------> Italian `durare`
+------> Spanish `durar`
+-----> Albanian `duroj`
+-----> Latin `indūrō`: "I harden, I endure"
+------> Eastern Romance
+-------> Romanian `a îndura`
+------> Western Romance
+-------> French `endurer`
+--------> English `endure`
+-------> Italian `indurare`
+-------> Spanish `endurar`
+-----> Latin `dūrātiō`
+------> Western Romance
+-------> Old French `duracion`
+--------> English `duration`
+-------> Italian `durazione`
+-------> Spanish `duración`
+----> Latin `dūrābilis`: "durable, lasting"
+-----> Western Romance
+------> Old French
+-------> English `durable`
+------> Italian `durabile`
+----> Latin `dūritia`: "hardness, rigidity, a harsh flavor, austerity, severity"
+-----> Western Romance
+------> Old French `durece`
+-------> English `duress`
+------> Italian `durezza`: "harshness, rigidity, severity"
+------> Spanish `dureza`: "hardness, arduousness"
+----> Latin `dūracinus`: "hard-berried, stone fruit"
+-----> Western Romance
+------> Old French `duraine`
+------> Italian `duracina`
+------> Spanish `durazno`: "peach" (Latin American only)
+-------> Quechua `turasnu`: "peach"
+-----> French `duracine`: "type of peach"
+-----> Ancient Greek `δωράκινον` <dōrákinon>: "type of peach"
+------> Greek `ροδάκινο` <rodákino>: "peach"
+------> Aramaic `ܕܘܪܩܝܢܐ` <dōraqqīnā>: "apricot, peach"
+-------> Arabic `دُرَّاق` <durrāq>: "peach"
+
+
+-> Proto-Indo-European <*drumós>
+
+--> Old Armenian `տրամ` <tram>: "solid, firm"
+---> Middle Armenian `տրամ` <tram>: "solid ground"
+----> Georgian `ტრამა` <ṭrama>: "wasteland"
+
+--> Germanic <*trumaz>: "firm, strong"
+---> North Germanic
+---?> Old Norse `Þrymr`
+---> West Germanic
+----> Old English `trum`
+-----> English `trim`
+
+---> Germanic <*trumjaną>: "to strengthen, to make fast"
+----> West Germanic
+-----> Old English `trymman`: "to strengthen"
+------> English `trim`
+
+--> Hellenic
+---> Ancient Greek `δροόν` <droón>: "strong, mighty"
+
+
+-> Proto-Indo-European <*drutós>
+
+-?> Balto-Slavic #####
+---> Lithuanian `drū́tas`: "firm, strong"
+
+--> Celtic
+---> Gaulish `druto`: "strong, vigorous"
+----> French `dru`: "thick, luxurious (of hair), heavily"
+
+
+-> Proto-Indo-European <*drewō>: "a firmness?"
+
+--> Germanic <*trewwō>: "fidelity, pledge"
+---> East Germanic
+----> Gothic `𐍄𐍂𐌹𐌲𐌲𐍅𐌰` <triggwa>
+-----> Medieval Latin `tregua`
+------> Italian `tregua`: "truce, rest, respite"
+------> Spanish `tregua`: "truce, rest, break"
+------> English `treague`
+---> West Germanic
+----> Old English `trēow`: "truth, fidelity"
+-----> Middle English `trewe`
+------> English `true` (noun)
+------> Middle English `trewes` (plural)
+-------> English `truce`
+----> Frankish <*treuwa>
+-----> Dutch `trouw`: "loyalty, faithfulness, marriage"
+-----> Old French `trieve`
+------> French `trêve`: "truce, break, rest"
+-----> Old High German `triuwa`
+------> German `Treue`: "faithfulness, loyalty"
+
+
+-> Proto-Indo-European <*drowstōs>
+
+--> Germanic <*traustaz>: "firm, strong"
+---> Germanic <*traustą>: "shelter, aid, trust, confidence, alliance"
+----> East Germanic
+-----> Gothic `𐍄𐍂𐌰𐌿𐍃𐍄𐌹` <trausti>: "covenant, pact"
+----> North Germanic
+-----> Old Norse `traust`
+------> Danish `trøst`: "comfort, solace"
+------> Icelandic `traust`: "trust, faith, confidence"
+------> Old English
+-------> English `trust`
+--------> French `trust`: "a trust (group)"
+---------> Vietnamese `tơ-rớt`: "a trust (group)"
+----> West Germanic
+-----> Old English <*trēast>
+------> English `tryst`
+-----> Frankish <*traust>
+------> Dutch `troost`: "comfort, consolation"
+-----> Old High German `trōst`
+------> German `Trost`: "consolation"
+
+
+-> Proto-Indo-European <*dóru>: "tree"
+
+--> Anatolian <*dōru>
+---> Hittite `𒋫𒀀𒊒` <tāru>: "wood, tree"
+
+
+--> Hellenic <*dóru>: "tree"
+---> Ancient Greek `δόρῠ` <dóru>: "wood, tree, pole, spear, lance"
+----> Greek `δόρυ` <dóry>: "pike, spear"
+----> English `dory`
+---> Hellenic <*drutómoi>: "tree cutters"
+----> Mycenaean Greek `𐀉𐀬𐀵𐀗` <du-ru-to-mo>: "tree cutters"
+
+
+--> Indo-Iranian <*dā́ru>: "tree, wood"
+---> Indo-Aryan <*dā́ru>
+----> Sanskrit `दारु` <dā́ru>: "wood, timber"
+----?> Sanskrit `डाल` <ḍāla>: "branch" ####
+------> Hindi `डाल` <ḍāl>: "branch"
+---> Iranian <*dā́ru>: "wood, tree"
+----> Avestan <dāuru>: "wood"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `دار‎` <dār>: "tree, wood, staff"
+-----> Old Persian `𐎭𐎠𐎽𐎢𐎺` <d-a-ru-u-v>: "wood"
+------> Persian `دار` <dâr>: "tree, wood, gallows"
+----> Iranian <*dā́rukah>: "wood, tree, stick"
+-----> Northern Iranian
+------> Sogdian <δʾrwkʾ‎>: "wood, stick"
+-----> Pashto `لرګی‎` <largáy>: "wood"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Medean <*dāruwkah>
+--------> Akkadian `𒁕𒊒𒊌𒆪` <Da-ru-uk-ku>: "place name"
+
+
+--> Tocharian <*or>
+---> Arshian <or>: "wood"
+---> Kushean <or>: "wood"
+----> Kushean <ārwa>: "firewood"
+
+
+
+
+--> Proto-Indo-European <*dréwom>
+
+---> Germanic <*trewą>
+----> East Germanic
+-----> Gothic `𐍄𐍂𐌹𐌿` <triu>: "tree, wood, stick"
+----> North Germanic
+-----> Old Norse `tré`: "tree, mast, beam"
+------> Danish `træ`: "tree, wood, timber"
+------> Icelandic `tré`: "tree, wood"
+----> West Germanic
+-----> Old English `trēow`: "tree"
+------> English `tree`
+-----> Frankish <*treo>
+------> Dutch `teer` (rare, `boom` is more common)
+
+
+--> Proto-Indo-European <*derwóm>
+
+---> Balto-Slavic <*derwa>
+
+---> Celtic <*derwom>
+----> Brythonic
+-----> Welsh `derw`: "oaks"
+-----> Brythonic <*Deruentiū>: "hydronym, the River Derwent" (lit. "of the Oak Trees")
+------> Old Welsh `Derwennydd`
+------> Latin `Derventiō`
+-------> Old English `Derwent`
+--------> English `Derwent`
+--------> Old English `Derwentby`: "Derby" (lit. "Derwent-town")
+---------> English `Derby` ###
+----------> English `derby` ###
+----> Gaulish <*dervo->
+-----> Latin `Dereventum`: "place name (in Gallia Lugdunensis)`
+------> Western Romance
+-------> French `Drevant`
+
+---> Germanic <*terwą>: "tar, resin"
+----> North Germanic
+-----> Old Norse `tjara`
+------> Danish `tjære`: "tar"
+------> Icelandic `tjara`: "tar"
+-----> Finnic <*terva>
+------> Finnish `terva`: "tar"
+------> Samic <*tërvē>
+-------> Northern Sami `darvi`: "tar"
+----> West Germanic
+-----> Old English `teru`: "tar, resin"
+------> English `tar`
+-----> Frankish
+------> Dutch `teer`: "tar"
+-----> Old Saxon
+------> Low German
+-------> German `Teer`: "tar"
+
+
+--> Proto-Indo-European <*drw(h₂)ós> (collective)
+
+---> Albanian `dru`: "tree, wood"
+
+---> Balto-Slavic
+----> Slavic <*drъvo>: "wood"
+-----> East Slavic
+------> Russian `дрова́` <drová>: "firewood"
+-----> South Slavic
+------> Old Church Slavonic `дръва` <drŭva>: "wood"
+------> Serbo-Croatian `дрво` <drvo>: "tree, wood, timber"
+-----> West Slavic
+------> Polish `drwa`
+-------> Polish `drwal`: "lumberjack"
+
+---> Celtic <*daru>: "tree, oak"
+----> Brythonic <*dar>: "oak, tree"
+-----> Welsh `dâr`: "oak tree"
+-----> Brythonic <*aβaldar>: "apple tree"
+------> Old English `apuldor`: "apple tree" (partial translation)
+-------> English `Appledore`: "place name"
+----> Gaulish
+-----> Ancient Greek `λάριξ` <lárix>: "larch, Venice turpentine"
+------> Latin `larix`: "larch"
+-------> Translingual `Larix`: "taxonomic genus of conifers, the larches"
+-------> Italian `larice`: "larch"
+-------> Old High German `larihha`
+--------> German `Lärche`: "larch"
+---------> Dutch `lork`: "larch"
+---------> English `larch`: "larch"
+-------> Finnic
+--------> Estonian `lehis`: "larch"
+--------> Finnish `lehtikuusi`: "larch" (lit. "larch-spruce")
+----> Old Irish `dair`: "oak"
+-----> Irish `dair`: "oak"
+
+----> Celtic <*dru-wits>: "druid" (lit. "tree-knower")
+-----> Brythonic <*drüw>
+------> Welsh `dryw`: "druid, seer"
+------> Old English `drȳ`: "sorcerer, magician"
+-----> Gaulish <*druwits>
+------> Gaulish <*druwides>: "druids, the Druids"
+-------> Ancient Greek `δρυΐδαι` <druḯdai>: "the Druids"
+--------> Latin `Druidae`: "the Druids"
+---------> French `druide`: "druid"
+----------> English `druid`
+-----------> Mandarin `德魯伊` <délǔyī>: "druid"
+---------> Italian `druida`: "druid"
+---------> Spanish `druida`: "druid"
+-----> Old Irish `druí`: "druid, sorcerer"
+------> Irish `draoi`: "druid, sorcerer, diviner, trickster"
+-------> Irish `draíodóir`: "magician"
+
+---> Hellenic
+----> Ancient Greek `δρῦς` <drûs>: "tree, timber, oak"
+-----> Ancient Greek `Δρῠᾰ́ς` <Druás>: "tree nymph, dryad" (genitive `Δρῠᾰ́δος` <Druádos>)
+------> Latin `Dryas`: "dryad, druidess" (genitive `Dryadis`)
+-------> French `dryade`: "dryad"
+--------> English `dryad`
+
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `द्रु` <drú>: "wood, wooden implement, branch"
+------> Sanskrit `द्रुपद` <drupadá>: "post, (wooden) pillar"
+
+
+--> Proto-Indo-European <*drumos>
+
+---> Germanic <*trumaz>: "root"
+----> West Germanic
+-----> Old English `trum`: "root, (tree) stump"
+------> Old English `wyrttrum`
+-------> Old English `wyrttrumian`: "to grow upward, as from a root or seed"
+
+---> Hellenic
+----> Ancient Greek `δρυμός` <drumós>: "copse, thicket, wood"
+-----> Ancient Greek `Δρυμός` <Drumós>: "place name"
+------> Latin `Drymus`
+-----> Ancient Greek `Δρυμαία` <Drumaia>: "place name"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `द्रुम` <druma>: "tree"
+
+
+--> Proto-Indo-European <*drukós>: "wooden"
+
+---> Old Armenian `տարգալ` <targal>: "(wooden) spoon"
+----> Armenian `գդալ` <gdal>: "spoon"
+
+---> Celtic
+----> Old Irish
+-----> Middle Irish `drochta`: "wooden basin, trough"
+
+---> Germanic <*trugaz>: "trough"
+----> North Germanic
+-----> Old Norse `trog`
+------> Icelandic `trog`: "trough"
+----> West Germanic
+-----> Old English `trog`: "trough"
+------> English `trough`
+------> Irish `trach`: "trough"
+-----> Frankish <*trog>
+------> Dutch `trog`: "trough, trench"
+-----> Old High German `troc`
+------> German `Trog`: "trough, trench"
+------> Italian `trogolo`: "trough"
+
+
+--> Proto-Indo-European <*dréwh₂(n/t)om>: "wooden implement"
+
+--?> Anatolian
+----> Hittie <taru̯āli>: "pestle?"
+
+---> Old Armenian `տոռն` <toṙn>: "(wooden) pestle"
+
+---> Germanic <*trawją>
+----> North Germanic
+-----> Old Norse `treyja`
+------> Old Swedish `trø`
+----> West Germanic
+-----> Old English `trēġ`: "wooden serving board, tray"
+------> English `tray`
+-----> Old Saxon
+------> Low German `Treechel`: "trough"
+
+---> Hellenic
+----> Ancient Greek `δρουίτη` <drouítē>: "(wooden) tub"
+
+---> Indo-Iranian <*dráwnam>
+----> Indo-Aryan <*dráwnam>
+-----> Sanskrit `द्रोण` <dróṇa>: "wooden bucket, trough"
+
+
+--> Proto-Indo-European
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit <dārv>: "wooden"
+------> Sanskrit `दर्वि` <dárvi>: "spoon, ladle"
+
+
+?> Proto-Indo-European <*dweh₂->: "long?, distant?, enduring?" (or related to <*dyew->: "day"?) 
+
+-?> Hellenic
+---> Ancient Greek `δήν` <dḗn>: "for a long time, long ago"
+
+--?> Italic
+---> Latin `dēmum`: "at last, only"
+
+
+--> Proto-Indo-European <*duh₂rós>
+
+---> Old Armenian `երկար` <erkar>: "long, extended, slow" ######
+----> Armenian `երկար` <erkar>: "long, lengthy, protacted"
+
+---> Hellenic <*dwārós> (alternate zero-grade stem where <*h₂> instead of <*w> is vocalized)
+----> Ancient Greek `δηρός` <dērós>: "long, too long"
+
+--?> Italic <*dūros> #####
+---> Latin `dūrus`: "hard, harsh, vigorous, stern, unyielding"
+----> Sardinian `duru`: "hard, tough"
+----> Western Romance
+-----> French `dur`: "hard, tough, harsh"
+-----> Italian `duro`: "hard, tough, harsh"
+-----> Spanish `: "hard, solid, tough, cruel, stingy"
+----> Middle Irish
+-----> Irish `dúr`: "hard, tough, difficult, grim, dense, sluggish"
+-----> Scottish Gaelic `dùr`: "obstinate, stubborn, sullen, dour"
+------> Scots `dour`
+-------> English `dour`
+----> Latin `dūrō`: "I harden, I last, I endure"
+-----> Western Romance
+------> French `durer`
+-------> French `durée`: "duration"
+------> Italian `durare`
+------> Spanish `durar`
+-----> Albanian `duroj`
+-----> Latin `indūrō`: "I harden, I endure"
+------> Eastern Romance
+-------> Romanian `a îndura`
+------> Western Romance
+-------> French `endurer`
+--------> English `endure`
+-------> Italian `indurare`
+-------> Spanish `endurar`
+-----> Latin `dūrātiō`
+------> Western Romance
+-------> Old French `duracion`
+--------> English `duration`
+-------> Italian `durazione`
+-------> Spanish `duración`
+----> Latin `dūrābilis`: "durable, lasting"
+-----> Western Romance
+------> Old French
+-------> English `durable`
+------> Italian `durabile`
+----> Latin `dūritia`: "hardness, rigidity, a harsh flavor, austerity, severity"
+-----> Western Romance
+------> Old French `durece`
+-------> English `duress`
+------> Italian `durezza`: "harshness, rigidity, severity"
+------> Spanish `dureza`: "hardness, arduousness"
+----> Latin `dūracinus`: "hard-berried, stone fruit"
+-----> Western Romance
+------> Old French `duraine`
+------> Italian `duracina`
+------> Spanish `durazno`: "peach" (Latin American only)
+-------> Quechua `turasnu`: "peach"
+-----> French `duracine`: "type of peach"
+-----> Ancient Greek `δωράκινον` <dōrákinon>: "type of peach"
+------> Greek `ροδάκινο` <rodákino>: "peach"
+------> Aramaic `ܕܘܪܩܝܢܐ` <dōraqqīnā>: "apricot, peach"
+-------> Arabic `دُرَّاق` <durrāq>: "peach"
+
+---> Indo-Iranian <*duHrás>: "long, far"
+----> Indo-Aryan <*duHrás>
+-----> Dardic
+------> Kashmiri `دوٗر‎` <dūr>
+-----> Sanskrit `दूर` <dūrá>
+------> Pali <dūra>
+------> Sauraseni `𑀤𑀽𑀭` <dūra>
+-------> Madhya
+--------> Hindi `दूर` <dūr>: "distant, far, away from, off"
+-------> Pahari
+--------> Punjabi `ਦੂਰ` <dūr>: "far"
+------> West Indo-Aryan
+-------> Romani `dur`: "far"
+------> Telugu `దూరము` <dūramu>: "distance"
+----> Iranian <*duHráh>
+-----> Avestan <dūrāt̰‎>: "from afar"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `دوور‎` <dûr>: "distant, far off"
+------> Old Persian
+-------> Persian `دور‎` <dūr>: "far, distant, away"
+
+
+
+endbody
+
+
+startnotes
+
+# PIE <*drewéyeti> and Germanic <*trewwaną> are implied only by the form of the Germanic adjective <triwwiz>. Compare for example Germanic <*hriwwiz>: "regretful" from Germanic <*hrewwaną>: "to regret, to rue", from PIE <*krewéyti>: "cause to break". But I know of no trace of <*drewéyeti> or <*trewwaną> other than those through <*triwwiz>. Indeed, Germanic then re-derives the verb from the <*triwwiz> to get <*triwwijaną>
+
+## It is impossible to tell at this point if "tree" or "firm" are the original meaning. Compare Latin "robustus"/"robur".
+
+##### In my opinion, Latin `dūrus` is probably a mix of <*druwós>: "firm" (with metathesis) and <*duh₂rós>: "long" (with metaphor to time, also present in Armenian and Greek).
+
+In Indo-Iranian <*duh₂rós> is (nearly) always a long distance, not a long time. There is another adjective very similar to Latin `dūrus`, <*dʰruwás>: "firm, fixed, strong" (Sanskrit `ध्रुव` <dhruvá>), but the <*dʰ> means it is not formally equivalent for Latin `durus` and English `true`, but to Latin `firmus` and English `darn` (as in socks).
+
+Since Balto-Slavic merges <*d> and <*dʰ>, Lithuanian `drū́tas`: "firm, strong" could be from either group (or both!)
+
+### English `Derby` is a confluence of related influences: 1) organic formation of `Derwent-by`: "Derwent-town, town on the River Derwent", 2) from the Roman settlement `Derventio` (later `Derbentio`), itself from the Brythonic name of the river Derwent, 3) Old Norse `Djúrabý`, the Danelaw name of the town, literally "Deer-town", but probably influenced by the sound of one or both of the other two.
+
+English `derby`: "a race", is after the Earls of Derby, several of whom were famous patrons of horse-racing, especially Edward Smith-Stanley, 12th Earl of Derby who organized a sweepstake horse race in 1779 which was the founding event of two of the five most prestigious horse races in England: the Derby, open to colts and fillies, and the Oaks, restricted to fillies. Either of which counts as the second leg in the original "Triple Crown".
+
+Nota bene, "Oaks" after the London estate of the Earls of Derby (now Oaks Park), which connects back to the original Brythonic name <*Deruentiū>: "of the Oaks", such that these two equivalent races, "Derby" and "Oaks", are ultimately synonymous.
+
+#### I don't have any sources for an etymology for Sanskrit `डाल` <ḍāla>: "branch". But since in early Sanskrit <d> and <ḍ> are in conditioned alternation, and <r> and <l> are in dialectic alternation, it makes sense to tentatively connect it to `दारु` <dā́ru>: "wood, timber".
+
+###### Yes, Armenian <erkar> really is cognate to Greek <dērós>! Compare Armenian <erku>: vs. Greek <dúo>, both "two".
+
+endnotes

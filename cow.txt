@@ -1,0 +1,308 @@
+date: 20190621
+theme: Domestic Animals 🐕
+tags: Animals, Domestic Animals
+
+
+startintro
+
+Proto-Indo-European has <*gʷṓws>: "cow, cattle" and <*woḱéh₂>: "(female) cow". The expected feminine of the <*gʷṓws> would be something like <**gʷow(s)éh₂>. <*woḱéh₂> looks similar, but not quite there.
+
+Sino-Tibetan <*ŋwa>: "cattle, ox" is also highly reminiscent of <*gʷṓws>. If there was a Central Asian substrate word behind both the PIE and the ST, a borrowing could also explain why the feminine <*woḱéh₂> is slightly off.
+
+
+endintro
+
+
+
+startbody
+
+Central Asian Substrate
+
+?> Proto-Indo-European <*gʷṓws>: "cow, cattle"
+
+--> Pre-Albanian <*gauka>
+---> Albanian `gak`: "boar"
+
+--> Anatolian <​​*gwóʔu->
+---> Luwic
+----> Hieroglyphic Luwian `𔑺𔗬𔗔` <BOS-wa-sa>: "cow" (where `𔑺` <BOS> is a semantic determinative)
+----> Lycian `𐊇𐊀𐊇𐊀` <wawa>: "cow"
+
+--> Old Armenian `կով` <kov>: "cow"
+---> Armenian `կով` <kov>: "cow"
+
+--> Balto-Slavic <*gōw->
+---> Latvian `govs`: "cow"
+---> Slavic <*govę̀do>: "head of cattle, bull, ox"
+----> East Slavic `говѧдо` <govędo>
+-----> Russian `говя́до` <govjádo>: "cattle"
+----> South Slavic
+-----> Old Church Slavonic `говѧдо` <govędo>
+-----> Serbo-Croatian `го̀ведо` <gòvedo>: "cattle"
+----> West Slavic
+-----> Czech `hovado`: "cattle"
+
+--> Celtic <*bāus>
+---> Brythonic
+----> Middle Welsh `bu`
+---> Gaulish
+----> Gaulish <Bomarus>: "Cow-Great" (personal name)
+---> Old Irish `bó`: "ox, cow"
+----> Irish `bó`: "cow"
+-----> Irish `buachaill bó`: "cowherd, cowboy"
+-----> Irish `Táin Bó Cúailnge`: "The Cattle Raid of Cooley"
+--> Celtic <*bowkkā>
+---> Brythonic
+----> Welsh `buwch`: "cow"
+
+--> Germanic <*kūz>: "cow"
+---> North Germanic
+----> Old Norse `kýr`: "cow"
+-----> Danish `ko`: "cow"
+-----> Icelandic `kýr`: "cow"
+----> Samic <*kusë>
+-----> Northern Sami `gussa`: "cow"
+---> West Germanic
+----> Old English `cū`: "cow"
+-----> English `cow`
+-----> Scots `coo`: "cow"
+-----> Old English `cȳ`: "cows" (plural)
+------> Old English `cȳen`: "cows" (double plural)
+-------> English `kine`
+----> Frankish
+-----> Dutch `koe`: "cow"
+----> Old High German `kuo`
+-----> German `Kuh`: "cow"
+-----> Yiddish `קו‎‎` <ku>: "cow"‎
+
+--> Hellenic <*gʷous>
+---> Classical Greek `βοῦς` <boûs>: "ox, cow, cattle, shield"
+----> Koine Greek `βοΐδιον` <boḯdion> (diminuitive)
+-----> Greek `βόδι` <vódi>: "ox"
+----> Classical Greek `Βουκέφᾰλος` <Bouképhalos>: "Ox-Head" (horse name)
+-----> English `Bucephalus`
+----> Classical Greek `βόειος` <bóeios>: "bovine, pertaining to cows and oxen"
+-----> Classical Greek `βοείη` <boeíē>: "cowhide"
+------> Latin `boia`: "collar, fetter"
+-------> Western Romance
+--------> Old French `buie`: "fetter, chain"
+--------?> Old French `buie`: "buoy" (possible, but more likely from West Germanic cognate to "beacon")
+----------> Dutch `boei`: "buoy, shackle, fetter"
+-----------> English `buoy`
+------------> English `buoyant`
+
+----> Classical Greek `βουλῑμία` <boulīmía>: "ravenous hunger" (lit. "ox's hunger")
+-----> English `bulimia`
+----> Classical Greek `βουστροφηδόν` <boustrophēdón>: "writing that switches LtR/RtL with each line" (lit. "turning like an ox (ploughing a field)")
+-----> English `boustrophedon`
+----> Classical Greek `βούτῡρον` <boútūron>: "butter" (lit. "cow-cheese")
+-----> Latin `būtȳrum`: "butter"
+------> Central Romance
+-------> Italian `burro`: "butter"
+------> Western Romance
+-------> French `beurre`: "butter"
+-------> West Germanic <*buterǭ>
+--------> Old English `butere`: "butter"
+---------> English `butter`
+--------> Frankish <*butero>
+---------> Dutch `boter`: "butter"
+--------> Old High German `butira`: "butter"
+---------> German `Butter`: "butter"
+----------> Serbo-Croatian `пу̏тер` <pȕter>: "butter"
+---------> Yiddish `פּוטער‎` <puter>: "butter"
+----> Classical Greek `ἑκατόμβη` <hekatómbē>: "animal sacrifice, hecatomb, great sacrifice" (lit. "hundred oxen")
+-----> Latin `hecatombē`
+------> English `hecatomb`
+
+---> Hellenic <*gʷouskō>: "to tend to cows"
+----> Classical Greek `βόσκω` <bóskō>: "to graze, to feed, to tend to a herd"
+-----> Greek `βόσκω` <vósko>: "to graze"
+-----> Classical Greek `βοτᾰ́νη` <botánē>: "grass, fodder, herbs"
+------> Classical Greek `βοτανικός` <botanikós>: "of herbs, botanical"
+-------> Greek `βοτανικός` <votanikós>: "botanical"
+-------> Medieval Latin `botanicus`
+--------> French `botanique`: "botanical"
+---------> English `botanic`
+----------> English `botany` (backformation)
+
+
+--> Indo-Iranian <*gā́wš>
+---> Indo-Aryan
+----> Dardic <*gā́va>
+-----> Kashmiri `گاو‎` <gāv>: "
+----> Sanskrit `𑀕𑁄` <gó>: "cow, ox, cattle" 
+-----> Maharashtri
+------> Marathi `गाय` <gāy>: "cow" (from <gavi> form)
+-----> Sauraseni `𑀕𑀸𑀈` <gāī> (from <gavi> form)
+------> Madhya
+-------> Hindi `गाय` <gāy>: "cow"
+-----> Pali <go>
+------> Khmer `គោ` <koo>: "ox, cow, bull"
+------> Thai `โค` <koo>: "cow, ox"
+-----> Telugu `గోవు` <gōvu>: "cow, ox"
+-----> Sanskrit `𑀕𑁄𑀭𑀽𑀧` <gorūpá>: "bovine, cow-like, cow-shaped"
+------> Magadhi
+-------> Bengali `গোরু` <goru>: "cow, ox, cattle"
+------> Maharastri
+-------> Marathi `गुरू` <gurū>: "cattle"
+------> Sauraseni
+-------> Romani `guruv`: "ox, bull"
+-----> Sanskrit `𑀕𑁄𑀢𑁆𑀭` <gotra>: "cow-pen, enclosure, homestead, family, tribe"
+------> Pali
+-------> Thai `โคตร` <kôot>: "ancestry, clan, lineage"
+------> Telugu `గోత్రము` <gōtramu>: "family, tribe, lineage"
+-----> Sanskrit `𑀕𑁄𑀤𑀸𑀯𑀭𑀻` <Godāvarī>: "Cow-giver" (river name)
+------> Maharashtri
+-------> Marathi `गोदावरी` <Godāvarī>
+--------> English `Godavari`
+-----> Sanskrit `𑀕𑁄𑀧𑀸𑀮` <gópālá>: "cowherd" (kenning of "king", epithet of Krishna and Shiva)
+------> Sauraseni
+-------> Madhya
+--------> Hindi `ग्वाला` <gvālā>: "herdsman, milkman"
+------> Telugu `గోపాలుడు` <gōpāluḍu>: "cowherd, king"
+---> Iranian <*gā́wš>: "cow"
+----> Avestan `𐬔𐬀𐬊‎` <gao>: "cow, bull"
+-----> Avestan <gao-čiθra>: "epithet of the moon, appears as a bull? lineage of a bull? splendor of a bull?"
+----> Northern Iranian
+-----> Ossetian `хъуг` <qug>: "cow"
+----> Pashto `غوا` <ghwā>: "cow"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Balochi `گوک‎` <gúk>: "cow"
+------> Kurdish `ga`: "ox, bull"
+-----> Old Persian
+------> Persian `گاو‎` <gāv>: "cow"
+---> Nuristani <*gā>
+----> Kamviri <go>
+---> Indo-Iranian <*gā́wajana>: "cattle-goad"
+----> Indo-Aryan
+-----> Sanskrit `𑀕𑀯𑀚𑀦` <gavájana>
+----> Iranian
+-----> Avestan `𐬔𐬀𐬎𐬎𐬁𐬰𐬀`‎ <gauuāza>: "ox-goad"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Parthian
+--------> Old Armenian `գաւազան` <gawazan>: "goad, cudgel, punishment, staff, authority, diocese"
+---------> Armenian `գավազան` <gavazan>: "staff, shepherd's crook, scepter, authority"
+------> Old Persian
+-------> Persian `گوازه` <gavāza>: "ox-goad"
+-------> Persian `گاوزنه` <gâvzane>: "ox-goad"
+
+--> Italic <*gʷōs>
+---> Osco-Umbrian
+----> Oscan <buv->
+----> Umbrian `𐌁𐌖𐌌` <bum>: "cow" (only attested as accusative)
+----> Latin `bōs`: "cow, ox" (expected Latin would be <**ūs>/<**vōs>)
+-----> Central Romance
+------> Italian `bove`: "ox" (from Acc.: `bove(m)`)
+-----> Western Romance
+------> French `bœuf`: "ox, beef" (from Acc.: `bove(m)`)
+-------> English `beef`
+------> Spanish `buey`: "ox, steer"
+-------> Mexican Spanish `güey`
+-----> Latin `bovīnus`
+------> English `bovine`
+
+--> Thracian <*bonasos?>: "a bull"
+---> Classical Greek `βόνασος` <bonasos>: "European bison, wisent"
+
+--> Tocharian <*kewä>
+---> Arshian <ko>: "cow"
+---> Kushean <keᵤ>: "cow"
+
+
+--> Proto-Indo-European <*gʷowkólos>: "cowherd" #
+
+---> Celtic <*boukolyos>
+----> Brythonic
+-----> Welsh `bugail`: "shepherd, pastor"
+----> Old Irish `búachaill`: "cowherd, herdsman"
+-----> Irish `buachaill`: "boy, boyfriend, herdsman, (male) employee"
+-----> Irish `buachaill bó`: "cowherd, cowboy"
+
+---> Hellenic <*gʷoukólos> 
+----> Mycenaean Greek `𐀦𐀄𐀒𐀫` <qo-u-ko-ro>: "cowherders"
+----> Classical Greek `βουκόλος` <boukólos>: "cowherd"
+-----> Classical Greek `βουκολῐκός` <boukolikós>: "rustic, pastoral, pastoral poetry"
+------> Latin `būcolicus`: "pertaining to shepherds, bucolic"
+-------> English `bucolic`
+
+
+
+-?> Proto-Indo-European <**gʷow(s)éh₂>
+--?> Proto-Indo-European <*woḱéh₂>: "(female) cow"
+
+----> Indo-Iranian <*waĉáH>
+-----> Indo-Aryan <*waśáH>
+------> Sanskrit `𑀯𑀰𑀸` <vaśā́>: "cow"
+----> Italic <*wokā>
+-----> Latin `vacca`: "(female) cow"
+------> Central Romance
+-------> Italian `vacca`
+------> Eastern Romance
+-------> Romanian `vacă`: "cow, beef"
+------> Insular Romance
+-------> Sardinian `bacca`: "cow"
+------> Western Romance
+-------> French `vache`
+-------> Spanish `vaca`: "cow, beef, leather"
+--------> Cherokee `ᏩᎦ` <waga>: "cow"
+--------> Nahuatl `huācax`: "cow"
+--------> Navajo `béégashii`: "cow"
+--------> Quechua `waka`: "cow"
+------> Latin `vaccīnus`: "of or derived from a cow"
+-------> Central Romance
+--------> Italian `vaccino`: "bovine, vaccine"
+-------> Western Romance
+--------> French `vaccin`
+---------> English `vaccine`
+----------> Irish `vacsaín`
+----------> Japanese `ワクチン` <wakuchin>
+----------> Korean `백신` <baeksin>
+---------> Persian `واکسن` <vâksan>
+---------> Russian `вакци́на` <vakcína>
+---------> Vietnamese `vắc-xin`
+------> Latin <*vaccārius>: "cowherder"
+-------> Central Romance
+--------> Italian `vaccaio`: "cowherd"
+-------> Eastern Romance
+--------> Romanian `văcar`: "cowherd"
+-------> Western Romance
+--------> French `vacher`: "cowherd"
+--------> Spanish `vaquero`: "cowherd, cowboy, jeans"
+--------?> English `buckaroo`
+
+
+
+?> Sino-Tibetan <*ŋwa>: "cattle, ox"
+--> Old Chinese `牛` <*ŋʷɯ>: "cow, ox, buffalo, bovine, beef"
+---> Middle Chinese `牛`
+----> Mandarin `牛` <niú>
+----> Wu `牛` <nyieu3>
+----> Yue `牛` <ngau4>
+----> Japanese `ぎゅう` <gyū>: "cow, ox, cattle"
+---> Min `牛`
+----> Hokkien `牛` <gû>
+--> Tibeto-Burman
+---> Lolo-Burmese
+---?> Southwestern Tai
+-----> Lao `ງົວ` <ngūa>: "cow"
+-----> Thai `วัว` <wuua>: "cow, bovine"
+---> Tibeto-Kanauri
+----> Tibetan `བ` <ba>: "cow"
+-----> Tibetan `བ་ཕྱུགས` <ba phyugs>: "cattle" (lit. "domestic cow" or "cow-wealth"?)
+----?> Tibetan <?>
+------> French `zébu` (from an unknown Tibetan word which might have included `བ` <ba>)
+-------> English `zebu`
+
+
+?> Vietic <*bɔː>: "bovine, zebu"
+--> Vietnamese `bò`: "zebu, (straight-horned) bovine"
+
+endbody
+
+startnotes
+
+# Proto-Indo-European <*gʷowkólos>: "cowherd" is composed of <*gʷow->: "cow" + <*kʷólos>: "herder" from <*kʷel->: "to turn, to move, to cultivate". But the sequence of two labio-velars dissimilates from <*gʷ...kʷ> to <*gʷ...k>. This is, in fact, called "the boukólos rule" after this example. If there wasn't dissimilation the Greek would be `βουπόλος` <boupólos> instead.
+
+endnotes

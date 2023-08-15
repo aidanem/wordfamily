@@ -1,0 +1,107 @@
+date: 20170630
+tags: Toponymy, Sci-fi
+
+
+startbody
+
+
+
+Celtic <*windos>: "white"
+
+-> Brythonic <*gwɨnn>: "white"
+--> Welsh `gwyn`: "white, fair, shining, blessed"
+---> Welsh `Gwendolen`: "White-Ring" (personal name)
+---> Welsh `-wen`
+----> Welsh `Anwen`: "Very-Fair" (personal name)
+----> Welsh `Blodwen`: "Flower-Fair" (personal name)
+----> Welsh `Branwen`: "Raven-Fair" (personal name)
+----> Welsh (many other names)
+--> Cornish `gwen`: "white"
+--> Breton `gwenn`: "white"
+---> French `Le Guen`: "The White" (Breton surname)
+----> English `Le Guin`
+
+-> Gaulish
+--> Old French
+---> French `vandoise`: "dace, chub" (a small, white fish)
+
+-> Old Irish `finn`: "white, bright"
+--> Irish `fionn`: "fair, blond, cataract"
+--> Old Irish `Finn` (personal name)
+---> Old Irish `Finn mac Cumhail` ###
+----> English `Finn MacCool`
+---> Irish `Fionn`
+----> Irish `Finnagán` (diminutive)
+-----> English `Finnegan`
+---> Irish `Fiona`
+----> English `Fiona`
+---> Irish `Fionnbhara`: "White-Head"
+----> English `Finbar`
+---> Irish `Fionnuala`: "White-Shoulder"
+----> English `Finnula`
+---> Irish `Fionntan`
+----> English `Fintan`
+
+-> Celtic <*Windosēbaris>: "white-spirit", personal name
+--> Brythonic <*Gwɨnnhuɨβar>
+---> Cornish `Gwynnever`
+----> English `Jennifer`
+---> Welsh `Gwenhwyfar`
+----> French `Guenièvre`
+-----> English `Guinevere`
+-?> Old Irish `Finnabair`
+
+-> Celtic <*Kʷennowindos>: personal name
+--> Brythonic <*Penngwɨnn>
+---> Welsh `pengwyn`: "white-head, White Head Island?, great auk?" #
+---?> English `penguin` ####
+--> Gaulish <*Pennouindos>: personal name
+---> Greek `Πεννοουινδος` <Pennoouindos>
+---> Galician `Pena Oubiña` #
+--> Primitive Irish `ᚊᚓᚅᚒᚃᚓᚅᚇᚐᚅᚔ` <Qenufendani>
+---> Old Irish `Cennfinn` (a mythological harper who came to Ireland with the Sons of Mil)
+
+?> Celtic <Windobona> ##
+--> Latin `Vindobona` ##: Roman fort at the site
+---> Western Romance
+----> Old French
+-----> French `Vienne`
+-----> English `Vienna`
+----> Italian `Vienna`
+----> German `Wien`: "Vienna"
+-----> German `Wiener`: "Person or thing from Vienna"
+------> German `Wiener Schnitzel`: "wienerschnitzel" (lit. "Viennese Cut")
+-------> English `wienerschnitzel`
+------> German `Wienerwurst`: "Viennese sausage"
+-------> English `wiener`
+
+--> West Slavic
+---> Czech `Vídeň`: "Vienna"
+---> Polish `Wiedeń`: "Vienna"
+
+--> Germanic <*winidaz>: "Slav, Wend"
+---> Old English `Winedas`: "Slav, Wend"
+---> German `Wende`: "Wend" (West Slavic ethnic group on the border of Germany and Poland)
+----> English `Wend`
+---> Old Norse `Vindr`: "Slav"
+----> Finnish `Venäjä`: "Russia"
+----> Estonian `vene`: "Russian"
+-----> Estonian `Venemaa`: "Russia"
+
+endbody
+
+startnotes
+
+# Welsh <pengwyn> is probably actually rederived transparently in Welsh, rather than descended directy, but it seemed more organized to attach it here.
+
+Likewise, : Galician <Pena Oubiña> (name of a mountain in Galicia in Northwest Spain) is likewise probably derived from a transparent phrase in Late Gaulish, and not from the Proto-Celtic personal name.
+
+## Celtic <*Windobona>, tentatively derived as "white-base (of a hill)" or "white-village", was a settlement where Vienna would be. When the Romans built a fort there, they kept the name as Vindobona. The later Western Romance name may have been conflated with <*Vedunia>: "forest stream", before giving Italian `Vienna` and French `Vienne`.
+
+
+### Finn MacCool, a legendary Irish hero, sometimes described as having prematurely white hair.
+
+
+####  "Penguin" originally meant the great auk, later extended to penguins.
+
+endnotes

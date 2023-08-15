@@ -1,0 +1,74 @@
+date: 20171006
+theme: Ancient Borrowings 𒅴
+
+Teaser: mummy, M
+
+startbody
+
+Proto-Afro-Asiatic <*maʾ->
+-> Berber
+--> Tashelhit <aman>: "water"
+--> Tuareg `ⵎⵏ` <aman>: "water"
+-> Chadic
+--> West Chadic
+---> Tangale <am>: "water"
+-> Egyptian `𓈖` <mw>: "water, rain, sea, lake"¹
+--> Demotic Egyptian <mw>
+---> Coptic `ⲙⲟⲟⲩ` <moou>: "water"
+---> Egyptian Arabic `امبو` <ʾumbū>: "water, drink" (childish)
+---> Ancient Greek `μῦ` <mû> ¹
+----> Greek `μι` <mi>
+----> English `mu`
+-----> English `muon`
+-> Semitic <*maʾ->
+--> East Semitic
+---> Akkadian `𒀀` <mû>: "water"
+--> South Semitic
+---> Sabaean `𐩣𐩥` <mw>: "water"
+---> Ethiopic
+----> Ge'ez `ማይ` <māy>: "water"
+--> Central Semitic
+---> Classical Arabic `مَاء‏` <māʾ>: "water, liquid, juice"
+----> Egyptian Arabic `مية‏` <máyya>: "water"
+----> Maghrebi Arabic
+-----> Moroccan Arabic `ما` <mā>: "water"
+-----> Sicilian Arabic
+------> Maltese `ilma`: "water"
+----> Peninsular Arabic
+-----> Hijazi Arabic `مويَة` <mōya>: "water, body of water"
+---> Northwest Semitic
+----> Aramaic `מַיָּא‏` <mayyā>: "water"
+----> Canaanite
+-----> Hebrew `מַיִם` <máyim>: "water"
+-----> Phoenician `𐤌𐤌` <mm>: "water"¹
+
+---?> Middle Persian <*mōm>: "wax"
+-----> Armenian `մոմ` <mom>: "wax, candle"
+-----> Persian `موم` <mum>: "wax, candle"
+------> Ottoman Turkish `موم‏` <mûm>
+-------> Turkish `mum`: "candle"
+------> Hindi `मोम` <mom>: "wax"
+-------> Hindi `मोमबत्ती` <mombattī>: "candle"
+
+------> Persian `مومیا` <mumiyâ>: "waxy substance covering mummies, mummy"²
+-------> Tajik
+--------> Russian `мумиё` <mumijó>: "mineral tar, mountain balsam, shilajit"
+---------> English `mumijo`
+
+-------> Classical Arabic `مُومِيَاء‏` <mūmiyāʾ>: "mummy"
+--------> Andalusi Arabic
+---------> Spanish <momia>: "mummy"
+--------> Egyptian Arabic `موميا‏` <mūmiyā>: "mummy"
+
+--------> Medieval Latin `mumia`: "mummy"
+---------> French `momie`: "mummy"
+----------> English `mummy`
+-----------> Irish `mumaí`: "mummy"
+---------> Italian `mummia`: "mummy"
+
+--------> ?
+---------> Imperial Mandarin `木乃伊`
+----------> Mandarin `木乃伊` <mùnǎiyī>: "mummy"
+----------> Cantonese `木乃伊` <muk6 naai5 ji1>: "mummy"
+
+endbody

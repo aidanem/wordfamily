@@ -1,0 +1,177 @@
+date: 20230804
+tags: Titles, Toponymy
+
+
+
+startintro
+
+Dr. Melenaite Taumoefolau makes a compelling and intriguing argument: that Nuclear Polynesian <*sawaiki>: "traditional/mythological homeland"—whence `Hawaii`=eng-Latn—may be a cognate of <*sau ʔariki> borrowed from the Tongic branch into Nuclear Polynesian. (Note that <*sawaiki> can only be reconstructed to NP, it is not present in Tongic or other related groups.)
+
+Tongic reflexes of <*ʔariki> all show loss of the the <*r>: Niuēan `iki`=niu-Latn , Tongan `ʻeiki`=ton-Latn, Tongan `houʻeiki`=ton-Latn. And Nuclear Polynesian had lost the Proto-Polynesian <*ʔ>; so a borrowing from Tongic to Nuclear Polynesian would strip both <*ʔ> and <*r> from <*sau ʔariki>, leaving <*sau aiki>. Once interpreted as monomorphemic in the borrowing language, the stress would shift, changing <*u> to <*w>, completing the transformation into reconstructed NP <*sawaiki>!
+
+This borrowing presumably would presumably be linked with the second wave of colonization from western Tonga to the already inhabited Marquesas Islands (necessarily also passing through the Society Islands between) that happened a little before the expansion of the Marquesan and Tahitic language subfamilies to the remote islands.
+
+If this theory is correct, then Hawaiʻian has doublets `aualiʻi`=haw-Latn (normal development) vs `Hawaiʻi`=haw-Latn (borrowing from Tongic to NP); and likewise Tongan has doublets `houʻeiki`=ton-Latn (normal development) vs `Hauaiʻi`=ton-Latn (re-borrowing from Hawaiʻian).
+
+I have not been able to find any information about the Fijian (Oceanic, non-Polynesian) place name `Sawaieke`=fij-Latn, and how or whether it fits in to this.
+
+endintro
+
+
+
+
+startbody
+
+
+Oceanic <*sau>
+
+-> Fijian `sau`: "high chief"
+
+-> Polynesian <*sau>
+
+--> Nuclear Polynesian <*sau>
+
+---> Eastern Polynesian <*hau>
+----> Marquesic
+-----> Marquesan `hau`: "government"
+----> Tahitic
+-----> Tahitian `hau`: "peace, government, nation, homeland"
+
+--> Tongic <*hau>
+---> Tongan `hau`: "ruler, to rule, to conquer"
+----> Tongan `tukuhau`: "tribute, taxes" (lit. "let go to the ruler")
+
+
+
+--> Polynesian <*faka-sau>: "to be like a ruler" (with causative/simulative <*faka->)
+
+---> Tongic
+----> Tongan `fakahau`: "tyrannical, rigorous, troublesome"
+
+---> Nuclear Polynesian <*faka-sau>
+
+----> Eastern Polynesian <*faka-hau>
+
+-----> Tahitic
+------> Māori `whakahau`: "to rule, to command"
+
+
+-?> Polynesian <*sau-malu>: "~shelter of authority?" (with <*malu>: "shade, shelter", but uncertain that it is the same <*sau>)
+
+---> Nuclear Polynesian <*sau-malu>
+
+----> Eastern Polynesian <*hau-malu>
+
+-----> Rapa Nui `haumarū`: "peace"`
+-----> Marquesic
+------> Hawaiʻian `haumalu`: "quiet"
+-----> Tahitic <*hau-maru>
+------> Māori `haumaru`: "safety, shelter"
+-------> Māori `mōhiti haumaru`: "safety googles"
+
+
+--> Polynesian <*sau-ʔariki>: "council of chiefs? high chief? aristocratic government?"
+
+
+
+
+Malayo-Polynesian <*haɟi>: "king, chief"
+
+-> Kawi <haji>
+--> Javanese `ꦲꦗꦶ` <aji>: "king"
+--> Tagalog `hari`: "king"
+
+-> Malayic
+--> Malay `aji`: "king"
+
+-> Philippine
+--> Ilokano `ári`: "king"
+
+
+-> Oceanic <*ari>
+
+-?> Polynesian <*ʔariki>: "foremost, noble, chief" ##
+
+---> Nuclear Polynesian <*aliki>
+----> Samoic
+-----> Samoan `aliʻi`
+----> Eastern Polynesian <*aliki>
+-----> Marquesic
+------> Hawaiʻian `aliʻi`: "noble, ruler, monarch, royal, to rule, to govern"
+-------> Hawaiʻian `naʻau aliʻi`: "beneficent, forgiving, loving, kind" (lit. "noble mind/heart/temper")
+------> Marquesan `aʻiki`: "chief, steward, rich man"
+-----> Tahitic <*ariki>
+------> Māori `ariki`: "high chief, lord, god, noble, first born (in a noble family)"
+-------> Māori `whānau ariki`: "noble family, celestial bodies of the solar system"
+-------> Māori `whare ariki`: "royal house, royal flush (poker)"
+-------> Māori `Ngā mata o te ariki o Tāwhirimātea`: "the Pleiades" ("the Eyes of the God Tāwhirimātea"/"the Eyes of the Lord of Tāwhirimātea")
+--------> Māori `Matariki`: "the Pleiades" (contraction)
+------> Tahitian `ariʻi`: "high chief, king"
+
+---> Tongic <*ʔaiki>
+----> Niuēan `iki`
+----> Tongan `ʻeiki`: "noble"
+
+---> Outlier Polynesian
+----> Tikopia `ariki`: "chief, chiefly, to become chief"
+
+
+
+---> Polynesian <*sau-ʔariki>: "council of chiefs? high chief? aristocratic government?"
+
+----> Nuclear Polynesian <*sau-aliki>
+-----> Samoic
+------> Samoan `saualiʻi`: "spirits"
+------> Tokelauan `haualiki`: "demigod"
+-----> Eastern Polynesian <*hau-aliki>
+------> Marquesic
+-------> Hawaiʻian `aualiʻi`
+------> Tahitic <*hau-ariki>
+-------> Tahitian `hau ari'i`: "government, kingdom, kingship"
+
+----> Outlier Polynesian
+-----> Tikopia `sau ariki`: "to select a chief"
+
+----> Tongic <*sau-ʔiki>
+-----> Tongan `houʻeiki`: "chiefs" (irregular plural of `ʻeiki`=ton-Latn)
+
+----?> Nuclear Polynesian <*sawaiki>: "traditional/mythological homeland"
+------> Samoic
+-------> Samoan `Savai'i`: "island in western Samoa (also called Salafai)"
+------> Eastern Polynesian
+-------> Marquesic
+--------> Hawaiʻian `Hawaiʻi`: "the Hawaiian Islands, the Island of Hawaii, Hawaiian"
+---------> English `Hawaii`
+----------> Cantonese `夏威夷` <haa⁶ wai¹ ji⁴>
+-----------> Mandarin `夏威夷` <Xiàwēiyí>
+----------> Japanese `ハワイ` <Hawai>
+----------> Spanish `Hawái`
+-----------> Tagalog `Haway`
+---------> Tongan `Hauaiʻi`
+--------> Marquesan `Havaiʻi`: "underworld, mythical homeland of the first humans in the west"
+-------> Tahitic
+--------> Māori `Hawaiki`: "ancient homeland, where the voyage to Aotearoa left from and where souls return after death"
+--------> Tahitian `Havaiʻi`
+
+
+
+
+
+
+
+endbody
+
+
+startnotes
+
+
+## Polynesian <*ʔariki>: "foremost, noble, chief" seems like it should be connected to Javanese and Malay `aji`=msa-Latn and Ilokano `ári`=ilo-Latn, all meaning "king" (Malayo-Polynesian <*haɟi>), but the correspondence between Proto-Malayo-Polynesian <*h-> and Polynesian <*ʔ-> is irregular.
+
+I wish I could find an Oceanic but non-Polynesian reflex to help bridge the gap. In the absence of that, it's very possible that Malay and Ilokano also borrowed the word from Kawa (Old Javanese)—as Tagalog did—and there is no real correspondence above the Polynesian level.
+
+If there is a correspondence, the extra <*-ki> can be explained as the same as the derivational suffix seen in various other pairs of words, like <*muʔa>: "before, in front" and <*muʔa-ki>: "to be first, to lead" or <*lua> and <*lua-ki>, both "to vomit"—probably a variant of <*-ʔaki> which forms verbs from nouns or adds an intensive or iterative meaning. (Note that in Polynesian languages adjectives and stative verbs, and even noun are not very distinct from each other; while <*ʔariki> usually seems noun- or adjective-like, that doesn't stop it from being derived from verb morphology.)
+
+
+
+
+endnotes

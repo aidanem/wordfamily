@@ -1,0 +1,518 @@
+date: 20180119
+theme: Aristocratic Titles 👑
+tags: Titles
+
+
+
+startbody
+
+Proto-Indo-European <*ǵenh₁->: "to produce, to beget, to give birth"
+
+-> Proto-Indo-European <*ǵénh₁ti>: "produce, beget, give birth" (present)
+
+--> Celtic <*gniyeti>
+---> Old Irish `gníid`: "to do, to work"
+----> Old Irish `do-gní`: "to do, to make"
+-----> Irish `déan`: "do, make"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀦𑀢𑀺` <janati>: "to give birth, to beget, to create, to cause, to assign"
+---> Iranian <*zan->
+----> Avestan <zå>: "to give birth"
+----> Western Iranian
+-----> Kurdish `zan`
+-----> Old Persian
+------> Persian `زادن` (zâdan): "to give birth"
+----> Iranian <*āzāta->: "born, born into the clan, freeman, noble"
+-----> Avestan `𐬁𐬰𐬁𐬙𐬀` <āzāta->: "noble"
+-----> Western Iranian
+------> Old Persian <*āzāta->
+-------> Parthian `𐭀𐭆𐭀𐭕` <āzāt>: "noble"
+--------> Old Armenian `ազատ` <azat>: "noble, free, independent, affranchised"
+---------> Armenian `ազատ` <azat>: "free"
+-------> Persian `آزاد` <âzâd>: "independent, unimpeded, free, liberal" (also a personal name)
+--------> Hindi `आज़ाद` <āzād>: "free, independent"
+--------> Ottoman Turkish `آزاد` <azad>: "independent, unimpeded, liberal, free"
+---------> Turkish `azat`: "free"
+---------> Greek `αζάτι` <azáti>: "unlimited, free"
+
+
+-> Proto-Indo-European <*ǵn̥h₁yétor>
+
+--> Celtic <*ganyetor>: "to be born"
+---> Brythonic
+----> Welsh `geni`: "to be born"
+---> Old Irish `gainithir`: "to be born"
+----> Irish `gin`: "to give birth to, to germinate, to originate, to beget, to produce, to generate, birth, offspring, child"
+
+--> Hellenic <*géňňomai>
+---> Ancient Greek `γείνομαι` <geínomai>: "I am born, I beget"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀸𑀬𑀢𑁂` <jāyate>: "to be born, to grow, to change"
+
+
+-> Proto-Indo-European <*ǵíǵn̥h₁eti> (reduplicated present)
+
+--> Hellenic
+---> Ancient Greek `γίγνομαι` <gígnomai>: "I am born, I am produced, I take place" ##########
+
+--> Italic <*gignō>
+---> Latin `gignō`: "I beget, I give birth to, I produce, I cause"
+----> Latin `genitus`: "begotten, produced"
+-----> Latin `genetīvus`: "belonging by birth, native, belonging to a family or clan, genitive case"
+------> English `genitive`
+-----> Latin `genitālis`: "related to generation or birth, fruitful, generative"
+------> English `genital`
+-----> Latin `progignō`: "I beget, I produce"
+------> Latin `prōgeniēs`: "race, family, progeny"
+-------> French `progéniture`: "offspring, progeny"
+-------> English `progeny`
+-------> Italian `progenie`: "descent, lineage, descendants"
+-----> Latin `ingenuus`: "natural, free-born, noble, upright, candid, ingenuous, tender"
+------> Western Romance
+-------> French `ingénu`: "ingenuous"
+--------> English `ingenue`
+-------> Italian `ingenuou`: "naive, ingenuous, candid"
+-------> Spanish `ingenuo`: "naive, ingenuous, innocent, candid"
+------> English `ingenuous`
+-----> Latin `-genus`: "born of"
+------> Latin `indigenus`: "native, indigenous, denizen"
+-------> English `indigenous`
+------> Latin `ingenium`: "inborn, innate quality, talent, genius, invention, siege engine"
+-------> Western Romance
+--------> French `engin`: "machine, military equipment, gizmo, tool, apparatus"
+---------> English `engine`
+---------> English `gin` (as in `cotton gin`)
+-------> Spanish `ingenio`: "genius, mind"
+-------> Latin `ingeniōsus`: "clever, ingenious, gifted with genius"
+--------> French `ingénieuse`: "ingenious"
+---------> English `ingenious`
+--------> Spanish `ingenioso`: "ingenious"
+-------> Medieval Latin `ingeniator`: "engineer, engine-user"
+--------> French `ingénieur`: "engineer"
+---------> English `engineer`
+---------> Spanish `ingeniero`: "engineer"
+
+
+-> Proto-Indo-European <*ǵn̥h₁sḱéti>
+
+--> Italic <*gnāskōr>
+---> Latin `nāscor`: "I am born, I arise, I grow, I am X years old"
+----> Eastern Romance
+-----> Romanian `a naște`: "to give birth, to bear, to be born"
+----> Western Romance
+-----> French `naître`: "to be born"
+-----> Italian `nascere`: "to be born, to sprout"
+-----> Spanish `nacer`: "to be born, to sprout, to grow, to rise"
+----> Latin `nātiō`: "birth, nation, race"
+-----> Eastern Romance
+------> Romanian `națiune`
+-----> Western Romance
+------> French `nation`
+-------> English `nation`
+------> Italian `nazione`
+------> Spanish `nación`
+----> Latin `nāscēns`
+-----> French `naissant`: "nascent"
+-----> English `nascent`
+-----> Latin `nascentia`
+-----> Western Romance
+------> French `naissance`
+-------> French `renaissance`
+--------> English `Renaissance`
+----> Latin `praegnās`: "pregnant, with child" (lit. "pre-born")
+-----> Eastern Romance
+------> Dalmatian `prin`: "pregnant"
+-----> Western Romance
+------> Italian `pregno`: "pregnant, full"
+-----> French `prégnant`: "pregnant, meaningful, forceful"
+------> English `pregnant`
+----> Latin `nātīvus`: "created, made, inborn, natural"
+-----> Western Romance
+------> French `naïf`: "naive"
+-------> English `naive`
+------> Italian `nativo`: "native"
+------> Spanish `nativo`: "native"
+-----> French `natif`: "native, original, raw"
+------> English `native`
+-----> Latin `nātīvitās`: "birth, nativity, Christmas"
+------> Western Romance
+-------> French `nativité`
+--------> English `nativity`
+-------> Italian `natività`
+-------> Spanish `navidad`
+----> Latin `nātūra`: "nature, quality, essence, temperament, inclination, the natural world"
+-----> Western Romance
+------> French `nature`
+-------> English `nature`
+------> Italian `natura`: "nature"
+------> Spanish `natura`: "nature"
+
+
+-> Proto-Indo-European <*ǵonh₁éh₂>
+
+--> Hellenic <*gonā́>
+---> Ancient Greek `γονή` <gonḗ>: "offspring, family, parentage, generation, seed, genitals, womb, birth"
+----> English `-gony`
+-----> English `glottogony`
+
+
+-> Proto-Indo-European <*ǵénh₁mn̥>: "offspring, seed"
+
+--> Celtic <*genaman>
+---> Old Irish `genemain`
+----> Irish `giniúint`: "procreation, conception, birth, germination, embryo"
+
+--> Italic <*genamen>
+---> Latin `genimen`: "product, fruit, progeny, brood"
+---> Latin `germen`: "seed, bud, sprout, origin, embryo, fetus"
+----> Western Romance
+-----> French `germe`: "germ, seed"
+------> English `germ`
+-----> Italian `germe`: "germ, seed"
+----> Latin `germinō`: "I sprout"
+-----> Latin `germinātus`: "sprouted"
+-------> English `germinate`
+----> Latin `germānus`: "sibling, brotherly or sisterly" #
+-----> Western Romance
+------> French `germain`: "full sibling"
+-------> English `germane`: "relevant, related to a topic"
+-------> English `german`: "full sibling"
+------> Italian `germano`: "full sibling, brother"
+------> Spanish `hermano`: "brother, sibling"
+
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀦𑀺𑀫𑀦𑁆` <jániman>: "germination, birth, origin"
+
+
+-> Proto-Indo-European <*ǵónh₁os>
+
+--> Hellenic <*gónos>
+---> Ancient Greek `γόνος` <gónos>
+----> English `gon-`
+-----> English `gonad`
+
+--> Indo-Iranian <*ĵánHas>
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀦` <jána>: "generating"
+-----> Hindi `-जन` <-jan>: "-gen"
+------> Hindi `उदजन` <udjan>: "hydrogen" ##
+
+
+-> Proto-Indo-European <*ǵénh₁os>: "birth, lineage, family"
+
+--> Armenian
+---> Old Armenian `ծին` <cin>: "birth, delivery, origin, womb"
+----> Armenian `ծին` <cin>: "birth (mostly used of animals)"
+
+--> Celtic <*genos>: "family, clan, birth"
+---> Brythonic <*gen>
+----> Breton `genel`: "to bear (child)"
+---> Celtic <*Morigenos>: "Sea-Born (personal name)" ###
+----> Brythonic <*Morigenā>
+-----> Old Welsh `Morgen` ###
+-----?> English `Morgan le Fay`
+-----?> Welsh `morgen`: "water spirit, siren"
+----> Old Irish `Muirgein` ###
+--?> Celtic <*enigenās>: "born-in, child of the family"
+----> Primitive Irish `ᚔᚅᚔᚌᚓᚅᚐ` <inigena>: "daughter"
+-----> Old Irish `ingen`: "daughter, young woman, maiden" ####
+------> Irish `iníon`: "daughter, girl, young woman, Miss"
+------> English `Innogen` ####
+-------> English `Imogen` ####
+
+--> Hellenic <*génos>
+---> Ancient Greek `γένος` <génos>
+----> Ancient Greek `-γενής` <-genḗs>
+-----> French `-gène`: "-gen, -genic"
+------> English `-gen`
+------> French `hydrogène`: "hydrogen" ##
+-------> English `hydrogen` ##
+----> Ancient Greek `Εὐγένῐος` <Eugénios>: "Well-Born (personal name)"
+-----> Latin `Eugenius`
+------> French `Eugène`
+-------> English `Eugene`
+-----> Russian `Евге́ний` <Yevgeny>
+----?> Old Welsh `Ougein`
+------> Welsh `Owain`
+-------> English `Owen`
+----> Classical Syriac `ܓܢܣܐ` <gensā>: "kind, sort, genus, family, race, nation, gender, grammatical gender"
+-----> Arabic `جِنْس` <jins>: "kind, sort, species, genus, gender, grammatical gender, race, nation"
+------> Arabic `جَنَّسَ` <jannasa>: "to assimilate, to naturalize, to sort, to categorize"
+------> Persian `جنس` <jens>: "kind, genus, genre, gender, grammatical gender, goods"
+
+--> Indo-Iranian <*ĵánHas>
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀦𑀲𑁆` <jánas>: "race, class of beings"
+-----> Sanskrit `​​𑀚𑀦𑀧𑀤` <janapada>
+---> Iranian
+----> Avestan <*zana>: "race"
+-----> Avestan `𐬯𐬭𐬎𐬎𐬋𐬰𐬀𐬥𐬀` <sruuōzana>: "of the race of horned animals"
+----> Western Iranian
+-----> Old Persian `𐏀𐎴` <zana>: "man, tribe, race"
+
+--> Italic <*genos>
+---> Latin `genus`: "birth, origin, kind, type, class, species, race, set, grammatical gender"
+----> Western Romance
+-----> Old French `gendre`
+------> English `gender`
+------> French `genre`
+-------> English `genre`
+----> English `genus`
+----> Latin `generis`: "of a kind" (single genetive of <genus>)
+-----> English `sui generis`
+-----> French `générique`
+------> English `generic`
+----> Latin `generālis`: "general, generic>
+-----> Western Romance
+------> French `général`: "general, usual"
+-------> English `general` #####
+------> Italian `generale`: "general"
+------> Spanish `general`: "general"
+----> Latin `generō`: "I beget, I reproduce"
+-----> French `générer`: "to generate"
+-----> Latin `generātiō`
+------> Western Romance
+-------> French `génération`: "generation"
+--------> English `generation`
+-------> Italian `generazione`: "generation, procreation, productio"
+-------> Spanish `generación`: "generation" 
+------> English `generate`
+-------> English `regenerate`
+
+
+
+-> Proto-Indo-European <*ǵénh₁tis>: "birth, production"
+
+--> Balto-Slavic <*źénˀtis>: "relative, new relative, son-in-law"
+---> East Baltic
+----> Lithuanian `žéntas`: "son-in-law"
+---> Slavic <*zę̀tь>: "son-in-law"
+----> East Slavic
+-----> Russian `зять` <zjatʹ>: "son-in-law, brother-in-law"
+----> South Slavic
+-----> Serbo-Croatian `зе̏т` <zȅt>: "son-in-law, brother-in-law"
+----> West Slavic
+-----> Polish `zięć`: "son-in-law"
+
+--> Germanic <*kinþiz>: "kind, race"
+---> North Germanic
+----> Old Norse `kind`: "race, kind, kin, creature, being"
+-----> Icelandic `kind`: "race, kind, kin, sheep"
+---> West Germanic
+----> Old English `cynd`: "generation, race"
+-----> English `kind` (type)
+-----> Old English `ġecynd`: "natural, native, inborn characteristics"
+------> English `kind` (nice)
+
+--> Hellenic <*génetis>
+---> Ancient Greek `γένεσις` (génesis): "origin, source, manner of birth, creation"
+----> Latin `genesis`
+-----> French `genèse`
+-----> English `genesis`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀸𑀢𑀺` <jāti>: "birth, production, characteristic by birth, lineage, race, caste"
+-----> Hindi `जाति` <jāti>: "birth, caste, community, race, species, lineage, nationality, tribe"
+-----> Pali <ñāti>
+------> Thai `ญาติ` <yâat>: "family"
+-----> Thai `ชาติ` <châat>: "birth, ancestry, nation, type"
+-----> Telugu `జాతి` <jāti>: "species, nation, kind, tribe"
+
+--> Italic <*gentis>
+---> Latin `gēns`
+----> Western Romance
+-----> French `gens`: "people"
+-----> Italian `gente`: "people, population, lineage, noble, refined, gentle"
+-----> Spanish `gente`: "people"
+----> Latin `gentīlis`: "kinsman, compatriot, member of a noble clan, non-Jew" #########
+-----> Western Romance
+------> Old French `genterise`
+-------> English `gentry`
+-----> Old French `gentil`: "high-born, noble, courtly"
+------> French `gentil`: "helpful, kind, pleasant, attractive, gentile"
+-------> English `gentile`
+-------> English `genteel`
+-------> English `jaunty`
+------> English `gentle`
+-------> English `gentleman`
+
+--> Proto-Indo-European <*ǵn̥h₁tiHō>
+
+---> Italic <*gnātiō>
+----> Latin `nātiō`: "birth, nation, people, race, class"
+-----> Eastern Romance
+------> Romanian `națiune`: "nation, country, people"
+-----> Western Romance
+-----> French `nation`: "nation"
+------> English `nation`
+-----> Italian `nazione`: "nation"
+-----> Spanish `nación`: "nation"
+
+
+-> Proto-Indo-European <*ǵn̥h₁tós>: "begtton, born, produced"
+
+--> Indo-Iranian <*ĵaHtás>
+---> Indo-Aryan <*jaHtás>
+----> Sanskrit `𑀚𑀸𑀢` <jātá>: "begotten, produced, child, offspring"
+-----> Sauraseni `𑀚𑀸𑀬` <jāya>: "begotten, son"
+---> Iranian <*ĵaHtah>
+----> Avestan `𐬰𐬁𐬙𐬀` <zāta>
+----> Western Iranian
+-----> Old Persian <*zāta>
+------> Persian `زاده` <zâde>: "offspring, suffix forming surnames (equivalent to <-son>)"
+-------> Persian `شهرزاد` (Šahrzâd): "City-Born (female personal name), Scheherazade"
+--------> Russian `Шехераза́да` <Šexerazáda>: "Scheherazade"
+---------> English `Scheherazade` ######
+
+--> Italic <*gnātos>
+---> Latin `nātus`: "born, made, arisen"
+----> Western Romance
+-----> French `né`: "born"
+------> English `né`
+-----> Italian `nato`: "born, né"
+-----> Spanish `nato`: "born"
+
+
+-> Proto-Indo-European <*ǵénh₁tōr>: "begetter, producer, parent"
+
+--> Indo-Iranian <*ĵanHtŕ̥>
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀦𑀺𑀢𑀾` <janitṛ́>: "father, progenitor"
+
+--> Italic <*genatōr>
+---> Latin `genitor`: "parent, father, sire"
+----> French `géniteur`: "progenitor, parent"
+----> Italian `genitore`: "parent"
+----> English `progenitor`
+
+
+-> Proto-Indo-European <*ǵenh₁tleh₂>
+
+--> Armenian
+---> Old Armenian `ծնաւղ` <cnawł>: "parent, cause"
+----> Armenian `ծնող` <cnoł>: "parent"
+
+
+-> Proto-Indo-European <*ǵn̥h₁yo->
+
+--> Germanic <*kunjã>: "kin, family"
+---> North Germanic
+----> Old Norse `kyn`: "kin"
+-----> Icelandic `kyn`: "sex, breed, race, grammatical gender"
+-----> Swedish `køn`: "sex, gender, grammatical gender"
+-----> Finnic <*kunnia>: "noble family, family prestige"
+------> Finnish `kunnia`: "honor, glory, credit"
+---> West Germanic
+----> Old English `cynn`: "kin, kind, tribe, people, grammatical gender"
+-----> English `kin`
+----> Old High German `kunni`: "gender, kind, family, tribe"
+---> Germanic <*kuningaz>: "member of a family, member of a ruling family, king"
+----> North Germanic
+----> Old Norse `konungr`: "king"
+-----> Danish `konge`: "king"
+-----> Icelandic `kóngur`: "king"
+-----> Slavic <*kъnędzь>: "chief, prince, petty king" #######
+------> East Slavic
+-------> Russian `князь` <knjazʹ>: "duke, prince"
+------> South Slavic
+-------> Serbo-Croatian `кне̑з` <knȇz>: "prince"
+------> West Slavic
+-------> Polish `ksiądz`: "priest"
+-----> Finnic <*kuningas>
+------> Finnish `kuningas`: "king"
+-----> Samic
+------> Northern Sami `gonagas`: "king"
+-----> Lithuanian `kunigas`: "priest"
+----> West Germanic
+-----> Old English `cyning`: "king"
+------> English `king`
+-------> Japanese `キング` <kingu>: "king, in cards or chess"
+-----> Frankish
+------> Dutch `koning`: "king"
+-----> Old High German `kuning`: "king"
+------> German `König`: "king"
+------> Yiddish `קיניג` <kinig>: "king"
+
+
+--> Italic
+---> Latin `genius`: "deity or guardian spirit of a place or person, (rarely) wits, talent, genius"
+----> English `genius`
+----> English `genius locii`
+----> French `génie`: "genius, genie" ########
+-----> English `genie`
+----> Spanish `genio`: "temper, mood, genius"
+
+
+-> Proto-Indo-European <*ǵenh₁eteh₂>
+
+--> Celtic <*genetā>
+---> Brythonic
+----> Welsh `geneth`: "girl"
+---> Gaulish `geneta`
+
+--> Germanic <*kinþã>: "child"
+---> East Germanic
+----> Gothic <*-kind>: "child" (only attested in compounds, mostly names)
+---> West Germanic
+----> Old High German `kind`
+-----> German `Kind`: "child"
+------> German `Kindergarten`: "nursery school, kindergarten"
+-------> English `kindergarten`
+-----> Yiddish `קינד` <kind>: "child"
+----> Frankish `kint`
+-----> Dutch `kind`: "child"
+------> Dutch `kindeken`: "small child"
+-------> French `quinquin`: "small child"
+
+--> Italic
+---> Oscan `genetaí`
+
+
+endbody
+
+
+startnotes
+
+
+# Latin <germānus>, "sibling" and <Germānus>, "German" are unrelated. <Germānus> was probably borrowed from Gaulish, and may mean either "neighbor folk" or "noisy folk".
+
+## Hindi <उदजन> (udjan) and English <hydrogen> aren't just parallel constructs based on learned borrowings (Classical Sanskrit and Classical Greek, respectively), they are also formed by compounding the same two PIE roots: <*wed-> (water) + <*ǵenh₁-> (birth). https://www.aidanem.com/word-family-water.html
+
+
+### Not the same as the other Welsh name <Morgan> (literally "sea-circle", figuratively "sea-defender" or "sea-chief"). But Morgan le Fay first appears as <Morgen> in Geoffrey of Monmouth's "The Life of Merlin".
+
+The Irish `Muirgein` especially refers to the mermaid-saint also known as Lí Ban.
+
+Also, I'd just like to repeat the phrase, "the Irish mermaid-saint"!
+
+
+#### First appears as the name of the king's daughter in the medieval British legendary history of "Brutus of Troy". Probably in an early form of the legend, she was identified only as the daughter of Pandrasus, and a later version then used the word meaning "daughter" as her proper name.
+
+The variant `Imogen` first appears in Shakespeare's _Cymbeline_. It it possible the variant already existed, but it is also very possible that Shakespeare wrote "Innogen" but it was typeset as "Imogen" instead. Shakespeare used the name `Innogen` in early drafts of _Much Ado About Noting_ about 12 years earlier; adding weight to the possibility that he intended to use `Innogen`, not `Imogen`  in _Cymbeline_.
+
+So, the English name `Imogen` is ultimately based on two compounded literary mistakes (probably).
+
+
+##### The military rank `general` is a shortening of earlier `captain-general`, i.e., the officer in charge of the army as a whole, the commander-in-chief; parallel to the surviving constructions `surgeon-general` or `postmaster-general`. 
+
+###### `Scheherazade`, the character from One Thousand and One Nights. Her younger sister, `Dunyazad`, also fits in this family, "world-freer", see `Azad`.
+
+
+#######: Slavic <*kъnędzь>: "chief, prince, petty king" is from some early Germanic language. My preferred theory is Old Norse via the Rurikids and the Rus'.
+
+
+######## `genie` was used in French to translate the Arabic `جِنّ` <jinn>, based on the similar sound and the meaning in Latin of "guardian spirit".
+
+######### The meaning of `gentilis` as "non-Jew" is a semantic loan from Hebrew `גוי` <goy>, literally "nation", but often used to mean "a nation other than Israel" and later "a non-Jew".
+
+########## There is a document (https://papyrus-stories.com/2020/07/20/on-a-document-signed-by-cleopatra/) with the subscript subscript ("γινέσθωι", "make it happen") perhaps written by the hand of Cleopatra (middle voice 3S imperative). It orders tax exemptions to a roman, possibly Publius Canidius Crassus a lieutenant of Marcus Antonius (who appears in Shakespeare's _Antony and Cleopatra_).
+
+
+endnotes

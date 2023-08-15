@@ -1,0 +1,276 @@
+date: 20170414
+tags: Air, Divinities, Elements
+
+startbody
+
+Proto-Indo-European <*h₂ews->: "dawn, east"
+
+-> Proto-Indo-European <*h₂éwsōs>: "Divinity of Dawn"
+
+--> Germanic <*auzi>
+---> Germanic <*Auziwandilaz>: "Bright-Wanderer, Dawn-Wanderer, Morning Star" (personal name) ####
+----> East Germanic
+-----> Gothic `𐌰𐌿𐌶𐌰𐌽𐌳𐌹𐌻` <auzandil>: "morning star (Venus), Lucifer"
+----> North Germanic
+-----> Old Norse `Aurvandil`
+----> West Germanic
+-----> Old English `Ēarendel`
+------> Quenya `` <Eärendil>
+-------> English `Eärendil`
+-----> Old High German `Orentil`
+-----> Lombardic `Auriwandalo`
+------> Latin `Horvandillus`
+
+
+--> Hellenic <*auhṓs>
+---> Classical Greek `ἠώς`‎ <ēṓs>: "dawn, east"
+----> Classical Greek `Ἠώς` <Ēṓs>: "Divinity of Dawn"
+-----> English `Eos`
+
+--> Indo-Iranian <*Háwšās>
+---> Indo-Aryan
+----> Sanskrit `𑀉𑀱𑀲𑁆` <uṣás>: "dawn, Divinity of Dawn"
+-----> Hindi `उषा` <uṣā>: "dawn"
+----?> Old Japanese <*uzu>
+------> Old Japanese `天鈿女` <Ama no Uzume>: "Divinity of Dawn" ###
+
+--> Italic <*auzōs>
+---> Latin `aurōra`: "dawn"
+----> Western Romance
+-----> French `aurore`: "dawn, aurora"
+-----> Italian `aurora`: "dawn"
+-----> Spanish `aurora`: "aurora"
+----> English `aurora`
+-----> English `aurora australis`
+----> Latin `Aurōra`: "Divinity of Dawn"
+-----> English `Aurora`
+
+
+-> Proto-Indo-European <*h₂ewsro>
+
+-?> Albanian `err`: "dark, darkness"
+---> Albanian `terr`: "dark, darkness"
+----> Albanian `terrtohem`: "to scowl"
+
+--> Balto-Slavic <*auš(t)ra>
+---> Lithuanian `aušrà`: "dawn, daybreak"
+----> Lithuanian `aušrìnis`: "dawning, morning, dawn" (relational adjective)
+-----> Lithuanian `Aušrinė`: "(of the) Dawn, Divinity of Dawn, personal name"
+---> Slavic <*ùtro>: "dawn"
+----> East Slavic
+-----> Russian `у́тро` <útro>: "morning"
+----> South Slavic
+-----> Serbo-Croatian `у̏тро` <jȕtro>: "morning"
+----> West Slavic
+-----> Polish `jutro`: "tomorrow"
+
+--> Germanic <*Austrȭ>: "Divinity of Spring, springtime"
+---> West Germanic
+----> Old English `Eostre`: "festival of spring time, Divinity of Spring?, Easter"
+-----> English `Easter` #
+----> Old High German `ōstra`
+-----> German `Ostern`: "Easter" #
+
+
+-> Proto-Indo-European <*h₂ewsḗr> "thing at dawn" (substantivized locative)
+
+--> Hellenic <*auhḗr>
+---> Classical Greek `ᾱ̓ήρ` <āḗr>: "morning mist, mist, wind, air, color of the sky"
+----> Latin `āēr`: "air"
+-----> Sardinian `aera`: "air"
+-----> Eastern Romance
+------> Romanian `aer`: "air"
+-----> Western Romance
+------> French `air`: "air"
+-------> English `air`
+------> Spanish `aire`: "air"
+------> Italian `aria`: "air"
+-------> English `aria`
+----> Classical Syriac `ܐܐܪ` <aar>: "air, breeze"
+----> Classical Greek `ἀέρος` <aéros>: "of the air"
+-----> English `aero-`
+
+
+-> Proto-Indo-European <*h₂éwsreh₂>
+
+--> Hellenic
+---> Classical Greek `αὔρᾱ` <aúrā>: "fresh air, breeze, steam"
+----> Latin `aura`: "air, breeze"
+-----> Eastern Romance
+------> Aromanian `avrã`: "breeze, coolness, freshness"
+-----> Western Romance
+------> Old French `ore`: "wind"
+-------> French `orage`: "thunderstorm"
+------> Italian `ora`: "blow, breeze"
+------> Spanish `orear`: "to air"
+------> Spanish `orate`: "crazy person"
+-----> English `aura`
+-----> Vulgar Latin <*exaurare>: "to rise into the air"
+------> Western Romance
+-------> Old French `essorer`
+--------> French `essorer`: "to hang out to dry"
+--------> English `soar`
+
+
+-> Proto-Indo-European <*h₂éwsri>
+
+--> Hellenic
+---> Greek `αύριο` <ávrio>: "tomorrow, soon"
+
+
+-> Proto-Indo-European <*h₂wōsrih₂>
+
+--> Celtic <*wārī>: "sunrise, east"
+---> Insular Celtic
+----> Old Irish `fáir`
+----> Brythonic
+-----> Welsh `gwawr`: "dawn, daybreak"
+
+
+-> Proto-Indo-European <*h₂ewsteros>: "east" (contrastive, lit. "the dawn-er of them")
+
+--> Germanic <*austraz>: "east"
+---> West Germanic
+----> Old English `ēast`
+-----> English `east`
+-----> Old French `est`: "east" ##
+------> French `est`: "east" ##
+------> Italian `est`: "east" ##
+------> Spanish `este`: "east" ##
+----> Old High German
+-----> German `Ost`: "east"
+------> German `Österreich`: "East Realm, Austria"
+-------> Medieval Latin `Austria`: "Austria"
+--------> English `Austria`
+
+--> Italic <*austeros>
+---> Latin `auster`: "southerly wind, south"
+----> Eastern Romance
+-----> Romanian `austru`: "dry wind from the south"
+----> Western Romance
+-----> Italian `ostro`: "southerly wind, the south"
+----> Latin `austrālis`: "southern"
+-----> English `Australia`
+------> Hawai'ian `ʻAukekulelia`: "Australia"
+------> Irish `An Astráil`: "(The) Australia"
+------> Japanese `オーストラリア` <Ōsutoraria>: "Australia"
+------> Mandarin `澳大利亞` <Àodàlìyà>: "Australia"
+-------> Mandarin `澳(洲)` <Ào(zhōu)>: "Australia (Continent)"
+--------> Vietnamese `Úc (Châu)`: "Australia (Continent)"
+-----> English `aurora australis`
+
+
+-> Proto-Indo-European <*h₂éh₂uso>: "glow of dawn, gold"
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `áuksas`: "gold"
+---> West Baltic
+----> Old Prussian `ausis`: "gold"
+
+--> Latin `aurum`: "gold"
+---> Sardinian `oru`: "gold"
+---> Eastern Romance
+----> Romanian `aur`: "gold"
+---> Western Romance
+----> French `or`: "gold"
+----> Italian `oro`: "gold"
+----> Spanish `oro`: "gold"
+-----> Navajo `óola`: "gold"
+---> Albanian `ar`: "gold"
+---> Basque `urre`: "gold"
+---> Old Irish `ór`: "gold"
+----> Irish `ór`: "gold"
+----> Old Irish `Órfhlaith`: "Gold-Sovereignty, Gold-Princess (personal name)"
+-----> Irish `Órfhlaith`
+------> English `Orla`
+---> Welsh `aur`: "gold"
+---> Translingual `Au`
+---> Latin `Aurēlius`: "Golden (family name)"
+----> Latin `Aurelianus`: "of the Golden (personal name)"
+-----> Latin `Aurelianum`
+------> Western Romance
+-------> French `Orleans`
+
+--> Tocharian
+---> Arshian `wäs`: "gold"
+---> Kuchean `yasā`: "gold"
+
+
+
+?> Proto-Indo-European <*h₂ey->: "day, morning"
+
+--> Proto-Indo-European <*h₂óyr̥> (r-stem noun)
+
+---> Indo-Iranian <*Háyr̥>
+----> Iranian
+-----> Avestan `𐬀𐬫𐬀𐬭‎`‎ <ayar>: "day"
+
+
+--> Proto-Indo-European <*h₂éyeri>: "in the morning, early" (locative adverb)
+
+---> Albanian `herët`: "early in the morning, at dawn"
+
+---> Germanic <*airi>: "early"
+----> East Germanic
+-----> Gothic `𐌰𐌹𐍂` <air>: "early, soon"
+----> West Germanic
+-----> Old English `ǣr`: "early, previous, former"
+------> English `ere`
+
+----> Germanic <*airiz>: "earlier"
+-----> Old Norse `áðr`: "already, before, ere, until"
+------> Icelandic `áður`: "before, earlier, previously"
+
+----> Germanic <*airist>: "earliest, first, foremost"
+-----> West Germanic
+------> Old English `ǣrest`: "first, at first"
+-------> English `erst`
+--------> English `erstwhile`
+------> Frankish <*ērist>
+-------> Dutch `eerste`: "first"
+------> Old High German `ērist`: "earliest, first"
+-------> German `erste`: "first"
+
+----> Germanic <*airlīkaz>: "early" ("early-like")
+-----> North Germanic
+------> Old Norse `árla`: "early"
+-----> West Germanic 
+------> Old English `ǣrlīċ`
+-------> English `early`
+
+
+---> Hellenic
+----> Classical Greek `ἦρι` <êri>: "in the morning, early"
+-----> Classical Greek `ἠρῐγένειᾰ` <ērigéneia>: "early-born (Homeric epithet of Eos), dawn, day"
+-----> Classical Greek `ἠρῐγέρων` <ērigérōn>: "groundsel" ("early-old-man")
+------> Translingual `Erigeron`: "taxonomic genus in the Aster family"
+----> Hellenic <*ayeryos>
+-----> Classical Greek `ἠέριος` <ēérios>: "early in morning, at dawn"
+----> Hellenic <*ayeriston>
+-----> Classical Greek `ᾱ̓́ρῑστον` <ā́rīston>: "breakfast"
+
+
+
+
+endbody
+
+
+startnotes
+
+# Only Germanic langauges use cognates to "Easter" to refer to the Christian holiday. Most other languages use descendants of the Hebrew `פָּסַח` <pasách>: "Passover". For example, Italian `Pasqua`, Russian `Па́сха` <Pásxa>, Irish `Cáisc` (with regular <p> to <c> in early Latin borrowings).
+
+## Latin words for cardinal directions, in this case `oriens`/`levant`, were replaced or supplemented in most Romance languages by borrowings from Old English like `ēast` to French `est`. Weird.
+
+
+### In the Old Japanese `天鈿女` <Ama no Uzume>—a dawn goddess with some story elements in common with Vedic `𑀉𑀱𑀲𑁆` <uṣás>—the meaning and origin of the <uzu> element is unclear, with the rest of the name translating as "[Uzu?]-Woman of Heaven". One possibility among several is that it is a borrowing of the Sanskrit, and thus "Dawn-Woman of Heaven".
+
+
+#### Both Old English ​​`eorendel` and Gothic `auzandil` are used to translate the Biblical `φωσφόρος`/`lucifer`: "light-bringer" as a title of Christ in the Second Epistle of Peter.
+
+
+endnotes
+
+
+
+

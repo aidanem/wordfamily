@@ -1,0 +1,161 @@
+date: 20180810
+theme: Science Fiction 🤖
+tags: Sci-fi
+
+
+startbody
+
+Proto-Indo-European <*h₂nḗr>: "(adult/married) man"
+
+-> Proto-Albanian <*nera>
+--> Old Albanian `njer`
+---> Albanian `njeri`: "man"
+
+-> Hellenic <*anḗr>
+--> Classical Greek `ἀνήρ` <anḗr>: "(adult) man, husband, mortal"
+---> Greek `άνδρας` <ándras>: "(adult) man, husband"
+---> Classical Greek `ἀνδρο-` <andro->
+----> English `andro-`
+-----> English `android`
+------> English `droid`
+----> Classical Greek `Ᾰ̓νδρομέδᾱ` <Andromédā>: "Rules-Men" (personal name)
+-----> Greek `Ανδρομέδα` <Androméda>
+-----> Latin `Andromeda`
+------> English `Andromeda`
+----> Classical Greek `ἀνδρόγυνος` <andrógunos>
+-----> Latin `androgynus`
+------> English `androgynous`
+----> Classical Greek `Ἀλέξανδρος` <Aléxandros>: "Protector-Man, Protector-of-Men" (personal name, also epithet of each Hera and Paris) #
+-----> Greek `Αλέξανδρος` <Aléxandros>
+-----> Latin `Alexander`
+------> Central Romance
+-------> Italian `Alessandro`
+------> Western Romance
+-------> French `Alexandre`
+-------> Spanish `Alejandro`
+------> English `Alexander`
+------> Irish `Alastar`
+-----> Persian `اسكندر` <Eskandar>
+------> Arabic `إِسْكَنْدَر` <ʾiskandar>
+-------> Kurdish `Îskenderê`
+-------> Ottoman Turkish `اسكندر` <İskender>
+--------> Turkish `İskender`
+-----> Persian `سكندر` <Sekandar>
+------> Hindi `सिकंदर` <Sikandar>
+-----> Old Church Slavonic `Алеѯандръ` <Aleksandru>
+------> Romanian `Alexandru`
+------> Russian `Алекса́ндр` <Aleksándr>
+
+-> Indo-Iranian <*Hnā́>
+--> Indo-Aryan
+---> Sanskrit `𑀦𑀾` <nṛ́>: "man, hero, chess piece"
+
+--> Iranian
+---> Avestan `𐬥𐬀𐬭` <nar>: "man"
+---> Northern Iranian
+----> Scythian
+-----> Ossetian `нӕл` <næl>: "male, man"
+---> Pashto `نر` <nar>
+---> Western Iranian
+----> Old Persian
+-----> Persian `نر` <nar>: "male, masculine, stallion"
+
+-> Italic <*ner>
+--> Latin `Nero`
+---> English `Nero`
+--> Oscan `𐌍𐌉𐌉𐌓` <niir>: "man, nobleman, leader"
+--> Umbrian `𐌍𐌄𐌓𐌚` <nerf>: "men" (attested only as acc. and dat. plurals)
+--> Italic 
+---> Latin `neriōsus`: "vigorous, energetic, firm, strict"
+
+-> Phrygian `αναρ` <anar>: "husband"
+
+
+-> Proto-Indo-European <*h₂n̥rós>: "manly"
+
+--> Anatolian
+---> Hittite <*innara->
+----> Hittite `𒅔𒈾𒊏𒉿𒀭𒋫` <innarawant->: "manliness, strength"
+---> Hieroglyphic Luwian `𒀭𒅈𒌝𒈪` <ānnara>: "manly, virile"
+---> Lydian `𐤫𐤵𐤭𐤮` <nãrś>
+
+--> Proto-Armenian <*aynr>
+---> Old Armenian `այր` <ayr>: "man, husband"
+
+
+-?> Balto-Slavic
+---> Lithuanian `nóras`: "will"
+---> Slavic <*norvъ>: "custom, manner"
+----> South Slavic
+-----> Old Church Slavonic `нравъ` <nravŭ>: "custom, habit"
+------> Russian `нрав` <nrav>: "character, temperament, custom, discipline"
+-----> Serbo-Croatian `на́рав` <nárav>: "nature, character"
+-----> Romanian `nărav`: "vice"
+----> West Slavic
+-----> Czech `mrav`: "mores, custom"
+-----> Polish `narów`: "bad habit, vice"
+
+--> Celtic <*neros>: "heroic, hero"
+---> Brythonic
+----> Welsh `nêr`: "hero"
+---> Celtiberian <*Neroi>: "ethnonym: Heroes?"
+----> Latin `Neri`
+-----> Western Romance
+------> Spanish `Terra de Soneira`: "placename, Land of the Neri"
+
+--> Hellenic
+---> Classical Greek `ἀνδρεῖος` <andreîos>: "manly, brave, strong, stubborn"
+----> Classical Greek `Ἀνδρέας` <Andréas> (personal name) ##
+-----> Greek `Ανδρέας` <Andréas>
+-----> Armenian `Անդրեաս` <Andreas>
+-----> Coptic `Ⲁⲛⲇⲣⲉⲁⲥ` <Andreas>
+-----> Latin `Andreas`
+------> Western Romance
+-------> French `André`
+-------> Italian `Andrea`
+--------> Korean `안드레아` <Andeurea>
+-------> Spanish `Andrés`
+------> English `Andrew`
+------> Gothic `𐌰𐌽𐌳𐍂𐌰𐌹𐌰𐍃` <Andraias>
+-----> Old Church Slavonic `Андреи` <Andrei>
+------> Romanian `Andrei`
+------> Russian `Андрей` <Andrej>
+
+--> Indo-Iranian <*Hnáras>
+---> Indo-Aryan
+----> Sanskrit `𑀦𑀭` <nára>: "man, husband, hero, chess piece"
+------> Pali `𑀦𑀭` <nara>: "man"
+-------> Khmer `នរ` <nɔɔ>: "man"
+-------> Thai `นร` <nɔɔ-rá>: "man"
+------> Hindi `नर` <nar>: "man"
+
+
+--> Proto-Indo-European <*h₂nr̥tóm>: "manliness"
+
+---> Celtic <*nertom>: "strength, power"
+----> Brythonic <*nerθ>: "strength, power"
+-----> Welsh `nerth`: "strength, power"
+----> Old Irish `nert`: "power, strength"
+-----> Irish `neart`: "strength, power, fortitude, by a large amount, power to remedy, ability"
+
+
+-> Proto-Indo-European <*n̥-h₂nēr-yeh₂>: "(married)-man-less-ness"
+
+--> Proto-Armenian <*ananiríya->
+---> Old Armenian `այրի` <ayri>: "widow"
+----> Armenian `այրի` <ayri>: "widow"
+
+endbody
+
+
+startnotes
+
+# The name Aléxandros spread primarily with respect to Alexander the Great.
+
+Not shown: variant forms developed in various languages, such as `Alex`, `Alexa`, `Alexandra`, `Sasha`, `Xander`, etc.
+
+## The name Andréas spread primarily with respect to St. Andrew the Apostle
+
+Not shown: variant forms developed in various languages, such as `Anderson`, `Andrea`, `Andy`, `Dand`, `Dre`, `Drew`, etc.
+
+endnotes

@@ -1,0 +1,468 @@
+date: 20230120
+tags: Food, Plants
+
+
+
+startbody
+
+Early Proto-Indo-European
+
+?> Anatolian <*pekʷ->: "to pound, to crack grain"
+
+--> Hittite <pakkušš->: "to pound, to crack, to crush, to grind"
+---> Hittite `𒉺𒀝𒋗𒉿𒀭` <pa-ak-šu-wa-an>: "cracked? ground? (of grain)"
+---> Hittite `𒉺𒀝𒆪𒍑𒋗𒅈` <pa-ak-ku-uš-šu-ar>: "a tool for crushing grain"
+
+--> Lydian `𐤥𐤹𐤡𐤠𐤲𐤶𐤫𐤯` <wćpaqẽnt> [wt͡spakʷãnd]: "tramples upon"
+
+
+-> Proto-Indo-European <*pekʷ->: "to cook, to ripen"
+
+--> Proto-Indo-European <*pékʷeti>: "to ripen, to be cooking" (root imperfective)
+
+---> Pre-Albanian <*peka>
+----> Albanian `pjek`: "bake, broil, roast"
+
+---> Balto-Slavic <*pektei>: "to bake"
+----> East Baltic <*keptei> (metathesis)
+-----> Latvian `cept`
+-----> Lithuanian `kèpti`
+----> Slavic <*peťì>: "to bake, to put effort into"
+
+---> Celtic <*kʷokʷeti> #
+----> Brythonic <*pobɨd>: "to cook, to bake"
+-----> Welsh `pobi`: "to bake, to roast, to have a fever"
+------> Welsh `popty`: "bakery, oven" (lit. "bake-house" with `-tŷ`) [link stegosaurus]
+
+
+---> Hellenic <*péponts>: "cooking, ripening" (from the participle <*pékʷonts>)
+----> Classical Greek `πέπων` <pépōn>: "ripe, soft, kind, weak"
+
+
+-----> Koine Greek `μηλοπέπων` <mēlopépōn>: "melon (Cucumis melo)" (lit. "ripe/soft/sweet fruit")
+
+------> Latin `mēlopepō`: "melon (Cucumis melo)"
+-------> Irish `mealbhacán`: "wild carrot, melon"
+
+-------> Late Latin `mēlō`: "melon" (oblique stem `melon-`)
+--------> Central Romance
+---------> Italian `melone`: "melon (Cucumis melo)"
+--------> Western Romance
+---------> Old French `melon`: "melon"
+----------> French `melon`: "melon"
+----------> Dutch `meloen`: "melon"
+----------> English `melon`
+---------> Spanish `melón`: "melon"
+
+-------> Latin `pepō`: "large melon, pumpkin" (oblique stem `pepon-`)
+
+--------> Central Romance
+---------> Italian `popone`: "melon"
+
+--------> Western Romance
+---------> Old French
+----------> Middle French `pepon`
+-----------> Middle French `pompon`: "melon, cucumber"
+-----------?> French `pompon`: "pompon"
+-------------> English `pompom`
+------------> Dutch `pompoen`
+------------> English `pumpion`
+-------------> English `pumpkin` (with the obsolete `-kin` of resemblance, not the diminutive `-kin`)
+-------------> Welsh `pwmpen`: "pumpkin"
+---------> Old Spanish `pepón`: "cucumber, melon"
+----------> Spanish `pepón`: "watermelon"
+----------> Spanish `pepino`: "cucumber, unripe melon" (diminutive)
+-----------> Spanish `pepinillo`: "pickle" (double diminutive)
+
+--------> Eastern Romance
+---------> Romanian `pepene`: "melon, watermelon, cucumber (dialectic)"
+---------> Old Albanian `pjepënë`
+----------> Albanian `pjepër`: "cantaloupe, cucumber"
+--------> English `pepo`
+
+
+
+---> Indo-Iranian <*páčati>: "to cook"
+----> Indo-Aryan <*páćati>
+-----> Sanskrit `𑀧𑀘𑀢𑀺` <pácati>: "to cook, to bake, to boil, to digest, to ripen"
+------> Magadhi
+-------> Assamese `পকা` <poka>: "to ripen, to mature, ripe"
+------> Sauraseni
+-------> Madhya Sauraseni
+--------> Hindi `पकाना` <pakānā>: "to cook, to prepare, to ripen, to arrange"
+
+
+----> Iranian <*páčati>
+-----> Avestan `𐬞𐬀𐬗𐬀𐬌𐬙𐬌` <pacaiti>
+-----> Northern Iranian
+------> Ossetian `фыцын` <fycyn>: "to cook"
+-----> Pashto `پخول` <paxawә́l>: "to cook"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `pehtin`
+-------> Parthian `𐫛𐫇𐫟𐫤𐫗` <pwxtn>
+------> Old Persian 
+-------> Persian `پختن` <poxtan>: "to cook, to bake, to make ready, to ripen"
+
+---> Italic <*kʷekʷō>
+----> Latin `coquō`: "I cook, I ripen, I roast, I dry"
+-----> Vulgar Latin <*cocere>
+
+------> Central Romance
+-------> Italian `cuòcere`: "to cook, to bake"
+
+------> Eastern Romance
+-------> Aromanian `coc`: "I bake, I ripen"
+-------> Romanian `a coace`: "to bake, to ripen"
+-------> Albanian `kuq`: "I fry, I cook"
+
+------> Western Romance
+-------> Old French `cuyre`: "to cook"
+--------> French `cuire`: "to cook"
+--------> Middle English `cury` ##
+--------?> English `curry` ##
+
+-------> Spanish `cocer`: "to boil, to cook, to brew, to chafe"
+--------> Tagalog `kusí`: "to cook"
+
+------> West Germanic <*kokōn>: "to cook"
+-------> Old English <*cōcian>
+--------> English `cook`
+-------> Old High German
+--------> German `kochen`: "to cook, to boil, to get agitated"
+---------> German `Koch`: "a cook, occupational surname: Cook"
+----------> English `Koch`
+---------?> Hungarian `Kocs`: "placename: Cook's (farmstead)?"
+-----------> Hungarian `kocsi szekér`: "cart from Kocs, coach" #####
+------------> Hungarian `kocsi`: "cart, carriage, car"
+-------------> German `Kutsche`: "carriage, coach"
+--------------> Dutch `koets`: "coach"
+--------------> French `coche`: "(stage)-coach"
+---------------> English `coach` #####
+----------------> French `coach`: "coach (trainer)"
+----------------> German `Coach`: "coach (trainer)"
+----------------> Japanese `コーチ` <kōchi>: "coach (trainer)"
+---------------> Irish `cóiste`: "coach, sidecar"
+-------------> Italian `cocchio`: "coach, chariot"
+--------> Yiddish `קאָכן` <kokhn>: "to cook"
+-------> Frankish <*kokon>
+--------> Dutch `koken`: "to cook, to boil"
+-------> Old Saxon <*kokōn>
+--------> Danish `koge`: "to boil, to cook"
+--------> Swedish `koka`: "to boil"
+---------> Finnish `kokata`: "to cook"
+-------> Slavic <*kuxati>
+--------> East Slavic
+---------> Ukrainian `кухова́рити` <kuxováryty>: "to cook"
+--------> South Slavic
+---------> Serbo-Croatian `ку̏вати` <kȕvati>: "to cook"
+
+
+------?> West Germanic <*kōkô>: "cake" ####
+--------> Frankish
+---------> Dutch `koek`
+----------> French `couque`
+----------> Dutch `koekje`
+-----------> English `cookie`
+------------> Cantonese `曲奇` <kuk¹ kei⁴>: "cookie"
+-------------> Mandarin `曲奇` <qūqí>: "cookie"
+------------> French `cookie`
+------------> Hindi `कुकी` <kukī>: "cookie"
+------------> Russian `ку́ки` <kúki>: "HTTP cookie"
+------------> Thai `คุกกี้` <kúk-gîi>: "cookie"
+--------> Old High German `kuohho`: "cake, pie"
+---------> German `Kuchen`
+----------> English `kuchen`
+----------> German `Lebkuchen`
+-----------> English `lebkuchen`
+---------> Yiddish `קוכן` <kukhn>: "cake"
+---------> Lorraine Franconian `Küeche`
+----------> French `quiche`
+-----------> English `quiche`
+------------> Korean `키슈` <kisyu>: "quiche"
+-----------> German `Quiche`: "quiche"
+-----------> Greek `κις` <kis>: "quiche"
+--------> Old Saxon <*kōko>
+---------> Low German `Kook`: "cake"
+----------> Low German `Kookje`: "cookie, cracker, biscuit"
+-------?> Finnic <*kakku>
+
+--------> West Germanic <*kōkilaz >: "little cake, bun" (diminutive)
+---------> Old English `cyċel`: "little cake, morsel"
+----------> Irish `císte`: "cake, tart"
+---------> Old High German `kuohhil`
+----------> Old High German `kuohhilīn` (double diminutive)
+-----------> German `Küchlein`: "small cake"
+
+-------?> Old Norse `kaka`
+---------> Danish `kage`: "cake"
+----------> Kalaallisut `kaagi`: "cake"
+---------> Icelandic `kaka`: "cake, cookie"
+----------> Icelandic `legkaka`: "placenta" (calque of New Latin `placenta uterī`)
+---------> English `cake`
+---------> Irish `cáca`: "cake"
+--------?> Finnic <*kakku>
+----------> Finnish `kakku`: "cake"
+----------> Finnish `kakko`: "a kind of cakey bread, a dumpling"
+
+
+
+
+-----> Latin `coquus`: "a cook"
+------> Central Romance
+-------> Italian `cuoco`: "a cook, a chef"
+------> Western Romance
+-------> French `queux`: "a cook" (obsolete)
+------> West Germanic <*kok>: "a cook"
+-------> Old English `cōc`: "a cook"
+--------> English `cook`
+---------> Thai `กุ๊ก` <gúk>: "a cook"
+-------> Frankish <*kok>
+--------> Dutch `kok`: "a cook, a chef"
+---------> French `coq`: "a cook" (rare)
+---------> Japanese `コック` <kokku>: "a cook, a chef"
+---------> Russian `кок` <kok>: "ship's cook"
+------> Welsh `cog`: "a cook"
+
+
+-----> Latin `coquīna`: "relating to cooking, the skill of cooking, kitchen"
+------> Vulgar Latin <*cocīna>: "kitchen"
+-------> Central Romance
+--------> Italian `cucina`: "kitchen, cookery, cuisine"
+--------> Venetian
+---------> Albanian `kuzhinë`: "kitchen"
+---------> Greek `κουζίνα` <kouzína>: "kitchen, cuisine"
+---------> Serbo-Croatian `ку̀жӣна` <kùžīna>: "kitchen, cuisine" (regional)
+-------> Western Romance
+--------> French `cuisine`: "kitchen, cuisine"
+---------> English `cuisine`
+---------> Malagasy `lakozy`: "kitchen"
+--------> Spanish `cocina`: "kitchen, stove, cuisine"
+---------> Tagalog `kusina`: "kitchen"
+
+-------> West Germanic <*kukinā>: "kitchen"
+--------> Old English `cyċene`
+---------> English `kitchen`
+----------> Irish `cistin`: "kitchen"
+--------> Frankish
+---------> Dutch `keuken`: "kitchen, cuisine"
+--------> Old High German `chuhhina`: "kitchen"
+---------> German `Küche`: "kitchen, cuisine"
+---------> Yiddish `קיך` <kikh>: "kitchen, cuisine"
+---------> Czech `kuchyně`: "kitchen, cuisine"
+----------> Polish `kuchnia`: "kitchen, cuisine, stove"
+-----------> Russian `ку́хня` <kúxnja>: "kitchen, cuisine"
+------------> Armenian `կուխնի` <kuxni>: "kichen"
+---------> Serbo-Croatian `ку̏хиња` <kȕhinja>: "kitchen, cuisine"
+----------> Hungarian `konyha`: "kitchen, cuisine"
+--------> Old Saxon <*kukina>
+---------> Low German `Köken`: "kitchen, cooking, cuisine"
+---------> Danish `køkken`: "kitchen, cuisine"
+---------> Swedish `kök`: "kitchen, cuisine"
+----------> Finnish `kyökki`: "kitchen"
+
+------> Latin `culīna`: "kitchen, small portable stove"
+-------> Old English `cyline`
+--------> English `kiln`
+--------> Old Norse
+---------> Swedish `kölna`: "kiln, oast"
+-------> Latin `culīnārius`: "related to cooking or kitchens, culinary"
+--------> French `culinaire`: "culinary"
+---------> English `culinary`
+--------> Italian `culinario`: "culinary"
+--------> Spanish `culinario`: "culinary"
+
+
+-----> Latin `praecoquō`: "I ripen before, I ripen early"
+------> Latin `praecox`: "early-ripening, premature, precocious"
+-------> English `precocious`
+-------> French `précoce`: "early, premature, precocious"
+-------> Italian `precoce`: "premature, early, hasty, untimely"
+-------> Spanish `precoz`: "precocious, early"
+
+-------> Latin `(persica) praecocia`: "early-ripening (peaches)"
+--------> Koine Greek `πραικόκιον` <praikókion>: "apricot"
+-------> Latin `(mālum) praecoquum`: "early-ripening (fruit)"
+--------> Koine Greek `πραικόκιον` <praikókion>: "apricot"
+---------> Byzantine Greek `βερικοκκιᾱ` <berikokkíā>
+----------> Aramaic <bārqoqa>: "plum, apricot (archaic)"
+-----------> Arabic `برقوق` <barqūq>: "plum, apricot (archaic, dialectic), peach (dialectic)"
+------------> Catalan `albercoc`: "apricot" (incorporating definite article <al->)
+-------------> Catalan `abrecoc`: "apricot" (dialectic pronunciation)
+--------------> English `abrecock`
+---------------> English `apricot`
+
+
+
+---> Tocharian <*päk->
+----> Arshian <päk->: "to cook, to boil, to ripen"
+----> Kushean <päk->: "to cook, to boil, to ripen"
+
+
+--> Proto-Indo-European <*pékʷyeti> (transitive imperfective)
+
+---> Hellenic <*péťťō>: "to cook, to ripen"
+----> Classical Greek `πέσσω`
+
+
+---> Indo-Iranian <*páčyatay>
+----> Indo-Aryan
+-----> Sanskrit `𑀧𑀘𑁆𑀬𑀢𑁂` <pácyate>: "to ripen, to develop, to mature"
+
+
+--> Proto-Indo-European <*pokʷtós>: "cooked, ripe"
+
+---> Balto-Slavic <*paktas>
+----> Slavic <*pȍtъ>: "sweat"
+-----> East Slavic `потъ` <potŭ>
+------> Russian `пот` <pot>: "sweat"
+------> Ukrainian `піт` <pit>: "sweat"
+-----> South Slavic
+------> Old Church Slavonic `потъ` <potŭ>: "sweat"
+------> Slovene `pọ̑t`: "sweat"
+-----> West Slavic
+------> Czech `pot`: "sweat"
+------> Polish `pot`: "sweat"
+
+---> Celtic <*kʷoxtos>: "cooked, hot" #
+----> Brythonic <*poɨθ>
+-----> Welsh `poeth`: "hot, mulled, fevered"
+
+---> Hellenic <*pekʷtós>
+----> Classical Greek `πεπτός` <peptos>
+
+-----> Classical Greek `δύσπεπτος` <dúspeptos>: "difficult to digest, unripe"
+------> Latin `dyspepsia`
+-------> English `dyspepsia`
+--------> English `Pepsi-Cola`
+---------> English `Pepsi`
+
+---> Italic <*kʷoktos>
+----> Latin `coctus`: "cooked, ripened"
+-----> Central Romance
+------> Italian `cotto`: "cooked"
+-------> Italian `biscotto`: "biscuit, cookie"
+-------> Italian `terracotta`: "terracotta" (lit. "cooked earth", i.e. unglazed earthenware)
+--------> English `terracotta`
+
+-----> Latin `biscoctus`: "twice-cooked"
+------> Central Romance
+-------> Italian `biscotto`: "biscuit, cookie"
+--------> English `biscotti` (from the plural)
+------> Western Romance
+-------> French `biscuit`
+--------> English `biscuit`
+
+-----> Latin `recocta`: "recooked"
+------> Central Romance
+-------> Italian `ricotta`
+--------> English `ricotta`
+
+
+--> Proto-Indo-European <*pₔkʷwós>: "cooked, ripe"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit <pakvá>: "cooked, baked, ripe, mature, accomplished, old, cooked food, ripe grain"
+
+
+--> Proto-Indo-European <*pₔkʷrós>: "cooked, ripe"
+
+---> Balto-Slavic <*pekVras> (unknown vowel <*V> probably deriving from a metathesis of the <*ₔ> in the PIE)
+
+----> Slavic <*pečVrь>: "roasted"
+-----> Slavic <*pečVrica>: "agaric mushroom, esp. common mushroom (Agaricus bisporus)" (~"thing to be roasted")
+------> East Slavic <*pečěrica>
+-------> Russian `печери́ца` <pečeríca>: "common mushroom"
+-------> Ukrainian `​​печери́ця` <pečerýcja>: "agaric mushroom"
+------> South Slavic <*pečurka>
+-------> Bulgarian `печу́рка` <pečúrka>: "mushroom"
+-------> Serbo-Croatian `пѐчӯрка` <pèčūrka>: "mushroom, esp. agaric mushroom"
+------> West Slavic <*pečarka>
+-------> Czech `pečárka`: "agaric mushroom, esp. common mushroom"
+-------> Polish `pieczarka`: "agaric mushroom"
+
+
+
+--> Proto-Indo-European <*pékʷtis> (action noun)
+
+---> Balto-Slavic <*pektis>
+----> Slavic <*pȅťь>: "oven"
+-----> East Slavic `печь` <pečĭ>: "stove, oven, furnace"
+------> Russian `печь` <pečʹ>: "stove, oven, furnace, kiln"
+-------> Armenian `փեչ` <pʿečʿ>: "stove, oven"
+-------> Finnish `pätsi`: "furnace, hellfire"
+------> Ukrainian `піч` <pič>: "oven"
+-----> South Slavic
+------> Bulgarian `пещ` <pešt>: "furnace, oven"
+------> Old Church Slavonic `пещь` <peštĭ>: "oven, stove"
+------> Serbo-Croatian `пе̑ћ` <pȇć>: "furnace, oven, stove"
+-----?> Hungarian `Pest`: "Pest" ###
+-------> English `Pest`
+-------> Hungarian `Budapest`: "Budapest" ###
+--------> English `Budapest`
+-----> West Slavic
+------> Czech `pec`: "oven, furnace"
+------> Polish `piec`: "fireplace, stove, furnace"
+
+-----> Slavic <*peťera>: "cave"
+------> East Slavic `печера` <pečera>: "cave"
+-------> Ukrainian `пече́ра` <pečéra>: "cave" 
+-------> Polish `pieczara`: "small cave, grotto"
+------> South Slavic
+-------> Bulgarian `пещера` <pešterá>
+--------> Bulgarian `Пещера` <Peštera>
+---------> English `Peshtera`
+-------> Old Church Slavonic `пещера` <peštera>: "cave, dungeon, refuge"
+--------> Romanian `peșteră`: "cave"
+--------> Russian `пеще́ра` <peščéra>: "cave"
+-------> Serbo-Croatian `пѐћина` <pèćina>: "cave"
+------?> Hungarian `Pest` ###
+
+----> West Baltic
+----?> Old Prussian `pagaptis`: "spit (for roasting)"
+
+
+
+---> Hellenic
+----> Classical Greek `πέψῐς` <pépsis>
+-----> Latin `dyspepsia`
+
+
+--> Proto-Indo-European <*pékʷmn̥>
+
+---> Hellenic <*pékʷmə>
+----> Classical Greek `πέμμα` <pémma>
+
+
+
+endbody
+
+startnotes
+
+# <*p-kʷ> has regular regressive assimilation to <*kʷ-kʷ> in  Celtic and Italic. This is also seen in <*pérkʷu-s>: "oak" (-> Irish `cert` and Latin `quercus`)  and <*pénkʷe>: "five" (-> Irish `cúig` and Latin `quīnque`).
+
+Though this is confusing in Brythonic and Osco-Umbrian where <*kʷ-> became <*p->. In Osco-Umbrian, that's a merger with the existing <*p->, but in Brythonic we can be sure it reflects <*kʷ-> in Celtic because PIE <*p-> becomes Celtic <*φ->, which was then lost in all modern Celtic languages.
+
+
+## Middle English `cury`: "cookery, cooking" is in the title of the historical cookbook "The Forme of Cury", published in 1390 in Richard II's court.
+
+Though the modern English word `curry` is primarily from Tamil `கறி` <kaṟi>: "curry, sauce, pepper", it is thought that the existing English `cur(r)y` influenced the form.
+
+Sadly (at least for current purposes), the surname `Curry` is not an occupational surname for a cook, but an Anglicization from one or more Irish surnames, such as `Ó Comhraidhe` (post spelling reform `Ó Camhraí`).
+
+
+### Budapest is a merger of multiple towns that grew into each other, including Buda and Pest. The name `Pest` may be from a South Slavic language, and mean "oven", "cave", and/or "a cave used as an oven or limekiln"; from Slavic <*pȅťь>: "oven" (Bulgarian `пещ` <pešt>) or its derivative <*peťera>: "cave" (Bulgarian `пещера` <pešterá>).
+
+In German, the town of "Buda" is called `Ofen`: "oven, furnace"—a translation of `Pest` (which shifted refererrent) but that does not of course prove for sure that <*pȅťь> is the origin of the name `Pest`.
+
+
+#### It's extremely uncertain to derive West Germanic <*kōkô> and Old Norse `kaka` (the origins of `cookie` and `cake`) from the West Germanic borrowing from Latin that gives "cook" and "kitchen", all the other words in that group have very clear, later paths into the North Germanic languages, but `kaka` mostly goes the other way, from Old Norse into the West Germanic languages. But all the other derivations of <*kōkô>/`kaka` are just as questionable and don't connect to any real family of any size. So this is the best place to cover this mini- and/or sub-family.
+
+
+##### The town of Kocs is on the road between Vienna and Budapest (now part of European route E60), and carting goods was a big part of its economy. The "Kocs cart" (`kocsi szekér`) spread across the rest of Europe, possibly due to the steel-spring suspension—but that may have been a later innovation after they had already spread.
+
+In Oxford slang, `coach` was used metaphorically for a tutor who "carries" someone through an exam. This meaning (and even more so, the extension to sports) was then borrowed as a separate word into many languages that already had the word for the cart.
+
+
+endnotes

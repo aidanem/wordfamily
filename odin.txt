@@ -1,0 +1,136 @@
+date: 20221111
+tags: Divinities
+
+
+
+startbody
+
+
+Proto-Indo-European <*weh₂t->: "excited, inspired, possessed, raging"
+
+
+-> Proto-Indo-European <*wéh₂tos> (adjective)
+
+--> Germanic <*wōdaz>
+---> East Germanic
+----> Gothic `𐍅𐍉𐌳𐍃` <wōds>: "possessed (as by a demon)"
+---> North Germanic
+----> Old Norse `óðr`: "mad, furious, inspired"
+-----> Old Norse `Óðr`: "Divinity name: husband of Freja" #
+-----> Icelandic `óður`: "furious, frantic, crazy"
+---> West Germanic
+----> Old English `wōd`: "insane, rabid"
+-----> English `wode`
+----> Frankish <*wōd>
+-----> Dutch `woede`: "anger, wrath, outrage, frenzy"
+----> Old High German `wuot`
+-----> German `Wut`: "rage, fury, outrage, ecstasy, freny"
+------> German `Tollwut`: "rabies"
+
+---> Germanic <*Wōdanaz>: "Divinity name: Odin"
+----> North Germanic
+-----> Proto-Norse `ᚹᛟᛞᛁᚾᛦ` <wodinz>
+------> Old Norse `Óðinn`
+-------> Danish `Oden`
+-------> Icelandic `Óðinn`
+-------> English `Odin`
+-------> Literary Chinese `奧丁`  ##
+--------> Mandarin `奧丁` <Àodīng>
+--------> Cantonese `奧丁` <Ou³ Ding¹>
+-------> Old Norse `óðinsdagr`: "Odin's Day, Wednesday" (calque of West Germanic <*Wōdanas dag>)
+
+----> West Germanic
+-----> Old English `Wōden`
+-----> Frankish <*Wuodan>
+------> Dutch `Woen` (partially back-formed from `woensdag`)
+-----> Old High German `Wōtan`
+------> German `Wotan`
+------> Medieval Latin `Vōdanus`
+
+-----> West Germanic <*Wōdanas dag>: "Odin's Day, Wednesday" (calque of Latin `dīes Mercuriī`)
+------> Old English `wōdnesdæġ`: "Wednesday"
+-------> Middle English `Wodnesdai`: "Wednesday"
+------> Old English <*wēdnesdæġ>: "Wednesday" ###
+-------> Middle English `Wednesdei`: "Wednesday" ###
+--------> English `Wednesday` ###
+---------> Māori `Wenerei`: "Wednesday"
+------> Frankish <*wuodenesdag>
+-------> Dutch `woensdag`: "Wednesday"
+--------> Dutch `Woen` (partially back-formed from `woensdag`)
+
+------> Old Norse `óðinsdagr`: "Odin's Day, Wednesday" (calque of West Germanic <*Wōdanas dag>)
+-------> Danish `onsdag`: "Wednesday"
+
+
+
+
+
+--> Indo-Iranian <*wáHtas>
+---> Indo-Aryan
+----> Sanskrit `𑀯𑀸𑀢` <vā́ta>: "injured, assailed" ####
+
+
+-> Proto-Indo-European <*weh₂tis>: "seer, prophet" (noun)
+
+--> Celtic <*wātis>
+---> Gaulish <*uatis>: "seer, prophet"
+----> Classical Greek `οὐάτεις` <owáteis>: "Gaulish prophet"
+---?> Latin `vātēs`: "seer, prophet, poet, oracle" (or borrowed from Gaulish)
+-----> Latin `vāticinor`: "I prophecy, I foretell, I sing, I rave" (compound with "canō": "I sing")
+-----?> Latin `Vāticānus`: "Place name: Hill of Prophets?"
+-------> English `Vatican`
+---> Old Irish `fáith`: "seer, prophet"
+----> Irish `fáidh`: "seer, prophet, sage"
+----> Old Irish `fáithsine`: "prophecy"
+-----> Irish `fáistine`: "prophecy, divination" (with metathesis)
+
+
+
+-> Proto-Indo-European <*woh₂tos>
+
+-?> Old Armenian `գութ` <gutʿ>: "prayer, entreaty, compassion, pity"
+---> Armenian `գութ` <gutʿ>: "pity, compassion"
+
+--> Germanic <*wōþaz>
+---> North Germanic
+----> Old Norse `óðr`: "inspiration, poetry, mind, soul"
+-----> Icelandic `óður`: "ode"
+
+-> Proto-Indo-European <*wéh₂tus> (action noun)
+
+--> Celtic <*wātus>
+---> Brythonic
+----> Welsh `gwawd`: "poem, ode, eulogy, satire, mockery"
+
+
+-> Proto-Indo-European <*wéh₂teh₂> (collective noun)
+
+--> Germanic <*wōþō>
+---> West Germanic
+----> Old English `wōþ`: "song, poetry, voice, speech"
+
+
+
+endbody
+
+
+startnotes
+
+
+# Okay so first, Freyja isn't attested outside of North Germanic and her name isn't really a name just a title; while Frigg is clearly part of Common Germanic theology. And then second, it's not Frigg—Odin's wife and queen—who gets the other half of the worthy dead, it's Freyja.
+
+And then not only is Odin's wife Frigg, but Freyja's husband is Odr? I mean, come on.
+
+
+## The Chinese translation of "Odin"—奧丁—is amazing!
+It's a close phonetic match: Pinyin: Àodīng, Jyutping: Ou³ Ding¹
+But also, it translates as "Esoteric Man". Or possibly, with second round simplification, "Gaze upon the Esoteric"
+
+### English `Wednesday` is not the reflex of the usual Old English `wōdnesdæġ`, but from an unattested variant *wēdnesdæġ. Both variants appear in Middle English 
+
+, continuing *Wōdinaz instead of <*Wōdanaz>. 
+
+
+#### Sanskrit `𑀯𑀸𑀢` <vā́ta>: "attacked, injured" is thought to derive from Proto-Indo-European <*weh₂t->, but it's worth comparing it to Old Norse `váði`: "danger, peril, harm", which is thought to be from <*weyk->: "to overcome".
+
+endnotes

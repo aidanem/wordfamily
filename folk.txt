@@ -1,0 +1,394 @@
+date: 20180914
+theme: Community 🏘️
+
+startbody
+
+Proto-Indo-European <*pleh₁>: "to fill"
+
+-> Proto-Indo-European <*pleh₁-ti>: primary verb (root perfective)
+
+--> Hellenic
+---> Ancient Greek `πλῆτο` <plêto>
+
+-> Proto-Indo-European <pleh₁st> (sigma perfective)
+--> Proto-Indo-European <*h₁n̥-pleh₁st>: "in-fill (perfective)"
+
+---> Indo-Iranian <*HápraHt>
+----> Indo-Aryan
+-----> Sanskrit `अप्रात्` <áprāt>: "to fill"
+
+
+-> Proto-Indo-European <*pípleh₁-ti> (reduplicate imperfective)
+
+--> Hellenic
+---> Ancient Greek `πίμπλημι` <pímplēmi>: "I fill, I satisfy"
+
+--> Indo-Iranian <*píparti>
+---> Indo-Aryan
+----> Sanskrit `पिपर्ति` <píparti>: "to fill, to satisfy, to fulfil, to inflate, to blow"
+---> Iranian
+----> East Iranian
+-----> Avestan `𐬵𐬀𐬨𐬞𐬁𐬟𐬭𐬁𐬌𐬙𐬌`‎ <hampāfrāiti>: "fills himself" (Vendidad 4.48)
+
+
+-> Proto-Indo-European <*pl̥néh₁-ti> (nasal infix imperfective)
+
+--> Indo-Iranian <*pr̥náHti>
+---> Indo-Aryan
+----> Sanskrit `पृणाति` <pṛnā́ti>: "fulfill, nourish, inflate"
+
+
+-> Proto-Indo-European <*pleh₁ye-ti> (ye imperfective)
+
+--> Italic <*plēō>
+---> Latin `pleō`: "I fill, I fulfill"
+----> Latin `compleō`: "I fill up, I complete"
+-----> Western Romance
+------> Italian `compiere`: "to finish, to complete, to reach an age""
+------> Spanish `cumplir`: "to fulfill, to complete, to reach an age"
+-------> English `comply`
+-------> Spanish `cumplimiento`: "compliance, completion, formality"
+--------> Italian `complimento`: "ceremony, congratulations, compliment"
+---------> French `compliment`: "compliment"
+----------> English `compliment`
+-----> Latin `complētus` :"filled, complete"
+------> English `complete`
+-----> Latin `complēmentum`: "complement (that which completes)"
+------> French `complément`: "complement"
+-------> English `complement`
+-----> Vulgar Latin `*accompleō`
+------> Old French
+-------> French `accomplir`: "to accomplish, to achieve"
+-------> English `accomplish`
+----> Latin `dēpleō`: "I empty out, I drain, I exhaust"
+-----> English `deplete`
+----> Latin `expleō`: "to fill out"
+-----> Latin `explētus`: "filled out, completed"
+------> Late Latin `explētīvus`: "serving to fill out, filler"
+-------> English `expletive`
+----> Latin `impleō`: "I fill up, I satisfy, I fulfill"
+-----> Eastern Romance
+------> Romanian `a umple`: "to fill, to stuff, to cram"
+-----> Western Romance
+------> French `emplir`: "to fill"
+------> Italian `empire`: "to fill, to overflow" (archaic)
+-------> Italian `riempire`: "to fill in, to fill up, to stuff, to heap"
+------> Spanish `henchir`: "to swell, to fill"
+-----> Latin `implēmentum`
+------> English `implement`
+----> Latin `repleō`: "to fill again, to replenish, to restore, to satisfy"
+-----> Latin `replētus`: "refilled, satisfied"
+------> Western Romance
+-------> Old French
+--------> French `replet`: "plump, chubby"
+--------> English `replete`
+-------> Spanish `repleto`: "replete, full"
+----> Latin `suppleō`: "I make up for, I replace, I fill up, I supply, I supplement"
+-----> Western Romance
+------> French `suppléer`: "to supply, to replace"
+-------> English `supply`
+------> Italian `sopperire`: "to provide (for)"
+------> Italian `supplire`: "to stand in (for), to make up (for)"
+------> Spanish `suplir`: "to substitute, to supply, to eke out"
+-----> Latin `supplēmentum`
+------> Western Romance
+-------> French `supplément`: "supplement"
+--------> English `supplement`
+-------> Spanish `suplemento`: "supplement"
+---?> Latin `amplus`: "large, spacious, magnificent"
+-----> Western Romance
+------> French `ample`: "plentiful, abundant, ample"
+-------> English `ample`
+------> Italian `ampio`: "wide, broad, loose, spacious"
+------> Spanish `ancho`: "wide, broad, proud"
+-----> Welsh `ami`: "frequent"
+
+
+
+-> Proto-Indo-European <*pelh₁sḱéti> (iterative)
+--> Proto-Indo-European <*h₁én-pelh₁sḱéti>: "in-filling"
+
+--?> Old Armenian `յեղց` <yełcʿ>: "full"
+
+
+-> Proto-Indo-European <*pléh₁dʰuh₁>
+
+--> Hellenic
+---> Ancient Greek `πλῆθος` <plêthos>: "large number, majority, crowd, mob, general public"
+
+--> Italic <*plēðūs>
+---> Latin `plēbs`: "plebeians, common people"
+----> Western Romance
+-----> Italian `pieve`: "rural parish church"
+----> Brythonic <*pluïβ>
+-----> Welsh `plwyf`: "parish, community, poor relief"
+----> English `pleb`
+----> French `plèbe`
+-----> English `plebe`
+----> Italian `plebe`: "common people, rabble, riff raff"
+----> Latin `plēbēius`
+-----> Medieval Latin `plebeianus`
+------> English `plebeian`
+----> Latin `plēbiscītum`
+-----> French `plébiscite`
+------> English `plebiscite`
+---> Italic <*plēðros>
+----> Oscan `𐌐𐌋𐌝𐌚𐌓𐌉𐌊𐌔` <plífriks>: "plebeian"
+
+
+
+-> Proto-Indo-European <*pl̥h₁nós>: "full"
+
+--> Balto-Slavic <*pílˀnas>: "full"
+---> Lithuanian `pìlnas`: "full"
+---> Slavic <*pьlnъ>: "full"
+----> East Slavic
+-----> Russian `по́лный` <pólnyj>: "full, complete, perfect, stout"
+----> South Slavic
+-----> Serbo-Croatian `пу̏н` <pȕn>: "full, compelte, occupied, plump"
+----> West Slavic
+-----> Polish `pełny`: "full"
+
+--> Celtic <*ɸlānos>: "full"
+---> Brythonic <*lọn>: "full"
+----> Welsh `llawn`: "full, abundant, fully, very"
+---> Old Irish `lán`: "full"
+----> Irish `lán`: "full"
+
+--> Germanic <*fullaz>: "full, whole, entire"
+---> East Germanic
+----> Gothic `𐍆𐌿𐌻𐌻𐍃` <fulls>: "full, whole, entire"
+---> North Germanic
+----> Old Norse `fullr`: "full"
+-----> Danish `fuld`: "full, complete, drunk"
+-----> Icelandic `fullur`: "full, drunk"
+---> West Germanic
+----> Old English `full`: "full, complete, entire"
+-----> English `full`
+----> Frankish
+-----> Dutch `vol`: "full"
+----> Old High German `foll`: "full"
+-----> German `voll`: "full, drunk"
+-----> Yiddish `פֿול` <ful>: "full"
+---> Finnic <*pullas>: "round, thick"
+----> Finnish `pullea`: "plump, round"
+---> Samic <*polnē>: "hill, mound"
+----> Northern Sami `boldni`
+---> Germanic <*fullijaną>: "to fill, to make full"
+----> East Germanic
+-----> Gothic `𐍆𐌿𐌻𐌻𐌾𐌰𐌽` <fulljan>: "to fill"
+----> North Germanic
+-----> Old Norse `fylla`: "to fill, to complete"
+------> Danish `fylde`: "to fill, to load, to reach an age, to stuff (cooking)"
+------> Icelandic `fylla`: "to fill"
+----> West Germanic
+-----> Old English `fyllan`: "to fill"
+------> English `fill`
+------> Old English `fullfyllan`: "to fulfill"
+-------> English `fulfill`
+-----> Frankish
+------> Dutch `vullen`: "to fill"
+-----> Old High German `fullen`: "to fill"
+------> German `füllen`: "to fill, to stuff (cooking)"
+
+--> Indo-Iranian <*pr̥Hnás>: "full, filled"
+---> Indo-Aryan <*pr̥Hnás>
+----> Sanskrit `पूर्ण` <pūrṇá>: "filled, complete, past, satisfied, powerful, selfish"
+-----> Magadhi
+------> Bengali `পূর্ণ` <purnô>: "full, whole, complete"
+-----> Sauraseni
+------> Madhari
+-------> Hindi `पूरा` <pūrā>: "whole, complete, fulfilled"
+------> Pahari
+-------> Punjabi `ਪੂਰਾ` (pūrā)
+------> Pali <puṇṇa>
+------> Telugu `పూర్ణము` <pūrṇamu>: "full, complete, powerful, pie filling"
+-----> Sanskrit `पूर्णिमा` <pūrṇimā>: "(day/night of) full moon"
+------> Sauraseni
+-------> Pali
+--------> Malay `purnama`: "moon"
+---> Iranian <*pr̥Hnáh>
+----> East Iranian
+-----> Avestan `𐬞𐬆𐬭𐬆𐬥𐬀`‎ (pərəna)
+-----> Pashto `پر‎` <pur>
+-----> Saka <*purrəh>
+------> Khotanese ` ` <purrä>
+----> West Iranian
+-----> Kurdish `pir` <piř>: "very"
+-----> Old Persian `*𐎱𐎼𐎴` <*purna>
+------> Persian `پر‎` <por>: "full"
+
+--> Italic <*plēnos>
+---> Latin `plēnus`: "full, satisfied, plump"
+----> Sardinian `prenu`: "full"
+----> Eastern Romance
+-----> Romanian `plin`: "full"
+----> Western Romance
+-----> French `plein`: "full, plenty, solid, mid-"
+-----> Italian `pieno`: "full"
+-----> Spanish `lleno`: "full"
+----> Latin `plenitas`: "fullness, abundance"
+-----> Western Romance
+------> Old French `plenté`: "fullness, abundance"
+-------> English `plenty`
+----> Latin `plēnitūdō`: "fullness, abundance"
+-----> Western Romance
+------> French `plénitude`: "plentitude, fullness"
+-------> English `plenitude`
+--------> English `plentitude`
+------> Spanish `plenitud`: "plentiude"
+----> Latin `plēnārius`: "full, complete, absolute"
+-----> Western Romance
+------> French `plénier`: "complete, entire, plenary"
+-----> English `plenary`
+-----> Italian `plenario`: "plenary"
+-----> Spanish `plenario`: "plenary"
+
+
+
+-> Proto-Indo-European <*pleh₁ros>: "full"
+
+--> Italic <*plēros>
+---> Latin `plērus`: "most, almost all"
+
+
+-> Proto-Indo-European <*pléh₁res>?
+
+--> Hellenic
+---> Ancient Greek `πλήρης` <plḗrēs>: "full, complete"
+----> Greek `πλήρης` <plíris>: "full, complete"
+
+
+-> Proto-Indo-European <*pl̥h₁tós>: "full"
+
+--> Albanian `plotë`: "full"
+
+--> Indo-Iranian <*praHtás>
+---> Indo-Aryan 
+----> Sanskrit `प्रात` <prātá>
+
+
+-> Proto-Indo-European <*polh₁ús>: "much, many"
+
+--> Hellenic
+---> Mycenaean Greek `*𐀡𐀬` <po-ru>
+----> Mycenaean Greek `𐀡𐀬𐀡𐀆` <po-ru-po-de>: "octopus" ("many-foot")
+---> Ancient Greek `πολῠ́ς` <polús>: "many" 
+----> English `poly-`
+----> Ancient Greek `πλείων` <pleíōn>: "more" #
+-----> English `Pl(e)iocene`
+----> Ancient Greek `πλεῖστος` <pleîstos>: "most" #
+-----> English `Pleistocene`
+
+
+-> Proto-Indo-European <*ploh₁is> (~fuller)
+
+--> Italic <*plous>
+---> Latin `plūs`: "more"
+----> Western Romance
+-----> French `plus`: "more"
+-----> Italian `più`: "more"
+----> English `plus`
+----> Latin `plūrālis`: "plural, moreness"
+-----> Old French `plurel`
+------> French `pluriel`
+------> English `plural`
+-----> Italian `plural`
+-----> Spanish `plural`
+----> Latin `duplus`: "double" ##
+-----> Sardinaian `dopiu`
+-----> Western Romance
+------> French `double`: "double"
+-------> English `double`
+------> Italian `doppio`: "double, dual, two-faced"
+------> Spanish `doble`
+----> Latin `manipulus`: "handful, team, maniple (pre-Marian tactical unit)"
+-----> English `maniple`
+
+
+-> Proto-Indo-European <*plh₁yó-s>
+
+-?> Old Armenian `լի` <li>: "full, abundant, perfect, whole"
+---> Armenian `լի` <li>: "full, packed, abundant, rich"
+---> Old Armenian `լնում` <lnum>: "to fill, to load, to complete, to spread"
+
+
+-> Proto-Indo-European <*pl̥h₁go-s>
+
+--> Pre-Germanic <*pulkaz>
+---> Germanic <*fulką>: "folk"
+----> North Germanic
+-----> Old Norse `fólk`: "people"
+------> Danish `folk`: "people, men, crew"
+------> Icelandic `fólk`: "people"
+----> West Germanic
+-----> Old English `folc`: "people, nation, tribe, crowd"
+------> English `folk`
+-------> English `filk`
+------> Scots `fowk`: "folk, people"
+-----> Frankish <*folk>
+------> Dutch `volk`: "people, nation, tribe, common folk, working classes"
+------> Vulgar Latin <*fulcus>
+-------> Western Romance
+--------> French `foule`: "crowd, multitude, host"
+--------> Italian `folla`: "crowd, mob, host"
+-----> Old High German `folk`
+------> German `Volk`: "people, nation, tribe, common folk, working classes, crowd, swarm, hive"
+-------> Translingual `Volkswagen`
+------> Yiddish `פֿאָלק`‎ <folk>: "people, folk"
+----> Germanic <*fulkiją>: "collection of people, band, company, troop"
+-----> North Germanic
+------> Old Norse `fylki`: "district, county, shire, battalion"
+-------> Danish `fylke`: "county"
+-------> Icelandic `fylki`: "province, county, state, matrix, array"
+-----> West Germanic
+------> Old English `fylċe`
+-------> Old English `fylċian`: "to marshall troops"
+-------?> English `filch`
+-----> Germanic <*fulkijaz>
+------> North Germanic
+-------> Old Norse `fylkir`: "chief, king"
+
+---> Balto-Slavic <pulkas>
+----> Lithuanian `pul̃kas`: "flock, crowd, regiment"
+----> Slavic <*pъlkъ>
+-----> East Slavic `пълъкъ` (pŭlŭkŭ)
+------> Russian `полк`: "regiment"
+-----> South Slavic
+------> Serbo-Croatian `пу̑к` <pȗk>: "folk, people"
+-----> West Slavic
+------> Polish `pułk`: "regiment"
+-------> German `Pulk`: "mob, throng, crowd"
+
+-> Proto-Indo-European <?>
+
+--> Hellenic
+---> Ancient Greek `πλήθω` <plḗthō>: "I am full, I swell"
+----> Ancient Greek `πληθώρη` <plēthṓrē>: "fullness"
+-----> Greek `πληθώρα` <plithóra>
+-----> Latin `plēthōra`: "plethora"
+------> English `plethora`
+
+
+-> Proto-Indo-European <*pelh₁-nu-ti> ("~not-fulling?")
+
+--> Old Armenian `հեղում` <hełum>: "pour, pour out, empty. spread, shed"
+---> Armenian `հեղել` <hełel>: "to spill"
+
+
+
+endbody
+
+
+
+
+fulfill
+
+
+# Greek `πλείων` <pleíōn>: "more" and πλεῖστος <pleîstos> "most" are obivously related in some way Greek `πολῠ́ς` <polús>: "many", but I don't have the details of that derivation. 
+
+
+## In Latinate words like `simple`, `double`, `triple` it is sometimes hard to know the origins of the `-ple`-type suffix, due to the confusability of Latin `plus`: "more" and `plex`: "fold". In many cases both words existed in Latin side-by-side (`simplus`/`simplex`, `duplus`/`duplex`, etc.) which under went some combination of merger or influence to give a single inherited word (often with later re-borrowings of one or both forms). 
+
+This is probably mirrored in Greek <-plóos> and <-plásios>, which are both used to form adjectives from numerals and generally considered alternate forms of each other, but look like cognates of `plus` and `plex`, respectively. As in many things, the Latin may have been influenced by the Greek.
+

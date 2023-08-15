@@ -1,0 +1,90 @@
+date: 20221007
+tags: Animals, Algic
+
+
+
+startbody
+
+
+Algonquian <*-a·kw->: "animal, bushy-tailed animal, fox"
+
+-> Algonquian <*wa·kwa>: "fox"
+--> Algonquian <*wa·kwehsa>: "fox kit, fox" (with diminutive <*-ehsa>)
+---> Central Algonquian
+----> Ojibwe `ᐙᑯᔥ` <waagosh>: "fox"
+---> Cheyenne `vóhkéso`: "fox kit" #
+---> Eastern Algonquian
+----> Abenaki `(w)ôkwses`: "fox" #
+----> Mohegan `wôks`: "fox" #
+----> Unami `òkwës`: "fox" #
+
+
+
+-> Algonquian <*šeka·kwa>: "skunk, piss-fox"
+--> Arapahoan
+---> Arapaho `xou`: "skunk"
+--> Central Algonquian
+---> Miami `šikaakwa`: "skunk, wild onion"
+----> Miami `šikaakonki`: "at the onions, Chicago" (locative)
+----> French `Chécagou`
+-----> English `Chicago`
+---> Ojibwe `ᔑᑳᒃ` <zhigaag>: "skunk"
+----> Ojibwe `ᔑᑳᑲᐧᐊᓐᔒᣖ` <zhigaagawanzhiig>: "onion" (lit. "skunk-plant")
+--> Cheyenne `xāō'o`: "skunk"
+--> Cree `ᓯᑳᐠ` <sikaak>: "skunk"
+--> Eastern Algonquian <*šəkākʷ>
+---> Abenaki `segôgw`: "skunk"
+---> Southern New England Algonquian <*segonku>: "skunk"
+----> English `skunk`
+-----> French `skunks`: "skunk"
+------> Romanian `sconcs`: "skunk"
+-----> Icelandic `skunkur`: "skunk"
+-----> Japanese `スカンク` <sukanku>: "skunk"
+---> Unami `shkakw`: "skunk"
+
+
+-> Algonquian <*ka·kwa>: "porcupine"
+--> Arapahoan
+--?> Arapaho `hoo`: "porcupine"
+--> Central Algonquian
+---> Miami `aakaawita`: "porcupine"
+---> Ojibwe `ᑳᒃ` <gaag>: "porcupine"
+--> Cree `ᑳᑲᐧ` <kâkwa>: "porcupine"
+---> English `cawquaw`
+--> Eastern Algonquian
+---> Abenaki `kôgw`: "porcupine"
+---> Mohegan `kôq`: "porcupine"
+
+
+
+
+Algonquian <*šek->: "to urinate"
+
+-> Blackfoot `ssksi`: "urinate"
+-> Central Algonquian
+--> Ojibwe `ᔒᔒᑭ` <zhiishiigi>: "urinates"
+-> Cheyenne `-xaa'e`: "urinate"
+-> Eastern Algonquian
+--> Abenaki `segi-`: "urinate"
+--> Unami `shki`: "urinate"
+
+-> Algonquian <*šeka·kwa>: "skunk, piss-fox"
+
+
+
+
+
+endbody
+
+
+startnotes
+
+
+# Algonquian <*wa·kwehsa>: "fox kit, fox" was originally a diminutive but expanded to all ages of fox in almost all descendants.
+
+Amusingly, it is a plausible source of an English borrowing of "fox", you could see it following the pattern of "skunk" coming from the related Algonquian <*šeka·kwa>—though of course it is not the true source of English "fox", which actually comes from Germanic <*fuxsaz>: "fox".
+
+If you look at Eastern Algonquian Abenaki `(w)ôkwses` and Mohegan `wôks`, you could easily imagine borrowing "fox" and/or "foxes" from an Eastern Algonquian language, just have to get a <*w> to <*f> sound change, which is typologically very common (compare Cheyenne `vóhkéso`).
+
+
+endnotes

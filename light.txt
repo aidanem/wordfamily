@@ -1,0 +1,349 @@
+date: 20170421
+tags: Animals, Elements, SI Units
+
+
+startbody
+
+Proto-Indo-European <*lewk->: "to shine, to see"
+
+
+-> Proto-Indo-European <*lowkéh-ti>: "to be shining, to be visible" (stative)
+
+--> Balto-Slavic <*laukeitei>: "to look for?"
+---> East Baltic
+----> Lithuanian `láukti`: "to wait, to expect, to hope for"
+---> Slavic <*lučìti>: "to see? to find? to accomplish?"
+----> East Slavic
+-----> Russian `лучить` <lučitʹ>:  "to allow, to hunt at night with a light"
+-----> Ukrainian `лучити` <lučyty>: "to aim at"
+----> South Slavic
+-----> Bulgarian `луча`: "to aim at, to hit, to guess"
+-----> Serbo-Croatian `лучити` <lučiti>: "to find, to receive, to attain"
+----> West Slavic
+-----> Czech `lučit`: "to throw"
+
+--> Celtic <*luketi>
+---> Celtic <*luketad>
+----> Brythonic <*llugad>: "eye"
+-----> Welsh `llygad`: "eye"
+
+--> Italic <*loukeō>
+---> Latin `lucere`: "I shine, I become visible, I dawn, I am apparent"
+----> Central Romance
+-----> Italian `lucere`: "to shine (archaic)"
+----> Eastern Romance
+-----> Romanian `a luci`: "to shine, to sparkle, to beam with joy"
+----> Western Romance
+-----> French `luire`: "to shine, to glimmer"
+-----> Spanish `lucir`: "to shine, to show off, to sport"
+----> Latin `lucidus`: "shining, bright, clear"
+-----> English `lucid`
+----> Latin `translucere`: "I shine across, I shine through"
+-----> English `translucent`
+
+-> Indo-Iranian
+--> Indo-Aryan
+---> Sanskrit `𑀭𑁄𑀘𑀢𑁂` <rocate>: "to shine, be resplendent, enlighten"
+
+
+-> Proto-Indo-European <*lewkós>: "shiny" (adjective)
+
+--> Pre-Albanian <*lauku>
+---> Pre-Albanian <*laukura>
+----> Albanian `lakuríq`: "naked, empty"
+
+--> Celtic <*loukos>: "white, eyesight"
+---> Brythonic <*lʉg>
+----> Middle Welsh `llug`: "eyesight, perception"
+---> Gaulish `Leucus`
+
+--> Hellenic
+---> Mycenaean Greek `𐀩𐀄𐀏` <re-u-ka>: "white"
+---> Classical Greek `λευκός` <leukós>: "bright, shining, white"
+----> Classical Greek `Ἄκρα Λευκή` <Ákra Leukḗ>: "White Summit (place name)"
+-----> Latin `Leukante`
+------> Arabic `اَللَقَنْت` <Al-Laqant>
+-------> Spanish `Alicante`
+----> German `Leukämie`: "leukemia"  (Greek technical formation, lit. "white-blood")
+-----> English `leukemia`
+
+
+
+-> Proto-Indo-European <*lewktos>: "bright" (adjective)
+
+--> Albanian `lluke`: "blind"
+
+--> Germanic <*leuhtaz>: "light, brightness"
+---> East Germanic
+----> Gothic `𐌻𐌰𐌿𐌷𐌰𐍄𐌾𐌰𐌽` <lauhatjan>: "to lighten, to flash with lightening"
+---> North Germanic
+----> Old Norse `ljóss`: "bright, shining, fair, evident"
+-----> Danish `lys`: "light, bright, blond, cheery"
+-----> Icelandic `ljós`: "a light"
+-----> Old Norse `Ljósálfr`: "Light Elf"
+---> West Germanic
+----> Old English `lēoht`: "light"
+-----> English `light`
+-----> Scots `licht`: "light"
+----> Frankish <*lioht>
+-----> Dutch `licht`: "light, inspiration"
+----> Old High German `lioht`
+-----> German `Licht`: "light, candle"
+-----> Yiddish `ליכט` <likht> : "candle"
+
+
+
+
+-> Proto-Indo-European <*léwks>: "shine" (noun)
+
+--> Old Armenian <*loycʿ->
+---> Old Armenian `լուցանեմ` <lucʿanem>: "to light, to kindle, to inflame"
+----> Armenian `լուցել` <lucʿel>: "to kindle"
+
+--> Italic
+---> Latin `lux`: "light"
+----> Translingual `lux`: "SI unit of illumniation (1 lumen/m²)"
+----> Latin `lucifer`: "light bringer, morning star (Venus)"
+-----> English `Lucifer` #
+-----> English `lucifer`: A brand of self-lighting match
+------> Dutch `lucifer`: "match"
+
+--> Indo-Iranian
+---> Iranian
+----> Northern Iranian
+-----> Scythian
+------> Ossetian `рухс` <ruxs>: "light"
+----> Western Iranian
+-----> Old Persian
+------> Persian `رخش` <roxš>: "light"
+
+
+-> Proto-Indo-European <*lukeh₂>
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀭𑁄𑀓` <roká>: “light”
+
+--> Hellenic
+---> Classical Greek <*lúkē>: "light, dawn"
+---?> Classical Greek `λυκάβας` <lukábas>: "year" (lit. "light-path"?)
+
+
+-> Proto-Indo-European <*luksnos>
+
+--> Hellenic
+---> Classical Greek `λῠ́χνος` <lúkhnos>: "lamp"
+
+
+-> Proto-Indo-European <*léwkos>: "lighting" (action or result noun)
+
+--> Old Armenian `լոյս` <loys>: "light, brightness, splendor, sun, day"
+---> Armenian `լույս` <luys>: "light, dawn, electricity"
+
+--> Indo-Iranian <*ráwčas>
+---> Indo-Aryan
+----> Sanskrit `𑀭𑁄𑀘𑀲𑁆` <rócas>
+---> Iranian
+----> Avestan `𐬭𐬀𐬊𐬗𐬀𐬵` <raočah>: "day"
+----> Bactrian `ρωσο` <rōso>: "day"
+----> Pashto `ورځ` <wraź>: "day"
+----> Western Iranian
+-----> Kurdish `roj`: "day, Sun"
+-----> Old Persian `𐎼𐎢𐎨𐏃` <raučah>: "day"
+------> Persian `روز` <rōz>: "day"
+-------> Persian `نوروز` <Nowruz>: "New Day, New Year's Day in Iranian/Zoroastrian Year"
+--------> English `Nowruz`
+---> Nuristani
+----> Ashkun <ẓoć>
+----> Kamviri <řuč>
+
+
+
+-> Proto-Indo-European <*léwksmn̥>: "lighting" (action or result noun)
+
+--> Italic
+---> Latin `lumen`: "light, daylight, opening, window, eyes"
+----> Eastern Romance
+-----> Romanian `lume`: "world, people, humanity"
+----> Western Romance
+-----> French `lumière`: "light"
+-----> Italian `lume`: "light source, star, eyes"
+-----> Spanish `lumbre`: "combustible material, fire, firelight, luminosity"
+----> Translingual `lumen`: "SI unit of luminous flux (1 candela-steradian)"
+----> Latin `luminare`: "I illuminate, I reveal, I brighten"
+-----> Latin `illuminare`
+------> English `illuminate`
+----> Latin `luminosus`
+-----> English `luminous`
+
+
+
+-> Proto-Indo-European <*lówkos>: ‎"open space, clearing"
+
+--> Balto-Slavic
+---> Lithuanian `laũkas`: "field, outdoors"
+
+--> Germanic <*lauhaz>: "clearing"
+---> North Germanic
+----> Old Norse `ló`
+-----> Norwegian `lo`
+------> Norwegian `Oslo`
+---> West Germanic
+----> Old English `leah`: "clearing, meadow, woodland"
+-----> English `Leigh` (habitational surname)
+-----> Old English `Beferleah`: "place name: Beaver-Meadow"
+------> English `Beverley`
+-----> Old English `Beorcleah`: "place name: Birch-Meadow"
+------> English `Berkeley`
+-------> English `berkelium`
+--------> Translingual `Bk`
+----> Frankish <*lōh>
+-----> Dutch `loo`: "clearing"
+------> Dutch `Waterloo`: "place name: Water-Meadow"
+-------> English `Waterloo`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit  `𑀮𑁄𑀓` ‎<loká>: “open space, place, world"
+-----> Magadhi
+------> Bengali `লোক` <lok>: "public, people, others"
+-----> Sauraseni `𑀮𑁄𑀕` <loga>
+------> Madhya
+-------> Hindi `लोग` <log>: "people"
+------> Pali
+-------> Thai `โลก` <lôok>: "land, country, world, humanity"
+-----> Telugu `లోకము` <lōkamu>: "world, humanity, the public, community, life"
+
+--> Italic
+---> Latin `lucus`: "sacred grove"
+----> Western Romance
+-----> Galician `Lugo`
+------> English `Lugo`
+
+
+-> Proto-Indo-European <*lowkis> (non-specific noun)
+
+--> Balto-Slavic
+---> West Baltic
+----> Old Prussian `luckis`: "torch, log"
+---> Slavic <*lučь>: "ray, torch"
+----> East Slavic
+-----> Russian `луч` <luč>: "ray, beam"
+----> South Slavic
+-----> Serbo-Croatian `лу̑ч` <lȗč>: "light" (archaic)
+----> West Slavic
+-----> Czech `louč`: "torch"
+-----> Polish `łuczywo`: "torch"
+
+
+-> Proto-Indo-European <*lówksneh₂>: "moon"
+
+--> Old Armenian `լուսին` <lusin>: "moon, month, horseshoe"
+---> Armenian `լուսին` <lusin>: "moon"
+
+--> Balto-Slavic
+---> Slavic <*lunà>: "moon"
+----> East Slavic
+-----> Russian `луна́` <luná>: "moon"
+----> West Slavic
+-----> Polish `łuna`: "radiance, glow"
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan `𐬭𐬀𐬊𐬑𐬱𐬥𐬀` <raoxšna>: "bright"
+----> Bactrian `Raoxshna`: "Bright (personal name)" ##
+-----> Persian `روشنک` <Roshanak>
+-----> Classical Greek `Ῥωξᾱ́νη` <Rhōxā́nē>
+------> Greek `Ρωξανη` <Roxani>
+------> English `Roxana`
+------> Latin `Roxane`
+-------> Italian `Rossana`
+----> Western Iranian
+-----> Kurdish `ron`
+-----> Persian `روشن` <rowšan>: "light, bright"
+------> Persian `روشنی` <roušani>: "brightness, clearness, clarity"
+-------> Hindi `रौशनी` <rauśnī>: "light, luster, splendor"
+
+--> Italic <*louksnā>
+---> Latin `luna`: "moon"
+----> Central Romance
+-----> Italian `luna`: "moon"
+----> Eastern Romance
+-----> Romanian `lună`: "moon, month"
+----> Insular Romance
+-----> Sardinian `luna`: "moon"
+----> Western Romance
+-----> French `lune`: "moon"
+-----> Spanish `luna`: "moon"
+----> Latin `lunaris`: "lunar"
+-----> Central Romance
+------> Italian `lunare`: "lunar"
+-----> Western Romance
+------> French `lunaire`
+------> Spanish `lunar`
+-----> English `lunar`
+----> Latin `lunaticus`: "from the moon, moonstruck, epileptic, crazy"
+-----> Eastern Romance
+------> Romanian `lunatic`: "sleepwalker, fool"
+-----> French `lunatique`: "lunatic"
+------> English `lunatic`
+
+
+-> Proto-Indo-European <?>: "lynx"  ###
+
+--> Old Armenian
+---> Old Armenian `լուսանունք` <lusanunkʿ>: "lynxes" (only attested in plural)
+---> Armenian `լուսան` <lusan>: "lynx"
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `lūšis`: "lynx"
+---> Slavic <*rỳsь>: "lynx"
+----> East Slavic
+-----> Russian `рысь` <rysʹ>: "lynx"
+-----> Ukrainian `рись` <rysʹ>: "lynx"
+----> South Slavic
+-----> Bulgarian `рис` <ris>: "lynx"
+-----> Serbo-Croatian `ри̏с` <rȉs>: "lynx"
+----> West Slavic
+-----> Czech `rys`: "lynx"
+-----> Polish `ryś`: "lynx"
+----> Romanian `râs`: "lynx"
+
+--> Celtic
+---> Old Irish
+----> Middle Irish `lug`: "lynx, warrior"
+
+--> Germanic <*luhsa>: "lynx"
+---> North Germanic
+----> Old Norse <*luhǭ>
+-----> Swedish `lo`: "lynx"
+---> West Germanic
+----> Old English `lox`: "lynx"
+-----> Scots `los`: "lynx"
+----> Frankish <*lohs>
+-----> Dutch `los`: "lynx"
+----> Old High German `luhs`
+-----> German `Luchs`: "lynx"
+
+--> Hellenic
+---> Greek `λύγξ` <lúnks>: "lynx"
+----> Latin `lynx`: "lynx"
+-----> French `lynx`: "lynx"
+------> English `lynx`
+-----> Spanish `lince`: "lynx"
+------> Tagalog `linse`: "lynx"
+
+
+endbody
+
+
+startnotes
+
+# `Lucifer` to mean "Christian Antagonist, esp. before his fall", is based on a questionable translation decision in King James.
+
+## The Bactrian name `Raoxshna`, is notably the name of Alexander the Great's Bactrian wife, which is why it spread to Greece and the Europe.
+
+### "lynx" is traditionally assumed to derived from "light" due its reflective eyes in the dark. But every reflex is irregular in a different way: Slavic *rỳsь shouldn't have an *r instead of *l, Greek has an extraneous [n], etc. Either each branch (all but one branch?) independently distorted the word (taboo avoidance?), or the word could be non-IE and been borrowed repeatedly into different branches.
+
+endnotes

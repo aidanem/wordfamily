@@ -1,0 +1,420 @@
+date: 20170602
+theme: Pride In Words 🏳️‍🌈
+tags: Elements, Numbers, Pride in Words
+
+
+startbody
+
+Proto-Indo-European <*dwóh₁>: "two"
+
+-> Albanian `dy`: "two"
+
+-> Old Armenian `երկու` <erku>: "two" #
+--> Armenian `երկու` <erku>: "two"
+--> Old Armenian `կրկին` <krkin>: "double, doubled, iterated"
+---> Armenian `կրկին` <krkin>: "double, again, once more"
+
+-> Balto-Slavic <*duwō>: "two"
+--> Lithuanian `du`: "two"
+--> Slavic <*dъva>: "two"
+---> East Slavic
+----> Russian `два` <dva>: "two"
+---> South Slavic
+----> Serbo-Croatian `два̑` <dvȃ>: "two"
+---> West Slavic
+----> Polish `dwa`: "two"
+
+-> Celtic <*dwau>: "two"
+--> Brythonic <*dọw>: "two"
+---> Welsh `dau`: "two"
+--> Old Irish `dau`: "two"
+---> Irish `dó`: "two"
+
+-> Germanic <*twai>: "two"
+--> East Germanic
+---> Gothic `𐍄𐍅𐌰𐌹` <twai>: "two"
+--> North Germanic
+---> Old Norse `tvau`: "two"
+----> Danish `to`: "two"
+----> Icelandic `tvö`: "two"
+--> West Germanic
+---> Old English `twā` (f. and n.)
+----> English `two`
+----> Old English `twēġen` (m.)
+-----> English `twain`
+----> Old English `tweowes`: "twice" (adverb)
+-----> English `twice`
+---> Frankish <*twē>: "two"
+----> Dutch `twee`: "two"
+---> Old High German `zwei`: "two"
+----> German `zwei`: "two"
+----> Yiddish `צוויי` <tsvey>: "two"
+--> Germanic <*twai-tigiwiz>: "two group-of-tens, twenty"
+---> East Germanic
+----> Gothic `𐍄𐍅𐌰𐌹 𐍄𐌹𐌲𐌾𐌿𐍃` <twai tigjus>: "twenty"
+---> North Germanic
+----> Old Norse `tuttugu`: "twenty"
+-----> Danish `tyve`: "twenty"
+-----> Icelandic `tuttugu`: "twenty"
+---> West Germanic
+----> Old English `twēntiġ`
+-----> English `twenty`
+----> Frankish <*twēntig>
+-----> Dutch `twintig`: "twenty"
+----> Old High German `zweinzug`
+-----> German `zwanzig`: "twenty"
+-----> Yiddish `צוואַנציק` <tsvantsik>: "twenty"
+
+-> Hellenic <*dúwō>: "two"
+--> Classical Greek `δύο` <dúo>: "two"
+---> Greek `δύο` <dúo>: "two"
+---> Classical Greek `δῐ́δῠμος` <dídumos>: "twin, double, twofold, Gemini" (di/duo-dúo-mo-s)
+----> Classical Greek `Δίδυμος` <Dídumos>: "Twin (personal name)"
+----> New Latin `didymia`: "one of two oxides isolated from cerium" ##
+-----> New Latin `didymium`
+------> English `didymium`
+------> New Latin `neodidymium` ##
+-------> New Latin `neodymium`
+--------> English `neodymium`
+-------> Translingual `Nd`
+------> New Latin `praseodidymium` ##
+-------> New Latin `praseodymium`
+--------> English `praseodymium`
+-------> Translingual `Pr`
+
+----> Greek `δίδυμος` <dídymos>: "twin, twinned, matching"
+-----> Greek `Δίδυμοι` <Dídymoi>: "Gemini"
+
+
+-> Indo-Iranian
+--> Indo-Aryan <*dva>: "two"
+---> Dardic
+----> Kashmiri `zɨ`: "two"
+---> Sanskrit `𑀤𑁆𑀯` <dvá>: "two, both"
+----> Elu
+-----> Sinhala `දෙක` <deka>: "two"
+----> Magadhi
+-----> Bengali `দুই` <dui>: "two"
+----> Pali <dve>: "two"
+-----> Thai `โท` <too>: "second"
+----> Sauraseni `𑀤𑁄` <do>: "two"
+-----> Madhya
+------> Hindi `दो` <do>: "two"
+-----> Pahari
+------> Punjabi `ਦੋ` <do>: "two"
+-----> Western Sauraseni
+------> Romani `duj`: "two"
+----> Telugu `ద్వయము` <dvayamu>: "two, pair"
+----> Malay `dwi`: "two"
+
+--> Iranian <*duu̯a>: "two"
+---> Avestan `𐬛𐬎𐬎𐬀` <duua>: "two"
+---> Pashto `دوه‎` <dwa>: "two"
+---> Northern Iranian
+----> Scythian
+-----> Ossetian `дыууӕ` <dywwæ>: "two"
+---> Western Iranian
+----> Kurdish `du`: "two"
+----> Old Persian
+-----> Persian `دو` <do>: "two"
+
+-> Italic <*duō>: "two"
+--> Latin `duo`: "two"
+---> Sardinian `duos`: "two"
+---> Eastern Romance
+----> Romanian `doi`: "two"
+---> Western Romance
+----> French `deux`: "two"
+----> Italian `duo`: "duo, two (archaic)"
+-----> English `duo`: "two"
+-----> Italian `due`: "two"
+------> Italian `duetto`: "duet"
+-------> English `duet`
+----> Spanish `dos`: "two"
+--> Umbrian `𐌕𐌖𐌚` <tuf>: "two"
+
+-> Tocharian
+--> Arshian <wu>: "two"
+--> Kushean <wi>: "two"
+
+
+-> Proto-Indo-European <*dwoyóm> (acc.?)
+
+--> Anatolian
+---> Hittite <tān>
+
+
+-> Proto-Indo-European <*dwi(s)->: "two (prefix)"
+
+--> Anatolian
+---> Luwian <twi->: "two, double"
+---> Lycian <kbi->: "other, another, second"
+
+--> Germanic <*twi->: "two, double (prefix)"
+---> North Germanic
+----> Old Norse `tví-`
+-----> Icelandic `tví-`: "two, double, binary"
+---> West Germanic
+----> Old English `twi-`: "two, twice, double"
+-----> Old English `twīlēoht`: "twilight"
+------> English `twilight`
+-----> Old English `twilic`: "double threaded, twill" (with translation of `bi-` to native `twi-`)
+----> Old High German
+-----> German `zwei-`
+------> German `Zweihänder`: "two handed sword"
+-------> English `zweihander`
+
+--> Hellenic
+---> Classical Greek `δι-` <di->: "two, twice (prefix)"
+----> English `di-`
+---?> Classical Greek `δῐ́δῠμος` <dídumos>: "twin, double, twofold, Gemini" (di/duo-dúo-mo-s)
+
+--> Italic <*dwi(s)->
+---> Latin `bi(s)-`: "two parts, twice (prefix)"
+----> Latin `bilix`: "double threaded"
+-----> Old English `twilic`: "double threaded, twill" (with translation of `bi-` to native `twi-`)
+------> English `twill`
+----> Latin `biceps`: "two-headed, double-edged, in two parts"
+-----> English `biceps`
+----> Latin `bilanx`: "double-pan, balancing scale"
+-----> French `balance`
+------> English `balance`
+----> Western Romance
+-----> French `bi-`
+-----> Italian `bi(s)-`
+-----> Spanish `bi(s)-`
+-----> English `bi-`
+-----> Western Romance <*biscoctu> ("twice-cooked")
+------> French `biscuit`
+-------> English `biscuit`
+------> Italian `biscotto`
+-------> English `biscotti` (from the plural)
+------> Spanish `bizcocho`
+
+---> Italic <​​*dwipleks>: "two-fold, double"
+----> Latin `duplex`
+-----> English `duplex`
+-----> Latin `duplicō`: "I double, I duplicate, I fold in half, I split in half, I enlarge"
+------> English `duplicate`
+-----> English `duplicity`
+
+
+--> Indo-Iranian <*dwi->
+
+---> Indo-Iranian <*dwiHpás>: "island" (lit. "two-waters", water on both sides)
+----> Sanskrit `𑀤𑁆𑀯𑀻𑀧` <dvīpá>: "island, continent"
+-----> Elu
+------> Dhivehi `ދިވެހި`: "Dhivehi" ("Islander")
+-------> English `Dhivehi`
+------> Dhivehi `މާލެދިވެހި` <Malē Dhive>: "Malē Islands, Maldives"
+-------> English `Maldives`
+------> Sinhala `දිවයින` <diwayina>: "island"
+-----> Magadhi
+------> Assamese `দীয়া` <dia>: "island, sandbar, shoal"
+-----> Pali `𑀤𑀻𑀧` <dīpa>: "island"
+------> Thai `ทีป` <tîip>: "island"
+----> Hindi `द्वीप` <dvīp>: "island"
+----> Khmer `ទ្វីប` <tviip>: "continent"
+----> Mongolian `ᠲᠢᠢᠪ` <tiib>: "continent"
+----> Telugu `ద్వీపము` <dvīpamu>: "island"
+-----> Telugu `ద్వీపకల్పము` <dvīpakalpamu>: "peninsula" (lit. "island-ish")
+----> Thai `ทวีป` <tá-wîip>: "continent"
+
+
+--> Proto-Indo-European <*dwiploh₁us>: "two-filled, double, ambivalent, doubtful"
+
+---> Germanic <*twīflaz>: "doubt"
+----> East Germanic
+-----> Gothic `𐍄𐍅𐌴𐌹𐍆𐌻` <tweifl>: "doubt"
+----> West Germanic
+-----> Frankish
+------> Dutch `twijfel`: "doubt"
+-----> Old High German `zwīfal`: "doubt"
+------> German `Zweifel`: "doubt"
+-----> Old Saxon
+------> Middle Low German `twīvel`: "doubt"
+-------> Danish `tvivl`: "doubt"
+
+
+
+---> Hellenic
+----> Classical Greek `δῐπλόος` <diplóos>: "two-fold, folded in half, double, compound, doubtful"
+-----> Greek `διπλός` <diplós>: "two-fold, double, dual"
+-----> Classical Greek `δῐ́πλωμᾰ` <díplōma>: "doubled thing, folded paper, double pot"
+------> Latin `diplōma`: "letter of recommendation, diploma"
+-------> English `diploma`
+-------> Latin `diplōmaticus`: "related to a letter of recommendation, diplomatic"
+--------> French `diplomatique`
+---------> English `diplomatic`
+---------> French `diplomate`: "diplomat" (back-formed)
+----------> English `diplomat`
+
+---> Italic <*dwiplos>
+----> Latin `duplus`: "double"
+-----> Western Romance
+------> French `double`
+-------> English `double`
+-------> German `doppeln`: "to double"
+--------> German `doppel-`
+---------> German `Doppelgänger`
+----------> English `doppelganger`
+----------> Japanese `ドッペルゲンガー` <dopperugengā>
+------> Italian `doppio`
+------> Spanish `doble`
+-----> English `duple`
+
+
+
+--> Proto-Indo-European <*dwi(h₁)dḱm̥ti>: "twenty (two-ten)"
+
+---> Proto-Albanian <*wdžáti>: "twenty"
+----> Albanian `-zet`: "twenty (in compounds)"
+-----> Albanian `njëzet`: "twenty" (lit. "one-twenty")
+
+---> Old Armenian `քսան` <kʿsan>: "twenty"
+----> Armenian `քսան` <kʿsan>: "twenty"
+
+---> Balto-Slavic
+----> Lithuanian `dvidešimt`: "twenty"
+
+---> Celtic <*wikantī>: "twenty"
+----> Brythonic <*gwɨgėnt>: "twenty"
+-----> Welsh `ugain`: "twenty"
+----> Old Irish `fiche`: "twenty"
+-----> Irish `fiche`: "twenty"
+------> Irish `daichead`: "forty, two-score"
+
+---> Hellenic <ewīkəti>
+----> Classical Greek `εἴκοσῐ` <eíkosi>: "twenty"
+-----> Greek `είκοσι` <eíkosi>: "twenty"
+-----> Classical Greek `εἰκοσάεδρον` <eikosáedron>: "solid shape with twenty sides, icosahedron"
+------> English `icosahedron`
+
+---> Indo-Iranian <*HwiHĉati>
+----> Indo-Aryan <*HwiHśati>
+-----> Dardic
+------> Kashmiri `وُہ‎` <vuh>: "twenty"
+-----> Sanskrit `𑀯𑀺𑀁𑀰𑀢𑀺` <viṃśatí>: twenty"
+------> Magadhi
+-------> Bengali `বিশ` <bish>: "twenty"
+------> Maharashtri `𑀯𑀻𑀲𑀇` <vīsaï>
+-------> Marathi `वीस` <vīs>
+------> Pali <vīsati>
+------> Sauraseni
+-------> Madhya
+--------> Hindi `बीस` <bīs>: "twenty"
+-------> Pahari
+--------> Punjabi `ਵੀਹ` <vīh>: "twenty"
+-------> Western Sauraseni
+--------> Romani `biś`: "twenty"
+----> Iranian <*HwiHĉati>
+-----> Avestan `𐬬𐬍𐬯𐬀𐬌𐬙𐬌` <vīsaⁱti>: "twenty"
+-----> Northern Iranian
+------> Scythian <*insæǰ>
+-------> Ossetian `ссӕ́дз` <ssǽʒ>: "twenty"
+-----> Western Iranian
+------> Kurdish `bîst`: "twenty"
+------> Old Persian
+-------> Persian `بيست` <bist>: "twenty"
+
+---> Italic
+----> Latin <vīgintī>: "twenty"
+-----> Sardinian `binti`: "twenty"
+-----> Western Romance
+------> French `vingt`: "twenty"
+-------> Haitian Creole `ven`: "twenty"
+------> Italian `venti`: "twenty"
+------> Spanish `veinte`: "twenty"
+-----> Latin `vīcēsimu`: "twentieth"
+------> English `vigesimal`
+
+---> Tocharian <*w'īkän>: "twenty"
+----> Arshian <wiki>: "twenty"
+----> Kuchean <ikam>: "twenty"
+
+
+--> Proto-Indo-European <*dwís>
+
+---> Albanian `dysh`: "double"
+
+---> Hellenic <*dwis>
+----> Classical Greek `δίς` <dís>
+
+---> Indo-Iranian <*dwíš>
+----> Indo-Aryan <*dwíṣ>
+-----> Sanskrit `𑀤𑁆𑀯𑀺𑀲𑁆` <dvis>: "twice"
+----> Iranian <*dwíš>
+-----> Avestan `𐬠𐬌𐬱` <biš>
+
+---> Italic <*dwis>
+----> Latin `bis`: "twice"
+
+
+
+
+--> Proto-Indo-European <*dwisnó-s>: "paired, doubled"
+
+---> Germanic <*twiznaz>: "twine, double thread"
+----> West Germanic
+-----> Old English `twīn`
+------> English `twine`
+-----> Old High German `zwirn`
+------> German `Zwirn`: "thread, string, yarn"
+
+
+
+--> Proto-Indo-European <*dwino-s>: "pair, twin"
+
+---> Balto-Slavic
+----> Lithuanian `dvynys`: "twin"
+----> Slavic
+-----> East Slavic
+------> Russian `дво́йня` <dvójnja>: "twins"
+
+---> Germanic <*twinaz>: "twin, pair, double"
+----> North Germanic
+-----> Old Norse `tvinnr`
+------> Icelandic `tvennur`: "pair"
+----> West Germanic
+-----> Old English `twinn`: "twin"
+------> English `twin`
+----> Germanic <*twinlingaz>: "twin children"
+-----> North Germanic
+------> Old Norse <*tvinlingr>
+-------> Danish `tvilling`: "twin"
+-----> West Germanic
+------> Frankish <*twinling>
+-------> Dutch `tweeling`: "twin, pair of twins"
+------> Old High German `zwinilinc`
+------> German `Zwilling`: "twin"
+
+---> Italic
+----> Latin `bīnus`: "double, in pairs"
+-----> Latin `bīnārius`: "containing two things"
+------> English `binary`
+-------> English `nonbinary`
+-----> Vulgar Latin <*bināre>: "to do twice"
+------> Western Romance
+-------> French `biner`: "to hoe, to attend mass twice in one day"
+-------> Italian `binare`: "to repeat, to double"
+-------> Spanish `binar`: "to plow over"
+-----> Latin `combīnō`: "I combine, I put together a pair"
+------> Western Romance
+-------> French `combiner`: "to combine"
+--------> English `combine`
+-------> Italian `combinàre`: "to combine, to match, to organize, to achieve"
+-------> Spanish `combinar`: "to combine, to go with"
+
+
+endbody
+
+startnotes
+
+# Armenian `երկու` <erku> from <*dwóh₁> is the type specimen of "The Proto-Armenian sound changes are varied and eccentric (such as *dw- yielding erk-)" https://en.wikipedia.org/wiki/Proto-Armenian_language#Development 
+
+
+## Around 1840, Swedish chemist Carl Gustaf Mosander isolated the oxide ceria into two separate oxides, which he called `lanthana` ("hidden, forgotten" related to `Lethe`) and `didymia` ("twin"). Lanthana was determined to be an elemental oxide of a new element lanthanum. Didymia was then separated into samarium and didydium, and finally didymium was separated into the elements neo(di)dymium and praeso(di)dymium.
+
+So while `neodymium` and `praesodymium` form a "twin" set of elements, that is not the pair of twins their refers to, but to lanthanum and didymium.
+
+endnotes

@@ -1,0 +1,249 @@
+date: 20180824
+theme: Science fiction 🤖
+tags: Sci-fi
+
+
+startbody
+
+Proto-Indo-European <*h₂el->: "beyond, other"
+
+-> Proto-Indo-European <*h₂élyos>: "other, another"
+
+--> Old Armenian `այլ` <ayl>: "another, other, alien, foreign, also, however"
+---> Armenian `այլ` <ayl>: "other, but"
+---> Armenian `էլ` <ēl>: "also, too, anymore"
+---> Armenian `էլի` <ēli>: "again, more"
+
+--> Celtic <*alyos>: "other, second"
+---> Brythonic <*ėl>: "other, second"
+----> Welsh `ail`: "second"
+---> Gaulish `allos`
+---> Old Irish `aile`: "other, second, one (of two)"
+----> Irish `eile`: "other, another, more, next, else"
+---> Lepontic `𐌀𐌋𐌉𐌏𐌔` <alios>
+
+--> Germanic <*aljaz>: "other, another, else"
+---> East Germanic
+----> Gothic `𐌰𐌻𐌾𐌹𐍃` <aljis>: "other"
+---> North Germanic
+----> Old Norse `ella`: "or"
+-----> Danish `eller`: "or"
+-----> Icelandic `ella`: "or"
+---> West Germanic
+----> Old English `elles`: "other, otherwise, different"
+-----> English `else`
+---> Germanic <*aljǭ>
+----> East Germanic
+-----> Gothic `𐌰𐌻𐌾𐌰` <alja>: "but, except"
+---> Germanic <*aljar>: "elsewhere" (locative)
+----> East Germanic
+-----> Gothic `𐌰𐌻𐌾𐌰𐍂` <aljar>: "elsewhere"
+----> West Germanic
+-----> Old English `ellor`: "elsewhere"
+-----> Frankish <*ellar>
+------> Dutch `elders`: "elsewhere"
+---> Germanic <*aljalandijaz>: "other country, abroad, exile"
+----> West Germanic
+-----> Frankish
+------> Dutch `ellende`: "misery"
+-----> Old High German `elilenti`
+------> German `elend`: "miserable, wretched"
+---> Germanic <*aljasitjaną>: "other dweller"
+----> West Germanic
+-----> Old High German `Elisāzo`
+------> German `Elsass`: "Alsace"
+------> French `Alsace`
+-------> English `Alsace`
+--?> Germanic <*aljarīkiją>: "other kingdom"
+----> West Germanic
+-----> Old English <*elrīċe>
+-----?> English `eldritch` (unless it's "elf-kingdom" instead) 
+
+--> Hellenic <*áľľos>: "other, another"
+---> Classical Greek `ἄλλος` <állos>: "other, another, different, else"
+----> English `allo-`
+-----> English `allele`
+----> Classical Greek `ᾰ̓λληγορῐ́ᾱ` <allēgoríā>: "allegory, speech with hidden meaning" (lit. "other-speech")
+-----> Greek `αλληγορία` <alligoría>: "allegory"
+-----> Latin `allēgoria`: "allegory, parable"
+------> French `allegorie`
+-------> English `allegory`
+
+
+--> Italic <*aljos>
+---> Latin `alius`: "other, another, else"
+----> Latin `inter alia`: "among other things"
+----> Latin `aliās`: "at another time, in another place, under other circumstances"
+-----> English `alias`
+----> Latin `aliēnus`
+-----> Central Romance
+------> Italian `alieno`
+-----> Western Romance
+------> French `alien`
+-------> English `alien`
+------> Spanish `ajeno`
+-----> Latin `aliēnō`
+------> French `aliéner`: "to alienate"
+------> Italian `alienare`: "to alienate"
+------> Spanish `alienar`: "to alienate"
+------> Latin `aliēnātus`
+-------> English `alienate`
+---> Oscan <allo>
+
+--> Tocharian <*alle->
+---> Tocharian <*alleke>
+----> Arshian <ālak>
+----> Kushean <alyek>
+
+-> Proto-Indo-European <*h₂óls> (adverb/preposition)
+
+--> Italic
+---> Latin `uls`: "beyond" (preposition)
+----> Latin `ulter`: "beyond" (adjective)
+-----> Latin `ulterior`: "more beyond, further"
+------> English `ulterior`
+-----> Latin `ultimus`: "most beyond, furthest, last"
+------> Latin `ultima Thule`: "furthest Thule"
+-------> English `Ultima Thule`
+------> Latin `ultimō`: "I come to an end, I am at last"
+-------> Latin `ultimātus`: "ended"
+--------> English `ultimate`
+--------> Latin `ultimātum` (accusative supine, "for the purpose of bring to an end")
+---------> English `ultimatum`
+------> English `ultima`
+----> Latin `ultrā`: "beyond, further, additionally"
+-----> Western Romance
+------> French `outre`: "additionally, as well as"
+-------> French `outrer`: "to exaggerate, to outrage"
+--------> French `outrage`: "outrage, insult, contempt"
+---------> English `outrage`
+
+-> Proto-Indo-European <*h₂l̥no>: "other thing" (noun)
+
+--> Italic <*olle>
+---> Latin `ille`: "that, those, that one, he/she/it, the" ####
+
+----> Vulgar Latin <*hoc ille>: "yes, yes that"
+-----> Western Romance
+------> Old French `oïl`: "yes"
+-------> French `oui`
+--------> Māori `Wīwī`: "France"
+-------> French `langue d'oïl`
+--------> English `langue d'oïl`
+
+----> Latin `ecce eum`
+-----> Latin `eccum`
+------> Vulgar Latin <*eccum ille>: "that one"
+-------> Central Romance
+--------> Italian `quello`: "that"
+--------> Italian `colui`: "him (over there), that man" (from dative <*eccum illui>)
+-------> Insular Romance
+--------> Sardinian `cuddu`: "that"
+-------> Eastern Romance
+--------> Romanian `acel`: "that"
+-------> Western Romance
+--------> French `celui`: "the one (that)"
+--------> Spanish `aquel`: "that (over there)"
+
+----> English `illeism`
+
+
+-> Proto-Indo-European <*h₂élteros>: "other (of two), second" (contrastive)
+
+--> Italic <*alteros>
+---> Latin `alter`: "other, second"
+----> Central Romance
+-----> Italian `altro`: "other, another, further, else, previous"
+----> Eastern Romance
+-----> Romanian `alt`: "other"
+----> Insular Romance
+----> Sardinian `àteru`
+----> Western Romance
+-----> French `autre`: "other, another"
+------> French `altruisme`: "altruism"
+-------> English `altruism`
+-----> Spanish `otro`: "other, another, again"
+----> Latin `alterō`: "I change, I alter"
+-----> Western Romance
+------> French `altérer`: "to alter, to change, to cause thirst"
+-------> English `alter`
+----> Latin `adulter`: "adulterous, counterfeit, false" ("towards other")
+-----> Western Romance
+------> French `avoutre`: "bastard"
+-----> English `adulter`
+----> Latin `altercor`: "I have a difference with, I dispute, I strive against"
+-----> Central Romance
+------> Italian `altercare`: "to quarrel, to argue"
+-----> Western Romance
+------> Old French `alterquer`
+------> Spanish `altercar`: "to dispute, to quarrel, to argue"
+-----> Latin `altercātiō`: "dispute, debate, altercation"
+------> French `altercation`: "altercation"
+-------> English `altercation`
+------> Italian `altercazione`: "altercation, dispute"
+------> Spanish `altercación`: "altercation"
+----> Latin `nōs alterī`: "we others"
+-----> Central Romance
+------> Italian `noialtri`: "we (usually exclusive)"
+-----> Western Romance
+------> Spanish `nosotros`: "we"
+----> Latin `vōs alterī`: "you others"
+-----> Central Romance
+------> Italian `voialtri`: "you (plural)"
+------> Mozarabic `بُشوطْرِسْ` <bušutros>: "you (plural)"
+
+
+-?> Proto-Indo-European <*h₂énteros>: "second, other" ##
+
+---> Balto-Slavic <*ántaras>
+----> Lithuanian `añtras`: "second, secondary"
+
+---> Germanic <*anþeraz>: "second, other"
+----> East Germanic
+-----> Gothic `𐌰𐌽𐌸𐌰𐍂` <anþar>: "second, other"
+----> North Germanic
+-----> Old Norse `annarr`: "other, another, second, next"
+------> Danish `anden`: "other, another, else, second"
+------> Icelandic `annar`: "other, another, else"
+----> West Germanic
+-----> Old English `ōþer`: "other, second"
+------> English `other`
+------> Scots `ither`: "other"
+-----> Frankish
+------> Dutch `ander`: "other, different"
+-----> Old High German `andar`: "second, other"
+------> German `anderer`: "other, different`
+------> Yiddish `אַנדער` <ander>: "other"
+
+---> Italic <*anteros>
+----> Italic <*anterjōs> (comparative)
+-----> Latin `anterior`: "more forward, foremost, previous"
+------> English `anterior`
+
+---> Indo-Iranian <*Hántaras>
+----> Indo-Aryan <*Hántaras>
+-----> Sanskrit `𑀅𑀦𑁆𑀢𑀭` <ántara>: "distant, different from, exterior, distance, weak side" ###
+------> Magadhi
+-------> Assamese `আঁতৰ` <ãtor>: "distant, distance, distant place`
+------> Pali
+-------> Malay `antara`: "between, gap"
+----> Iranian <*Hántarah>
+-----> Northern Iranian
+------> Scythian
+-------> Ossetian `ӕндӕ́р` <ændǽr>: "more, else"
+
+endbody
+
+
+
+startnotes
+
+## <*h₂énteros> looks like "on" plus the constrastive suffix, which should mean something along the lines of "upper", but instead it has a meaning identical to <*h₂élteros>; my interpretation is that it is a dissimilative sound change. 
+
+
+### Sanskrit `𑀅𑀦𑁆𑀢𑀭` <ántara> also means the opposite: "interior, near, related, initimate" due to Indo-Iranian merger of  <*h₂e> and <*h₁e>, so <*h₂énteros>: "other" and <*h₁énteros>: "interior" became homonyms and then collapsed into a single word.
+
+
+#### From Latin `ille`: "that, those, that one, he/she/it" (and in Vulgar Latin "the")—besides what is shown—come many, many pronouns, articles, and demonstratives in all the Romance languages—too many to spell out here. e.g. French `le`,`la`,`il`, `elle`, `lui`, `celui`, `celle`, plus plurals, etc., etc.
+
+endnotes

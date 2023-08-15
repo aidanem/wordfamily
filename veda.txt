@@ -1,0 +1,404 @@
+date: 20171222
+theme: Religion 📿
+tags: Divinities, Magic
+
+
+startbody
+
+
+Proto-Indo-European <*weyd->: "to see"
+
+-> Indo-Iranian <*wayd->: "to know, to find"
+--> Indo-Aryan
+---> Sanskrit `𑀯𑀺𑀤𑁆` <vid>: "know, find"
+--> Iranian <*waid->
+---> Avestan <vid>: "know, understand"
+---> Avestan <vaēd>: "find"
+---> Iranian <*ni-waid>: "invitation"? (lit. "down find"?)
+----> Avestan <niuuaēδaiiemi>: "to invite a deity to the sacrifice, to dedicate"
+----> West Iranian <*nivēδ>: "invitation"
+-----> Northwestern Iranian
+------> Parthian
+-------> Old Armenian `նուէր` <nuēr>: "offering, present, sacrafice"
+--------> Armenian `նվեր` <nver>: "present, gift"
+-----> Old Persian
+------> Persian `نوید` <navid>: "promise, good news" (Also a given name:  Navid, Naveed)
+-----> West Iranian <*nivēδāk>
+------> Northwestern Iranian
+-------> Parthian
+--------> Old Armenian `նուիրակ` <nuirak>: "announcer, usher, messenger"
+---------> Armenian `նվիրակ` <nvirak>: "legate (deputy), nuncio (envoy)"
+
+
+
+-> Proto-Indo-European <*winédti>  (nasal-infix imperfective)
+
+--> Proto-Armenian
+---> Old Armenian `գտանեմ` <gtanem>: "to find, to discover, to gain, to meet"
+
+--> Celtic <*windeti>
+---> Brythonic <*gwɨbod>: "knowing, to know"
+----> Welsh `gwybod`: "to know"
+---> Old Irish `(ro-)finnadar`: "to find out, to discover, to know"
+----> Irish `fionn`: "ascertain, discover"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀯𑀺𑀦𑁆𑀤𑀢𑀺` <vindati>: "to know, to understand, to mind, to observe"
+---> Iranian
+----> Avestan `𐬬𐬍𐬥𐬀𐬯𐬙𐬍` <vīnastī>: "to find"
+----> Northern Iranian
+-----> Ossetian `уынын` <wynyn>: "to see"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Parthian <wyndyd>: "acquires, gains?"
+-----> Old Persian <​​vaina->: "to see"
+------> Persian `بین` <bin>: "see" (suppletive present stem of `دیدَن`=far-Aran <didan>)
+-------> Persian `دوربین` <durbin>: "far-sighted, spyglass, binoculars, camera" ("spyglass" as calque of Latin `telescopium`=lat-Latn)
+--------> Arabic `دَرْبِين‎` <darbīn>: "telescope, binoculars" (dialectic)
+---------> Swahili `darubini`: "telescope, binoculars"
+--------> Hindi `दूरबीन` <dūrbīn>: "telescope"
+--------> Turkish `dürbün`: "binoculars"
+
+-------> Persian `اختربین‎` <axtarbin>: "telescope" (lit. "star-seer")
+
+
+-> Proto-Indo-European <*wóyde>: "has seen"
+
+--> Proto-Armenian <*gēt->
+---> Armenian `գիտեմ` <gitem>: "to know"
+
+--> Balto-Slavic
+---> Slavic <*věděti>: "to know, to be sure of"
+----> East Slavic
+-----> Russian `ве́дать` <védatʹ>: "to know, to be sure of" (archaic)
+-----> Ukranian `відати` <vidaty>: "to deal, to manage"
+----> South Slavic
+-----> Old Church Slavonic `вѣдѣти` <věděti>: "to know"
+-----> Serbo-Croatian <vedeti>: "to know" (regional)
+----> West Slavic
+-----> Czech `vědět`: "to know"
+-----> Polish `wiedzieć`: "to know, to be sure of"	
+
+--> Germanic <*witanã>: "to know"
+---> East Germanic
+----> Gothic `𐍅𐌹𐍄𐌰𐌽` <witan>: "to know"
+---> North Germanic
+----> Old Norse `vita`: "to know"
+-----> Danish `vide`: “to know”
+-----> Icelandic `vita`: "to know, to see, to check"
+---> West Germanic
+----> Old English `witan`: "to know, to be aware, to be wise, to be concious of, to feel (an emotion)"
+-----> English `wit`
+-----> English `wot`
+----> Frankish <*witan>
+-----> Dutch `weten`: "to know, to remember, to be able to"
+-----> Old Occitan
+------> French `guider`: "to guide"
+-------> English `guide`
+------> Italian `guidare`: "to guide, to manage, to drive (a vehicle)"
+------> Spanish `guiar`: "to guide, to drive, to steer, to advise"
+----> Old High German `wizzan`: "to know"
+-----> German `wissen`: "to know, to be aware"
+------> German `Wissenschaft`: "science"
+-----> Yiddish `וויסן` <visn>: "to know, knowledge"
+
+--> Hellenic
+---> Classical Greek `οἶδα` <oîda>: "to know, to be acquainted with, to know how to"
+
+--> Indo-Iranian <*wáytˢti>
+---> Indo-Aryan <*wáytti>
+----> Sanskrit `𑀯𑁂𑀢𑁆𑀢𑀺` <vetti>: "to know, to understand, to know how to, to learn"
+---> Iranian <*wáystī>
+----> Avestan `𐬬𐬋𐬌𐬯𐬙𐬁‎` <vōistā>: "you know"
+
+
+
+-> Proto-Indo-European <*widéh₁yeti>: "seeing, being seen?" (stative)
+
+--> Italic <*widēō>
+---> Latin `videō`: "I see, I look, I note, I understand"
+----> Central Romance
+-----> Italian `vedere`
+----> Eastern Romance
+-----> Romanian `a vedea`
+----> Western Romance
+-----> French `voir`
+-----> Spanish `ver`
+----> English `video`
+-----> Greek `βίντεο` <vínteo>: "movie, video game"
+----> Latin `vīsus`: "been seen" (passive perfect participle)
+-----> Vulgar Latin <*visus>
+------> Western Romance
+-------> French `vue`
+--------> English `view`
+------> French `visa`
+-------> English `visa`
+------> Vulgar Latin <*vīsitus>
+-------> Central Romance
+--------> Italian `vista`
+---------> English `vista`
+------> Vulgar Latin <*vīsāticum>
+-------> Western Romance
+--------> Old French `visage`
+---------> French `visage`: "face"
+---------> English `visage`
+-----> Latin `charta vīsa`
+-----> Latin `prōvīsus`: "foreseen"
+----> Latin `vīsiō`: "seeing, sight, vision, view"
+-----> Central Romance
+------> Italian `visione`
+-----> Western Romance
+------> French `vision`
+-------> English `vision`
+------> Spanish `visión`
+----> Latin `invideō`: "I look askance at, I look maliciously at, I am prejudice against, I envy"
+-----> Latin `invidia`: "envy, grudge, jealousy, spite"
+------> Central Romance
+-------> Italian `invidia`
+------> Western Romance
+-------> French `envie`
+--------> English `envy`
+-------> Spanish `envidia`
+----> Latin `praevideō`: "I see before, I anticipate"
+-----> English `preview`
+----> Latin `prōvideō`: "I foresee, I prepare for, I take care of"
+-----> English `provide`
+-----> English `purvey`
+-----> English `prudent`
+-----> Latin `prōvīsus`: "foreseen"
+------> Latin `imprōvīsus`: "unforeseen, unexpected, sudden"
+-------> Western Romance
+--------> Italian `improvviso`: "unforeseen, unexpected, sudden"
+---------> Italian `improvvisàre`: "to improvise, to make up, to play by ear"
+----------> French `improviser`
+-----------> English `improvise`
+------------> English `improv`
+----> Latin `revideō`: "I look again, I revisit"
+-----> English `review`
+----> Latin `supervideō`: "I oversee, I see from above"
+-----> English `supervise`
+-----> English `survey`
+----> Latin `vidēns`: "looking, seeing"
+-----> Latin `ēvidēns`: "apparent, visible, evident, clear"
+------> Central Romance
+-------> Italian `evidente`
+------> Western Romance
+-------> French `évident`
+--------> English `evident`
+-------> Spanish `evidente` 
+------> Latin `ēvidēntia`
+-------> English `evidence`
+----> Latin `vīsitō`: "I go to see, I visit" (frequentive)
+-----> Central Romance
+------> Italian `visitare`
+-----> Western Romance
+------> French `visiter`
+-------> English `visit`
+------> Spanish `visitar`
+----> Latin `vīsō`: "I look into, I stare at, I go to see" (intensive)
+-----> Latin `advīsō`
+------> English `advise`
+-----> Latin `revīsō`
+------> English `revise`
+----> Latin `vīsor`
+-----> English `visor`
+
+
+-> Proto-Indo-European <*n̥widḗs>: "unseen"
+
+--> Hellenic <*awidḗs>
+---> Classical Greek `ἀϊδής` <aïdḗs>: "invisible"
+--?> Classical Greek `ᾍδης` <Hā́idēs>: "Hades (Realm of the Dead), Hades (Divinity of the Underworld), grave, death"
+----> Greek `Άδης` <Ádis>: "Hades"
+----> Latin `Hādēs`: "Hades"
+-----> English `Hades`
+----> Old Church Slavonic `адъ` <adŭ>: "hell"
+-----> Russian `ад` <ad>: "hell, inferno, Hades"
+
+
+-> Proto-Indo-European <*wéydo>: "sight, knowledge"
+
+--> Balto-Slavic
+---> Slavic <*vȋdъ>
+----> East Slavic
+-----> Russian `вид` <vid>: "looks, appearance, form, kind, sort, species"
+----> South Slavic
+-----> Old Church Slavonic `видъ` <vidŭ>
+-----> Serbo-Croatian `ви̑д` <vȋd>: "eyesight, aspect, type"
+
+--> Celtic <*wēdo>
+---> Brythonic
+----> Welsh `gŵydd`: "presence, face"
+---> Old Irish `fíad`: "before, in front of"
+
+--> Germanic <*witjã>: "knowledge, reason, sense, wit"
+---> East Germanic
+----> Gothic <*witi>
+-----> Gothic `𐌽𐍅𐌹𐍄𐌹` <unwiti>: "ignorance, folly"
+---> North Germanic
+----> Old Norse `vit`
+-----> Danish `vid`: “wit”
+-----> Icelandic `vit`: "wits, intelligence, sense, reason"
+------> Icelandic `viska`: "wisdom"
+---> West Germanic
+----> Old English `witt`: "mind, understanding, sense, sanity"
+-----> English `wit`
+----> Old High German `wizzi`
+-----> German `Witz`: "wit, joke, humor"
+-----> Yiddish `וויץ‏` <vvits>: "joke"
+
+--> Hellenic
+---> Classical Greek `εἶδος` <eîdos>: "form, image, shape, sight, fashion, kind"
+----> Classical Greek `εἴδωλον` <eídōlon>: "phantom, ghost, image, shape, statue, idol"
+-----> Greek `είδωλο` <eídolo>: "idol, reflection"
+-----> Latin `idolum`: "image, form, ghost, idol"
+------> English `idol`
+-----> Old Church Slavonic `идолъ` <idolŭ>
+------> Russian `идол` <idol>: "idol"
+-----> Coptic `ⲉⲓⲇⲱⲗⲟⲛ` <eidōlon>: "idol"
+-----> English `eidolon`
+-----> Classical Greek `εἰδύλλιον` <eidúllion> (diminutive)
+------> Latin `īdyllium`
+-------> French `idylle`
+--------> English `idyll`
+--------> French `idyllique`
+---------> English `idyllic`
+----> Classical Greek `ειδής` <-eidḗs>: "-shaped"
+-----> Classical Greek `ἰοειδής` <ioeidḗs>: "violet" (["resembling violet, the flower"])
+-----> English `kaleidoscope` (Learned coining by David Brewster 1817)
+-----> Latin `-(o)īdēs`
+------> English `-(o)id`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀯𑁂𑀤` <véda>: "knowledge, sacred knowledge, Veda"
+-----> Magadhi
+------> Bengali `বেদ` <bed>: "Veda"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `वेद` <ved>: "Veda"
+------> Pali <veda>
+-------> Middle Chinese
+--------> Mandarin `吠陀` <fèituó>: "Veda"
+-------> Thai `เวท` <wêet>: "Veda"
+-----> Telugu `వేదము` <vēdamu>: "Veda"
+-----> English `Veda`
+-----> Sanskrit `𑀋𑀕𑁆𑀯𑁂𑀤` <ṛg-vedá>: "Veda of Praise, Rigveda"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `ऋग्वेद` <ŕgved>
+------> English `Rigveda`
+
+
+-> Proto-Indo-European <*wideseh>
+
+--> Hellenic <*widéhā>
+---> Classical Greek `ἰδέα` <idéa>: "look, appearance, form, type, style"
+----> Greek `ιδέα` <idéa>: "idea, opinion, impression"
+----> Russian `идея` <ideja>: "idea"
+----> Latin `idea`: "idea, prototype (Platonic)"
+-----> English `idea`
+------> Japanese `アイデア` <aidea>: "idea, invention"
+-----> French `idée`: "idea"
+-----> German `Idee`: "idea"
+------> Yiddish `אידעע‏` <idee>: "idea"
+-----> Italian `idea`: "idea"
+-----> Spanish `idea`: "idea"
+
+
+-> Proto-Indo-European <*wéydtōr>: "one who has seen"
+
+--> Hellenic <*wístōr>
+---> Classical Greek `ἵστωρ` <hístōr>: "witness, wise man, expert, judge"
+----> Classical Greek `ἱστορία` <historía>: "inquiry, examination, observation, science, the body of knowledge produced by such inquiry, a written account of such inquiry"
+-----> Greek `ιστορία` <istoría>: "history, story, love affair"
+-----> Russian `история` <istorija>: "history, story, affair, thing"
+-----> Hebrew `הסטורְיה` <história>: "history"
+-----> Latin `historia`: "history, account, story"
+------> Central Romance
+-------> Italian `storia`: "history, story, relationship"
+------> Western Romance
+-------> French `histoire`: "story, history"
+--------> Haitian Creole `istwa`: "story, history"
+--------> English `history`
+---------> English `historical linguistics`
+--------> English `story`
+-------?> English `stor(e)y` #
+-------> Spanish `historia`: "history, story, H (phonetic alphabet)"
+------> German `Historie`: "history"
+-------> Yiddish `היסטאריע` <historye>: "history"
+------> Polish `historia`: "history, story"
+------> Welsh `ystyr`: "meaning, sense"
+
+
+--> Proto-Indo-European <*weydtus>: "seeing" (action noun)
+
+---> Celtic <*wissus>: "discovery, knowledge, message"
+----> Brythonic <*gwɨs>
+-----> Welsh `gwŷs`: "summons, citation"
+----> Old Irish `fius`: "knowledge, information, message"
+-----> Irish `fios`: "knowledge, information"
+
+---?> Celtic <*towissākos>: "chief, first, primary"
+-----> Brythonic <*towɨssọg>
+------> Welsh `tywysog`: "leader, chief, prince"
+-----> Primitive Irish `ᚈᚑᚃᚔᚄᚐᚉᚔ` <tovisaci>
+------> Old Irish `toísech`: "chief, first"
+-------> Irish `taoiseach`: "chief, prime minister"
+--------> English `Taoiseach`
+
+--> Proto-Indo-European <*weydstós>: "knowledgeable" (lit. "like one who has seen")
+
+---> Celtic
+----> Celtiberian <veizos>: "witness"
+
+---> Germanic <*wīsaz>: "wise, knowledgeable"
+----> North Germanic
+-----> Old Norse `víss`: "wise"
+------> Danish `vis`: "wise"
+------> Icelandic `vís`: "wise, knowledgeable, certain"
+------> Finnish `viisas`: "wise" ###
+-------> Northern Sami `viissis`: "wise"
+----> West Germanic
+-----> Old English `wīs`: "wise"
+------> English `wise`
+-------> English `wizard` ##
+-----> Old High German `wīs`: "wise"
+------> German `weise`: "wise"
+
+----> Germanic <*wīsadōmaz>: "wise judgment, wisdom"
+-----> North Germanic
+------> Old Norse `vísdómr`
+-------> Danish `visdom`: "wisdom" 
+-------> Icelandic `vísdómur` (`viska`=isl-Latn is more common)
+-----> West Germanic
+------> Old English `wīsdōm`: "wisdom"
+-------> English `wisdom`
+------> Old High German `wīstuom`
+-------> German `Weistum` (`Weisheit`=deu-Latn is more common)
+
+----> Germanic <*wīsahaiduz>: "wisdom"
+-----> North Germanic
+------> Old Norse
+-------> Swedish `vishet`: "wisdom"
+-----> West Germanic
+------> Old English `wīs(a)had`: "wisdom"
+-------> English `wisehood` (`wisdom`=eng-Latn is more common)
+------> Old High German
+-------> German `Weisheit`: "wisdom, insight"
+
+endbody
+
+
+startnotes
+
+# `stor(e)y`=eng-Latn meaning a level of a building seems to come from the narrative paintings on the sides of medieval buildings.
+
+
+## `Wizard`=eng-Latn: "one who is wise". Compare `drunkard`=eng-Latn: "one who is drunk", `dotard`=eng-Latn: "one who dotes", `coward`=eng-Latn: "one who is cowed", etc.
+
+
+### Finnish `viisas`=fin-Latn as in the Kalevala (my latest textual obsession), Third Rune: `Oi on viisas Väinämöinen, tietäjä iän-ikuinen!`=fin-Latn ("Oh thou wise Väinämöinen, immortal sage!", or something like that.)
+
+endnotes

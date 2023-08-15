@@ -1,0 +1,138 @@
+date: 20230616
+tags: Unknown Substrate
+
+
+startintro
+
+There are two west Asian wander words for musical instruments: <*pandVr-> and <tabVr->. <*pandVr-> mostly means a stringed instrument, and <tabVr-> mostly means a kind of drum, but that is not  consistent.
+
+The *p-d and *t-b could possibly be metathesis of place of articulation, while leaving voicing in place. (I swear I knew some other examples of feature metathesis, but I can't track them down at the moment.)
+
+<*pandVr-> vs. <tabVr-> is reminiscent of [Greek bénthos vs buthós vs. the expected **thubos reflex of Proto-Indo-European <*dʰewb->: "deep, hollow"|word-family-duck.html], with metathesis and prenasalization variants. Which in turn makes me think of the "language of the geminates" substrate.
+
+Overall, the level of similarity probably wouldn't convince me to present them together, except that word "tambourine" (Middle Persian <tmbwr>) seems to conflate (rejoin?) the two.
+
+`tympani` and `timbre` are probably not best explained as part of these families, but as from Greek `τύπτω` <túptō>: "to beat, to strike", which has well established PIE cognates: Sanskrit <tópati>, OCS <tŭpati>, Latin `stupēre`, etc.
+
+
+endintro
+
+
+
+startbody
+
+Substrate?
+
+?> Substrate <*pandVr->
+
+-?> Armenian `փանդիր` <pʿandir>
+
+-?> Classical Greek `πανδοῦρα` <pandoûra>
+
+--?> Georgian `ფანდური` <panduri>
+----> English `panduri`
+
+---> Late Latin `pandūra`
+----> English `pandura`
+----> French `pandore`
+-----> English `pandore`
+
+----> Vulgar Latin <*pandurium> (variant)
+-----> Western Romance
+------> Spanish `bandurria`
+-------> English `bandurria`
+-------> English `bandore`
+--------> English `banjo`
+
+
+----> Vulgar Latin <*mandula> (variant)
+-----> Central Romance
+------> Italian `mandola`
+-------> English `mandola`
+
+-------> Italian `mandolino`
+--------> English `mandolin`
+
+----> Polish `bandura`
+-----> Ukrainian `банду́ра` <bandúra>
+------> English `bandura`
+
+--?> Georgian `ფანდური`   <panduri>
+
+---> Scythian <pandur>
+----> Ossetian `фӕндыр` <fændɨr> ###
+
+
+
+--?> Middle Persian `𐭲𐭬𐭯𐭥𐭫` <tmbwr> ##
+----> Persian `تنبور` <tanbur>: "tanbur"
+-----> English `tanbur`
+-----> Ottoman Turkish `طنبوره` <tanbura>
+------> Greek `ταμπουράς` <tampourás>: "tambura"
+------> Serbo-Croatian `та̀мбура` <tàmbura>: "tambura, tambourine
+-------> Serbo-Croatian `​​тамбурица` <tamburica>
+--------> English `tamburica`
+-------> Hungarian `tambura`: "tambura"
+----> Uyghur `تەمبۈر` <tembür>: "tanbur"
+-----> Mandarin `彈撥爾` <tánbō'ěr>
+
+
+----> Arabic `طنبور` <ṭunbūr>: "tanbur"
+
+-----> Ottoman Turkish `طنبور` <tambur>: "tanbur"
+------> Turkish `tambur`
+
+------> French `tambour`
+-------> Dutch `tamboer`
+-------> English `tambour`
+-------> Serbo-Croatian `tàmbūr`: "drum, tambour"
+-------> French `tambourin`
+--------> English `tambourine`
+
+------> Romanian `tambură`: "tanbur"
+
+
+
+
+?> Substrate <*tabVr->
+
+-?> Iranian <*tabir>
+
+---> Western Iranian
+----> Northwestern Iranian
+-----> Parthian `𐫎𐫁𐫏𐫓` <ṯbyl>
+------> Arabic `طبل` <ṭabl>
+------> Ottoman Turkish `طاول` <davul>
+-------> Turkish `davul`: "drum"
+------> Hindi `तबला` <tablā>
+-------> English `tabla`
+
+------> Koine Greek `ταβάλα` <tabála>: "Parthian drum" (Hesychius)
+
+------> Old Armenian `տաւիղ` <tawił>: "ten-stringed harp"
+
+----> Old Persian
+-----> Middle Persian <*tabir>
+------> Persian `تبیر` <tabir>: "drum"
+
+-----?> Middle Persian `𐭲𐭬𐭯𐭥𐭫` <tmbwr> ##
+
+
+
+
+
+endbody
+
+
+startnotes
+
+## Middle Persian `𐭲𐭬𐭯𐭥𐭫` <tmbwr> looks like either a metathesis of <*pandur> or nasalization of <*tabir>. It may be a conflation of the two. 
+
+### Ossetian `фӕндыр` <fændɨr> must have been borrowed before Ossetians p to f sound change.
+
+The word `фӕндыр` is in the title `Ирон Фӕндыр` <Iron Fændɨr>: "The Ossetian Lyre" (foundational piece of Ossetian national literature by Kosta Khetagurov)
+
+
+
+
+endnotes

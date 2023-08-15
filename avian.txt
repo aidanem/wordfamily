@@ -1,0 +1,334 @@
+date: 20180406
+tags: Animals, Birds, Domestic Animals
+
+
+startintro
+
+Proto-Indo-European <*h₂éwis>: "bird" and Proto-Indo-European <*h₂ówis>: "sheep" appear to be umlaut variants, presumably through the more sparsely attested root <*h₂ew->: "to put on clothes, to cover". <*h₂éwis>: "bird" would be from a passive participle, "a clothed (in feathers)". <*h₂ówis>: "sheep" from an active participle, "a clother (in wool)".
+
+endintro
+
+startbody
+
+
+Proto-Indo-European <*h₂ew->: "to put on clothes, to cover"
+
+
+-> Proto-Indo-European <*h₁én-h₂ewti>: "to put on clothes" (lit. "in-clothe")
+
+-?> Anatolian
+---> Hittite <unu>: "to adorn, to set (a table)"
+
+--> Hellenic
+---> Ancient Greek `ἐνδῠ́ω` <endúō>: "I go into, I put on, I clothe"
+
+--> Italic
+---> Latin `induō`: "I put on (clothes), I assume (a role)"
+----> Latin `indūmentum`: "garment, robe"
+-----> Western Romance
+------> Italian `indumento`: "garment"
+------> Spanish `indumento`: "clothing, outfit"
+
+
+-> Proto-Indo-European <*eḱs-h₂ewti>: "to take off clothes" (lit. "out-clothe")
+
+--> Balto-Slavic
+---> Lithuanian `aũti`: "to take off shoes"
+---> Slavic <*jьzuti>: "to take off footwear"
+----> East Slavic
+-----> Russian `изу́ть` <izútʹ>: "to take off shoes (dialectal)"
+----> South Slavic
+-----> Serbo-Croatian `ѝзути` <ìzuti>: "to take off footwear"
+----> West Slavic
+-----> Polish `zuć` (archaic)
+
+--> Italic
+---> Latin `exuō`: "I take off, I extract, I refuse"
+----> Latin `exuvia`: "shed skin (of a snake), equipment stripped from a fallen enemy, booty"
+-----> English `exuvia`
+
+
+-> Proto-Indo-European <*h₂éwtrom> "thing for wearing" (instrumental)
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan `𐬀𐬊𐬚𐬭𐬀` <aoθra>: "shoe"
+
+
+-> Proto-Indo-European <*h₂éwmn̥?>: "clothing"
+
+--> Old Armenian `ագանիմ` <aganim>: "to clothe, to put on"
+---> Armenian `հագնել` <hagnel>: "to put on clothes or shoes"
+
+--> Celtic
+---> Old Irish `fūan`: "coat, tunic, mantle"
+
+
+-> Proto-Indo-European <*h₂owes>: "covering, clothing"
+
+--> Tocharian
+---> Kuchean <ewe>: "skin, hide"
+
+
+
+?> Proto-Indo-European <*h₂éwis>: "bird" (perhaps, "one who is clothed (in feathers)")
+
+--> Old Armenian `հաւ` <haw>: "bird, poultry"
+---> Armenian `հավ` <hav>: "chicken, hen"
+
+--> Indo-Iranian <*Háwiš>: "bird"
+---> Indo-Aryan <*Hwíṣ>: "bird"
+----> Sanskrit `𑀯𑀺` <vi>
+---> Iranian <*Hwíš>
+----> Avestan `𐬬𐬍𐬱` <vīš>: "bird"
+
+--> Italic <*awis>
+---> Umbrian `𐌀𐌅𐌉𐌚` <avif>: "bird"
+---> Latin `avis`: "bird, omen, portent"
+----> Western Romance
+-----> French `oie`: "goose"
+-----> Italian `oca`: "goose"
+------> Italian `ocarina`: "ocarina" (lit. "little goose")
+-------> English `ocarina`
+-----> Spanish `ave`: "bird"
+----> Latin `aucellus`: "little bird, sparrow"
+-----> Western Romance
+------> French `oiseau`: "bird" #
+------> Italian `uccello`: "bird"
+-----> Medieval Latin `avis prede`: "bird of prey"
+------> Anglo-Norman `ospriet`
+-------> English `osprey` ##
+----> Latin `auspex`: "augur, officiating priest" (lit. "bird-watcher")
+-----> Latin `auspicium`: "divination, augury, sign, auspices"
+------> English `auspice`
+---?> Latin `augur`: "augur, diviner" ###
+----> English `avian`
+----> Translingual `Aves`: taxonomic class of birds
+
+
+--> Proto-Indo-European <*(s)h₂wyetós>
+
+---> Albanian `shotë`: "big duck"
+
+---> Celtic <*sawyetos>: "duck"
+----> Brythonic <*swɨad>
+-----> Welsh `hwyad`: "duck"
+
+---> Hellenic <*awieto>
+----> Ancient Greek `ᾱ̓ετός` <āetós>: "eagle, omen"
+-----> Greek `αετός` <aetós>: "eagle"
+------> Greek `χαρταετός` <chartaetós>: "kite" (lit. "paper eagle")
+
+
+--> Proto-Indo-European <*h₂wéyteh₂>
+
+---> Proto-Albanian <*(a)weitā>
+----> Albanian `vito`: "dove, woodpigeon"
+
+
+--> Proto-Indo-European <*h₂wísteh₂>
+
+---> Balto-Slavic <*wištā>
+----> Lithuanian `vištà`: "chicken"
+
+
+--> Proto-Indo-European <*h₂ōwyóm>: "egg"
+
+---> Proto-Armenian <*yō(w)yo->
+----> Old Armenian `ձու` <ju>: "egg"
+-----> Armenian `ձու` <ju>: "egg, testicle"
+
+---> Balto-Slavic
+----> Slavic <*jȃje>: "egg"
+-----> South Slavic
+------> Serbo-Croatian `ја́је` <jáje>: "egg, testicle"
+-----> West Slavic
+------> Polish `jajo`: "egg, testicle"
+-----> Slavic <*jajьce>: "egg" (diminutive)
+------> East Slavic
+-------> Russian `яйцо́` <jajcó>: "egg, testicle"
+------> South Slavic
+-------> Serbo-Croatian `ја́јце` <jájce>: "egg, testicle"
+------> West Slavic
+-------> Polish `jajko`: "egg"
+
+---> Celtic <*āuyom>
+----> Brythonic
+-----> Welsh `wy`: "egg"
+
+---> Germanic <*ajją>: "egg"
+----> East Germanic
+-----> Gothic `𐌰𐌳𐌳𐌹` <addi>
+-----> Crimean Gothic `ada`: "egg"
+----> North Germanic
+-----> Old Norse `egg``: "egg"
+------> Danish `æg`: "egg"
+------> Icelandic `egg`: "egg, oval"
+------> English `egg`
+----> West Germanic <*ajjaz>
+-----> Old English `ǣġ`: "egg"
+------> Middle English `ey`: "egg"
+-------> Middle English `cokenay`
+--------> English `Cockney`
+-----> Frankish <*ei>
+------> Dutch `ei`: "egg"
+-----> Old High German `ei`: "egg"
+------> German `Ei`: "egg, testicle, money, fool"
+------> Yiddish `איי` <ey>: "egg, testicle"
+
+---> Hellenic <*ōyyón>: "egg"
+----> Ancient Greek `ᾠόν` <ōión>: "egg, seed"
+-----> Ancient Greek `τὰ ᾠά` <tà ōiá>: "the eggs"
+------> Greek `τ' αβγά` <t' avgá>: "the eggs"
+-------> Greek `αβγό` <avgó>: "egg" (back formation)
+
+---> Indo-Iranian <*āwja-(ka)>
+----> Iranian
+-----> Avestan `𐬀𐬉𐬨` <aēm>
+-----> Pashto `هګۍ` <hëgëy>: "egg"
+-----> Northern Iranian
+------> Scythian
+-------> Ossetian `айк` <ajk>: "egg"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `hêk`: "egg"
+------> Old Persian
+-------> Persian `خایه` <xâye>: "egg, testicle"
+--------> Persian `خاویار` <xâvyâr>: "caviar"
+---------> Ottoman Turkish `خاویار` <havyar>: "caviar"
+----------> Turkish `havyar`: "caviar"
+----------> Greek `χαβιάρι` <chaviári>: "caviar"
+-----------> Arabic `خِبْيَارِيّ` <ḵibyāriyy>: "caviar"
+----------> Italian `caviale`: "caviar"
+----------> Venetian `caviaro`: "caviar"
+-----------> French `caviar`
+------------> English `caviar`
+------------> Arabic `كَافْيَار` <kafyār>: "caviar"
+
+
+---> Italic <*ōwom>
+----> Latin `ōvum`: "egg"
+-----> Sardinian `obu`: "egg"
+-----> Eastern Romance
+------> Romanian `ou`: "egg, testicle"
+-----> Western Romance
+------> French `œuf`: "egg"
+------> Italian `uovo`: "egg"
+------> Spanish `huevo`: "egg, testicle"
+-----> Latin `ovālis`: "to do with eggs"
+------> Western Romance
+-------> French `ovale`: "oval"
+--------> English `oval`
+-------> Italian `ovale`: "oval"
+-------> Spanish `óvalo`: "oval"
+
+
+?> Proto-Indo-European <*h₂ówis>: "sheep" (perhaps, "one who provides clothes")
+
+--> Anatolian
+---> Hittite `𒇻𒅖` <ḫāwis>: "sheep"
+---> Lycian `𐊜𐊀𐊇𐊙` <χawã>: "sheep"
+
+--> Balto-Slavic <*awis>: "sheep"
+---> Lithuanian `avìs`: "sheep"
+---> Balto-Slavic <*awinas>: "ram"
+----> Lithuanian `ãvinas`: "ram"
+----> Slavic <*ovьnъ>
+-----> East Slavic
+------> Russian `ове́н` <ovén>: "ram"
+-----> South Slavic
+------> Serbo-Croatian `о́ван` <óvan>: "ram"
+-----> West Slavic
+------> Polish `owien`: "ram"
+----> Finnic <*oinas>: "ram"
+-----> Finnish `oinas`: "ram"
+---> Balto-Slavic <*awikāˀ>: "ewe"
+----> Slavic <*ovьcà>
+-----> East Slavic
+------> Russian `овца́` <ovcá>: "sheep, ewe"
+-----> South Slavic
+------> Serbo-Croatian `о́вца` <óvca>: "sheep"
+-----> West Slavic
+------> Polish `owca`: "sheep, ewe"
+
+--> Celtic <*owis>
+---> Old Irish `oí`: "sheep"
+
+--> Germanic <*awiz>: "sheep, ewe"
+---> North Germanic
+----> Old Norse `ær`: "ewe"
+-----> Icelandic `ær`: "ewe"
+---> West Germanic
+----> Old English `ēowu`: "ewe"
+-----> English `ewe`
+-----> Scots `yowe`
+----> Frankish <*ōi>
+-----> Dutch `ooi`: "ewe"
+----> Old High German `awi`
+-----> German `Aue`: "ewe"
+---> Germanic <*awidjã>: "flock of sheep"
+----> East Germanic
+-----> Gothic `𐌰𐍅𐌴𐌸𐌹` <awēþi>: "flock of sheep"
+----> West Germanic
+-----> Old English `ēowede`: "flock of sheep"
+-----> Old High German `ouwiti`
+---> Germanic <*awistrã>: "sheepfold"
+----> East Germanic
+-----> Gothic `𐌰𐍅𐌹𐍃𐍄𐍂` <awistr>: "sheepfold"
+----> West Germanic
+-----> Old English `ēwestre`: "sheepfold"
+-----> Old High German `ouwist`: "sheepfold"
+
+--> Hellenic
+---> Ancient Greek `οἶς` <oîs>: "sheep"
+
+--> Indo-Iranian <*Háwiš>
+---> Indo-Aryan
+----> Sanskrit `𑀅𑀯𑀺` <ávi>: "sheep, ewe"
+---> Iranian
+----> Western Iranian
+-----> Old Persian
+------> Persian `عفه` <afe>: "sheepskin (coat)"
+
+--> Italic <*owis>
+---> Umbrian `𐌖𐌅𐌄𐌌` <uvem>: "sheep"
+---> Latin `ovis`: "sheep"
+----> Eastern Romance
+-----> Romanian `oaie`: "sheep, ewe"
+----> Translingual `Ovis`: taxonomic genus of sheep
+----> Latin `ovicula`: "little sheep"
+-----> Western Romance
+------> French `ouaille`: "ewe, flock"
+------> Spanish `oveja`: "sheep"
+----> Latin `ovīnus`: "ovine, to do with sheep"
+-----> Eastern Romance
+------> Romanian `oină`: "ram meat"
+-----> English `ovine`
+-----> French `ovin`: "ovine"
+-----> Italian `ovino`: "ovine"
+-----> Spanish `ovino`: "ovine"
+
+--> Tocharian
+---> Kuchean <*ā(u)w>
+----> Kuchean <awi>: "ewes"
+
+
+--> Proto-Indo-European <*h₂owipeh₂?>: "sheep-protecter"
+
+---> Old Armenian `հովիւ` <hoviw>: "shepherd, herdsman, pastor"
+----> Armenian `հովիվ` <hoviv>: "shepherd, herdsman"
+
+
+
+endbody
+
+
+startnotes
+
+# But interestingly French `oiseau` (Old French `oisel`, Old Occitan `auzel`) is not the origin of English `ouzel`: "blackbird", which comes from Germanic <*amslǭ>: "blackbird", and related to Welsh `mwyalch` and Latin `merula` among other Northwestern IE words meaning "blackbird".
+
+## The meaning of `osprey` shifted from "bird of prey" generally to a specific bird under influence of French `ossifrage`, Latin `ossifragus`: "osprey" (lit. "bone-breaker").
+
+### Latin `augur` is of unknown origin. I would dismiss the `avis-garriō`: "bird talker" as folk etymology, if there wasn't also `auspex`: "bird-watcher".
+
+endnotes

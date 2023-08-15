@@ -1,0 +1,150 @@
+date: 20191101
+
+
+startintro
+
+All English meanings of "check" derive from the chess term:
+
+checklist, checkup, checks and balances, checkers, checking account, checkered past, …
+
+All of them.
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*tek->: "to reach for, to take, to obtain, to receive"
+
+-> Proto-Indo-European <*téketi> (primary imperfective)
+
+--> Balto-Slavic <*tektei>
+---> Lithuanian `tèkti`: "to fall, to happen, to fall on"
+
+
+-> Proto-Indo-European <*tkéyeti> (intransitive imperfective?)
+
+--> Indo-Iranian <*kšáyati>: "to possess, to rule"
+---> Indo-Aryan
+----> Sanskrit `क्षयति` <kṣáyati>: "to possess, to rule, to destroy, to burn"
+
+
+---> Indo-Iranian <*kšatríyas>: "possessor, ruler"
+----> Indo-Aryan <*kšatríyas>
+-----> Sanskrit `क्षत्रिय` <kṣatriya>: "military aristocratic caste"
+------> Sauraseni `𑀔𑀢𑁆𑀢𑀺𑀅` <khattia>
+-------> Punjabi `ਖੱਤਰੀ` <khatrī>
+--------> English `Khatri`
+--------> Hindi `खत्री` <khatrī>
+------> Middle Chinese `剎帝利` <chatdeili>: "kshatriya"
+-------> Mandarin `剎帝利` <chàdìlì>: "kshatriya"
+------> English `kshatriya`
+------> Hindi `क्षत्रिय` <kṣatriy>
+------> Indonesian `kesatria`: "knight, hero"
+------> Thai `กษัตริย์` <gà-sàt>: "kshatriya, king"
+
+---> Iranian <*xšaθríyah>
+----> Western Iranian
+-----> Old Persian `𐎧𐏁𐎠𐎹𐎰𐎡𐎹` <xšāyaθiya>: "king" ##
+------> Persian `شاه` <šâh>: "king, shah, check" #
+
+-------> Arabic `شَاه` <šāh>: "shah, (chess) king, check"
+--------> Vulgar Latin <*scaccus>: "check"
+---------> Western Romance
+----------> Old French `eschec`: "check"
+-----------> French `échec`: "check, failure"
+-----------> Dutch `schaak`: "check, chess"
+-----------> English `check`
+-----------> Old French `eschés`: "checks, chess game"
+------------> French `échecs`: "chess"
+------------> English `chess`
+----------> Italian `scacco`: "chess piece, chess square, check"
+-----------> Italian `scacci`: "chess"
+
+---------> Vulgar Latin <*scaccarium>: "chessboard" (lit. "place for shahs")
+----------> Western Romance
+-----------> Old French `escheker`: "chessboard, checker pattern, accountant's (checkered) table"
+------------> French `échiquier`: "chessboard, treasury, exchequer"
+------------> English `checker`
+-------------> English `checkers`
+-------------> English `check`
+------------> English `exchequer`
+------------> English `check`
+-----------> Spanish `escaque`: "checkerboard"
+
+-------> English `shah`
+
+
+-------> Persian `شاه مات` <šâh mât>: "checkmate" (lit. "The king is stupified/ambushed/abandoned")
+--------> Arabic `شَاهُ مَاتَ` <šāhu māta>: "checkmate"
+---------> Old French `eschec (et) mat`: "checkmate"
+----------> French `échec et mat`: "checkmate"
+----------> English `checkmate`
+---------> Italian `scacco matto`: "checkmate"
+
+-------> Persian `پادشاه` <pâdešâh>: "Padishah" (lit. "master-king") ###
+--------> English `Padishah`
+
+------> Old Persian `𐎧𐏁𐎹𐎠𐎼𐏁𐎠` <Xšayāršā>: "King-Hero (personal name)"
+-------> Ancient Greek `Ξέρξης` <Xérxēs>
+--------> Latin `Xerxes`
+---------> English `Xerxes`
+
+
+---> Indo-Iranian <*kšatrám>: "kingdom, dominion, rule"
+----> Indo-Aryan <*kṣatrám>
+-----> Sanskrit `क्षत्र` <kṣatrá>: "power, kingdom, government"
+
+----> Iranian <*xšaθram>
+-----> Avestan `𐬑𐬱𐬀𐬚𐬭𐬀` <xšaθra>: "control, authority, power"
+-----> West Iranian
+------> Old Persian `𐎧𐏁𐏂𐎶` <xšaçam>: "kingdom, kingship, realm, reign"
+-------> Old Persian `𐎧𐏁𐏂𐎱𐎠𐎺𐎠` <xšaçapāvā>: "satrap, governor, viceroy" (lit. "kingdom-protector")
+
+--------> Ancient Greek `σᾰτράπης` <satrápēs>: "satrap, governor"
+---------> Latin `satrapēs`: "satrap, governor"
+----------> English `satrap`
+
+-------> Old Persian `𐎠𐎼𐎫𐎧𐏁𐏂𐎠` <Artaxšaçā>: "Truth-Kingdom (personal name)"
+--------> Persian `اردشیر` <Ardešir>
+--------> Ancient Greek `Ἀρταξέρξης` <Artaxérxēs> (refashioned after `Ξέρξης` <Xérxēs>) ####
+---------> Latin `Artaxerxes`
+----------> English `Artaxerxes`
+
+
+
+-> Proto-Indo-European <*tékō> (noun)
+
+--> Celtic
+---> Old Irish `techt`: "possessions, property"
+
+--> Germanic <*þegō>: "a receiving, acceptance, a taking"
+---> West Germanic
+----> Old English <*þegu>
+-----> Old English `bēorþegu`: "beer-drinking"
+
+endbody
+
+
+startnotes
+
+
+
+
+
+# Persians introduced calling out checks in chess (or rather, in shatranj), to prevent games ending unsatisfyingly because one player simply missed that their king was in danger. "Shah!" ~ "(Watch  your) King!".
+
+The similarity between <shah>: "king" (basis of more western names of chess) and <chaturanga>: "four parts" (basis of more eastern names of chess) is apparently coincidental. But there may have been some influence from <shah> in Middle Persian's adaption of the Sanskrit <chaturanga>.
+
+
+## Old Persian `𐎧𐏁𐎠𐎹𐎰𐎡𐎹` (<xšāyaθiya>, "king") is the full phonetic spelling,  is also written with the logogram `𐏋`.
+
+### `پادشاه` <pâdešâh>: "Padishah, Master-King", <pad(i)>: "master" is the same "master" as in Italic <*hostipotis>: "guest-master, host", whence "hospitality, host" and as in Greek `δεσπότης` <despotes>: "house-master, slave-owner", whence "despot".
+
+
+#### I'd never looked at the original Old Persian of Artaxerxes. I did not realize until now that "Artaxerxes" does not actually incorporate the name "Xerxes" in the origina (though they are from the same root)
+
+
+
+endnotes

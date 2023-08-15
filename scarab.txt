@@ -1,0 +1,435 @@
+date: 20220513
+tags: Animals, Unknown Substrate
+
+
+startintro
+
+A whole pile of words for things with shells and exoskeletons built on something like <*kar->
+
+Some of these are probably each of
+Wander words for crabs from an unknown substrate
+Derivations from possible Proto-Indo-European roots <*krew->, <*kh₂er->, <(s)ker->, and/or <*(s)kerp-> with meanings related to "hard" and/or "circular"
+Independent innovations based on sound symbolism
+Coincidence
+
+
+endintro
+
+
+
+
+startbody
+
+
+Unknown substrate <*Kar->
+
+?> Semitic <*ʿqr>
+--> Semitic <*ʿaqrab->: "scorpion" #
+
+---> Central Semitic
+----> Arabic `عَقْرَب` <ʿaqrab>: "scorpion, dial"
+-----> Maltese `għakreb`: "scorpion"
+-----> Persian `عقرب` <'aqrab>
+-----> Spanish `alacrán`: "scorpion"
+------> Tagalog `alakdan`: "scorpion"
+-----> Turkish `akrep`: "scorpion"
+----> Northwest Semitic
+-----> Aramaic `𐡏𐡒𐡓𐡁𐡀`  <‘eqarbā>: "scorpion"
+------> Classical Syriac `ܥܩܪܒܐ` <‘eqarbā>: "scorpion, Scorpio"
+-----> Canaanite
+------> Hebrew `עַקְרָב` <'akráv>: "scorpion, Scorpio"
+------> Phoenician `𐤏𐤒𐤓𐤁` <ʿqrḇ>
+-----> Ugaritic `𐎓𐎖𐎗𐎁` <ʿqrb>: "scorpion"
+
+---> East Semitic
+----> Akkadian <*aqrabu>
+-----> Akkadian <aqrabuamelu>: "scorpion-man"
+
+---> South Semitic
+----> Ethiopic
+-----> Ge'ez `ዐቅረብ` <ʿäḳräb>
+
+
+?> Pre-Albanian <*kartˢila>
+--> Albanian `gërthje`: "crab"
+
+
+?> Classical Greek `κᾱ́ρᾰβος` <kā́rabos>: "beetle, crayfish, small boat"
+--> Byzantine Greek `κάβουρας` <kábouras>
+---> Greek `καβούρι` <kavoúri>: "crab"
+----> Albanian `gaforre` <crab>
+
+--> Latin `carabus`
+---> Western Romance
+----> Portuguese `carabo`
+-----> Portuguese `caravela`
+------> English `caravel`
+---> Translingual `Carabus`: "taxonomic genus of carabid beetles"
+
+-?> Latin `scarabaeus`: "scarab, black dung beetle" (<kā́rabos> + s-mobile?)
+---> Western Romance
+----> French `escarbot`: "dung beetle"
+----> Italian `scarafaggio`: "cockroach"
+----> Spanish `escarabajo`: "beetle"
+---> French `scarabée`: "scarab, beetle"
+----> English `scarab`
+---> Italian `scarabeo`: "scarab, beetle"
+---> Translingual `Scarabaeus`: "taxonomic genus of scarab beetles"
+
+-?> Aramaic
+---> Classical Syriac `ܩܪܒܝܢ‎` <qarābīn>: "cargo boat"
+--?> Arabic `قَارِب` <qārib>: "small boat, skiff, dingy"
+
+
+
+?> Germanic <*krabbô>: "crab"
+
+--> North Germanic
+---> Old Norse `krabbi`: "crab"
+----> Danish `krabbe`: "crab"
+----> Icelandic `krabbi`: "crab"
+-----> Icelandic `krabbamein`: "cancer"
+----> Swedish `krabba`
+-----> Finnish `rapu`: "crayfish, crab, decapod"
+
+--> West Germanic
+---> Old English `crabba`: "crab, crayfish"
+----> English `crab`
+---> Frankish
+----> Dutch `krab`: "crab"
+---> Old Saxon <*krabbo>
+----> Middle Low German `krabbe`
+-----> Low German `Krabb`: "crab, crayfish, prawn"
+-----> German `Krabbe`: "crab, shrimp, crocket"
+-----> Estonian `krabi`: "crab"
+
+--> East Baltic
+---> Lithuanian `krabas`
+
+--> Slavic <*krabъ>: "crab"
+---> East Slavic
+----> Russian `краб` <krab>: "crab"
+----> Ukrainian `краб` <krab>: "crab"
+---> South Slavic
+----> Serbo-Croatian `краба` <kraba>: "crab"
+---> West Slavic
+----> Polish `krab`: "crab"
+
+
+
+--> Germanic <*krabitaz>
+---> West Germanic
+----> Frankish <*krebit>
+-----> Dutch `kreeft`: "lobster, crayfish"
+-----> Old French
+------> Norman `cravette
+-------> French `crevette`: "shrimp"
+--------> English `crevette`
+--------> Polish `krewetka`: "shrimp"
+--------> Russian `креве́тка` <krevétka>: "shrimp, prawn"
+-----> Frankish <*krebtija> (diminutive)
+------> Old French `crevez`
+-------> French `écrevisse`: "crayfish"
+-------> English `crayfish` (modified by association with `fish`)
+-------> English `crawfish` (modified by association with `fish`)
+--------> English `crawdad`
+----> Old High German `krebiz`
+-----> German `Krebs`: "crab, Cancer, cancer"
+------> Danish `krebs`: "crayfish, Cancer"
+----> Old Saxon <*krevit>
+-----> Low German `Krefft`: "crayfish, lobster"
+------> Danish `kræft`: "cancer"
+-------> Kalaallisut `kræfti`: "cancer"
+------> Swedish `kräfta`: "crayfish, Cancer"
+
+--> Germanic <*krabbōnã>
+---> North Germanic
+----> Old Norse `krabba`
+-----> Icelandic `krabbe`: "to move like a crab, to scuttle, to stumble"
+---> West Germanic
+----> Frankish
+-----> Dutch `krabben`: "to scratch, to claw"
+
+--> Germanic <*krabblōnã>: "to move like a crab, to crawl, to scratch"
+---> North Germanic
+----> Old Norse `krafla`
+-----> Danish `kravle`: "to crawl, to climb"
+-----> Icelandic `krafla`
+-----> English `crawl`
+---> West Germanic
+----> Frankish <*krabbalon>
+-----> Dutch `krabbelen`: "to scrawl, to scribble, to scratch"
+------?> English `crabble`
+----> Old High German <*krabbalōn>
+-----> German `krabbeln`: "to crawl, to tickle"
+
+
+
+
+?> Classical Greek `κᾱρῑ́ς` <kārī́s>: "shrimp, prawn"
+
+?> Classical Greek `κραγγών` <krangṓn>: "shrimp, mantis shrimp"
+
+?> Classical Greek `καρκῐ́νος` <karkínos>: "crab, Cancer, ulcer, cancer, compass calipers, pair of compasses (circle drawing tool)"
+--> Old Armenian
+---> Armenian `կարկին` <karkin>: "pair of compasses (circle drawing tool)"
+--> Classical Greek `κᾰρκῐ́νωμᾰ` <karkínōma>
+---> Latin `carcinōma`: "carcinoma"
+----> English `carcinoma`
+--> English `carcinization`
+
+?> Italic <*karkros>
+--> Latin `carcer`: "prison, jail, lattice of bars, starting gate"
+---> Latin `carcerō`: "to jail"
+----> Western Romance
+-----> French `chartre`
+-----> Italian `carcere`
+-----> Spanish `cárcel`
+----> Brythonic <*karxar>
+-----> Welsh `carchar`
+----> German `Karzer`
+-----> Russian `ка́рцер` <kárcer>
+----> German `Kerker`
+----> Gothic `𐌺𐌰𐍂𐌺𐌰𐍂𐌰` <karkara>
+
+----> Latin `incarcerō`: "to put in jail"
+-----> Latin `incarcerātus`
+------> English `incarcerate`
+
+-?> Italic <*kankros> (dissimilation)
+---> Latin `cancer`: "crab, tumor, lattice"
+----> Western Romance
+-----> French `chancre`: "crab, lobster, canker, chancre"
+------> English `chancre`
+----> Old English `cancer`
+-----> English `canker`
+----> English `cancer`
+----> French `cancre`: "idiot, crayfish"
+----> French `cancer`: "cancer"
+
+---> Latin `cancellus`: "grid, screen of bars, barred door"
+
+----> Latin `cancellō`: "I make into a lattice, I cover with a lattice or grid, I cross out"
+-----> Western Romance
+------> Old French 
+-------> French `chanceler`: "to waver, to falter, to wobble, to stagger"
+-------> Anglo-Norman
+--------> English `cancel`
+------> Italian `cancellàre`: "to delete, to cross out, to erase, to cancel"
+------> Spanish `cancelar`: "to cancel, to call off, to liquidate, to pay a debt"
+
+----> Latin `cancellārius`: "doorkeeper, secretary"
+-----> Western Romance
+------> French `chancelier`: "chancellor"
+-------> English `chancellor`
+--------> Irish `seansailéir`: "chancellor"
+-------> Old Spanish `chanciller`: "chancellor"
+--------> Spanish `canciller`: "chancellor" (learned remodeling toward the Latin)
+------> Old High German `kanzilari`
+-------> German `Kanzler`: "chancellor"
+
+
+---> Latin `crancus`
+----> Western Romance
+-----> Occitan `cranc`: "crab"
+----> Brythonic <*krank>: "crab"
+-----> Welsh `cranc`: "crab"
+
+-----> Vulgar Latin `cranculus`
+------> Western Romance
+-------> Italian `granchio`: "crab, mistake"
+-------> Spanish `cangrejo`: "crab"
+-------> Maltese `granċ`: "crab"
+
+
+
+?> Classical Greek `​​σκορπῐ́ος` <skorpíos>: "scorpion, Scorpio, Scorpius" (with s-mobile?)
+--> Greek `σκορπιός`: "scorpion, Scorpio, Scorpius"
+--> Latin `scorpiō`: "scorpion"
+---> Western Romance
+----> French `scorpion`
+-----> English `scorpion`
+-----> Dutch `schorpioen`
+----> Italian `scorpione`
+----> Spanish `escorpión`
+--?> Albanian `shkrap`: "scorpion"
+---> English `Scorpio`
+---> Irish `scairp`
+--> Sanskrit `𑀓𑁅𑀭𑁆𑀧𑀺` <kaurpi>: "Scorpio"
+
+
+
+--> Classical Greek `σκόρπαινᾰ` <skórpaina>: "scorpionfish"
+---> Latin `scorpaena`: "scorpionfish"
+----> Western Romance
+-----> Italian `scorfano`: "scorpionfish"
+----> French `scorpène`
+-----> English `sculpin`
+
+----> Translingual `Scorpaena`: "taxonomic genus of scorpionfish"
+
+
+
+
+
+
+?> Indo-Iranian <*kar->
+
+--> Indo-Aryan <*kar>
+---> Indo-Aryan <*kar-?>
+----> Sanskrit `कर्कट` <karkaṭa>: "crab, Cancer"
+-----> Elu
+------> Dhivehi `ކަކުނި‎` <kakuni>: "crab"
+-----> Magadhi
+------> Assamese `কেঁকোৰা` <kẽküra>: "crab"
+------> Bengali `কাঁকড়া` <kãkṛa>: "crab"
+-----> Maharashtri
+------> Marathi `खेकडा` <khekḍā>: "crab"
+-----> Pali `𑀓𑀓𑁆𑀓𑀝𑀓` <kakkaṭaka>: "crab, Cancer"
+------> Khmer `កក្កដា` <kɑkkaʼdaa>: "July, Cancer"
+-----> Sauraseni `𑀓𑀓𑁆𑀓𑀟` <kakkaḍa>
+------> Hindi `केकड़ा` <kekṛā>: "crab"
+-----> Telugu `కర్కటము` <karkaṭamu>: "crab, Cancer"
+-----> Thai `กรกฎ` <gɔɔ-rá-gòt>: "crab, Cancer"
+-----> Tibetan `ཀརྐ་ཊ` <krka-ṭa>
+------> Tibetan `ཀརྐ་ཊ་སྐར་ཚོམ་` <krka-ṭa-kâ-tsho>: "Cancer" (lit. "crab star accumulation")
+
+--> Iranian <*kar->
+
+---> Iranian <*kar-pu?>
+----> Avestan `𐬐𐬵𐬀𐬭𐬞𐬎` <kharpu>: "crab"
+
+---> Iranian <*kari-čanaka-> (second element <*čang>: "claw")
+----> West Iranian
+-----> Northwest Iranian
+------> Kurdish `kevjal`: "crab"
+------> Middle Armenian `քարժանկ` <kʿaržank>: "crayfish"
+-----> Old Persian
+------> Persian `خرچنگ` <xarčang>: "crab"
+----> Old Armenian `կարիճ` <karič>: "scorpion, Scorpius"
+-----> Armenian `կարիճ` <karič>: "scorpion, crayfish, Scorpius"
+
+
+
+?> Slavic <*čȇrpъ>: "shell, shard, potsherd, skull"
+--> East Slavic `черепъ` <čerepŭ>
+---> Russian `че́реп` <čérep>: "skull"
+---> Ukrainian `череп` <čerep>: "skull"
+----> Polish `czerep`: "skull, head"
+--?> East Slavic <*čȇrpaxa> ## 
+----> Belarusian `чарапа́ха` <čarapáxa>: "turtle"
+----> Russian `черепа́ха` <čerepáxa>: "turtle, turtle shell"
+----> Ukrainian `черепа́ха` <čerepáxa>: "turtle"
+--> South Slavic
+---> Old Church Slavonic `чрѣпъ` <črěpŭ>
+---> Serbo-Croatian `цре̑п` <crȇp>: "roof tile"
+--> West Slavic
+---> Czech `střep`: "shard"
+---> Polish `trzop`: "clay pot"
+
+
+?> Iberian  <*calappacu>: "shell"
+
+--> Spanish `carapacho`: "carapace, shell"
+---> French `carapace`: "shell"
+----> English `carapace`
+----> English `calipash`
+
+--> Spanish `galápago`: "turtle"
+---> Spanish `Islas Galápagos`: "Turtle Islands (place name)"
+----> English `Galapagos`
+
+-?> Spanish `calabaza`: "gourd, pumpkin"
+
+
+
+?> Austroasiatic
+--> Mon-Khmer <*kt₁aːm>
+---> Khmeric
+----> Khmer `ក្ដាម` <kdaam>: "crab"
+---> Monic
+----> Mon `ဂတာံ` <gatāṁ>: "crab"
+-----> Burmese `ကဏန်း` <ka.nan:>: "crab"
+---> Vietic
+----> Vietnamese `đam`: "freshwater crab"
+---> Aslian
+----> Temiar <gantam>: "crab"
+----> Malay `ketam`: "crab"
+--> Munda
+---> Santali `ᱠᱟᱴᱠᱳᱢ` <kaʈkom>: "crab"
+
+
+
+
+
+
+?> Sino-Tibetan <*d-kraːj>: "crab"
+--> Old Chinese <*m-kˤreʔ>
+---> Middle Chinese `蟹` <ɦˠɛX>: "crab"
+----> Mandarin `蟹` <xiè>: "crab"
+----> Wu `蟹` <ha²>: "crab"
+----> Yue `蟹` <haai⁵>: "crab"
+--> Karenic <*chwɛᴮ>
+---> S’gaw Karen `ဆွဲၣ်` <hsweh̀>: "crab"
+--> Sal
+---> Jingpho `chahkan`: "crab"
+
+-?> Sino-Tibetan <*s-diːk>: "scorpion, crab, shrimp"
+---> Tibeto-Burman
+----> Bodish
+-----> Tibetan `སྡིག་པ` <sdig pa>: "scorpion, evil, malign, sin"
+-----> Tibetan `སྡིག་སྲིན` <sdig srin>: "crab"
+
+
+
+
+
+
+?> Karto-Zan <*ḳrčxib->
+--> Georgian `კირჩხიბი` <ḳirčxibi>: "lobster, crab, Cancer"
+--?> Georgian `კიბორჩხალა` <ḳiborčxala>: "crab"
+----> Georgian `კიბო` <ḳibo>: "barnacle, tumor, cancer"
+--> Mingrelian `გირჯღიბე` <girǯɣibe>: "tick"
+
+
+?> Unknown substrate <*raK-> (metathesis?)
+
+-?> Semitic
+---> East Semitic
+----> Akkadian `𒁄𒄀` <raqqu>: "turtle"
+----?> Classical Syriac `ܪܩܐ` <raqqā>: "turtle"
+
+
+-?> Slavic <*ràkъ>: "crayfish"
+---> East Slavic
+----> Russian `рак` <rak>: "crayfish, Cancer, cancer"
+----> Ukrainian `рак` <rak>: "crayfish, cancer"
+---> South Slavic
+----> Serbo-Croatian `ра̏к` <rȁk>: "crab, cancer"
+----> Hungarian `rák`: "crab, lobster, cancer"
+---> West Slavic
+----> Polish `rak`: "cancer, crayfish, crampon, Cancer"
+-----> Polish `Raków`: "(Place)-of-Crayfish (place name)"
+------> English `Raków`
+----> Old Norse
+-----> Danish `reje`: "shrimp, prawn"
+------> Kalaallisut `raaja`: "shrimp, prawn"
+-----> Icelandic `rækja`: "shrimp"
+
+
+
+
+endbody
+
+
+startnotes
+
+# Proto-Semitic <*ʿaqrab->: "scorpion" includes the <*-(a)b-> that appears in a number of animal names: e.g., <*ðiʾb->: "wolf", <*θaʿlab->: "fox", <*dabb->: "bear", suggesting an earlier form of the root <*ʿaqr->, which makes more similar with the various other scorpion/crab/beetle words of unknown origin.
+
+
+## East Slavic <*čȇrpaxa>: "turtle"  is remarkably similar looking to Spanish `carapacho`: "carapace, shell" (-> English `carapace`), but the East Slavic is clearly derived from Slavic <*čȇrpъ>: "shell, shard, potsherd, skull" (which itself looks remarkable similar to Avestan <kharpu>: "crab"), where the Spanish is assumed to be from the same pre-Roman Iberian substrate as `calabaza`: "gourd" and `galápago`: "turtle".
+
+Unless `calabaza` is from Persian `خربزه` <xarboze>: "melon", itself of unknown origin, but `تربز` <tarboz>—with a <t->—is probably closer to the original form of that word. It's all very confusing. 
+
+endnotes
+

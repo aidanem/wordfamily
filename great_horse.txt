@@ -1,0 +1,301 @@
+Proto-Indo-European <h₁éḱwos>: "horse"
+-> Anatolian <*ʔeḱu->
+--> Hittite <𒀲𒆳𒊏𒍑> (ekkus): "horse"
+-> Armenian <էշ> ‎(ēš): "donkey"
+-?> Latin <asinus>: "donkey"
+---> Old English <assen>: "donkey, ass"
+----> English <ass>
+---> Latin <assellus>: "small/young donkey"
+----> Germanic <*asiluz>: "donkey"
+-----> West Germanic
+------> Frankish
+-------> Dutch <ezel>: "donkey, idiot, easel"
+--------> English <easel>
+------> Old High German <esil>: "ass, donkey"
+-------> German <Esel>: "ass, donkey"
+------> Old English <eosol>: "donkey, ass"
+-----> East Germanic
+------> Gothic <𐌰𐍃𐌹𐌻𐌿𐍃> (asilus): "donkey"
+-----> Slavic <*osь̃lъ> (osilu): "donkey"
+------> East Slavic
+-------> Russian <осёл>: "donkey, ass"
+------> West Slavic
+-------> Polish <osioł>: "donkey"
+-> Celtic <ekʷos>: "horse"
+--> Gaulish <epos>: "horse"
+---> Gaulish <Epona>: "Horse Goddess"
+--> Old Irish <ech>: "horse"
+---> Irish <each>: "horse"
+---> Manx <agh>: "horse"
+--> Brythonic <*eb>: "horse"
+---> Brythonic <*ebol>: "small/young horse"
+----> Welsh <ebol>: "foal"
+-> Germanic <*ehwaz>: "horse"
+--> Old English <eoh>: "horse"
+--> Icelandic <jór>: "horse"
+--> Germanic <*ehwaraidō>: "horse riders"
+---> Old English <ēored>: "cavalry"
+-> Hellenic
+--> Mycenaean Greek <𐀂𐀦> (i-qo): "horse"
+---> Ancient Greek <ἵππος> ‎(híppos): "horse"
+----> Greek <ίππος> (íppos): "horse"
+----> Ancient Greek <Φίλιππος > ‎(Phílippos): "Personal name, 'Fond of Horses'"
+-----> Translingual <Philippines>: "Place name (after Philipp II of Spain)"
+----> New Latin <hippo->: "horse"
+-----> New Latin <hippopotamus>: "hippopotamus"
+----> Ancient Greek <ἱππόδρομος> (hippódromos): "track for horse or chariot races"
+-----> English <hippodrome>
+-> Italic <*ekwos>: "horse"
+--> Latin <equus>: "horse"
+---> Latin <equa>: "mare"
+----> Sardinian <ebba>: "mare"
+----> Eastern Romance
+-----> Romanian <iapă>: "mare"
+----> Western Romance
+-----> Spanish <yegua>: "mare, heifer"
+---> Latin <equester>: "pertaining to riding horses, pertaining to cavalry, (substantive) horseman"
+----> Western Romance
+-----> French <équestre>: "equestrian"
+------> English <equestrian>
+-----> Spanish <ecuestre>: "equestrian"
+---> Latin <equīnus>: "equine"
+----> Western Romance
+-----> French <équin>
+------> English <equine>
+-----> Spanish <equino>
+-> Indo-Iranian <*Háĉwas>
+--> Indo-Aryan
+---> Mitanni
+----> Hurrian <𒀸𒋗𒉿> (aš-šu-wa)
+---> Sanskrit <अश्व> ‎(áśva): "horse"
+----> Madhya
+-----> Hindi <अश्व> ‎(aśv): "horse"
+----> Maharashtri
+-----> Sinhala <අශ්වය>‎ (aśvaya): "horse"
+----> Telugu <అశ్వము> ‎(aśvamu): "horse"
+----> Sanskrit <अश्वक> (aśvaka): "horseman"
+-----> Prakrit <आभगन> (ābhagana): "Pashtun, Afghan"
+------> Persian <افغان> (afğân): "Pashtun, Afghan"
+-------> Arabic <أَفْغَانِيّ> (ʾafḡāniyy): "Afghan"
+-------> English <Afghan>
+--------> English <afghan>: "blanket or throw, usually crocheted or knitted"
+-------> Persian <افغانستان> (afğânestân): "Land of the Pashtuns, Afghanistan"
+--------> English <Afghanistan>
+--> Iranian
+---> East Iranian
+----> Scythian
+-----> Ossetian
+------> Iron <ефс> (efs): "mare"
+----> Avestan <𐬀𐬯𐬞𐬀‏> (aspa): "horse"
+----> Pashto <آس> (ās): "horse"
+---> West Iranian
+----> Old Persian <𐎠𐎿> (asa): "horse"
+----> Median <*aspa->: "horse"
+-----> Old Persian <𐎠𐎿𐎱> (aspa): "horse"
+------> Persian <اسب> ‎(asb): "horse"
+----> Kurdish <hesp>: "horse"
+-> Tocharian <*yä́kwë>: "horse"
+--> Tocharian A <yuk>: "horse"
+--> Tocharian B <yakwe>: "horse"
+?> Finnic <*hepoi>: "horse"
+--> Finnic <*hepoinen>: "horse"
+---> Finnish <hevonen>: "horse" (also the chess piece)
+
+?
+?> Turkic
+--> Turkish <kaval>: "adjunct of <at>, horse"
+?> Saka <kabä>: horse?
+-?> Slavic <*kobyla>: "mare (female horse)"
+---> Russian <кобы́ла> (kobýla): "mare"
+---> Polish <kobyła>: "mare"
+-?> Slavic <*kõnjь>: "horse"
+---> East Slavic
+----> Russian <конь> (konʹ): "horse" (also the chess piece)
+---> South Slavic
+----> Serbo-Croatian <ко̏њ> (kȍnj): "horse" (also the chess piece)
+---> West Slavic
+----> Polish <koń>: "horse" (also the chess piece")
+?> Ancient Greek <καβάλλης> (kabállēs): "nag, pony"
+?> Celtic <*capallos>
+--> Old Irish <capall>: "horse"
+---> Irish <capall>: "horse"
+---> Manx <cabbyl>: "horse"
+--> Brythonic <*kappilos>: "horse"
+---> Welsh <ceffyl>: "horse"
+----> English <Cavall>, <Cabal>: King Arthur's favorite hunting dog
+---> Breton <kefel>: "horse"
+--> Gaulish <capallos>: "horse"
+--?> Latin <caballus>: "pack horse, nag" (starts to replace Classical <equus> in Late Latin)
+----> Old French <cheval>: "horse"
+-----> French <cheval>: "horse"
+-----> Norman <qùeva>: "horse"
+------> Jersey <chéva>: "horse"
+------> Guernsey <ch'fa>: "horse"
+----> Spanish <caballo>: "horse" (also the chess piece)
+-----> Classical Nahuatl <cahuāllo>: "horse"
+-----> Tagalog <kabayo>: "horse"
+----> Late Latin <caballārius>: "horseman, rider"
+-----> Old Provençal <cavalier>: "horseman, rider"
+------> French <chevalier>: "knight" (also the chess piece)
+-------> French <chevalerie>: "knighthood, nobility, chivalry"
+--------> English <chivalry>
+------> Italian <cavaliere>: "rider, cavalry, knight, gentleman"
+-------> English <cavalier>
+-------> Italian <cavalleria>: "cavalry, chivalry"
+--------> French <cavalerie>: "cavalry"
+---------> English <cavalry>
+-----> Spanish <caballero>: "gentleman, cowboy, horseman, knight"
+
+Celtic <*uɸorēdos> (uforedos): "horse"
+-> Brythonic <*gworuɨð>: "horse"
+--> Welsh <gorwydd>: "horse" (less common than <ceffyl>)
+-> Gaulish <*werēdos>
+--> Latin <verēdus>: "fast or light breed of horse, courier's horse"
+--?> Spanish <veredas>: "horse path, sidewalk"
+---> Byzantine Greek <βέρεδος> (béredos): "post-horse"
+----> Arabic <بَرِيد> (barīd): "mail, courier, express"
+---> Late Latin <paraverēdus>: "extra horse, post horse"
+----> French <palefroi>: "small riding horse, palfrey"
+-----> English <palfrey>: "small riding horse"
+----> Old High German <pfarifrit>: "horse"
+-----> German <Pferd>: "horse" (also the chess piece)
+-----> Yiddish <פֿערד> (ferd): "horse"
+----> Frankish
+-----> Dutch <paard>: "horse" (also the chess piece)
+
+Proto-Indo-European <*kankest->: "horse"
+-> Germanic <*hangistaz>: "horse, stallion"
+--> West Germanic
+---> Old High German <hengist>
+----> German <Hengst>: "stallion"
+---> Old English <Hengist>: "Legendary name"
+---> Old English <hengest>: "horse, gelding, stallion"
+----> Old English <*hengstmann>: "groom" ("horse-man")
+-----> English <henchman>
+---> Old Saxon <*hengist>
+----> Danish <hingst>: "stallion"
+----> Norwegian <hingst>: "stallion"
+----> Swedish <hingst>: "stallion"
+---> Frankish <changisto>
+----> Dutch <hengst>: "stallion"
+-----> Afrikaans <hings>: "stallion"
+--> Old Norse <hestr>: "horse"
+---> Norwegian <hest>: "horse"
+---> Icelandic <hestur>: "horse"
+---> Faroese <hestur>: "stallion"
+----> English <Hestur>: one of the Faroe Islands
+---> Swedish <häst>: "horse"
+---> Danish <hest>: "horse"
+----> Greenlandic <hiisti>: "horse"
+-> Brythonic
+--> Welsh <caseg>: "mare"
+--> Breton <kazeg>: "mare"
+
+Botai???
+?> Sino-Sibetan <*k-m-raŋ>
+--> Old Chinese <*mrāʔ>
+---> Mandarin <馬> (mǎ): "horse" (also the chess piece)
+---> Taiwanese <馬> (bé): "horse"
+---> Proto-Tai <*maːᶜ>: "horse"
+----> Thai <ม้า> (máa): "horse" (also the chess piece)
+----> Lao <ມ້າ> (mā): "horse"
+--> Burma-Tibetan <*mrāŋ>: "horse"
+---> Tibetan <རྨང> ‎(rmang): "horse" (archaic)
+?> Korean <말> (mal): "horse"
+-?> Japanese <馬>/<うま> (uma): "horse" (also a shogi piece)
+?>  Mongolian <морь> ‎(morʹ): "horse" (also the chess piece)
+?> Manchu <ᠮᠣᡵᡳᠨ> (morin): "horse"
+?> Proto-Indo-European <*márkos>: "horse"?, "wild horse"?
+--> Celtic <*markos>: "horse"
+---> Brythonic <*marx>: "horse"
+----> Welsh <march>: "horse"
+----> Cornish <margh>: "horse"
+----> Breton <marc’h>: "horse"
+---> Old Irish <marc>: "horse"
+----> Irish <marc>: "horse" (archaic, replaced by <capall>)
+---> Celtic <*markākos>: "horseman"
+----> Brythonic <*marxọg>: "horseman"
+-----> Welsh <marchog>: "horseman, knight" (also the chess piece)
+----> Old Irish <marcach>: "rider, horseman"
+-----> Irish <marcach>: "horseman, cavalry"
+--> Germanic <*marhaz>: "horse"
+---> Frankish <*marh>: "horse"
+----> Frankish <*marhskalk>: "horse-servant, stable boy"
+-----> Dutch <maarschalk>: "marshal" (meaning changed by influence from French)
+-----> Italian <maniscalco>: "farrier, blacksmith"
+-----> Old French <marescal>: "marshal" (person in charge of the horses for an army. Later, very high ranked officer)
+------> French <maréchal>: "marshal"
+-------> French <maréchal-ferrant>: "farrier"
+------> English <marshal>
+------> Spanish <mariscal>: "marshal"
+---> Lombardic <marah>: "horse"
+----> Lombardic <marah-hemma>: "horse-pen"
+-----> Italian <Maremma>: place name, the coastal plain of southern Tuscany
+---> Old Norse <marr>: "horse" (mostly outcompeted by <hestr> in descendants)
+---> Germanic <*marhijō>: "mare, female horse"
+----> Old English <mearh>
+-----> English <mare>
+----> Dutch <merrie>: "mare"
+----> Old Norse <merr>: "mare"
+-----> Icelandic <meri>: "mare"
+-----> Swedish <märr>: "mare"
+??> Sanskrit <मृग> (mṛga): various wild deer, antelope, etc.
+
+Proto-Indo-European <*k̑ers->: "to run"
+-> Italic
+--> Latin <currō>: "I run"
+---> Eastern Romance
+----> Romanian <curge>: "flow, run, drip"
+---> Western Romance
+----> French <corir>: "to run"
+-----> English <courier>
+-----> French <courant>: "running, current of water or electricity"
+------> English <current>
+----> Italian <correre>: "to run, to hurry"
+----> Spanish <correr>: "to run, to flow, to chase away, to rush"
+---> Latin <cursus>: "race, path, serires of events"
+----> French <cours>: "course"
+-----> English <course>
+
+-> Proto-Indo-European <*kr̥sos>
+--> Celtic <*karros>: "wagon"
+---> Old Irish <carr>: "wagon"
+----> Irish <carr>: "cart, automobile"
+---> Brythonic <*karr>
+----> Welsh <car>: "automobile"
+---> Gaulish <*karros>
+----> Latin <carrus>: "wagon"
+-----> Eastern Romance
+------> Romanian <car>: "cart, chariot"
+-----> Western Romance
+------> Italian <carro>: "wagon, cart, van, truck"
+------> Spanish <carro>: "wagon, automobile"
+------> Old French <char>: "cart"
+-------> Anglo-Norman <carre>: "cart"
+--------> English <car>: "wheeled vehicle, automobile"
+-------> Old French <chariot>: "little cart"
+--------> French <chariot>: "trolley"
+--------> English <chariot>
+---?-> Old French <carier>: "to carry"
+------> English <carry>
+------> Old French <cariage>: "transportion, carrying"
+-------> English <carriage>
+-> Proto-Indo-European <*ḱr̥sos>
+--> Germanic <*hrussą>: "horse"
+---> West Germanic
+----> Old English <hors>: "horse"
+-----> English <horse>
+------> Māori <hōiho>: "horse"
+----> Frankish <rosse>: "horse", replaced by <cheval>
+-----> Dutch <ros>: "horse, steed", replaced by paard
+-----> French <rosse>: "asshole"
+----> Old High German <hros>: "horse"
+-----> German <Ross>: "horse", regional/poetic/archaic, replaced by <Pferd>
+---> Old Norse <hross>: "horse"
+----> Old Norse <hross-hvalr>: "horse-whale, walrus"
+-----> Danish <hvalros>: "walrus"
+------> English <walrus>
+-> Proto-Indo-European <*ḱors->: "to hurry"
+--> Germanic <*hurzaną>: "hurry"
+---> English <hurry>
+---> Norwegian <hurre>: "whirl around"

@@ -1,0 +1,50 @@
+date: 20190628
+theme: Domestic Animals 🐕
+tags: Animals, Domestic Animals
+
+
+startbody
+
+Semitic <*gamal->: "camel"
+
+-> Central Semitic
+
+--> Arabic `جمل` <jámal>: "camel"
+---> Maltese `ġemel`: "camel"
+
+--> Northwest Semitic
+---> Aramaic
+----> Classical Syriac `ܓܡܠܐ` <gamlā’>: "camel"
+---> Canaanite
+----> Hebrew `גמל` <gamal>: "camel"
+----> Phoenician
+-----> Ancient Greek `κάμηλος` <kámēlos>: "camel"
+------> Greek `καμήλα` <kamíla>: "camel"
+------> Latin `camēlus`: "camel"
+-------> Old French
+--------> English `camel`
+--------> French `chameau`: "camel"
+---------> Haitian Creole `chamo`: "camel"
+-------> Spanish `camello`: "camel"
+------> Ancient Greek `καμηλοπάρδαλις` <kamēlopárdalis>: "giraffe" (lit. "spotted camel")
+-------> Latin `camēlopardalis`
+--------> Afrikaans `kameelperd`: "giraffe"
+--------> English `camelopard`
+
+----?> Phoenician <gīml>: "third letter of Phoenician abjad" (disputed, often traced to a word meaning "throwing stick", instead of "camel")
+------> Aramaic <gāmal>: "third letter of Aramaic abjad"
+-------> Hebrew `גימל` <gimel>: "third letter of Hebrew abjad"
+-------> Arabic `جيم` <ǧīm>: "fifth letter of Arabic abjad"
+------> Ancient Greek `γάμμα` <gámma>: "third letter of Greek alphabet"
+-------> English `gamma`
+
+---?> Akkadian `𒃵𒂷` <gammal>: "camel" (probably borrowed from central)
+
+-> South Semitic
+--> Old South Arabian
+---> Sabaean `𐩴𐩣𐩡` <gml>
+--> Ethiopic
+---> Amharic `ግመል` <gəmäl>: "camel"
+
+
+endbody

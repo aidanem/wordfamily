@@ -1,0 +1,157 @@
+date: 20180907
+theme: Community 🏘️
+tags: Divinities
+
+
+startintro
+
+This word for "guest"/"host" is restricted to the Late Northwest Indo-European languages, appearing—as far as I know—only in Balto-Slavic, Germanic, and Italic, plus a single personal name in Lepontic (Celtic). It seems to be cognate to a word for "to eat" which is only attested in Indo-Iranian.
+
+The word for guest and host appear to have been interchangeable in antiquity. Possibly because hospitality was viewed as reciprocal, and/or the original word may have simply meant "stranger that you are eating with", without specifying the guest or host roles.
+
+
+endintro
+
+startbody
+
+
+Proto-Indo-European <*gʰes->: "to eat"
+
+-> Proto-Indo-European <*gʰese-ti> (primary verb)
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀖𑀲𑀢𑀺` <ghásati>: "to eat"
+---> Iranian
+----> Avestan <gah>: "to eat, to gorge"
+
+
+?> Northwest Indo-European <*gʰóst-is>: "guest, stranger" (lit. "eater"?)
+
+--> Balto-Slavic
+---> Slavic <*gȏstь>: "guest"
+----> East Slavic
+-----> Russian `гость` <gostʹ>: "guest, visitor"
+----> South Slavic
+-----> Old Church Slavonic `ⰳⱁⱄⱅⱐ` <gostĭ>: "guest"
+-----> Serbo-Croatian `го̑ст` <gȏst>: "guest"
+----> West Slavic
+-----> Polish `gość`: "guest, guy, fellow"
+----> Slavic <*Gostislavъ>: "Guest-Glory (personal name)"
+-----> West Slavic
+------> Polish `Goscław`
+-----?> Old Swedish `Gøtstaf` #
+-------> Swedish `Gustav`
+
+--> Celtic <*gostiyos>
+---> Lepontic <*kośio>
+----> Lepontic `𐌖𐌅𐌀𐌌𐌏𐌊𐌏𐌆𐌉𐌔` <uvamokozis>: "Has-Splendid-Guests (personal name)"
+
+--> Germanic <*gastiz>: "stranger, guest"
+---> East Germanic
+----> Gothic `𐌲𐌰𐍃𐍄𐍃` <gasts>: "guest"
+---> North Germanic <*gastiz>: "guest"
+----> Old Norse `gestr`: "guest"
+-----> Danish `gæst`: "visitor, guest"
+-----> Icelandic `gestur`: "guest, visitor"
+-----> English `guest`
+----> North Germanic `ᚺᛚᛖᚹᚨᚷᚨᛊᛏᛁᛉ` <Hlewagastiz>: "Famous-Guest (personal name)"
+----> North Germanic `ᚾᚨᚢᛞᛁᚷᚨᛊᛏᛁᛉ` <Naudigastiz>: "Need-Guest (personal name)"
+----> North Germanic `ᛊᚨᛚᛁᚷᚨᛊᛏᛁᛉ` <Saligastiz>: "either Hall-Guest or Joy-Guest (personal name)"
+---> West Germanic
+----> Old English `ġiest`: "stranger, guest"
+----> Frankish
+-----> Dutch `gast`: "guest, apprentice, worker, knave, dude"
+----> Old High German `gast`: "guest"
+-----> German `Gast`: "guest"
+-----> Yiddish `גאַסט‎` <gast>: "guest"
+
+--> Italic <*hostis>: "stranger, guest"
+---> Latin `hostis`: "stranger, foreign enemy"
+----> Eastern Romance
+-----> Romanian `oaste`: "army, host" (archaic)
+----> Western Romance
+-----> Old French `oste`
+------> French `ost`: "army, host" (archaic)
+------> English `host` (an army-like group of people)
+-----> Italian `oste`: "army, host"
+-----> Spanish `hueste`: "army, troops, following"
+
+----> Latin `hostilis`: "hostile, to do with enemies"
+-----> French `hostile`: "hostile"
+------> English `hostile`
+-----> Italian `ostile`: "hostile"
+-----> Spanish `hostil`: "hostile"
+
+
+
+--> Northwest Indo-European <*gʰóstipot-is>: "guest-master, host"
+
+---> Balto-Slavic
+----> Slavic <*gospodь>: "lord, liege"
+-----> East Slavic `господь` <gospodĭ>: "lord, master"
+------> Russian `Госпо́дь` <Gospódʹ>: "Lord, God"
+------> Russian `осподи́н` <gospodín>: "gentleman, Mr., master"
+-----> South Slavic
+------> Old Church Slavonic `господь` <gospodĭ>: "lord, master"
+------> Serbo-Croatian `Го̏спод` <Gȍspod>: "Lord, God, Jesus"
+
+---> Italic <*hostipotis>
+----> Latin `hospes`: "host, guest, visitor, stranger"
+-----> Eastern Romance
+------> Romanian `oaspete`: "guest"
+-----> Western Romance
+------> Old French `oste`: "innkeeper, landlord, host"
+-------> French `hôte`: "host, guest, innkeeper"
+-------> English `host` (someone giving hospitality)
+-------> Italian `oste`: "innkeeper"
+------> Italian `ospite`: "host, guest"
+------> Spanish `huésped`: "guest, lodger"
+-----> Latin `hospitālis`: "hospitable, generous, pertaining to hospitality or hosts"
+------> Latin `hospitāle`: "guesthouse, guestroom, hospital"
+-------> Western Romance
+--------> Old French `ostel`: "shelter, place to stay"
+---------> French `hôtel`: "mansion, townhouse, hotel"
+----------> English `hotel`
+----------> Italian `hotel`: "hotel"
+----------> Spanish `hotel`: "hotel"
+---------> English `hostel`
+--------> Italian `ospedale`: "hospital"
+--------> Old Occitan `ostal`
+---------> Occitan `ostal`: "house"
+---------> Spanish `hostal`: "hostel"
+-------> Old French `hospital`
+--------> French `hôpital`
+--------> English `hospital`
+-------> Italian `ospitale`: "hospitable, friendly, welcome"
+-------> Spanish `hospital`: "hospital"
+
+
+------> Latin `hospitālitās`
+-------> Western Romance
+--------> French `hospitalité`: "hospitality"
+---------> English `hospitality`
+--------> Italian `ospitalità`: "hospitality"
+--------> Spanish `hospitalidad`: "hospitality"
+-----> Latin `hospitium`: "hospitality, friendship, lodgings, poor-house"
+------> Eastern Romance
+-------> Romanian `ospăț`: "feast, banquet"
+------> Western Romance
+-------> French `hospice`: "hospice"
+--------> English `hospice`
+-------> Italian `ospizio`: "nursing home, hospice"
+------> Koine Greek `ὁσπίτιον` <hospítion>
+-------> Byzantine Greek `σπίτιν` <spítin>
+--------> Greek `σπίτι` <spíti>: "house, home"
+------> Welsh `ysbyty`: "hospital" ##
+
+endbody
+
+startnotes
+
+# The Swedish name `Gustav` has traditionally been understood as "Göt-staf": "Staff (support) of the Geats". But that is probably a folk-etymology for a name borrowed from Polish `Goscław`: "Guest-Glory", or the equivalent in another West Slavic language.
+
+## Welsh `ysbyty` has been modified by folk-etymology to end with `tŷ`: "house", parallel to, e.g., `bwyty`: "restaurant", lit. "food-house".
+
+
+endnotes

@@ -1,0 +1,393 @@
+date: 20171229
+theme: Royal and Noble Titles 👑
+tags: Divinities, ElfQuest
+
+
+
+
+startbody
+
+
+Proto-Indo-European <*h₃reǵ->: "to straighten, to right oneself, right, just"
+
+-> Proto-Indo-European <*h₃réǵeti>: "to be straightening, to be setting upright"
+
+--> Celtic <*regeti>: "to stretch, to straighten"
+---> Brythonic
+----> Welsh `re`
+---> Old Irish `(at·)reig`: "to rise, to get up"
+----> Irish `éirigh`: "to rise, to get up, to start to become"
+
+--> Germanic <*rekanã>: "to rake up, to pile up, to heap up"
+--?> English `rake`, etc.
+
+--> Hellenic
+---> Ancient Greek `ὀρέγω` <orégō>: "I reach, I stretch, I reach out for, I yearn"
+----> Ancient Greek `ὄρεξῐς` <órexis>: "desire, longing, appetite"
+-----> English `anorexia`
+
+--> Italic 
+---> Latin `regō`: "I direct, I keep straight, I guide, I rule, I govern"
+----> English `correct`
+----> English `direct`
+----> Latin `ērigō`
+-----> Western Romance
+------> Italian `ergere`
+-------> Italian `erta`
+--------> Italian `all'erta`: "to the heights" (to watch out for danger)
+---------> French `à l'erte`
+----------> English `alert`
+-----> English `erect`
+----> English `rectangle`
+----> English `rectitude`
+----> English `rectum`
+----> English `regimen`
+
+-> Proto-Indo-European <*h₃reǵdʰleh₂>
+
+--> Italic
+---> Latin `regula`
+----> English `regulate`
+----> English `rule`
+
+
+-> Proto-Indo-European <*h₃réǵeh₂yéti>
+
+--> Germanic <*rekanōnã>: "to count, to explain"
+---> North Germanic
+----> Old Norse `reikna`: "to calculate, to compute"
+-----> Icelandic `reikna`: "to calculate, to compute"
+---> West Germanic
+----> Old English `recenian`
+-----> English `reckon`
+-----> Scots `rekkin`: "reckon"
+----> Old High German `rehhanōn`
+-----> German `rechnen`: "to count, to reckon, to calculate, to compute, to expect"
+-----> Yiddish `רעכענען‏` <rekhenen>: "to reckon, to figure, to calculate, to plan"
+
+
+-> Proto-Indo-European <*h₃roǵéyeti>: "to straighten, to make straight"
+
+--> Germanic <*rakjanã>: "to stretch, to straighten"
+--?> English <rake>
+rack, retch
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀭𑀸𑀚𑀬𑀢𑀺` <rājayati>
+
+
+-> Proto-Indo-European <*h₃r̥neǵti>
+
+--> Germanic <*rinkanã>
+---> Germanic `ranakz`: "erect, upright"
+----> English `rank`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀋𑀜𑁆𑀚𑀢𑁂` <ṛñjate>: "directs, stretches"
+
+
+-> Proto-Indo-European <*h₃rḗǵs>: "chief, king, ruler"
+
+--> Balto-Slavic
+---> West Baltic
+----> Old Prussian `rikis`: "lord"
+
+--> Celtic <*rīxs>
+---> Brythonic <*riɣ>: "king"
+----> Welsh `rhi`: "king"
+---> Primitive Irish `ᚏᚔᚌᚐᚄ` <rigas>: "of the king" (only attested in the genitive)
+----> Old Irish `rí`: "king"
+-----> Irish `rí`: "king"
+---> Gaulish `rīx`: "king"
+---> Celtiberian `reikis`: "king"
+
+---> Celtic <*Albiyorīxs>: "White-King (personal name)"
+----> Gaulish `Albiorīx`: "personal name"
+-----> English `Albiorix`: "moon of Saturn"
+---> Celtic <*Toutorīxs>: "Tribe-King, People-King (personal name)"
+----> Brythonic <*Tʉdörix>: personal name
+-----> Welsh `Tudur`: personal name, surname
+------> English `Tudor`
+---> Celtic <*Verkengetorīxs>: "Over-king of Warriors (personal name)"
+----> Gaulish `Vercingetorīx`
+
+---> Germanic <*rīks> ####
+----> Germanic <*rīkijã>: "rulership, authority, realm, kingdom" #####
+-----> East Germanic
+------> Gothic `𐍂𐌴𐌹𐌺𐌹` <reiki>: "dominion"
+-----> North Germanic
+------> Old Norse `ríki`: "realm"
+-------> Danish `rige`: "kingdom, realm"
+-------> Icelandic `ríki`: "kingdom, realm, state"
+-----> West Germanic
+------> Old English `rīce`: "power, authority, dominion, kingdom"
+-------> English `-ric`
+--------> English `bishopric`
+-------> Scots `rik`: "kingdom, realm, Kingdom of Heaven"
+------> Old High German `rīhhi`
+-------> German `Reich`: "empire, state, realm"
+--------> English `reich`: "a German empire or nation"
+--------> Russian `рейх` <rejx>: "Reich, a German empire or nation"
+-------> Old High German `Ostarīhhi`: "Austria" (lit. "Eastern realm/kingdom")
+--------> German `Österreich`: "Austria"
+--------> Medieval Latin `Austria`
+---------> English `Austria`
+------> Estonian `riik`: "state, country, polity, government"
+
+-----> Germanic <*kuningarīkijã>: "kingdom"
+------> North Germanic
+-------> Old Norse `konungríki`: "kingdom"
+--------> Danish `kongerige`: "kingdom"
+--------> Icelandic `konungsríki`: "kingdom"
+------> West Germanic
+-------> Old English `cyningrīce`: "kingdom"
+--------> Scots `kinrik`
+-------> Old High German `kuningrīhhi`: "kingdom"
+--------> German `Königreich`: "kingdom"
+
+----?> Germanic <*aljarīkijã>: "other kingdom"
+------> West Germanic
+-------> Old English <*elrīċe>
+------?> English `eldritch` (unless it's "elf-kingdom" instead)
+
+----> Germanic <*Albirīks>: "elf-king" (personal name)
+-----> West Germanic
+------> Old English `Ælfric`
+-------> English `Elric`
+------> Frankish
+-------> Old French `Alberon`
+--------> English `Aubrey`
+--------> English `Oberon`
+------> Old High German
+-------> German `Alberich`
+
+----> Germanic <*Aiwarīks>: "Eternal-King (personal name)"
+-----> English `Eric`
+
+----> Germanic <*Friþurīks>: "Peace-King (personal name)"
+-----> English `Frederick`
+
+----> Germanic <*Haimarīks>: "home-king" (personal name)
+------> North Germanic
+-------> Old Norse `Heimríkr`
+--------> Danish `Henrik`
+--------> Icelandic `Heinrekur`
+------> West Germanic
+-------> Frankish `Haimrik`
+--------> Old French `Henri`
+---------> French `Henri`
+---------> English `Henry`
+---------> English `Harry` (from the French pronunciation <ɑ̃.ʁi>)
+----------> Welsh `ap Harry`: "son of Harry/Henry" (surname)
+-----------> English `Perry`
+-------> Old High German `Heimerih`
+--------> German `Heinrich`
+--------> Italian `Amerigo`
+---------> New Latin `America`
+----------> Spanish `América`
+-----------> Spanish `americano`
+------------> Navajo `bilagáana`: "white man, Anglo, American"
+-------------> Hopi `Pölakaana`: "American"
+------> Latin `Henricus`
+-------> Western Romance
+--------> Italian `Enrico`
+--------> Spanish `Enrique`
+
+----> Germanic <*Hrōþirīks>: "Fame-King (personal name)"
+-----> English `Roderick`
+-----> Spanish `Rodrigo`
+
+----> Germanic <*Rīkaharduz>: "King-Hardy (personal name)"
+------> English `Richard`
+-------> English `dick`
+------> Spanish `Riccardo`
+
+----> Germanic <*Þeudarīks>: "Tribe-King (personal name)" ("tribe-king", see also <Toutorīxs>, but unrelated to Greek <Theodore>)
+-----> English `Derek`
+-----> French `Thierry`
+
+
+
+--> Germanic <*rekô> ####
+---> Germanic <*anudrekô>: "male duck, drake" (lit. "duck-king")
+----> North Germanic
+-----> Old Norse
+------> Swedish `andrake`: "male duck, drake"
+----> West Germanic
+-----> Old English <*(an)draca>: "male duck, drake"
+------> English `drake` ####
+------> Scots `draik`: "male duck, drake"
+-------> Scottish Gaelic `ràc`: "male duck, drake"
+-----> Old High German `anutrehho`
+------> German `Enterich`: "male duck, drake"
+
+--> Italic <*rēks>
+---> Faliscan `𐌓𐌄𐌗` <rex>: "king"
+---> Latin `rēx`: "king"
+----> Western Romance
+-----> French `roi`
+-----> Italian `re`
+-----> Spanish `rey`
+------> Spanish `Monterrey`: "King's Mountain"
+-------> English `Monterey`
+----> Translingual `Tyrannosaurus rex`
+----> Latin `rēgālis`: "pertaining to a king, royal, regal"
+-----> English `royal`
+-----> English `regal`
+-----> Haitian Creole `lwa`: "god, spirit, loa"
+------> English `loa`
+
+----> Latin `rēgnum`: "kingship, royalty, royal power, kingdom, reign"
+-----> Western Romance
+------> French `règne`
+-------> English `reign`
+------> Italian `regno`
+------> Spanish `reino`
+
+
+--> Proto-Indo-European <*h₃rḗǵō>: "king"
+
+---> Indo-Iranian <*Hrāĵā>
+----> Sanskrit `𑀭𑀸𑀚𑀦𑁆` <rājan>: "king"
+-----> Magadhi
+------> Bengali `রাজা` <raja>
+-----> Maharashtri
+------> Sinhala `රජ` <raja>
+-----> Sauraseni
+------> Madhya
+-------> Hindi `राजा` <rājā>
+------> Pahari
+-------> Nepali `राजा` <rājā>
+-------> Punjabi `ਰਾਜਾ` <rājā>
+------> Pali <rājā>: "king"
+-------> Pali <śrī rājā>: "king's glory"
+--------> Thai `ศรีราชา` <sǐi-raa-chaa>: "king's glory, Si Racha (town)"
+---------> English `sriracha (sauce)`
+------> West Indo-Aryan
+-------> Romani `rai`: "gentleman, lord"
+-----> Dravidian <*aracan>
+-------> Telugu `అరుసు` <arusu>
+-------> Tamil `அரசன்` <aracaṉ>: "king, sovereign, prince, Jupiter"
+-------> Kannada `ಅರಸು` <arasu>: "king"
+
+
+--> Proto-Indo-European <*h₃rḗǵnih₂>: "queen"
+
+---> Celtic <*rīganī>: "queen"
+----> Brythonic <*riɣėn>: "queen"
+-----> Welsh `rhiain`: "lady, maiden"
+-----> Brythonic <*riɣėntona>: "great queen"
+------> Welsh `Rhiannon`
+----> Old Irish `rígan`: "queen"
+-----> Irish `ríon`: "queen, lady"
+-----> Old Irish `Morrígan`: "phantom queen"
+------> Irish `Morríghan`: "The Morrigan"
+------> English `The Morrigan`
+
+---> Indo-Iranian <*Hrā́ĵniH>
+----> Indo-Aryan <*Hrā́ȷ́niH>
+-----> Sanskrit `𑀭𑀸𑀚𑁆𑀜𑀻` <rā́jñī>: "queen"
+------> Magadhi
+-------> Bengali `রাণী` <raṇi>: "queen"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `रानी` <rānī>: "queen, princess"
+---------> English `rani`: "queen or princess in India"
+---------?> English `Rahnee the She-Wolf`
+-------> Pali <rājinī>
+--------> Thai `ราชินี` <raa-chí-nii>: "queen"
+------> Telugu `రాణి` <rāṇi>: "queen"
+
+---> Italic <*rēginā>
+----> Latin `rēgīna`: "queen"
+-----> Western Romance
+------> French `reine`: "queen"
+------> Italian `regina`: "queen"
+------> Spanish `reina`: "queen"
+-------> Tagalog `reyna`: "queen"
+
+
+--> Proto-Indo-European <*h₃rēǵyos>: "kingly, royal"
+
+---> Celtic <*rīgyos>
+----> Germanic <*rīkijaz>: "kingly, royal, powerful, rich" #####
+-----> East Germanic
+------> Gothic `𐍂𐌴𐌹𐌺𐌴𐌹𐍃` <reikeis>
+-------> Spanish `rico`
+--------> Spanish `Costa Rica`: "Rich Coast"
+---------> English `Costa Rica`
+--------> Spanish `Puerto Rico`: "Rich Port"
+---------> English `Puerto Rico`
+-----> North Germanic
+------> Old Norse `ríkr`: "rich"
+-------> Danish `rig`
+-------> Icelandic `ríkur`
+------> Finnic
+-------> Finnish`rikas`: "rich, opulent"
+-----> West Germanic
+------> Old English `rīċe`: "powerful, mighty; rich"
+-------> English `rich`
+-------> Scots `rik`: "mighty, great, rich, valuable, splendid"
+------> Frankish <*rīki>: "rich"
+-------> Dutch `rijk`: "rich, abundant"
+-------> French `riche`: "rich" #####
+-------> Frankish <*lantrīki>: "Surname, land-rich" (originally used in a handful of villages near Poitiers.)
+--------> French `Landry`
+------> Old High German `rīhhi`: "rich"
+-------> German`reich`: "rich"
+-------> Yiddish `רײַך‏` <raykh>: "rich"
+-------> Lombardic
+--------> Italian `ricco`: "rich" #####
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀭𑀸𑀚𑁆𑀬`<rājyá>: "royalty, kingship, sovereignty, empire"
+------> Sauraseni `𑀭𑀚𑁆𑀚` <rajja>
+-------> Madhya
+--------> Hindi `राज` <rāj>: "reign, rule, kingdom, empire, state"
+---------> English `British Raj`
+------> Telugu `రాజ్యము` <rājyamu>: "rule, government, sovereignty, kingdom, state"
+
+
+--> Proto-Indo-European <*h₃rḗǵr̥>: "kingship, rule"
+
+---> Indo-Iranian
+----> Iranian
+-----> Avestan <rāzar>: "rule, direction"
+-----> Western Iranian
+-----?> Kurdish `rizgar`: "free, independent" (also a personal name)
+
+
+--> Proto-Indo-European <h₃rḗǵtrom>
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀭𑀸𑀱𑁆𑀝𑁆𑀭` <rāṣṭrá>: "kingdom, realm, people, nation"
+
+------> Elu
+-------> Dhivehi `ރަށް` <raṣ̊>: "country, island, town"
+------> Pali `𑀭𑀝𑁆𑀞` <raṭṭha>: "country, kingdom"
+-------> Thai `รัฐ` <rát>: "state"
+
+
+endbody
+
+
+startnotes
+
+#### Germanic borrowed <*riks> from Celtic, which replaced native Germanic <*rekô>, now only seen in descendants of <*anudrekô>: "duck-king". (English `drake`: "male duck", unrelated to `dragon`/`draco`/`drake`, from Ancient Greek `δράκων` <drákōn>: "monstrous serpent")
+
+<*riks> was mostly replaced in turn by <*kuningaz>: "king", which we'll cover in a few weeks.
+
+
+
+##### <*rīkijã> and <*rīkijaz> are a doublet pair in Germanic, both meaning "kingly". One borrowed with morphology applied in Celtic, one with the equivalent native morphology applied after borrowing from Celtic.
+
+Germanic <*rīkijaz> is the root of the French `riche`, Italian `ricco`, and Spanish `rico`, via the three Germanic peoples which took over each of those Roman provinces: the Franks, the Langobards, and the Visigoths, respectively. Makes sense, but it doesn't usually work like that. (The Italian could also be from Ostrogothic or a conflation of Ostrogothic and Lombardic).
+
+endnotes
+
+
+

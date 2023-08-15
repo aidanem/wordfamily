@@ -1,0 +1,453 @@
+date: 20220826
+tags: Animals, Divinities, Elements
+
+
+startbody
+
+
+Proto-Indo-European <*welkʷ->: "dangerous?, wild?"
+
+
+-> Proto-Indo-European <*wl̥kʷós> (adjective)
+
+--> Anatolian
+--?> Hittite `𒉿𒀠𒆪𒉿𒀸` <walkuwa-> (uncertain meaning; from context, something bad)
+
+-?> Celtic <*ulk(ʷ)os>: "evil, bad" (or from <*h₁elk->: "wound")
+---> Old Irish `olc`: "evil"
+----> Irish `olc`: "evil, bad, grudge, misfortune, unfortunate"
+--?> Lepontic `𐌖𐌋𐌊𐌏𐌔` <ulkos>: "Evil? Wolf? (personal name)" ##
+
+
+--> Indo-Iranian <*wṛkás>
+---> Indo-Aryan <*wṛkás>
+----> Indo-Aryan <*a-wṛkás>: "not dangerous, safe"
+-----> Sanskrit `𑀅𑀯𑀾𑀓` <avṛká>: "safe, inoffensive, true, safety"
+----> Indo-Aryan <*wṛká-taHtṣ> (noun of state of being)
+-----> Sanskrit `𑀯𑀾𑀓𑀢𑀸𑀢𑁆` <vṛká-tāt>: "savagery, danger, wolfishness"
+
+
+--> Proto-Indo-European <*wĺ̥kʷos>: "wolf" (nominalization, "dangerous/wild thing")
+
+---> Pre-Albanian <*ulka->
+----> Albanian `ujk`: "wolf"
+----> Pre-Albanian
+-----> Albanian `ulkonjë`: "she-wolf"
+
+
+---> Anatolian
+----> Hittite <*walkui>
+----?> Hittite `𒉿𒀠𒆪𒉿𒀸` <walkuwa-> (uncertain meaning; from context, something bad)
+-----> Hittite <ura-walkui>: "Great Lion (personal name)" (Luvo-Hittite name)
+----> Luwian <*walwa>: "lion"
+-----> Luwian <walwa.LÚ.i>: "Lion Man (personal name)"
+-----> Luwian <arma-walwi->: "Lion of the Moon (personal name)"
+-----> Luwian <mūwa-walwi->: "Lion of Might (personal name)"
+-----> Luwian <piḫa-walwi->: "Lion of Splendor (personal name)"
+-----> Luwian <ura-walwi->: "Great Lion (personal name)"
+------> Hittite <ura-walkui>: "Great Lion (personal name)" (Luvo-Hittite name)
+----> Lydian `𐤥𐤠𐤩𐤥𐤤` <walwe>: "lion"
+
+
+---> Balto-Slavic <*wilkás>: "wolf"
+----> East Baltic
+-----> Lithuanian `vilkas`: "wolf"
+----> West Baltic
+-----> Old Prussian `wilkis`: "wolf"
+----> Slavic <*vьlkъ>: "wolf"
+-----> East Slavic `вълкъ` <vŭlkŭ>: "wolf"
+------> Russian `волк` <volk>: "wolf"
+------> Ukrainian `вовк` <wowk>: "wolf"
+-----> South Slavic
+------> Bulgarian `вълк` <vǎlk>: "wolf"
+------> Old Church Slavonic `влькъ` <vlĭkŭ>: "wolf"
+------> Serbo-Croatian `вук` <vuk>: "wolf"
+-----> West Slavic
+------> Czech `vlk`: "wolf"
+------> Polish `wilk`: "wolf, meatgrinder, lupus"
+
+----> Balto-Slavic <*wilko-lákas?>: "werewolf" # 
+-----> East Baltic
+------> Lithuanian `vilkolakis`: "werewolf"
+-----> Slavic <*vьlkolakъ>: "werewolf"
+------> East Slavic
+-------> Russian `волкула́к` <volkulák>: "werewolf"
+-------> Ukrainian `вовкула́ка` <wowkuláka>: "werewolf"
+------> South Slavic
+-------> Bulgarian `върколак` <vǎrkolak>
+--------> Byzantine Greek `βουρκόλακας` <bourkólakas>: "werewolf"
+---------> Greek `βρικόλακας` <vrikólakas>: "werewolf"
+--------> Romanian `vârcolac`: "werewolf"
+-------> Serbo-Croatian `вуко̀длак` <vukòdlak>: "werewolf"
+------> West Slavic
+-------> Czech `vlkodlak`: "werewolf"
+-------> Polish `wilkołak`: "werewolf"
+
+
+--?> Celtic <*ulkʷos>
+---?> Lepontic `𐌖𐌋𐌊𐌏𐌔` <ulkos>: "Evil? Wolf? (personal name)" ##
+----> Celtic <*ulkʷagnos> (diminutive)
+-----> Old Irish `Olcán`: "Little-Wolf? (personal name)" ##
+
+---> Pre-Germanic <*wulpos> (semi-irregular *kʷ to *p)
+----> Germanic <*wulfaz>: "wolf"
+-----> East Germanic
+------> Gothic `𐍅𐌿𐌻𐍆𐍃` <wulfs>: "wolf"
+-------> Gothic <*wulfila>: "Wolf (personal name)"
+-----> North Germanic <*wulfaz>
+------> Old Norse `úlfr`: "wolf
+-------> Danish `ulv`: "wolf"
+-------> Icelandic `úlfur`: "wolf"
+-----> West Germanic <*wulf>
+------> Old English `wulf`: "wolf"
+-------> English `wolf`
+--------> Māori `wuruwhi`: "wolf"
+--------> Japanese `ウルフ` <urufu>: "wolf (informal)"
+------> Frankish <*wulf>
+-------> Dutch `wolf`: "wolf"
+--------> Afrikaans `wolf`: "wolf"
+---------> Afrikaans `aardwolf`: "aardwolf" (lit. "earth-wolf")
+----------> Dutch `aardwolf`: "aardwolf"
+----------> English `aardwolf`
+------> Old High German `wolf`: "wolf"
+-------> German `Wolf`: "wolf"
+-------> Yiddish `וואָלף` <volf>: "wolf"
+-------> Old High German `Wolfgang`: "Wolf-Journey (personal name)"
+--------> German `Wolfgang`
+---------> English `Wolfgang`
+-------> Old High German `Wolfhram`: "Wolf-Raven (personal name)"
+--------> German `Wolfram`
+---------> English `Wolfram`
+-------> Old High German `wolfroum`: "wolframite" ######
+--------> German `Wolfram`: "tungsten, wolframite"
+---------> Translingual `W`
+---------> English `wolfram`
+---------> German `Wolframit`: "wolframite"
+----------> English `wolframite`
+------> Old Saxon `wulf`: "wolf"
+-------> Low German `Wulf`: "wolf"
+
+------> West Germanic <*werawulf>: "man-wolf, werewolf"
+-------> Old English `werwulf`: "werewolf"
+--------> English `werewolf`
+-------> Frankish <*werawulf>: "werewolf"
+--------> Dutch `weerwolf`: "werewolf"
+--------> Old French `garoul`: "werewolf"
+---------> Old French `leu-garoul`: "werewolf" ####
+----------> French `loup-garou`: "werewolf"
+-------> Old High German `werwolf`: "werewolf"
+--------> German `Werwolf`: "werewolf"
+-------> Old Saxon `warwulf`: "werewolf"
+--------> Low German `Warwulf`: "werewolf"
+--------> Danish `varulv`: "werewolf"
+--------> Icelandic `varúlvur`: "werewolf"
+
+-----> Germanic <*Audawulfaz>: "Rich-Wolf (personal name)
+------> North Germanic
+-------> Old Norse `Auðulfr`
+--------> Faroese `Eyðolvur`
+------> West Germanic
+-------> Old English `Ēadwulf`
+-------> Old High German `Odolf`
+--------> Swedish `Odolf`
+
+-----> Germanic <*Aþalawulfaz>: "Noble-Wolf (personal name)
+------> East Germanic
+-------> Gothic <*Aþalawulfs>
+--------> Latin `Ataulphus`
+---------> English `Athaulf`
+------> West Germanic
+-------> Old English `Æþelwulf`
+-------> Old High German `Adalwolf`
+--------> German `Adolf`
+---------> English `Adolf`
+
+-----> Germanic <*Gunþiwulfaz>: "Battle-Wolf (personal name)"
+------> East Germanic 
+-------> Gothic <*Gunþiwulfs>
+--------> Galician `Gundulfis`
+------> West Germanic
+-------> Old High German
+--------> Lombardic <*Gundulf>
+---------> Italian `Gandolfo`
+
+-----> Germanic <*Haþuwulfaz>: "Battle-Wolf (personal name)"
+------> North Germanic `ᚺᛡᚦᚢᚹᚢᛚᚨᚠᛉ` <Haþuwulafʀ>
+-------> Old Norse <*Hǫðulfr>
+--------> Middle English `Hathulf`'
+
+------> Germanic <*Hrōþiwulfaz>: "Famous-Wolf (personal name)"
+-------> North Germanic
+--------> Old Norse `Hrólfr`
+---------> Danish `Rolf`
+---------> Icelandic `Hrólfur`
+---------> English `Rolf`
+---------> Old French `Rollon`
+----------> English `Rollo`
+-------> West Germanic
+--------> Old English `Hrōþ(w)ulf`
+--------> Frankish <*Ruothwulf>
+---------> Dutch `Roelof`
+--------> Old High German <*Hruodwolf>
+---------> German `Rudolf`
+----------> English `Rudolf`
+----------> German `Rudi`
+-----------> English `Rudy`
+
+------> Germanic <*Rēdawulfaz>: "Counsel-Wolf (personal name)" (compare Classical Greek `Λυκομήδης` <Lukomḗdēs>: "Wolf-Counsel (personal name)")
+-------> North Germanic
+--------> Old Norse `Ráðúlfr`
+---------> Danish `Radulf`
+-------> West Germanic
+--------> Old English `Rǣdwulf`
+---------> English `Ralph`
+---------?> English `ralph`
+--------> Frankish <*Rátwulf>
+---------> Dutch `Radolf`
+---------> Old French `Raol`
+----------> French `Raoul`
+-----------> English `Raoul`
+----------> Spanish `Raúl`
+
+
+
+---> Indo-Iranian <*wŕ̥kas>: "wolf"
+----> Sanskrit `𑀯𑀾𑀓` <vṛka>: "wolf, Wolf (personal name)"
+-----> Maharashtri `𑀯𑀬` <vaya>: "wolf"
+-----> Sauraseni
+------> Western Sauraseni
+-------> Gujarati `વરુ` <varu>: "wolf"
+-------> Romani `ruv`: "wolf"
+-----> Hindi `वृक` <vŕk>: "wolf"
+-----> Telugu `వృకము` <vr̥kamu>: "wolf, dog"
+
+----> Iranian <*wŕ̥kah>: "wolf"
+-----> Avestan `𐬬𐬆𐬵𐬭𐬐𐬀` <vəhrka>: "wolf"
+-----> Northern Iranian
+------> Saka
+-------> Khotani `𐨦𐨁𐨪𐨿𐨒𐨿𐨒` <birgga->: "wolf"
+------> Sogdian `` <wyrk>: "wolf"
+-----> Pashto `لېوه` <lewë>: "wolf" ####
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `gur`: "wolf"
+-------> Medean <*wurg>
+-------> Parthian `𐫃𐫇𐫡𐫃` <gwrg>: "wolf"
+------> Old Persian `𐎺𐎼𐎣` <v-r-k> [varka]: "wolf"
+-------> Persian `گرگ` <gurg>: "wolf"
+
+
+-----> Iranian <*Wŕ̥kānah>: "Wolf-Land (place name), Hyrcania"
+------> Avestan `𐬬𐬆𐬵𐬭𐬐𐬁𐬥𐬀` <Vəhrkāna>: "Hyrcania"
+------> Northern Iranian
+-------> Ossetian `Уӕрхӕг` <Wærxæg>
+------> Western Iranian
+-------> Northwestern Iranian
+--------> Medean
+---------> Akkadian <Urqananu>
+---------> Classical Greek `Ὑρκᾰνῐ́ᾱ` <Hurkaníā>
+----------> Latin `Hyrcania`
+-----------> English `Hyrcania`
+--------> Parthian `𐫇𐫡𐫐𐫗` <wrkn> [Wurgān]
+-------> Old Persian `𐎺𐎼𐎣𐎠𐎴` <v-r-k-a-n> [Vạrkāna]
+--------> Middle Persian `𐭢𐭥𐭫𐭢𐭠𐭭` <gʿlgʾn> [Gurgān]
+---------> Persian `گرگان` <Gorgân>
+----------> Arabic `جرجان` <Jurjān>
+----------> English `Gorgan`
+---------> Classical Greek `Γουργάν` <Gourgán>
+--------> Elamite `𒈪𒅕𒋡𒀭` <mi-ir-ka⁴-an>
+
+----> Mordvinic
+-----> Erzya `верьгиз` <verʹgiz>: "wolf"
+
+
+---> Tocharian <*wä́lkʷë>
+----> Kushean <walkwe>: "wolf"
+
+
+---> Unknown satem language <*wl̥x?->
+---?> Old Udi `𐕒𐕡𐔾` <ul>: "wolf"
+
+
+
+---> Proto-Indo-European <*lúkʷos>: "wolf" ###
+
+
+---> Hellenic <*lúkos>
+----> Classical Greek `λῠ́κος` <lúkos>
+-----> Greek `λύκος` <lýkos>: "wolf, lupus"
+-----> Samoan `luko`: "wolf"
+
+-----> Classical Greek `Λύκος` <Lúkos>: "Wolf (personal name)"
+-----?> Classical Greek `Λυκία`: "Lycia" ####
+-------> Classical Greek `λύκειος`: "Lycean"
+-------?> Classical Greek `Ἀπόλλων Λύκειος`: "Apollo Lyceus, Lycean Apollo" #####
+---------> Classical Greek `Λύκειον` <Lúkeion>: "Temple of Apollo Lyceus at Athens" #####
+----------> Greek `λύκειο` <lýkeio>: "high school (secondary school), lyceum, educational organization"
+----------> Latin `Lyceum`
+-----------> English `lyceum`
+-----------> French `lycée`: "high school (secondary school)"
+------------> Turkish `lise`: "high school (secondary school)"
+-----------> Italian `liceo`: "high school (secondary school)"
+
+------> Classical Greek `λῠκάνθρωπος` <lukánthrōpos>: "werewolf, wof-man, lycanthrope"
+-------> Greek `λυκάνθρωπος` <lykánthropos>
+-------> English `lycanthrope`
+
+------> Classical Greek `Λυκομήδης` <Lukomḗdēs>: "Wolf-Counsel (personal name)" (compare Germanic <*Rēdawulfaz>: "Counsel-Wolf (personal name)")
+-------> Greek `Λυκομήδης` <Lykomídis>
+-------> Latin `Lycomedes`
+--------> English `Lycomedes`
+
+------> Classical Greek `Λυκόπολις` <Lukópolis>: "Wolf-City (place name)" (modern Asyut/Siōwt, Egypt)
+
+------> Classical Greek `Λῠκοῦργος` <Lukoûrgos>: "Wolf-Worker (personal name)"
+-------> Latin `Lycurgus`
+--------> English `Lycurgus`
+
+------> Classical Greek `Αὐτόλῠκος` <Autólukos>: "Self-Wolf (personal name), Autolycus son of Hermes"
+-------> Greek `Αυτόλυκος` <Aftólykos>
+-------> Latin `Autolycus`
+--------> English `Autolycus`
+
+------> Classical Greek `ἐπίλυκοι` <epílukoi>
+-------> Classical Greek `Ἐπίλυκοι` <Epílukoi>: "Epilukoi (personal name)"
+-------> Classical Greek `παρεπίλυκοι` <parepílukoi>: "auxiliary epilukoi?"
+-------> Classical Greek `Ἐπιλυκάρχης` <Epílukarches>: "Chief of the Epilukoi"
+
+
+--?> Paeonian <*lúkʷ->
+----> Paeonian <*lúkʷiHwós>: "of the Wolf? (personal name)" ###
+-----> Classical Greek `Λύκκειος` <Lukkeios>: "Lycceius, King of Paeonia"
+------> English `Lycceius`
+-----> Classical Greek `Λύκπειος` <Lukpeios>: "Lycceius, King of Paeonia"
+-----> Classical Greek `Λύππειος` <Luppeios>: "Lycceius, King of Paeonia"
+
+
+---> Italic <*lukʷos>
+----> Oscan <*lupus>
+-----> Latin `lupus`: "wolf"
+------> Italian `lupo`: "wolf"
+------> Sardinian `lupu`: "wolf"
+------> Eastern Romance
+-------> Romanian `lup`: "wolf"
+------> Western Romance
+-------> Old French `leu`
+--------> French `loup`: "wolf, bass (fish), mask, flaw"
+--------> Old French `leu-garoul`: "werewolf"
+---------> French `loup-garou`: "werewolf"
+----------> Haitian Creole `lougarou`: "werewolf, devil, sorceror"
+-----------> English `loogaroo`
+--------> Anglo-Norman `louve`: "wolf"
+---------> Anglo-Norman `Trousse-louve`: "Truss-Wolf (occupational surname for a wolf-catcher)"
+----------> English `Truslove`
+----------> English `Truslow`
+---------> Middle English `Breedel-louve`: "Bridle-Wolf (occupational surname for a wolf-catcher)"
+----------> English `Breedlove`
+-------> Spanish `lobo`
+------> Latin `Lupercus`: "Wolf-Ward, divinity of shepherds"
+-------> English `Lupercus`
+-------> Latin `Lupercalia`
+--------> English `Lupercalia`
+
+------> New Latin `lupus erythematosus`: "wolf red-rash" #######
+-------> English `lupus`
+
+
+
+---> Proto-Indo-European <*wl̥kʷíh₂s>: "she-wolf"
+
+----> Balto-Slavic <*wilkī́ˀ>
+-----> East Baltic
+------> Lithuanian `vìlkė`: "she-wolf"
+-----> Balto-Slavic <*wilkī́ˀkāˀ>
+------> Slavic <*vьlčìca>
+-------> East Slavic
+--------> Russian `волчи́ца` <volčíca>: "she-wolf"
+--------> Ukrainian `вовчи́ця` <vovčýcja>: "she-wolf"
+-------> South Slavic
+--------> Bulgarian `вълчи́ца` <vǎlčíca>: "she-wolf"
+--------> Serbo-Croatian `ву̀чица` <vùčica>: "she-wolf"
+-------> West Slavic
+--------> Czech `vlčice`: "she-wolf"
+--------> Polish `wilczyca`: "she-wolf"
+
+
+----> Germanic <*wulgī>
+-----> North Germanic
+------> Old Norse `ylgr`: "she-wolf"
+
+
+----> Indo-Iranian <*wr̥kíHs>
+-----> Indo-Aryan
+------> Sanskrit `𑀯𑀾𑀓𑀻` <vṛkī́>: "she-wolf"
+
+
+
+endbody
+
+
+
+startnotes
+
+# Balto-Slavic <*wilko-(d)lákas?>: "werewolf" is attested throughout Slavic languages, and also in Lithuanian `vilkolakis`. The second element in the word is confusing; it is sometimes linked to <*dòlka>, which in some East South Slavic dialects can mean "fur, pelt"—which would make it "wolf-pelt/skin", i.e. someone who puts on a wolf skin to transform into a wolf. But <*dòlka> only appears in South Slavic languages, and only means "fur, pelt" in some minority dialects; it means "(strand of) hair" in most South Slavic languages.
+
+I don't see anyway to get the distribution of <dl> vs. <l> with regular changes. The South Slavic languages with <dl> are among the Slavic languages most likely to reduce <*dl> to <l>, so they would require <*dol> in order to keep it <dl>. But if it was <*dol>, East Slavic would keep the vowel giving <dol> (or maybe <dal>), and instead in East Slavic has <l>. I was going to say I suspected South Slavic of adding the <d>, perhaps by folk etymology with the South Slavic-specific <*dòlka>, but then I realized West Slavic Czech has it in `vlkodlak`. 🤷
+
+On the other hand if the <*d> really is there in Proto-Slavic, Russian `вурдала́к` <vurdalák>: "vampire" may contain a related morpheme. But I don't know the etymology of <vurdalák>, or any cognates in other Slavic languages.
+
+
+
+
+## While the word <*ulkʷos> for "wolf" is not directly attested in any Celtic language, it seems typologically more likely for early Celtic names for the Leponitc personal name `𐌖𐌋𐌊𐌏𐌔` <ulkos> and the Old Irish `Olcán` to mean "wolf" and "little wolf" respectively, rather than meaning "bad, evil, wound".
+
+The Irish `olc`: "evil, bad, grudge, misfortune, unfortunate" may be from the adjective <*wl̥kʷós>: "dangerous, wild" that <*wĺ̥kʷos>: "wolf" appears to derive from. The adjective is otherwise only attested in Hittite and Sanskrit. Irish `olc`could also be from <*h₁elk->, the source of "ill" and "ulcer".
+
+In Celtic languages, the word for "wolf" has been replaced by various other words <*waylos>: "howler" (also shared with Armenian) and <*bledyos>: "monster, predator". Irish additionally uses `madra all(t)a`: "wild dog" and `mac tíre`: "son of the land".
+
+### Greek <lukos>, Italic <*lukʷos>, Paeonian <*lukʷ-> (probably), and Pashto <lewë> all have words for "wolf" that show metathesis of <*wl̥kʷ-> to <*lukʷ->. Pashto `لېوه` <lewë> is almost certainly an independent metathesis, it probably requires that the metathesis happened after Iranian specific sound changes. But I've shown the others as if they come from a shared metathesis—they may, or it could be up to 4 separate cases of the same metathesis.
+
+In Greek, the metathesis of <*wl̥kʷos> to <*lukʷos> triggered the boukólos rule which dissimilates labiovelars to plain velars next to <*u>, giving <lukos>.
+
+The Latin form would be expected to retain the <*kʷ> and so have <**luquus> for "wolf". `lupus` was probably borrowed from an Oscan-Umbrian language where <*kʷ> regularly becomes <p>.
+
+The Classical Greek spelling of Lycceius's name alternate between <Lukkeios>, <Lukpeios>, and <Luppeios>, so the Paeonian probably retained the <*kʷ> that had been lost in Classical Greek, having merged with <*k>, <*p>, or <*t> depending on the environment. 
+
+The Paeonian language is extremely poorly attested, so it is difficult to know anything about its relation to other languages. It is Indo-European (or else very influenced by Indo-European), but beyond that little can be said. Paeonia bordered Makedonia, Thrace, and Illyria, so it was probably related to one or more of those languages; but those languages, while better attested than Paeonian, are themselves of uncertain classification within Indo-European.
+
+Pashto probably went from Iranian <*wŕ̥kah> to <*wŕ̥a> to <*ŕ̥wa> to <*ḷ́wa> to <lewə́>. Unlike the other cases of metathesis, the <*w> did not become syllabic during metathesis, probably because the metathesis much later than the others, in a specifically Southeast Iranian context.
+
+
+#### Old French borrowed Frankish <*werawulf> as `garulf` or `garoul`, and then added Old French `leu`: "wolf" to get the etymologically redundant (or "pleonastic") Old French `leu-garoul` (Modern French `loup-garou`).
+
+
+##### It is unclear why Lycia is called "Lycia", but whatever the origin of the name, it appears to have been modified by folk-etymology to be derived from `Λύκος` <Lúkos>: "Wolf (personal name)" (or else re-named entirely based on folklore)
+
+Classical Greek `Ἀπόλλων Λύκειος`/"Apollo Lyceus"/"Lycean Apollo", was probably originally from `λύκη`: "light, dawn", but was later associated with wolves and Lycia.
+
+The Lyceum (Λύκειον) at Athens was a sanctuary dedicated to Apollo Lyceus, which was later used as a public exercise area and as a public meeting area for philosophical discussion and teaching. In 335 BCE, Aristotle returned to Athens after having worked for Phillip II and Alexander III ("the Great") of Macedon and founded the Peripatetic School, which met primarily at the Lyceum. From this comes the term "lyceum" as a school or lecture hall.
+
+
+###### German `Wolfram` (the personal name) and `Wolfram`: "tungsten" are not the same word. The name is Old High German `Wolfhram`: "Wolf-Raven", but the word for tungsten (originally for the mineral wolframite) is Old High German `wolfroum`: "wolf-froth".
+
+In his De Rei Metallica, Agricola calls wolframite `Lupi spuma`, likewise "wolf's froth". It's hard to know if Agricola coined the Latin and the German is a calque of it, or if Agricola translated an existing but previously unattested German name into Latin.
+
+The name "wolf-froth" refers the appearance of some wolframite as long black tungsten crystals mixed with intrusions of small clumps of light colored pegmatite crystals or milky quartz crystals, creating an appearance like a froth of sweat or saliva on black wolf fur.
+
+####### New Latin `lupus erythematosus` means  "wolf red-rash"; the "wolf" part refers to the ragged edges of the rash that were considered to look like a wolf bite.
+
+
+
+
+endnotes
+
+
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wolframit_v_k%C5%99emeni_Kr%C3%A1sno_%281%29.jpg/640px-Wolframit_v_k%C5%99emeni_Kr%C3%A1sno_%281%29.jpg
+
+
+
+
+

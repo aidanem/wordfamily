@@ -1,0 +1,384 @@
+date: 20170310
+theme: March of Horses 🐎
+tags: Animals, Domestic Animals
+
+startintro
+
+In which `car` and `horse` turn out to be the same word: "thing that runs". As are "corsair" and "hussar".
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*k̑ers->: "to run"
+
+-> Proto-Indo-European <*ḱr̥séti> (primary verb)
+
+--> Italic <*korzō>
+---> Latin `currō`: "I run"
+----> Eastern Romance
+-----> Romanian `curge`: "flow, run, drip"
+----> Central Romance
+-----> Italian `correre`: "to run, to hurry"
+----> Sardinian `cúrrere`
+----> Western Romance
+-----> French `corir`: "to run"
+------> English `courier`
+------> Haitian Creole `kouri`: "to run"
+-----> Spanish `correr`: "to run, to flow, to chase away, to rush"
+
+
+----> Latin `cursus`: "race, path, serires of events"
+-----> French `cours`: "course"
+------> English `course`
+-------> English `coarse` #
+-----> Medieval Latin `cursīvus`: "running, flowing"
+------> French `cursif`: "cursive"
+-------> English `cursive`
+------> Medieval Latin `recursīvus`
+-----> Medieval Latin `cursārius`: "pirate, riding horse"
+------> French `coursier`: "steed, courser, messenger"
+-------> English `courser`
+-------> Spanish `corcel`: "steed"
+------> Italian `corsaro`: "pirate, privateer"
+-------> Arabic `قرصان` <qurṣān>: "pirate, hacker"
+--------> Ottoman Turkish `قرصان` <korsan>: "pirate"
+---------> Turkish `korsan`: "pirate"
+-------> French `corsaire`: "privateer, pirate, corsair"
+--------> English `corsair`
+-------> Byzantine Greek `χωσάριος` <khōsários>: "pirate, corsair"
+--------> Serbo-Croatian `гу̏са̄р` <gȕsār>: "pirate, corsair, highwayman"
+---------> Hungarian `huszár`: "cavalryman, knight (chess), hussar"
+----------> French `hussard`: "hussar"
+-----------> English `hussar`
+-----> Latin `concursus`
+-----> Latin `discursus`
+-----> Latin `intercursus`
+-----> Latin `percursus`
+-----> Latin `recursus`
+-----> Latin `succursus`
+
+----> Latin `cursor`: "runner, racer, messenger, courier"
+-----> English `cursor`
+-----> Latin `cursōrius`: "running"
+------> Eastern Romance
+-------> Romanian `cursoare`: "current, tide, flow" (archaic)
+------> Central Romance
+-------> Italian `corsoio`: "slide, slider"
+------> Western Romance
+-------> Old French `cursoire`
+--------> English `cursory`
+-----> Latin `praecursor`
+
+----> Latin `currēns`: "running, hurrying"
+-----> Central Romance
+------> Italian `corrente`: "running, current, valid, ordinary, trend"
+-----> Western Romance
+------> French `courant`: "running, current of water or electricity"
+-------> English `current`
+------> Spanish `corriente`: "flowing, running, current, ordinary, trend"
+-----> Latin `currentia`
+------> English `currency`
+-----> Latin `concurrēns`
+-----> Latin `occurrēns`
+
+----> Latin `curriculum`: "a race, a racecourse, a racing chariot"
+-----> English `curriculum`
+
+-----> Latin `curricularis`
+------> English `curricular`
+-------> English `extracurricular`
+-----> New Latin `curriculum vitae`: "course of life"
+------> English `curriculum vitae`
+------> English `CV`
+
+----> Latin `accurrō`: "I rush (to help), I charge (to attack)" ("run to")
+-----> Central Romance
+------> Italian `accórrere`: "to rush towards, to rush to help"
+-----> Western Romance
+------> French `accourir`: "to rush up to, hurry to"
+------> Spanish `acorrer`: "to help, to go to the aid of"
+
+----> Latin `concurrō`: "I run in a group, I flock, I agree with, I attack" ("run with")
+-----> English `concur`
+-----> Latin `concursus`
+------> English `concourse`
+------> French `concours`: "competition, contest"
+-----> Latin `concurrēns`
+------> Western Romance
+-------> French `concurrent`: "concurrent, simultaneous, in competition with"
+--------> English `concurrent`
+
+----> Latin `discurrō`: "I run to and fro, I wander" ("run apart")
+-----> Central Romance
+------> Italian `discórrere`: "to talk, to chat"
+-----> Western Romance
+------> French `discourir`: "to talk, to hold forth"
+------> Spanish `descorrer`
+-----> Latin `discursus`: "running about"
+------> Central Romance
+-------> Dalmatian `discuars`: "speech, chat, discourse"
+-------> Italian `discorso`: "speech, address, conversation, subject"
+------> French `discours`: "oration, discourse"
+-------> English `discourse`
+-------> Welsh `disgẃrs`
+--------> Welsh `sgwrs`: "conversation"
+
+----> Latin `excurrō`: "I run out, I sally forth, I extend"  ("run out")
+-----> Central Romance
+------> Italian `scorrere`
+-----> Eastern Romance
+------> Romanian `a scure`
+-------> Romanian `a scurge`
+-----> Western Romance
+------> Spanish `escurrir`
+-----> Latin `excursiō`
+------> English `excursion`
+
+----> Latin `incurrō`: "I run in, I attack, I invade, I happen" ("run in")
+-----> Central Romance
+------> Italian `incórrere`
+-----> Eastern Romance
+------> Romanian `a încura`
+-----> Western Romance
+------> Old French `encorre`
+-------> French `encourir`
+-------> English `incur`
+
+----> Latin `intercurrō`: "I run between, I mingle with" ("run between")
+-----> Central Romance
+------> Italian `intercórrere`
+-----> Latin `intercursus`
+------> Western Romance
+-------> Old French `entrecours`
+--------> English `intercourse`
+
+
+----> Latin `occurō`: "I run into, I meet, I oppose, I reply, I appear, I occur" ("run against")
+-----> Central Romance
+------> Italian `occórrere`
+-----> Western Romance
+------> Old French
+-------> English `occur`
+------> Spanish `ocurrir`
+-----> Latin `occurrēns`
+------> Western Romance
+-------> French `occurence`
+--------> English `occurence`
+
+----> Latin `percurrō` ("run through")
+-----> Central Romance
+------> Italian `percórrere`
+-----> Western Romance
+------> French `parcourir`
+------> Spanish `percorrer`
+-----> Latin `percursus`
+------> Western Romance
+-------> French `parcours`
+--------> French `parkour`
+---------> English `parkour`
+
+----> Latin `praecurrō` ("run before")
+-----> Central Romance
+------> Italian `precorrere`
+-----> Latin `praecursor`
+------> English `precursor`
+
+----> Latin `recurrō` ("run back")
+-----> Central Romance
+------> Italian `ricorrere`
+-----> Western Romance
+------> French `recourir`
+------> Spanish `recorrer`
+-----> English `recur`
+-----> Latin `recursus`
+------> Central Romance
+-------> Italian `ricorso`
+------> Western Romance
+-------> French `recours`
+--------> English `recourse`
+------> Medieval Latin `recursīvus`
+-------> English `recursive`
+
+----> Latin `succurrō` ("run up from below")
+-----> Central Romance
+------> Italian `soccorrere`
+-----> Western Romance
+------> French `secourir`
+------> Spanish `socorrer`
+-----> Latin `succursus`
+------> Central Romance
+-------> Italian `soccorso`
+------> Western Romance
+-------> French `secours`
+--------> English `succor`
+-------> Spanish `socorro`
+
+
+
+-> Proto-Indo-European <*kr̥sos>: "runner"
+
+--> Celtic <*karros>: "wagon" ###
+---> Brythonic <*karr>
+----> Welsh `car`: "automobile" ###
+---> Old Irish `carr`: "wagon"
+----> Irish `carr`: "cart, automobile" ###
+---> Gaulish <*karros>
+----> Latin `carrus`: "wagon"
+-----> Eastern Romance
+------> Romanian `car`: "cart, chariot"
+-----> Central Romance
+------> Italian `carro`: "wagon, cart, van, truck"
+-----> Western Romance
+------> Spanish `carro`: "wagon, automobile"
+------> Old French `car`: "cart"
+-------> Anglo-Norman `carre`: "cart"
+--------> English `car`
+-------> Old French `cariot`: "little cart"
+--------> French `chariot`: "trolley"
+--------> English `chariot`
+-------> Old French `carier`: "to carry"
+--------> French `charrier`: "to carry, to transport"
+--------> English `carry`
+--------> Old French `cariage`: "transportion, carrying"
+---------> English `carriage`
+---------> Spanish `carruaje`: "carriage"
+------> Latin `carrūca`: "chariot, coach, wheeled plow"
+-------> Eastern Romance
+--------> Romanian `căruță`: "wagon, cart"
+-------> Central Romance
+--------> Italian `carrozza`: "carriage, rail car"
+-------> Western Romance
+--------> French `charrue`: "plow, snow plow"
+---------> French `carrosse`: "carriage"
+---------> Greek `καρότσα` <karótsa>: "trailer, back of a pickup truck, carriage"
+---------> Spanish `carroza`: "carriage, hearse, old-fashioned"
+------> Latin `(via) carrāria`: "wagon road"
+-------> Eastern Romance
+--------> Romanian `cărare`: "path, footway"
+-------> Central Romance
+--------> Italian `carraia`: "street, road, wagon path (archaic)"
+-------> Western Romance
+--------> French `charrière`: "path, route, road"
+--------> Old Occitan
+---------> French `carrière`: "race course, career"
+----------> English `career`
+---------> Italian `carriera`: "career"
+---------> Spanish `carrera`: "race, course of study, career, run"
+------> Latin `carricō`: "I load (a wagon), I load (a weapon)"
+-------> Eastern Romance
+--------> Romanian `a încărca`: "to charge, to load, to burden"
+-------> Central Romance
+--------> Italian `caricare`: "to load, to stow, to emphasize, to charge"
+---------> Italian `carico`: "the act of loading, a load, cargo"
+---------> Italian `caricatura`: "emphasis, exaggeration, caricature"
+----------> French `caricature`: "caricature"
+-----------> English `caricature`
+-------> Western Romance
+--------> French `charger`: "to load, to charge, to overact, to see to"
+---------> English `charge`
+--------> Spanish `cargar`: "to charge, to load, to pester"
+---------> Spanish `cargo`: "charge, burden, position"
+----------> English `cargo`
+-----------> French `cargo`: "freighter, ship designed to carry freight"
+
+--> Germanic <*hrussã>: "horse"
+---> North Germanic
+----> Old Norse `hross`: "horse"
+-----> Old Norse `hross-hvalr`: "horse-whale, walrus"
+------> Danish `hvalros`: "walrus"
+-------> English `walrus`
+---> West Germanic
+----> Old English `hors`: "horse"
+-----> English `horse`
+------> Māori `hōiho`: "horse"
+----> Frankish `rosse`: "horse"
+-----> Dutch `ros`: "horse, steed" (replaced by paard)
+-----> French `rosse`: "asshole"
+----> Old High German `hros`: "horse"
+-----> German `Ross`: "horse" (regional/poetic/archaic, replaced by `Pferd`)
+----?> Old Prussian `russis`: "horse"
+
+-?> Hellenic 
+---> Classical Greek `ἐπίκουρος` <epíkouros>: "helper, assistant, ally, mercenary" ##
+----> Classical Greek `Ἐπῐ́κουρος` <Epíkouros>: "Helper (personal name)"
+-----> Greek `Επίκουρος` <Epíkouros>
+-----> Latin `Epicūrus`
+------> English `Epicurus`
+-----> Hebrew `אֶפִּיקוֹרוֹס` <'epikorós>: "heretic, apostate"
+------> Yiddish `אַפּיקורס` <apikoyres>: "heretic, unbeliever"
+-------> English `apikoros`
+-----> Classical Greek `Ἐπικούρειος` <Epikoúreios>: "Epicurean"
+------> Latin `Epicureus`: "Epicurean"
+-------> Old French `Epicurien`
+--------> English `Epicurean`
+---------> English `epicurean`
+
+
+--> Italic <*korzos>
+---> Latin `currus`: "chariot"
+----> Latin `curūlis`: "of a chariot, for a chariot, a ceremonial seat for high magistrates"
+-----> Spanish `carril`: "lane, track, rail"
+----> Vulgar Latin <*currale>: "place for keeping a chariot"
+-----> Western Romance
+------> Portuguese `curral`: "corral, pen"
+-------> Dutch `kraal`: "corral, kraal"
+--------> Afrikaans `kraal`: "corral, kraal"
+---------> English `kraal`
+------> Spanish `corral`: "corral, enclosure"
+-------> English `corral`
+
+
+-> Proto-Indo-European <*ḱr̥snéh₂ti>: "to run and run, to hurry" (imperfective iterative)
+
+--> Germanic <*hurzaną>: "hurry"
+---> North Germanic
+----> Old Norse
+-----> Norwegian `hurre`: "whirl around"
+---> West Germanic
+----> Old English 
+-----> English `hurry`
+----> Old High German `hurren`: "to hurry, to hasten"
+
+
+-> Proto-Indo-European <*ḱr̥skós>: "fast"
+
+--> Germanic <*hurskaz>: "fast, quick, lively"
+---> North Germanic
+----> Old Norse `horskr`
+-----> Icelandic `horskur`: "clever"
+-----> Finnish `hurskas`: "wise, pious"
+---> West Germanic
+----> Old English `horsc`
+
+---> Germanic <*hurskijanã>: "to be fast, to rush"
+----> East Germanic
+-----> Gothic <*hruskan>
+------> Gothic `𐌰𐌽𐌳𐌷𐍂𐌿𐍃𐌺𐌰𐌽` <andhruskan>: "to explore, to investigate" (lit. "rush towards")
+----> West Germanic
+-----> Old English `hrysċan`: "to jolt, to startle"
+------> English `rush`
+
+
+-> Proto-Indo-European <*ḱr̥s-r-u->
+
+--> Tocharian
+---> Arshian <kursär>: "vehicle"
+---> Kushean <kwarsär>: "vehicle"
+
+endbody
+
+
+startnotes
+
+
+# The meaning of `coarse` comes from the semantic chain from "Following the usual course" to "ordinary, common" to "low quality" to "rough"
+
+## Greek `ἐπίκουρος` <epíkouros>: "helper, assistant, ally, mercenary" has traditionally been derived from <*ḱers-> assuming a sense of something like "one who runs along with". Alternatively, it may equivalent to Mycenaean `𐀁𐀠𐀒𐀺` <e-pi-ko-wo>, probably equivalent to Archaic Greek <*epikorwos> from  `ἐπί-κοέω`: "to watch over".
+
+### Welsh `car` and Irish `carr`—both meaning "car"—seem like they must be borrowings from English `car`, but they are not! They are direct descendants from Celtic <*karros>: "wagon", which was also borrowed into Latin and passed through French to English `car`. (Though there could have been some borrowing of meaning to the existing words.)
+
+There is also a Celtic word <*karbantos>: "chariot"—the ultimate origin of "carpenter", as well as Irish `carbad`: "chariot"—that could be related to <*karros>: "wagon", but probably isn't.
+
+endnotes

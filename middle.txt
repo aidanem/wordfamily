@@ -1,0 +1,478 @@
+date: 20230303
+tags: Architecture, Numbers, Time, Toponymy
+
+
+
+
+startintro
+
+The particle <*me> meaning "with, at, between" is probably the origin of <*médʰyos>: "middle"—in turn the origin of many, many words.
+
+I wonder if [<*meh₁->: "to measure" and <*meh₁d->: "to consider, to give advice, to heal"] isn't also from <*me>. Germanic <*midlą> for example sometimes means "middle" but sometimes means "medicine, remedy". Or, in both Sardinian and Dalmatian, the Latin words `medius`: "middle" and `mēnsus`: "measured" are merged as `mesu`: "half".
+
+The other PIE word for "with" <*ḱom> could possibly be related, possibly originating as <*ḱe> + <me>: "with that". On the other hand I'm not convinced <*ḱom> is even related to <*ḱe>, since <*ḱe> was originally indeclinable, and declined *o forms were a late innovation in some branches, but <*ḱom> appears in almost all branches. Armenian is a notable exception, lacking a direct descendant of <*ḱom>, but is one of the branches with form reflecting <*ḱo>.
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*me>: "with, at, between, in the middle of"
+
+-> Albanian `me`: "with"
+
+-> Hellenic
+--> Classical Greek <*me>
+--?> Greek `με` <me>: "with, by, at"
+
+
+-> Proto-Indo-European <*metih₂>
+
+--> Pre-Albanian <*met>
+---> Albanian `mjet`: "between, among, wall, means, tool"
+---> Pre-Albanian <*metwisa>: "between lands"
+----> Albanian `mjedis`: "environment, nature"
+----?> Albanian `midis`: "between, among"
+
+--> Germanic <*midi>: "with, by, together"
+---> West Germanic
+----> Old English `mid`: "with"
+-----> Old English `midwīf`: "midwife" (lit. "with-woman")
+------> English `midwife`
+----> Old High German `mit`: "with"
+-----> German `mit`: "with"
+-----> Yiddish `מיט` <mit>: "with"
+
+--> Hellenic <meta>
+---> Mycenaean Greek `𐀕𐀲` <me-ta>
+---> Classical Greek `μετά` <metá>: "among, between, along with, in pursuit of, after, next"
+----> Classical Greek `μετα-`: "participation, succession, pursuit, after, reversely, change"
+
+-----> Classical Greek `μεταβάλλω` <metabállō>: "I throw into a different position, I change suddenly, I turn around"
+------> Classical Greek `​​μετᾰβολή` <metabolḗ>: "change, mutation, transformation"
+-------> Greek `μεταβολή` <metavolí>: "
+-------> French `métabolisme`: "metabolism"
+--------> English `metabolism`
+
+-----> Classical Greek `μεθίστημι` <methístēmi>
+------> Classical Greek `μετάστασις` <metástasis>
+-------> Greek `μετάσταση` <metástasi>
+-------> Late Latin `metastasis`
+--------> English `metastasis`
+
+-----> Classical Greek `μεταφέρω` <metaphérō>: "I carry over, I transfer, I change, I use metaphorically"
+------> Classical Greek `μεταφορά` <metaphorā́>
+-------> Greek `μεταφορά` <metaforá>
+-------> Latin `metaphora`
+--------> French `métaphore`
+---------> English `metaphor`
+
+-----> Classical Greek `μετᾰμορφόω` <metamorphóō>: "I transform, I disguise"
+------> Classical Greek `μετᾰμόρφωσῐς` <metamórphōsis>
+-------> Latin `metamorphōsis`
+--------> English `metamorphosis`
+
+
+-----> Classical Greek `μετανοέω` <metanoéō>
+------> English `metanoia`
+
+-----> Classical Greek `μέθοδος` <méthodos>: "path to follow, pursuit, pursuit of knowledge, inquiry, doctrine, method, trick"
+------> Greek `μέθοδος` <méthodos>: "method"
+------> Armenian `մեթոդ` <metʿod>: "method"
+------> Georgian `მეთოდი` <metodi>: "method"
+------> Hebrew `מֶתוֹדָה` <metóda>: "method"
+------> Latin `methodus`: "method"
+-------> French `méthode`: "method, book"
+--------> English `method`
+--------> Persian `متد` <metod>
+------> Russian `ме́тод` <métod>: "method"
+
+-----> Classical Greek `μέτοικος` <métoikos>
+------> English `metic`
+
+-----> Classical Greek `Μεθύδριον` <Methúdrion>: "place name: Between the Waters"
+
+-----> Greek `μετα` <meta->: "re-"
+-----> English `meta-`
+
+----> Classical Greek `μετα ταῦτα` <meta taûta>: "along with this"
+-----> Byzantine Greek `μεταῦτα` <metaûta>: "with" (compounded and haplology)
+-----?> Greek `με` <me>: "with, by, at" (de-compounded)
+
+
+
+-> Proto-Indo-European <*me-dʰe->: "placed with?" #
+
+-?> Proto-Indo-European <*médʰyos>
+
+---> Pre-Albanian <*medza>
+----> Albanian `mjez`: "middle"
+
+---> Old Armenian `մէջ` <mēǰ>: "middle, inside"
+----> Armenian `մեջ` <meǰ>: "inside, among"
+----> Georgian `მიჯნა` <miǯna>: "boundary, border"
+
+---> Balto-Slavic <*medjas>: "boundary, border, no man's land"
+----> East Baltic
+-----> Latvian `mežs`: "forest"
+-----> Lithuanian `mẽdis`: "tree, wood"
+-----> Lithuanian `mẽdžias`: "forest" (dialectal)
+----> West Baltic
+-----> Old Prussian `median`: "forest"
+----> Slavic <*meďà>: "border, boundary, uncultivated space between fields"
+-----> East Slavic `межа́` <mežá>
+------> Russian `межа́` <mežá>: "boundary, margin, abutment"
+------> Ukrainian `межа́` <mežá>: "boundary, border, limit, frontier"
+-----> South Slavic
+------> Bulgarian `междá` <meždá>: "boundary between fields"
+------> Serbo-Croatian `мѐђа` <mèđa>: "border, boundary, landmark"
+-----> West Slavic
+------> Czech `mez`: "limit"
+------> Polish `miedza`: "uncultivated space between fields, border"
+
+-----> Slavic <*meďu>: "between, among" (from the locative dual of <*meďà>)
+------> East Slavic <*mežu>
+-------> Russian `меж` <mež>: "between, among"
+-------> Ukrainian `між` <miž>: "between, among"
+------> South Slavic
+-------> Bulgarian `между́` <meždú>: "between"
+-------> Serbo-Croatian `ме̏ђу` <mȅđu>: "between, among"
+------> West Slavic
+-------> Czech `mezi`: "between, among"
+-------> Polish `między`: "between"
+
+---> Celtic <*medyos>: "middle"
+----> Brythonic
+-----> Old Breton `med`: "midsummer"
+----> Old Irish `mide`: "middle, center"
+-----> Irish `mí`: "middle"
+----> Gaulish
+-----> Gaulish <*Medyolānom>: "place name: Central Plain"
+-----?> Latin `Mediolānum`
+-------> Vulgar Latin <*Meiolano>
+--------> Central Romance
+---------> Italian `Milano`
+----------> French `Milan`
+-----------> English `Milan`
+------------> English `Milaner`
+-------------> English `milliner`
+--------> Old High German `Meilān`
+---------> German `Mailand`
+
+---> Germanic <*midjaz>: "middle"
+----> East Germanic
+-----> Gothic `𐌼𐌹𐌳𐌾𐌹𐍃` <midjis>: "middle"
+-----?> Albanian `midis`: "between, among"
+----> North Germanic
+-----> Old Norse `miðr`: "middle"
+------> Icelandic `miður`: "middle"
+------> Swedish `mid-`: "mid-"
+
+----> Germanic <*midjagardaz>: "the middle enclosure, the world, Midgard"
+-----> East Germanic
+------> Gothic `𐌼𐌹𐌳𐌾𐌿𐌽𐌲𐌰𐍂𐌳𐍃` <midjungards>: "the inhabited world, ecumene"
+-----> North Germanic
+------> Old Norse `Miðgarðr`: "the Earth, Midgard, the inhabited world"
+-------> Danish `Midgård`
+-------> Icelandic `Miðgarður`
+--------> English `Midgard`
+-----> West Germanic
+------> Old English `Middanġeard`: "the world, the inhabited world" ###
+-------> Old English `Middaneard`: "the world, the inhabited world" ###
+--------> English `Middle Earth` (partial translation) ###
+
+----> Germanic <*midj(ą/ǭ)>: "middle, center" (noun)
+-----> North Germanic
+------> Old Norse `miðja`: "center, middle"
+-------> Icelandic `miðja`: "center, middle"
+-------> Swedish `midja`: "waist"
+-----> West Germanic
+------> Old English `midd`
+-------> English `mid`
+--------> English `mid-`
+------> Old High German `mitti`: "middle"
+-------> German `Mitte`: "middle, center"
+-------> Yiddish `מיט` <mit>: "middle"
+
+-----> Germanic <*midlą>: "middle, means" (diminutive noun)
+------> North Germanic
+-------> Old Norse `meðal`: "means, medicine"
+--------> Icelandic `meðal`: "medicine, drug, means"
+------> West Germanic
+-------> Old English `middel`
+--------> English `middle`
+-------> Old High German `mittil`
+--------> German `Mittel`: "agent, appliance, means, remedy, median"
+--------> Yiddish `מיטל` <mitl>: "means, resources, middle"
+
+---> Hellenic <*métsos>
+----> Classical Greek `μέσος` <mésos>: "between, half, moderate"
+-----> Classical Greek `Μεσοποταμίᾱ` <Mesopotamíā> (lit. "between rivers", calque ultimately of Akkadian <birit narim>)
+------> Latin `Mesopotamia`
+-------> English `Mesopotamia`
+-----> English `meso-`
+
+---> Illyrian <metu->: "between, among"
+----> Illyrian <Metubarbis>: "place name: Among the Swamp"
+-----> Latin `Metubarbis`
+
+---> Indo-Iranian <*mádʰyas>: "middle"
+----> Dardic
+-----> Kashmiri `مَنٛز` <manz>: "inside of, among, between"
+----> Indo-Aryan
+-----> Sanskrit `𑀫𑀥𑁆𑀬` <mádhya>: "middle, center"
+------> Magadhi `𑀫𑀚𑁆𑀛` <majjha>
+-------> Bengali `মাঝ` <majhô>
+------> Pali `𑀫𑀚𑁆𑀛` <majjha>
+------> Sauraseni `𑀫𑀚𑁆𑀛` <majjha>
+-------> Madhya Sauraseni
+--------> Hindi `में` <mẽ>: "in, within, into, during, between"
+-------> Pahari
+--------> Nepali `मा` <mā>: "in, at, on"
+-------> Punjabi `ਮੰਝ` <mañjh>: "middle"
+--------> Punjabi `ਮਾਝਾ` <Mājjhā>: "place name: Central (Punjab), Majha"
+---------> English `Majha`
+------> Hindi `मध्य` <madhya>
+------> Javanese `ꦩꦢꦾ` <madya>: "middle, medium, waist"
+-------> Malay `madya`: "center"
+------> Punjabi `ਮੱਧ` <maddh>
+------> Telugu `మధ్య` <madhya>: "middle, central"
+
+------> Sanskrit <madhyāhna>: "midday, noon"
+-------> Magadhi
+--------> Bengali `মধ্যাহ্ন` <môdhẏahnô>: "midday, noon"
+-------> Telugu `మధ్యాహ్నము` <madhyāhnamu>: "midday, noon"
+
+----> Iranian <*mádyah>: "middle"
+-----> Avestan `𐬨𐬀𐬌𐬜𐬌𐬌𐬁𐬌` <maiδiiāi>: "at the center" (locative)
+-----> Northern Iranian
+------> Ossetian `мидӕг` <midæg>
+-----> Pashto `ملا` <mla>: "waist"
+
+-----> Iranian <*mádyanah>: "middle, waist" (noun)
+------> Avestan `𐬨𐬀𐬌𐬜𐬌𐬌𐬁𐬥𐬀` <maiδiiāna>
+------> Northern Iranian
+-------> Khotani <myāna>
+
+
+------> Western Iranian
+-------> Northwestern Iranian
+--------> Parthian `𐫖𐫅𐫏𐫀𐫗` <maẟyān>
+---------> Arabic `ميدان` <maydān>: "open space, public square, battlefield, field of study"
+
+----------> Armenian `մեյդան` <meydan>: "public square"
+----------> Persian `میدان` <meydân>: "plaza, public square, field"
+-----------> Georgian `მოედანი` <moedani>: "arena, plaza, public square"
+-----------> Hindi `मैदान` <maidān>: "park, lawn, sports field"
+-----------> Telugu `​​మైదానము` <maidānamu>: "court, field, meadow"
+-----------> Ottoman Turkish `میدان` <meydân>
+------------> Turkish `meydan`: "public square, plaza, open space"
+------------> Armenian `մեյդան` <meydan>: "public square"
+------------> Romanian `maidan`: "open space"
+------------> Serbo-Croatian `мѐјда̄н` <mèjdān>: "public square, field, public exposition"
+------------> Serbo-Croatian `мѐгда̄н` <mègdān>: "battlefield, dueling ground, duel, battle, competition"
+
+----------> Kipchak
+-----------> Russian `майда́н` <majdán>: "public square"
+-----------> Ukrainian `майда́н` <majdán>: "public square"
+------------> Ukrainian `Євромайда́н` <Jevromajdán>: "Euromaidan"
+-------------> English `Euromaidan`
+
+-------> Old Persian <*madyānaʰ>
+--------> Persian `میان` <miyân>: "middle, center"
+--------> Elamite `𒈠𒋾𒂊𒈾` <ma-ti-e-na>
+
+----> Nuristani <*máǰa>
+-----> Ashkun <më́z>
+-----> Kamviri <mǘč>
+
+
+
+---> Italic <*meðjos>
+----> Oscan `𐌌𐌄𐌚𐌉𐌞` <mefiú>
+----> Latin `medius`: "middle, half, moderate"
+-----> Central Romance
+------> Dalmatian `mesu`: "middle, half" (with influence from `mēnsus`: "measured")
+------> Italian `mezzo`: "half, middle, means, method, vehicle"
+-------> Italian `mezzosoprano`
+--------> English `mezzo-soprano`
+---------> English `mezzo`
+-----> Eastern Romance
+------> Romanian `miez`: "core, heart, pulp"
+-----> Insular Romance
+------> Sardinian `mesu`: "half" (with influence from `mēnsus`: "measured")
+-----> Western Romance
+------> Portuguese `meio`: "half"
+
+-----> Latin `medium`: "middle, center, medium, community, public, publicity" (neuter substantive)
+------> English `medium`
+------> Latin `media` (neuter plural)
+-------> English `media`
+
+-----> Latin `mediālis`: "of the middle, medial"
+------> English `medial`
+------> Latin `mediālia` (plural substantive)
+-------> Vulgar Latin <*medālia>: "a thing in the middle, a half thing, esp. a half-denarius coin"
+--------> Central Romance
+---------> Italian `medaglia`: "medal"
+----------> French `médaille`: "medal"
+-----------> English `medal`
+-----------> Vietnamese `mề đay`: "medallion, crest"
+-----------> French `médaillon`: "medallion"
+------------> English `medallion`
+--------> Insular Romance
+---------> Sardinian
+----------> Logudorese `meadza`
+--------> Western Romance
+---------> Spanish `meaja`: "a small coin"
+
+-----> Latin `medi-`: "mid-"
+------> Western Romance
+-------> French `mi-`: "half-, mid-"
+
+------> Latin `mediānus`
+-------> Central Romance
+--------> Italian `mezzano`: "average, mean, medium, middle, mizzen"
+---------> French `misaine`
+---------> Italian `mezzanino`: "mezzanine"
+----------> French `mezzanine`
+-----------> English `mezzanine`
+-------> Western Romance
+--------> Old Occitan `mitjan`: "middle, mizzen"
+---------> Catalan `mitjana`: "mean, average, mizzen, median strip"
+---------> French `misaine`
+----------> English `mizzen`
+--------> Old French `meien`
+---------> French `moyen`: "middle, average, medium, way, method, means"
+---------> English `mean`
+-------> English `median`
+-------> Old Irish `medón`: "middle"
+--------> Irish `meán`: "mid, central, middle, average, waist"
+
+
+------> Latin `medietās`: "center, middle part, midpoint, half"
+-------> Central Romance
+--------> Italian `metà`: "half, center, mid-"
+-------> Western Romance
+--------> French `moitié`: "half, significant other"
+---------> English `moiety`
+--------> Spanish `mitad`: "half"
+-------> Latin <*dimidietās>
+--------> Eastern Romance
+---------> Romanian `jumătate`: "half" (possibly influenced by unrelated Pre-Albanian <*jūmatjā>: half")
+
+
+------> Latin <*medī-diēs>: "mid-day"
+-------> Latin `merīdiēs`: "midday, noon, south" (dissimilation of 'd')
+--------> Central Romance
+---------> Italian `meriggio`: "midday"
+--------> Eastern Romance
+---------> Romanian `meriză`: "palce where cattle rest at noon"
+--------> Latin `ante meridiem`: "before noon"
+---------> English `a.m.`
+--------> Latin `post meridiem`: "after noon"
+---------> English `p.m.`
+--------> Latin `merīdiānus`: "relating to midday, southern"
+---------> French `méridien`: "relating to midday, meridian"
+----------> English `meridian`
+
+------> Latin `​​mediterrāneus`: "inland, surrounded by land"
+-------> French `méditerrané`: "inland"
+-------> Latin `Mare Mediterrāneum`: "place name: Sea in the Middle of the Land"
+--------> English `Mediterranean Sea`
+---------> English `mediterranean`
+--------> Italian `​​Mar Mediterraneo`
+---------> Italian `mediterraneo`: "mediterranean"
+
+------> Latin `mediocris`: "middling, moderate, ordinary, mediocre, tolerable"
+-------> French `médiocre`
+--------> English `mediocre`
+
+------> New Latin `mediaevus`: "a middle age"
+-------> New Latin `mediaevālis`: "of a middle age, medieval"
+--------> French `médiéval`
+---------> English `medieval`
+
+
+-----> Latin `dīmidius`: "half, halved" (~"into two pieces at the middle")
+------> Western Romance
+-------> French `demi`: "half"
+--------> English `demi-`
+------> Welsh `dimei`: "a halfpenny"
+------> Latin <*dimidietās>
+
+
+-----> Latin `mediāre`: "to halve, to divide in the middle, to be in the middle"
+------> English `mediate`
+
+----?> Latin `medulla`: "marrow"
+------> Central Romance
+-------> Italian `midolla`: "pulp, pith, breadcrumbs"
+------> Eastern Romance
+-------> Romanian `măduvă`: "marrow"
+------> Western Romance
+-------> French `moelle`: "marrow, spinal cord, pith"
+------> English `medulla`
+
+
+
+
+
+
+
+--?> Messapian <*mess-?>
+---?> Messapian <*Messapi-?>: "place name: Between the Waters" (with [<h₂ep->: "water"]) ##
+-----> Classical Greek `Μεσσάπιος` <Messápios>: "a Messapian"
+------> Latin `Messapius`
+-------> Latin `Messapia`
+--------> English `Messapia`
+---------> English `Messapian`
+
+
+
+-?> Proto-Indo-European <*medʰeros>: "more central?" (comparative)
+
+---> Tocharian <*mäcǝre->: "southern"
+----> Arshian <mäcriṃ>: "southern"
+----> Kushean <*mutruñ>
+-----> Kushean <omutruññaiṣṣe>: "southern"
+
+
+-> Proto-Indo-European <*mé-ǵʰ(s)ri>: "at hand, near" (with <*ǵʰes->: "hand" in the locative)
+
+--> Albanian `ndjerë`: "near, at, until"
+
+--> Old Armenian `մերձ` <merj>: "near, about"
+---> Armenian `մերձ` <merj>: "near"
+
+--> Hellenic
+---> Classical Greek `μέχρῐ` <mékhri>: "as far as, up to, until"
+----> Greek `μέχρι` <méchri>: "as far as, until"
+
+
+
+
+
+
+endbody
+
+
+
+startnotes
+
+
+# <*médʰyos> is probably <*me>: "with" plus the locative particle <*-dʰe>; related to <*dʰeh₁->: "to do, to put, to place".
+
+
+
+## Classical Greek `Μεσσάπιος` <Messápios>: "a Messapian" seems like it should come from a word corresponding to <*médʰyo-h₂ep->: "between waters"—possibly referring to the their homeland on the sub-peninsula of Salento, with the Strait of Otranto and the Adriatic Sea on one side and the Gulf of Taranto and the Ionian Sea on the other. The sounds don't match any very well attested Indo-European languages, so it is presumably from the Messapian language itself.
+
+
+
+### Germanic <*midjagardaz> is literally "the middle enclosure", understood to mean the inhabited world, the human world. This became Old Norse `Miðgarðr`, anglicized as Midgard. The Old English equivalent was `Middanġeard`, but as the Old English `g` gradually lenited away it was re-analyzed as `Middaneard`: "Middle Earth" (compare the uncompounded Old English `ġeard` which became `yard`).
+
+Though the [`eard` in `Middaneard` is only coincidentally similar to `earth`].
+
+
+endnotes

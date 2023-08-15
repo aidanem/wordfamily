@@ -1,0 +1,515 @@
+date: 20220617
+tags: Body Parts, Elements, Fire
+
+
+
+
+startbody
+
+
+Proto-Indo-European <*gʷʰer->: "warm, hot"
+
+-> Proto-Indo-European <*gʷʰéreti>: "warms" (root imperfective)
+
+--> Pre-Albanian <*džera>
+---> Pre-Albanian <*džernja>
+----> Albanian `ziej`: "I boil, I cook"
+
+--> Celtic <*gʷereti>: "warms"
+---> Celtic <*uɸo-gʷereti>
+---> Old Irish `fo·geir`: "to heat, to warm, to inflame, to irritate"
+
+--> Hellenic <*kʷʰérō>
+---> Classical Greek `θέρω` <thérō>: "I heat, I become warm, I burn"
+
+
+-> Proto-Indo-European <*gʷʰr̥néwti>: "warms" (-nw- imperfective)
+
+--> Old Armenian `ջեռնում` <ǰeṙnum>: "to get warm, to be warmed, to get angry or excited, to burn (instransitve)"
+---> Armenian `ջեռանալ` <ǰeṙanal>: "to get warm"
+----> Armenian `ջեռակ` <ǰeṙak>: "hot water bottle"
+
+-?> Germanic <*brinnanã> #
+---> East Germanic
+----> Gothic `𐌱𐍂𐌹𐌽𐌽𐌰𐌽` <brinnan>: "to burn"
+---> North Germanic
+----> Old Norse `brinna`: "to burn"
+-----> Danish `brænde`: "to burn, to roast, to cremate, to sting"
+-----> Icelandic `brenna`: "to burn"
+---> West Germanic
+----> Old English `biernan`: "to burn"
+-----> English `burn`
+----> Old High German `brinnan`: "to burn"
+-----> German `brinnen`: "to burn" (archaic)
+
+--> Indo-Iranian <*gʰr̥náwti>
+---> Indo-Aryan
+---?> Sanskrit `𑀖𑀾𑀡𑁄𑀢𑀺` <ghṛṇóti>: "burns, shines, sprinkles" (and/or from *gʰer-: "to rub, to smear")
+
+
+-> Proto-Indo-European <*gʷʰigʷʰérti>: "warms" (reduplicative imperfective)
+
+--> Indo-Iranian <*ǰʰigʰárti>
+---> Indo-Aryan <*ȷ́igʰárti>
+----> Sanskrit `𑀚𑀺𑀖𑀭𑁆𑀢𑀺` <jígharti>: "shines"
+
+
+-> Proto-Indo-European <*gʷʰréh₁(ye)ti>: "is warm" (-eh₁- stative)
+
+--> Pre-Albanian <*grāja>
+---> Pre-Albanian <*en-grāja>
+----> Albanian `ngroh`: "I warm, I heat"
+
+--> Balto-Slavic <*grḗˀtei>
+---> Slavic <*grěti>: "to warm, to heat, to shine"
+----> East Slavic `грѣти` <grěti>
+-----> Russian `греть` <gretʹ>: "to heat"
+-----> Ukrainian `грі́ти` <hríty>: "to radiate heat (instransitive), to heat up"
+----> South Slavic
+-----> Bulgarian `гре́я` <гре́я>: "to heat, to warm up, to shine"
+-----> Old Church Slavonic `грѣꙗти` <grějati>
+-----> Serbo-Croatian `грејати` <grejati>: "to heat, to warm"
+----> West Slavic
+-----> Czech `hřát`: "to warm"
+-----> Polish `grzać`: "to heat, to warm, to fight"
+---?> Slavic <*grě̃xъ>: "sin"
+-----> East Slavic `грѣхъ` <grěxŭ>
+------> Russian `​​грех` <grex>: "sin, fault"
+-------> Karelian `riähkä`: "sin"
+------> Ukrainian `гріх` <hrix>: "sin, fault"
+-----> South Slavic
+------> Bulgarian `грях` <grjah>: "sin, error, fault"
+------> Old Church Slavonic `грѣхъ` <grěxŭ>: "sin"
+------> Serbo-Croatian `грије̑х` <grijȇh>: "sin"
+-----> West Slavic
+------> Czech `hřích`: "sin"
+------> Polish `grzech`: "sin"
+
+--> Hellenic <*kʷʰeréyō>
+---> Classical Greek `θερέω` <theréō>
+
+
+-> Proto-Indo-European <*gʷʰegʷʰór-e>: "is warm" (reduplicative stative)
+
+--> Balto-Slavic <*garḗˀtei>
+---> East Baltic
+----> Lithuanian `garė́ti`: "to boil, to steam, to evaporate"
+---> Slavic <*gorěti>: "to burn (instrans.)"
+----> East Slavic
+-----> Russian `горе́ть` <gorétʹ>: "to burn (intrans.), to be on fire, to be lit, to flush, to gleam"
+-----> Ukrainian `горі́ти` <horíty>: "to burn (intrans.)"
+----> South Slavic
+-----> Bulgarian `горя́` <gorjá>: "to burn (trans. or intrans.), to sting (trans.), to have a fever, to crave)"
+-----> Old Church Slavonic `горѣти` <gorěti>: "to burn (intrans.)"
+-----> Serbo-Croatian `го̀рјети` <gòrjeti>: "to burn (intrans.), to be lit, to blaze, to glow"
+----> West Slavic
+-----> Czech `hořet`: "to burn, to feel strongly"
+-----> Polish `gorzeć`: "to glow, to flush"
+
+
+-> Proto-Indo-European <*gʷʰoréyeti>: "heats, makes warm" (causative)
+
+--> Celtic <*gʷorīti>
+---> Brythonic
+----> Welsh `gori`: "to brood, to incubate, to keep warm"
+---> Old Irish
+----> Irish `gor`: "to incubate, to brood, to warm, to burn, to blush"
+---> Hispano-Celtic
+----> Galician `gorar`: "to addle, to spoil, to covet"
+-----> Galician `goro`: "incubated, but unfertilized egg"
+----> Portuguese `gorar`: "to addle, to miscarry"
+----> Old Spanish `gorar`
+-----> Old Spanish `guero`: "unfertilized egg"
+------> Spanish `huero`: "vain, empty"
+------> Spanish `güero`: "light-skinned person" (Mexican Spanish; physical, not cultural like `gringo`; semantic shift from "sickly")
+
+--> Indo-Iranian <*gʰaráyati>
+---> Indo-Aryan
+----> Sanskrit `𑀖𑀭𑀬𑀢𑀺` <gharáyati>
+
+
+-> Proto-Indo-European <*gʷʰéros>: "heat, warm weather"
+
+--> Old Armenian `ջեր` <ǰer>: "heat, warmth, sunny weather, warm, clear"
+---> Armenian `ջեռ` <ǰeṙ>: "warm, bright, shining"
+
+--> Balto-Slavic <*géras>: "heat, glowing embers"
+---> West Baltic
+----> Old Prussian `goro`: "ash pit"
+---> Slavic <*žarъ>: "heat, glow"
+----> East Slavic `жаръ` <žarŭ>
+-----> Russian `жар` <žar>: "heat, fever, embers, fervor"
+------> Russian `жар-пти́ца` <žar-ptíca>: "firebird, phoenix"
+-------> Russian `Жар-птица` <Žar-ptíca>: "(Stravinsky's) The Firebird"
+----> South Slavic
+-----> Serbo-Croatian `жа̑р` <žȃr>: "fervor, embers"
+-----> Hungarian `zsarátnok`: "embers" ###
+-----> Romanian `jar`: "burning coals, heat, glow, fire"
+----> West Slavic
+-----> Polish `żar`: "embers, heat"
+------> Polish `żarówka`: "(incandescent) light bulb"
+
+--> Hellenic <*kʷʰéros>
+---> Classical Greek `θέρος` <théros>: "heat, summer, harvest"
+----> Classical Greek `θερινός` <therinós>: "of summer"
+-----> Greek `θερινός` <therinós>: "of summer"
+------> Greek `θερινή ώρα` <theriní óra>: "summer time, daylight saving time"
+
+--> Indo-Iranian <*ǰʰáras>
+---> Indo-Aryan <*źʰáras>
+----> Vedic Sanskrit <háras>: "flame, fire"
+
+
+-> Proto-Indo-European <*gʷʰérmn̥>
+
+--> Old Armenian `ջերմն` <ǰermn>: "fever, heat"
+---> Armenian `ջերմ` <ǰerm>: "fever, warmth, warm, warmly, passionate, tender"
+
+-?> Germanic <*bermô>: "yeast, leven" #
+---> West Germanic
+----> Old English `beorma`: "yeast, leaven, beerhead"
+-----> English `barm`
+-----?> English `barmy`
+----> Old Saxon <*berma>
+-----> Low German `Bärme`
+------> German `Bärme`: "yeast"
+-----> Danish `bærme`: "dregs"
+-----> Estonian `pärm`: "yeast"
+
+-?> Italic <*xʷermen> #
+---> Italic <*xʷermentom>
+----> Latin `fermentum`: "fermentation, leavening, yeast, passion"
+-----> Latin `fermentō`: "I ferment, I leaven, I break up, I loosen, I spoil"
+------> Eastern Romance
+-------> Romanian `a frământa`: "to knead, to churn, to agitate, to work, to fret"
+------> French `fermenter`: "to ferment"
+-------> English `ferment`
+------> Italian `fermentàre`: "to ferment"
+------> Spanish `fermentar`: "to ferment"
+------> Latin `fermentātiō`: "fermentation"
+-------> English `fermentation`
+
+
+-> Proto-Indo-European <*gʷʰermós>: "warm"
+
+--> Old Armenian `ջերմ` <ǰerm>
+
+--> Hellenic <*kʷʰermós>
+---> Classical Greek `θερμός` <thermós>: "warm, hot, hotheaded, active"
+----> Greek `θερμός` <thermós>: "warm, hot, fervent, heartfelt"
+----> German `Thermos`: "company/product name for a vacuum flask"
+-----> English `Thermos`
+------> English `thermos` (genericized)
+-------> Greek `θερμός` <thermós>: "thermos, vacuum flask"
+
+----> Classical Greek `θερμο-` <thermo->
+-----> Classical Greek `Θερμοπῠ́λαι` <Thermopúlai>: "Hot-Gates (place name), Thermopylae" ##
+------> Greek `Θερμοπύλες` <Thermopýles>: "Thermopylae"
+------> Latin `Thermopylae`
+-------> English `Thermopylae`
+-----> Classical Greek `​​θερμοφῠ́λᾰξ` <thermophúlax>: "kettle" (lit. "heat guard")
+-----> English `thermo-`
+-----> French `thermo-`
+------> French `thermomètre`
+-------> English `thermometer`
+
+
+--> Proto-Indo-European <*gʷʰerméh₂>: "warmth" (de-adjectival noun)
+
+---> Pre-Albanian <*džerma>
+----> Albanian `zjarm`
+
+---> Hellenic <*kʷʰermá>
+----> Classical Greek `θέρμη` <thermē>
+-----> French `thermal`: "thermal" (learned coinage from Greek, 1756)
+------> English `thermal`
+
+--?> Phrygian
+----> Classical Greek `Γέρμη` <Gérmē>: "Germa, place name"
+-----> Latin `Germa`
+------> English `Germa`
+
+
+
+-> Proto-Indo-European <*gʷʰermih₂>
+
+--> Indo-Iranian <*gʰarmi>
+---> Iranian <*garmi>
+----> Western Iranian
+-----> Old Persian
+------> Persian `گرمی` <garmi>: "warmth, heat"
+
+
+-> Proto-Indo-European <*gʷʰormós>
+
+--> Balto-Slavic <*garmas>
+---> West Baltic
+----> Old Prussian `gorme`: "heat"
+
+-?> Germanic <*warmaz>: "warm #
+---> North Germanic
+----> Old Norse `varmr`: "warm"
+-----> Danish `varm`: "warm, hot"
+-----> Icelandic `varmur`: "warm (archaic)"
+---> West Germanic
+----> Old English `wearm`: "warm"
+-----> English `warm`
+----> Frankish <*warm>
+-----> Dutch `warm`: "warm, hot"
+----> Old High German `warm`
+-----> German `warm`: "warm"
+-----> Yiddish `וואַרעם` <varem>: "warm"
+
+---> Germanic <*warmijanã>: "to warm, to heat"
+----> East Germanic
+-----> Gothic `𐍅𐌰𐍂𐌼𐌾𐌰𐌽` <warmjan>: "to warm, to keep warm, to cherish"
+----> North Germanic
+-----> Old Norse `verma`: "to warm, to heat""
+------> Icelandic `verma`: "to warm, to heat"
+------> Swedish `värma`: "to warm, to heat"
+----> West Germanic <*wermijan>
+-----> Old English `werman`: "to warm, to heat"
+------> English `warm`
+-----> Frankish <*wermen>
+------> Dutch `warmen`: "to warm"
+-----> Old High German `wermen`
+------> German `wärmen`: "to warm"
+
+--> Italic <*xʷormos>: "warm"
+---> Latin `formos`: "warm (archaic)"
+---> Italic <*xʷormokaps>: "warm-catcher, tongs"
+----> Latin `forceps`: "tongs, forceps, pincers"
+-----> Western Romance
+------> Italian `forcipe`: "forceps"
+-----> English `forceps`
+
+--> Indo-Iranian <*gʰarmás>
+---> Indo-Aryan <*gʰarmás>
+----> Sanskrit `𑀖𑀭𑁆𑀫` <gharmá>: "heat, warmth, warm weather, sunshine"
+-----> Maharashtri `𑀖𑀫𑁆𑀫` <ghamma>
+------> Marathi `घाम` <ghām>: "sweat"
+-----> Pali `𑀖𑀫𑁆𑀫` <ghamma>
+-----> Sauraseni
+------> Nepali `घाम` <ghām>: "sunlight, sun, heat of the sun"
+------> Romani `kham`: "sun"
+---> Iranian <*garmáh>
+----> Avestan `𐬔𐬀𐬭𐬆𐬨𐬀` <garǝma>
+---> Northern Iranian
+----> Khotani `𑀕𑀭𑁆𑀫` <garma->
+---> Western Iranian
+----> Northwestern Iranian
+-----> Kurdish `germ`: "warm"
+----> Old Persian
+-----> Persian `گرم` <garm>: "warm, hot, friendly, passionate"
+------> Hindi `गर्म` <garm>: "warm, hot, active, fresh, angry"
+------> Malay `gêram`: "angry"
+
+
+-> Proto-Indo-European <*gʷʰornós>
+
+--> Celtic
+---> Old Irish `gorn`: "fire"
+
+
+-> Proto-Indo-European <*gʷʰr̥nós>
+
+--> Balto-Slavic <*gurnas>
+---> Slavic <*gъrnъ>
+----> East Slavic `горнъ` <gornŭ>: "cauldron, pot, oven"
+-----> Russian `горн` <gorn>: "fireplace, furnace, forge"
+----> South Slavic
+-----> Serbo-Croatian `грно` <grno>: "heart"
+----> West Slavic <*gъrnъ>
+-----> West Slavic <*gъrnьcь> (diminutive)
+------> Czech `hrnec`: "cooking pot"
+------> Polish `garnek`: "cooking pot"
+----> Slavic <*gъrnidlo>: "furnace"
+-----> East Slavic `гърнило` <gŭrnilo>
+------> Russian `горни́ло` <gornílo>: "furnace"
+-----> South Slavic
+------> Old Church Slavonic `грънилъ` <grŭnilŭ>
+------> Serbo-Croatian `грнил` <grnil>
+
+--> Indo-Iranian <*gʰr̥nás>
+---> Indo-Aryan
+----> Sanskrit `𑀖𑀾𑀡` <ghṛṇá>: "heat, ardor, sunshine"
+-----> Sanskrit `𑀖𑀾𑀡𑀸` <ghṛṇā́>: "hatred, malice"
+------> Sauraseni
+-------> Hindi `घिन` <ghin>: "hatred, scorn, contempt"
+
+--> Italic <*xʷornos>
+---> Latin `furnus`: "oven, bakery"
+----> Vulgar Latin
+-----> Sardinian `forru`: "oven"
+-----> Eastern Romance
+------> Aromanian `furnu`: "oven"
+-----> Western Romance
+------> French `four`: "oven, stove"
+-------> French `petit four`: "petit four, a small cake" #####
+--------> English `petit four`
+------> Italian `forno`: "oven, bakery"
+------> Spanish `horno`: "oven, furnace"
+-----> Albanian `furrë`: "oven, kiln, bakery"
+----> Koine Greek `φούρνος` <foúrnos>: "oven, bakery, furnace"
+-----> Aramaic `𐡐𐡅𐡓𐡍𐡀` <phurna>
+------> Arabic `فرن` <furn>: "oven, bakery, furnace"
+-------> Maltese `forn`: "oven"
+-----> Old Armenian `փուռն` <pʿuṙn>: "oven, kiln"
+------> Armenian `փուռ` <pʿuṙ>: "oven, bakery"
+-----> Turkish `fırın`: "oven"
+----> Georgian `ფურნე` <purne>: "bakery"
+----> Old Irish `sorn`: "oven, furnace, kiln"
+-----> Irish `sorn`: "furnace, stone"
+
+-----> Vulgar Latin <*furnellus> (diminutive)
+------> Sardinian `forredhu`
+------> Western Romance
+-------> Old French `fornel`
+--------> French `fourneau`: "stove, bowl of a pipe"
+-------> Italian `fornello`: "stove, burner, hot plate"
+-------> Spanish `hornillo`: "hot plate, camp stove"
+
+----> Latin `furnārius`: "baker"
+-----> Western Romance
+------> Italian `fornaio`: "baker"
+------> Italian `Furnari`: "Baker (occupational surname)" (presumably from the Latin vocative)
+------> Italian `Fornaro`: "Baker (occupational surname)"
+------> Sicilian `furnaru`
+-------> Maltese `furnar`: "baker"
+------> Spanish `hornero`: "baker, hornero (bird)"
+-------> English `hornero`
+-----> Translingual `Furnarius`: "taxonomic genus of hornero birds"
+
+---?> Latin `fornāx`: "oven, furnace, kiln" (apparently "warm-ish"?)
+-----> Western Romance
+------> Old French `fornais`: "furnace"
+-------> French `fournaise`: "furnace, oven"
+-------> English `furnace`
+-------> Irish `foirnéis`: "furnace"
+-----> Latin `Fornax`: "Roman divinity of ovens"
+------> New Latin `Fornax`: "The Furnace, a winter constellation in the Southern Hemisphere"
+-------> English `Fornax`
+
+
+-> Proto-Indo-European
+
+--> Balto-Slavic
+---> Slavic <*gȍře>: "grief, suffering"
+----> East Slavic
+-----> Russian `го́ре` <góre>: "grief, distress, trouble, disaster"
+----> West Slavic
+-----> Czech `hoře`: "grief (archaic)"
+-----> Old Polish `gorze`: "distress, woe"
+
+--> Germanic <*gurã>: "feces, filth, half-digested stomach contents"
+---> North Germanic
+----> Old Norse `gor`: "cud"
+----> Finnic <*kura>
+-----> Finnish `kura`: "mud, dirt, diarrhea"
+---> West Germanic <*gor>
+----> Old English `gor`: "dirt, dung, feces"
+-----> English `gore`
+----> Frankish
+-----> Dutch `goor`: "dirty, filthy, disgusting"
+
+
+?> Proto-Indo-European <*gʷʰrḗn>: "gut, stomach, seat of emotions and/or thought"
+
+-?> Balto-Slavic
+---> Slavic <*grě̑nь>: "blaze, rot, puss"
+----> East Slavic
+-----> Ukrainian `грянь` <hrjanʹ>
+----> South Slavic
+-----> Bulgarian `гран` <gran>: "rot"
+------> Bulgarian `грани́в` <graniv>: "rotten, a dirty yellow or orange color"
+-----> Slovene `grénək`: "bitter"
+
+--> Germanic <*gruniz>
+---> North Germanic
+----> Old Norse `grunr`: "doubt, uncertainty, suspicion"
+
+--> Hellenic
+---> Classical Greek `φρήν` <phrḗn>: "midriff, stomach, seat of emotions and appetite, seat of the mind, will"
+----> Classical Greek `Λῠκόφρων` <Lukóphrōn>: "Wolf-Mind (personal name)"
+-----> Latin `Lycophrōn`
+------> English `Lycophron`
+----> Classical Greek `σώφρων` <sṓphrōn>: "of sound mind, sane, prudent, sober"
+-----> Classical Greek `σωφροσῠ́νη` <sōphrosúnē>: "moderation, sanity, self-control, temperance"
+------> English `sophrosyne`
+----> Classical Greek `φρονέω` <phronéō>: "I think, I understand, I am prudent, I consider"
+-----> Classical Greek `φρόνησῐς` <phrónēsis>: "prudence, wisdom"
+------> English `phronesis`
+----> Classical Greek `φρενῖτις` <phrenîtis>: "inflammation of the mind, inflammation of the brain"
+-----> Latin `phrenītis`
+------> English `phrenitis`
+-----> Classical Greek `φρενῑτικός` <phrenītikós>
+------> Latin `phrenēticus`: "mad, delirious"
+-------> Old French `frenetike`
+--------> French `frénétique`: "frenetic, frantic"
+--------> English `frantic`
+--------> English `frenetic`
+------> Classical Greek <*phrénēsis> (variant of <phrenītikós>)
+-------> Latin `phrenesis`: "madness, delirium, frenzy"
+--------> Old French `frenesie`
+---------> French `frénésie`: "frenzy"
+---------> English `frenzy`
+
+-?> Italic <xrēn> ###### 
+---> Latin `rēn`: "kidney"
+----> Vulgar Latin <*rene>
+-----> Eastern Romance
+------> Romanian `rână`: "the two sides of the body"
+-----> Western Romance
+------> French `rein`: "kidney, lower back, waist"
+-----> Albanian `rrâni`: "kidney"
+
+-----> Vulgar Latin <*rēniō>
+------> Western Romance
+-------> French `rognon`: "kidney (cooking)"
+--------> Italian `rognone`: "kidney (cooking)"
+-------> Spanish `riñón`: "kidney, hematite"
+
+-----> Vulgar Latin <*renicāre>
+------> Vulgar Latin <*derenicāre>
+-------> Eastern Romance
+--------> Romanian `a dărâna`: "to wear out, to exhaust"
+-------> Western Romance
+--------> Italian `direnare`
+--------> Spanish `derrengar`: "to bend, to twist, to wear out"
+
+----> Latin `rēnālis`: "of the kidneys"
+-----> English `renal`
+------> English `adrenal`
+-------> English `adrenaline` ####
+
+----> Latin `rēniculus`
+-----> Vulgar Latin <rēniclus>
+------> Sardinian `arrigu`
+------> Eastern Romance
+-------> Romanian `rinichi`: "kidney"
+
+endbody
+
+
+startnotes
+
+# In Latin, *bʰ- and *gʷʰ- merge at the beginning of words to *f-, which makes it difficult to distinguish between words derived from <*gʷʰer->: "warm, hot" versus from <*bʰrewh₁->: "to boil, to bubble"; and there are not other Italic examples of any of these words.
+
+In Germanic, *gʷʰ can becomes any of *gw, *g, *w, or *b; and there is debate as to which conditions lead to which reflex. If *gʷʰ regularly becomes *w, then <*warmaz> is a regular descendant of <*gʷʰer-> and <*brinnanã> would come from <*bʰrewh₁->, not <*gʷʰer->. If *gʷʰ becomes *w only between vowels, and *b at the beginning of words, then <*brinnanã> is indeterminate between <*gʷʰer-> and <*bʰrewh₁->, like Italic reflexes; and <*warmaz> is either irregular or from <*wer->: "to burn". But as far as I know, the root <*wer->: "to burn" is a pretty marginal root: only confidently found in Balto-Slavic, with possible a reflexe in Hittite `𒉿𒊏` <wa-ar> as well as Germanic <*warmaz>.
+
+In particular, Germanic <*bermô>: "yeast, leavening" and Latin `fermentum`: "fermentation, yeast, levening"—clearly related to each other—fit semantically better with <*bʰrewh₁->: "to boil, to bubble, to brew", but better phonetically with <*gʷʰer->: "warm, hot". The trouble is, each of them is … plausible, without being instinctive.
+
+## The pass of Thermopylae is named "Hot Gates" after the sulfur hot springs in pass. Interesting note, all names for the pass in other languages that I know of are purely phonetic renderings except 2. Icelandic `Laugaskarð`: "Bath-Notch" and Mandarin Chinese `温泉关` <wēnquán guān>: "Hot Spring Border-Pass", or possibly "Spa Check-Point".
+
+
+### Hungarian `zsarátnok`: "embers" comes from South Slavic—Serbo-Croatian `жа̑р` <žȃr>: "fervor, embers" or a close relative thereof. The "-noc" is a common noun-formation suffix in Hungarian, generalized from borrowed Slavic "-nik"-type words like Serbo-Croatian `bȏjnīk` to Hungarian `bajnok`. The -at- is a little more confusing. It could be one of the four or more `-a-t` derivational suffixes in Hungarian, or a piece of Slavic morphology; Hungarian sometimes has `-at` for in borrowings from Slavic <*-dlo>, for example (`garat`, `lapát`).
+
+#### The adrenal glands are next to the kidneys, thus `ad-renal`. `Adrenaline` was named by the Japanese chemist `高峰 譲吉` <Takamine Jōkichi> in 1901 (working in English after he had emigrated to the United States).
+
+##### The name `petit four` (a kind of small cake) means literally "small oven" in French. The name comes from a time when bakers used large brick ovens that heated up and cooled down slowly. When the oven was heating up with the fire going full, that was baking `à grand four`, "in the big oven"; when the oven was cooling down afterward, small pastries could be baked using only the residual heat, which was called baking `à petit four`, "in the small oven". Petit fours were originally baked à petit four, and retained the name.
+
+###### Latin `rēn`: "kidney" may be from Proto-Indo-European <*gʷʰrḗn>: "gut, stomach, seat of emotions and/or thought", as Greek <phren>, Norse `grunr`, and <*grěnь>. The loss of rounding in front of the *r is probably regular (*gʷʰr- to *xr-, as opposed to *gʷʰe- to xʷe-), but there are very few other examples to compare to.
+
+Alternatively, `rēn` could be from a root approximately like *h₂er- together with Hittite `𒄩𒄩𒊑` <ḫaḫri->: "lungs, chest" (from a reduplicative form, <h₂eh₂r->), Kushean <arañce>: "heart, seat of emotion" (Proto-Tocharian <*ār-(e)-äñce>), and Welsh `aren`: "kidney" (Celtic <*ārū>)
+
+endnotes

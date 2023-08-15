@@ -1,0 +1,483 @@
+date: 20230727
+tags: Magic, SI Units, Toponymy
+
+
+
+startbody
+
+
+Early Proto-Indo-European
+
+
+-> Anatolian 
+--> Hittite `𒆪𒂊𒅕𒍣` <ku-e-er-zi>: "cuts, cuts up, cuts off"
+--> Cuneiform Luwian `𒆪𒉿𒅈𒋾` <ku-wa-ar-ti>: "to cut"
+---> Cuneiform Luwian `𒆳𒊭𒀸𒊭𒀭` <kur-ša-aš-ša-an>: "(military) division?"
+
+
+
+-> Proto-Indo-European <*kʷer->: "to do, to make, to build, to cause by magic"
+
+
+--> Proto-Indo-European <*kʷért> (root perfective)
+
+
+---> Celtic <*kʷert>
+----> Brythonic <*perɨd>
+-----> Welsh `peri`: "to cause"
+------> Welsh `peiriant`: "machine, engine"
+
+---> Indo-Iranian <*kárt>
+----> Indo-Iranian <*Hákart> (with augment aorist)
+-----> Indo-Aryan <*Hákart>
+------> Sanskrit `𑀅𑀓𑀭𑁆` <ákar>: "done, made" (aorist)
+-----> Iranian <*Hákart>
+------> Avestan `𐬗𐬋𐬭𐬆𐬝` <cōrᵊt̰> (aorist)
+------> Northern Iranian
+-------> Ossetian `кӕнын` <kænyn>: "to do"
+------> Pashto `کول` <kawә́l>: "to do, to make"
+------> Western Iranian
+-------> Northwestern Iranian
+--------> Kurdish `kirin`: "to do, to make"
+-------> Old Persian `𐎠𐎤𐎢𐎫𐎠` <a-ku-u-t-a>
+--------> Persian `کردن` <kardan>: "to do, to make"
+---------> Persian `ـکردن` <-kardan> (derives verbs from nouns)
+----------> Persian `کار کردن` <kâr kardan>: "to work, to function"
+
+
+
+
+---> Proto-Indo-European <*kʷern̥ts> (participle of root prefective)
+
+---?> Hellenic
+-----> Classical Greek `τέρας` <téras>: "marvel, wonder, omen, portent, monster" (oblique stem `τερατ-`=grc-Grek <terat->
+------> Greek `τέρας` <téras>: "monster"
+------> Classical Greek `τεράστιος` <terástios>
+-------> Greek `τεράστιος` <terástios>: "huge, monstrous"
+
+------> English `teras`
+-------> English `terato-`
+--------> English `teratogenic`
+-------> New Latin `tera-`: "SI prefix for multiplying by 10¹²"
+--------> English `tera-`
+--------> English `terahertz`
+--------> English `tebi-`
+
+--> Proto-Indo-European <*kʷr̥ti>
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `kùrti`: "to light, to build, to create, to establish"
+----> West Baltic
+-----> Old Prussian `kūra`: "he built" (only attested as 3rd sing. past.; identical to the same conjugation of  Lithuanian `kùrti`)
+
+
+--> Proto-Indo-European <*kʷr̥néwti> (imperfective)
+
+---> Indo-Iranian <*kr̥náwti>
+----> Indo-Aryan
+-----> Dardic
+------> Kalasha `karik`: "to do, to say, to make"
+------> Kashmiri `کَرُن` <karun>: "to do"
+-----> Vedic Sanskrit `𑀓𑀾𑀡𑁄𑀢𑀺` <kṛṇóti>: "does, makes"
+------> Sanskrit `𑀓𑀭𑁄𑀢𑀺` <karóti>
+-------> Elu
+--------> Dhivehi `ކުރަނީ` <kuranī>: "to do, to work"
+--------> Sinhala `කරනවා` <karanawā>: "to do"
+-------> Magadhi
+--------> Bengali `করা` <kôra>: "to do"
+--------> Rohingya `gor`: "to do"
+-------> Maharashtri
+--------> Marathi `करणे` <karṇe>: "to do"
+-------> Pali `𑀓𑀭𑁄𑀢𑀺` <karoti>: "to create, to do, to act"
+-------> Sauraseni `𑀓𑀭𑁂𑀤𑀺` <karedi>
+--------> Madhya Sauraseni
+---------> Hindi `करना` <karnā>: "to do, to make, to work, to hire"
+----------> Hindi `-करना` <-karnā>: "derives verbs from nouns and adjectives"
+--------> Western Sauraseni
+---------> Gujarati `કરવું` <karvũ>: "to do"
+---------> Romani `kerel`: "to do, to make, to produce"
+
+----> Iranian
+-----> Avestan `𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌` <kᵊrənaoᶤti>: "makes, does"
+-----> Western Iranian
+------> Old Persian `𐎤𐎢𐎴𐎢𐎫𐎡𐎹` <ku-u-n-u-t-i-y>: "does"
+
+----> Nuristani <*kunóti>
+-----> Ashkun `ko`
+-----> Kamviri `ku`
+
+
+--> Proto-Indo-European <*kʷoréyeti> (causative)
+
+---> Indo-Iranian <*kāráyati>
+----> Indo-Aryan
+-----> Sanskrit `𑀓𑀸𑀭𑀬𑀢𑀺`: "to cause to do, to make someone do"
+------> Elu
+-------> Sinhala `කාර්යය` <kāryaya>
+
+
+--> Proto-Indo-European <*kʷr̥tós>: "done, made" (adjective)
+
+---> Celtic <*kʷritos>
+---?> Celtic <*kʷritanī>
+-----> Early Brythonic <*Prɨtanī>
+------> Classical Greek `Πρεττανία` <Prettanía>: "Britain"
+-------> Latin `Britannia`
+--------> Western Romance
+---------> Old French `Bretaigne`
+----------> English `Britain`
+----------> English `Brittany`
+
+------> Brythonic <*Prɨdėn>
+-------> Welsh `Prydain`: "Britain"
+-------> Latin `Brittō` (oblique stem `Brittōn-`)
+--------> Western Romance
+---------> French `Breton`
+--------> English `Briton`
+---------> English `Brittonic`
+-------> Brythonic <*Brɨθon>: "Briton"
+--------> Breton `brezhon`: "Breton
+---------> Breton `brezhoneg`: "Breton (language)"
+--------> Welsh `Brython`
+---------> Welsh `Brythoneg`
+----------> English `Brythonic`
+
+
+-----> Celtic <*kʷritenī> (variant)
+------> Brythonic
+-------> Welsh `Prydyn`: "Picts"
+------> Old Irish
+-------> Irish `Cruthne`: "Picts"
+
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀓𑀾𑀢` <kṛtá>: "done, made, prepared, deed, work"
+------> Hindi `कृत` <kŕt>: "done, complete, work, project"
+------> Telugu `కృతము` <kr̥tamu>: "act, deed, done, complete"
+
+----> Iranian <*kr̥táh>
+-----> Avestan `𐬐𐬆𐬭𐬆𐬙𐬀` <kərᵊta>: "done"
+-----> Western Iranian <*karta>
+------> Old Persian `𐎣𐎼𐎫` <k-r-t>
+
+------> Western Iranian <*-karta>: "made by, founded by, suffix in place names"
+-------> Northwestern Iranian
+--------> Parthian `-𐭊𐭓𐭕` <-gird⁠>
+
+---------> Old Armenian `-կերտ` <-kert>: "founded by, made of"
+----------> Old Armenian `չակերտ` <čʿakert>: "quotation marks, guillemet" (lit. "made from չ čʿ")
+-----------> Armenian `չակերտ` <čʿakert>: "quotation marks, guillemet"
+
+----------> Old Armenian `Տիգրանակերտ` <Tigranakert>: "place name, Founded-by-Tigranes"
+-----------> Koine Greek `Τιγρανόκερτα` <Tigranόkerta>
+------------> Latin `Tigranocerta`
+-------------> English `Tigranocerta`
+-----------> Armenian `Տիգրանակերտ` <Tigranakert>
+------------> English `Tigranakert`
+
+----------> Armenian `-կերտ` <-kert>
+-----------> Armenian `Ստեփանակերտ` <Stepʿanakert>: "place name, Founded-by-Stepan (Shaumian)"
+------------> English `Stepanakert`
+
+---------> Parthian `𐭃𐭎𐭕𐭊𐭓𐭕` <dastgird⁠>: "estate"
+----------> Old Armenian `դաստակերտ` <dastakert>: "estate"
+
+---------> Parthian `𐭅𐭓𐭅𐭃𐭊𐭓𐭕` <Wērōdgird>: "place name, Founded-by-Orodes"
+----------> Persian `بروجرد` <Borūjerd>
+-----------> English `Borujerd`
+
+-------> Old Persian <*-karta>
+--------> Old Persian <*Zardakarta?>: "place name, Made of Yellow? Founded-by-Starlings?"
+---------> Classical Greek `Ζαδρακάρτα` <Zadrakarta>
+----------> Latin `Zadracarta`
+-----------> English `Zadracarta`
+
+--------> Persian `ـگرد` <-gerd>
+---------> Persian `سوسنگرد` <Susangerd>
+----------> English `Susangerd`
+
+
+
+--> Proto-Indo-European <*kʷr̥yos>
+
+---> Celtic <*kʷaryos>: "cauldron"
+----> Brythonic <*pėr>
+-----> Welsh `pair`: "cauldron, boiler, furnace"
+----> Gaulish <*parios>: "cauldron"
+-----> Vulgar Latin <*parium>: "cauldron"
+------> Western Romance 
+-------> Catalan `pèr`: "cauldron"
+------> Vulgar Latin <*pariolum>
+-------> Central Romance
+--------> Italian `paiolo`: "copper cooking pot, cauldron"
+-------> Western Romance
+--------> Catalan `perol`: "cauldron"
+---------> Spanish `perol`: "cauldron"
+
+-----> Gaulish <*Parii-?->: "of the cauldron?" (possibly referencing hot springs? [wff-brew|compare `Bourbon`=fra-Latn and `Worms`=deu-Latn])
+------> Latin `Parīsiī`: "Parisii, a Gaulish ethnicity"
+-------> Latin `Lutetia Parīsiōrum`: "place name: Lutetia of the Parisii" (with `Lutetia`=lat-Latn, place name from Gaulish <*lutos>: "swampy", related to Latin `lutum`=lat-Latn: "dirt, mud")
+--------> Western Romance
+---------> Old French `Paris`
+----------> French `Paris`
+----------> English `Paris`
+----> Old Irish `coire`: "cauldron"
+-----> Irish `coire`: "cauldron, boiler, corrie, whirlpool, pit"
+-----> Scottish Gaelic `coire`: "kettle, cauldron, boiler, corrie, whirlpool"
+------> English `corrie`
+
+
+
+--> Proto-Indo-European <*kʷḗrs> (root noun, lengthened acrostatic)
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `kẽras`: "divination, enchantment, sorcery"
+----> Slavic <*čarъ>: "magic, sorcery"
+-----> East Slavic <čarŭ>
+------> Russian `чары` <čary>: "spell, magic, charm"
+------> Ukrainian `чар` <čar>
+-----> South Slavic
+------> Bulgarian `чар` <čar>
+------> Serbo-Croatian `чар` <čar>: "charm, allure, spell, magic"
+-----> West Slavic
+------> Polish `czar`: "spell, magic, charm, allure"
+
+-----> Slavic <*čarodějь>: "magician, wizard" (lit. "magic-doer")
+------> East Slavic <čaroděi>
+-------> Russian `чародей` <čarodej>: "magician, wizard"
+-------> Ukrainian `чародій` <čarodij>: "magician, wizard"
+------> South Slavic
+-------> Bulgarian `чародей` <čarodej>: "magician, wizard"
+------> West Slavic
+-------> Czech `čaroděj`: "magician, wizard"
+-------> Polish `czarodziej`: "magician, wizard"
+
+
+
+--> Proto-Indo-European <*kʷérmn̥>: "deed, action" (action/result noun)
+
+---> Indo-Iranian <*kárma(n)>
+----> Indo-Aryan <*kárma(n)>
+-----> Dardic
+------> Kalasha `krom`: "work"
+------> Kashmiri `کٲم` <kạ̄m>: "work, labor, task, action"
+-----> Sanskrit `𑀓𑀭𑁆𑀫𑀦𑁆` <kárman>: "action, work, obligation, result, action leading to inevitable results, fate, karma, grammatical object"
+------> Prakrit `𑀓𑀫𑁆𑀫` <kamma>
+-------> Elu
+--------> Dhivehi `ކަން` <kan̊>: "action, work, verb, necessity"
+--------> Sinhala `කම` <kama>
+-------> Magadhi
+--------> Bengali `কাম` <kam>: "work, job, function"
+--------> Rohingya `ham`: "work"
+-------> Maharashtri `𑀓𑀫𑁆𑀫` <kamma>
+--------> Old Marathi ` 𑘎𑘰𑘦` <kāma>
+---------> Marathi `काम` <kāma>: "work, duty, function"
+-------> Pali `𑀓𑀫𑁆𑀫` <kamma>: "deed, action, work, karma, ceremony"
+--------> Khmer `កម្ម` <kam>: "deed, action, activity, karma, consequence, fate"
+---------> Khmer `កម្មករ` <kamkɑɑ>: "worker, laborer"
+---------> Khmer `សហពលកម្ម` <saʼhaʼpŭəllĕəʼkam>: "coallition" (lit. "together-strength-action")
+--------> Thai `กรรม` <gam>: "death, action, deed, ceremony, sin, misfortune, karma, grammatical object"
+-------> Sauraseni `𑀓𑀫𑁆𑀫` <kamma>
+--------> Madhya Sauraseni
+---------> Hindi `काम` <kām>: "work, task, job, function"
+--------> Punjabi `ਕੰਮ` <kamm>: "work, task, job"
+------> Bengali `কর্ম` <kormo>: "deed, action, karma, fate, consequence"
+------> Middle Chinese `羯磨` <kɨɐt̚  muɑ>: "karma"
+-------> Mandarin `羯磨` <jiémó>: "karma (archaic)"
+-------> Japanese `羯磨` <katsuma>: "karma"
+------> English `karma`
+------> Hindi `कर्म` <karm>: "action, fate, karma, grammatical object, accusative case"
+------> Japanese `カルマ` <karuma>: "karma"
+------> Kushean <kārm>: "karma, deed"
+------> Malay `karma`
+------> Portuguese `carma`: "karma"
+------> Sinhala `කර්ම` <karma>: "karma"
+------> Telugu `కర్మ` <karma>: "action, deed, grammatical object"
+------> Telugu `కర్మము` <karmamu>: "action, deed"
+
+
+
+--> Proto-Indo-European <*kʷóros> (agentive)
+
+---> Indo-Iranian <*kā́ras>
+----> Indo-Aryan
+-----> Sanskrit `𑀓𑀭` <kara>: "doer, maker, hand, tax"
+------> Pali `𑀓𑀭` <kara>
+-------> Khmer `ករ` <kɑɑ>: "doer, -er, agentive suffix"
+--------> Khmer `កម្មករ` <kamkɑɑ>: "worker, laborer"
+------> Hindi `कर` <kar>: "hand, arm, tax"
+------> Sanskrit `𑀓𑀭𑀺𑀦𑁆` <karin>: "elephant" (lit. "handed, having a hand", parallel to `𑀳𑀲𑁆𑀢𑀺𑀦𑁆` <hastín> same meanings)
+-------> Hindi `करी` <karī>: "elephant"
+
+----> Iranian <*kā́rah>
+-----> Western Iranian
+------> Persian `کار` <kâr>: "work, deed, job, business"
+-------> Gulf Arabic `كار` <kār>: "busy, busy person, hard worker"
+-------> Ottoman Turkish `كار` <kâr>: "business, profit, gain"
+--------> Turkish `kâr`: "profit"
+--------> Armenian `քյար` <kʿyar>: "gain, profit"
+
+-------> Persian `ـگر` <-gar>: "doer, -er, agentive suffix"‎
+
+-------> Persian `کار کردن` <kâr kardan>: "to work, to function"
+-------> Persian `کارخانه` <kârxâne>: "factory, workshop" (lit. "work-house")
+--------> Georgian `ქარხანა` <karxana>: "factory"
+--------> Hindi `कारख़ाना` <kārxānā>: "workshop, factory"
+--------> Ottoman Turkish `كارخانه` <kârhane>: "factory, workshop, brothel" ("brothel" meaning perhaps by merger with Persian `قر`=far-Aran <qar>)
+---------> Turkish `kerhane`: "brothel"
+---------> Romanian `cherhana`: "fishery"
+
+
+
+
+
+
+
+--> Proto-Indo-European <*kʷerōr> (agentive?)
+
+--?> Hellenic <*qelōr>
+----> Classical Greek `πέλωρ` <pélōr>: "monster, monstrously large animal" (variant form <télōr>)
+-----> Classical Greek `πελώριος` <πελώριος>: "monstrous, prodigious, huge"
+------> Greek `πελώριος` <pelórios>: "huge, gigantic"
+
+
+
+--> Proto-Indo-European <*kʷértis> (abstract/action noun)
+
+---> Indo-Iranian <*kŕ̥tiš>
+----> Indo-Aryan
+-----> Sanskrit `𑀓𑀾𑀢𑀺` <kṛtí>: "action, creation, work, magic"
+------> Sauraseni
+-------> Punjabi `ਕਿਰਤ` <kirat>: "work, labor, business"
+
+
+
+--> Proto-Indo-European <*kʷértus> (action noun, oblique stem <*kʷr̥téws>)
+
+---> Celtic <*kʷritus>
+----> Brythonic <*prɨd>
+-----> Welsh <pryd>: "shape, form, appearance, time, mealtime, when"
+----> Old Irish `cruth`: "shape, form"
+-----> Irish `cruth`
+------> Irish `-chruthach`: "-(i)form, having the shape of"
+
+
+
+
+--> Proto-Indo-European <*kʷéros> (abstract/action noun)
+
+---> Germanic <*hweraz>: "cauldron"
+----> East Germanic
+-----> Gothic <*ƕair>: "cauldron? pot? name of the letter 𐍈" (recorded by Alcuin as `uuaer`=lat-Latn)
+----> North Germanic
+-----> Old Norse `hverr`: "cauldron, boiler, hot spring"
+------> Icelandic `hver`: "hot spring"
+----> West Germanic
+-----> Old English `hwer`: "kettle"
+
+---> Indo-Iranian <*káras>
+----> Iranian <*kárah>
+----> Iranian <*patikárah>
+-----> Northern Iranian
+------> Sogdian `𐫛𐫤𐫐𐫀𐫡𐫀` <ptkʻrʻ>
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Parthian `𐭐𐭃𐭊𐭓` <pdkr>: "image, statue"
+--------> Old Armenian `պատկեր` <patker>: "icon, image, painting, likeness, face, doll, symbol, plan"
+---------> Armenian `պատկեր` <patker>: "portrait, likeness, resemblance, shape, icon"
+----------> Armenian `եռապատկեր` <eṙapatker>: "triptych"
+------> Old Persian `𐎱𐎫𐎡𐎣𐎼` <p-t-i-k-r>: "picture, statue, representation"
+-------> Middle Persian `𐭯𐭲𐭪𐭫` <patkar>
+-------> Persian `پیکر` <peykar>
+-------> Aramaic
+--------> Classical Syriac `ܦܬܟܪܐ` <pəṯaḵrā>: "idol, image"
+--------> Arabic `فتكر` <fitakr>: "something intense or bad, calamity, misfortune" (from pejorative use of "idol")
+-------> Elamite `𒁁𒋾𒆳𒌇` <bat-ti-kur-raš> (probably a proper name from Old Persian)
+
+
+--> Proto-Indo-European <*kʷóryos>
+
+---> Indo-Iranian <*kā́ryas>
+----> Indo-Aryan
+-----> Sanskrit `𑀓𑀸𑀭𑁆𑀬` <kāryà>: "act, work, result, goal, to be done, proper"
+------> Prakrit `𑀓𑀚𑁆𑀚` <kajja>
+-------> Magadhi
+--------> Bengali `কাজ` <kaj>: "work, effort, job, duty"
+-------> Sauraseni
+--------> Madhya Sauraseni
+---------> Hindi `काज` <kāj>: "task, work, goal, purpose"
+--------> Western Sauraseni
+---------> Gujarati `કાજ` <kāj>: "work, business, goal, purpose"
+------> Hindi `कार्य` <kārya>: "work, task, action, job"
+------> Malay `kerja`: "work, job, to work"
+------> Tamil `காரியம்` <kāriyam>: "task, deed, effect, result, final rites"
+----> Iranian
+-----> Avestan `𐬐𐬀𐬌𐬭𐬌𐬌𐬀` <kaᶤriia>
+
+
+--> Proto-Indo-European <*kʷēreh₂>
+
+---> Balto-Slavic
+----> Slavic <*čara>: "bowl, drinking bowl"
+-----> East Slavic
+------> Russian `чара` <čara>: "cup, glass, bowl, goblet (archaic)"
+-------> Russian `чарка` <čarka>: "cup, glass, unit of liquid volume" (diminutive)
+-------> Polish `czara`: "bowl, cup, goblet"
+------> Ukrainian `чара` <čara>
+
+--> Proto-Indo-European <*kʷernos>
+
+---> Balto-Slavic
+----> Slavic <*čẽrnъ>: "stem, offshoot, handle"
+-----> East Slavic
+------> Russian `черен` <čeren>: "handle (archaic)"
+-------> Russian `черенок` <čerenok>: "handle, hilt, stalk"
+-------> Russian `черешок` <čerešok>: "handle, stalk"
+------?> Russian `Черенков` <Cherenkov>: "surname"
+--------> English `Cherenkov radiation`
+-----> South Slavic
+------> Bulgarian `чрен` <čren>
+------> Serbo-Croatian `черјен` <čerjen>
+-----> West Slavic
+------> Czech `čeřen`
+------> Polish `trzon`: "stem, stalk, trunk, nucleus"
+-------> Polish `trzonowiec`: "molar"
+-------> Czech `třeň`: "stem (especially of a mushroom)"
+
+--> Proto-Indo-European <*kʷer-?->
+
+---> Tocharian <*kar-?->: "cauldron? drum" #
+----> Arshian <karel>: "drum"
+----> Kushean <kerū>: "drum"
+
+
+--> Proto-Indo-European <*kʷerH-> (root extension?)
+
+---> Proto-Indo-European <*kʷerHeh₂>
+
+----> Pre-Albanian <*tšerkā>
+-----> Albanian `sarkë`: "building, frame"
+
+
+
+
+endbody
+
+
+
+
+
+
+
+
+startnotes
+
+# The common Tocharian ancestor of Arshian <karel> and Kushean <kerū>—both attested with the meaning "drum"—probably meant "cauldron" at one point and then "drum shaped like a cauldron", based on the parallels in Russian `чара`=rus-Cyrl <čara>, Irish `coire`=gle-Latn, Icelandic `hver`=isl-Latn, Sanskrit `𑀘𑀭𑀽`=san-Brah <carū>, etc..
+
+
+
+
+endnotes

@@ -1,0 +1,404 @@
+date: 20180601
+Theme: Celtic Iron Age
+Tags: Elements
+
+startintro
+
+June's theme is linguistic effects of the Celtic Hegemony of the early Iron Age. The rest of the month will focus on words that were borrowed from Gaulish into Latin (things like very iconic Latin word <gladius> being borrowed from Gaulish, which appears in today's), but I'm going to start out with exploring some of the names of Celtic peoples. This was originally going to be a compare and contrast of two different families, but it ballooned into 3-4.
+
+There are 3 interesting take aways from this:
+The fairly ridiculous fact that Latin word `Gallus`/`Gallia` is unrelated to the French `Gaule`/`Gaulois` (whence English `Gaul`) of the same meaning. The regular descendant in French of `Gallia` would be `Jaille`, which does in fact appear in a handful of place names in western France, e.g. La Jaille-Yvon, Saint-Mars-la-Jaille. `Gaule` is from Frankish instead, and is cognate to English `Wales`.
+The geographical breadth of Celtic peoples in the Iron Age, from Turkey to Portugal.
+From our perspective on this time period, we tend to group the Celtic peoples in with the Germanic people of the era, as the barbarians. In many languages at the time, the Celtic peoples were grouped instead with the Romans; In many ways this is a more accurate classification.
+
+`Celt`/`Keltoi`/`Celtae` may be from the same origin as `Gallus`, but might not. I present `Celt` and `Gallus` from two different sources here, but both are uncertain, being only attested in borrowings and not in any native forms. Either could actually be from the source shown for the other.
+
+The Irish `Gael` is from another source again: Proto-Celtic <*wēdelos>: "woodsy, woodsman".
+
+Nota Bene: Even just within English words, descendants of <*walhaz> refer to foreigners of at least three different branches of Indo-European: Celtic (the Welsh), Italic (the Walloons and Wallachians), and Indo-Iranian (the Vlax Romani).
+
+Nota Bene 2: In Irish <Gael> means "Irish", <gall> means "not Irish". `Gall-Ghàidheal` (English `Galloway`) is a compound of the two meaning "Foreign-Irish", the Gaelic-speaking descendants of Norse settlers in south-west Scotland.
+
+
+endintro
+
+startbody
+
+Proto-Indo-European <*gelH-?>
+
+?> Celtic <*galā>: "valor, ability"
+--> Brythonic
+---> Welsh `gallu`: "ability, might, power"
+--> Old Irish `gal`: "valor, fighting spirit"
+---> Irish `gal`: "valor, fury, steam"
+----> Irish `láth gaile`: "warrior"
+----> Irish `tuirbín gaile`: "steam turbine"
+
+--> Gaulish <?> (tribe name meaning "valorous"?)
+--?> Classical Greek `Γᾰλᾰ́της` <Galátēs>: "Galatian, Gaul
+----> Classical Greek `Γᾰλᾰτῐ́ᾱ` <Galatíā>: "Galatia, Gaul"
+-----> Latin `Galatia`: "Galatia" (place in Asia Minor settled by Celtic peoples around 4th C BCE)
+------> English `Galatia`
+-------> English `Galatians`
+
+--?> Latin `Gallia` (from a Gaulish tribe name meaning "valorous"?)
+----> Western Romance
+-----> French `Jaille`
+------> French `Saint-Mars-la-Jaille`: "place name" (lit. "Holy Mars the Gaul")
+------> French `La Jaille-Yvon`: "place name" (lit. "The Gaul-Yew")
+----> Classical Greek `Γᾰλλῐ́ᾱ` <Gallíā>: "Gaul"
+-----> Greek `Γαλλία` <Gallía>: "France"
+----> Old Irish `gall`: "foreigner, Gaul, Norseman"
+-----> Irish `gall`: "foreigner, Gaul, Norman, Englishman, Anglified Irish person"
+-----> Welsh `gelyn`: "enemy, foe"
+-----> Old Irish 
+------> Irish `Dún na nGall`: "Donegal" (lit. "Fort of the Norsemen")
+-------> English `Donegal`
+-----> Old Irish `gall óglaigh`: "foreign/norse warrior, gallowglass"
+------> Irish `gallóglaigh`: "gallowglass"
+-------> English `gallowglass`
+-----> Old Irish `Gall-Goídel`: "Norse-Irish, foreign-Irish" (Gaelic speaking descendants of Norse settlers)
+------> Scottish Gaelic `Gall-Ghàidhealaibh`
+-------> English `Galloway`
+-----> Old Irish
+------> Irish `Dubhghall`: "Dark-(haired)-Norseman/Foreigner" (personal name)
+-------> English `Dougal`
+-------> Irish `Ó Dubhghaill`: "descendant of Dubhghall" (surname)
+--------> English `(O')Doyle`
+----> New Latin `gallium`
+-----> Translingual `Ga`
+-----> English `gallium`
+
+--?> Latin `Gallaeci`
+----> Latin `Gallaecia`: "land of the Gallaeci"
+-----> Western Romance
+------> Spanish `Galicia`
+-------> English `Galicia`
+---?> Latin `Callus` (a city in Gallaecia)
+------> Latin `Portus Callus`: "Port of Callus"
+-------> Western Romance
+--------> Portuguese `Porto`
+---------> English `port (wine)`
+-------> Portuguese `Portugal`
+--------> English `Portugal`
+
+
+Proto-Indo-European <*gʷʰe(H?)lk?>: "hawk?" #
+
+?> Celtic <*wolkos>: "hawk?" #
+--> Brythonic
+---> Welsh `gwalch`: "hawk, rogue, rascal" #
+-?> Gaulish <Uolk-?> (tribe name of unknown native form) #
+---> Latin `Volcae`: "Gaulish tribe"
+---> Germanic <*walhaz>: "foreigner, southerner, speaker of a Celtic or Romance language"
+
+----> East Germanic
+-----> Gothic <*walhs>
+------> Slavic <*vòlxъ>: "Roman, Romance speaker"
+-------> East Slavic `волохъ` <voloxŭ>
+--------> Russian `волох` <volox>: "Romanic person, Italian, Romanian" (archaic)
+-------> South Slavic
+--------> Serbo-Croatian `Вла̏х` <Vlȁh>: "Vlach/Romanian, an (Eastern) Orthodox Christian (perjorative), Italian (archaic)"
+---------> Hungarian `olasz`: "Italian"
+--------> Old Church Slavonic `влахъ` <vlaxŭ>
+---------> Byzantine Greek `Βλάχος` <Blákhos>: "Eastern Romance speaker, Vlach"
+----------> Greek `Βλάχος` <Vláchos>: "Vlach/Romanian"
+----------> Turkish `Eflak`: "Wallachia"
+---------> Hungarian `oláh`: "Vlach/Romanian"
+---------> English `Vlach`
+----------> English `Vlax`
+-------> West Slavic
+--------> Polish `Włoch`: "an Italian"
+---------> Polish `Włochy`: "Italy"
+-------> German `Walachei`: "Wallachia"
+--------> English `Wallachia`
+
+----> North Germanic
+-----> Old Norse `Valir`: "Southerners, Celts, Romans"
+------> Old Norse `Valland`: "Land of the Celts/Romans, Gaul" ##
+
+----> West Germanic
+-----> Old English `wealh`: "foreigner, Celt, Welshman, slave, serf"
+------> Old English `Wealas`: "foreigners, the Welsh, Wales"
+-------> English `Wales`
+-------> Old English `Cornwealas`: "the Cornish Welsh, Cornwall"
+--------> English `Cornwall`
+-----> Old High German `walh`
+------> German `Walen-`
+-------> German `Walensee`: "place name" (lit. "Roman Sea")
+-------> German `Walchwil`: "place name" (lit. "Romanville"?)
+-----> Frankish <*walh>
+------> French `Gaule`: "Gaul"
+-------> English `Gaul`
+------> Dutch `Waal` (river in Netherlands)
+------> Walon `walon`: "endonym" (French-speakers in Belgium)
+-------> French `wallon`: "French-speakers in Belgium, walloon"
+--------> English `Walloon`
+
+----> Germanic <*walhiskaz>: "foreign, Celtic, Roman"
+-----> North Germanic
+------> Old Norse
+-------> Swedish `välsk`: "southern, foreign, esp. French or Italian"
+-----> West Germanic
+------> Old English `wilisċ`: "foreign, not English, esp. Celtic/British/Welsh"
+-------> English `Welsh`
+------> Frankish <*walsk>
+-------> Dutch `Waals`: "Walloon"
+------> Old High German `walahisc`
+-------> German `welsch`: "pertaining to Romance-speaking parts of Switzerland, Welsh, foreign"
+--------> English `welsh onion` (generic sense of "foreign", being from China not Wales)
+--------> German `Rotwelsch`: "a cant from southern Germany" (lit. "red-foreign", where "red" is used to mean "beggar, itinerant")
+---------> English `Rotwelsch`
+
+----> Germanic <*walhahnuts>: "walnut" ###
+-----> North Germanic
+------> Old Norse `valhnot`: "walnut"
+-------> Danish `valnød`: "walnut"
+-------> Icelandic `valhneta`: "walnut"
+-----> West Germanic
+------> Old English `walhhnutu`: "walnut"
+-------> English `walnut`
+------> Frankish
+-------> Dutch `walnoot`: "walnut"
+------> Old High German
+-------> German `Walnuss`: "walnut"
+-------> Yiddish `וועלשענער נוס` <velshener nus>: "walnut"
+
+
+--> Celtic <*katuwolkos>: "battle-hawk" (personal name/epithet?) #
+---> Brythonic
+----> Welsh `cadwalch`: "hero"
+---> Gaulish `Cativolcus`: "Battle-Hawk?" (personal name)
+
+
+?> Italic
+-?> Latin `falcō`: "falcon" #
+--?> Germanic <*falkô>: "falcon" #
+
+
+
+Proto-Indo-European <*kelh₂->: "to beat, to break, to fight"
+
+-> Proto-Indo-European <*kelh₂-ti> (primary verb form)
+
+--> Balto-Slavic
+---> Lithuanian `kálti`: "to hammer"
+
+--> Celtic <*kel-to>: "to fight, to war"
+---> Celtic <*kellāko>: "fight, war"
+----> Old Irish
+-----> Irish `cellach`: "battle, strife, contention"
+---> Gaulish <?> (tribe name meaning "warriors"?)
+---?> Classical Greek `Κελτοί` <Keltoí>: "Celts, Gauls"
+-----> Greek `Kελτοί` <Kéltis>: "Celts, Gauls"
+-----> Latin `Celtae` ####
+------> English `Celt`
+-------> Japanese `ケルト人` <kerutojin>: "Celt"
+------> Latin `Celtiberi`: "Celtiberian"
+-------> English `Celtiberian`
+
+--> Hellenic
+---> Classical Greek `κλάω` <kláō>: "I break”
+
+--> Italic <*kello>: "to beat"
+---> Italic <*perkello>: "to thoroughly beat"
+----> Latin `percellō`: "to beat down, to overthrow, to smite"
+
+
+-> Proto-Indo-European <*kelh₂tís>
+
+--> Germanic <*hildiz>: "battle"
+---> East Germanic
+----> Gothic `𐌷𐌹𐌻𐌳𐍃` <hilds>
+---> North Germanic
+----> Old Norse `hildr`: "battle"
+-----> Icelandic `hildur`
+-----> Old Norse `Gunnhildr`: "Battle-Maiden" (personal name, lit. "battle-battle but in naming context, "battle maiden")
+------> Middle English `Gunilda`: "personal name"
+-------> Middle English `Domina Gunilda`: "a huge ballista mounted at Windsor Castle in the 14th C"
+--------> English `gun` (or from another such nicknamed weapon)
+---> West Germanic
+----> Frankish <*hildija>
+-----> Frankish <*Mahthildija>: "Might-Battle (personal name)"
+------> French `Mathilde`
+-------> English `Mathilda`
+---> Germanic <*Grīsahildiz>: "Grey-Battle (personal name)"
+----> West Germanic
+-----> Old English
+------> English `Griselda`
+-------> English `Zelda`
+---> Germanic <*Hildirīks>: "Battle-King (personal name)"
+----> East Germanic
+-----> Vandalic <*Hildireiks>
+------> Latin `Hildericus` (Vandal king, c. 530)
+-------> Western Romance
+--------> Italian `Ilderico`
+-------> English `Hilderic`
+----> West Germanic
+-----> Frankish <*Hildirīk>
+------> Latin `Childericus` (Frankish king c. 450)
+-------> Western Romance
+--------> French `Childéric`
+---------> English `Childeric`
+------> Dutch `Hilderik`
+
+--> Italic
+---> Latin `clādes`: "a breaking, destruction"
+
+
+-> Proto-Indo-European <*kl̥h₂dos>
+
+--> Hellenic
+---> Classical Greek `κλᾰ́δος` <kládos>: "branch, twig, arm"
+----> Greek `κλάδος` <kládos>: "branch, bough, clade"
+----> English `clade`
+
+--> Celtic <*kladiwos>
+---> Gaulish <*kladyos>
+----> Latin `gladius`
+-----> Western Romance
+------> French `glaive`: "gladius, short sword"
+-------> English `glaive`
+------> Italian `ghiado`: "dagger"
+-----> English `gladius`
+-----> Italian `gladio`: "sword, rapier"
+-----> Latin `gladiātor`: "swordsman, gladiator"
+------> English `gladiator`
+-----> Latin `gladiolus`: "little sword, knife, sword lily, gladiolus"
+------> English `gladiolus`
+---> Old Irish `claideb`: "sword"
+----> Irish `claíom`>: "sword"
+----> Scottish Gaelic `claidheamh`: "sword"
+-----> Scottish Gaelic `claidheamh mòr`: "great sword"
+------> English `claymore`
+
+-> Proto-Indo-European <*kelh₂do>
+
+--> Germanic <*heltą>: "handle, hilt"
+---> North Germanic
+----> Old Norse `hjalt`: "hilt"
+-----> Danish `hjalte`
+-----> Icelandic `hjalt`: "hilt"
+---> West Germanic
+----> Old English `hilt`
+-----> English `hilt`
+----> Old High German `helza`
+
+-> Proto-Indo-European <*kolh₂do>
+
+--> Germanic <*hultą>: "wood, timber, grove"
+---> North Germanic
+----> Old Norse `holt`
+-----> Danish `holt`
+-----> Icelandic `holt`: "hillock, wood"
+---> West Germanic
+----> Old English `holt`: "wood, timber, grove"
+-----> English `holt`
+----> Frankish `holt`
+-----> Dutch `hout`: "wood, stick"
+----> Old High German `holz`: "wood"
+-----> German `Holz`: "wood, grove"
+
+-> Proto-Indo-European <*kl̥h₂yo->?
+
+--> Celtic <*kallī->
+---> Brythonic
+----> Welsh `celli`: "copse, grove, woodland"
+---> Old Irish `caill`: "forest, woodland"
+
+
+-> Proto-Indo-European <*kolh₂-ti>
+
+--> Balto-Slavic
+---> Lithuanian `kùlti`: "to hit"
+---> Slavic <*kòlti>: "to stab, to sting"
+----> East Slavic
+-----> Russian `коло́ть` <kolótʹ>: "to stab, to break, to split, to prick"
+----> South Slavic
+-----> Serbo-Croatian `кла̏ти` <klȁti>: "to chop, to cut, to butcher"
+----> West Slavic
+-----> Polish `kłuć`: "to prick, to prickle"
+
+
+?> Proto-Indo-European <*kolh₂-p?-yos> #####
+
+--> Hellenic
+---> Classical Greek `κολάπτω` <koláptō>: "knock, peck, hew" #####
+----> Classical Greek `δρυοκολάπτης` <dryokoláptis>: "woodpecker"
+-----> Greek `δρυοκολάπτης` <dryokoláptis>: "woodpecker"
+----> Classical Greek `κόλᾰφος` <kólaphos>: "a buffet, a blow, a peck"
+-----> Greek `κόλαφος` <kólafos>: "a slap"
+-----> Latin `colaphus`: "a blow, a cuff"
+------> Western Romance
+-------> French `coup`: "blow, hit, strike, any fast action"
+--------> English `coup`
+--------> French `coupé`: "cut, shortened"
+---------> English `coupe`
+-------> Italian `colpo`: "blow, shock, shot"
+-------> Spanish `golpe`: "blow, knock, bump, beat, rhythm, surprise"
+------> Vulgar Latin  <*colpāre>: "to strike, to cut"
+-------> Vulgar Latin <*colpaticium>: "having been cut"
+--------> Old French `copeiz`
+---------> English `coppice`
+----------> English `copse`
+
+
+Proto-Indo-European <*h₁weydʰ->: "woods, wilderness"
+
+-> Proto-Indo-European <*weydʰos>: "wild, woodsy"
+--> Celtic <*wēdus>
+---> Brythonic <*guɨðel>: "woodsman, Irishman"
+----> Breton `Gouezel`: "Gael"
+----> Welsh `Gwyddel`: "Irishman"
+----> Old Irish `Goídel`: "Irishman, Gael"
+-----> Irish `Gael`: "Gael"
+-----> Scottish Gaelic `Gàidheal`: "Gael, highlander"
+------> English `Gael`
+-----> Old Irish `Gall-Goídel`: "Norse-Irish, foreign-Irish" (Gaelic speaking descendants of Norse settlers)
+------> Scottish Gaelic `Gall-Ghàidhealaibh`
+-------> English `Galloway`
+
+---> Old Irish `fíad`: "wilderness, uncultivated land, wild animals, game"
+----> Irish `fia`: "deer"
+
+endbody
+
+
+startnotes
+
+
+# The Gaulish tribe name is assumed to mean "hawk", either as a totem or metaphorically meaning "warrior/hero" based on comparison to Welsh `gwalch`: "hawk", Welsh <cadwalch>: "hero", and Gaulish personal name `Cativolcus`.
+
+This Celtic word for hawk has a complicated possible relationship with the Latinate `falcō`/`falcon`
+
+The Celtic root is generally reconstructed as <*wolkos>, but there's no actual evidence against <*gʷolkos> instead. /*w/ and /*gʷ/ both merge into `gw` in Welsh. They would be different in Gaulish, but I believe that difference would be easily lost in Latinized Gaulish, due to the details of the Latin letter `V`. If we had an Irish form, we would know whether it was <**golc> from <*gʷolkos> or <**folc> from <*wolkos>, but as far as I can tell, we don't have an Irish form.
+
+If the Celtic root is <*gʷolkos> instead of <*wolkos>, that could come from PIE <*gʷʰolkos>, which would give Latin <*folcos> for "hawk"; at which point descent from a slightly different morphological form to `falcō` is within the realm of speculation.
+
+`falcō` is clearly connected to Germanic <*falkô>, but there's no good evidence of which way the borrowing went. If it was borrowed from Germanic into Latin, it is derivable from PIE <*pelH->: "pale, grey" (compare `fallow` from Germanic). But if it is from Latin to Germanic, there's no established origin. Since there is also no established origin for Celtic <*wolkos>, at that point it makes sense to speculate a PIE (or possibly Pre-Italo-Celtic) something like root <*gʷʰe(H?)lk>: "hawk, falcon".
+
+Obviously there are other descendants of Latin `falcō` and Germanic <*falkô>, but since they are a very tenuous connection, I didn't fill out those branches.
+
+## Appears, among other places, in Snorri's Heimskringla's description of how a piece of France/Gaul became Normandy:
+
+"Ganger-Hrólf went afterwards over sea to the West to the Hebrides, or Sudreys; and at last farther west to Valland, where he plundered and subdued for himself a great jarldom, which he peopled with Northmen, from which that land is called Normandy"
+
+According to the Heimskringla, "Ganger-Hrólf" ("Rolf the Walker") is the same as "Count Rollo", first duke of Normandy, and William the Conqueror's great-great-great-grandfather. The Heimskringla gives him as the son of Jarl Rognvald Eysteinsson, kinsman and ally of Harald Fairhair, first King of Norway. Neither of these facts can be confirmed. Other accounts of Rollo have some shared details as Snorri's, but diverge on other points.
+
+
+### Germanic <*walhahnuts>: "walnut". I assumed it was like "welsh onion" and was just generic "foreign". But then I found that walnuts were called `nux gallica` in Latin: "Celtic nut", so Germanic <*walhahnuts> is probably a calque of the Latin. They were probably called `nux gallica` because they were imported from Persia via Celtic Galatia in modern day Turkey. Iran and Turkey remain to this day the #3 and #4 producers of walnuts. (#1 and #2 are the United States and China, whose rankings have more to do with overall size of national industry rather than any special connection to walnuts).
+
+
+#### Caesar, in the first sentence of his "Commentaries on the Gallic War", says the southeastern Gauls called themselves "Celtae":
+
+"Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. "
+
+"All Gaul is divided into three parts, one of which the Belgae inhabit, the Aquitani another, and third those who are called in their own language Celts, in ours Gauls."
+
+The Belgae in northeast Gaul were also Celtic-speakers, and are the namesake of Belgium. The Aquitani in southwest Gaul were probably related to the Basque, not Celts, and are the namesake of Aquitaine.
+
+
+##### I can't explain where the /p/ in <koláptō> comes from. Every other part of this word looks exactly like it derives from <*kelh₂->, with the one exception that there is no PIE morphology I know of that should result in any sound in that position that could become a /p/. I guess it could be *kolh₂-h₁epi, "knock upon?", but I think that would usually be formed <*h₁epi-kolh₂-> instead.
+
+
+endnotes

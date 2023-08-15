@@ -1,0 +1,323 @@
+
+date: 20220218
+tags: Animals, Divinities
+
+
+startintro
+
+Here I'm following Blažek's compelling argument (2017) to derive <*h₂ŕ̥Tḱos> from <*h₂r̥dh₂éḱh₃-s>: "bee-eater", similar to many later words for bear that mean things like "honey eater", "honey pig", "thief of bees", "bee bear", "bee wolf", … . This instead of the traditional connection to Sanskrit `𑀭𑀓𑁆𑀱𑀲𑁆`=san-Brah <rákṣas> and Avestan `𐬭𐬀𐬱𐬀𐬵`=ave-Avst <rašah>, both "harm, destruction".
+
+Per Blažek, <*h₂r̥dh₂éḱh₃-s> gets to <*h₂ŕ̥dḱos> by a series of common changes: levelling of the inflection paradigm from a hysterokinetic genitive *h₂r̥dh₂ḱh₃-ós, plus regular absorption of the *h₃ by the *o and regular CHCC > CCC deleting the middle *h₂ (see also in <*h₂eḱneti>)
+
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*h₂erd(i)->: "edge, point"
+
+
+-> Proto-Indo-European <*h₂erdih₁yéti>
+
+--> Germanic <*artijanã>: "to provoke, to annoy, to sting"
+---> North Germanic
+----> Old Norse `erta`
+-----> Danish `erte`
+-----> Icelandic `erta`: "to irritate, to tease, to provoke"
+
+
+-> Proto-Indo-European <*h₂órdis>: "point, sting" (noun)
+
+--> Indo-Iranian <*Hórdiš>
+---> Indo-Aryan
+----> Sanskrit `𑀅𑀮𑀺` <ali>: "bumble bee, scorpion, crow, enemy"
+-----> Sanskrit `𑀅𑀮𑀺𑀦𑁆` <alin>: "Scorpio"
+
+-?> Proto-Indo-European <*h₂r̥dh₂éḱh₃s>: "bear" (lit. "bee-eater")
+
+
+
+-> Proto-Indo-European <*h₂érdis>: "point, sting" (e-grade variant of noun)
+
+--> Hellenic
+---> Classical Greek `ἄρδῐς` <árdis>: "point of an arrow"
+
+-?> Proto-Indo-European <*h₂r̥dh₂éḱh₃s>: "bear" (lit. "bee-eater")
+
+
+
+
+Proto-Indo-European <*h₂eḱh₃->: "to eat"
+
+
+-> Proto-Indo-European <*h₂eḱneti> (regular CHCC > CCC from <*h₂eḱh₃neti>)
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀅𑀰𑁆𑀦𑀸𑀢𑀺` <aśnāti>: "to eat"
+---> Iranian
+----> Avestan
+----?> Avestan <kahrkāsa>: "vulture" (lit. "hen-eater"? but possibly an augmentive suffix instead)
+----> Western Iranian
+-----> Northwestern Iranian
+------> Parthian `𐫀𐫘` <ʾs>: "to eat"
+
+
+
+-> Proto-Indo-European  <*h₂eḱnos>: "hungry, gluttonous"
+
+--> Indo-Iranian <*Háćnas>
+---> Indo-Aryan
+----> Sanskrit `𑀅𑀰𑁆𑀦` <aśna>: "gluttonous"
+---> Finnic <*ahnas>
+----> Finnish `ahnas`: "gluttonous"
+
+
+-> Proto-Indo-European <h₂eḱh₃ono>: "an eating" (action noun)
+
+--> Germanic <*agana>
+---> North Germanic
+----> Old Norse `agn`: "bait"
+-----> Danish `agn`: "bait"
+-----> Icelandic `agn`: "bait"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀅𑀰𑀦` <aśana>: "eating, meal"
+
+
+?> Proto-Indo-European <*h₂eḱHolos?>
+
+--> Hellenic
+---> Classical Greek `ἄκολος` <ákolos>: "morsel, crumb, small bit of food"
+
+--> Phrygian `ακκολος` <akkolos>: "eat?"
+
+
+-> Proto-Indo-European <*h₂éḱs>: "eater" (cf. <*spéḱs>: "watcher")
+
+
+
+-?> Proto-Indo-European <*h₂r̥dh₂éḱh₃s>: "bear" (lit. "bee-eater")
+
+---> Anatolian
+----> Hittite `𒄯𒁖𒂵𒀸` <ḫar-tág-ga-aš>: "bear"
+
+---> Proto-Indo-European <*h₂ŕ̥dḱos> ##
+
+----> Pre-Albanian <*artsa>: "bear"
+-----> Old Albanian `ar`: "bear"
+------> Albanian `ari`: "bear" (back-formed from Old Albanian plural)
+
+----> Old Armenian `արջ` <arǰ>: "bear" (irregular <-ǰ->, possibly contamination from <arǰn>: "black")
+-----> Armenian `արջ` <arǰ>: "bear"
+
+----> Celtic <*artos>: "bear"
+-----> Brythonic <*arθ>
+------> Welsh `arth`: "bear"
+-----> Celtiberian
+-----?> Basque `hartz`: "bear"
+-----> Gaulish <*artos>
+------> Gaulish <*Artio>
+-------> Latin `Artio`: "Gaulish bear divinity"
+-----> Old Irish `art`: "bear, warrior"
+-----> Noric <*Artes>
+------> Noric `𐌀𐌓𐌕𐌄𐌁𐌖𐌈𐌆` <Artebudz>: "Bear-? (personal name)" ##
+-----> Celtic <*Artorīxs>: "Bear-King (personal name)"
+------> Brythonic <*Arθorīɣ>
+------?> Welsh `Arthur` ####
+--------> English `Arthur` ####
+------> Gaulish <*Artorīx>
+-------> Gaulish <*Artorīgios>: "(son) of Artorīx"
+-------?> Latin `Artorius`
+--------?> Welsh `Arthur` ####
+-----> Celtic <*Artognọw>: "Bear-Wisdom (personal name)"
+------> Brythonic <Artognou>
+-------> Old Breton `Artgnou`
+
+
+
+----> Hellenic <*árktos>
+-----> Mycenaean Greek `𐀀𐀏` <a-ka>
+------> Classical Greek `Ᾰ̓ρκᾰ́ς` <Arkás>: "Arcas, an Arcadian"
+------> Mycenaean Greek `𐀀𐀏𐀆` <a-ka-de>: "Arcadia"
+-------> Classical Greek `Ἀρκᾰδίᾱ` <Arkadíā>: "Arcadia"
+--------> Greek `Αρκαδία` <Arkadía>
+--------> Latin `Arcadia`
+---------> English `Arcadia`
+---------> French `Arcadie`
+---------?> French `Acadie`
+-----------> English `Acadia`
+-----------> French `Acadien`
+------------> French `Cadien`
+-------------> English `Cajun`
+--------> Coptic `ⲧⲀⲣⲕⲁⲇⲓⲁ` <tArkadia>: "Arcadia"
+
+------> Byzantine Greek `ἀρκούδα` <arkoúda>
+-------> Greek `αρκούδα` <arkoúda>: "bear"
+-----?> Mycenaean Greek `𐀀𐀳𐀖𐀵` <a-te-mi-to>: "Artemis" ###
+-------> Classical Greek `Ἄρτεμις` <Ártemis>
+--------> Latin `Artemis`
+---------> English `Artemis`
+--------> Classical Greek `ἀρτεμισία` <artemisía> :"(flower) of Artemis, mugwort"
+---------> Latin `artemisia`: "mugwort"
+----------> Western Romance
+-----------> French `armoise`: "mugwort"
+----------> Translingual `Artemisia`: "taxonomic genus of mugwort and related plants"
+----------> English `artemisia`
+---------> Classical Greek `Ἀρτεμῑσῐ́ᾱ` <Artemīsíā>: "(woman) of Artemis (personal name)"
+----------> Greek `Αρτεμισία` <Artemisía>
+----------> Latin `Artemisia`
+--------> Classical Greek `Ἀρτεμῑ́σιον` <Artemī́sion>: "(place) of Artemis, Artemisium"
+---------> Greek `Αρτεμίσιο` <Artemísio>: "Artemisium"
+---------> Latin `Artemisium`
+----------> English `Artemisium`
+--------> Classical Greek `Ἀρτεμῑ́σῐος` <Artemī́sios>: "(month) of Artemis, a month in some Classical Greek calendars, April" #####
+
+-----> Classical Greek `ᾰ̓́ρκτος` <árktos>: "bear, north" ("north" from the position of Ursa Major in the sky)
+------> Classical Greek `άρκτος` <árktos>: "bear"
+------> Classical Greek `Ἄρκτος` <Árktos>: "Ursa Major"
+-------> Latin `Arctus`: "Ursa Major, north"
+------> Translingual `Ursus arctos`: "taxonomic species name of the brown bear"
+------> Classical Greek `ἀρκτικός` <arktikós>: "having to do with Ursa Major, northern"
+-------> Latin `arcticus`: "northern, arctic"
+--------> French `arctique`
+---------> English `arctic`
+-------> Classical Greek `ἀνταρκτικός` <antarktikós>: "south, antarctic" ("away from the bear")
+--------> Latin `antarcticus`
+---------> English `antarctic`
+---------> Latin `Antarctica`
+----------> English `Antarctica`
+------> Classical Greek `Ᾰ̓ρκτοῦρος` <Arktoûros>: "Arcturus (the star)" (lit. "Bear-Watcher", a star near Ursa Major)
+-------> Greek `Αρκτούρος` <Arktoúros>: "Arcturus"
+-------> Latin `Arctūrus`: "Arcturus (the star), Boötes (the constellation)" ####
+--------> English `Arcturus`
+---------> Japanese `アークトゥルス` <Ākuturusu>: "Arcturus"
+--------> French `Arcturus`: "Arcturus"
+--------> Spanish `Arturo`: "Arcturus" ####
+---------> Spanish `Arturito`: "Little Arthur, R2-D2"
+-------?> Welsh `Arthur` ####
+------> Classical Greek `ἄρκῐον` <árkion>: "burdock" (lit. "little bear")
+-------> Translingual `Arctium`: "taxonomic genus name of burdock"
+
+
+----> Indo-Iranian <*Hŕ̥ćšas>
+
+-----> Indo-Aryan <*Hŕ̥ćṣas>
+------> Sanskrit `𑀋𑀓𑁆𑀱` <ṛ́kṣa>: "bear, ape, constellation, star, astrological mansion"
+-------> Pali `𑀅𑀘𑁆𑀙` <accha>: "bear"
+-------> Sauraseni `𑀭𑀺𑀘𑁆𑀙` <riccha>
+--------> Madhya
+---------> Hindi `रीछ` <rīch>: "bear"
+--------> Western Sauraseni
+---------> Romani `rish`: "bear"
+-------> Thai `ฤกษ์` <rə̂ək>: "bear, Ursa Major, star"
+------> Dardic
+-------> Kalasha `ič̣`: "bear"
+
+-----> Iranian <*Hŕ̥šah>
+------> Avestan `​​𐬀𐬭𐬴𐬀` <arṣ̌a>: "bear"
+------> Northern Iranian
+-------> Saka
+--------> Khotani <arrä>: "bear"
+-------> Sogdian <ašša>: "bear"
+-------> Scythian
+--------> Ossetian `арс` <ars>: "bear"
+------> Pashto `يږ` <yëģ>: "bear"
+------> Western Iranian
+-------> Northwestern Iranian
+--------> Kurdish `hirç`: "bear"
+-------> Old Persian
+--------> Persian `خرس` <xers>: "bear"
+
+-----> Nuristani <*írca>
+------> Kamviri `ić`: "bear"
+------> Ashkun `ić`: "bear"
+
+-----> Finnic <*karhu>
+------> Finnish `karhu`: "bear"
+
+
+----> Italic <*orssos>
+-----> Latin `ursus`: "bear"
+------> Eastern Romance
+-------> Romanian `urs`: "bear"
+--------> Romanian `ursar`: "bear tamer"
+---------> Vlax Romani `Vursari` ######
+---------> English `Ursari`
+------> Western Romance
+-------> Old French 
+--------> French `ours`: "bear"
+--------> Old French `urson`: "bear cub"
+---------> French `ourson`: "bear cub"
+---------> Anglo-Norman `Orson`: "Bear Cub (personal name)"
+----------> English `Orson`
+-------> Italian `orso`: "bear"
+-------> Spanish `oso`: "bear"
+------> Translingual `Ursus`: "taxonomic genus of bears"
+-------> Translingual `Ursus arctos`: "taxonomic species name of the brown bear"
+
+
+
+
+----> Proto-Indo-European <*h₂ordk̑éh₂>: "she-bear"
+
+-----> Albanian `arushë`: "she-bear"
+
+-----> Italic <*orssā>: "she-bear"
+------> Latin `ursa`: "she-bear"
+-------> Eastern Romance
+--------> Romanian `ursă`: "she-bear"
+-------> Western Romance
+--------> French `ourse`: "she-bear"
+--------> Italian `orsa`: "she-bear"
+--------> Spanish `osa`: "she-bear"
+-------> Latin `Ursa Major`
+--------> English `Ursa Major`
+-------> Latin `Ursula`: "Little She-Bear (personal name)"
+--------> English `Ursula`
+
+
+
+----> Proto-Indo-European <*h₂r̥tḱwéh₂>
+
+-----> Balto-Slavic <*irśtwā́ˀ>
+------> East Baltic
+-------> Lithuanian `irštvà`: "bear's den"
+
+
+
+endbody
+
+
+
+startnotes
+
+
+
+## The Noric name `𐌀𐌓𐌕𐌄𐌁𐌖𐌈𐌆`=nrc-Latn <Artebudz> has a disputed second element. It may be "Bear-Victory", "Bear-Lips", or "Bear-Penis". 
+
+
+### The name Artemis (Classical Greek `Ἄρτεμις`=grc-Grek <Ártemis>, Mycenaean Greek `𐀀𐀳𐀖𐀵`=gmy-Linb <a-te-mi-to>) is of unknown origin, but given how often bears show up in the mythology and cultic practices around Artemis suggests there is some kind of connection to `ᾰ̓́ρκτος` <árktos>, either original or by folk etymology. 
+
+
+
+#### There are many possible sources of the name `Arthur`=eng-Latn, almost all of them derive from <*h₂ŕ̥dk̑os>: "bear"
+
+It could derive natively from Brythonic, in which case it is probably from Celtic <*Artorīxs>: "Bear-King".
+
+Or it could be from Latin, as there is no evidence of anyone named "Arthur" until the 5th century at the earliest, shortly after the end of the Roman occupation of Brittain. If it is Latin, it could be from the Latin family name `Artorius`=lat-Latn (of indeterminate origin and meaning) which would become `Art(h)ur`=owl-Latn when borrowed into Welsh. Latin `Artorius`=lat-Latn may well derive from the patronymic of the equivalent Gaulish "Bear-King" name, <*Arto-rīg-ios>: "(son) of (the) Bear-King".
+
+Finally, it could be from Latin `Arctūrus`=lat-Latn, borrowed from Greek "Bear-Watcher, Bear-Guard".
+
+The folk etymology of Welsh `Arth-(g)wr`=cym-Latn (Brythonic <*arθ(o)gwur>): "bear-man" is almost certainly wrong. There is a fair amount of evidence from Welsh poetry that the name always rhymed with `-ur`=cym-Latn and not `-wr`=cym-Latn.
+
+##### `Ἀρτεμῑ́σῐος`=grc-Grek <Artemī́sios> was a month name in some Classical Greek calendars, including the Corinthian and Macedonian calendars. The Corinthian month names, including <Artemī́sios>, are inscribed on the Antikythera mechanism
+
+
+###### `Ursari`=rom-Latn or `Vursari`=rom-Latn are an ethnic group of Romani, descended from enslaved Romani in Wallachia (now Romania, no relation to `Romani`=eng-Latn). The Usari was among the groups allowed to retain their nomadic lifestyle, and usually worked as travelling performers, including with dancing bears, thus the name borrowed from Romanian `ursar`=ron-Latn: "bear tamer".
+
+
+endnotes

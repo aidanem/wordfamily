@@ -1,0 +1,464 @@
+date: 20200703
+tags: Colors, Currency, Elements
+
+startintro
+
+The colors yellow, green, sky blue, navy blue, gold, and white in various languages. And the chemical elements `gold` and `arsenic`.
+
+endintro
+
+startbody
+
+Proto-Indo-European <*ǵʰelh₃->: "yellow, green"
+
+-> Proto-Indo-European <*ǵʰélh₃yeti>: "becomes yellow-green"
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `žélti`: "to grow, to sprout"
+
+
+-> Proto-Indo-European <*ǵʰl̥h₃nos>: "yellow-green" (adjective)
+
+-?> Celtic <*glanos>: "clean, clear"
+---> Brythonic <*glan>
+----> Welsh `glân`: "clean"
+---> Old Irish `glan`: "clean, pure"
+----> Irish `glan`: "clean, clear"
+
+
+-> Proto-Indo-European <*ǵʰl̥h₃rós>: "yellow-green" (adjective)
+
+--> Hellenic
+---> Ancient Greek `χλωρός` <khlōrós>: "yellow-green, fresh, pale"
+----> English `chlorine`
+-----> Translingual `Cl`
+----> French `chlorophylle`: "chlorophyll" ("green-leaf")
+-----> English `chlorophyll`
+
+--> Phrygian `ΓΛΟΥΡΟΣ` <glouros>: "gold"
+
+-?> Unknown
+--?> Etruscan `garouleou`: "chrysanthemum" ##
+
+
+-> Proto-Indo-European <*ǵʰl̥h₃tós>: "yellow-green" (adjective)
+
+--> Balto-Slavic <*giltas>
+---> East Baltic
+----> Lithuanian `gel̃tas`: "yellow"
+---> Slavic <*žь̑ltъ>
+----> East Slavic `жьлтъ` <žĭltŭ>
+-----> Russian `жёлтый` <žóltyj>: "yellow"
+-----> Ukrainian `жо́втий` <žóvtyj>: "yellow"
+----> South Slavic
+-----> Old Church Slavonic `жлътъ` <žlŭtŭ>: "yellow"
+-----> Serbo-Croatian `жу̑т` <žȗt>: "yellow"
+----> West Slavic
+-----> Polish `żółty`: "yellow"
+
+
+
+
+
+-> Proto-Indo-European <*ǵʰelh₃wós>
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `žel̃vas`
+
+--> Germanic <*gelwaz>
+---> East Germanic
+----> Gothic `𐌲𐌹𐌻𐍅𐍃` <gilws>
+---> West Germanic
+----> Old English `ġeolu`: "yellow"
+-----> English `yellow`
+----> Frankish <*gelo>
+-----> Dutch `geel`: "yellow"
+----> Old High German `gelo`
+-----> German `gelb`: "yellow"
+-----> Yiddish `געל` <gel>: "yellow"
+
+--> Italic <*helwos>
+---> Latin `helvus`: "yellow, dun, honey-colored"
+----> Latin `Helvius`: "gens name"
+
+
+-> Proto-Indo-European <*ǵʰl̥h₃ós>
+
+--> Germanic <*gulaz>
+---> North Germanic
+----> Old Norse `gulr`: "yellow"
+-----> Danish `gul`: "yellow"
+-----> Icelandic `gulur`: "yellow"
+
+
+
+-> Proto-Indo-European <*ǵʰólh₃is>
+
+--> Balto-Slavic
+---> Eastern Baltic
+----> Lithuanian `žãlias`: "green, young, raw"
+
+--> Indo-Iranian <*ȷ́ʰárHiš>
+---> Indo-Aryan
+----> Sanskrit `हरि` <hári>: "yellow, green, golden, tawny, divine" (used as a name of various divinities, and metanymically of various animals)
+-----> Sanskrit `हरिद्वार` <haridvāra>
+------> Hindi `हरिद्वार` <Haridwar>
+-------> English `Haridwar`
+-----> Sanskrit `हरिमन्दिर` <hárimandira>
+------> Punjabi `ਹਰਿਮੰਦਰ` <harimaⁿdar>
+------> English `Harimandir`
+---> Iranian
+----> Avestan `𐬰𐬀𐬌𐬭𐬌` <zairi>: "yellow, tawny"
+----?> Avestan `𐬰𐬀𐬭𐬀𐬚𐬎𐬱𐬙𐬭𐬀` <Zaraθuštra> #
+------> Persian `زرتشت` <Zartošt>
+-------> Arabic `زَرَادُشْت` <Zarādušt>
+-------> Armenian `Զրադաշտ` <Zradašt>
+-------> Turkish `Zerdüşt`
+------> Sogdian `𐫉𐫡𐫇𐫢𐫝` <zrwšc>
+-------> Middle Chinese `蘇魯支`
+--------> Mandarin `蘇魯支` <Sūlǔzhī>
+------> Ancient Greek `Ζωροάστρης` <Zōroástrēs>
+-------> Greek `Ζωροάστρης` <Zoroástris>
+-------> Hebrew `זורואסטר‎` <Zoroaster>
+-------> Latin `Zōroastrēs`
+--------> English `Zoroaster`
+------> English `Zarathustra`
+
+
+
+-> Proto-Indo-European <*ǵʰélh₃is>
+
+--> Balto-Slavic
+---> Slavic <*zèlьje>: "vegetation, herbs, cabbage"
+
+
+-> Proto-Indo-European <*ǵʰélh₃os> (noun)
+
+--> Celtic <*gelos>: "shining, white"
+---> Gaulish <*gelā>
+----> Gaulish `gelasonem`: "cotton weed, cudweed"
+---> Old Irish `gel`: "bright, clear, white"
+----> Irish `geal`: "white, bright"
+
+--> Italic <*helos>
+---> Latin `holus`: "vegetable, greens"
+
+
+-> Proto-Indo-European <*ǵʰolh₃éh₂>: "gall, bile" (derivative noun)
+
+-?> Balto-Slavic <*zolˀa>
+---> Eastern Baltic
+----> Lithuanian `žala`: "damage, injury, malice"
+--?> Slavic <*zolà>: "ashes, murky water"
+----> East Slavic
+-----> Russian `зола́` <zolá>: "ashes"
+----> South Slavic
+-----> Old Church Slavonic `зола` <zola>: "ashes"
+
+---> Balto-Slavic <*zolˀiti>
+----> Slavic <*zoliti>: "to irritate, to harm"
+-----> East Slavic
+------> Russian `злить` <zlitʹ>: "to provoke, to anger"
+
+
+--> Germanic <*gallȭ>: "gall, bile"
+---> North Germanic
+----> Old Norse `gall`
+-----> Danish `galde`: "bile, gall"
+-----> Icelandic `gall`
+---> West Germanic
+----> Old English `galla`
+-----> English `gall`
+----> Frankish
+-----> Dutch `gal`
+----> Old High German `galla`
+-----> German `Galle`: "gall, bile"
+-----> Yiddish `גאַל` <gal>: "gall, gall bladder, bile"
+
+--> Hellenic <*kʰolā́>
+---> Ancient Greek `χολή` <kholḗ>: "gall, bile, bitterness, anger, disgust"
+----> Greek `χολή` <cholí>: "gall, bile, gall bladder, bitterness, anger"
+----> Latin `cholera`: "cholera" ("bile disease")
+-----> English `cholera`
+-----> French `colère`: "wrath"
+-----> French `choléra`: "cholera"
+-----> Spanish `cólera`: "anger, cholera"
+
+--> Indo-Iranian
+---> Iranian <*ȷ́ʰarHáH>
+----> Avestan `𐬰𐬁𐬭𐬀‎` <zāra>: "gall"
+----> Western Iranian
+-----> Persian `زهره‎` <zahre>: "gall"
+
+-> Proto-Indo-European <*ǵʰélh₃ō?>
+
+-?> Italic
+--?> Latin `fel`: "bile, gall, gall bladder, poison, bitterness" (uncertain, irregular derivation) #####
+----> Eastern Romance
+-----> Romanian `fiere`: "bile, bitterness, sorrows"
+----> Western Romance
+-----> French `fiel`: "bile"
+-----> Italian `fiele`: "bile"
+-----> Spanish `hiel`: "bile"
+
+
+-> Proto-Indo-European <*ǵʰelh₃t-> (extended root)
+
+--> Proto-Indo-European <*ǵʰl̥h₃ttós> (adjective)
+
+---> Celtic <*glastos>: "green, blue"
+----> Brythonic <*glas>
+-----> Cumbric <*glas>
+------> Cumbric <*Glas Cu>: "Glasgow, Green-Hollow (place name)"
+-------> Old Irish
+--------> Irish `Glaschú`: "Glasgow"
+--------> Scottish Gaelic `Glaschu`
+---------> English `Glasgow`
+---------> Scots `Glesca`
+-----> Welsh `glas`: "blue, inexperienced"
+
+--?> Indo-Iranian
+----> Iranian
+-----> Persian  `لاجورد` <lâjvard>: "lapis lazuli" ("blue-stone"?) ####
+------> Arabic `لازورد‎` <lāzaward>: "lapis lazuli, azure"
+-------> Byzantine Greek `λαζούριον` <lazoúrion>
+--------> Medieval Latin `lazulum`
+---------> French `azure`: "azure"
+----------> English `azure`
+---------> Italian `azzurro`: "azure"
+---------> Spanish `azul`: "blue"
+---------> Medieval Latin `lapis lazulī`
+----------> English `lapis lazuli`
+------> Armenian `լաջվարդ` <laǰvard>: "lapis lazuli"
+------> Georgian `ლაჟვარდოვანი` <lažvardovani>: "azure, sky blue"
+------> Hindi `लाजवर्द` <lājvard>: "lapis lazuli"
+------> Kurdish `lacwerd`
+------> Turkish `lacivert`: "navy blue"
+
+
+--> Proto-Indo-European <*ǵʰĺ̥h₃tom> (noun)
+
+---> Germanic <*gulþã>
+----> East Germanic
+-----> Gothic `𐌲𐌿𐌻𐌸` <gulþ>: "gold"
+-----> Crimean Gothic `goltz`: "gold"
+----> North Germanic
+-----> Old Norse `gull`: "gold, treasure, jewel"
+------> Danish `guld`
+-------> Greenlandic `kuulti`: "gold"
+----> West Germanic
+-----> Old English `gold`
+------> English `gold`
+-----> Frankish <*golt>
+------> Dutch `goud`
+-----> Old High German `gold`
+------> German `Gold`
+------> Yiddish `גאָלד` <gold>: "gold, darling"
+----> Finnic <*kulta>
+-----> Finnish `kulta`: "gold, darling"
+----> Samic <*kollē>
+-----> Nortern Sami `golˈli`: "gold"
+
+----> Germanic <*gulþīnaz>: "golden, made of gold"
+-----> East Germanic
+------> Gothic `𐌲𐌿𐌻𐌸𐌴𐌹𐌽𐍃` <gulþeins>: "golden"
+-----> North Germanic
+------> Old Norse `gullinn`
+-----> West Germanic
+------> Old English `gylden`
+-------> English `golden`
+------> Frankish <*guldīn>
+-------> Dutch `gulden`: "golden, excellent, guilder"
+--------> English `guilder`
+
+----> Germanic <*gulþijanã>: "to cover in gold, to gild"
+-----> North Germanic
+------> Old Norse `gylla`
+-------> Icelandic `gylla`: "to gild, to make golden"
+-----> West Germanic
+------> Old English `(be)gyldan`
+-------> English `gild`
+------> Frankish <*gulden>
+-------> Frankish <*firgulden>
+--------> Dutch `vergulden`: "to gild"
+
+
+
+--> Proto-Indo-European <*ǵʰólh₃tos> (noun)
+
+---> Balto-Slavic
+----> East Baltic
+-----> Latvian `zelts`: "gold, golden"
+-----> Lithuanian `želtas`: "golden, blond" (dialectic)
+----> Slavic <*zȏlto>: "gold"
+-----> East Slavic
+------> Russian `зо́лото` <zóloto>: "gold"
+-----> South Slavic
+------> Old Church Slavonic `злато` <zlato>: "gold"
+------> Serbo-Croatian `зла̑то` <zlȃto>: "gold"
+-----> West Slavic
+------> Polish `złoto`: "gold"
+
+
+-> Northwestern Proto-Indo-European <*ǵʰelh₃dʰ?-> (extended root)
+
+--> Northwestern Proto-Indo-European <*ǵʰelh₃dʰeti-> 
+
+--> Balto-Slavic
+---> Slavic <*želsti>: "to repay"
+----> East Slavic `желести` <želesti>
+----> South Slavic
+-----> Old Church Slavonic `жлѣсти` <žlěsti>: "to repay, to compensate"
+
+--> Germanic <*geldanã>: "to pay, to value"
+---> North Germanic
+----> Old Norse `gjalda`: "to repay, to give, to suffer on account of"
+-----> Danish `gælde`: "to concern"
+-----> Icelandic `gjalda`: "to pay"
+---> West Germanic
+----> Old English `ġieldan`: "to pay, to reward, to yield"
+-----> English `yield`
+----> Frankish <*geldan>
+-----> Dutch `gelden`: "to apply, to be applicable, to be considered"
+----> Old High German `geltan`: "to pay"
+-----> German `gelten`: "to be valid, to be applicable, to be worth"
+
+---> Germanic <*geldã>: "payment, money, gift"
+----> East Germanic
+-----> Gothic `𐌲𐌹𐌻𐌳` <gild>: "tax, tribute"
+----> North Germanic
+-----> Old Norse `gjald`
+------> Danish `gæld`: "debt"
+------> Icelandic `gjald`: "fee, payment"
+----> West Germanic
+-----> Old English `ġild`: "payment, tax, guild"
+------> English `yield`
+------> English `guild`
+------> Medieval Latin `geldum`
+-------> English `geld`
+-----> Frankish <*geld>
+------> Dutch `geld`: "money"
+-----> Old High German `gelt`
+------> German `Geld`: "money"
+------> Yiddish `געלט` <gelt>: "money"
+-------> English `gelt`
+
+----> Germanic <*geldį̄>
+-----> North Germanic
+------> Old Norse `gildi`
+-------> Icelandic `gildi`: "value, worth, validity, union, guild"
+-------> English `guild`
+
+--> Celtic <*geldom>
+---> Old Irish `gell`: "pledge, hostage, wager"
+----> Irish `geall`: "pledge, token, wager, asset"
+
+
+-> Proto-Indo-European <*ǵʰelh₃en->
+
+--> Proto-Indo-European <*ǵʰélh₃enos>
+
+---> Balto-Slavic <*źelʔenas>
+----> West Baltic
+-----> Old Prussian <saligan>: "green"
+----> Slavic <*zelènъ>
+-----> East Slavic `зеленъ` <zelenŭ>: "green"
+------> Russian `зелёный` <zeljónyj>: "green"
+-----> South Slavic
+------> Old Church Slavonic `зеленъ` <zelenŭ>: "green"
+------> Serbo-Croatian `зѐлен` <zèlen>: "green, unripe"
+-----> West Slavic
+------> Polish `zielony`: "green"
+
+
+--> Proto-Indo-European <*ǵʰl̥h₃enyóm>
+
+---> Indo-Iranian <*ȷ́ʰr̥Hanyam>: "gold"
+----> Indo-Aryan
+-----> Sanskrit `हिरण्य` <híraṇya>: "gold"
+------> Elu
+-------> Sinhala `රන්` <ran>: "gold"
+----> Iranian
+-----> Avestan `𐬰𐬀𐬭𐬀𐬦𐬌𐬌𐬀‎` <zarańiia>
+-----> Northern Iranian
+------> Ossetian `сыгъзӕрин` <syǧzærin>: "gold"
+-----> Pashto `زر` <zar>: "metal"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `zêrr`: "gold"
+-------> Median <*zə́raniyəm>
+--------> Elamite <Za-ir-nu-iš>
+-------> Parthian `𐫉𐫡𐫗` <zrn>
+--------> Old Armenian `զառնաւուխտ` <zaṙnawuxt>: "Goldenette (personal name)"
+---------> Armenian `Զարուհի` <Zaruhi>
+--------> Persian `زر` <zar>: "gold"
+------> Old Persian `𐎭𐎼𐎴𐎹` <d-r-n-y>: "gold"
+-------> Ancient Greek `δαιρεικός` <daireikós>: "Persian gold coin, daric"
+--------> English `daric`
+
+-----> Iranian <*jr̥Hanyakarah>: "goldsmith"
+------> Western Iranian
+-------> Northwestern Iranian
+--------> Kurdish `زێڕنگەر‎` <zêrringer>: "goldsmith"
+--------> Parthian `𐫉𐫡𐫗𐫃𐫡‎` <zrngr>
+---------> Persian `زرگر`‎ <zarrgar>: "goldsmith"
+-------> Old Persian `𐎭𐎼𐎴𐎹𐎣𐎼` <daraniya-kara>: "goldsmith"
+
+-----> Iranian <*jr̥HanyakaH>
+------> Western Iranian
+-------> Medean <*zaraniyakā>: "arsenic, orpiment" ###
+--------> Aramaic `𐡆𐡓𐡍𐡉𐡊𐡀‎` <zarnīḵā>: "arsenic, orpiment"
+---------> Arabic `زِرْنِيخ` <zirnīḵ>: "arsenic"
+---------> Ancient Greek `ἀρσενικόν` <arsenikón>
+----------> Latin `arsenicum`: "arsenic"
+-----------> Western Romance
+------------> French `arsenic`
+-------------> English `arsenic`
+-----------> Translingual `As`
+--------> Old Armenian `զառիկ` <zaṙik>: "arsenic, orpiment"
+---------> Armenian `զառիկ` <zaṙik>: "arsenic, orpiment"
+
+
+
+
+
+
+
+endbody
+
+
+
+startnotes
+
+# While the second element in the name "Zarathustra" is generally agreed to be <uštra>: "camel", the first element is much debtated. This is one of many possibilities for the first element, "(has) golden/tawny camels".
+
+When borrowed into Greek, the name seems to have been eggcorned as <zōrós> + <astḗr>: "Pure-Star".
+
+## Discorides in his herbal describes what he calls `χρυσάνθεμον` <chrysanthemon>: "golden flower", and says the T(h)uscans call it `garouleou`. He also notes that the Romans called the same plant "caltha" (from this same root?), which we understand to mean "marigold". Marigold is similar to chrysanthemum both in being part of subfamily Asteroideae, and in both having English names which mean "gold".
+
+So it is reasonably likely that `garouleou` might have a morpheme meaning "gold" in it, quite possibly borrowed from something close to Greek <chloros> or Phrygian <glouros>.
+
+Discorides writes `γαρουλέου` <garouléou>, but Etruscan distinguishes aspiration but not voicing and used both the letter they got from Greek `Γ` <G> and the letter they got from Greek `K` <k> interchangeably for the sound /k/. Which is why Greek `Γ` became Latin 'C', and then a new letter had to be invented for `G`.
+
+### Orpiment is an arsenic sulfide that is orange-yellow. `orpiment` is also from "gold", Latin `auri pigmentum`, "golden pigment".
+
+
+#### The first element is almost certainly <*ǵʰelh₃->. The second element is disputed, but is probably Iranian <*varta->: "stone".
+
+##### Latin `fel`: "bile, gall" cannot be regularly derived from <*ǵʰelh₃->, but is close enough to be suspicious of a dialect borrowing or something similar. Or it could be a parallel semantic development of "yellow" to "bile" from the root <*bʰel->: "to shine, to burn", which gives the Latin `flāvus`: "yellow, blond, flaxen".
+
+Speaking of which, there is the word "bile" itself, from Latin `bīlis`: "bile, gall". This is derivable from Italic <*bis(t)lo->, which is identical to Celtic <*bis(t)lo-> as represented by Welsh `bustl`: "bile, gall".
+
+There are two likely possibilities for this: either there is a common origin for the Latin and the Celtic, or it was borrowed from Celtic to Latin.
+
+If there is a common origin, a non-IE borrowing of <*bistlo-> rom a local substrate seems likely, due to the restriction to only Celtic and Italic, and the unusual <*b-> beginning.
+
+On the other hand if it was borrowed from Celtic into Latin, it can be derived from an initial <*bʰ-> (which becomes <*b-> in Celtic, but <*f-> in Latin). In that case, perhaps it is from PIE <*bʰeyd->: "to split", which gives, for example, Germanic "bite" and "bitter", both of which are characteristic of bile.
+
+Which suggests reconsidering `fel`, which might be a related native Italic form from <*bʰeyd->.
+
+(Based on de Vaan. Matosivić on the other hand does not like any borrowing option, "since words for organs and body fluids are almost never borrowed." But it's frankly difficult to find any solution for getting `bīlis` in Latin without borrowing from _somewhere_, much less how Latin ends up with both `bīlis` and `fel`.)
+
+endnotes

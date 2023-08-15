@@ -1,0 +1,379 @@
+date: 20190111
+theme: 98, 99, 100! 💯
+tags: Divinites, Colors
+
+startbody
+
+Proto-Indo-European <*bʰel->: "to shine"
+
+
+-> Proto-Indo-European <*bʰoltós>
+
+--> Balto-Slavic
+---> Lithuanian `báltas`: "white"
+--?> Latin `Balthae`  #
+----> Medieval Latin `Balticus`
+-----> English `Baltic`
+
+-?> Illyrian <balta>: "swamp" ###
+--?> Albanian `baltë`: "mud"
+--?> Balto-Slavic <*balta>
+---?> Latin `Balthae`  #
+----> Slavic <*bolto>: "swamp, mud"
+-----> East Slavic `болото` <boloto>
+------> Russian `боло́то` <bolóto>: "bog, swamp, quagmire, marsh"
+-----> South Slavic
+------> Old Church Slavonic `блато` <blato>: "swamp, quagmire"
+------> Serbo-Croatian `блато` <blato>: "mud"
+-----> West Slavic
+------> Polish `błoto`: "mud"
+---> Greek `βάλτος` <váltos>: "swamp, bog"
+---> Latin `blattea`: "swamp, muck, splatter"
+---?> Latin `blatta`: "light-shunning insect, blood clot, purple" ####
+-----> Western Romance
+------> French `blatte`: "cockroach"
+------> Italian `blatta`: "cockroach"
+-----> Greek `βλαττα`: "dyed purple wool"
+------> Greek `μεταξαβλαττα`: "spun purple fabric"
+---> Eastern Romance
+----> Romanian `baltă`: "puddle, pond, muddy water, swamp"
+
+
+-> Proto-Indo-European <*bʰl̥wós>
+
+--> Germanic <*blēwaz>: "blue, dark blue, blue-black"
+---> North Germanic
+----> Old Norse `blár`: "blue"
+-----> Danish `blå`: "blue"
+-----> Icelandic `blár`: "blue"
+-----> Scots `blae`: "blue"
+---> West Germanic
+----> Old English `blāw`
+-----> English `blue`
+-----> Scots `blae`
+----> Frankish
+-----> Dutch `blauw`: "blue, bruised, drunk"
+------> Afrikaans `blou`: "blue"
+-----> Old French `blew`
+------> French `bleu`
+------> English `blue`
+------> Greek `μπλε` <ble>
+------> Italian `blu`: "blue"
+----> Old High German `blāo`: "blue"
+-----> German `blau`: "blue, drunk"
+-----> Yiddish `בלוי` <bloy>: "blue"
+
+--> Italic
+---> Latin `flāvus`: "yellow, blond, flaxen"
+----> Latin `Flavus`: "brother of Arminius" ("The Blond", probably not his real name)
+-----> Latin `Flavius`: "family name, personal name"  #####
+------> Western Romance
+-------> Italian `Flavio`: "personal name"
+
+
+-> Proto-Indo-European <*bʰelo-s>
+
+--> Celtic <*belo>: "shining"
+---> Brythonic <*bel>
+----> Brythonic <*bel-?>: "shining land?"
+-----> Ancient Greek `Βελέριον`: "Cornwall"
+
+---> Celtic <*belo-tanos>: "shining-fire"
+----> Old Irish `Beltaine`
+-----> Irish `Bealtaine`: "May, Beltane"
+-----> English `Beltane`
+
+---> Celtic <*belenos?>: "shining one?"
+---> Gaulish `Belenos`: "divinity of the Sun"
+---> Brythonic <*Belinos>
+----> Medieval Latin <Belinus>
+---?> Brythonic <*Cunobelinos>: "personal name, Hound of Belinos"
+-----> Latin `Cunobelinus`
+-----> Old Welsh
+------> English `Cymbeline`
+------> Welsh `Cynfelyn`
+
+
+-> Proto-Indo-European <*bʰolo-s?>
+
+--> Balto-Slavic
+---> Lithuanian <balas>: "white"
+----> Lithuanian `balà`: "swamp, mire, morass" ###
+
+--> Germanic <balaz>
+---> East Germanic
+----> Gothic `𐌱𐌰𐌻𐌰-` <bala->: "shining, grey"
+---> West Germanic
+---?> Old English <*bal>: "shining"
+----?> Old English <*balod>: "shined?" (past participle)
+------> English `bald`
+
+
+-> Proto-Indo-European <*bʰl̥ló-s?>
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `भाल` <bhāla>: "splendor, lustre, forehead, brow"
+
+--> Hellenic
+---> Ancient Greek `φᾰλός` <phalós>: "white"
+
+-> Proto-Indo-European <*bʰelō>
+
+--> Albanian `balë`: "white spot on forehead, badger"
+---> Albanian `bal`: "dog or goat (with white spot)"
+
+--> Old Armenian `բալ` <bal>: "fog, mist"
+---> Armenian `բալ` <bal>: "fog"
+
+--> Germanic <*bēlą>: "fire, pyre"
+---> North Germanic
+----> Old Norse `bál`: "fire"
+-----> Danish `bål`: "fire, bonfire, pyre"
+-----> Icelandic `bál`: "fire, bonfire, conflagration"
+-----> Old Norse `Báleygr`: "Flaming-Eye (a name of Odin)"
+---> West Germanic
+----> Old English `bǣl`: "pyre, bonfire, fire, flame, blaze"
+-----> Old English `bǣlfȳr`: "sacrifical fire, funeral fire, balefire"
+------> English `balefire`
+-----> Welsh `bal`: "blaze"
+
+
+-> Proto-Indo-European <*bʰoliko-s>: "shiningness?"
+
+--> Italic
+---> Latin `fulica`: "coot, waterfowl" ##
+----> Western Romance
+-----> French `foulque`: "coot"
+-----> Italian `folaga`: "coot"
+----> Translingual `Fulica`: "taxonomic genus of rails, the coots"
+
+
+-> Proto-Indo-European <*bʰēlHs>
+
+--> Old Armenian
+---> Armenian `բիլ` <bil>: "light blue"
+
+--> Balto-Slavic
+
+---> Slavic <*bě̃lъ>: "white"
+----> East Slavic
+-----> Belarusian `бе́лы` <bjély>: "white"
+------> Belarusian `Белару́сь` <Bjelarúsʹ>: "Belarus" (lit. "White Rus/Ruthenia/Russia")
+-------> English `Belarus`
+-----> Russian `бе́лый` <bélyj>: "white"
+------> Russian `белу́га` <belúga>: "beluga"
+-------> English `beluga`
+----> Slavic <*Bělъgordъ>: "White-City"
+-----> East Slavic `Бѣлъгородъ` <Bělŭgorodŭ>: "White-City, Belgorod"
+------> Russian `Бе́лгород` <Bélgorod>: "Belgorod"
+-------> English `Belgorod`
+-----> South Slavic <*Belgradъ>: "White-City, Belgrade"
+------> Serbo-Croatian `Бео̀град` <Beògrad>: "Belgrade"
+------> Russian `Белгра́д` <Belgrád>: "Belgrade"
+-------> English `Belgrade`
+
+
+-> Proto-Indo-European <*bʰelg->
+
+--> Proto-Indo-European <*bʰélg-eti>
+
+---> Hellenic
+----> Ancient Greek `φλέγω` <phlégō>: "I set on fire, I scorch, I kindle, I inflame"
+-----> Ancient Greek `φλέγμᾰ` <phlégma>: "flame, heat, inflammation, phlegm"
+------> Arabic `بَلْغَم` <balḡam>: "phlegm, sputum"
+-------> Ottoman Turkish `بالغام` <balgam>
+--------> Turkish `balgam`
+------> Latin `phlegma`
+-------> Western Romance
+--------> Old French `fleume`: "phlegm"
+---------> French `flegma`: "phlegm" (spelling and pronunciation remodelled after Latin)
+---------> English `phlegm` (spelling remodelled after Latin/Greek)
+--------> Italian `flemma`: "phlegm"
+---------> French `flemme`: "laziness"
+--------> Spanish `flema`: "phlegm"
+
+
+--> Proto-Indo-European <*bʰélgey-eti>
+
+---> Italic
+----> Latin `fulgeō`: "I flash, I glare, I shine"
+-----> Western Romance
+------> Italian `fulgere`: "to shine, to sparkle"
+------> Spanish `fulgir`: "to shine, to glow"
+
+
+--> Proto-Indo-European <*bʰelgó-s>
+
+---> Indo-Iranian <*bʰárgas>
+----> Indo-Aryan
+-----> Sanskrit `भर्ग` <bhárga>: "radiance, splendor" 
+
+---> Tocharian <pälk->: "to burn, to illuminate, to see"
+
+
+--> Proto-Indo-European <*bʰl̥gro-s>
+
+---> Italic <*flagros>: "burning"
+----> Latin `flagrō`: "I burn, I blaze"
+-----> Latin `flăgrāns`: "burning"
+------> English `flagrent`
+
+--> Proto-Indo-European <*bʰl̥gmh₂->
+
+---> Italic <*flagma>
+----> Latin `flamma`
+-----> Western Romance
+------> Old French `flame`
+-------> French `flamme`
+-------> English `flame`
+------> Italian `fiamma`: "flame, pennant, flash"
+------> Spanish `llama`: "flame"
+
+
+-> Proto-Indo-European <*bʰléy-ti>: "it shines?" (zero-grade deponent imperfective?)
+--> Proto-Indo-European <*bʰley-> (reanalyzed root)
+
+
+---> Proto-Indo-European <*bʰleyǵ-> (extension)
+
+
+----> Proto-Indo-European <*bʰléyǵ-e-ti>
+
+-----> Germanic <*blīkaną>: "to gleam, to shine"
+------> West Germanic
+-------> Old English `blīcan`: "to shine, to glitter, to twinkle"
+-------> Frankish <*blīcan>
+--------> Dutch `blijken`: "to appear, to become apparent, to turn out"
+-------> Old High German `blīhhan`
+------> Germanic <*blikkatjaną>: "to shine, to flash" (intensive verb)
+-------> West Germanic
+--------> Old English `blīccettan`
+--------> Old High German `blekkezzen`
+---------> German `blitzen`: "to lightn, to flash"
+----------> German `Blitz`: "lightning, flash"
+-----------> German `Blitzkrieg`: "blitzkrieg" (lit. "Lightning-War")
+------------> English `blitzkrieg`
+
+
+----> Proto-Indo-European <*bʰlinéǵ-ti>
+
+-----> Germanic <*blinkaną>: "to shine, to twinkle, to blink, to wink"
+------> West Germanic
+-------> Old English <*blincan>
+--------> English `blink`
+-------> Frankish <*blinkan>
+--------> Dutch `blinken`: "to shine, to glitter"
+-------> Old Saxon <*blinkan>
+--------> Danish `blinke`: "to blink, to wink, to glitter, to flash"
+--------> German `blinken`: "to blink"
+------> Germanic <*blankaz>: "bright, shining, white"
+-------> North Germanic
+--------> Old Norse `blakkr`
+---------> Norwegian `blakk`: "faded, pale yellow or brown, muddy, bankrupt"
+-------> West Germanic
+--------> Old English `blanc`: "white, greyish-white, pallid"
+---------> English `blank`
+--------> Frankish <*blank>
+---------> Dutch `blank`: "white, pale"
+---------> Western Romance <*blancus>
+----------> Old French `blanc`
+-----------> French `blanc`: "white, blank"
+-----------> English `blank`
+----------> Italian `bianco`: "white, blank, linen"
+----------> Spanish `blanco`: "white"
+--------> Old High German `blank`
+---------> German `blank`: "bright, clean, polished, naked, pure"
+
+
+----> Proto-Indo-European <*bʰliǵsḱé-ti> (iterative)
+
+-----> Balto-Slavic
+------> Lithuanian `blizgėti`: "to shine, to glitter, to sparkle"
+
+
+----> Proto-Indo-European <*bʰloyǵó-s>
+
+-----> Germanic <*blaikaz>: "pale, white"
+------> North Germanic
+-------> Old Norse `bleikr`
+--------> Danish `bleg`: "pale, pallid"
+--------> Icelandic `bleikur`: "pink, pale"
+------> West Germanic
+-------> Old English `blāc`: "pale, shining, white"
+--------> English `bleak`
+-------> Frankish <*blēk>
+--------> Dutch `bleek`: "pale, bleak"
+-------> Old High German `bleih`
+--------> German `bleich`: "pale, pallid"
+--------> Lombardic
+---------> Italian `biacca`: "white lead, ceruse"
+--------> Yiddish `בלייך` <bleykh>: "pale"
+------> Germanic <*blaikijaną>: "to bleach, to whiten"
+-------> North Germanic
+--------> Old Norse `bleikja`
+---------> Danish `blege`: "to bleach"
+---------> Icelandic `bleikja`: "to bleach"
+-------> West Germanic
+--------> Old English `blǣċan`
+---------> English `bleach`
+--------> Frankish <*blēken>
+---------> Dutch `bleken`: "to bleach"
+--------> Old High German `bleihhen`
+---------> German `bleichen`: "to bleach, to fade"
+
+
+-----> Proto-Indo-European <*bʰlóyǵsko-s>
+
+------> Balto-Slavic <*bloiskos>
+-------> Latvian `blaiskums`: "spot"
+-------> Slavic <*blě̑skъ>: "glitter, flash"
+--------> East Slavic `блѣскъ` <blěskŭ>
+---------> Russian `блеск` <blesk>: "brilliance, glitter, lustre, shine"
+--------> South Slavic
+---------> Serbo-Croatian `блије̑сак` <blijȇsak>: "flash, glare, shine"
+--------> West Slavic
+---------> Polish `blask`: "brightness, brilliance, glare, shine"
+
+
+---?>  Proto-Indo-European <*bʰlego-s>
+
+-----> Germanic <*blakaz>: "burnt, black"
+------> North Germanic
+-------> Old Norse `blakkr`: "dusky, black"
+------> West Germanic
+-------> Old English `blæc`: "black, ink"
+--------> English `black`
+--------> Danish `blæk`: "ink"
+---------> Greenlandic `pilikki`: "ink"
+-------> Frankish
+--------> Old Dutch `blak`
+-------> Old High German `blah`
+
+endbody
+
+
+startnotes
+
+# Two of several possible origins for `Balthae` (`Baltic`) are in this family, Baltic words for "white" and "swamp"
+
+##  The Eurasian coot (and some other coot spp.) has a white patch on its forehead contrasting with its otherwise solid black feathers. Thus also, "bald as a coot".
+
+
+
+
+### The semantic connection between "white" and "swamp" is thought to be the reflective water, or possibly the white seed heads of cottonsedge common in marshes throughout the Northern Hemisphere. https://commons.wikimedia.org/wiki/File:Pilane_%C3%A4ngsull.JPG
+
+Lithuanian `balà`: "swamp, mire, morass" is almost certainly an independent derivation of "swamp" from "white". The other Balto-Slavic swamp words may also be independent of the Illyrian, or may not.
+
+The Greek, Latin and Romanian words cannot develop natively from <*bʰel-> in Hellenic and Italic, which would cause them to start with ph/f instead of b/v. They must be borrowings from other branches, either late Illyrian or very early Slavic borrowings (or from Illyrian via otherwise unattested Balkan languages). Romanian `baltă` is also unlikely to derive directly from Latin `blattea`.
+
+Tyrian purple was associated with blod clots, probably because the most valued shade was a dark blood-clot color, or possibly the harvesting of the murex snails' hypobranchial gland was blood-clot like. Murex snails seem to have been included in the "mucky bugs" meaning of `blatta`?
+
+
+
+##### Flavius was originally a plebeian family in Rome, presumably named for a blond founding member of the family. The Flavian dynasty, though short, was crucial in restoring order after the fall of the Julio-Claudian dynasty. A large number of slaves were freed during the Flavian dynasty, resulting in a large number of freedman families adopting the name. The Constantinian dynasty also universally used Flavius as a personal name, such that they are sometimes called the Neo-Flavian dynasty.
+
+It was later occasionally used as a title by some of the Germanic post-Roman kingdoms in Iberia and Italy.
+
+endnotes

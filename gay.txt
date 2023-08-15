@@ -1,0 +1,162 @@
+date: 20170623
+theme: Pride In Words 🏳️‍🌈
+tags: Pride in Words, Divinities
+
+startbody
+
+Proto-Indo-European <*ǵʰeh₁->: "to go, to walk"
+
+-> Proto-Indo-European <*ǵʰh₁ye-ti> (ye- present verb)
+
+--> Germanic <*gāną>: "to go, to walk"
+---> East Germanic
+----> Gothic `𐌲𐌰𐌲𐌲𐌰𐌽` <gaggan>: "to go"
+----> Crimean Gothic `geen`: "to go"
+---> North Germanic
+----> Old Norse `gá`
+-----> Danish `gå`: "to go, to walk"
+---> West Germanic
+----> Old English `gān`
+-----> English `go`
+-----> Scots `gae`: "to go"
+----> Frankish <*gān>
+-----> Dutch `gaan`: "to go, to lead, to proceed"
+----> Old High German `gān`
+-----> German `gehen`: "to go, walk"
+-----> Yiddish `גיין` <geyn>: "to go, to walk"
+
+---> Germanic <*ganhuz>: "fast, quick"
+----> East Germanic
+-----> Gothic `𐌲𐌰𐌷𐌴𐌹𐍃` <gaheis>
+------> Old Occitan `gai`
+-------> Old French `gai`
+--------> French `gai`: "cheerful, merry"
+--------> English `gay`
+--------> Italian `gaio`: "cheerful, happy, bright color"
+----> West Germanic
+-----> Old High German `gāhi`
+------> German `jäh`: "abrupt, precipitous"
+------> Yiddish `גיך` <gikh>: "fast"
+-----> Frankish <*gāhi>
+------> Dutch `gauw`: "quickly, soon"
+------> Old French `jai`: "jay (bird)"
+-------> French `geai`: "jay (bird)"
+-------> English `jay`
+
+
+-> Proto-Indo-European <*ǵʰéǵʰeh₁-ti>: "to leave, to abandon"
+
+--> Indo-Iranian <*ĵʰáĵʰaHti>
+---> Indo-Aryan
+----> Sanskrit `जहाति` <jáhāti>: "to renounce, to abandon, to ignore, to shun"
+---> Iranian
+----> Avestan `𐬰𐬀𐬰𐬁𐬌𐬙𐬌` <zazāiti>: "to leave behind, to overtake, to win"
+
+
+-> Proto-Indo-European <ǵʰeh₁ro-s>: "left, remnant"
+
+--> Hellenic
+---> Ancient Greek `χήρα` <chíra>: "widow, relict"
+
+--> Italic
+---> Latin `hērēs`: "heir"
+----> Western Romance
+-----> Old French `eir`
+------> Anglo-Norman `heir`
+-------> English `heir`
+-------> Irish `oidhre`: "heir"
+-----> Italian `erede`: "heir"
+----> Latin `hērēditārius`: "hereditary, inherited"
+-----> Western Romance
+------> French `héritier`: "heir"
+-------> French `héritage`: "heritage, inheritance, legacy"
+--------> English `heritage`
+------> Spanish `heredero`: "heir"
+-----> English `hereditary`
+-----> French `héréditaire`: "hereditary"
+-----> Italian `ereditario`: "hereditary"
+-----> Spanish `hereditario`: "hereditary"
+----> Latin `hērēditō`: "I inherit"
+-----> Western Romance
+------> French `hériter`: "to inherit"
+------> Italian `ereditare`: "to inherit"
+------> Spanish `heredar`: "to inherit"
+-----> Latin `inhērēditō`: "I appoint as heir"
+------> Western Romance
+-------> Old French `enheriter`
+--------> English `inherit`
+
+
+
+-> Proto-Indo-European <*ǵʰengʰ-> "to go, walk, stride, step" (intensive form of <*ǵʰeh₁->)
+
+--> Proto-Indo-European <*ǵʰengʰ-ti> (primary verb)
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `žeñgti`: "to stride"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `जंहति` <jaṃhati>: "to move quickly, sprawl"
+
+---> Germanic <*ganganą>: to go, walk, step"
+----> East Germanic
+-----> Gothic `𐌲𐌰𐌲𐌲𐌰𐌽` <gaggan>: "to go"
+----> North Germanic
+-----> Old Norse `ganga`: "to go, to walk"
+------> Icelandic `ganga`: "to walk, to operate (of a machine)"
+------> Old Norse `Gangleri`: "walking-weary" (a name of Odin)
+----> West Germanic
+-----> Old English `gangan`: "to go, to walk"
+------> English `gang` #
+-------> English `gangling`
+-------> English `gangly`
+-------> English `gangway`
+-------> English `gangplank`
+-----> Old High German `gangan`
+------> German `(ge-)gangen`: "went" (past participle of `gehen`)
+----> Germanic <*gangaz>: "pace, step, walk, path"
+-----> North Germanic
+------> Old Norse `gangr`
+-------> Icelandic `gangur`: "the act of walking, movement, action, hallway"
+------> Finnic <*kangas>
+-------> Finnish `kangas`: "coniferous, boreal forest that is easily walked through; the kind of soil that such a forest grows on"
+-----> West Germanic
+------> Old English `gang`: "a going, act of walking, path, gait, toilet"
+-------> English `gang` #
+--------> Italian `ghenga`: "gang"
+--------> Japanese `ギャング` <gyangu>: "gang"
+--------> Korean `갱` <gaeng>: "gang"
+--------> Māori `kēnga`: "gang"
+--------> Portuguese `gangue`: "gang"
+--------> English `gank`
+------> Old High German `gang`: "path, journey, a going"
+-------> German `Gang`: "walk, course, passageway, mineral vein or seam"
+--------> French `gangue`: "the worthless rock or vein matter in which valuable metals or minerals occur"
+---------> English `gangue`
+-------> Old High German
+--------> German `Wolfgang`: "Wolf-Journey (personal name)"
+---------> English `Wolfgang`
+
+
+--> Proto-Indo-European <*ǵʰongʰis>
+
+---> Germanic <*gangiz>: "passable, going, able to go"
+----> North Germanic
+-----> Old Norse `gengr`
+------> Icelandic `gengur`: "passable, able to walk"
+-------> Icelandic `skipgengur`: "navigable" ("ship-passable")
+------> Swedish `gäng(e)`: "gang, team, group"
+-------> Finnish `jengi`: "gang"
+
+endbody
+
+
+startnotes
+
+# The semantic shift of English <gang> goes something like: "to go, to walk"/"a going, a journey" -> "a group of people travelling together" -> "a group of people acting towards a common goal" -> modern meanings.
+
+
+endnotes
+

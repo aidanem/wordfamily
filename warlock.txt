@@ -1,0 +1,242 @@
+date: 20200131
+tags: Divinities
+
+
+startintro
+
+"Warlock" originally meant "oathbreaker", a compound of <*wērō>: "truth, oath" and <*lugô>: "liar". Here I have the families for both pieces of the compound.
+
+There also used to be a related word in Old English `þēodloga`, which I am quite found of. It would have been "thedelock" in English, and I translate it as "arch-traitor" or "liar-general".
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*weh₁>: "true" (apparently LNWPIE)
+
+-> Proto-Indo-European <*weh₁ros>: "true" (adjective)
+
+--> Celtic <*wīros>: "true"
+---> Brythonic <*gwir>
+----> Welsh `gwir`: "true, certain, truly, justice"
+---> Old Irish `fír`: "true, truth"
+----> Irish `fíor`: "true, correct, real, truth, honor"
+
+--> Germanic <*wēraz>: "true, reliable, friendly"
+---> West Germanic <*wār>
+----> Old English `wǣr`: "true, correct"
+----> Frankish <*wari>
+-----> Dutch `waar`: "true, authentic"
+----> Old High German `wār`: "true"
+-----> German `wahr`: "true"
+---> Germanic <*alla-wēraz> ("all-true, all-friendly")
+----> East Germanic
+-----> Gothic `𐌰𐌻𐌻𐌰𐍅𐌴𐍂𐌴𐌹` <allawērei>: "sincerity, agreeability" ("all-true, all-friendly")
+----> North Germanic
+-----> Old Norse `alvara`
+------> Danish `alvor`: "seriousness, earnestness"
+------> Icelandic `alvara`: "seriousness, earnestness"
+
+--> Italic <*wēros>: "true"
+---> Latin `vērus`: "true, actual, genuine, suitable, just"
+----> Central Romance
+-----> Italian `vero`: "true, real"
+----> Western Romance
+-----> French `voir`: "truth"
+-----> Spanish `vero`: "true, real"
+
+----> Latin `vērāx`: "truthful"
+-----> Vulgar Latin <*vērācus>
+------> Central Romance
+-------> Italian `verace`: "true, honest, genuine"
+------> Western Romance
+-------> Old French `verai`: "real, genuine"
+--------> French `vrai`: "true, real"
+--------> Dutch `fraai`: "beautiful, fancy, nice"
+--------> English `very`
+-------> Spanish `veraz`: "truthful"
+------> English `veracious`
+------> Medieval Latin <vērācitās >
+-------> Old French
+--------> French `véracité`: "veracity, authenticity"
+--------> English `veracity`
+----> Latin `vērificō`
+-----> French `vérifier`
+------> English `verify`
+----> Latin `vērisimilis`
+-----> Latin `vērisimilitūdō`
+------> English `verisimilitude`
+----> Latin `vēritās`
+-----> Central Romance
+------> Italian `verità`
+-----> Western Romance
+------> French `vérité`
+------> Spanish `verdad`
+----> Latin `verum`: "truly, reality, fact"
+-----> Latin `(ad) de vērum`
+------> Eastern Romance
+-------> Romanian `adevăr`: "truth"
+------> Western Romance
+-------> Spanish `(a) de veras`: "really, truly"
+
+
+--> Proto-Indo-European <*weh₁reti>: "trusts" (de-adjectival verb)
+
+---> Balto-Slavic
+----> Slavic <*věriti>
+-----> East Slavic
+------> Russian `ве́рить` <véritʹ>: "to believe to trust"
+------> East Slavic <*do-věriti> (lit. "trust towards" or "trust up to")
+-------> Ukrainian `довіря́ти` <dovirjáty>: "to trust, to confide"
+-----> South Slavic
+------> Serbo-Croatian `вје̏рити` <vjȅriti>: "to engage, to betroth"
+-----> West Slavic
+------> Polish `wierzyć`: "rely, believe, trust"
+
+
+--> Proto-Indo-European <*weh₁reh₂>: "a truth, a trust" (de-adjectival noun)
+
+---> Balto-Slavic <*wēˀrāˀ>
+----> Slavic <*vě̀ra>: "belief, faith"
+-----> East Slavic `вѣра` <věra>
+------> Russian `ве́ра` <véra>: "faith, trust, religion"
+------> Ukrainian `ві́ра` <víra>: "faith, belief, creed, confidence"
+----> South Slavic
+-----> Old Church Slavonic `вѣра` <věra>: "faith, belief"
+-----> Serbo-Croatian `вје̏ра` <vjȅra>: "belief, faith, religion"
+----> West Slavic
+-----> Polish `wiara`: "belief, faith, creed, trust, confidence"
+------> Polish `wiarołomca`: "traitor" (lit. "trust-breaker") ###
+
+---> Germanic <*wērō>: "truth, pledge"
+----> North Germanic
+-----> Old Norse `vár`: "pledge"
+------> Old Norse `Vár`: "Divinity of oaths and agreements"
+------> Old Norse `væringi`: "sworn companion" ("truth-gang")
+-------> Byzantine Greek `Βάραγγος` <Várangos>: "Varangian"
+--------> English `Varangian`
+----> West Germanic <*wāru>
+-----> Old English `wǣr`: "truth, faith, friendship, agreement"
+-----> Old High German `wār`
+-----> West Germanic 
+------> Old English `wǣrloga`: "oath-breaker, liar, traitor" (lit. "truth-liar")
+-------> English `warlock`
+------> Old High German `wārlogo`: "truce-breaker, traitor"
+
+
+
+Proto-Indo-European <*lewgʰ->: "to lie, to be false" (also apparently LNWPIE)
+
+-> Proto-Indo-European <*léwgʰeti>
+
+--> Germanic <*leuganã>: "to lie"
+---> East Germanic
+----> Gothic `𐌻𐌹𐌿𐌲𐌰𐌽` <liugan>: "to lie"
+---> North Germanic
+----> Old Norse `ljúga`: "to lie"
+-----> Danish `lyve`: "to lie"
+-----> Icelandic `ljúga`: "to lie"
+---> West Germanic
+----> Old English `lēogan`: "to lie, to be wrong, to deceive"
+-----> English `lie`
+-----> Scots `lee`
+----> Frankish <*liegan>
+-----> Dutch `liegen`: "to lie"
+----> Old High German `liogan`
+-----> German `lügen`: "to lie"
+-----> Yiddish `לײַגן‎` <laygn>: "to lie"
+
+-> Proto-Indo-European <*lugʰyéti>
+
+--> Balto-Slavic
+---> Slavic <*lъgàti>: "to lie"
+----> East Slavic `лъгати` <lŭgati>
+-----> Russian `лгать` <lgatʹ>: "to lie"
+-----> Ukrainian `лга́ти` <lháty>
+----> South Slavic
+-----> Old Church Slavonic `лъгати` <lŭgati>: "to lie"
+-----> Serbo-Croatian `ла̀гати` <làgati>: "to lie"
+----> West Slavic
+-----> Polish `łgać`: "to lie"
+
+
+
+-> Proto-Indo-European <*lowgʰnos>
+
+--> Germanic <*laugnaz>: "concealed"
+---> East Germanic
+----> Gothic <*laugns>
+-----> Gothic `𐌰𐌽𐌰𐌻𐌰𐌿𐌲𐌽𐍃` <analaugns>: "secret, concealed"
+---> Germanic <*laugnijanã>: "to conceal"
+----> East Germanic
+-----> Gothic `𐌻𐌰𐌿𐌲𐌽𐌾𐌰𐌽` <laugnjan>
+----> North Germanic
+-----> Old Norse `leyna`
+------> Icelandic `leyna`: "to hide, to conceal"
+----> West Germanic
+-----> Old English `līeġnan`: "to deny"
+-----> Frankish <*lōganen>
+------> Dutch `loochenen`: "to deny, to disavow"
+-----> Old High German `louganen`
+------> German `leugnen`: "to deny"
+
+---> Germanic <*laugnō>: "concealment"
+----> North Germanic
+-----> Old Norse `laun`: "secrecy, concealment"
+----> West Germanic
+-----> Old High German `lougna`
+
+
+-> Proto-Indo-European <*lugʰis>: "lie" (noun)
+
+--> Balto-Slavic
+---> Slavic <*lъžь>
+----> East Slavic `лъжь` <lŭžĭ>
+-----> Russian `ложь` <ložʹ>: "lie"
+-----> Ukrainian `лож` <lož>: "lie"
+----> South Slavic
+-----> Serbo-Croatian `ла̑ж` <lȃž>: "lie"
+----> Slavic <*lъžujьkъ>: "March" (lit. "deceptive")
+-----> South Slavic
+------> Serbo-Croatian `òžujak`: "March"
+----> West Slavic
+-----> Old Polish `łeż`: "lie"
+
+--> Germanic <*lugiz>: "lie"
+---> North Germanic
+----> Old Norse
+-----> Icelandic `lygi`: "lie"
+---> West Germanic
+----> Old English `lyġe`: "lie"
+-----> English `lie`
+----> Old High German `lugī`
+-----> German `Lüge`: "lie"
+-----> Yiddish `ליגן` <lign>: "lie"
+
+
+-> Proto-Indo-European <*léwgʰō> (noun)
+
+--> Germanic <*lugô>: "liar, traitor"
+---> North Germanic
+----> Old Norse `logi`
+---> West Germanic
+----> Old English `loga`
+-----> Old English `þēodloga`: "liar-general, great traitor, arch-impostor"
+------> English <*thedelock>
+----> Old High German `logo`
+----> West Germanic
+-----> Old English `wǣrloga`: "oath-breaker, liar, traitor" (lit. "truth-liar")
+------> English `warlock`
+-----> Old High German `wārlogo`: "truce-breaker, traitor"
+
+
+endbody
+
+
+startnotes
+
+### Polish `wiarołomca`: "traitor" is literally "trust-breaker", but the word "łomić", "to break" is archaic in Polish—mostly only used in "łom": "crowbar".
+
+
+endnotes

@@ -1,0 +1,387 @@
+date: 20190524
+theme: Plants 🌱
+tags: Divinities, Plants, Toponymy
+
+
+startintro
+
+I'm in the process of expanding this family, after merging the original Proto-Indo-European <*bʰleh₃->: "flower" with Proto-Indo-European <*bʰelǵʰ->: "to swell" (originally under title word <a href="/word-family-budget.html">Budget</a>)—and putting both under Proto-Indo-European <*bʰel->: "to blow, to swell up".
+
+
+
+endintro
+
+
+
+startbody
+
+
+
+Proto-Indo-European <*bʰel->: "to blow, to swell up"
+
+-> English `ball`
+-> English `phallus`
+
+
+
+
+
+-> Proto-Indo-European <*bʰleh₁->
+
+--> English `blow`
+--> English `bladder`
+--> English `flavor`
+--> English `inflate`
+--> English `blast`
+-?> English `blazon`
+
+
+-> Proto-Indo-European <*bʰlewH->
+
+--> English `fluid`
+--> English `flux`
+
+
+
+-> Proto-Indo-European <*bʰleh₃->: "flower"
+
+
+--> Proto-Indo-European <*bʰléh₃e-ti>
+
+---> Germanic <*blōaną>: "to bloom, to flower"
+----> West Germanic
+-----> Old English `blōwan`
+------> English `blow` ###
+-------> English `full-blown` #####
+-----> Frankish
+------> Dutch `bloeien`: "to blossom, to develop, to flourish"
+-----> Old High German `bluoen`
+------> German `blühen`: "to blossom, to thrive"
+
+----> Germanic <*blōmô>: "flower"
+-----> East Germanic
+------> Gothic `𐌱𐌻𐍉𐌼𐌰` <blōma>: "flower"
+-----> North Germanic
+------> Old Norse `blóm`: "flower"
+-------> Icelandic `blóm`: "flower"
+-------> Middle English `blome`: "flower"
+--------> English `bloom`
+-----> West Germanic
+-----?> Old English `blōma`: "the spongy mass of iron that results from smelting"
+-------> Middle English `blome`
+--------> English `bloom`
+
+
+----> Germanic <*blōdiz> (resultative noun)
+-----> Western Romance
+------> Old English `blēd`: "shoot, branch, leaf, fruit, harvest, yield"
+------> Old High German `bluot`
+-------> German `Blüte`: "blossom, flower"
+
+
+
+--> Proto-Indo-European <*bʰleh₃s>
+
+--?> Albanian `bleron`: "to blossom, to thrive"
+
+---> Germanic <*blōs>
+----> Germanic <*blōstaz>
+-----> West Germanic
+------> Old High German
+-------> German `Blust`
+----> Germanic <*blōsmō>
+-----> West Germanic
+------> Old English `blōstma`: "flower, blossom, fruit"
+-------> English `blossom`
+
+
+---> Italic <*flōs>
+----> Latin `flōs`: "flower, blossom" (Acc.: `flōrem`)
+-----> Sardinian `frore`: "flower"
+-----> Eastern Romance
+------> Romanian `floare`: "flower"
+-----> Western Romance
+------> Old French
+-------> French `fleur` #
+--------> English `flour` #
+-------> English `flower`
+------> Italian `fiore`: "flower, blossom, surface"
+-------> Italian `fiorino (d'oro)`: "florin" (lit. "little flower of gold")
+--------> French `florin`
+---------> English `florin`
+-----> Latin `Flōra`: "divinity of flowers"
+------> English `flora`
+-----> Latin `flōreō`: "I bloom, I flower, I flourish, I am colorful"
+------> Western Romance
+-------> Italian `fiorire`: "to flower, to flourish"
+-------> Spanish `florear`: "to flower"
+------> Latin `flōrens`: "flowering, flourishing"
+-------> Latin `Flōrentia`: "place name, Florence"
+--------> Western Romance
+---------> French `Florence`
+----------> English `Florence`
+---------> Italian `Firenze`
+---------> Spanish `Florencia`
+------> Latin `flōrēscō`: "I begin to blossom, I begin to prosper"
+-------> Western Romance
+--------> Old French
+---------> French `fleurir`: "to flower, to bloom, to flourish"
+---------> English `flourish`
+--------> Spanish `florecer`: "to flower, to flourish"
+-------> Latin <*inflōrēscō>
+--------> Eastern Romance
+---------> Aromanian `nflurescu`: "I flower, I bloom"
+---------> Romanian `a înflori`: "to flower, to bloom"
+------> Latin `flōridus`: "blooming, flowery, florid"
+-------> Western Romance
+--------> French `floride`
+---------> English `florid`
+--------> Spanish `flórido`
+---------> Spanish `Florida`
+----------> English `Florida`
+
+
+--> Proto-Indo-European <*bʰléh₃tus>
+
+---> Celtic <*blātus>
+----> Brythonic <*blọd>
+-----> Welsh `blodyn`: "flower"
+------> Welsh `Blodeuwedd`: "Face-of-Flowers" (personal name) ##
+------> Welsh `Blodwen`: "Fair-Flower" (personal name)
+----> Gaulish <*blātōnā>
+-----> Latin `bladona`: "mullein, nightshade"
+------> Italian `belladonna`: "deadly nightshade, belladonna" ##
+-------> English `belladonna`
+----> Old Irish `bláth`: "flower, blossom, bloom"
+-----> Irish `bláth`: "flower"
+
+
+
+--> Proto-Indo-European <*bʰl̥h₃to>
+
+---> Germanic <*bladą>: "leaf, sheet of paper, blade"
+----> North Germanic
+-----> Old Norse `blað`: "leaf, herb"
+------> Danish `blad`: "leaf, petal, blade, sheet of paper, newspaper"
+-------> Danish `bladre`: "to turn pages, to browse"
+------> Icelandic `blað`: "sheet of paper, newspaper, leaf, blade"
+----> West Germanic
+-----> Old English `blæd`: "leaf, blade"
+------> English `blade`
+-----> Frankish <*blat>
+------> Dutch `blad`: "leaf, sheet of paper, page, newspaper"
+-----> Old High German `blat`
+------> German `Blatt`: "leaf, petal, sheet of paper, card, blade, foil, newspaper"
+------> Yiddish `בלאַט` <blat>: "leaf, sheet of paper, newspaper"
+
+---> Tocharian
+----> Arshian <pält>: "leaf, blade"
+----> Kushean <pilta>: "leaf, blade"
+
+
+--> Proto-Indo-European <*bʰolh₃yom>
+
+---> Hellenic
+----> Classical Greek `φῠ́λλον` <phúllon>: "leaf, foliage, plant"
+-----> French `chlorophylle`: "chlorophyll" (coined by Caventou and Pelletier in 1817)
+------> English `chlorophyll`
+
+---> Italic
+----> Latin `folium`: "leaf, petal, sheet of paper, trifle"
+-----> Sardinian `fógiu`
+-----> Eastern Romance
+------> Romanian `foaie`: "sheet of paper, leaf"
+-----> Western Romance
+------> French `feuille`: "leaf, sheet of paper"
+-------> English `foil`
+-------> French `feuillage`: "leaves (collective)"
+--------> English `foliage`
+------> Italian `foglia`: "leaf"
+------> Italian `foglio`: "sheet"
+------> Spanish `hoja`: "leaf, petal, blade, sheet, foil, pane"
+-----> English `folio`
+
+
+--> Proto-Indo-European <*bʰolyo->
+
+---> Old Armenian `բող` <boł>
+----> Armenian `բող` <boł>: "bur parsley"
+----> Old Armenian `բողբոջ` <bołboǰ>: "shoot, sprout, bud, descendants" (reduplication)
+-----> Armenian `բողբոջ` <bołboǰ>: "bud"
+
+--?> Indo-Iranian
+----> Iranian
+-----> Western Iranian
+------> Persian `بلال` <balâl>: "maize"
+
+
+
+
+-> Proto-Indo-European <*bʰelǵʰ->: "to swell"
+
+--> Proto-Indo-European <*bʰólǵʰos>
+
+--?> Old Armenian `բողկ` <bołk>: "radish"
+----> Armenian `բողկ` <bołk>: "radish"
+----> Georgian `ბოლოკი` <boloḳi>: "radish, turnip"
+----> Old Armenian `բողկուկ` <bołkuk>: "newly grown horn"
+-----> Armenian `բողկուկ` <bołkuk>: "newly grown horn, radish"
+
+---> Celtic <*bolgos>: "sack, bag, stomach"
+----> Brythonic <*bolɣ>: "sack, bag, stomach"
+-----> Welsh `bol`: "tummy"
+----> Gaulish <*bolgā>
+-----> Latin `bulga`: "knapsack, wallet, purse" ######
+------> Western Romance
+-------> Old French `bouge`: "sack, purse, small bag"
+--------> French `bouge`: "hovel, bulge"
+--------> English `bulge`
+--------> Old French `bougette`: "coin purse"
+---------> English `budget` ######
+-------> Italian `bolgia`: "bag, pouch, ditch, crowd"
+----> Old Irish `bolg`: "belly, sack, bellows"
+-----> Irish `bolg`: 
+-----> Old Irish `fir bolg`: "mythical inhabitants of Ireland before the Tuatha Dé Danann" ####
+------> English `firbolg`
+-----> Old Irish `hi mbolg`: "in the belly" (perhaps referring to pregnancy of ewes. Eclipsis of `b` to `mb`)
+-----?> Irish `Imbolg`: "Imbolc, St. Brigid's Day, Gaelic festival of spring"
+-------> English `Imbolc`
+
+-?> ? <*molko-> #####
+
+--?> Germanic <*malhō>: "leather bag"
+
+--?> Classical Greek `μολγός` <molgós>: "cow-hide bag"
+
+
+--> Proto-Indo-European <*bʰolǵʰis>
+
+---> Germanic <*balgiz>: "bag"
+----> East Germanic
+-----> Gothic `𐌱𐌰𐌻𐌲𐍃` <balgs>: "bag, wineskin"
+----> North Germanic
+-----> Old Norse `belgr`: "skin of an animal removed whole, skin bag, bellows"
+------> Danish `bælg`
+------> Icelandic `belgur`: "skin, hide, pelt, skin bag, bellows, belly"
+----> West Germanic
+-----> Old English `bælġ`
+------> English `belly`
+------> English `bellows`
+-----> Frankish <*balg>
+------> Dutch `balg`: "leather bag, bellows, cover for a moving joint"
+-----> Old High German `balg`
+------> German `Balg`: "hide, bellows, follicle, brat"
+
+---> Indo-Iranian <*bʰarĵʰíš>: "pillow, bed, bag filled with grass stuffing and used as a mattress"
+----> Indo-Aryan <*barźʰíṣ>
+-----> Sanskrit `बर्हिस्` <barhís>: "bed of grass"
+----> Iranian <*barĵíš>
+-----> Avestan `𐬠𐬀𐬭𐬆𐬰𐬌𐬱` <barəziš>: "pad, pillow"
+-----> Northern Iranian
+------> Scythian
+-------> Ossetian `баз` <baz>: "pillow"
+-----> Western Iranian
+------> Old Persian <*bāldiš>
+-------> Persian `بالش` <bâleš>: "pillow, cushion
+--------> Georgian `ბალიში` <bališi>: "pillow, cushion"
+--------> Ottoman Turkish `بالش` <bâliş>: "pillow"
+-------> Old Armenian `բարձ` <barj>: "pillow, cushion, throne, dignity, base of a triangle, thigh"
+--------> Armenian `բարձ` <barj>: "pillow, cushion"
+--------> Georgian `ბარძაყი` <barʒaq̇i>: "hip, thigh, haunch"
+
+
+
+--> Proto-Indo-European <*bʰolǵʰnis>
+
+--?> Italic
+----> Latin `follis`: "bellows, purse, small value coin (by extension from purse), (inflated) ball, belly"
+-----> Eastern Romance
+------> Romanian `foale`: "bellows, belly, abdomen"
+-----> Western Romance
+------> Old French `fol`: "madman, mad, foolish, silly"
+-------> French `fou`: "madman"
+-------> English `fool`
+------> Italian `folle`: "madman, insane"
+------> Spanish `fuele`: "bellows, steam, stamina"
+-----> Latin `follicō`: "I pant, I breathe, I blow" (like a bellows)
+-----> Latin `folliculus`: "small bag, ball, bud, husk, skin"
+------> English `follice`
+
+
+--> Proto-Indo-European <?>
+
+---> Germanic <*bulgijǭ>
+----> North Germanic
+-----> Old Norse `bylgja`: "wave, billow"
+------> Danish `bølge`
+------> Icelandic `bylgja`
+------> English `billow`
+----> Germanic <*bulstraz>: "bolster, pillow, cushion"
+-----> North Germanic
+------> Old Norse `bólstr`: "bolster, pillow"
+-------> Danish `bolster`
+-------> Icelandic `bólstur`: "bolster, pillow"
+--------> Icelandic `bólstraský`: "cumulus" (lit. "pillow-cloud")
+-----> West Germanic
+------> Old English `bolster`
+-------> English `bolster`
+------> Old High German `bolstar`
+-------> German `Polster`: "pad, cushion, upholstery"
+
+
+--> Proto-Indo-European <*bʰolǵʰineh₂>
+
+---> Balto-Slavic
+----> West Baltic
+-----> Old Prussian `balsinis`: "cushion"
+----> Slavic <*bolzina>
+-----> East Slavic
+------> Russian `болозно` <bolozno>: "thick plank"
+-----> South Slavic
+------> Serbo-Croatian `blàzina`: "pillow" (dialectic)
+
+
+
+?> Proto-Indo-European <*bʰel->: "to sound; to speak, roar, bark"
+
+
+--> Proto-Indo-European <*bʰleh₁>: "to cry"
+
+---> Proto-Indo-European <*bʰleh₁yeti>
+
+----> Balto-Slavic <*blḗˀtei>
+
+----> Germanic <*blējaną>
+
+-----> Germanic <*blētijaną>
+------> English `bleat`
+
+----> Italic <*flēō>
+-----> English `feeble`
+
+
+
+endbody
+
+
+
+startnotes
+
+# The "ground grain" meaning of "fleur" comes via the metaphorical usage of "flower of" to mean "best of".
+
+### In `full-blown`, it is not `blow` as in wind (from Germanic <*blēaną>) nor `blow` as in `hit` (Germanic <*blewwaną>), but `blow` as in `bloom` (Germanic <*blōaną>), as in Shakespeare's "the bud ere it be blown". This gives `full-blown` meaning "fully-developed, complete" (lit. "fully bloomed")
+
+
+## `belladonna` makes so much more sense as an eggcorn! It is an Italian eggcorn of Late Latin `bladona`, from the Gaulish version of Welsh `blodyn`: "flower", as in Blodwen or Blodeuwedd.
+
+Which means Seanan McGuire's Rose Owl is a relative of belladonna ("Making women out of flowers is a risk I don't advise")
+
+#### `Fir bolg` is usually translated as "men of bags". It could also be "men with bellies" or "men swollen in rage". Or possibly even "Roaring men"—though the voice/sound meanings are not otherwise attested in any Celtic languages as far as I know.
+
+
+##### Germanic <*malhō>: "leather bag" and Classical Greek `μολγός` <molgós>: "cow-hide bag" seem clearly related, but cannot derive from a single PIE form due to the difference in the velar. The Greek has been suggested to be a borrowing from another branch, perhaps Thracian. Once we're considering irregular borrowings, and in considering that the term is not found outside of Germanic and Greek (nor in any other morphological form), an ultimate source from <*bʰólǵʰos> is as likely as any and more than most.
+
+
+###### The word "budget" comes from a borrowing from Gaulish into Latin, meaning "bag, wallet, purse". Surprisingly, this cannot be conclusively tied to English `bag`.
+
+endnotes

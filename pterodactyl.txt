@@ -1,0 +1,456 @@
+date: 20190426
+theme: Dinosaurs and Friends🦕 
+tags: Animals, Birds, Divinities
+
+
+
+startintro
+
+Pterodactyl. Two cool realizations about Greek "pter-". 1) "Helicopter" is so strongly segmented as "heli-copter" in English, it's fun to realize that the Greek construction is actually "helico-pter": "twisting (helix) wing". 2) More recently I realized it's an awesome example of Grimm's Law: apply Grimm's Law to "pter-" and you get "f(ea)ther".
+
+<peth₂->: "to fly" and <peth₂->: "to spread" (in some cases, "to spread arms wide") are not very distinct. For example, the Greek words which are the origins of "petal" and "hippopotamus" are ambiguous as to which meaning they come from. Is a petal named for being shaped like a feather or is it named for unfolding? (probabaly the latter.) Is a river named because it falls or because it spreads out? (no one knows).
+
+There is also some blurring in descendants with <ped->: "to walk, to step, to stumble" which sometimes converges with <peth₂->: "to fly" on a meaning of "to fall"; with <*peh₁->: "to hurt" which sometimes converges with <peth₂-> on meanings of "to befall, to happen, to experience"; and with <*peh₂w->: "few, small" which sometimes converges with <peth₂-> on meanings of "little bird, chick".
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*peth₂->
+
+
+
+?> Proto-Indo-European <*peth₂->: "to fly, to fall?"
+
+
+--> Proto-Indo-European <*péth₂-eti> (primary verb, imperfective)
+
+---> Balto-Slavic
+----> Slavic <*pariti>: "to fly"
+-----> East Slavic `парити` <pariti>
+------> Russian `пари́ть` <parítʹ>: "to glide"
+-----> South Slavic
+------> Old Church Slavonic `парѧщѧ` <paręštę>: "they flew"
+---?> Slavic <*pьrati>: "to fly"
+-----> South Slavic
+------> Old Church Slavonic `перѫтъ` <perǫtŭ>: "they fly"
+
+---> Celtic <*ɸeteti>: "to fly"
+----> Celtic <*exs-ɸeteti>: "to fly out of, to fly from"
+-----> Brythonic
+------> Middle Welsh `ehedec`: "fly"
+----> Celtic <ɸettiyā>
+-----> Old Irish `ette`: "wing, fin, feather"
+------> Irish `eite`: "wing, fin, feather"
+-------> Irish `eiteog`: "wing"
+--------> Irish `aereiteog`: "airfoil"
+
+---> Hellenic
+----> Classical Greek `πέτομαι` <pétomai>: "I fly, I hurry"
+
+---> Indo-Iranian <*pátati>
+----> Indo-Aryan <*pátati>
+-----> Sanskrit `𑀧𑀢𑀢𑀺` <pátati>: "to fly, to hurry, to fall, to happen"
+------> Magadhi
+-------> Bengali `পড়া` <pôŗa>: "to fall"
+------> Pali <pataiti>: "to fall, to jump"
+------> Sauraseni `𑀧𑀟𑀤𑀺` <paḍadi>
+-------> Madhya
+--------> Hindi `पड़ना` <paṛnā>: "to fall, to happen, to stay, must (modal auxiliary)"
+-------> Pahari
+--------> Punjabi `ਪੈਣਾ` <paeṇā>: "to fall, to lie down, must (modal auxiliary)"
+-----?> Telugu `పడు` <paḍu>: "to fall, to experience, to be possible"
+----> Iranian <*pátatī>
+-----> Avestan <pataiti>: "falls"
+-----> Western Iranian
+-----?> Persian `فتادن‎` <fatadan>: "to fall (archaic)"
+-------> Persian `افتادن` <oftâdan>
+
+
+---> Italic <*petō>
+----> Latin `petō`: "to aim for, to seek, to request"
+-----> Central Romance
+------> Italian `pezzire`
+-------> Italian `pezzente`: "beggar, wretch, miser"
+-----> Eastern Romance
+------> Romanian `a peți`: "to petition, to propose (marriage), to sue"
+-----> Western Romance
+------> Spanish `pedir`: "to request"
+-----> Latin `appetō`: "I strive for, I seize upon, I approach, I desire" ("aim towards")
+------> English `appetite`
+-----> Latin `competō`: "I come together, I meet, I agree, I am equal to" ("aim together") ###
+------> English `compete` ###
+------> English `competent`
+-----> Latin `impetō`: "I rush in, I attack" ("aim in")
+------> English `impetus`
+-----> Latin <*perpetō> ("aim through")
+------> Latin `perpetuus`: "uninterrupted, continuous, perpetual"
+-------> English `perpetual`
+-----> Latin `petītiō`: "an request, an application, an attack"
+------> English `petition`
+-----> Latin `petulāns`
+------> English `petulant`
+-----> New Latin `centripetam`: "aiming toward the center, centripetal" (coined by Isaac Newton in 1687)
+------> English `centripetal`
+---?> Venetic <*-pet->: "to ride"
+-----> Venetic <ekupetaris>: "of a horse-rider, of the horse-riding upper class, equestrian"
+
+
+--> Proto-Indo-European <*pípth₂-eti> (reduplicated secondary imperfective)
+
+---> Hellenic
+----> Classical Greek `πῑ́πτω` <pī́ptō>: "I fall"
+-----> Greek `πέφτω` <péfto>: "I fall, I drop, I hang"
+-----> Classical Greek `πτῶσῐς` <ptôsis>: "a fall, falling, case, inflection" ######
+------> Classical Greek `ἀπόπτωσις` <apóptōsis>: "falling off"
+-------> English `apoptosis`
+
+
+-?> Proto-Indo-European <*pétə₂yós>: "wing-like?" (adjective)
+
+--?> Balto-Slavic <*petjas>: "shoulder blade, shoulder"
+
+
+--> Proto-Indo-European <*péth₂r̥>: "feather, wing"
+
+---> Anatolian
+----> Hittite `𒁁𒋻` <pát-tar>: "wing, feather"
+----?> Old Armenian `փետուր` <pʿetur>: "feather"
+
+---> Old Armenian `թեր` <tʿer>: "wing, feather, side"
+----> Armenian `թեր` <tʿer>: "petal, leaf, to be one the side of"
+----> Old Armenian `թռչիմ` <tʿṙčʿim>: "to fly"
+-----> Armenian `թռչել` <tʿṙčʿel>: "to fly, to leap"
+----> Old Armenian `թիթեռն` <tʿitʿeṙn>: "butterfly"
+-----> Armenian `թիթեռ` <tʿitʿeṙ>: "butterfly"
+
+---> Celtic <*ɸetnos>: "bird"
+----> Brythonic <*edn>
+-----> Welsh `edn`: "bird"
+----> Gaulish <*Etnosos>
+-----> Latin `Etnosus`: "Gaulish bird divinity"
+----> Old Irish `én`: "bird"
+-----> Irish `éan`: "bird, young bird, young animal"
+
+---> Germanic <*feþrō>: "feather"
+----> North Germanic
+-----> Old Norse `fjǫðr`: "feather"
+------> Danish `fjer`: "feather"
+------> Icelandic `fjöður`: "feather, spring"
+----> West Germanic
+-----> Old English `feþer`: "feather, pen"
+------> English `feather`
+-----> Frankish <*fethera>
+------> Dutch `veer`: feather, spring"
+-----> Old High German `fedara`: "feather"
+------> German `Feder`: "feather, spring, pen"
+------> Yiddish `פֿעדער` <feder>: "pen"
+------> Italian `federa`: "pillowcase"
+
+---> Hellenic
+----> Classical Greek `πτερόν` <pterón>: "feather, wing"
+-----> Greek `φτερό` <fteró>: "wing, feather"
+-----> French `ptéro-`
+------> French `Ptéro-Dactyle`: "pterodactyl" (lit. "wing(ed) finger", coined by George Cuvier in 1809)
+-------> Translingual `Pterodactylus`: "a taxonomic genus of pterosaur"
+--------> English `pterodactyl`
+-----> French `ptère`
+------> French `hélicoptère`: "helicopter" (lit. "spiral-wing", coined by Gustave de Ponton d'Amécourt in 1861)
+-------> English `helicopter` ##
+--------> English `copter` (back-formation & segmentation error)
+
+---> Indo-Iranian <*pátram>
+----> Indo-Aryan <*pátram>
+-----> Sanskrit `𑀧𑀢𑁆𑀭` <pátra>: "leaf, sheet, paper"
+------> Magadhi
+-------> Bengali `পাতা` <pata>: "leaf, page"
+------> Sauraseni
+-------> Madhya
+--------> Hindi `पत्ता` <pattā>: "leaf, card, paddle"
+-------> Western Sauraseni
+--------> Romani `patrin`: "leaf"
+------> Telugu `పత్రం` <patraṁ>: "leaf"
+
+
+----> Iranian <*pátram>
+-----> Avestan <patarəta>: "winged"
+
+---> Italic <*petnā>
+----> Latin `penna`: "feather, wing, fin, quill, pen"
+-----> Central Romance
+------> Italian `penna`: "feather, pen, penne"
+-------> English `penne`
+-----> Eastern Romance
+------> Romanian `pană`: "feather"
+------> Albanian `pendë`: "feather, quill, fine, vane, weir"
+-----> Sardinian `pinna`
+-----> Western Romance
+------> Old French
+-------> French `penne`: "large feather, penne"
+--------> English `pen`
+-------> Old French `pinnion` (diminutive)
+--------> French `pignon`: "pinion, gearwheel, sprocket"
+--------> English `pinion`
+------> Spanish `peña`: "cliff, rock, circle of friends, people"
+-----> Old Irish `penn`: "pen"
+------> Irish `peann`: "pen"
+-----> Latin `pinnāculum`: "peak, pinnacle" (diminutive)
+------> Central Romance
+-------> Italian `pennacchio`: "plume"
+--------> French `panache`: "panache"
+---------> English `panache`
+---------> Italian `panache`: "panache"
+---------> French `panacher`: "to add panache, to mix colors"
+----------> German `panaschieren`: "to split one's vote"
+------> English `pinnacle`
+------> French `pinacle`: "pinnacle"
+------> Italian `pinnacolo`: "pinnacle, spur"
+------> Spanish `pináculo`: "pinnacle, spire"
+-----> Latin `pennale`
+------> German `Pennal`: "quill box, pencil case"
+-------> Danish `pennalhus`: "pencil case"
+-------> Romanian `penar`: "pencil case"
+-------> Russian `пена́л` <penál>: "pencil case"
+
+--?> ?
+---?> Classical Greek `πτῐ́λον` <ptílon>: "feather, down, leaf"
+
+--?> Proto-Indo-European <*perHt->
+
+----> Celtic <*ɸratis>: "fern"
+-----> Brythonic <*ratinā>
+------> Welsh `rhedyn`: "fern, bracken"
+-----> Gaulish `ratis`: "fern"
+-----> Old Irish `raith`
+-----> Celtic <*ɸratinākā>
+------> Old Irish `raithnech`
+-------> Irish `raithneach`: "fern, bracken"
+
+----> Hellenic
+-----> Classical Greek
+------> Greek `φτερι` <fteri>: "fern"
+
+
+--?> Proto-Indo-European <*pornóm>: "wing, feather"
+
+----> Proto-Albanian <*pʰera>
+-----> Albanian `fier`: "fern"
+
+----> Balto-Slavic
+-----> Lithuanian `spar̃nas`: "wing"
+----?> Slavic <*pero>: "feather, quill"
+------> East Slavic `перо` <pero>
+-------> Russian `перо́` <peró>: "feather, plume, pen"
+------> South Slavic
+-------> Old Church Slavonic `перо` <pero>
+-------> Serbo-Croatian `пѐро` <pèro>: "feather, plume, pen, author, plectrum"
+------> West Slavic
+-------> Polish `pióro`: "feather, plume, fountain pen"
+
+----> Germanic <*farnaz>: "fern"
+-----> West Germanic
+------> Old English `fearn`: "fern"
+-------> English `fern`
+-------> Scots `fairn`: "fern"
+------> Frankish <*farna>
+-------> Dutch `varen`: "fern"
+------> Old High German `farn`
+-------> German `Farn`: "fern"
+
+----> Indo-Iranian
+-----> Indo-Aryan
+------> Dardic <*panná>
+-------> Kashmiri <pan>: "leaf"
+------> Sanskrit `𑀧𑀭𑁆𑀡` <parṇá>: "pinion, feather, wing, leaf"
+-------> Magadhi
+--------> Bengali `পান` <pan>: "betel leaf, paan"
+-------> Maharashtri `𑀧𑀡𑁆𑀡` <paṇṇa>
+--------> Marathi `पान` <pān>: "leaf, page, playing card, betel leaf, paan"
+-------> Pali <paṇṇa>: "leaf, feather, quill, book"
+-------> Sauraseni `𑀧𑀡𑁆𑀡` <paṇṇa>
+--------> Madhya
+---------> Hindi `पान` <pān>: "betel, betel leaf, paan"
+----------> English `paan`
+--------> Hindi `पन्ना` <pannā>: "page, paper, sheet, emerald"
+-------> Hindi `पर्ण` <parṇ>: "feather, leaf"
+-----> Iranian
+------> Avestan <parəna>: "feathers"
+
+
+---> Proto-Indo-European <*h₂eḱu-péth₂r̥>: "swift-winged, hawk"
+
+----> Balto-Slavic
+-----> Slavic <*àstrę̄bъ>: "hawk"
+------> East Slavic `ꙗстрѧбъ` <jastrębŭ>
+-------> Russian `я́стреб` <jástreb>: "hawk"
+------> South Slavic
+-------> Serbo-Croatian `ја̏стријеб` <jȁstrijeb>
+------> West Slavic
+-------> Polish `jastrząb`: "hawk"
+
+----> Hellenic
+-----> Classical Greek `ὠκύπτερος` <ōkúpteros>: "swift-winged"
+------> Classical Greek `ὀξυπτέριον` <oxuptérion>: "hawk"
+-------> Byzantine Greek `ξιφτέρι` <xiphtéri>
+--------> Albanian `qift`: "kite (predatory bird)"
+
+
+----> Italic <*akupeter>
+-----> Latin `accipiter`: "hawk, falcon"
+------> Central Romance
+-------> Italian `astore`: "goshawk"
+------> Eastern Romance
+-------> Albanian `skifter`: "falcon"
+------> Western Romance
+-------> French `autour`: "goshawk"
+-------> Portuguese `açor`: "goshawk"
+--------> Portuguese `Açores`: "Goshawk (Islands), Azores"
+---------> English `Azores`
+-------> Spanish `azor`: "goshawk"
+-------> Basque `aztore`: "falcon"
+------> English `accipiter`
+
+
+
+-?> Proto-Indo-European <*poth₂mós>: "a falling?"
+
+--?> Hellenic <*potamós>
+
+
+
+
+?> Proto-Indo-European <*peth₂->: "to spread, to expand"
+
+--> Proto-Indo-European <*peth₂eti> (primary verb)
+
+---> Hellenic
+----> Classical Greek `πετᾰ́ννῡμῐ` <petánnūmi>: "I spread out, I open, I am scattered"
+-----> Classical Greek `πέταλος` <pétalos>: "broad, flat"
+------> Classical Greek `πέτᾰλον` <pétalon>: "leaf, slice"
+-------> New Latin `petalum`: "petal"
+--------> English `petal`
+-------> Georgian `ფოთოლი` <potoli>: "leaf"
+-----> Classical Greek `πέτᾰσος` <pétasos>: "broad-brimmed hat, petasus, awning"
+------> Latin `petasus`: "travelling hat, broad-brimmed cap" ####
+
+---> Italic <*patnō>
+----> Latin `pandō`: "I spread out, I open, I unfold"
+-----> Latin `expandō`: "I spread out, I expand, I explain"
+------> Central Romance
+-------> Italian `spandere`: "to spread, to spill, to scatter"
+------> Western Romance
+-------> Old French `espandre`
+--------> French `épancher`: "to pour out, to erupt, to emit"
+--------> English `expand`
+---------> English `spandex`
+--------> English `spawn`
+-----> Latin `passus`: "spread out, dried, pace (unit of length), step"
+------> Central Romance
+-------> Italian `passo`: "footstep, step, pace, pass, passage, backlash"
+------> Eastern Romance
+-------> Romanian `pas`: "step, pace, stride, gait"
+------> Sardinian `passu`
+------> Western Romance
+-------> Old French
+--------> French `pas`: "step, pace, not" #####
+---------> English `pas de deux`
+--------> English `pace`
+-------> Spanish `pasa`: "step, pace, pass, way, 
+------> Vulgar Latin `passāre`: "to step, to walk, to pass"
+-------> Central Romance
+--------> Italian `passare`: "to pass"
+-------> Eastern Romance
+--------> Romanian `a păsa`: "to walk, to try, to look for"
+-------> Western Romance
+--------> French `passer`
+---------> English `pass`
+----------> English `past`
+--------> Spanish `pasar`: "to pass, to happen"
+
+
+-?> Proto-Indo-European <*pétə₂yós>: "spread out?, flat?" (adjective)
+
+--?> Balto-Slavic <*petjas>: "shoulder blade, shoulder"
+----> East Baltic
+-----> Lithuanian `petỹs`: "shoulder
+----> West Baltic
+-----> Old Prussian `pettis`: "shoulder blade"
+------> Old Prussian `pette`: "shoulder"
+
+
+--> Proto-Indo-European <*poth₂mós>: "an expanding, a spreading"
+
+---> Germanic <*faþmaz>: "armful, embrace, bosom, fathom (unit of measurement)"
+----> North Germanic
+-----> Old Norse `faðmr`: "embrace, fathom"
+------> Danish `favn`: "arms, embrace, armload, fathom"
+------> Icelandic `faðmur`: "outstretched arms, embrace, fathom"
+-----> Samic
+------> Northern Sami `fáŧmi`
+----> West Germanic
+-----> Old English `fæþm`: "outstretched arms, embrace, grasp, control"
+------> English `fathom`
+-----> Frankish <*fatham>
+------> Dutch `vadem`: "fathom"
+-----> Old High German `fadam`
+------> German `Faden`: "yarn, thread, fathom"
+
+
+--?> Hellenic <*potamós>
+----> Classical Greek `ποτᾰμός` <potamós>: "river, stream, canal"
+-----> Greek `ποτάμι` <potámi>: "river, stream, flow"
+------> Greek `ποταμάκι` <potamáki>: "rivulet, stream, brook" #
+-----> Classical Greek `μεσοποτάμιος` <mesopotámios>: "between rivers"
+------> Koine Greek `Μεσοποταμία` <Mesopotamía>: "Land between the rivers (Euphrates and Tigris)"
+-------> Latin `Mesopotamia`
+--------> English `Mesopotomia`
+-----> Classical Greek `ῐ̔πποπότᾰμος` <hippopótamos>: "hippopotamus" (lit. "river-horse")
+------> Latin `hippopotamus`
+-------> English `hippopotamus`
+
+---> Indo-Iranian
+----> Iranian
+-----> Avestan <paθana>: "spacious, broad"
+
+
+--> Proto-Indo-European <*peth₂no?>
+
+---> Hellenic
+----> Classical Greek `πατάνη` <patáne>: "broad flat, dish"
+-----> Latin `patina`: "dish, pan, crib, manger"
+------> Central Romance
+-------> Italian `patina`: "patina, oxidation on old bronze dishes"
+--------> French `patine`
+---------> English `patina`
+------> Latin `patella`: "small pan, plate, kneecap"
+-------> English `patella`
+
+
+
+endbody
+
+
+startnotes
+
+# Though a Neoclassical derivation from Greek `ποταμάκι` <potamáki>: "river (diminutive)" could plausibly result in `Potomac`, the Potomac River by Washington, D.C. is not related to the Greek. `Potomac` is from Algonquin <Patawomeck> or <Patawomke>: "River of Swans". The standardization of the spelling as `Potomac` in 1931 may have been influenced by Latinate aesthetics.
+
+## `helicopter` from Greek roots is very nearly equivalent to a purely Germanic formation "wheelishfeather"!
+
+Properly, Greek `ἕλῐξ` <hélix> is from PIE <*wel->: "to turn" with standard loss of digamma by Classical Greek. This root gives Germanic "willow" and "waltz". Where as English `wheel` on the other hand is from <*kʷel->: "to turn", which gives Greek `κύκλος` <kúklos>: "circle" (-> English `cycle`), `πόλος` <pólos>: "pivot, axis" (-> English `pole`), and `τέλος` <télos>: "completion" (-> English `teleology`).
+
+But it's not like the roots <*wel->: "to turn" and <*kʷel->: "to turn" can be really be considered completely distinct from each other!
+
+### Latin `competō`, literally "aim together", in Classical Latin, "I come together, I meet, I agree, I am equal to". "Compete" … originally means "cooperate"
+
+#### The petasus, the broad-brimmed travelling hat, is associated with Hermes in his role as a traveller and messenger. The broad, floppy brim is later re-interpreted as the winged cap.
+
+Compare: Odin's broad-brimmed travelling hat as described by his kenning "Siðhottr" (in the context of the fact that Mercury's Day in Latin becomes Woden's Day in English).
+
+
+##### The French use of `pas` as part of negation is a fossilization of an expression to the effect of "to not do even one step" of something.
+
+
+###### Classical Greek `πτῶσῐς` <ptôsis>: "a fall, falling, case, inflection" was calqued into Latin, with the use of `cāsus` to mean "grammatical case" as well as "fall". Latin `cāsus` was then calqued into, e.g., German as `Fall` to mean all kinds of things English describes as "case".
+
+endnotes

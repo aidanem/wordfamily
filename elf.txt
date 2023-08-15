@@ -1,0 +1,384 @@
+date: 20230113
+tags: Colors, Hydronomy, Plants, Toponymy
+
+
+
+startbody
+
+
+Proto-Indo-European <*h₂elbʰós>: "white"
+
+-> Anatolian <*albós>
+--> Hittite `𒀠𒉺𒀸` <alpas>: "cloud"
+
+-> Hellenic <*alpʰós>
+--> Classical Greek `ἀλφός` <alphós>: "alphos, leprosy with white lesions"
+---> Latin `alphos`
+----> English `alphos`
+
+
+-> Italic <*alβos>: "white"
+--> Latin `albus`: "white, bright, pale, gray, fortunate"
+---> Central Romance
+----> Dalmatian `jualb`: "white"
+---> Eastern Romance
+----> Romanian `alb`: "white, clean"
+---> Old English `albe`: "white robe worn by priests, alb"
+----> English `alb`
+---> Spanish `albo`: "white"
+----> Spanish `albino`: "albino"
+-----> English `albino`
+---> Vulgar Latin <*albidiare>: "to whiten, to dawn"
+
+---> Vulgar Latin <*alba>: "dawn, sunrise"
+----> Central Romance
+-----> Italian `alba`: "dawn, sunrise"
+----> Western Romance
+-----> French `aube`: "dawn, sunrise, beginning"
+-----> Occitan `alba`: "dawn"
+------> English `alba`
+-----> Spanish `alba`: "dawn"
+------> Spanish `albada`
+
+----> Vulgar Latin <*albidiare>: "to whiten, to dawn"
+-----> Central Romance
+------> Italian `albeggiàre`: "to turn white, to dawn"
+-----> Western Romance
+------> Spanish `albear`: "to whiten"
+
+---> Latin `album`: "whiteness, a blank tablet, a list or register, egg white (albumen)"
+----> English `album`
+-----> English `White Album`
+
+---> Latin `albūmen`: "egg white (albumen)"
+----> English `albumen`
+
+---> Latin `albor`: "whiteness, egg white (albumen), first light, dawn"
+----> Central Romance
+-----> Italian `albore`: "glimmer, first light, dawn"
+----> Insular Romance
+-----> Sardinian `arbore`
+----> Eastern Romance
+-----> Romanian `alboare`: "glimmer, radiance"
+----> Western Romance
+-----> Old French `aubour`
+-----> Spanish `albor`: "whiteness, first light, dawn"
+
+---> Vulgar Latin <*albaster>: "whitish" ##
+----> Eastern Romance
+-----> Romanian `albastru`: "blue, sky-blue"
+----> Vulgar Latin <*albasterellus>
+-----> Central Romance
+------> Italian `albastrello`: "marsh sandpiper"
+
+
+---> Latin `albēdō`: "white, whiteness"
+----> English `albedo`
+
+---> Latin `albūgō`: "albugo, leucoma"
+----> English `albugo`
+
+---> Latin `alburnum`: "alburnum, sapwood"
+----> Central Romance
+-----> Italian `alburno`
+----> Western Romance
+-----> Spanish `alburno`
+----> English `alburnum`
+
+---> Latin `alburnus`: "whitish"
+----> Western Romance
+-----> Old French `auborne`: "blond, off-white"
+------> English `auburn` (probably with semantic influence from `brun`: "brown")
+
+---> Latin `albō`: "I whiten, I make white"
+----> Latin `dealbō`: "I whitewash, I plaster, I purify" ("whiten thoroughly")
+-----> Western Romance
+------> Old French `dauber`: "to whiten, to whitewash
+-------> English `daub`
+----> Latin `exalbō`
+-----> Central Romance
+------> Italian `scialbare`
+----> Latin `inalbō`
+-----> Central Romance
+------> Italian `inalbare`
+--> Umbrian `𐌀𐌋𐌚𐌖` <alfu>: "white"
+---> Byzantine Greek `ἄλβος` <álbos>: "white"
+
+
+
+-> Unknown
+--> Finnic <*kalbas>
+---> Finnish `kalvas`: "pale"
+
+
+-> Proto-Indo-European <*h₂elbʰyos>: "whitish"
+
+--> Hellenic
+---> Classical Greek `Ἀλφειός` <Alpheiós>: "the river Alfeios and its associated divinity"
+----> Greek `Αλφειός` <Alfeiós>
+-----> English `Alfeios` ###
+----> Latin `Alphēus`
+-----> French `Alphée`
+-----> English `Alpheus` ###
+-----> English `Alph` ###
+
+
+--> Proto-Indo-European <*h₂elbʰi->
+
+---> Proto-Indo-European <*h₂ólbʰis>: "white one, the white"
+
+----> Germanic <*albiz>: "elf"
+-----> North Germanic <*albiʀ>
+------> Old Norse `alfr`: "elf"
+-------> Danish `alf`: "fairy, elf" (learned borrowing)
+-------> Icelandic `álfur`: "elf, fool"
+-------> English `oaf`
+-----> West Germanic <*albi>
+------> Old English `ælf` (or `ielf`)
+-------> English `elf`
+------> Frankish <*alf>
+-------> Dutch `alf`: "elf"
+------> Old High German `alb`
+-------> German `Alb`: "elf, nightmare"
+
+-----> Germanic <*Albigaizaz>: "personal name: Elf-Spear"
+------> North Germanic
+-------> Old Norse `Álfgeirr`
+--------> Icelandic `Álfgeir`
+------> West Germanic
+-------> Old English `Ælfgār`
+--------> English `Elgar`
+
+-----> Germanic <*Albigastiz>: "personal name: Elf-Guest, Elf-Stranger" (or possibly <*Albigaistaz>: "Elf-Ghost")
+-----> West Germanic
+------> Old High German
+-------> German `Elbegast`
+------> Frankish
+-------> Dutch `Elegast`
+
+-----> Germanic <*Albiharjaz>: "personal name: Elf-Warrior"
+------> North Germanic
+-------> Old Norse `Álfarr`
+--------> Swedish `Alvar`
+--------> Icelandic `Álfar`
+------> West Germanic
+-------> Old English `Ælfhere`
+-------> Old Saxon `Alfheri`
+------?> Spanish `Álvaro` #
+--------> Spanish `Álvarez` (patronymic)
+
+-----> Germanic <*Albihildiz>: "personal name: Elf-Battle"
+------> North Germanic
+-------> Old Norse `Alfhildr`
+--------> Swedish `Alfhild`
+
+-----> Germanic <*Albirēdaz>: "personal name: Elf-Counsel"
+------> West Germanic
+-------> Old English `Ælfrēd`
+--------> English `Alfred`
+
+-----> Germanic <*Albirīks>: "personal name: Elf-King"
+------> West Germanic
+-------> Old English `Ælfric`
+--------> English `Elric`
+-------> Old High German `Alberih`
+--------> German `Alberich`
+--------> Old French `Alberon`
+---------> Middle English `Auberon`
+----------> English `Oberon`
+---------> French `Aubrey`
+----------> English `Aubrey`
+----------> English `Avery`
+--------> Lombardic
+---------> Italian `Alberico`
+----------> Italian `Alberici` (patronymic)
+
+-----> Germanic <*Albiwiniz>: "personal name: Elf-Friend"
+------> West Germanic
+-------> Old English `Ælfwine`
+--------> English `Alvin`
+-------> Old High German `Albewini`
+--------> Lombardic `Alboin`
+
+
+---> Proto-Indo-European <*h₂elbʰih₂>
+
+---?> Germanic <*albī>: "river"
+-----> North Germanic
+------> Old Norse `elfr`: "river"
+-------> Danish `elv`: "river"
+-------> Icelandic `elfur`: "river"
+--------> Icelandic `Saxelfur`: "the Elbe" (lit. "Saxon river")
+-----> West Germanic <*albī>: "river, the River, the Elbe"
+------> Old English `Ælf`: "the Elbe"
+------> Old High German `Elba`: "the Elbe"
+-------> German `Elbe`
+--------> English `Elbe`
+
+------> Latin `Albis`: "the Elbe"
+-------> Classical Greek `Ἄλβις` <Álbis>: "the Elbe"
+------> Slavic <*olba>: "the Elbe"
+-------> East Slavic
+--------> Russian `Ла́ба` <Lába>: "the Elbe"
+-------> South Slavic
+--------> Serbo-Croatian `Лаба` <Laba>: "the Elbe"
+-------> West Slavic
+--------> Polish `Łaba`: "the Elbe"
+
+--?> Proto-Indo-European <*h₂élbʰi(t)>: "barley, barley-flour"
+
+----> Pre-Albanian <*albi>
+-----> Albanian `elb`: "barley"
+
+----> Hellenic <*álpʰi(t)>
+-----> Classical Greek `ἄλφι` <alphi>: "flour, barley flour"
+------> Classical Greek `ἄλφιτον` <álphiton>: "barley flour, barley groats, meal, groats"
+
+--?> Proto-Indo-European <*h₂l̥bʰés>: "barley, barley-flour"
+----> Indo-Iranian <*Hr̥pā́ćš> (with <*-ā́ćš>, a suffix in animal and plant names)
+-----> Iranian <*Hr̥pacáh>: "barley"
+------> Pashto `وربشی` <ōrbaše>: "barley"
+
+------> Northern Iranian
+
+-------> Turkic <*arpa>: "barley"
+--------> Oghur
+---------> Chuvash `урпа` <urpa>: "barley"
+--------> Common Turkic <*arpa>
+---------> Oghuz
+----------> Turkish `arpa`: "barley"
+---------> Karluk
+----------> Uyghur `ئارپا` <arpa>: "barley"
+---------> Kipchak
+----------> Kazakh `арпа` <arpa>: "barley"
+---------> Siberian Turkic
+----------> Old Turkic `𐰀𐰼𐰯𐰀` <arpa>: "barley"
+----------> Shor `арба` <arba>: "barley"
+
+---------> Hungarian `árpa`: "barley"
+----------> Hungarian `Árpád`: "personal name: Little Barley"
+-----------> English `Arpad`
+------------> English `Arpadian`
+
+---------> Manchu `ᠠᡵᡶᠠ` <arfa>: "naked oat"
+---------> Mongolic <*arbaï>
+----------> Mongolian `ᠠᠷᠪᠠᠢ` <arvaj>: "barley, a horse breed"
+
+
+---> Proto-Indo-European <*h₂elbʰᶤyō>
+
+----> Celtic <*albiyū>: "the upper world (not underworld), the lit world, high mountains, the Alps, Britain" (oblique stem <*albiyon->)
+
+-----> Brythonic <*ėlβɨð>: "the world"
+------> Welsh `elfydd`: "earth"
+
+-----> Hispano-Celtic
+------> Latin `Albionēs`
+
+-----> Old Irish `Albu`: "Scotland"
+------> Irish `Alba`: "Scotland" (archaic)
+-------> Irish `Albain`: "Scotland" (originally dative, "to Scotland")
+--------> Medieval Latin `Albania`: "Scotland"
+---------> English `Albany`
+
+-----> West Germanic <*albijā>
+------> Old High German `alba`: "Alp, mountainous area, highland"
+
+-------> Old High German `alpen`: "the Alps" (plural)
+--------> German `Alpen`: "the Alps
+
+-----> Classical Greek `Ἀλβίων` <Albíōn>: "Brittain"
+------> Latin `Albion`
+-------> English `Albion`
+
+----?> Latin `Alpēs`: "the Alps
+------> French `Alpes`
+-------> English `Alps`
+
+------> Latin `Alpīnus`
+-------> Central Romance
+--------> Italian `alpino`: "alpine, Alpine"
+-------> Western Romance
+--------> French `alpin`: "alpine, Alpine"
+--------> Spanish `alpino`: "alpine, Alpine"
+-------> English `alpine`
+
+----?> Latin `Albānus`: "an Albanian" ####
+
+
+
+
+---?> Illyrian ####
+----?> Classical Greek `Ἀλβᾱνός` ####
+-----?> Byzantine Greek `Ἀλβανός` <Albānós>: "an Albanian"
+
+----?> Latin `Albānus`: "an Albanian" ####
+-----?> Byzantine Greek `Ἀλβανός` <Albānós>: "an Albanian"
+-------> Greek `Αλβανός` <Alvanós>: "an Albanian"
+-------> Byzantine Greek `Ἀλβανία` <Albaníā>: "Albania"
+--------> Greek `Αλβανία` <Alvanía>: "Albania"
+--------> English `Albania`
+
+----?> Albanian `arbën`: "an Albanian" ####
+------> Greek `αρβανός` <arvanós>: "an Albanian"
+-------> Bulgarian `арбанаш` <arbanaš>
+--------> Romanian `arbănaș`: "Albanian"
+
+----?> Albanian `Labëria` ####
+
+
+
+
+
+
+
+
+
+
+
+
+
+endbody
+
+
+
+startnotes
+
+
+# The exact derivation of Spanish `Álvaro` is hard to pin down.
+
+It could be from Gothic. Many Germanic names in Spanish come through Visigothic during the time of the Visigothic kingdom in Iberia; but there is no evidence of the word <*albiz> in East Germanic, it may be an innovative word in Northwest Germanic after the split from East Germanic.
+
+It could come through a Frankish -> Old Occitan -> Spanish or Lombardic -> Old Occitan -> Spanish path. If so, we would expect to see the name used in French and/or Italian, but not necessarily.
+
+It could be from a different Germanic bithematic name (through any of those paths): *Allawardō or *Aþalawardō for example (All-Guard, Noble-Guard).
+
+
+## Oddly, Vulgar Latin <*albaster>: "whitish" is the not the origin of "alabaster", despite the phonological and semantic resemblance. Latin "alabaster" comes from Classical Greek `ἀλάβαστος` <alábastos>: "a vase of alabaster" (and its variant `ἀλάβαστρος` <alábastros>). Though the specific form of the Latin borrowing `alabaster` from Greek was probably influenced by the Latin suffix `-aster`.
+
+The Greek has been compared to Arabic <ʿulba>: "box, trunk, can", which is also attested as <ʿulba>: "a kind of palm-tree" (that a box might be made from, collective <ʿalaba>), in turn connected to Akkadian `𒀀𒆷𒈪𒌅` <alabattu>: "a kind of palm-tree".
+
+In the 1930s, Egyptologist Kurt Sethe derived "alabaster" from ꜥj-r-bꜣstjt / a-labaste: "bowl of Bastet". In the 1960s Gerhard Fecht proposed jnr-bꜣstjt / ana-baste: "stone of Bastet". But as far as I know, neither of those phrases are attested in Egyptian.
+
+The name `bꜣstjt` has been linked to <bꜣs>: "jar", but that's a much later association, and it's probably not the real etymology of her name. <bꜣs> may or may not have a link to alabaster, but it's unlikely to be through Bastet.
+
+It's also been suggested that Greek `ἀλάβαστος` <alábastos> comes from a place name in Egypt that alabaster was imported from. This is based on Pliny's _Naturalis historia_ and Ptolemy's _Geographia_.
+
+Pliny lists a city he calls Alabastron, and Ptolemy has one likewise (though in a different place) and Ptolemy also lists the Alabastrites Mountains. Pliny discusses the stone alabastrites in Book 36 and says it comes from near Thebes and from near Damascus (with Damascus being the better quality) but does not connect it to the place Alabastron he mentioned in Book 5.
+
+It's worth noting that Pliny and Ptolemy are writing hundreds of years after the conquest of Egypt by Alexander, and the names they give are not Egyptian names but Greek names which only sometimes have anything to do with Egyptian names for the same places. While the Greeks were almost certainly getting alabaster from the places they called Alabastron and Mons Alabastrites, it seems more likely they named the place(s) after the material instead of vice versa!
+
+More recently a comparison has been made to Arabic علبة <ʿulba>/<ʿalaba>: "box, trunk, can", though to be from an obsolete similar word for a kind of palm tree that was used for making boxes; the palm tree is also attested in Akkadian as <alabattu>.
+
+
+
+
+
+### From Classical Greek `Ἀλφειός` <Alpheiós>: "the river Alfeios and its associated divinity", the real world river in the modern day is generally called `Alfeios` in English; and the river god and the mythical version of the river are usually Alpheus. Coleridge anglicized the name as "Alph". The Alfeios river runs through the karst topography of Peloponnesus, disappearing into the ground and re-emerging somewhere else. Thus the literary/mythical versions of the river as a river in Hades, or as flowing under the sea to emerge in Siciliy, or running "through caverns measureless to man / Down to a sunless sea."
+
+
+#### The relationship between Classical Greek `Ἀλβᾱνός`, Latin `Albānus`, and Albanian `arbën` and Albanian `Labëria` is obscure and complicated. It may or may not be from one or more of Latin `alba`, Celtic <*albiyon->, and/or an Illyrian word which may or may not be cognate to either of those.
+
+
+
+endnotes

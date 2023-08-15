@@ -1,0 +1,81 @@
+startintro
+
+There's a very cool fact, that cabbage, broccoli, cauliflower, kale, Brussels sprouts, collard greens, kohlrabi, and others are all the species of plant: Brassica oleracea, selectively bred for different parts of the plant.
+https://www.google.com/search?q=brassica+oleracea+selection
+
+I had known that for many years before I noticed that many of the English words are all the same word, too: cauliflower, kale, collard, kohlrabi, coleslaw.
+
+But conspicously not:
+`broccoli`, despite the 'col' in the middle. `broccoli` is a plural dimunitive of `brocco`, just cannoli is a plural dimunitive of `canna`: "tube, cane" (see wff-cane). `brocco` is probably means "pointy", related to "brooch" and "brocade".
+`kailan`/`gailan` (or "Chinese kale") which, despite the 'kail' sequence, is really kai (or gai) + lan, and ultimately from Old Chinese <*kreːds> + <*ɡ·raːn>
+`cabbage`, of unknown origin, which is not explainable as some weird French version of `caulis`. Though it may be a weird French versions of `caput`: "head".
+`Brussels sprouts`, which of course is named after the city of Brussels. But in Romance languages, `Brussels sprouts` is generally literally "cabbage of Brussels", and uses the Romance "cabbage' words in this family (e.g., `chou de Bruxelles`, `cavolino di Bruxelles`, `col de Bruselas`); and in many Germanic languages is literally "rose-cabbage", and likewise uses the version of this word, e.g. `rosenkål`, `Rosenkohl`, etc.
+
+
+endintro
+
+startbody
+
+Proto-Indo-European <*keh₂ulós>: "tube? cylinder? bone?"
+
+-> Balto-Slavic <*káuˀlas>
+--> Lithuanian `káulas`: "bone"
+
+
+-> Hellenic
+--> Ancient Greek `καυλός` <kaulós>: "stem, stalk, shaft"
+---> Greek `καυλί` <kavlí>: "penis (vulgar)"
+--?> Latin `caulis`: "stalk, stem, especially cabbage stem, penis"
+
+-> Indo-Iranian
+--> Indo-Aryan
+---> Sanskrit `कुल्या` <kulyā>: "creek, canal"
+
+?> Italic
+--> Latin `caulis`: "stalk, stem, especially cabbage stem, penis"
+
+---> Western Romance
+----> French `chou`: "cabbage"
+-----> French `chou-chou`
+----> Italian `cavolo`: "cabbage"
+----> Spanish `col`: "cabbage"
+
+
+---> Old English `cawel`
+----> Middle English `col`
+-----> English `cole`
+------> English `cole slaw`
+-----> Middle English `colwort`
+------> English `colewort`
+------> English `collard (greens)`
+-----> Irish `cál`
+------> Irish `cál ceannann`
+-------> English `colcannon`
+-----> Middle English `cale` (northern dialectic variant)
+------> English `kale` 
+-------> Japanese `ケール` <kēru>
+----> Old Norse `kál`
+-----> Danish `kål`: "cabbage, kale"
+-----> Icelandic `kál`: "any Brassica plant"
+-----> Finnish `kaali`: "cabbage'
+
+---> Old High German `kōlo`
+----> German `Kohl`
+-----> German `Kohlrabi`
+------> English `kohlrabi`
+
+
+---> Vulgar Latin <*cauli-flōre>: "cabbage flower"
+----> Western Romance
+-----> French `chou-fleur`: "cauliflower"
+------> Wolof `sufëlëer`: "cauliflower"
+-----> Italian `cavolfiore`: "cauliflower"
+------> German `Karfiol`: "cauliflower"
+-------> Hungarian `karfiol`: "cauliflower"
+-------> Serbo-Croatian `карфиол` <karfiol>: "cauliflower"
+------> Polish `kalafior`: "cauliflower"
+-----> Spanish `coliflor`: "cauliflower"
+------> Tagalog `kóliplór`: "cauliflower"
+----> English `cauliflower`
+
+endbody

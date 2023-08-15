@@ -1,0 +1,726 @@
+date: 20210219
+tags: Elements
+
+
+startbody
+
+Proto-Indo-European <*sed->: "to sit" ####
+
+
+-> Proto-Indo-European <*sedeti> (simple imperfective)
+
+--> Celtic <*sedeti>
+---> Brythonic
+----> Cornish `hedhi`: "to stop, to pause"
+---> Old Irish `saidid`: "to sit"
+----> Irish `suigh`: "to sit, to set, to settle, to arrange, to rent"
+---> Celtic <*exs-dī-sedeti> ("out-from-sit")
+----> Brythonic
+-----> Welsh `eistedd`: "to sit"
+
+
+-> Proto-Indo-European <*sédyeti> (ye- imperfective)
+
+--> Germanic <*sitjaną>
+---> East Germanic
+----> Gothic `𐍃𐌹𐍄𐌰𐌽` <sitan>: "to sit"
+---> North Germanic
+----> Old Norse `sitja`: "to sit"
+-----> Danish `sidde`: "to sit, to be (at, in)"
+-----> Icelandic `sitja`: "to sit, to ride"
+---> West Germanic
+----> Old English `sittan`
+-----> English `sit`: "to sit"
+----> Frankish <*sitten>
+-----> Dutch `zitten`: "to sit, to be"
+----> Old High German `sizzen`
+-----> German `sitzen`: "to sit, to stay, to be"
+-----> Yiddish `זיצן` <zitsn>: "to sit"
+
+--> Hellenic <*heďďomai>
+---> Classical Greek `ἕζομαι` <hézomai>: "I sit"
+
+
+-> Proto-Indo-European <*sísdeti>: "sits" (reduplicate imperfective)
+
+-?> Pre-Armenian <*hisdo->
+--?> Pre-Armenian <*zisdo->: "to sit around, to sit after?"
+---?> Old Armenian `զիստ` <zist>: "thigh, seat in a boat"
+-----> Armenian `զիստ` <zist>: "thigh, haunch"
+
+--> Balto-Slavic <*sēˀstei>
+---> Old Prussian `sindants`: "sitting"
+---> Slavic <*sěsti>: "to sit down"
+----> East Slavic
+-----> Russian `сесть` <sestʹ>: "to sit down"
+----> South Slavic
+-----> Old Church Slavonic `сѣсти` <sěsti>: "to sit down"
+-----> Serbo-Croatian `сје̏сти` <sjȅsti>: "to sit down"
+----> West Slavic
+-----> Polish `siąść`: "to sit down"
+
+--> Hellenic <*hízdō>
+---> Classical Greek `ἵζω` <hízō>: "to sit, to place, to settle, to sink"
+
+--> Indo-Iranian <*síždati>: "to sit"
+---> Indo-Aryan <*síẓḍati>
+----> Sanskrit `𑀲𑀻𑀤𑀢𑀺` <sī́dati>: "to sit, to wait, to watch"
+-----> Elu
+------> Dhivehi `އިންނަނީ` <in̊nanī>
+-----> Pali <sīdati>
+
+--> Italic <*sizdō>
+---> Latin `sīdō`: "I sit, I seat, I settle, I sink down"
+----> Latin `subsīdō`
+-----> English `subside`
+---> Umbrian `𐌔𐌉𐌔𐌕𐌖` <sistu>
+
+
+
+--> Proto-Indo-European <*ni-sísdeti>: "sits down"
+
+---> Old Armenian `նստիմ` <nstim>: "to sit down, to settle"
+----> Armenian `նստել` <nstel>: "to sit down, to sink, to shrink"
+
+
+
+
+-> Proto-Indo-European <*sodéyeti>: "causes to sit, sets, seats" (causative)
+
+--> Balto-Slavic <*sōˀdeitei>
+---> Lithuanian `sodinti`: "to set, to plant"
+---> Old Prussian `saddinna`: "sets"
+---> Slavic <*sadìti>: "to plant"
+----> East Slavic
+-----> Russian `сади́ть` <sadítʹ>: "to seat, to plant, to imprison"
+----> South Slavic
+-----> Old Church Slavonic `садити` <saditi>: "to plant"
+-----> Serbo-Croatian `са́дити` <sáditi>
+----> West Slavic
+-----> Polish `sadzić`: "to plant"
+----> Slavic <*sȃdъ>: "plant, garden"
+-----> East Slavic
+------> Russian `сад` <sad>: "plant, garden, orchard"
+-----> South Slavic
+------> Old Church Slavonic `садъ` <sadŭ>: "garden, plantation"
+------> Serbo-Croatian `са̑д` <sȃd>: "(plant) nursery, seedling"
+-----> West Slavic
+------> Polish `sad`: "orchard"
+-----> Lithuanian `sõdas`: "garden"
+
+--> Celtic <*sodeyeti>
+---> Celtic <*ad-sodeyeti> (with <*ad->: "toward", double marking the causative)
+----> Old Irish `ad·suidi`: "to hinder, to stop"
+
+--> Germanic <*satjaną>: "to set, to place"
+---> East Germanic
+----> Gothic `𐍃𐌰𐍄𐌾𐌰𐌽` <satjan>: "to set"
+---> North Germanic
+----> Old Norse `setja`: "to set, to seat, to place, to settle, to establish, to set in order"
+-----> Danish `sætte`: "to set, to place, to fix in place, to plant, to posit"
+-----> Icelandic `setja`: "to put, to place, to fix in place, to decide, to posit, to typeset"
+---> West Germanic
+----> Old English `settan`
+-----> English `set`
+------> English `setter`
+-------> Czech `setr`: "setter (dog)"
+-------> French `setter`: "setter (dog)"
+-------> Mandarin `賽特犬` <sàitèquǎn>: "setter (dog)"
+-------> Russian `се́ттер` <sɛ́ttɛr>: "setter (dog)"
+----> Frankish <*setten>
+-----> Dutch `zetten`: "to set, to put, to typeset, to prepare"
+----> Old High German `sezzen`
+-----> German `setzen`: "to set, to put, to settle"
+-----> Yiddish `זעצן` <zetsn>: "to set, to seat"
+
+
+---> Germanic <*bisatjaną>: "to set in, to set around, to occupy"
+----> East Germanic
+-----> Gothic `𐌱𐌹𐍃𐌰𐍄𐌾𐌰𐌽` <bisatjan>: "to surround with, to set around"
+----> West Germanic
+-----> Old English `besettan`: "to set in, to set around, to surround, to beset"
+------> English `beset`
+-----> Frankish
+------> Dutch `bezetten`: "to fill, to occupy, to conquer"
+-----> Old High German `bisezzen`
+------> German `besetzen`: "to occupy"
+
+---> Germanic <*satīniz>: "a setting, a position, a collection of things in one place"
+----> East Germanic
+-----> Gothic <*sateins>
+------> Gothic `𐌰𐍆𐍃𐌰𐍄𐌴𐌹𐌽𐍃` <afsateins>: "divorce" ("a setting off/apart")
+------> Gothic `𐌲𐌰𐍃𐌰𐍄𐌴𐌹𐌽𐍃` <gasateins>: "foundation" ("a setting down")
+----> West Germanic
+-----> Old English
+------> English `set` (noun)
+
+
+--> Indo-Iranian <*sādáyati>
+---> Indo-Aryan
+----> Sanskrit `𑀲𑀸𑀤𑀬𑀢𑀺` <sādáyati>: "sits, reclines, languishes"
+
+--> Proto-Indo-European <*ni-sodéyeti>: "sets down"
+---> Indo-Iranian <*ni-sādáyati>
+----> Iranian <*nišādáyati>
+-----> Avestan `𐬥𐬌𐬱𐬁𐬜𐬀𐬌𐬌𐬈𐬌𐬙𐬌‎` <nišāδaiieiti>: "to sit down"
+-----> Northern Iranian
+------> Khotani <näta’ś->: "to end"
+------> Sogdian `𐫗𐫏𐫢𐫏𐫔` <nyšyδ>: "to plant, to establish"
+-----> Western Iranian
+------> Kurdish `niştin`: "to sit down"
+------> Old Persian `𐎴𐎡𐎹𐏁𐎠𐎭𐎹𐎶` <niyšadym>: "establishes, settles"
+
+
+
+-> Proto-Indo-European <*sedéh₂yeti> (causative/factitive)
+
+--> Italic
+---> Latin `sēdō`: "I settle, I calm, I make still, I stop"
+----> Central Romance
+-----> Italian `sedare`: "to sedate, to soothe, to cool"
+----> Latin `sēdātus`: "calmed, stilled, ended"
+-----> English `sedate`
+
+
+-> Proto-Indo-European <*sedéh₁yeti>: "is sitting" (stative)
+
+--> Balto-Slavic <*sēdētei>
+---> East Baltic
+----> Lithuanian `sėdė́ti`: "sits"
+---> Slavic <*sěděti>
+----> East Slavic
+-----> Russian `сиде́ть` <sidétʹ>: "to sit"
+----> South Slavic
+-----> Old Church Slavonic `сѣдѣти` <sěděti>: "to sit, to dwell"
+-----> Serbo-Croatian `сјѐдити` <sjèditi>: "to sit"
+----> West Slavic
+-----> Polish `siedzieć`: "to sit"
+
+--> Italic <*sedēō>
+---> Latin `sedeō`: "I sit, I preside, I settle, I remain"
+----> Central Romance
+-----> Italian `sedere`: "to sit"
+----> Eastern Romance
+-----> Romanian `a ședea`: "to sit"
+----> Western Romance
+-----> French `seoir`: "to be situated, to be suitable, to sit down"
+-----> Spanish `ser`: "to be" (suppletive verb, most of the conjugated forms are from `sum`)
+
+----> Latin `assideō`: "I sit next to, I attend on, I assist, I resemble" #####
+-----> Latin `assessus`
+-----> English `assess` #####
+
+----> Latin `dissideō`: "I sit apart, I am divided, I disagree"
+-----> Latin `dissidēns`
+------> French `dissident`: "dissident, dissenting"
+-------> English `dissident`
+
+----> Latin `obsideō`: "I sit up against, I sit near, I stay, I frequent, I besiege, I detain, I guard"
+-----> Latin `obsessus`
+------> English `obsess`
+
+----> Latin `possideō`: "I have, I own, I possess, I occupy, I control" (literally "able to sit (on), able to inhabit")
+-----> Central Romance
+------> Italian `possedere`: "to possess, to own, to master"
+-----> Western Romance
+------> Old French `posseoir`
+-------> English `possess`
+------> Spanish `poseer`: "to possess, to own"
+-----> French `posséder`: "to own, to possess"
+
+----> Latin `praesideō`: "I sit in front of, I guard, I preside over"
+-----> Central Romance
+------> Italian `presiedere`: "to preside"
+-----> Western Romance
+------> Old French 
+-------> French `présider`: "to preside"
+-------> English `preside`
+------> Spanish `presidir`: "to preside"
+-----> Latin `praesidēns`: "guarding, presiding, president"
+------> Central Romance
+-------> Italian `presidente`: "chairman, chief, president"
+------> Western Romance
+-------> Old French
+--------> French `président`: "president"
+--------> English `president`
+-------> Spanish `presidente`: "president"
+-----> Latin `praeses`: "guard, defender, chief"
+------> Latin `praesidium`: "defence, aid, guard, garrison, escort"
+-------> Central Romance
+--------> Italian `presidio`: "garrison"
+-------> Western Romance
+--------> Spanish `presidio`: "garrison, prison"
+---------> English `presidio`
+-------> Russian `прези́диум` <prezídium>: "head of committee"
+--------> English `presidium`
+
+----> Latin `resideō`: "I remain sitting, I linger, I reside, I am left behind"
+-----> Central Romance
+------> Italian `risedere`: "to sit again, to reside"
+------> Italian `risiedere`: "to reside in, to room at, to lie in"
+-----> Western Romance
+------> Old French
+-------> French `résider`: "to reside"
+-------> English `reside`
+-----> Latin `residuus`: "remaining, persisting, left over"
+------> Western Romance
+-------> Old French
+--------> French `résidu`: "residue, remainder"
+--------> English `residue`
+
+----> Latin `sedentārius`: "sitting, sedentary"
+-----> English `sedentary`
+
+----> Latin `sedēns`
+-----> Vulgar Latin <*sedentō>
+------> Western Romance
+-------> Spanish `sentar`: "to set, to seat, to fit"
+
+----> Latin `sedimentum`: "a settling, a subsidence"
+-----> English `sediment`
+
+----> Latin `supersedeō`: "I sit above, I preside, I refrain, I omit"
+-----> Central Romance
+------> Italian `soprassedere`: "to postpone"
+-----> Western Romance
+------> French `surseoir`: "to postpone"
+------> Spanish `sobreseer`: "to prolong, to dismiss"
+-----> English `supersede`
+
+
+
+
+-> Proto-Indo-European <*sedtós>: "seated" (adjective)
+
+--> Germanic <*sessaz>: "seat" #
+---> North Germanic
+----> Old Norse `sess`: "seat"
+-----> Icelandic `sess`: "seat"
+---> West Germanic
+----> Old English `sess`: "seat, bench"
+
+--> Indo-Iranian <*sattás>
+---> Indo-Aryan
+----> Sanskrit `𑀲𑀢𑁆𑀢` <sattá>: "seated"
+
+--> Italic <*sessos> #
+---> Latin `sessus`: "a sitting"
+----> Eastern Romance
+-----> Romanian `șes`: "plain, flatlands, flat"
+-----> Albanian `shesh`: "floor, ground, plain, field"
+----> Western Romance
+-----> Spanish `sieso`: "rectum, anus"
+----> Latin `sessilis`: "usable as a seat, low growing, sessile"
+-----> English `sessile`
+
+
+
+-> Proto-Indo-European <*sédos>: "a sitting" (action noun)
+
+--> Hellenic <*hédos>
+---> Classical Greek `ἕδος` <hédos>: "a seat, a sitting"
+----> Classical Greek `ἕδρᾱ` <hédrā>: "a seat, a sitting, a stool, a place, a position, face (of a geometric solid"
+-----> Classical Greek `καθέδρα` <kathédrā>: "seat, chair, teacher's chair, imperial throne"
+------> Georgian `კათედრა` <ḳatedra>: "lectern, pulpit"
+------> Russian `ка́федра` <káfedra>: "department at a university, chair (professorship), pulpit, dais"
+------> Latin `cathedra`: "chair, armchair, teacher's chair, pulpit, bishop's throne"
+-------> Central Romance
+--------> Dalmatian `catraida`: "chair"
+--------> Italian `cattedra`: "teacher's desk, bishop's throne, chair (professorship)"
+--------> Venetian `carega`: "chair"
+---------> Albanian `karrige`: "chair, office job"
+-------> Western Romance
+--------> Old French `chaere`
+---------> French `chaire`: "pulpit, chair (professorship), papal throne"
+---------> French `chaise`: "chair, seat"
+----------> English `chaise`
+----------> French `chaise longue`
+-----------> English `chaise longue`
+---------> English `chair`
+--------> Spanish `cadera`: "hip, chair"
+-------> Old Irish `cathaír`: "chair"
+--------> Irish `cathaoir`: "chair, seat, throne, tree stump"
+-------> Brythonic
+--------> Welsh `cadair`: "chair, udder"
+-------> English `cathedra`
+-------> Latin `cathedrālis`: "relating to a bishop's throne, cathedral"
+--------> French `cathédrale`: "cathedral"
+---------> English `cathderal`
+---------> Turkish `katedral`
+--------> Italian `cattedrale`: "cathedral"
+--------> Spanish `catedral`
+-------> Latin `ex cathedrā`: "from the teacher's chair, with authority"
+--------> English `ex cathedra`
+-----> Classical Greek `πολύεδρον` <polúedron>: "polyhedron"
+------> Greek `πολύεδρον` <polýedron>: "polyhedron"
+------> English `polyhedron`
+------> French `polyèdre`: "polyhedron"
+------> German `Polyeder`: "polyhedron"
+-----> Classical Greek `σῠ́νεδρος` <súnedros>: "sitting together, sitting in council"
+------> Classical Greek `σῠνέδρῐον` <sunédrion>
+-------> English `synedrion`
+-------> Hebrew `סַנְהֶדְרִין` <sanhedrín>
+--------> English `Sanhedrin`
+
+--> Indo-Iranian <*sádas>
+---> Indo-Aryan
+----> Sanskrit `𑀲𑀤𑀲𑁆` <sádas>: "seat, residence, meeting place"
+-----> Sanskrit `𑀲𑀤𑀲𑁆𑀬` <sadasyá>: "member of a council or court"
+
+
+
+
+
+-> Proto-Indo-European <*sedos>: "a sitting" (action noun)
+
+--> Celtic <*sīdos>: "tumulus, barrow, mound, peace" (alternating stem <*sīd->/<*sed->)
+---> Brythonic
+----> Welsh `hedd`: "peace"
+---> Gaulish <*sīdon> (/<*sedon>)
+----> Gaulish <*Mellosedon>: "Confusion-Barrow? (place name)"
+-----> Latin `Mellosedum`
+----> Gaulish <*Wirosīdon>: "Man-Barrow?, True-Barrow? (place name)"
+-----> Latin `Virosidum`
+---> Old Irish `síd`: "fairy mound, fairies"
+----> Irish `sí`: "fairy mound, tumulus"
+----> English `sidhe`
+----> Scottish Gaelic `sìth`
+-----> English `sidhe`
+-----> Scottish Gaelic `Sròn an t-Sìthein`: "Nose of the Fairy Hill (place name)"
+------> English `Strontian`
+-------> New Latin `strontium`
+--------> English `strontium`
+--------> Translingual `Sr`
+----> Old Irish `áes síde`: "folk of the mounds, fairies"
+-----> Irish `aos sí`: "fairies"
+----> Old Irish `ben síde`: "woman of the mounds, fairy-woman"
+-----> Irish `bean sí`: "banshee, fairy woman"
+------> English `banshee`
+----> Old Irish `creitem sí`
+-----> Irish `Creideamh Sí'`
+----> Old Irish `doíni síde`: "people of the mounds, fairies"
+-----> Irish `Daoine Sí`
+-----> English `Daoine Sidhe`
+--?> Lepontic `𐌔𐌉𐌕𐌄𐌑` <siteś>: "seats?" (in the Inscription of Prestino)
+
+
+-> Proto-Indo-European <*sodos>: "a sitting, a ride" (action noun)
+
+--> Balto-Slavic
+---> Slavic <*xodъ>: "passage, movement"
+----> East Slavic
+-----> Russian `ход` <xod>: "motion, travel, path, speed"
+----> South Slavic
+-----> Old Church Slavonic `ходъ` <xodŭ>: "movement"
+-----> Serbo-Croatian `хо̑д` <hȏd>: "gait, pace"
+----> West Slavic
+-----> Polish `chód`: "a walk"
+
+----> Slavic <*xoditi>: "to go, to walk"
+-----> East Slavic
+------> Russian `ходи́ть` <xodítʹ>: "to go, to walk, to attend"
+-----> South Slavic
+------> Old Church Slavonic `ходити` <xoditi>: "to walk"
+------> Serbo-Croatian `хо̀дити` <hòditi>: "to walk, to go, to pace"
+-----> West Slavic
+------> Polish `chodzić`: "to go, to walk, to attend, to mean"
+
+--> Hellenic <*hodós>
+---> Classical Greek `ὁδός` <hodós>: "road, path, journey, means, threshold"
+----> Greek `οδός`: "street, route"
+----> Classical Greek `ᾰ̓́νοδος ` <ánodos>: "path up, ascent, climb"
+-----> English `anode`
+----> Classical Greek `δίοδος` <díodos>: "path through, (mountain) pass"
+-----> English `diode`
+------> English `LED`
+----> Classical Greek `ἔξοδος` <éxodos>: "path out, exit, departure, divorce, end"
+-----> Greek `έξοδος` <éxodos>: "exit"
+-----> Latin `exodus`
+------> English `exodus`
+----> Classical Greek `κᾰ́θοδος` <káthodos>: "path down, descent"
+-----> English `cathode`
+----> Classical Greek `μέθοδος` <méthodos>: "path behind, pursuit, pursuit of knowledge, inquiry, doctrine, method, trick"
+-----> Greek `μέθοδος` <méthodos>: "method"
+-----> Armenian `մեթոդ` <metʿod>: "method"
+-----> Georgian `მეთოდი` <metodi>: "method"
+-----> Hebrew `מֶתוֹדָה` <metóda>: "method"
+-----> Latin `methodus`: "method"
+------> French `méthode`: "method, book"
+-------> English `method`
+-------> Persian `متد` <metod>
+-----> Russian `ме́тод` <métod>: "method"
+----> Classical Greek `περῐ́οδος` <períodos>: "path around, circumference, periodic recurrence, period, complete sentence"
+-----> Greek `περίοδος` <períodos>: "period (most senses)"
+-----> Latin `periodus`
+------> French `période`: "period, interval, point, locus"
+-------> English `period`
+----> Classical Greek `σῠ́νοδος` <súnodos>: "path together, meeting, assembly, conjunction, syond"
+-----> English `synod`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀲𑀸𑀤𑀲𑁆` <sādas>: "a sitting, a ride, motion"
+
+
+-> Proto-Indo-European <*sedtis> (abstract noun)
+
+--> Hellenic <*hétstis>
+---> Classical Greek `ἕσις`: "a sending forth, an aiming, a sitting"
+
+--> Proto-Indo-European <*sedtiHō>
+
+---> Italic <*seztjō>
+----> Latin `sessio`: "a sitting, a seat, a discussion, a session"
+-----> Central Romance
+------> Italian `sessione`
+-----> Eastern Romance
+------> Romanian `sesie`: "meeting, session, commune"
+-----> Western Romance
+------> French `session`
+-------> English `session`
+------> Spanish `sesión`
+
+
+-> Proto-Indo-European <*sedis> (derived noun)
+
+--> Italic
+---> Latin `sēdēs`: "seat, chair, residence, place"
+----> Central Romance
+-----> Italian `sede`: "venue, branch office, see, syllable"
+----> Western Romance
+-----> Old French `sie`
+------> English `see` (episcopal capital, diocese)
+-------> English `Holy See`
+-----> Spanish `sede`: "seat, headquarters, office, see"
+----> Brythonic
+-----> Welsh `swydd`: "job, office, position"
+----> Latin `sēdēcula`: "small seat, stool" (diminutive)
+-----> Western Romance <*sedicuᵐ>
+------> French `siège`: "seat, chair, siege, see"
+-------> English `siege`
+
+
+-> Proto-Indo-European <*sedyeh₂> (collective noun?)
+
+-?> Pre-Albanian <*sedjā>
+---> Albanian `gjazë`: "riverside forest"
+
+--> Italic <*sedjā>
+---> Italic <*ensedjā>
+----> Latin `īnsidiae`: "ambush, plot, snare" 
+-----> Latin `īnsidiōsus`: "insidious, deceitful, dangerous"
+------> English `insidious`
+------> French `insidieux`
+
+
+-> Proto-Indo-European <*sedlom>: "seat, thing to sit on" (instrumental)
+
+--> Old Armenian `ետղ` <etł>: "spot, place"
+---> Armenian `տեղ` <teł>: "place, position"
+---> Old Armenian `տեղակալ` <tełakal> ###
+----> Armenian `տեղակալ` <tełakal>: "deputy, assistant, subsitute" ###
+
+--> Balto-Slavic
+---> Slavic <*sě̄dlò>: "seat"
+----> West Slavic
+-----> Czech `sídlo`: "seat, residence"
+
+--> Germanic <*setlaz>: "seat, chair, settle"
+---> East Germanic
+----> Gothic `𐍃𐌹𐍄𐌻𐍃` <sitls>: "seat, throne, nest"
+---> West Germanic
+----> Old English `setl` ##
+-----> English `settle` ##
+----> Frankish <*setl>
+-----> Dutch `zetel`: "chair, seat"
+----> Old High German `sezzal`
+-----> German `Sessel`: "armchair"
+
+
+--> Italic
+---> Latin `sella`: "seat, chair, sedan, saddle, stool"
+----> Central Romance
+-----> Italian `sella`: "saddle"
+----> Eastern Romance
+-----> Romanian `șa`: "saddle"
+-----> Albanian `shalë`: "saddle"
+----> Sardinian `sedda`
+----> Western Romance
+-----> French `selle`: "saddle, commode
+------> Hebrew `אַסְלָה` <aslá>: "toilet"
+-----> Spanish `silla`: "chair, saddle"
+------> Nahuatl `siya`: "chair, saddle"
+------> Tagalog `silya`: "chair"
+
+
+-> Proto-Indo-European <*sodlōm>: "seat, thing to sit on" (instrumental)
+
+--> Germanic <*sadulaz>: "saddle"
+---> North Germanic
+----> Old Norse `sǫðull`: "saddle"
+-----> Danish `sadel`: "saddle"
+-----> Icelandic `söðull`: "saddle"
+---> West Germanic
+----> Old English `sadol`: "saddle"
+-----> English `saddle`
+----> Frankish <*sadul>
+-----> Dutch `zadel`: "saddle"
+----> Old High German `satil`
+-----> German `Sattel`: "saddle"
+---> Finnic <*satula>: "saddle"
+----> Finnish `satula`: "saddle"
+---> Slavic <*sedъlò>: "saddle"
+----> East Slavic
+-----> Russian `седло́` <sedló>: "saddle"
+----> South Slavic
+-----> Old Church Slavonic `седьло` <sedĭlo>
+-----> Serbo-Croatian `сѐдло` <sèdlo>: "saddle"
+----> West Slavic
+-----> Polish `siodło`: "saddle"
+
+
+-> Proto-Indo-European <*sedtlom>: "seat, thing to sit on" (instrumental)
+
+--> Indo-Iranian <*sattrám>: "religious session, religious gathering"
+---> Indo-Aryan
+----> Sanskrit `𑀲𑀢𑁆𑀢𑁆𑀭` <sattrá>: "session, large religious gathering"
+---> Iranian
+----> Avestan `𐬵𐬀𐬯𐬙𐬭𐬀` <hastra>: "gathering, meeting, session, assembly"
+
+
+-> Proto-Indo-European <*sodyom>
+
+--> Celtic <*sodyom>
+---> Brythonic
+----> Welsh `sedd`: "seat"
+---> Old Irish `suide`
+----> Irish `suí`: "sitting, session, siege"
+
+--> Germanic <*setiją>: "seat"
+---> North Germanic
+----> Old Norse `sæti`: "seat, hay-rick"
+-----> Icelandic `sæti`: "seat, hay-rick"
+-----> English `seat`
+
+--> Italic
+---> Latin `solium`: seat, throne, dominion, bathtub, sarcophagus"
+----> Central Romance
+-----> Italian `soglio`: "seat, throne, jurisdiction"
+
+
+-> Proto-Indo-European <*sódom> ("that which settles")
+
+--> Germanic <*sōtą>: "soot" 
+---> North Germanic
+----> Old Norse `sót`: "soot"
+-----> Danish `sod`: "soot"
+-----> Icelandic `sót`: "soot"
+---> West Germanic
+----> Old English `sōt`: "soot"
+-----> English `soot`
+----> Frankish <*sōt>
+-----> Dutch `zoet`: "soot"
+
+
+-> Proto-Indo-European <*sdós> (passive participle/deverbal)
+
+--> Proto-Indo-European <*nisdós>: "nest" (~ "which is sat down on")
+
+---> Pre-Albanian <*nezda>
+----> Albanian `neth`: "sprout, bud"
+
+---> Old Armenian `նիստ` <nist>: "seat, residence, dwelling, meeting"
+----> Armenian `նիստ` <nist>: "meeting, session, facet"
+
+---> Balto-Slavic
+----> Lithuanian `lìzdas`: "nest"
+----> Slavic <*gnězdo>: "nest"
+-----> East Slavic
+------> Russian `гнездо́` <gnezdó>: "nest, socket"
+-----> South Slavic
+------> Old Church Slavonic `гнѣздо` <gnězdo>: "nest"
+------> Serbo-Croatian `гније́здо` <gnijézdo>: "nest"
+-----> West Slavic
+------> Polish `gniazdo`: "nest, socket"
+
+---> Celtic <*nisdos>: "nest"
+----> Brythonic <*nɨθ>
+-----> Welsh `nyth`: "nest"
+----> Old Irish `net`: "nest"
+-----> Irish `nead`: "nest, den, lair, home"
+
+---> Germanic <*nestą>: "nest"
+----> West Germanic
+-----> Old English `nest`: "nest"
+------> English `nest`
+-----> Frankish <*nest>
+------> Dutch `nest`: "nest, bed, brat"
+-----> Old High German `nest`
+------> German `Nest`: "nest"
+------> Yiddish `נעסט` <nest>: "nest"
+
+---> Indo-Iranian <*niždás>: "nest"
+----> Indo-Aryan <*niẓḍás>
+-----> Dardic
+------> Kashmiri `نؽوٗر` <nyūr>: "mea
+-----> Sanskrit `𑀦𑀻𑀟` <nīḍá>: "nest, resting spot, place"
+------> Pali <nīḍa>
+------> Sauraseni `𑀡𑀻𑀟` <ṇīḍa>
+-------> Madhya
+--------> Hindi `नीड़` <nīṛ>: "nest"
+
+---> Italic <*nizdos>: "nest"
+----> Latin `nīdus`: "nest, dwelling"
+-----> Central Romance
+------> Italian `nido`: "nest"
+-----> Western Romance
+------> French `nid`: "nest"
+------> Spanish `nido`: "nest"
+-----> Vulgar Latin <*nīdicāre>: "to nest, to make a nest"
+------> Western Romance
+-------> Old French `nichier`: "to nest, to make a nest"
+--------> French `niche`: "kennel, niche"
+---------> English `niche`
+-----> Vulgar Latin <*nīdāx>: "nest-ish, nestling"
+------> Western Romance
+-------> French `niais`: "nestling (esp. in falconry), buffoon"
+--------> English `eyas` (re-bracketing from "a nyas" to "an eyas")
+
+
+
+Proto-Indo-European <*(h₁)ni>: "down"
+-> Proto-Indo-European <*ni-sed->: "to sit down"
+--> Proto-Indo-European <*ni-sísdeti>: "sits down"
+--> Proto-Indo-European <*ni-sodéyeti>: "sets down"
+--> Proto-Indo-European <*nisdós>: "nest" (~ "which is sat down on")
+
+
+endbody
+
+
+startnotes
+
+#### Proto-Indo-European <*sed->: "to sit" might be part of a Pre-Proto-Indo-European cluster of "s-t" roots with meanings related to stillness (`still`!). I suspect the "s-t" cluster is onamatopoeic of motion coming to a sudden stop.
+
+<*steh₂->: "stand up"
+<*stebʰ->: "stand still"
+<*stel->: "to put, to place"
+<*(s)telH->: "to be silent, to be still"
+<*steyh₂->: "to stiffen"
+
+The other "s-t" cluster with meanings related to "hit, strike, sting" may be related also—hitting also involves something coming to a sudden stop! `stop` itself is from <*(s)tew(p)->: "to push, to hit". That cluster includes the roots <*(s)tew->, <*(s)tewd->, <*(s)tewg->, <*(s)tewk->, <*(s)tewp->, <*stengʷ->, <*sterbʰ->, <*(s)teyg->, and <*streyg->.
+
+Most of the rest of the <*st-> roots are related to "spreading out": <*(s)teg->, <*ster->, <*sterh₃->, <*strew-> (connected to the "push" meanings?); or "twisting, twining, rope" (connected to the "stiffen" meanings?): <*strengʰ->, <*stegʷʰ->.
+
+
+# Germanic <*sessaz> and Italic <*sessos> require two consonants in the proto form , as in the adjective form <*sedtós>; but they both have the semantics of an action noun, such as <*sedós> (or <*sedōs>), while the Sanskrit `𑀲𑀢𑁆𑀢` <sattá>: "seated" shows the expected adjective meaning. Perhaps <*sedtós> and <*sedos> became conflated in Northwest Indo-European (or it could just the generally weak distinction between nouns and adjectives in PIE).
+
+## The English verb `settle` is a merger of a verb derived from the noun Old English `setl`: "seat, a sitting" (gives the English noun `settle`), plus the verb `sehtlian`: "to bring to an agreement", which is a frequentive related to `seek` and `sought`.
+
+
+### Armenian `տեղակալ` <tełakal>: "deputy, assistant, subsitute" is literally "place-holder" with `կալնել` <kalnel>: "to hold, to keep"; an identical formation to French `lieutenant`.
+
+##### Latin `assideō`: "I sit next to, I assist" notably is not the origin of English `assist`, which is from the parallel construction `assistō`: "I stand next to" instead. The meaning of "assess", which is from `assideō` comes from the job of an assistant to a judge who set the amount of a fine.
+
+
+endnotes

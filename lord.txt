@@ -1,0 +1,230 @@
+date: 20180112
+theme: Royal and Noble Titles 👑
+
+
+
+startbody
+
+Proto-Indo-European <*wer->: "to heed, to notice" #
+
+-> Proto-Indo-European <*weryeti>
+
+--> Germanic <*warjanã>: "to ward off, to defend against, to twart, to stop"
+---> East Germanic
+----> Gothic `𐍅𐌰𐍂𐌾𐌰𐌽` <warjan>: "to forbid"
+---> North Germanic
+----> Old Norse `verja`
+-----> Icelandic `verja`: "to defend, to guard, to protect, to prevent"
+-----> Swedish `värja`: "to defend, to protect, to dodge"
+----> Finnic
+-----> Finnish `varjella`: "to protect"
+---> West Germanic
+----> Old English `werian`: "to defend, to protect"
+-----> Scots `weir`: "to guard, to defend"
+----> Old High German `werien`
+-----> German `wehren`: "to fight, to defend"
+----> Frankish <*warjan>: "to fend off, to thwart, to stop"
+-----> Old French `guarir`: "to protect, to save, to heal"
+------> French `guérir`: "to cure, to heal, to recover"
+------> Old French `garison`: "safety, defense"
+-------> French `guérison`: "recovery, healing"
+-------> English `garrison`
+------> Old French `guarant`: "safety, protector, permission, assurance, guarantee, guarantor"
+-------> French `garant`: "guarantor, surety"
+-------> Anglo-Norman `warrant`
+--------> English `warrant`
+-------> Spanish `garante`: "guarantor"
+-------> Old French `guarantie`: "assurance, promise, contract, guarantee, surety"
+--------> French `garantie`: "guarantee"
+--------> English `guarantee` ##
+--------> Anglo-Norman `warrantie`
+---------> English `warranty` ##
+--------> Spanish `garantía`: "guarantee"
+-------> Old French `guarantir`: "to protect"
+--------> French `garantir`: "to guarantee, to protect, to preserve"
+--------> Spanish `garantir`: "to guarantee"
+
+---> Germanic <*warīniz>: "warding off, a defense"
+----> North Germanic
+-----> Old Norse `vǫrn`: "defence, legal defence"
+------> Danish `værn`: "guard, defense, protection"
+------> Icelandic `vörn`: "defense, protection"
+----> West Germanic
+-----> Old High German <*werī>
+------> German `Wehr`: "guard, army, force"
+-------> German `Bundeswehr`: "national army of Germany" (lit. "Bond Guard", i.e. "Federation Army")
+
+
+-> Proto-Indo-European <*wortus>
+
+--> Germanic <*warduz>: "watchman, guard"
+---> East Germanic
+----> Gothic <*wards> (only attested in compounds)
+-----> Gothic `𐌳𐌰𐌿𐍂𐌰𐍅𐌰𐍂𐌳𐍃` <daurawards>: "porter, gate-keeper" (lit. "door guard")
+---> North Germanic
+----> Old Norse `vǫrðr`
+-----> Icelandic `vörður`: "guard"
+-----> Swedish `vård`: "care, health care, protection"
+------> Swedish `tandvård`: "dentistry"
+-------> Swedish `djurtandvård`: "animal dentistry"
+---> West Germanic
+----> Old English `weard`: "guardian, watchman"
+-----> English `ward` (noun) ##
+-----> Old English `hlāfweard`
+------> Old English `hlāford`: "male head of household, master of servants, lord" (lit. "loaf-ward", i.e., "bread-guardian")
+-------> English `lord`
+-------> Scots `laird`
+----> Old High German `wart`
+----> German `Wart`: "guard, ward"
+
+---> Germanic <*wardānã>: "to guard, to watch over, to protect"
+----> North Germanic
+-----> Old Norse `varða`
+------> Icelandic `varða`: "to affect, to concern, to regard"
+------> Swedish `vårda`: "to nurse, to take care off"
+----> West Germanic
+-----> Old English `weardian`: "to guard, to protect, to occupy, to keep, to possess"
+------> English `ward` (verb) ##
+-----> Old High German `wartēn`
+------> German `warten`: "to wait, to maintain (e.g., a car)"
+-----> Frankish <*wardōn>
+------> Medieval Latin `wardō`: "I guard, I ward against, I herd cattle"
+-------> Old French
+--------> French `garder`: "to keep, to save, to guard, to be careful"
+---------> English `guard` ##
+--------> Old French <*gardein>
+---------> French `gardien`: "guard, guardian, goalkeeper"
+---------> English `guardian` ##
+---------> Anglo-Norman `wardein`: "guard, guardian"
+----------> English `warden` ##
+--------> Old French `reguarder`
+---------> French `regarder`: "to look at, to watch"
+---------> English `regard` ##
+---------> Anglo-Norman `rewarder`
+----------> English `reward` ##
+-------> Italian `guardare`: "to look at, to watch, to examine, to watch after, to guard"
+-------> Spanish `guardar`: "to keep, to save, to order, to clean, to put away"
+
+-> Proto-Indo-European <*wréyeti?>
+
+--> Germanic <*warnōnã>: "to be careful, to warn"
+---> North Germanic
+----> Old Norse `varna`
+-----> Swedish `varna`: "to warn"
+---> West Germanic
+----> Old English `warnian`: "to be aware, to take care, to warn, to caution"
+-----> English `warn`
+-----> Scots `wairn`: "to warn"
+----> Old High German `warnōn`
+-----> German `warnen`: "to warn"
+
+
+-> Proto-Indo-European <*wr̥néwti>
+
+--> Germanic <*warnijanã>: "worry, care, heed"
+---> West Germanic
+----> Frankish <*warnijan>: "to ward, to take care of"
+-----> French `garnir`: "to furnish, to arm, to decorate, to garnish"
+------> English `garnish`
+
+
+-> Proto-Indo-European <*wereh₁yeti> (iterative or intensive)
+
+--> Germanic <*warōnã>: "to watch, to protect"
+---> North Germanic
+----> Old Norse `vara`
+-----> Danish `vare`: "to be careful, to beware"
+-----> Icelandic `vara`: "to warn"
+---> West Germanic
+----> Old English `warian`: "to beware"
+-----> English `ware`
+-----> Old English `bewarian`
+------> English `beware`
+----> Frankish <*waron>
+-----> Old Dutch <*waron>
+------> Old Dutch `bewaron`
+-------> Dutch `bewaren`: "to preserve, to keep, to guard, to watch over"
+-----> Old French `warer`
+------> French `garer`: "to cover, to shelter, to park"
+-------> French `garage`: "garage"
+--------> English `garage`
+----> Old High German `warōn`
+-----> German `wahren`: "to protect, to safeguard, to maintain"
+
+--> Italic <*werēōr>
+---> Latin `vereor`: "I stand in awe of, I dread, I revere"
+----> Latin `revereor`: "I stand in awe of, I regard, I respect, I fear, I revere"
+-----> Western Romance
+------> French `révérer`: "to revere"
+-------> English `revere`
+------> Spanish `reverenciar`: "to revere"
+-----> Latin `reverendus`
+------> English `reverend`
+----> Latin `verēcundia`: "modesty, coyness, knowing one's place, shame, awe"
+-----> Western Romance
+------> French `vergogne`: "shame, moderation, decency (archaic)"
+------> Italian `vergogna`: "shame, disgrace, scandal, embarassment, shyness"
+------> Spanish `vergüenza`: "shame, embarassment"
+
+
+-> Proto-Indo-European <*worós>
+
+--> Germanic <*waraz>: "watchful, cautious, wary"
+---> East Germanic
+----> Gothic `𐍅𐌰𐍂𐍃` <wars>
+---> North Germanic
+----> Old Norse `varr`
+-----> Danish `var`: "aware"
+-----> Icelandic `var`: "cautious, aware"
+---> West Germanic
+----> Old English `wær`: "aware, cautious"
+-----> English `ware`
+------> English `wary`
+---> Germanic <*gawaraz>
+----> West Germanic
+-----> Old English <ġewær>: "aware"
+------> English `aware`
+------> Scots `avar`
+-----> Old High German `giwar`
+------> German `gewahr`: "aware"
+
+--> Hellenic
+---> Ancient Greek `οὖρος` <oûros>: "guardian, watcher"
+----> Ancient Greek `ἔφορος` <éphoros>: "overseer, guardian, ruler, ephor" (<epi-ouros>: "over-watcher")
+-----> English `ephor`: "member of the Spartan oversight committee"
+----> Ancient Greek `Ᾰ̓ρκτοῦρος` <Arktoûros>: "Arcturus (the star)" (lit. "guardian of the bear", for its place in the sky near Ursa Major)
+-----> Greek `Αρκτούρος` <Arktoúros>: "Arcturus"
+-----> Latin `Arctūrus`: "Arcturus (the star), Boötes (the constellation)" ####
+------> English `Arcturus`
+-------> Japanese `アークトゥルス` <Ākuturusu>: "Arcturus"
+------> French `Arcturus`: "Arcturus"
+------> Spanish `Arturo`: "Arcturus" ####
+-----?> Welsh `Arthur` ####
+-------> English `Arthur` ####
+
+endbody
+
+
+startnotes
+
+# Not to be confused with <*wer->: "to burn" or `wer-`: "squirrel"
+
+
+## A whole pile of  'w'/'gu' English doublets here: `ward`/`guard`, `warranty`/`guarantee`, `warden`/`guardian`, and `reward`/`regard`.
+
+These happen when French borrows a word of Germanic origin (almost always Frankish origin) beginning with 'w', changes the beginning to 'gu' in Middle French, and then English borrows the 'gu' form; while already having the 'w' form as well.
+
+The 'w' form is sometimes native from Old and Middle English (from the same West Germanic source as the Frankish), and sometimes borrowed from Anglo-Norman French, which had not undergone the 'w' to 'gu' sound change.
+
+Usually not triplets, because when the Anglo-Norman and Middle English forms both exists, they tend not to be distinct enough to avoid merging (Frankish and Old English are extremely similar), but it's not impossible!
+
+
+#### Latin `Arctūrus` is a possible source for the name `Arthur`. There is no evidence of anyone named "Arthur" until the 5th century at the earliest, shortly after the end of the Roman occupation of Brittain; and either Latin `Arctūrus` (borrowed from Greek) and the Latin family name `Artōrius` (of indeterminate origin and meaning) would become `Art(h)ur` when borrowed into Welsh.
+
+The other possibility is that it is natively Welsh, from Brythonic <*arθorīɣ>: "bear-king", which would also become `Arthur` in Welsh. And finally, the Latin family name `Artōrius` could itself be borrowed from the Gaulish equivalent, <*Arto-rīg-ios>: "(son) of (the) Bear-King", and either be or not be the origin of post-Roman Welsh `Art(h)ur`.
+
+The folk etymology of Welsh `Arth-(g)wr` (Brythonic <*arθ(o)gwur>): "bear-man" is almost certainly wrong. There is a fair amount of evidence from Welsh poetry that the name always rhymed with `-ur` and not `-wr`.
+
+
+
+endnotes

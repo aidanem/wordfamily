@@ -1,0 +1,49 @@
+date: 20200804
+tags: Toponymy
+
+startintro
+
+Beirut in my thoughts today.
+
+Beirut, "memory", "epicenter"
+
+endintro
+
+startbody
+
+Semitic <*biʔr->: "well, spring"
+
+-> Central Semitic
+--> Arabic
+---> Classical Arabic `بِئْر` <biʾr>: "well, spring"
+----> Classical Arabic `بُؤْرَة` <buʾra>: "focus, epicenter"
+---> Egyptian Arabic `بير` <bīr>: "well, shaft, manhole"
+---> Maghrebi Arabic
+----> Maltese `bir`: "well"
+---> Peninsular Arabic
+----> Hijazi Arabic `بير` <bīr>: "well"
+-----> Hijazi Arabic `بيارة` <bayyāra>: "manhole"
+---> Kurdish `bîr`: "well, memory"
+--> Northwest Semitic
+---> Aramaic `𐡁𐡀𐡓𐡀` <bəʾērā>: "well, pit"
+---> Canaanite
+----> Hebrew `בְּאֵר‎` <bəʾēr>: "well"
+----> Canaanite <*biʔrāt>: "wells" (plural)
+-----> Hebrew `בארות` <Bəʼērōt>
+------> Classical Greek `Βηρῠτός` <Bērutós>
+-------> Greek `Βηρυτός` <Virytós>
+-------> Latin `Bērȳtus`
+--------> English `Berytus`
+------> Classical Greek `Βηρωθ` <Bēroth>
+-------> English `Beeroth`
+-----> Phoenician `𐤁𐤓𐤕‎` <BRT>
+------> Arabic `بَيْرُوت` <bayrūt>
+-------> English `Beirut`
+------> Egyptian `𓊸𓅡𓇋𓃭𓏏𓅱` <bȝ(j)rtw>
+
+---> Ugaritic `𐎁𐎛𐎗` <bỉr>: "well"
+
+-> East Semitic
+--> Akkadian `𒁍𒌨𒋾` <bīrtu>: "well"
+
+endbody

@@ -1,0 +1,105 @@
+date: 20190531
+theme: Plants 🌱
+
+startintro
+
+In which "olive oil" is redundant.
+
+The Greek and Armenian words are often interpreted as being from a Mediterranean substrate word. But then there's the Slavic <*lȏjь>: "tallow, suet" and Old Chinese <lɯw>: "oil, grease", which is plausibly from the Tocharian equivalent of Slavic <*lȏjь>, and all three could plausibly derive from a PIE form along the lines of <*h₁loiwom?>, or some other shared source.
+
+endintro
+
+startbody
+
+? (Mediterranean substrate)
+
+?> Greco-Armenian
+
+--> Old Armenian `եւղ` <ewł>: "oil"
+---> Armenian `յուղ` <yuł>: "oil"
+---> Georgian `იუღი` <iuɣi>: "oil"
+
+--> Hellenic <*elaíwā>
+---> Mycenaean Greek `𐀁𐀨𐀷` <e-ra-wa>: "olive tree"
+---> Classical Greek `ἐλαία` <elaía>: "olive, olive tree"
+----> Greek `ελιά` <eliá>: "olive, olive tree"
+----> Latin `olea`: "olive, olive tree"
+---> Etruscan `𐌄𐌋𐌄𐌉𐌅𐌀` <eleiva>
+----> Latin `olīva`: "olive, olive tree"
+-----> Western Romance
+------> French `olive`
+-------> English `olive`
+--------> English `oilve oil`
+---> Hellenic <*élaiwon>
+----> Classical Greek `ἔλαιον` <élaion>: "olive oil, any oily substance"
+-----> Byzantine Greek `ἐλᾴδιον` <elā́idion> (diminutive)
+------> Greek `λάδι` <ládi>: "oil, olive oil"
+-----> Latin `oleum`: "olive oil"
+------> Western Romance
+-------> Old French `oile`
+--------> French `huile`
+--------> English `oil`
+---------> English `oilve oil`
+------> English `petroleum` (lit. "rock oil")
+-------> English `petrol` ###
+------> English `linoleum` (lit. "flax oil")
+------> English `Cazeline` ("Cassell's oil") ##
+-------> English `gasoline`
+--------> English `gas` ##
+
+------> West Germanic <*oli>: "olive, olive oil"
+-------> Old English `ele`: "oil, olive oil"
+-------> Frankish <*oli>
+--------> Dutch `olie`: "oil"
+-------> Old High German `oli`
+--------> German `Öl`: "oil"
+--------> Yiddish `אייל` <eyl>: "oil"
+-------> Old Saxon <*oli>
+--------> Low German `Ööl`
+--------> Danish `olie`: "oil"
+-------> West Germanic <*olibaʀi>: "olive" ("olive berry")
+--------> Old English `eleberġe`: "olive"
+--------> Old High German `oliberi`
+---------> Yiddish `איילבערט` <eylbert>: "olive, sunflower seed"
+-------> West Germanic <*olibaum>: "olive tree")
+--------> Old English `elebēam`: "olive tree"
+--------> Old High German `oliboum`
+---------> German `Ölbaum`: "olive tree"
+
+
+?> Proto-Indo-European <*h₁loiwom?>
+
+-?> Balto-Slavic 
+---> Slavic <*lȏjь>: "tallow, suet"
+----> South Slavic
+-----> Old Church Slavonic `лои` <loi>: "tallow"
+-----> Serbo-Croatian `ло̑ј` <lȏj>: "tallow, suet, fat"
+----> West Slavic
+-----> Polish `łój`: "sebum, tallow, suet"
+
+
+-?> Tocharian <*läwe?>
+
+--?> Old Chinese <lɯw>
+----> Middle Chinese `油` <jɨu>: "oil, grease, to paint"
+-----> Mandarin `油` <yóu>
+-----> Shanghainese `油` <hhieu>
+-----> Cantonese `油` <jau4>
+-----> Korean `유` <yu>: "oil"
+-----> Vietnamese `dầu`: "oil, fat, grease"
+----> Taiwanese `油` <yù>
+
+endbody
+
+
+startnotes
+
+## `gas`—short for `gasoline`—is unrelated to the word `gas` meaning a vapor, except that it probably influenced the distortion and clipping of `Cazeline`. `Cazeline` is a brand name of lamp oil; presumably a portmanteau of `(John) Cassell` (who invented and sold it) and `linoleum` (literally "flax seed oil").
+
+When John Cassell asked Samuel Boyd to stop selling counterfeit Cazeline Oil, Boyd changed the name to `gazeline`, and so `gazeline`, later `gasoline` became the generic brand of `Cazeline`.
+
+### A mineral oil distillate was sold under the name `petrol`, short for `petroleum` (lit. "rock oil"). It was originally sold as a solvent by a company called "Carless", founded by Eugene Carless.
+
+This name became rather funny in retrospect after petrol was found a suitable fuel in internal combustion engines. But the surname is probably derived from an Old English nickname `Carlēas`, which is really related to "careless" not to "cars".
+
+endnotes

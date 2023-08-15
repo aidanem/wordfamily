@@ -1,0 +1,111 @@
+date: 20211001
+tags: Animals, Birds
+
+startintro
+
+I've been thinking about herons and egrets a lot recently. For the past year or so, our morning walk goes by a half mile of drainage ditch with an amazing variety of water birds. We regularly see 4 different species of heron: great blue heron, great egret, snowy egret, and black-capped night heron; and every once in a while also a green heron.
+
+In English "herons" and "egrets" are basically the same birds, an "egret" is basically just any heron that is primarily white colored, e.g. the great egret (Ardea alba) is more closely related to the great blue heron (Ardea herodias) than it is to the snowy egret (Egretta thula).
+
+And then I realized that "heron" and "egret" are basically the same word, both from Germanic <*haigrô>: "heron": one lost the 'g', the other lost the 'h' (and added a diminutive suffix).
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*(s)ḱrey->: "to screech, to caw" (probably imitative)
+
+
+-> Proto-Indo-European <*(s)ḱreyti>
+
+--> Germanic <*skrīanã>: "to caw, to screech, to scream, to cry out"
+---> North Germanic
+----> Old Norse `skræma`
+-----> Danish `skræmme`: "to frighten"
+-----> English `scream`
+---> West Germanic
+----> Old English `sċrēon`: "to cry out"
+----> Frankish <*scrīan>
+-----> Dutch `schriën`: "to scream, to weep" (archaic)
+-----> Old French `escrier`
+------> French `écrier`: "to exclaim, to yell"
+----> Old High German `scrīan`
+-----> German `schreien`: "to shout, to yell, to cry, to scream, to howl"
+-----> Yiddish `שרײַען` <shrayen>: "to shout"
+
+--> Hellenic
+---> Ancient Greek `κρίζω`: "I creak, I screech"
+
+
+-> Proto-Indo-European <*(s)ḱreyǵ-> (extension)
+
+--> Proto-Indo-European <*(s)ḱriǵh₁yéti>: "is screeching" (stative)
+
+---> Germanic <*skrīkijanã>: "to cry, to scream, to shriek"
+----> North Germanic
+-----> Old Norse `skríkja`
+------> Danish `skrige`: "to scream"
+------> Icelandic `skríkja`: "to shriek, to twitter"
+------> English `screech`
+------> English `skrike`
+----> West Germanic
+-----> Old English `sċrīċ`
+------> English `shriek`
+------> English `shrike`
+
+
+--> Proto-Indo-European <*(s)ḱroyǵéh₂>
+
+---> Celtic <*korxsā>
+----> Brythonic <*krexur>
+-----> Welsh `crëyr`: "heron"
+----> Celtiberian <*cárcia>
+-----> Portuguese `garça`: "heron"
+------> Thai `กระสา` <grà-sǎa>: "heron"
+-----> Spanish `garza`: "heron"
+----> Old Irish
+-----> Irish `corr`: "heron, crane, stork"
+
+----> Celtic <*korkiyos>
+-----> Brythonic <*körxɨð>
+------> Welsh `crychydd`: "heron"
+
+
+---> Germanic <*hraigrô>: "heron"
+----> West Germanic <*hraigrō>
+-----> Old English `hrāgra`: "heron"
+-----> Frankish <*reigaro>
+------> Dutch `reiger`: "heron"
+-------> Afrikaans `reier`: "heron"
+-----> Old High German `reigaro`: "heron"
+------> German `Reiher`: "heron"
+
+----> Germanic <*haigrô> (variant with dissimulation)
+-----> North Germanic
+------> Old Norse `hegri`: "heron"
+-------> Danish `hejre`: "heron"
+-------> Icelandic `hegri`: "heron"
+------> Finnic
+-------> Estonian `haigur`: "heron"
+-------> Finnish `haikara`: "heron, stork"
+-----> West Germanic <*haigrō>
+------> Frankish <*haigrō>
+-------> Medieval Latin `haigrō`: "heron"
+--------> Old Occitan `aigron`: "heron"
+---------> Old Occitan `aigreta`: "heron" (dimuntive)
+----------> Old French `aigrette`: "heron"
+-----------> French `aigrette`: "heron, crest, feather"
+------------> English `aigrette`
+-----------> English `egret`
+--------> Medieval Latin `hairō`: "heron" (variant)
+---------> Old French `heiron`: "heron"
+----------> French `héron`: "heron"
+----------> English `heron`
+----------> Italian `airone`: "heron"
+---------> Spanish `airón`: "heron"
+------> Old High German `heigaro`: "heron"
+-------> Italian `aghirone`: "heron"
+
+
+endbody

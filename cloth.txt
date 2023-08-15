@@ -1,0 +1,283 @@
+date: 20170512
+theme: Cloth 👘
+
+
+startbody
+
+
+Proto-Indo-European <*gleh₁->: "ball up, amass"
+
+
+?> Proto-Indo-European <*gleh₁y->: "to smear, to stick, to glue"
+
+--> Proto-Indo-European <*gléh₁iti>
+
+---> Proto-Albanian <*en-gleita>:
+----> Albanian `ngjit`: "stick, glue, adhere"
+ 
+
+
+--> Proto-Indo-European <*gloh₁iyós>: "sticky"
+
+---> Germanic <*klajjaz>: "clay"
+----> Old English `clǣġ`: "clay"
+-----> English `clay`
+---?-> English `clog`
+
+---> Balto-Slavic
+----> Slavic
+-----> East Slavic
+------> Russian `клей` <klej>: "glue"
+------> Ukranian  `глей` <hlej>: "clayey soil"
+-------> English `gley`
+-----> West Slavic
+------> Polish `klej`: "glue"
+
+
+--> Proto-Indo-European <*gl̥h₁íh₂>: "sticky stuff"
+
+---> Hellenic
+----> Ancient Greek `γλία` <glía>: "glue"
+-----> English `glial cell`
+-----> English `neuroglia`
+
+
+--> Proto-Indo-European <*glóh₁itn̥>
+
+---> Italic
+----> Latin `glūten`: "glue"
+-----> Western Romance
+------> French `glu`: "glue, birdlime"
+-------> English `glue`
+-----> English `gluten`
+-----> Old Irish `gláed`: "glue"
+------> Irish `glae`: "glue, sticky, slime>
+-------> Irish `glae glas`: "birdlime"
+-----> Welsh `glud`: "glue, birdlime, gluten, mess"
+------> Irish `gliú`: "glue"
+-----> Latin `agglūtinō`: "glue to, cement to, fit closely to"
+------> English `agglutinate`
+
+
+--> Proto-Indo-European <*gléh₁ineh₂>
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `gléinė`: "wet clay"
+----> Slavic <*glìna>: "clay"
+-----> East Slavic
+------> Russian `гли́на` <glína>: "clay"
+-----> South Slavic
+------> Serbo-Croatian `гли́на` <glína>: "clay"
+-------> Serbo-Croatian `Глина` <Glina>: placename
+-----> West Slavic
+------> Polish `glina`: "clay, cop"
+
+
+--> Proto-Indo-European <*glóh₁itom>: "thing that clings"
+
+---> Germanic <*klaiþą>: "cloth, garment"
+----> North Germanic
+-----> Old Norse
+------> Danish `klæde`: "cloth, clothe"
+------> Icelandic `klæði`: "cloth, clothes"
+----> West Germanic
+-----> Old English `clāþ`: "cloth"
+------> English `cloth`
+-------> English `tablecloth`
+--------> Japanese `テーブル掛け` <tēburukake>: "tablecloth"
+------> Scots `cloath`: "cloth"
+------> Old English `clāþas`: "clothes" (plural)
+-------> English `clothes`
+-------> Scots `claes`: "clothes"
+-----> Frankish <*klēt>
+------> Dutch `kleed`: "cloth, dress, robe, rug"
+-----> Old High German `chleit`
+------> German `Kleid`: "dress, gown, clothes"
+-------> German `Kledistoff`: "clothing material"
+----> Germanic <*klaiþōnã>: "to clothe"
+-----> North Germanic
+------> Old Norse `klæða`
+-------> Icelandic `klæða`: "to dress, to clothe"
+-------> Swedish `klä`: "to clothe, to wear, to decorate"
+-----> West Germanic
+------> Old English `clāþian`: "to clothe"
+-------> English `clothe`
+-------> Old English `geclæþd`: "clothed, clad"
+--------> English `clad`
+-------> Frankish <*klēten>
+--------> Dutch `kleden`: "to dress, to tailor"
+-------> Old High German <*chleiten>
+--------> German `kleiden`: "to dress, to clothe"
+
+
+--> Proto-Indo-European <*gleybʰ-> (exdtended root)
+
+---> Proto-Indo-European <*gléybʰe-ti>
+
+----> Germanic <*klībanã>: "to stick, to cling, to climb" (intransitive)
+-----> North Germanic
+------> Old Norse `klífa`: "to climb"
+-------> Icelandic `klífa`: "to climb"
+-----> West Germanic <*klimbanã> (West Germanic nasalized variant)
+------> Old English `climban`: "to climb"
+-------> English `climb`
+-------> Scots `clim`: "to climb"
+------> Frankish <*klimban>
+-------> Dutch `klimmen`: "to climb"
+
+
+---> Proto-Indo-European <*gléybʰeh₂> (collective noun)
+
+----> Germanic <*klibã>: "cliff, rock"
+-----> North Germanic
+------> Old Norse `klif`
+-------> Icelandic `klif`: "mountainside, mountain pass"
+-----> West Germanic
+------> Old English `clif`: "cliff, crag"
+-------> English `cliff`
+------> Frankish
+-------> Dutch `klif`: "cliff"
+------> Old High German `kleb`
+------> Old Saxon `klib`
+-------> German `Kliff`: "cliff, steep shore"
+
+----> Italic
+-----> Latin `glaeba`: "clod, soil, land"
+------> Western Romance
+-------> Old French `glebe`
+--------> English `glebe`
+---------> English `glebe-house`
+---------> English `Glebe` (place name)
+-------> Italian `gleba`: "clod of earth"
+-------> Spanish `gleba`: "clod of earth, land, soil"
+
+
+---> Proto-Indo-European <*glibʰéh₁ye-ti>
+
+----> Germanic <*klibjanã>: "to stick, to adhere" (transitive)
+-----> West Germanic
+------> Old English `cleofian`
+-------> English `cleave` #
+-------> Scots `cleve`: "to adhere, to stick fast"
+------> Frankish
+-------> Dutch `kleven`: "to stick, to glue"
+------> Old High German `klebēn`
+-------> German `kleben`: "to stick, to glue"
+--------> German `Kleber`: "glue (informal), gluten"
+--------> German `Klebstoff`: "glue" 
+
+
+---> Proto-Indo-European <*gleybʰos>
+
+----> Balto-Slavic
+-----> Lithuanian `gleivės`: "mucus"
+-----> Slavic
+------> South Slavic
+-------> Serbo-Croatian `гли̑б` <glȋb>: "mud, mire"
+
+----> Italic
+-----> Latin `globus`: "round, sphere, globe, glob, group"
+------> Western Romance
+-------> French `globe`: "globe"
+--------> English `globe`
+------> Vulgar Latin <*globellus>
+-------> Western Romance
+--------> Ibero-Romance <*lobellus>
+--------> Portuguese `novelo`: "ball of thread, intrigue, plot"
+--------> Spanish `ovillo`: "ball, pile, bunch"
+------> Spanish `globo`: "balloon, globe"
+
+
+?> Proto-Indo-European <*glewd->: "clump, clod"
+
+--> Germanic <*klautaz>: "ball, lump, block, cleat"
+---> West Germanic
+----> Old English `clēot`
+-----> English `cleat`
+----> Frankish <*klōt>
+-----> Dutch `kloot`: "sphere, ball, testicle"
+----> Old High German `chlōz`
+-----> German `Kloß`: "lump, dumpling"
+----> Old Saxon <*klōt>
+-----> German `Klöten`: "testicles"
+-----> Old Norse `klót`
+------> Danish `klode`: "globe"
+------> Icelandic `klót`
+
+----> West Germanic <*klūtaz>: "lump, clod, boulder, hill" (West Germanic variant)
+-----> Old English `clūt`
+------> English `clout`
+------> English `clot`
+-----> Old English `clūd`: "rock, boulder, hill"
+------> English `cloud` ##
+-----> Frankish <*klūta>
+------> Dutch `kluit`: "lump, clod"
+
+
+?> Proto-Indo-European <*glembʰ->: "mass, clasp"
+
+--> Proto-Indo-European <*glombʰós>
+
+---> Italic
+----> Latin `glomus`: "ball-shaped mass, ball of yarn"
+-----> Western Romance
+------> Italian `ghiomo`: "ball of yarn"
+-------> Romanian `ghem`: "ball of yarn"
+-----> Latin `glomerō`: "I make into a ball, I gather in a heap, I group together"
+-----> Latin `agglomerare`: "roll into a ball"
+------> English `agglomerate`
+-----> Latin `conglomerō`
+------> English `conglomerate`
+-----> English `glomerulus`
+
+
+--> Proto-Indo-European <*glm̥bʰō>
+
+---> Germanic <*klumpô>: "clasp, clamp, lump, mass"
+----> North Germanic
+-----> Old Norse `klumba`: "cudgel"
+------> Swedish `klubba`: "club, bludgeon, (golf) club, (hockey) stick"
+------> English `club`
+----> West Germanic
+-----> Old English <*clympe>
+------> English `clump`
+------?> Polish `klomb`: "flowerbed"
+------?> Russian `клу́мба` <klúmba>: "flowerbed"
+-----> Frankish <*klumpo>
+------> Dutch `klomp`: "wooden shoe"
+-------> English `clomp`
+
+
+
+?> Proto-Indo-European <*gelt->: "womb"
+
+--> Germanic <*kelþaz>: "womb, fetus, newborn"
+---> East Germanic
+----> Gothic `𐌺𐌹𐌻𐌸𐌴𐌹` <kilþei>: "womb"
+---> North Germanic
+----> Old Norse
+-----> Danish `kuld`: "litter"
+-----> Icelandic `kelta`: "lap"
+---> West Germanic
+----> Old English `ċild`: "fetus, baby, child"
+-----> English `child`
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀚𑀭𑁆𑀢𑀼` <jártu>: "vulva"
+
+
+
+
+endbody
+
+
+startnotes
+
+# Only the meaning of `cleave` of "to cling, to adhere"; distinct from English homonym & antonym `cleave` "to split" from PIE <*glewbʰ-ti>, Germanic <*kleubanã>. The distinction is retained in Dutch `kleven` vs. `klieven`, German `kleben` vs. `klieben`.
+
+## Old English `clūd`: "rock, boulder, hill" started being used figuratively to mean a "cloud" (a "sky-boulder" or "sky-hill") in Middle English, replacing Old English `wolcen` and `scēo`. Old English `scēo`: "cloud" became Modern English `sky`. 
+
+
+endnotes

@@ -1,0 +1,160 @@
+date: 20180803
+theme: Science fiction 🤖
+tags: Family
+
+startbody
+
+Proto-Indo-European <*h₃erbʰ->: "to be part of (a group or family)?, to owe allegiance to?, to change owernship?"
+
+-> Anatolian
+--> Hittite <ḫarp->: "to associate with, to go over to, to change allegiance"
+
+-> Proto-Indo-European <*h₃orbʰyo-m>: "inheritance?" (plural: <*h₃orbʰyéh₂>)
+
+--> Celtic <*orbyom>: "inheritance" (plural: <*orbyā>)
+---> Old Irish `orbae`: "inheritance, legacy"
+
+--> Germanic <*arbiją>: "heritage, inheritance"
+---> East Germanic
+----> Gothic `𐌰𐍂𐌱𐌹` <arbi>: "heritage, inheritance"
+---> North Germanic `ᚨᚱᛒᛁᛃᚨ` <arbija>: "inheritance"
+----> Old Norse `erfi`
+-----> Icelandic `erfi`
+---> West Germanic
+----> Old English `yrfe`: "inheritance, property, livestock"
+-----> Scots `erf`: "inheritance, cattle"
+----> Frankish <*ervi>: "inheritance, property"
+-----> Dutch `erf`: "property, yard"
+----> Old High German `erbi`: "heritage"
+-----> German `Erbe`: "heritage"
+---> Samic <*ārpē>: "inheritance"
+----> Northern Sami `árbi`: "inheritance, legacy, heritage"
+---> Germanic <*arbijô>: "heir"
+----> East Germanic
+-----> Gothic `𐌰𐍂𐌱𐌾𐌰` <arbja>: "heir"
+----> North Germanic
+-----> Old Norse `arfi`: "heir"
+------> Icelandic `arfi`: "heir"
+----> West Germanic
+-----> Old English `ierfa`: "heir"
+-----> Old High German `arbeo`: "heir"
+------> German `Erbe`: "heir"
+
+
+-> Proto-Indo-European <*h₃órbʰo-s>: "orphan, servant, slave, worker"
+
+--> Old Armenian `որբ` <orb>: "orphan"
+---> Armenian `որբ` <orb>: "orphan"
+
+--> Balto-Slavic <*arbas>
+---> Slavic <*orbъ>: "orphan, slave"
+----> East Slavic `робъ` <robŭ>
+-----> Ukrainian `роб` <rob>
+----> South Slavic
+-----> Old Church Slavonic `ⱃⰰⰱⱏ` <rabŭ>: "servant, slave"
+------> Hungarian `rab`: "captive"
+------> Polish `rab`: "slave" (archaic)
+------> Russian `раб` <rab>: "slave, serf, bondsman"
+----> West Slavic
+-----> Czech `rob`: "slave, serf" (archaic)
+-----> Serbo-Croatian `ро̏б` <rȍb>: "slave"
+
+--> Hellenic
+---> Ancient Greek `ὀρφανός` <orphanós>: "orphaned, childless, dereft, destitute"
+----> Greek `ορφανός` <orfanós>: "orphaned, orphan"
+----> Coptic `ⲟⲣⲫⲁⲛⲟⲥ` <orphanos>: "orphan"
+----> Late Latin `orpahnus`: "orphan"
+-----> Sardinian `òlfanu`
+-----> Eastern Romance
+------> Dalmatian
+-------> Albanian `vorfën`: "poor"
+------> Romanian `oarfăn`: "destitute, poor, sorrowful" (archaic)"
+-----> Western Romance
+------> Old French `orfene`
+-------> English `orphan`
+------> Italian `orfano`: "orphan"
+------> Spanish `huérfano`: "orphan"
+-----> Vulgar Latin <*orphanulinus> (diminutive)
+------> Western Romance
+-------> French `orfelin`: "orphan"
+
+--> Italic
+---> Latin `orbus`: "bereaved, orphaned, widowed, deprived of, blind"
+----> Eastern Romance
+-----> Dalmatian `vuarb`: "blind"
+------> Albanian `verbër`: "blind"
+-----> Romanian `orb`: "blind"
+----> Western Romance
+-----> Italian `orbo`: "blind, one-eyed, bereft"
+
+--> Indo-Iranian <*Hárbʰas>: "orphan, child"
+---> Indo-Aryan <*Hárbʰas>
+----> Sanskrit `अर्भ` <árbha>: "child, childish, small, unimportant"
+
+---> Proto-Uralic <*orpa>: "orphan"
+----> Finno-Ugric
+-----> Finnic <*orpoi>
+------> Finnish `orpo`: "orphan"
+-----> Samic <*oarpēs>
+------> Northern Sami `oarbbis`: "orphan"
+-----> Mordvinic
+------> Erzya `уроз` <uroz>
+-----> Ugric
+------> Hungarian <árva>: "orphan"
+
+
+--> Proto-Indo-European <*h₃órbʰoteh₂>: "slavery, drudgery" (noun of state of being)
+
+---> Balto-Slavic
+----> Slavic <*orbota>
+-----> East Slavic <робота` <robota>
+-----> South Slavic
+------> Old Church Slavonic `работа` <rabota>: "sevitude"
+-------> Russian `рабо́та` <rabóta>: "work, toil, assignment, job"
+------> Serbo-Croatian `рабо́та` <rabóta>: "work, labor, deed"
+-----> West Slavic
+------> Czech `robota`: "sefdom, hard work, drudgery"
+-------> Czech `robot`: "robot" #
+--------> English `robot`
+---------> English `bot`
+---------> Arabic `رُوبُوت‎‎` <rōbōt>: "robot"
+---------> Japanese `ロボット` <robotto>: "robot"
+---------> Spanish `robot`: "robot"
+--------> French `robot`: "robot"
+---------> Portuguese `robô`: "robot"
+--------> Greek `ρομπότ` <rompót>: "robot"
+--------> Russian `ро́бот` <róbot>: "robot, bot"
+-------> Hungarian `robot`: "serfdom, forced labor, drudgery"
+------> Polish `robota`: "construction work, hard work, drudgery"
+
+
+--> Proto-Indo-European <*h₃órbʰoti-s>: "drudgery, work" (abstract action noun)
+
+---> Germanic <*arbaidiz>: "labor, work, hardship, suffering"
+----> East Germanic
+-----> Gothic `𐌰𐍂𐌱𐌰𐌹𐌸𐍃` <arbaiþs>: "labor, work, toil, hardship, distress"
+----> North Germanic
+-----> Old Norse `erfiði`
+------> Old Danish `ærvede`
+------> Icelandic `erfiði`: "toil, hard work, labor"
+----> West Germanic
+-----> Old English `earfoþe`: "work, labor, suffering, hardship, disease"
+-----> Frankish
+------> Dutch `arbeid`: "work, labor"
+-----> Old High German `arbeit`
+------> German `Arbeit`: "work, labor, job, task, workmanship, effort, employment"
+-------> Japanese `アルバイト` <arubaito>: "part-time work, student job"
+--------> Korean `아르바이트` <areubaiteu>: "part-time work, side job"
+------> Yiddish `אַרבעט` <arbet>: "work, labor"
+-----> Old Saxon `arvēd(i)`: "labor, work, need, suffering"
+------> Low German `Arbeid`: "work, labor, job, employment"
+------> Danish `arbejde`: "work"
+
+endbody
+
+startnotes
+
+
+# "robot" was coined by Czech writer Karel Čapek for his science fiction play "R.U.R." (or "Rossum's Universal Robots") in 1920.
+
+endnotes

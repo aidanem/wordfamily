@@ -1,0 +1,162 @@
+date: 20170428
+theme: Miscellaneous light and cat words 🦁
+tags: Divinities, Elements, Runes
+
+
+
+
+
+startbody
+
+Proto-Indo-European <*sóh₂wl̥>: "sun"
+
+-> Balto-Slavic <*saul>: "sun"
+--> Lithuanian `sáulė`: "sun"
+--> Slavic <*sъlnьce>: "sun"
+---> East Slavic
+----> Russian `со́лнце` <sólnce>: "sun"
+---> South Slavic
+----> Serbo-Croatian `су̑нце` <sȗnce>: "sun"
+---> West Slavic
+----> Polish `słońce`: "sun"
+
+-> Celtic <*sāwol>
+--> Brythonic `heol`
+---> Welsh `haul`: "sun"
+--> Old Irish `súil`: "eye" (from the sun as the "eye of the sky")
+---> Irish `súil`: "eye"
+
+-> Germanic <*sōwulō>: "sun, the rune ᛊ"
+--> East Germanic
+---> Gothic `𐍃𐌰𐌿𐌹𐌻` <sáuil>: "sun, the letter 𐍃"
+--> North Germanic
+---> Old Norse `sól`: "sun, the rune ᛋ"
+----> Danish `sol`: "sun"
+----> Icelandic `sól`: "sun"
+--> West Germanic
+---> Old English `sōl`: "sun"
+--> English `Sowilo`: "the rune ᛊ/ᛋ"
+--> Germanic <*swagilaz>: "sunny, solar"
+---> West Germanic
+----> Old English `sweġl`: "the sky, Heaven, sun, the rune ᛋ"
+
+-> Hellenic <*hāwélios>
+--> Ancient Greek `ἥλιος` <hḗlios>: "sun, God of the Sun"
+---> Greek `ήλιος` <ílios>: "sun"
+---> New Latin `helium`: "noble gas with atomic number 2, helium" #
+----> English `helium`
+----> Translingual `He`: chemical symbol for Helium
+
+-> Italic <*swōl>: "sun"
+--> Latin `sōl`: "sun"
+---> Sardinian `sole`: "sun"
+---> Eastern Romance
+----> Romanian `soare`: "sun"
+---> Western Romance
+----> Italian `sole`: "sun"
+----> Spanish `sol`: "sun"
+---> Vulgar Latin <*soliculus>: "sun"
+----> French `soleil`: "sun"
+---> Latin `sōlāris`: "related to the sun, sunny"
+----> English `solar`
+----> Latin `sōlārium`: "sundial, sunny terrace" ("sun-place")
+-----> English `solarium`
+-----> Dutch `zolder`: "attic"
+
+-> Indo-Iranian <*súHar>: "sun"
+--> Iranian
+---> Avestan `𐬵𐬎𐬎𐬀𐬭𐬇` <huuarə̄>: "sun"
+---> West Iranian
+----> Persian `خور` <xōr>: "sun"
+-----> Persian `خورشیدی` <Xoršidi>: "sunlight, male given name"
+------> Turkish `Hurşit`
+------> English `Khorshid`
+--> Indo-Aryan
+---> Mitanni Aryan <*šuwar>
+----> Mitanni Aryan <Šuwardata>: "Sun-Given (personal name)"
+---> Sanskrit `𑀲𑁆𑀯𑀭𑁆` <svàr>: "sun"
+----> Sanskrit `𑀲𑀽𑀭𑁆𑀬` <sū́rya>: "sun, God of the Sun"
+-----> Elu
+------> Sinhala `ඉර` <ira>: "sun"
+------> Dhivehi `އިރު` <iru>: "sun, time"
+-----> Pali `surya`
+------> Malay `suria`: "sun"
+------> Thai `สุริยา` <sù-rí-yá>: "sun" (rare, used in names and compounds)
+-------> Thai `สุริยคราส` <sù-rí-yá-krâat>: "solar eclipse"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `सूरज` <sūraj>: "sun"
+-----> Bengali `সূর্য` (surjô)
+-----> Punjabi `ਸੂਰਜ` (sūraj)
+-----> Telugu `సూర్యుడు` <sūryuḍu>: "sun"
+-----> Sanskrit `𑀲𑀽𑀭𑁆𑀬 𑀦𑀫𑀲𑁆𑀓𑀸𑀭` <sū́rya namaskāra>: "sun salutation"
+------> English `Surya Namaskara`
+
+
+-> Proto-Indo-European <*sh̥₂wén> (oblique form) ###
+
+--> Celtic <*sawenos>: "sun"
+---> Brythonic
+----> Welsh `huan`: "sun" (rare)
+
+--> Germanic <*sunnȭ>: "sun"
+---> West Germanic
+----> Old English `sunne`: "sun"
+-----> English `sun`
+------> English `sunglasses`
+-------> Japanese `サングラス` <sangurasu>: "sunglasses"
+----> Frankish `sunna`: "sun"
+-----> Dutch `zon`: "sun"
+----> Old High German `sunna`: "sun"
+-----> German `Sonne`: "sun"
+-----> Yiddish `זון` <zun>: "sun"
+---> Germanic `sunþraz`: "south, sunward"
+----> North Germanic
+-----> Old Norse `suðr`: "south"
+------> Danish `syd`: "south"
+------> Icelandic `suður`: "south"
+----> West Germanic
+-----> Old English `sūþ`: "south"
+------> English `south`
+------> Old French `sud` ##
+-------> French `sud` ##
+-------> Italian `sud` ##
+-------> Spanish `sur` ##
+-----> Frankish
+------> Dutch `zuid`: "south"
+----> Germanic <*sunþanē>: "sunwardly, southerly" (adverb)
+-----> North Germanic
+------> Old Norse `sunnan`: "southern"
+-------> Danish `sønden`
+-------> Icelandic `sunnan`: "southern"
+-----> West Germanic
+------> Frankish <*sūthan>
+-------> Dutch `zuiden`: "south, southern"
+-------> German `Süden`: "south"
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan `𐬓𐬀𐬥` <xᵛan>: "sun"
+
+
+
+endbody
+
+
+startnotes
+
+# Helium is named after the sun, because it was first identified in the spectral emission lines of light from the Sun, 13 years before it was ever identified on Earth. As a noble gas, helium is both rare on Earth, and the second least reactive of any element, leaving it hidden from the early chemical discovery processes.
+
+
+## Latin words for cardinal directions, in this case <auster>/<meridies>, were replaced or supplemented in most Romance languages by borrowings from Old English. Weird.
+
+
+
+### <*sóh₂wl̥>/<*sh̥₂wén> is the only known case of a heteroclitic l/n stem, but it behaves identically to the larger group of r/n stems, just with *l instead of *r
+
+ The l/n alternation paradigm was levelled independently in different language families. Sometimes it was changed to use *-l- in both forms, in others to use *-n- in both forms
+
+The "oblique form" shown here is a theoretical nominative declension back-formed from genitive <*sh₂wéns> as if the stem did not alternate between *-l- and *-n-. But in reality, this form probably never occured, as the levellings happened much later. For example in Germanic the levelling appears to happen after the split between North and West Germanic, perhaps around the 3rd century CE
+
+
+endnotes

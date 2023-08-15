@@ -1,0 +1,118 @@
+date: 20180413
+theme: Birds 🐦
+tags: Animals, Birds, Unknown Substrate 
+
+
+
+startbody
+
+?
+
+-> Northwest Indo-European <*tr(o)zdos> #
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `strazdas`: "thrush"
+---> Slavic <*drȏzdъ>: "thrush"
+----> East Slavic
+-----> Russian `дрозд` <drozd>: "thrush"
+----> South Slavic
+-----> Serbo-Croatian `дро̏зд` <drȍzd>: "thrush"
+----> West Slavic
+-----> Polish `drozd`: "thrush"
+
+--> Celtic <*trezd>
+---> Gaulish <*tresd>
+----> Gaulish <*tresdina>
+----?> French `draine`: "mistle thrush"
+---> Brythonic
+----> Welsh `tresglen` :"blackbird"
+---> Old Irish `truit`: "starling"
+----> Irish `druid`: "starling"
+
+--> Germanic <*þrastuz>: "thrush"
+---> North Germanic
+----> Old Norse `þrǫstr`: "thrush"
+-----> Danish `trost`: "thrush" (archaic)
+-----> Icelandic `þröstur`: "thrush"
+---> Germanic <*þrustaz>   (metathesis)
+----> Germanic <*þruskijǭ> (dimuntive)
+-----> West Germanic
+------> Old English `þrysċe`
+-------> English `thrush`
+----> Germanic <*þrustalȭ> (diminutive)
+-----> West Germanic
+------> Old English `þrostle`
+-------> English `throstle`
+------> Old High German `drōscala`
+-------> German `Drossel`: "thrush"
+--------> Danish `drossel`: "thrush"
+
+--> Italic
+---> Latin `turdus`: "thrush, fieldfare"
+----> Translingual `Turdus`: "taxonomic genus of true thrushes"
+----> Eastern Romance
+-----> Romanian `sturz`: "thrush" ##
+----> Western Romance
+-----> Italian `tordo`: "thrush"
+-----> Spanish `tordo`: "thrush"
+
+
+-> Greco-Armenian? <*drodʰ-> #
+
+--> Armenian `տորդիկ` <tordik>: "thrush" (archaic)
+---> Armenian `Տորդիկ` <Tordik>: "Thrush (surname)"
+
+--> Hellenic
+---> Ancient Greek <*drouthos>: "sparrow"
+----> Ancient Greek `Τρουθος`: "personal name"
+----> Ancient Greek `Δρουθου`: "personal name (gen.)"
+----> Ancient Greek `στρουθόs` <strouthós>: "sparrow"
+-----> Latin `strūtheus`: "pertaining to sparrows"
+-----> Ancient Greek `στρουθιοκάμηλος` <strouthiokámēlos>: "ostrich" (lit. "sparrow-camel") ####
+------> Greek `στρουθοκάμηλος` (strouthokámilos): "ostrich"
+------> Latin `strūthiocamēlus`: "ostrich"
+-------> Latin `strūthiō`: "ostrich"
+--------> Translingual `Struthio`: "taxonomic genus of ostriches"
+--------> Eastern Romance
+---------> Romanian `struț`: "ostrich"
+--------> Western Romance
+---------> Italian `struzzo`: "ostrich"
+----------> Old High German `strūz`: "ostrich"
+-----------> German `Strauss`: "ostrich, bouquet"
+------------> Russian `стра́ус` <stráus>: "ostrich"
+-----------> Yiddish `שטרויס` <shtroys>: "ostrich"
+--------> Old English `strūta`
+--------?> Icelandic `strútur`: "ostrich"
+--------> Old Norse `strúz`: "ostrich"
+---------> Danish `struds`: "ostrich"
+
+--------> Latin `avis strūthiō`: "ostrich bird"
+---------> Vulgar Latin <*austruthio>: "ostrich"
+----------> Western Romance
+-----------> Old French `ostruce`
+------------> French `autruche`: "ostrich"
+------------> English `ostrich`
+------------> Welsh `estrys`: "ostrich"
+-----------> Spanish `avestruz`: "ostrich"
+
+endbody
+
+startnotes
+
+# This word has characteristics of a borrowing from Non-IE into Late Northwestern (like many other bird names), which may explain why no single IE reconstruction quite fits all the descendant forms.
+
+On the other hand, there are possible connections in Armenian and Greek (which aren't in the Northwestern group). But Greco-Armenian is a likely sub-grouping anyway, so I've graphed it as speculating two separate borrowings, one into LNW and one into Greco-Armenian.
+
+## The initial 's' in Romanian `sturz` is unexpected. It may be a conflation with Latin `sturnus`: "starling".
+
+Given the uncertain and likely non-IE origin of this family, the "starling" family—Latin `sturnus`, Old English `stær(linc)`, Welsh `drudwen`, etc.—may be related. If so, the "tern" family is likely related also.
+
+IE initial <s>'s are predictably unpredictable between branches (https://en.wikipedia.org/wiki/Indo-European_s-mobile), so variations like Latin `sturnus` vs Welsh `drudwen` are expected. A variation as late as the descent from Vulgar Latin to Romanian is not an example of s-mobile, but since Latin still has lots of grammatical endings with "-s", a similar effect is reasonable.
+
+
+
+#### Compare Ancient Greek `στρουθιοκάμηλος` <strouthiokámēlos>: "ostrich" (lit. "sparrow-camel") to `κᾰμηλοπάρδᾰλῐς` <kamēlopárdalis>: "giraffe", but literally "camel-leopard" (English `leopard` is itself actually "lion-leopard").
+
+
+endnotes

@@ -1,0 +1,96 @@
+date: 20221209
+tags: Afro-Asiatic, Divinities, Time
+
+
+startintro
+
+This word for "moon" is wide spread through Afro-Asiatic and specifically Semitic languages. The one exception is Arabic which uses `قمر` <qamar> for moon, instead of the expected <*war(i)ḵ>. The origin of <qamar> is unsolved.
+
+Though Arabic may have borrowed the word <tārīk>: "date, time, time-keeping" from the Safaitic reflex, `𐩥𐩧𐩭` <wrḫ>: "month", in a morphological form resembling the Arabic form II verbal nouns.
+
+
+endintro
+
+
+startbody
+
+Afro-Asiatic <*wrḥ>: "moon"
+
+-> Tamazight
+--> Northern Tamazight
+---> Kabyle `ayyur``: "moon, month"
+---> Atlas Tamazight
+----> Central Atlas Tamazight `ⵢⵓⵔ` <yur>: "month"
+----> Taselhit `ⴰⵢⵢⵓⵔ` <ayyur>: "moon, month"
+--> Tuareg
+---> Tamahaq <ăyor>: "moon"
+
+-> Egyptian `𓇋𓂝𓎛𓇺` <jꜥḥ-MOON> [jaʕħuw]: "moon"
+--> Demotic Egyptian
+---> Coptic
+----> Bohairic Coptic `ⲓⲟϩ` <ioh>: "moon" #
+----> Sahidic Coptic `ⲟⲟϩ` <ooh>: "moon"
+---> Egyptian Arabic `أيوحه` <ʼayūḥah>: "new moon of Ramadan?"
+
+--> Egyptian `𓇹𓄟𓋴` <jꜥḥ-ms>: "The Moon is Born (personal name)"
+---> Classical Greek `Ἄμασις` <Ámasis>
+----> Latin `Amāsis`
+---> Classical Greek `Ἄμωσις` <Ámōsis>
+---> English `Ahomse`
+
+--> Egyptian `𓇺𓊵𓏏𓊪` <jꜥḥ-ḥtp>: "The Moon is Content (personal name)"
+---> English `Ahhotep`
+
+
+
+-> Semitic <*warḫ>
+--> Central Semitic
+---> Northwest Semitic <*y-r-ḥ> (with chracterisitic NWS shift of <*w> to <*y>)
+----> Aramaic `𐡉𐡓𐡇𐡀` <yrḥʾ>: "month"
+----> Canaanite
+-----> Hebrew `ירח` <yaréakh>: "moon"
+-----> Phoenician `𐤉𐤓𐤇` <yrḥ>: "moon, month"
+------> Punic `𐤉𐤓𐤇` <yrḥ>: "moon, month"
+
+--> East Semitic
+---> Akkadian `𒌗` <(w)arḫu(m)>: "moon, new moon, month"
+----> Akkadian `𒌗𒀳` <(w)araḫ samnu>: "month name, Eighth Month"
+-----> Hebrew `מרחשוון` <markheshván>: "month name"
+------> Hebrew `חשוון` <kheshván>: "month name, Cheshvan" (clipping)
+-------> Yiddish `חשוון` <kheshvn>: "Cheshvan"
+-------> English `Cheshvan`
+
+--> South Semitic
+---> Ethiopic
+----> Amharic `ወር` <wär>: "month"
+----> Tigrinya `ዋርሒ` <warḥi>: "moon"
+----> Tigrinya `ወርሒ` <wärḥi>: "month"
+---> Old South Arabian `𐩥𐩧𐩭` <wrḫ>: "month"
+----> Old South Arabian <*t-wrḫ> (verbal noun)
+----?> Arabic `تاريخ` <tārīḵ>: "date, time, history, historical chronicle"
+------> Hausa `tār̃īhī̀`: "history, biography"
+------> Malay `tarikh`: "historical chronicle, date, year, calendar"
+------> Persian `تاریخ` <târix>: "history, date"
+-------> Hindi `तारीख़` <tārīx>: "history, era, epoch, chronicle"
+------> Swahili `tarehe`: "date"
+------> Ottoman Turkish `تاریخ` <tarih>: "date, history"
+-------> Turkish `tarih`: "date, history"
+---> Modern South Arabian
+----> Mehri `ورح` <warḫ>: "month"
+
+
+?> Chadic
+--> Hausa `watā̀`: "moon, month"
+
+
+endbody
+
+
+startnotes
+
+# Looking at the Bohairic `ⲓⲟϩ` <ioh>: "moon" provokes the interesting question of whether Greek `Ἰώ` <Īṓ> could be related. While the moon of Io is named that for largely unrelated reasons, Io—the Horned Virgin—did have lunar associations
+
+And `Ἰώ` <Īṓ> is definitely not originally a Greek name. It could be a name from Egyptian `𓇺` <jꜥḥ> or <Iah> through Minoan, as I speculate for Hephaestus and Leo
+
+
+endnotes

@@ -1,0 +1,162 @@
+date: 20230210
+tags: Algic, Elements, Water
+
+
+startintro
+
+In which the US states of `Mississippi`, `Michigan`, and `Massachusetts` all have a common ancestor in Algonquian <*meʔši->: "large".
+
+But not Missouri. I checked 4 or 5 times because my mind kept rejecting the answer.
+
+
+endintro
+
+
+startbody
+
+Algonquian <*-ʔči->
+
+-> Central Algonquian
+-?> Ojibwe `ᒋ-` <chi->: "big, great, long, very" #
+
+
+
+?> Algonquian <*meʔši->: "large (indefinite?)"
+
+--> Central Algonquian
+
+---> Miami <mihši->
+----> Miami `mihšipakwa`: "(big) leaf"
+----> Miami `Mihšisiipiiwi`
+
+---> Ojibwe <*michi-> #
+----> Ojibwe <*michi-gami>
+-----> English `Michigan`
+----> Ojibwe <*michi-ziibi>
+-----> English `Mississippi`
+----> Ojibwe <mishiimin>: "apple" (presumably "[big] berry, big fruit")
+-----> Ojibwe <Mishiiminens-oodena>: "Minneapolis" (bilingual pun, literally "mini-apple town")
+
+---?> Ojibwe `ᒋ-` <chi->: "big, great, long, very" #
+
+
+--> Eastern Algonquian
+
+---> Wampanoag <mish-> ##
+
+----> Wampanoag <mishadchu>: "big hill, the Great Blue Hill"
+-----> Wampanoag <Mâsachuwesut>: "at the Great Hill"
+-----> English `Massachusett`
+-----> English `Massachusetts`
+----> Wampanoag <misheepee>
+-----> Wampanoag `Mâseepee`: "Large Water (place name)" ##
+-----> English `Mashpee`
+----> Wampanoag <*mish-tahssôt>: "high king"
+-----> English `Massasoit` (used in English as a name for High King Ousamequin)
+----> Wampanoag `mishetashin`: "it storms" (lit. "the wind becomes great")
+
+
+
+--> Algonquian <*meʔši-sipowi>: "large river"
+
+---> Arapaho `Beesniicíe`: "Mississippi River"
+
+---> Central Algonquian
+----> Fox
+-----> Meskwaki `Mäse’sibowi`: "Mississippi River"
+----> Miami `Mihšisiipiiwi`: "Mississippi River"
+----> Ojibwe <*michi-ziibi>
+-----> English `Mississippi`
+
+---> Eastern Algonquian
+---?> Wampanoag <misheepee>: "Large Water (place name)" ## (or from <*meʔši-nepyi>)
+
+
+
+?> Algonquian <*keʔči->: "large (definite?)"
+
+--> Central Algonquian
+---> Fox
+----> Meskwaki `kehči-`: "much, very big"
+---> Ojibwe `ᑭᐦᒋ-` <gichi->: "big, great, long, very" #
+----> Ojibwe `ᑭᐦᒋᑲᒥ` <gichi-gami>: "ocean, sea, large lake, Lake Superior"
+-----> English `Gitche Gumee`
+----> Ojibwe `ᑭᐦᒋᓰᐱ` <gichi-ziibi>: "Great River, the Mississippi River"
+----> Ojibwe <gichi-manidoo>: "Great Spirit, God"
+-----> Ojibwe <gichi-manidoo-giizis>: "January" (lit. "Great Spirit Month"/"Great Spirit time")
+----> Ojibwe `ᑭᐦᒋᒨᐦᑯᒫᓂᒧ` <gichi-mookomaan>: "large knife, sword, white man, American, Virginian"
+-----> Ojibwe `ᑭᐦᒋᒨᐦᑯᒫᓂᒧᑭᐊ` <gichi-mookomaan-aki>: "United States of America" (lit. "big knife land"/"white man land")
+----> Ojibwe <gichi-gwaaba'igan>: "Big Dipper (constellation)"
+---?> Ojibwe `ᒋ-` <chi->: "big, great, long, very" #
+
+
+--> Cree `ᑭᐦᒋ` <kihci->
+---> Cree `ᑭᐦᒋ ᓂᐢᑲ` <kihci-niska>: "Canada goose" (lit. "big goose"/"great goose")
+
+--> Eastern Algonquian
+---> Abenaki `kchi`: "big, great"
+---> Mohegan `kôkci-`: "big"
+
+
+
+
+Algic <*pekʷ?>
+
+?> Yurok `pecu`: "up river"
+--> Yurok `Pecheeklaa`: "Upriver People, Karuk"
+?> Yurok `pulekʷ`: "down river"
+--> Yurok `Pueleeklaa`: "Downriver People, River Yurok"
+?> Yurok `wohpekʷ`: "across the water, west"
+
+?> Wiyot `pet-tsah'-w`: "creek"
+
+
+?> Algonquian <*si•powi>
+
+--> Arapaho `niicii`: "river"
+---> Arapaho `Beesniicíe`: "Mississippi River"
+
+--> Central Algonquian
+
+---> Fox
+----> Kickapoo `θiipoi`: "river"
+----> Meskwaki `sipowi`: "river"
+-----> Meskwaki `Mäse’sibowi`: "Mississippi River"
+---> Miami `siipiiwi`: "river"
+----> Miami `Mihšisiipiiwi`: "Mississippi River"
+---> Ojibwe `ᓰᐱ` <ziibi>: "river"
+----> Ojibwe <ziibiins>: "creek, small river"
+----> Ojibwe <*michi-ziibi>
+----> Ojibwe `ᑭᐦᒋᓰᐱ` <gichi-ziibi>: "Great River, the Mississippi River"
+
+
+--> Cree `ᓰᐱᔾ` <sîpiy>: "river"
+
+--> Eastern Algonquian
+---> Abenaki `sibo`: "river"
+---> Mohegan `sipo`: "river"
+
+
+--> Algonquian <*meʔši-sipowi>: "large river, Great River (place name)"
+
+
+endbody
+
+
+startnotes
+
+# There is almost certainly a connection between <*meʔši->: "big" and <*keʔči->: "big".
+
+In modern Ojibwe, the Mississippi and Lake Superior are `Gichi-ziibi` and `Gichi-gami`, but English `Mississippi` and `Michigan` are understood to come from Ojibwe *Michi-ziibi and *Michi-gami. And there are all those other Algonquian languages  use names for the Mississippi corresponding to the <*meʔši-> form. Also, there is Ojibwe `mishiimin`: "apple" which is presumably "large [berry]"—and the delightful bilingual pun `Mishiiminens-oodena`: "Mini-Apple Town" for "Minneapolis". Perhaps even funnier if `Mishiiminens` is "big-berry-little".
+
+In fact, Ojibwe also sometimes uses a reduced form `chi` instead of  `gichi`, though that is considered informal and some Ojibwe elders proscribe it. 
+
+Since in Algonquian nouns are obligatorily possessed, <*meʔši-> vs. <*keʔči-> may be a fossilization of <*me-ʔči>: "somebody's large (noun)" vs. <*ke-ʔči>: "your large (noun)", perhaps acting like a indefinite/definite distinction.
+
+
+## It's unclear if Mâseepee is from <*meʔši-nepyi>: "Large Water" -> <mâs-nippe> or <*meʔši-si·po·wi>: "Large River" -> <mâs-sipu>. While <mâs-sipu> seems to be a better phonological fit, but the origin is generally considered to be <*meʔši-nepyi>, a better semantic fit.
+
+Also Wampanoag names with "big, great" as transmitted through English consistently have a <a> vowel, or a <â> in revived Wampanoag, but words as recorded in written Wampanoag from the 18th century use a <i> vowel; such as <Mâsachuw(esut)> vs <mishadchu>. Possibly this is dialectical variation?
+
+
+endnotes

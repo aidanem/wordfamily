@@ -1,0 +1,252 @@
+date: 20181026
+theme: Science Fiction 🤖
+
+
+
+
+startbody
+
+
+Proto-Indo-European <*(s)ker->: "to bend, to curve, to turn"
+
+-> Proto-Indo-European <*(s)kerwós>: "bent, curved"
+
+--> Balto-Slavic <*krivъ>
+---> Slavic <*krivъ>: "crooked, bent, wrong, guilty"
+
+
+-> Proto-Indo-European <*(s)kr̥wós>: "bent, curved"
+
+--> Italic <*korwos>
+---> Latin `curvus`: "bent, crooked, curved"
+----> Eastern Romance
+-----> Romanian `curbă`: "curve"
+------> Romanian `curbură`: "wimple"
+----> Western Romance
+-----> French `courbe`: "curved, bent, a curve"
+------> English `curb`
+-----> Spanish `corvo`: "curved, arched, a hook"
+----> English `curve`
+----> Latin `curvō`: "I bend, I curve, I bow"
+-----> Western Romance
+------> Italian `curvare`: "to bend, to curve"
+------> Latin `incurvō`: "to bend inwards"
+-------> Western Romance
+--------> Spanish `encorvar`: "to curve"
+
+
+-> Proto-Indo-European <*(s)kr̥kr̥> (reduplicate)
+
+--> Italic <*karkros>
+---> Latin `carcer`: "prison, jail, prisoner"
+----> English `incarcerate`
+
+---> Italic <*kankros>
+----> Latin `cancer`: "crab, tumor, lattice, grid"
+-----> English `canker`
+-----> English `cancer`
+-----> Latin `cancellus`: "lattice, grid, railings"
+------> English `chancel`
+------> English `chancellor`
+
+
+-> Proto-Indo-European <*(s)kerk-> (extension)
+
+--> Hellenic
+---> Ancient Greek `κίρκος` <kírkos>
+----> Latin `circus`: "circle, ring, racecourse, circus"
+----> English `circus`
+----> Latin `circō`: "to move in a circle"
+-----> English `search`
+----> Latin `circa`
+----> Latin `circulus`
+-----> English `circle`
+
+
+-> Proto-Indo-European <*(s)kerew-> (extension)
+--> Proto-Indo-European <*(s)kerewsneh₂>: "curved thing"
+
+---> Hellenic
+----> Ancient Greek `κορώνη` <korṓnē>
+-----> Latin `corōna`
+------> English `corona`
+------> English `crown`
+
+
+-> Proto-Indo-European <*(s)krey-> (extension)
+
+--> Proto-Indo-European <*(s)kréynō?>: "curved thing"
+
+---> Italic
+----> Latin `scrīnium`: "case or chest for books or papers"
+-----> English `shrine`
+
+--> Proto-Indo-European <*(s)kreys-> (extension)
+
+---> Proto-Indo-European <*(s)kreystós>
+----> Italic
+-----> Latin `crista`: "crest, plume, tuft"
+------> English `crest`
+
+--->  Proto-Indo-European <?>
+----> Italic
+-----> Latin `crispus`: "curly, crimped"
+------> Western Romance
+-------> French
+--------> English `crêpe`
+------> Old English
+-------> English `crisp`
+
+
+-> Proto-Indo-European <*(s)krewk-> (extension)
+
+--> Italic
+---> Latin `crux`
+----> English `crux`
+----> English `cross`
+----> English `crucify`
+
+
+-> Proto-Indo-European <*(s)krengʰ-> (nasal extension)
+
+--> Germanic <*hringaz>
+---> East Germanic
+----> Gothic <*hrings>
+----> Crimean Gothic `ringo`: "ring"
+----> Italian `aringo`: "circular field, tournament, town meeting"
+-----> French `harangue`: "public address, harangue"
+------> English `harangue`
+---> North Germanic
+----> Old Norse `hringr`
+-----> Danish `ring`: "ring, circle, halo, hoop, coil" 
+-----> Icelandic `hringur`: "circle, ring"
+----> Finnic <*rengas>: "ring, hoop"
+-----> Finnish `rengas`: "ring, hoop, loop, tire"
+---> West Germanic
+----> Old English `hrin(c)g`: "ring"
+-----> English `ring`
+------> English `Ringo`
+-----> English `rink`
+----> Frankish <*hring>
+-----> Dutch `ring`: "ring, beltway"
+----> Old High German `ring`: "ring"
+-----> German `Ring`: "ring"
+-----> Yiddish `רינג`‎ <ring>: "ring"
+
+
+
+
+?> Proto-Indo-European <*kerp-> (extension)
+
+--> Hellenic
+---> Ancient Greek `κᾰρπός` <karpós>: "wrist"
+----> Greek `καρπός` <karpós>: "wrist"
+----> New Latin `carpus`: "bones of the wrist"
+-----> New Latin `carpālis`: "to do with the wrist or wrist bones"
+------> English `carpal`
+
+
+-?> Proto-Indo-European <*kʷerp->
+
+---> Germanic <*hwerfaną>: "to turn"
+----> East Germanic
+-----> Gothic `𐍈𐌰𐌹𐍂𐌱𐌰𐌽` <ƕairban>: "to walk"
+----> North Germanic
+-----> Old Norse `hverfa`: "to go in a circle, to turn around, to change someone's mind"
+------> Danish `hverre`
+------> Icelandic `hverfa`: "to turn, to turn back, to vanish"
+----> West Germanic
+-----> Old English `hweorfan`: "to turn, to change, to travel"
+------> Old English `hwearf`
+-------> English `wharf`
+-----> Frankish <*hwervan>
+------> Dutch `werven`: "to recruit, especially for enlistment or civil service"
+-----> Old High German `(h)werban`
+------> German `werben`: "to recruit, to enlist, to advertise"
+
+--?> Hellenic
+----> Ancient Greek `κύρβις` <kúrbis>: "turning wooden cylinder"
+-----> Ancient Greek <*kúrbna>: "tiller?" (instrumental)
+------> Ancient Greek `κῠβερνᾰ́ω` <kubernáō>: "to steer, to pilot, to direct, to guide, to govern"
+-------> Ancient Greek `κυβέρνησις` <kubérnēsis>: "steering, pilotage, government"
+--------> Ancient Greek `κῠβερνητῐκός` <kubernētikós>: "good at steering, well-directed"
+---------> English `cybernetics`
+----------> English `cyborg` (portmanteau of "cybernetic organism">
+----------> English `cyber-`
+
+
+?> Proto-Indo-European <*(s)kel->: "to bend, to crook, heel, knee, hip"
+-?> English `colon`
+---> English `colic`
+--> English `cylinder`
+--> English `scoliosis`
+-?> English `Scalzi`
+
+--> Proto-Indo-European <*(s)kleh₂w->: "hook, crook, peg"
+
+---> Proto-Indo-European <*kléh₂wis>
+
+----> Hellenic
+-----> Mycenaean Greek <*klāwi>: "key"
+------> Mycenaean Greek `𐀏𐀨𐀹𐀡𐀫` <ka-ra-wi-po-ro>: "key-bearer"
+
+----> Italic <*klāwis>
+-----> Latin `clāvis`: "key, lever, bar"
+------> English `clef`
+------> English `clavicle`
+------> English `clavichord`
+
+---> Proto-Indo-European <*kleh₂wos>
+
+----> Celtic <*klāwos>
+-----> Brythonic <*klọw>
+------> Welsh `clo`: "lock, bolt, impediment, difficulty"
+-----> Old Irish `cló`: "spike, nail, imprint, form"
+------> Irish `cló`: "font, print, impression, form"
+
+----> Italic <*klāwos>
+-----> Latin `clāvus`: "nail"
+------> English `clove`
+------> English `cloy`
+
+---> Proto-Indo-European <*(s)klewd->: "to lock"
+
+----> Proto-Indo-European <*(s)klewdeti> (primary verb)
+
+-----> Italic <klaudō>
+------> Latin `claudō`: "I close, I lock, I confine, I limit"
+-------> English `close`
+-------> English `conclude`
+-------> English `exclude`
+-------> English `include`
+-------> English `preclude`
+-------> English `recluse`
+-------> English `seclude`
+
+----> Proto-Indo-European <*(s)klewdō>
+
+-----> Germanic <*slutą>: "a bolt, a lock"
+------> English `slot`
+
+----> Proto-Indo-European <*(s)kleh₂wiHds>
+
+-----> Hellenic <klāwī́ds>
+------> Ancient Greek `κλείς` <kleís>: "key, bolt, bar, collarbone (clavicle)" (Acc: <kleîda>)
+-------> Aramaic `קלידא‎` <qliḏaʾ>: "key"
+--------> Arabic `إِقْلِيد‎` <ʾiqlīd>: "key"
+--------> Hebrew
+-------> Persian `کلید` <kelid>: "key, clef"
+
+----> Proto-Indo-European <*(s)klewdtrom> (instrument)
+
+-----> Italic
+------> Latin `claustrum`: "gate, door, enclosure"
+-------> English `cloister`
+
+
+endbody
+
+startnotes
+
+
+endnotes

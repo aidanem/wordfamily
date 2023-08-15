@@ -1,0 +1,164 @@
+date: 20170704
+theme: Holiday Bonus ⭐
+
+
+startintro
+
+It is the right and proper state of a people or nation to be free, generous, honorable, hairy, libertine, and liberal children and vegetables.
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*h₁lewdʰ->: "growth, people"
+
+
+-> Proto-Indo-European <*h₁léwdʰeti> (primary verb)
+
+--> Germanic <*leudanã>
+---> Old Norse `loðinn`: "hairy, shaggy, grassy"
+----> Icelandic `loðinn`: "hairy, furry"
+----> Old Norse `Loðbrok`: "Shaggy-Britches" (epithet of legendary viking Ragnar Loðbrok)
+-----> English `Ragnar Lothbrok`
+
+--> Indo-Iranian <*Hráwdʰati>
+---> Indo-Aryan <*Hráwdʰati>
+----> Sanskrit `𑀭𑁄𑀥𑀢𑀺` <ródhati>: "to grow, to sprout"
+---> Iranian <*Hráwdati>
+----> Avestan `𐬭𐬀𐬊𐬜𐬆𐬧𐬙𐬌` <raoδəṇti>: "they grow"
+
+-?> Tocharian <*lut->
+---> Arshian <lut->
+---> Kuchean <lut->: "go beyond, drive out"
+
+
+-> Proto-Indo-European <*h₁lówdʰos>
+
+--> Indo-Iranian <*Hráwdʰas>
+---> Iranian <*Hráwdah>
+----> Avestan `𐬭𐬀𐬊𐬜𐬀` <raoδa>: "growth, stature"
+----> Pashto `لويېدل‎` <loyedal>: "to grow"
+----> West Iranian
+-----> Old Persian
+------> Persian `رستن` <rostan>: "to grow"
+
+
+-> Proto-Indo-European <*h₁lewdʰeros> (contrastive adjective?)
+
+--> Hellenic
+---> Classical Greek `ἐλεύθερος` <eleútheros>: "free, freedom"
+----> Greek `ελεύθερος` <eléftheros>: "free, single, available"
+----> Classical Greek `ἐλευθερῐ́ᾱ` <eleutheríā>: "freedom, liberty, manumission, license"
+-----> Greek `ελευθερία` <elefthería>: "freedom, liberty"
+
+--> Italic <*Louðeros>: "Divinity of growth, Līber"
+---> Oscan `𐌋𐌞𐌅𐌚𐌓𐌄𐌝𐌔` <lúvfreís>: "of (the god) Līber" (only attested as genitive)
+---> Latin `Līber`: "Divinity of growth and planting"
+
+--> Italic <*louðeros>: "free, child"
+---> Latin `līber`: "free, unrestricted"
+----> Western Romance
+-----> French `libre`: "free, at liberty, without obligation, clear, vacant"
+------> English `libre`
+-----> Italian `libero`: "free, unobstructed"
+-----> Spanish `libre`: "free, clear"
+
+----> Latin <līberō>: "I free, I liberate, I release, I deliver"
+-----> Western Romance
+------> French `livrer`: "to deliver, to give away"
+-------> English `livery`
+-------> English `deliver`
+------> Spanish `librar`: "to save, to rescue, to deliver, to place, to give birth"
+-----> French `libérer`: "to liberate, to set free, to vacate" (re-borrowing)
+-----> Italian `liberare`: "to free, set free, release, deliver, vacate"
+-----> Spanish `liberar`: "to liberate"
+
+----> Latin `līberālis`: "pertaining to freedom, dignified, honorable, generous"
+-----> English `liberal`
+----> Latin `līberātiō`: "liberation, release"
+-----> French `libération`: "deliverance, release, liberation"
+------> English `liberation`
+-----> Italian `liberazione`: "release, liberation, freeing"
+-----> Spanish `liberación`: "liberation"
+
+----> Latin `līberī`: "free ones, children"
+
+---> Italic <*louðortāts>: "freedom"
+----> Faliscan `𐌋𐌏𐌉𐌚𐌉𐌓𐌕𐌀𐌕𐌏` <loifirtato>: "freedom, liberty"
+----> Latin `lībertās`: "liberty, freedom, freedom of speech, candor, independence, social privilege"
+-----> French `liberté`: "liberty, freedom"
+------> English `liberty`
+-----> Italian `libertà`: "freedom, liberty"
+-----> Spanish `libertad`: "freedom"
+
+---> Italic <*louðert(a/os)>: "freedwoman, freedman"
+----> Faliscan `𐌋𐌏𐌉𐌚𐌄𐌓𐌕𐌀` <loiferta>: "freedwoman"
+----> Latin `lībert(a/us)`: "freedwoman, freedman"
+-----> Latin `lībertīnus`: "freedman, pertaining to free people"
+------> French `libertin`: "libertine"
+-------> English `libertine`
+
+
+-> Proto-Indo-European <*h₁léwdʰis> (abstract action noun)
+
+--> Balto-Slavic <*ljaudejes>
+---> East Baltic
+----> Lithuanian `liáudis`: "people, nation"
+---> West Baltic
+----> Old Prussian `ludis`
+---> Slavic <*ľȗdьje>: "people"
+----> East Slavic `люди` <ljudi>
+-----> Russian `лю́ди` <ljúdi>: "people, humans"
+-----> Ukrainian `лю́ди` <ljúdy>: "people, humans"
+-----> Ludic `lüüdi`
+------> Finnish `lyydi`: "Ludic"
+-------> English `Ludic`
+----> South Slavic
+-----> Old Church Slavonic `людиѥ` <ljudije>
+-----> Serbo-Croatian `љу̑ди` <ljȗdi>: "people" (suppletive plural of `čȍvjek`)
+----> West Slavic
+-----> Czech `lidé`: "people" (suppletive plural of `člověk`)
+-----> Polish `ludzie`: "people"
+
+--> Germanic <*liudīz>: "person, people"
+---> East Germanic
+----> Gothic `𐌻𐌹𐌿𐌸𐍃` <liuþs>: "person"
+---> North Germanic
+----> Old Norse `lýðr`
+-----> Icelandic `lýður` "populace, people, public"
+---> West Germanic
+----> Old English `lēod`: "people, nation, man, chief, prince, weregild"
+-----> Scots `lede`: "person, people, folk"
+----> Frankish <*liudi>: "people"
+-----> Dutch `lieden`: "people"
+-----> Medieval Latin `leudēs`: "vassals"
+------> French `leude`: "vassal"
+----> Old High German
+-----> German `Leute`: "people"
+---> Germanic <*Liudiharjaz>: "People-Warrior" (personal name)
+----> West Germanic
+-----> Old High German `Liutheri`
+------> German `Luther`
+-------> English `Luther`
+--------> English `Lutheran`
+
+
+-> Proto-Indo-European <*h,ludhtus>
+
+--> Celtic <*lussu->
+---> Brythonic
+----> Welsh `llysiau`: "vegetable"
+---> Old Irish `lus`: "herb, plant, vegetable"
+----> Irish `lus`: "herb, plant"
+---> Celtic <*ande-Iussu->
+----> Old Irish
+-----> Middle Irish `indlos`: "growth, riches"
+
+
+-> Proto-Indo-European <*h₁lewdʰnos>
+
+--> Proto-Albanian <*lèudno>
+---> Albanian `lem`: "people"
+
+endbody

@@ -1,0 +1,148 @@
+date: 20170901
+theme: Fire 🔥
+tags: ATLA, Divinities, Elements, Fire
+
+startintro
+
+Proto-Indo-European had (at least) two words <*h₁n̥gʷnis>: "fire" (grammatically animate) and <*péh₂wr̥> (grammatically inanimate).
+
+Effectively all descendants of <*h₁engʷ-> have lost the labialization, so distinguishing it from reconstructed <**h₁eng-> is not immediately obivous. It mostly survives only  in languages that merge <*g> and <*gʷ> (Balto-Slavic, Indo-Iranian, Albanian, Armenian), with only one descendant in a clearly centum language: Latin `ignis`, where the labialization is also not present due to the following consonant (compare Latin `migrō` from <*h₂migʷró->, corresponding to Greek <ameíbō> from <*h₂méygʷ->).
+
+Possibly the clearest indication of original <*gʷ> is Albanian `thëngjill`—the palatalization to `gj` happens to original <*gʷ>, but not <*g>, even though <*gʷ> and <*g> merge otherwise. 
+
+endintro
+
+
+startbody
+
+
+Proto-Indo-European <*h₁engʷ->: "to burn, fire"
+
+
+-> Proto-Indo-European <*h₁n̥gʷnis>: "fire"
+
+--> Paleo-Balkan <*Enji>: "divinity of Fire"
+---> Albanian `En`: "divinity of Fire and Thunder" (oblique stem `enj-`)
+----> Albanian `enjte`: "Thursday" (calque of Latin `​​(diēs) Iovis`: "day of Jupiter")
+---> Messapian <*En>
+----> Messapian <*Enni->: "personal name: of (the god) En"
+-----> Latin `Ennius` ###
+
+--> Balto-Slavic <*ungnis>
+---> East Baltic
+----> Lithuanian `ugnìs`: "fire"
+---> Slavic <*õgnjь>
+----> East Slavic
+-----> Russian `ого́нь` <ogónʹ>: "fire, light, weapons fire"
+-----> Ukrainian `вого́нь` <vohónʹ>: "fire, fireplace, hearth, sunlight, light"
+----> South Slavic
+-----> Bulgarian `о́гън` <ógǎn>: "fire, fever"
+-----> Serbo-Croatian `о̀гањ` <òganj>: "fire"
+----> West Slavic
+-----> Czech `oheň`: "fire"
+-----> Polish `ogień`: "fire
+
+--> Indo-Iranian <*Hagnis>
+---> Indo-Aryan <*agní>: "fire"
+----> Dardic <*agní>
+-----> Kashmiri <agun>
+----> Mitanni Aryan
+-----> Hurrian
+------> Hittite `𒀀𒀝𒉌𒅖` <a-ak-ni-iš>: "Mitanni divinity of fire, Agni" #
+----> Sanskrit `𑀅𑀕𑁆𑀦𑀺` <agní>: "fire, Vedic divinity of fire"
+-----> Pali `𑀅𑀕𑁆𑀕𑀺` <aggi>: "flame, conflagration, sparks"
+------> Javanese `geni`: "fire"
+------> Thai `อัคนี` <àk-ká-nii>: "fire, Agni"
+-----> Sauraseni `𑀅𑀕𑁆𑀕𑀺` <aggi>
+------> Madhya
+-------> Hindi `आग` <āg>: "fire, flame"
+------> Pahari
+-------> Nepali `आगो` <āgo>: "fire, flame"
+-------> Punjabi `ਅੱਗ` <agga>: "fire"
+------> Western Sauraseni
+-------> Romani `jag`: "fire"
+-----> Hindi `अग्नि` <Agni>: "Hindu divinity of fire, Agni"
+-----> Telugu `అగ్ని` <agni>: "fire, Agni"
+-----> English `Agni Kai`
+
+--> Italic <*əngʷnis>
+---> Latin `ignis`: "fire"
+----> Latin `igniō`: "I set on fire, I ignite"
+-----> English `ignite`
+----> Latin `igneus`: "fiery, burning"
+-----> Central Romance
+------> Italian `igneo`: "fiery, igneous"
+-----> Western Romance
+------> French `igné`: "igneous"
+-----> English `igneus`
+----> Latin <*Montēs Ignis>: "placename: Fire Mountains"
+-----> Eastern Romance
+------> Romanian `Munții Igniș`
+
+
+
+-> Proto-Indo-European <*h₁óngʷl̥>: "charcoal, coal, ember"
+
+--> Pre-Albanian <*ts-angila>
+---> Albanian `thëngjill`: "embers, coal, charcoal, carbon"
+
+--> Proto-Armenian <*anwcúɫ-o->
+---> Old Armenian `ածուղ` <acuł>: "coal, soot"
+----> Armenian `ածուխ` <acux>: "coal"
+
+--> Balto-Slavic <*anˀglís>: "coal, charcoal"
+---> East Baltic
+----> Lithuanian `anglìs`: "charcoal, coal, carbon"
+---> Slavic <*ǫ̀glь>: "coal"
+----> East Slavic
+-----> Russian `у́голь` <úgolʹ>: "coal"
+-----> Ukrainian `ву́гіль` <vúhilʹ>: "coal"
+----> South Slavic
+-----> Bulgarian `въ́глен` <vǎ́glen>: "charcoal (relational adjective)"
+-----> Old Church Slavonic `ѫгль` <ǫglĭ>
+-----> Serbo-Croatian `у̏гаљ` <ȕgalj>: "coal, charcoal"
+----> West Slavic
+-----> Czech `uhel`: "charcoal"
+-----> Polish `węgiel`: "carbon, coal"
+---> West Baltic
+----> Old Prussian `anglis`: "coal"
+
+--> Indo-Iranian <*Hángāras>
+---> Indo-Aryan <*áṅgāras>
+----> Dardic
+-----> Khowar `انگار` <angaár>: "fire"
+-----> Ushojo `انگار` <angàr>: "blacksmith"
+----> Sanskrit `𑀅𑀗𑁆𑀕𑀸𑀭` <áṅgāra>: "charcoal, Mars"
+-----> Pali <aṅgāra>
+------> Old Khmer
+-------> Khmer `អង្គារ` <ʾɑngkiə>: "Tuesday, Mars"
+-------> Thai `อังคาร` <ang-kaan>: "Tuesday, Mars, cremated remains"
+------> Malay <arang>: "charcoal"
+-----> Sauraseni
+------> Romani `angar`: "coal"
+-------> Angloromani
+--------> English `wonga` ##
+-----> Telugu `అంగారము` <aṃgāramu>: "fire, charcoal"
+---> Iranian <*ángārah>
+----> Pashto `انگار` <angār>: "coal, ember"
+----> Western Iranian
+-----> Old Persian
+------> Persian `انگشت` <angešt>: "charcoal"
+
+endbody
+
+
+startnotes
+
+
+# Hittite `𒀀𒀝𒉌𒅖` <a-ak-ni-iš>: "Mitanni god of fire" is recorded in a 13th century BCE treaty between the Hittites and Mitanni. The treaty invoked the gods of both kingdoms to witness and enforce the treaty.
+
+Mitanni was a kingdom in northern Mesopotamia (around modern day Syria). Most of the people in Mitanni were culturally Hurrian, and spoke a Hurro-Urartian language, unrelated to either the Indo-European or the Afro-Asiatic languages of the area. But the Mitanni kings and other elite appear to have been culturally Vedic, and close relatives of the speakers of Vedic Sanskrit. Sanskrit-like words especially appear in the names of Mitanni kings and gods, as well as horse-related terminology.
+
+## "wonga" for "money, cash" is London slang, also used in New Zealand as I understand it. The "money"/"coal" equivalency is a thing that comes a couple of different times in historical London slang.
+
+
+### The poet Quintus Ennius—who has been called the father of Roman poetry—was from Apulia and claimed Messapian descent, so his nomen gens, Ennius, was likely a Latinization of an originally theopheoric name referencing the same Illyrian/Balkan god as is preserved in Albanian `En` and `enjte`.
+
+
+endnotes

@@ -1,0 +1,97 @@
+date: 20170407
+theme: Miscellaneous light and cat words 🦁
+tags: Animals, Domestic Animals
+
+
+
+startbody
+
+
+
+Egyptian <*Caw> ##
+-> Coptic `ϣⲁⲩ` <šau>: "cat" (dialectic)
+-> Egyptian <*Cawt>: "female cat" (with regular feminine <-t>)
+
+-?> Aramaic <qaṭṭu>: "cat"
+--?> Arabic `قِطّ` <qiṭṭ>: "cat"
+--?> Hebrew `חָתוּל` <khatúl>: "cat"
+--?> Old Armenian `կատու` <katu>: "cat"
+----> Armenian `կատու` <katu>: "cat"
+--?> Georgian `კატა` <ḳaṭa>: "cat"
+--?> Byzantine Greek `καττα` <katta>: "cat"
+----> Ottoman Turkish `کدی` <kädi>
+-----> Turkish `kedi`: "cat"
+
+--> Berber <*kaddîska>: "wildcat"
+
+--> Nubian <kadís>: "cat"
+--?> Latin `cattus`: "cat" #
+----> Eastern Romance <*catu>
+-----> Eastern Romance <*catusa> (diminutive)
+------> Aromanian `cãtushi`: "cat"
+------> Romanian `cătușă`: "handcuff, manacle"
+----> Western Romance
+-----> Old French `cate`
+------> French `chat`: "cat"
+------> Old French `catepeluse`: "caterpillar" (lit. "fuzzy-cat")
+-------> English `caterpillar`
+-----> Italian `gatto`: "cat"
+-----> Spanish `gato`: "cat"
+-----> Basque `katu`: "cat"
+----> Maghrebi Arabic
+-----> Libyan Arabic `قَطُّوس‎` <gaṭṭūs>
+-----> Maltese `qattus`
+----> Brythonic <*kaθ>: "cat"
+-----> Welsh `cath`: "cat"
+----> Greek `γάτα` <gáta>: "cat" #
+----> Old Irish `catt`: "cat"
+-----> Irish `cat`: "cat"
+
+----> Germanic <*kattuz>: "cat"
+-----> North Germanic
+------> Old Norse `kǫttr`: "cat"
+-------> Danish `kat`: "cat"
+-------> Icelandic `köttur`: "cat"
+-------> Finnish `katti`: "cat" (colloquial)
+-----> West Germanic
+------> Old English `catt(e)`
+-------> English `cat`
+--------> English `kitty`: "cat" (dimunitive)
+---------> Navajo `gídí`: "cat"
+------> Frankish
+-------> Dutch `kat`: "cat"
+--------> Afrikaans `kat`: "cat"
+---------> Zulu `ikati`: "cat"
+------> Old High German `kazza`
+-------> German `Katze`
+-------> Yiddish `קאַץ` <kats>: "cat"
+-----> Germanic <*katazô>: "tomcat"
+------> West Germanic
+-------> Frankish
+--------> Dutch `kater`: "tomcat"
+-------> Old High German
+--------> Dutch `Kater`: "tomcat"
+
+----> Slavic <*kotъ>: "male cat" #
+-----> East Slavic
+------> Russian `кот` <kot>: "male cat"
+-----> West Slavic
+------> Polish `kot`: "cat, esp. male"
+-----> Slavic <*kotъka>: "female cat"
+------> East Slavic
+-------> Old Church Slavonic `котъка` <kotŭka>: "cat, anchor"
+-------> Russian `ко́шка` <kóška>: "cat, esp. female"
+--------> Estonian `kass`: "cat"
+-------> Ukrainian `кі́шка` <kíška>: "cat, esp. female"
+------> West Slavic
+-------> Polish `kocica`
+
+endbody
+
+startnotes
+
+## A large number of Egyptian consonants would become Coptic  `ϣ`/<š> in this position, so it's impossible to reconstruct what it would have been. Honestly, there are several possibilities for the vowels, too.
+
+# The Latin and Greek roots used in scientific English, Latin <fēlēs> and Greek <ἴλουρος> (aílouros), are both primarily words from before domestic cats were introduced to those cultures, and the word "cattus" was introduced along with domestic cats. Similarly, the earlier Slavic <*mačьka>, was mostly replaced in East and West Slavic with introduction of domestic cats (but mostly retained in South Slavic).
+
+endnotes

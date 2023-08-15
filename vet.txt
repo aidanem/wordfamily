@@ -1,0 +1,467 @@
+date: 20230310
+tags: Animals, Domestic Animals, Time
+
+
+
+startintro
+
+I've included (possibly) two families again in this one, Proto-Indo-European *wet-: "year, year-old" and Proto-Indo-European *wósr̥: "spring (season)". There's no formal connection, but it's not hard to imagine on either the phonetic or the semantic level.
+
+Acrostatic *ó-r̥ nouns like <*wósr̥> are from very early PIE. You could imagine that this particular one is pre-PIE and a palatalization changed <*wótr̥> to <*wósr̥> that was no longer active in PIE, and <*wósr̥> became disconnected from its paradigm.
+
+For the semantic, consider for example the Italian and Spanish use of `primavera` for both "spring" and "year" (in certain contexts), as well as the common use of "winters" to mean "years".
+
+endintro
+
+
+
+startbody
+
+
+Proto-Indo-European <*wet->: "year, year-old"
+
+
+-> Proto-Indo-European <*wéts>
+
+--> Anatolian
+---> Hittite `𒌑𒄿𒀉` <ú-i-it->: "year" (more often written with `𒈬` <MU> Sumerogram for "year")
+
+
+-> Proto-Indo-European <*wétos>: "year"
+
+--> Pre-Albanian <*weta>
+---> Albanian `vit`: year"
+---> Albanian `vjet`: "last year"
+
+--> Hellenic
+---> Mycenaean `𐀸𐀵` <we-to>: "year"
+----> Mycenaean `𐀸𐀳𐀂𐀸𐀳𐀂` <we-te-i we-te-i>: "year by year, every year"
+---> Classical Greek `ἔτος` <étos>: "year"
+---?> Classical Greek `ἔνος` <énos>
+-----> Classical Greek `δίενος`: "two years old"
+----?> Classical Greek `ἐνιαυτός` <eniautós>: "anniversary, year"
+
+--> Italic <*wetos>
+---> Latin `vetus`: "old, former"
+----> Central Romance
+-----> Italian `​​vieto`: "old, antiquated, stale"
+----> Eastern Romance
+----?> Romanian `biet`: "unhappy, sad, poor"
+
+
+----> Latin `vetus lēx`: "old law"
+-----> Old Irish `fetarlicc`: "the Old Testament" (ablative `vetere lēge`, or Vulgar Latin accusative <*veterẽ legẽ>)
+
+
+----> Latin `vetulus`: "old, little old, little old man" (diminutive)
+-----> Late Latin `veclus`
+------> Central Romance
+-------> Dalmatian `vieclo`: "old"
+-------> Italian `vecchio`: "old, old fashioned, worn out, mature, ripe, old man"
+------> Eastern Romance
+-------> Romanian `vechi`: "old (of things)"
+------> Insular Romance
+-------> Sardinian `begru`
+------> Western Romance
+-------> Old French `viel`
+--------> French `vieux`: "old"
+-------> Old Occitan `vielh`
+--------> Occitan `vièlh`: "old"
+--------> Italian `veglio`: "old, old man"
+--------> Spanish `viejo`: "old, stale, old man"
+
+
+
+----> Latin `veterānus`: "old, veteran"
+-----> Central Romance
+------> Dalmatian `vetrun`: "old"
+-----> Eastern Romance
+------> Romanian `bătrân`: "old (of people)"
+-----> French `vétéran`: "veteran"
+------> English `veteran`
+-----> Koine Greek `βετεράνος` <beterános>
+------> Greek `βετεράνος` <veterános>: "veteran"
+-----> Italian `veterano`: "veteran"
+-----> Spanish `veterano`: "veteran"
+
+
+----> Latin `veterāre`: "to age, to make old"
+-----> Latin `inveterāre`: "to age, to make old" (emphatic causative)
+------> Latin `inveterātus`: "made old, aged, preserved, long standing, rooted"
+-------> English `inveterate`
+
+
+---?> Latin `veterīnus`: "related to draft animals" (possibly mixed with `vehere`)
+-----> Latin `veterīnārius`: "related to treating domestic animals, veterinary, veterinarian"
+------> English `veterinary`
+-------> English `veterinarian`
+--------> English `vet`
+
+---> Etruscan `𐌅𐌄𐌕𐌖𐌔` <vetus>: "old"
+
+
+--> Phrygian `ϝετει` <wetei>: "in the year" (<otuwoi wetei>: "in the eighth year")
+
+
+-> Proto-Indo-European <*wetsós>
+
+--> Anatolian
+---> Luwic
+----> Cuneiform Luwian `𒈬𒅖` <MU-iš> [uššiš] (`𒈬` <MU> Sumerogramic for "year")
+----> Hieroglyphic Luwian `𔑺𔓉𔐤` <u-si-na>  (attested in accusative)
+
+--> Indo-Iranian <*watsás>: "yearling calf"
+---> Indo-Aryan <*watsás>
+----> Dardic
+-----> Khowar `بَۨچھوڑ` <bač̣hoóḷ>: "a calf"
+----> Sanskrit `𑀯𑀢𑁆𑀲` <vatsá>: "a calf, a child, an offspring"
+-----> Magadhi
+------> Assamese `বাছা` <basa>: "child (as an affectionate address)"
+-----> Sauraseni `𑀯𑀘𑁆𑀙` <vaccha>
+------> Madhya Sauraseni
+-------> Hindi `बछड़ा` <bachṛā>: "calf"
+-----> Sanskrit <vatsarūpa>
+------> Magadhi
+-------> Assamese `বাছৰু` <basoru>: "calf"
+
+---> Iranian <*wacáh>
+----> Northern Iranian
+-----> Ossetian `вӕс` <væs>: "calf"
+----> Western Iranian
+-----> Old Persian
+------> Middle Persian <whyk'>: "Capricorn, kid, buck"
+------> Persian `بهی` <bahī>: "Capricorn (archaic)"
+----> Finnic <*vasa>: "calf"
+-----> Finnish `vasa`: "calf, fawn"
+-----> Finnic <*vasikka>: "calf"
+------> Finnish `vasikka`: "calf"
+----> Mordvinic
+-----> Erzya `ваз` <vaz>
+
+----> Iranian <*wacyakah>
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `gîsk`: "kid (young goat)"
+------?> Medean <*wašakes>: "personal name: Calf?"
+--------> Armenian `Վասակ` <Vasak>
+--------> Classical Greek `Οὐάσακης` <Ouásakēs>
+--------> Classical Greek `Βασσάκης` <Bassákēs>
+--------> Latin `Vasaces`
+------> Old Persian
+-------> Persian `بچه` <bače>: "child, native of, boy"
+--------> Hindi `बच्चा` <baccā>: "child, offspring"
+
+
+
+
+-> Proto-Indo-European <*wetusos>
+
+--> Balto-Slavic <*wétušas>
+---> East Baltic
+----> Lithuanian `vẽtušas`: "old (archaic)"
+---> Slavic <*vetъxъ>: "old"
+----> East Slavic
+-----> Russian `ве́тхий` <vétxij>: "old, shabby, decrepit"
+-----> Ukrainian `ве́тхий` <vétxyj>: "old, ancient"
+----> South Slavic
+-----> Bulgarian `вехт` <veht>: "worn out, wilted, faded, shabby"
+-----> Old Church Slavonic `ветъхъ` <vetŭxŭ>: "old, withered, worn out"
+------> Russian `ве́тошь` <vétošʹ>: "rag"
+----> West Slavic
+-----> Czech `vetchý`: "decrepit"
+-----> Polish `wiotki`: "flabby, limp"
+
+
+-> Proto-Indo-European <*wetelos>
+
+--> Hellenic <*wétalon>
+---> Classical Greek `ἔταλον` <étalon>: "a young animal, a yearling"
+
+--> Italic <*wetelos>
+---> Latin `vitulus`: "a bull calf"
+----> Italian <*vecchio>: "calf"
+-----> Italian `vecchio marino`: "seal (archaic)" (lit. "sea calf")
+
+----> Latin `vitula`: "a heifer calf"
+----?> Latin `Vitula`: "divinity of Joy and Victory"
+----?> Latin `vitula`: "a kind of stringed instrument"
+------> Western Romance
+-------> Old French `viele`
+--------> French `vielle`: "vielle, hurdy-gurdy"
+---------> English `vielle`
+-------> Occitan `viula`
+--------> Italian `viola`: "viola, fiddle"
+---------> English `viola`
+---------> Italian `violino`
+----------> English `violin`
+-----------> Japanese `バイオリン` <baiorin>: "violin"
+
+-----?> Germanic <*fiþulǭ>: "fiddle, violin" #
+-------> North Germanic
+--------> Old Norse `fiðla`
+---------> Icelandic `fiðla`: "violin, fiddle"
+-------> West Germanic
+--------> Old English <*fiþele>
+---------> Middle English `fithele`
+----------> English `fiddle`
+-----------> Swahili `fidla`: "fiddle, violin"
+----------> Irish `fidil`: "fiddle"
+--------> Frankish <*fithela>
+---------> Dutch `vedel`: "vielle, violin"
+--------> Old High German `fidula`
+---------> German `Fiedel`: "fiddle"
+---------> Yiddish `פֿידל` <fidl>: "violin, fiddle"
+
+
+----> Latin `vitulinus`: "of calf, from calf"
+-----> Western Romance
+------> French `vélin`: "vellum"
+-------> English `vellum` ### 
+
+----> Latin `vitellus`: "a small calf, yolk of an egg"
+-----> Central Romance
+------> Italian `vitello`: "calf, veal, calfskin"
+-----> Eastern Romance
+------> Romanian `vițel`: "calf, veal"
+-----> Insular Romance
+------> Sardinian `biteddu`
+-----> Western Romance
+------> Old French `veel`
+-------> French `veau`
+-------> English `veal`
+
+----> Latin `vitella`: "a heifer calf"
+-----> Central Romance
+------> Italian `vitella`: "a heifer calf"
+-----> Western Romance
+------> French `velle`: "a heifer calf"
+
+
+--?> Oscan <*vítelús>
+----> Oscan `𐌅𐌝𐌕𐌄𐌋𐌉𐌞` <víteliú>: "place name: (Land) of Young Cattle?"
+-----> Classical Greek `Ἰταλία` <Ītalíā>: "Southern Italy, Italy"
+------> Greek `Ιταλία` <Italía>: "Italy"
+------> Coptic `ϯϩⲩⲧⲁⲗⲓⲁ` <tihutalia>: "Italy"
+------> Latin `Ītalia`: "Italy"
+-------> Italian `Italia`: "Italy"
+--------> Arabic `إيطاليا` <ʔīṭāliyā>: "Italy"
+-------> West Germanic <*Etala?>
+--------> Old English `Eotol`: "Italy"
+-------> Old English `Italia`: "Italy"
+--------> English `Italy`
+---------> Mandarin `意大利` <Yìdàlì>: "Italy"
+-------> Old Irish `(In) Etáil`: "Italy"
+--------> Irish `An Iodáil`: "Italy"
+
+-------> Latin `italicus`: "Italian, Italic"
+--------> English `Italic`
+--------> English `italic`
+
+-------> Late Latin `italiānus`
+--------> Italian `italiano`
+--------> English `Italian`
+
+---> Umbrian <vitlu>
+---> Etruscan `𐌉𐌃𐌅𐌋𐌅𐌔` <itwlws>
+
+
+-> Proto-Indo-European <*wétrus>
+
+--> Germanic <*weþruz>: "yearling lamb, wether"
+---> East Germanic
+----> Gothic `𐍅𐌹𐌸𐍂𐌿𐍃` <wiþrus>: "(male? yearling?) lamb" (only attested in <wiþrus gudis>: "lamb of god")
+---> North Germanic
+----> Old Norse `veðr`: "ram"
+-----> Danish `vædder`: "ram, Aries"
+-----> Icelandic `veður`: "ram, battering ram"
+---> West Germanic
+----> Old English `weþer`: "castrated ram, wether"
+-----> English `wether`
+------> English `bellwether`
+----> Frankish <*wither>
+-----> Dutch `weer`: "wether"
+----> Old High German `widar`: "ram"
+-----> German `Widder`: "ram, Aries"
+-----> Yiddish `ווידער` <vider>: "ram"
+---> Samic <*vērttës>
+----> Samic <*vierccë>
+-----> Northern Sami `vierca`: "ram"
+
+-> Proto-Indo-European <*wéttis>
+
+--> Celtic <*wessis>: "young female pig, sow"
+---> Brythonic
+----> Breton `gwiz`: "sow"
+----> Middle Welsh `gwys`
+---> Old Irish `feis`: "pig (archaic, poetic)"
+
+
+
+-> Proto-Indo-European <*pér-uti>: "last year, in the past year" (lit. "through year-LOC", i.e. "on the other side of a year")
+
+--> Old Armenian `հերու` <heru>: "last year, in the past year"
+---> Armenian `հերու` <heru>: "in the past year"
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `pérnai`: "last year"
+
+--> Celtic <*ɸeruti>: "last year"
+---> Old Irish `(in) uraid`: "(the) last year"
+----> Irish `anuraidh`: "last year"
+
+--> Germanic <*ferudi>: "last year, a year ago"
+---> North Germanic
+----> Old Norse `(í) fjǫrð`: "last year, (in) the past year"
+-----> Danish `i fjor`: "last year"
+-----> Icelandic `í fyrra`: "last year"
+---> West Germanic
+----> Old High German
+-----> German `fert`: "last year (archaic, dialectal)"
+
+--> Hellenic <*péruti>
+---> Classical Greek `πέρυσι` <pérusi>: "a year ago, last year"
+
+--> Indo-Iranian <*parut>: "last year"
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀭𑀼𑀢𑁆` <parut>: "last year"
+---> Iranian
+----> Northern Iranian
+-----> Wakhi `پارد` <pard>: "last year"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `par`: "last year"
+-----> Old Persian
+------> Persian `پار` <pār>: "last year (dialectal)"
+
+
+
+Proto-Indo-European <*wósr̥>: "spring (season)" (oblique stem <*wésn̥->
+
+-> Old Armenian <*gehar>
+--> Old Armenian `գարուն` <garun>: "spring"
+---> Armenian `գարուն` <garun>: "spring"
+
+-> Balto-Slavic <*waser>: "spring"
+--> East Baltic
+---> Lithuanian `vãsara`: "summer"
+--> Slavic <*vesnà>: "spring"
+---> East Slavic
+----> Russian `весна́` <vesná>: "spring"
+----> Ukrainian `весна́` <vesná>: "spring"
+---> South Slavic
+----> Serbo-Croatian `ве̏сна` <vȅsna>: "spring (archaic)"
+-----> Serbo-Croatian `Ве̏сна` <Vȅsna>: "personal name: Spring; divinity of Spring"
+---> West Slavic
+----> Czech `vesna`: "spring (archaic)"
+----> Polish `wiosna`: "spring"
+
+-> Celtic <*wesr->: "spring"
+--> Celtic <*wesrakos>: "spring"
+---> Old Irish `errach`: "spring"
+----> Irish `earrach`: "spring"
+--> Celtic <*wesantēnos>
+---> Brythonic <*gwehantuɨn>: "spring"
+----> Welsh `gwanwyn`: "spring"
+--> Celtic <*wesnālā>: "swallow (bird)" (arrival of migrating swallows are famously an early sign of approaching summer in Europe)
+---> Brythonic <*gwennọl>: "swallow"
+----> Welsh `gwennol`: "swallow, martin, shuttle"
+---> Gaulish <*wannala>
+----> French `vanneau`: "lapwing (bird)"
+---> Old Irish `fannall`
+----> Irish `fáinleog`: "swallow"
+
+-> Germanic <*wazrą>: "spring"
+--> North Germanic
+---> Old Norse `vár`: "spring"
+----> Danish `vår`: "spring (archaic)"
+----> Icelandic `vor`: "spring"
+----> Scots `voar`: "spring"
+
+-> Hellenic <*wéhər>
+--> Classical Greek `ἔαρ` <éar>: "spring, freshness"
+---> Greek `έαρ` <éar>: "spring (formal)"
+
+-> Indo-Iranian <*wásr̥>: "spring"
+--> Indo-Aryan <*wásr̥>
+---> Vedic Sanskrit <vásar>
+--> Iranian <*wáhr̥>
+---> Avestan <*vaŋhar>
+----> Avestan `𐬬𐬀𐬢𐬭𐬌` <vaŋri>: "in spring" (locative)
+---> Bactrian `οαυαρ` <oauar>: "spring"
+---> Western Iranian
+----> Northwestern Iranian
+-----> Kurdish `bihar`: "spring"
+----> Old Persian <*vahār>
+-----> Persian `بهار` <bahâr>: "spring, blossom"
+------> Hindi `बहार` <bahār>: "spring, blossom, prime"
+------> Ottoman Turkish `بهار` <bahar>: "blossom, greenery, spring"
+-------> Turkish `bahar`: "spring, youth, blossom"
+-----> Old Persian `𐎰𐎢𐎼𐎺𐎠𐏃𐎼` <θ-u-r-v-a-h-r>: "month name: Early Spring?, Feast of Spring?"
+
+--> Indo-Iranian <*wasantás>
+---> Indo-Aryan <*wasantás>
+----> Dardic
+-----> Kalasha `básond`: "spring"
+----> Sanskrit `𑀯𑀲𑀦𑁆𑀢` <vasantá>: "spring"
+-----> Magadhi
+------> Bengali `বসন্ত` <bôsôntô>: "spring"
+-----> Pali `𑀯𑀲𑀦𑁆𑀢` <vasanta>
+------> Burmese `ဝသန္တ` <wa.santa.>: "spring, early summer"
+------> Thai `วสันต์` <wá-sǎn>: "spring (formal)"
+-----> Sauraseni
+------> Madhya Sauraseni
+-------> Hindi `बसंत` <basant>: "spring"
+-----> Telugu `వసంతము` <vasantamu>: "spring"
+
+-> Italic <*wezor>
+--> Latin `vēr`: "spring"
+
+---> Vulgar Latin <*vēra>
+----> Eastern Romance <*vēra>: "summer"
+-----> Romanian `vară`: "summer"
+-----> Albanian `verë`: "summer"
+------> Albanian `pranverë`: "spring"
+
+---> Latin `vernus`: "of spring, vernal"
+----> Central Romance
+-----> Italian `verno`: "of spring, vernal" ##
+----> Latin `vernālis`: "of spring, vernal"
+-----> English `vernal`
+
+---> Latin `prīma vēra`: "early spring, first spring"
+----> Central Romance
+-----> Italian `primavera`: "spring, year, primrose"
+------> English `primavera`
+----> Eastern Romance
+-----> Romanian `primăvară`: "spring"
+----> Western Romance
+-----> French `primevère`: "primrose"
+-----> Spanish `primavera`: "spring, year, primrose, American robin"
+----> Albanian `pranverë`: "spring"
+
+---> Vulgar Latin <*(tempus) veranum>: "spring (time)"
+----> Insular Romance
+-----> Sardinian `beranu`: "spring"
+----> Western Romance
+-----> Spanish `verano`: "summer, spring (archaic)"
+
+
+
+
+endbody
+
+startnotes
+
+
+# Latin "vitul(us/a" means a young cow, originally a one-year old cow. The Oscan equivalent (in the plural and/or genitive) 𐌅𐌝𐌕𐌄𐌋𐌉𐌞` <víteliú> is thought to be the origin of Greek Ἰταλία <Ītalíā>: "Italy"
+
+Latin "vitula" also means a kind of stringed instrument (and becomes "viula" in Occitan, whence "viola" and "violin"). This is clearly related to Germanic *fiþulǭ: "a stringed instrument" ("fiddle"), but it is unclear if "vitula": "stringed instrument" is from "vitula": "young cow" (compare the story of Hermes and the lyre) and Germanic borrowed it; or if the Germanic is of unknown origin and Latin borrowed it.
+
+"vitula": "stringed instrument" is attested late enough that Latin could have borrowed it, and Germanic *þ borrowed as Latin 't' is more common than the reverse; so on whole it is probably most likely that  Late Latin borrowed the meaning on to the existing Latin word `vitula`: "a heifer calf" and/or `Vitula`: "divinity of Joy and Victory" (whose name may or may not be from `vitula`: "a heifer calf" and whose worshipped involved music).
+
+## Hilariously, Latin `vernum`: "of spring, vernal" and Latin `hībernum`: "of winter" have both become `verno` in Italian.
+
+### I always assumed "vellum": "calf or lamb skin for writing" was related to "vellus": "wool, the pelt or hide of an animal", but while "vellum" looks like a direct Latin word, but is actually from French "velin" from Latin "vitulinus": "of calf". Possibly some other Latin-knowing English speaker made the same assumption in the past and re-modeled "velin" to look like `vellus`.
+
+endnotes

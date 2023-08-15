@@ -1,0 +1,154 @@
+date: 20211231
+tags: Runes, Time
+
+startintro
+
+The PIE word <*yóh₁r̥>: "year" becomes both the native English "year" and also the Latinate "hour". Fascinatingly, Greek `ὥρᾱ` <hṓrā> (whence the Latin) is also borrowed, post-Alexander, into Classical Sanskrit along with the Hellenistic-Babylonian astronomy/astrology, eventually giving such descendants as Thai `โหร` <hǒon>: "astrologer, prophet, magician"!
+
+endintro
+
+
+
+startbody
+
+Proto-Indo-European <*yóh₁r̥>: "year"
+
+-> Indo-Iranian <*yáHr̥>
+
+--> Indo-Aryan <*yār>
+---> Sanskrit <*yār>
+----> Sanskrit `𑀧𑀭𑁆𑀬𑀸𑀭𑀺𑀡𑀻` <paryāríṇī>: "calving after a year"
+--> Iranian <*yār>
+---> Avestan `𐬫𐬁𐬭𐬆` <yārə>: "year"
+---> Iranian <*Hhuyārah>: "good year (non-drought year)" (with PIE <*h₁su->)
+----> Avestan `𐬵𐬎𐬌𐬌𐬁𐬌𐬭𐬌𐬌𐬀` <huiiāiriia>: "good year, non-drought year, good harvest"
+---> Iranian <*dušyārah>: "bad year (drought year)" (with PIE <*dus->)
+----> Avestan `𐬛𐬎𐬲𐬌𐬌𐬁𐬌𐬭𐬌𐬌𐬀‎` <dužiiāyriia>: "bad year, drought year, bad harvest"
+----> Western Iranian
+-----> Northwest Iranian
+------> Parthian `𐫅𐫢𐫏𐫀𐫡` <dušyār>: "drought"
+-------> Parthian <dižyārīft>: "famine"
+-----> Old Persian `𐎯𐏁𐎹𐎠𐎼𐎶` <dušiyāram>: "bad year, drought year, bad harvest"
+
+-> Proto-Indo-European <*yéh₁ros>
+
+--> Germanic <*jērã>: "year, the rune ᛃ"
+---> East Germanic
+----> Gothic `𐌾𐌴𐍂` <jēr>: "year, the letter 𐌾"
+---> North Germanic
+----> Old Norse `ár`: "year, harvest, abundance, the rune ᛡ"
+-----> Danish `år`: "year"
+-----> Icelandic `ár`: "year"
+---> West Germanic
+----> Old English `ġēar`: "year, the rune ᛡ"
+-----> English `year`
+----?> Old English `ġeāra`: "long ago" ("of years"?)
+------> English `yore`
+----> Frankish <*jār>
+-----> Dutch `jaar`: "year"
+------> Sranan Tongo `yari`: "year"
+----> Old High German `jār`: "year"
+-----> German `Jahr`: "year"
+-----> Yiddish `יאָר` <yor>: "year"
+---> English `Jera`: "the rune ᛃ/ᛡ/ᛄ/ᛅ"
+
+-> Proto-Indo-European <*yóh₁ros>
+
+--> Balto-Slavic <*jāˀrā́ˀ>
+---> Slavic <*jȃro>: "spring"
+----> East Slavic `ꙗра` <jara>: "spring"
+----> South Slavic
+-----> Serbo-Croatian `ја̏ра` <jȁra>: "spring"
+----> West Slavic
+-----> Polish `jar`: "spring"
+
+--> Hellenic
+---> Ancient Greek `ὥρᾱ` <hṓrā>: "any period of time, season, climate, time of day, youth"
+----> Koine Greek
+-----> Greek `ώρα` <óra>: "hour, time"
+-----> Latin `hōra`: "hour, time, season"
+------> Sardinian `òra`
+------> Eastern Romance
+-------> Romanian `oară`: "time, instant, instance"
+-------> Albanian `herë`: "time"
+------> Western Romance
+-------> Old French `ore`
+--------> French `heure`: "hour, time, o'clock"
+---------> Haitian Creole `lè`: "hour, when"
+--------> Middle English
+---------> English `hour`
+----------> Hausa `awa`: "hour"
+---------> Scots `oor`: "hour"
+-------> Italian `ora`: "hour, time, now"
+-------> Spanish `hora`: "hour, time, appointment"
+--------> Cebuano `oras`: "hour, duration, instant"
+--------> Navajo `óola`: "hour, o'clock"
+--------> Quechua `ura`: "hour"
+--------> Tagalog `oras`: "time, hour"
+---------> Tagalog `orasan`: "clock, to time"
+------> Latin `ad hanc hōram`: "at this hour, at this time"
+-------> Eastern Romance
+--------> Dalmatian `junkaura`: "still"
+------> Latin `in hanc hōram`: "at this hour, at this time"
+-------> Western Romance
+--------> French `encore`: "still, again, yet"
+---------> English `encore`
+--------> Italian `ancora`: "still, again, more, yet, even"
+------> Latin `hāc hōram`: "as of this hour, as of this time"
+-------> Western Romance
+--------> Spanish `ahora`: "now"
+------> Albanian `orë`: "hour, clock"
+------> Basque `oren`: "hour"
+------> Brythonic <*ọr>
+-------> Welsh `awr`: "hour"
+------> Old Irish `úar`: "hour, time, occasion"
+-------> Irish `uair`: "hour, time"
+------> Latin `ad illam hōram`: "at that hour"
+-------> Western Romance
+--------> French `alors`: "then, so, hence"
+--------> Italian `allora`: "so, well then, then, at the time"
+--------> Spanish `alora`: "then, at that moment"
+-----> Sanskrit `𑀳𑁄𑀭𑀸` <horā>: "rising of an astrological sign, hour, mark, horoscope, astrology"
+------> Pali `𑀳𑁄𑀭𑀸` <horā>
+-------> Burmese `ဟူးရား` <hu:ra:>: "astrology, astrologer, soothsayer"
+-------> Old Khmer
+--------> Thai `โหร` <hǒon>: "astrologer, prophet, magician"
+------> Hindi `होरा` <horā>: "astrology, hora"
+------> Telugu `హోర` <hōra>: "hour"
+------> Middle Chinese `火羅` <hua la>: "astrology, hora"
+------> English `hora`
+-----> Koine Greek `ὡρολόγιον` <hōrológion>: "clock, mechanism for telling time"
+------> Greek `ρολόι` <rolói>: "clock, timepiece, wristwatch, clock tower, meter"
+------> Latin `horologium`: "clock, mechanism for telling time, waterclock, sundial"
+-------> Eastern Romance
+--------> Romanian `orologiu`: "clock"
+-------> Western Romance
+--------> Old French
+---------> French `horloge`: "clock, timepiece"
+---------> Dutch `horloge`: "watch"
+----------> Malay `arloji`: "watch"
+---------> English `horologe`
+--------> Italian `orologio`: "clock"
+--------> Old Occitan `relotge`
+---------> Basque `erloju`: "clock, watch"
+---------> Spanish `reloj`: "clock, watch"
+----------> Tagalog `reló`: "watch"
+--------> Sicilian `ralogiu`: "clock, watch"
+---------> Maltese `arloġġ`: "clock" 
+-------> Latin `horologia`
+--------> English `horology`
+-----> Koine Greek `ὡροσκόπος` <hōroskópos>
+------> Medieval Latin `horoscopus`
+-------> French `horoscope`
+--------> English `horoscope`
+-----> English `horo-`
+
+
+--> Italic <*jōros>: "year"
+---> Italic <*jōrnos>: "year (attributive)"
+----> Italic <*ho-jōrnos>: "this year (attributive), this year's"
+-----> Latin `hōrnus`: "this year's, grown this year"
+
+
+
+endbody

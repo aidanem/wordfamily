@@ -1,0 +1,214 @@
+date: 20220527
+tags: Animals, Numbers, ATLA
+
+
+startintro
+
+One final "turtle" word: "honu"
+
+It is very tempting to unify <*pəñu>: "sea turtle" with <*pəNuʔ>: "to fill, full, container". And <*pəNuʔ>: "full" has potential cognates in the possible Sino-Austronesian macrofamily/Southeast Asian historic sprachbund.
+
+And then at that point you're speculating a link between "green sea turtles" and "an army of 10,000 Mongolians", and you start to wonder if you've lost the thread.
+
+
+
+endintro
+
+
+
+startbody
+
+Sino-Austronesian
+
+
+?> Austronesian <*pəNuʔ>: "full, container" ###
+
+--> Paiwan `peljuq`: "to fill, full"
+
+--> Malayo-Polynesian <*pənuʔ>
+
+---> Bornean
+----> Barito
+-----> Malagasy `feno`: "full"
+
+---> Javanese `pinuh`: "full"
+
+---> Malayo-Sumbawan
+----> Chamic
+-----> Aceh `peunòh`: "full, laden"
+------> Aceh `buleuën peunòh`: "full moon"
+-----> Malayic
+------> Malay `penuh`: "full"
+
+---> Oceanic <*ponuʔ>
+----> Micronesian <*wonu>
+-----> Kiribati `on`: "full, filled, fullness"
+
+---> Philippine
+----> Tagalog `punô`: "full, fed up"
+
+---> Sundanese `ᮕᮤᮔᮥᮂ` <pinuh>: "full"
+
+
+-?> Austronesian
+---> Malayo-Polynesian <*penpen>: "to provision, to fill up"
+----> Philippine
+-----> Ilokano `penpén`: "heap, pile, store of something"
+------> Ilokano `i-penpén`: "to accumulate, to store, to keep in reserve"
+----> Malayo-Sumbawan
+-----> Bali `penpen`: "to put into, to fill up"
+
+
+
+-?> Austronesian <*pəñu>: "sea turtle" ###
+
+---> Puyuma <penu>: "turtle, sea turtle" ##
+
+---> East Formosan
+----> Kavalan <penu>: "sea turtle"
+
+---> Malayo-Polynesian <*pəñu>: "green sea turtle"
+
+----> Bornean
+-----> Barito
+------> Malagasy `fanu`: "green sea turtle, a kind of beetle, a kind of fish" ##
+
+----> Moken `penyui`
+
+----> Land Dayak
+-----> Jagoi <ponyu>: "sea turtle"
+
+----> Javanese `penyu`: "sea turtle"
+
+----> Malayo-Sumbawan
+-----> Bali `penyu`
+-----> Chamic
+------> Aceh `punyi`
+-----> Malayic <*pəñu>
+------> Iban `penyu`
+------> Malay `penyu`: "sea turtle"
+-------> Malay `penyu-penyuan`: "ant-lion"
+----> Sundanese `penyu`
+
+----> Oceanic <*poñu>
+-----> Micronesian <*woñu>
+------> Chuukese `wiin`
+------> Kiribati `on`: "sea turtle"
+-----> Fijian `vonu`: "sea turtle"
+-----> Polynesian <*fonu>
+------> Tongic
+-------> Niuean `fonu`: "sea turtle, quiet person"
+-------> Tongan `fonu`: "green sea turtle, a kind of beetle" ##
+------> Nuclear Polynesian
+-------> Rapa Nui `honu`
+-------> Marquesic
+--------> Hawaiʻian `honu`: "green sea turtle, turtle"
+---------> English `honu`
+-------> Tahitic
+--------> Māori `honu`: "sea turtle (archaic)"
+--------> Tahitian `honu`
+-------> Tuvaluan `fonu`
+
+
+
+
+?> Hmong-Mien <*pu̯ɛŋX>
+--> Hmong
+---> White Hmong `puv`: "full"
+--> Mien
+---> Iu Mien `buangv`: "full"
+
+
+?> Sino-Tibetan
+
+--> Old Chinese `满` <*mˤoːnʔ>
+---> Middle Chinese `滿` <muɑnˣ>: "to fill, to satisfy, full, complete, very"
+----> Mandarin `滿` <mǎn>
+----> Wu `滿` <moe³>
+----> Yue `滿` <mun⁵>
+---> Min Nan
+----> Hokkien `滿` <móa>
+
+
+-?> Sino-Tibetan
+
+---> Old Chinese `万` <*C.man-s>
+----> Middle Chinese `萬` <mʉɐnᴴ>: "myriad (10,000), very, extremely"
+-----> Mandarin `萬` <wàn>
+------> Mandarin `萬事通` <wànshìtōng>: "jack-of-all-trades, know-it-all" (lit. "10,000 things expert")
+-------> English `Wan Shi Tong`
+-----> Wu `萬` <maan⁶>
+-----> Yue `萬` <me³>
+-----> Middle Chinese `萬里長城` <mʉɐnᴴ lɨˣ ɖɨɐŋ dʑiᴇŋ>: "Great Wall of China" (literally "Ten Thousand Mile Long Wall")
+------> Mandarin `萬里長城` <Wànlǐ Chángchéng>
+-----> Japanese `ばん` <ban>: "many, all"
+-----> Japanese `まん` <man>: "myriad (10,000)"
+------> Japanese `まんようしゅう` <Man'yōshū>: "Ten Thousand Leaves Collection" #### (an anthology of poetry)
+-------> Japanese `まんようが名な` <man'yōgana>: "Man'yōgana" ####
+--------> English `Manyogana`
+-----> Korean `만` <man>: "myriad (10,000)"
+-----> Thai `หมื่น` <mʉ̀ʉn>: "myriad (10,000)"
+-----> Vietnamese `vạn`: "myriad (10,000)"
+
+
+---?> Tocharian
+-----> Arshian <tmāṃ>: "myriad (10,000)"
+-----> Kushean <tᵤmāne>: "myriad (10,000)"
+
+
+----?> Xiongnu <*tuman> 
+------> Old Chinese `头曼` <*doː-moːn>
+-------> Middle Chinese `頭曼`: "Touman, first Chanyu (Tarkhan?) of the Xiongnu"
+--------> Mandarin `頭曼` <tóumàn>
+---------> English `Touman`
+
+
+----?> Middle Mongolian `ᠲᠦᠮᠡᠨ` <tümen>: "myriad (10,000)"
+------> Mongolian `ᠲᠦᠮᠡ` <tüme>: "myriad (10,000)"
+------> Manchu `ᡨᡠᠮᡝᠨ` <tumen> "myriad (10,000)"
+-------> Manchu `ᡨᡠᠮᡝᠨ ᠰᡝᡴᡳᠶᡝᠨ` <tumen sekiyen>: "River of Ten Thousand Sources (place name)"
+--------> Mandarin `圖們` <Túmén>
+---------> English `Tumen (River)`
+------> Persian `تومان` <tūmān>: "toman (currency), toman (army division of 10,000)"
+-------> English `toman`
+------> Russian `Тюмень` <Tjumenʹ>
+-------> English `Tyumen`
+------> Turkic
+-------> Turkish `tümen`: "very many, myriad (10,000), toman"
+
+---> Tibeto-Burman
+----> Bodish <*ᵐbum>
+-----> Tibetan `འབུམ` <'bum>: "myriad (10,000), complete, entire"
+
+
+?> Austroasiatic
+--> Mon-Khmer <*dpəɲ>
+---> Eastern Mon-Khmer
+----> Khmer `ពេញ` <pɨñ>: "to be full, to complete, whole"
+----> Vietnamese `đầy`: "full, filled"
+---> Northern Mon-Khmer
+----> Khasi `tbeng`: "full, as if full"
+
+
+endbody
+
+
+startnotes
+
+
+## A meaning of a specific kind of beetle, in addition to green sea turtle, is present in both Malagasy `fanu` and Tongan `fonu`, which are not closely related within Malayo-Polynesian. This could reflect an original polysemy, or just convergent development of calling beetles "little turtles".
+
+### Regarding the link from <*pəNuʔ>: "to fill, full, container" to <*pəñu>: "sea turtle".
+
+Phonologically: In Wolff's reconstruction, <*ñ> and <*N> are the same phoneme. /n/ is the expected reflex of <*N> in Kavalan <penu>, but Puyuma would be expected to have <l>. But there are several reason to think Puyuma <penu> may be a borrowing from East Formosan. If so, <peñu>: "turtle" is restricted to East Formosan and Malayo-Polynesian, which are good candidates for a subgrouping within Austronesian ( https://twitter.com/Diachronica2/status/1526274068177117191)
+
+Semantically: In many language, <*pəñu> refers specifically to the green sea turtle, which is valuable for its meat and eggs. Turtles valued for meat and eggs seem like a reasonably semantic connection to "to fill, full, container". Especially if <*penpen>: "to provision, to fill up" is included.
+
+
+#### Man'yōshū, literally "the Collection of Ten Thousand Leaves", is a collection of Japanese poetry from the 7th to 8th C.
+
+The first Japanese kana system is named after it: `まんようがな` <Man'yōgana>: "the Letters of the Thousand Leaves". Man'yōgana is the predecessor of the modern Katakana and Hiragana systems.
+
+
+
+endnotes

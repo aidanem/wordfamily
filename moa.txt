@@ -1,0 +1,87 @@
+date: 20180427
+tags: Animals, Birds, Domestic Animals, Austronesian, Sino-Austronesian, Sino-Tibetan
+
+
+startbody
+
+Sino-Austronesian
+
+?> Austronesian <*manuk>: "bird"
+
+--> Malayo-Polynesian
+---> Bajau <memanuk>: "bird"
+---> Javanese `manuk`: "bird"
+---> Malayic <*manuk>
+----> Malay `manuk`: "bird, chicken"
+---> Phillipine
+----> Tagalog `manók`: "chicken"
+---> Oceanic
+----> Micronesian
+----?> Chuukese `machang`: "bird"
+-----> Kiribati `man`: "bird"
+
+----> Polynesian <*manu>: "bird"
+-----> Tongan `manupuna`: "bird"
+-----> Nuclear Polynesian
+------> Samoan `manu`: "bird"
+------> Eastern Polynesian
+-------> Rapa Nui `manu`: "bird"
+-------> Marquesic
+--------> Hawaiʻian `manu`: "(flying) bird"
+-------> Tahitic
+--------> Tahitian `manu`: "bird"
+--------> Māori `manu`: "bird, esteemed person"
+---?> Polynesian <*moa>: "fowl, chicken" ##
+-----> Tongan `moa`: "chicken"
+-----> Nuclear Polynesian
+------> Samoan `moa`: "chicken, fowl"
+------> Eastern Polynesian
+-------> Rapa Nui `moa`: "chicken"
+-------> Marquesic
+--------> Hawaiʻian `moa`: "chicken, fowl"
+-------> Tahitic
+--------> Māori `moa`: "moa"
+---------> English `moa`
+
+
+?> Hmong-Mien <*m-nɔk>: "bird"
+---> Hmong <*m-nɔŋᶜ>
+----> White Hmong `noog`
+---> Mien <*nɔkᴰ>
+----> Iu Mien `norqc`: "bird"
+
+
+?> Tai <*C̬.nokᴰ>: "bird"
+--> Northern Tai
+---> Zhuang `roeg`: "bird"
+--> Southwestern Tai
+---> Lao `ນົກ` <nok>: "bird"
+---> Thai `นก` <nók>: "bird"
+
+
+?> Sino-Tibetan <*s-ŋak>
+
+--> Tibeto-Burman
+---> Burmese `ငှက်` <hngak>: "bird"
+
+--> Old Chinese `鸟` <*nɯːwʔ>: "bird"
+---> Middle Chinese `鳥` <neuχ>: "bird"
+----> Mandarin `鳥` <niǎo>: "bird"
+----> Cantonese `鳥` <niu⁵>: "bird" 
+---> Min
+----> Taiwanese `鳥` <niáu>: "bird"
+
+?> Khmeric <*man>: "chicken" (presumed borrowing from one of the others)
+--> Khmer `មាន់` <mŏən>: "chicken"
+
+
+endbody
+
+
+startnotes
+
+
+## Possible derivative of <manu>, or maybe a doublet via supplemental borrowing from a related language, at the time of the introduction of domestic fowl.
+
+
+endnotes

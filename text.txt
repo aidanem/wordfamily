@@ -1,0 +1,547 @@
+theme: Cloth 👘
+tags: Animals, SI Units
+
+
+startbody
+
+Proto-Indo-European <*teḱ->: "to beget, to bring forth, to generate"
+
+
+-> Proto-Indo-European <*téḱnom>: "begotten"
+
+--> Hellenic
+---> Ancient Greek `τέκνον` <téknon>: "child, descendant, young animal"
+----> Greek `τέκνο` <tékno>: "offspring, child"
+
+
+-> Proto-Indo-European <*títḱe-ti> (Reduplicated thematic verb form)
+
+--> Hellenic <*tíktō>
+---> Ancient Greek `τίκτω` <tíktō>: "I beget, to I give birth to, I bear, I produce, I generate"
+
+
+-> Proto-Indo-European <*tétḱ-ti> (Reduplicated athematic verb form)
+--> Proto-Indo-European <*tetḱ->: "to create, to produce, to hew, to build" (re-analysed as a new root)
+
+---> Proto-Indo-European <*tḗtḱ-ti> (Narten imperfective)
+
+----> Balto-Slavic <*téśtei>
+------> Lithuanian `tašýti`: "to hew"
+-----> Slavic <*tesàti>: "to hew"
+------> East Slavic
+-------> Russian `теса́ть` <tesátʹ>: "to adze, cut, hew"
+------> South Slavic
+-------> Serbo-Croatian `тѐсати` <tèsati>: "to hew, to trim, to cut"
+------> West Slavic
+-------> Polish `ciosać`: "to hew"
+
+----> Indo-Iranian
+-----> Indo-Aryan
+------> Sanskrit `𑀢𑀓𑁆𑀱𑀢𑀺` <tákṣati>: "to cut, split, fashion out of wood"
+-------> Telugu `తక్షణి` <takṣaṇi>: "adze"
+-----> Iranian <*taš->: "to make, construct; to cut"
+------> Avestan `𐬀𐬎𐬎𐬌 𐬙𐬁𐬱𐬙𐬌` <auui tāšti>: "make with carpentry"
+------> Western Iranian
+-------> Old Persian
+--------> Persian  `تش` <taš>: "hatchet, axe"
+------> Old Armenian `տաշեմ` <tašem>: "to rough hew, plane, polish, smooth"
+-------> Armenian `տաշել` <tašel>: "to cut, hew, polish, smooth"
+
+
+----> Italic `teksō`
+-----> Latin `texō`: "I weave, I braid, I intertwine"
+------> Sardinian `tèssere`
+------> Eastern Romance
+-------> Romanian <a țese>: "to weave, to devise"
+------> Western Romance
+-------> French `tisser`: "to weave, to braid, to wreathe"
+--------> French `tissu`: "woven, fabric, tissue"
+---------> English `tissue`
+-------> Spanish `tejer`: "to knit, weave"
+-------> Italian `tessere`: "to weave, plot"
+------> Latin `tēla`: "loom, web"
+-------> Western Romance
+--------> French `toile`: "fabric, cloth, spider web"
+---------> French `toilette`: "small cloth, washing, personal grooming, place for washing"
+----------> English `toilet`
+--------> Italian `tela`: "cloth, canvas, theater curtain"
+--------> Spanish `tela`: "cloth"
+--------> Latin `subtīlis`: "fine, thin, slender"
+---------> Eastern Romance
+----------> Romanian `subțire`: "thin, slender, sleazy"
+---------> Western Romance
+----------> French `subtil`: "subtle"
+-----------> English `subtle`
+----------> Italian `sottile`: "thin, fine, delicate, subtle"
+----------> Spanish `sutil`: "subtle"
+
+
+---> Proto-Indo-European <*teḱtós> (adjective)
+
+-----> Latin `textus`: "woven, texture, the style of a work of art"
+------> Medieval Latin `textus`: "style, wording, treatise, text"
+-------> French `texte`: "text"
+--------> English `text`
+---------> Translingual `.txt`
+-------> Russian `текст` <tekst>: "text, wording, lyrics"
+------> Latin `contextus`: "interwoven, connected, uninterrupted, coherent"
+-------> English `context`
+------> Latin `textūra`: "weaving, texture"
+-------> French `texture`: "texture"
+--------> English `texture`
+-------> Spanish `textura`: "texture"
+------> Latin `textilis`: "woven"
+-------> French `textile`: "fabric, textile"
+--------> English `textile`
+
+
+---> Proto-Indo-European <*tetḱdʰlo>: "adze" (instrumental)
+
+----> Balto-Slavic
+-----> Slavic <*tesla>: "adze"
+------> East Slavic
+-------> Russian `тесло́` <tesló>: "adze"
+------> South Slavic
+-------> Serbo-Croatian `те̏сла` <tȅsla>: "adze"
+--------> Serbo-Croatian `Тесла` <Tesla> (occupational surname)
+---------> English `Tesla`
+---------> Translingual `tesla`: "SI derived unit of magnetic inductivity" (after Nikolai Tesla)
+-------> West Slavic
+--------> Polish `cieślica`: "adze"
+--------> Polish `cieśla`: "carpenter"
+
+----> Celtic <*tāxslos>: "adze"
+-----> Primitive Irish `ᚈᚐᚂᚐᚌᚅᚔ` <talagni>: "adze"
+------> Old Irish `tál`: "adze"
+-------> Irish `tál`: "adze"
+
+
+---> Proto-Indo-European <*tétḱō> (derived noun)
+
+----> Hellenic <*téktōn>
+-----> Mycenaean Greek `𐀳𐀒𐀵𐀚` <te-ko-to-ne>: "carpenters"
+-----> Ancient Greek `τέκτων` <téktōn>: "craftsman, carpenter, builder"
+------> Ancient Greek `ἀρχιτέκτων` <arkhitéktōn>: "chief builder, architect"
+-------> Latin `architectus`: "architect, inventor, author"
+--------> French `architecte`: "architect"
+---------> English `architect`
+-------> Russian `архите́ктор` <arxitéktor>: "architect"
+------> Ancient Greek `τεκτονικός` <tektonikós>: "pertaining to building"
+-------> Latin `tectonicus`: "pertaining to building, architectural"
+--------> English `tectonic`
+
+----> Indo-Iranian <*táĉšān>
+-----> Indo-Aryan
+------> Sanskrit `𑀢𑀓𑁆𑀱𑀦𑁆` <tákṣan>: "carpenter, woodcutter"
+-----> Iranian
+------> Avestan `𐬙𐬀𐬱𐬀𐬥` <tašan>: "shaper, creator"
+
+
+---> Proto-Indo-European <*teḱsneh₂> (derived noun)
+
+----> Hellenic
+-----> Ancient Greek `τέχνη` <tékhnē>: "craft, skill, art"
+------> Ancient Greek `τεχνολογία` <tekhnología>: "systematic treatment of art and craft"
+-------> English `technology`
+------> Latin `technicus` "technical, technology"
+-------> English `technical`
+-------> French `technique`: "technical"
+--------> English `technique`
+
+
+---> Proto-Indo-European <*tetḱeh₂> (derived noun)
+
+----> Germanic <*þehsō>: "axe, adze"
+-----> West Germanic
+------> Old English `þeox`: "spear"
+------> Old High German `dehsa`: "axe"
+-----> Germanic <*þehsalȭ>: "axe" (diminutive?)
+------> North Germanic
+-------> Old Norse `þexla`
+--------> Danish `teksel`: "axe, adze"
+------> West Germanic
+-------> Old English <*þeoxle>: "axe"
+-------> Old High German `dehsala`: "axe, adze"
+--------> German `Dechsel`: "adze"
+
+
+---> Proto-Indo-European <*tₔtḱtós>: "built"?
+
+----> Indo-Iranian <*taçtás>
+-----> Indo-Aryan <*taçtás>
+------> Sanskrit `𑀢𑀱𑁆𑀝` <taṣṭá>: "fashioned, produced, hewn"
+-----> Iranian <*taçtáh>
+------> Avestan `𐬙𐬀𐬱𐬙𐬀` <tašta>
+------> Western Iranian
+-------> Kurdish `teşt`
+-------> Old Persian
+--------> Persian `تشت` <tašt>: "basin, tub, pan"
+--------> Arabic `طَاس` <ṭas>: "bowl, cup"
+---------> Georgian `თასი` <tasi>: "bowl, chalice"
+---------> Persian `طاس` <tâs>: "bowl, cup" (archaic)
+----------> Ottoman Turkish `طاس` <tâs>
+-----------> Armenian `<թաս` <tʿas>: "bowl, cup"
+-----------> Greek `τάσι` <tási>: "wide bowl, basin, hubcap, plate of a scale"
+-----------> Serbo-Croatian `тас` <tas>: "cymbal, the plate of a balance or scale"
+---------> Spanish `taza`: "cup, mug, toilet bowl"
+----------> French `tasse`: "cup, cupful"
+-----------> Vietnamese `tách`: "cup"
+-----------> French `demi-tasse`: "a small coffee cup, a serving of strong coffee, demitasse" (lit. "half-cup")
+------------> English `demitasse`
+----------> Italian `tazza`: "cup, mug, toilet bowl"
+---------> Swahili `tasa`: "medal bowl, gong"
+--------> Aramaic `ܛܫܬ` <ṭašt>
+--------> Old Armenian `տաշտ` <tašt>: "cup, mug, bowl, trough, tub, basket"
+---------> Armenian `տաշտ` <tašt>: "trough, tub"
+---------> Georgian `ტაშტი` <ṭašṭi>: "wash basin"
+
+
+--?> Proto-Indo-European <?>: "builder? badger?"
+
+----> Celtic
+-----> Gaulish `tasgos`: "badger"
+------> Gaulish `Tasgiitios`: "Badger (personal name)"
+------> Gaulish `Moritasgus`: "Great-Badger (personal name)"
+------> Gaulish `Tasciovanus`: "Badger-Bane (personal name)"
+-----> Old Irish `Tadg`: "Badger? (personal name)" ###
+------> Irish `Tadhg`
+-------> English `Teague`
+-------> English `taig`
+
+----> Germanic <*þahsuz>: "badger" #
+-----> East Germanic
+------> Gothic
+-------> Portuguese `texugo`: "badger"
+-----> West Germanic
+------> Frankish `þahs`: "badger"
+-------> Dutch `das`: "badger"
+--------> Afrikaans `das`, <dassie>: "hyrax"
+---------> English `dassie`: "hyrax"
+-------> Vulgar Latin `taxō`: "badger" (or `taxus`) #
+--------> Italian `tasso`: "badger"
+---------> Italian `Tasso` (Lombard noble house who established postal systems in Italy and the Holy Roman Empire)
+----------> French `de la Tour et Tassis` (the same noble house)
+-----------> German `Thurn und Taxis` (the same noble house)
+------------> English `Princess TNT` (Gloria, Princess of Thurn and Taxis)
+--------> Old French `taisson`: "badger"
+---------> Old French `taisniere`: "badger den"
+----------> French `tanière`: "den, lair, hideout"
+--------> Spanish `tejón`: "badger, coati"
+-----> Old High German `dahs`: "badger"
+------> German `Dachs`: "badger"
+-------> German `Dachshund`: "breed of dog for hunting badgers and other burrow animals"
+--------> English `dachshund`
+------> Yiddish `דאַקס` <daks>: "badger"
+
+-----> Germanic <*agiþahsijȭ>: "lizard, newt" (lit. "lizard-badger")
+------> West Germanic
+-------> Old English `āþexe`: "lizard, newt"
+--------> English `ask`: "newt" (dialectal)
+-------> Frankish <*egithassa>
+--------> Dutch `hagedis`: "lizard"
+---------> Sranan Tongo `lagadisa`: "lizard"
+-------> Old High German `egidehsa`: "lizard"
+--------> German `Eidechse`: "lizard"
+---------> German `Echse`: "lizard"
+--------> Yiddish `עקדיש` <ekdish>: "scorpion"
+
+
+-> Proto-Indo-European <*tḱéy-ti> (athematic perfective)
+--> Proto-Indo-European <*(t)ḱey->: "to cultivate, to settle, to live, to lie down" (re-analysed as a new root)
+
+---> Proto-Indo-European <*(t)ḱéy-ti> (primary verb form)
+
+----> Indo-Iranian
+-----> Indo-Aryan
+------> Sanskrit `क्षेति` <kṣéti>: "to reside, to abide, to stay, to dwell, to settle, to inhabit, to be quiet"
+-----> Iranian
+------> Avestan `𐬱𐬀𐬉𐬌𐬙𐬌` <šaēiti>: "lives"
+
+---> Proto-Indo-European <*(t)ḱéys-t> (s-perfective)
+
+----> Hellenic <*ktisa>
+-----> Mycenaean Greek `𐀑𐀴𐀋𐀯` <ki-ti-je-si>: "they reside"
+-----> Ancient Greek `κτίζω` <ktízō>: "to found, to build, to establish (a colony), to people, to plant (an orchard)"
+------> Ancient Greek `χτίστης` <chtístis>: "builder, bricklayer, mason"
+
+----> Indo-Iranian <*ĉšáysat>
+-----> Indo-Aryan <*cšáisat>
+------> Sanskrit `𑀓𑁆𑀱𑁂𑀱𑀢𑁆` <kṣeṣat>: "to dwell, to stay, to reside"
+
+---> Proto-Indo-European <*(t)ḱéytis>
+
+----> Hellenic
+-----> Ancient Greek `κτῐ́σῐς` <ktísis>: "founding, settling, created thing, creature, authority created or ordained"
+------> Italian `autoctisi`: "self-creation (theology)"
+-------> English `autoctisis`
+
+----> Indo-Iranian <*ĉšitís>
+-----> Indo-Aryan <*cšitís>
+------> Sanskrit `𑀓𑁆𑀱𑀺𑀢𑀺` <kṣití>: "abode, dwelling, Earth"
+-------> Telugu `క్షితి` <kṣiti>: "earth, 10 to the 14th or 20th power"
+-----> Iranian <*šitíh>
+------> Avestan `𐬱𐬌𐬙𐬌` <šiti>: "dwelling, house"
+
+---> Proto-Indo-European <*(t)ḱeym̥no->: "to act of settling"
+
+----> Hellenic <*ktímenos>
+-----> Mycenaean Greek `𐀑𐀴𐀕𐀙` <ki-ti-me-na>: "(cultivated) field"
+-----> Ancient Greek <*ktímenos>
+------> Ancient Greek `ἐϋκτίμενος` <eüktímenos>: "well cultivated land"
+
+----> Indo-Iranian
+-----> Iranian <*šēn>
+------> Avestan `𐬱𐬀𐬌𐬌𐬀𐬥𐬀` <šaiiana>: "place of residence"
+------> Western Iranian
+-------> Old Persian
+--------> Classical Syriac `ܫܝܢܐ` <šainā>: "cultivated land, urban area, domestication, prosperity, peace, treaty"
+--------> Old Armenian `շէն` <šēn>: "inhabited place, village, building, inhabited, prosperous, happy"
+---------> Armenian `շենք` <šenkʿ>: "building"
+---------> Armenian `շեն` <šen>: "hamlet, inhabited, prosperous, intact"
+---------> Georgian `შენი` <šeni>: "village"
+---------> Turkish `şen`: "happy, cheerful, flourishing"
+
+
+----> Proto-Indo-European <*(t)ḱéywos>: "domestic, homey, intimate, friendly"
+
+-----> Balto-Slavic <*śéiwāˀ>
+------> East Baltic
+-------> Lithuanian `sieva`: "wife"
+
+-----> Germanic <*hīwã>: "household member, spouse, couple, household"
+------> East Germanic
+-------> Gothic <*heiwa>
+--------> Gothic `𐌷𐌴𐌹𐍅𐌰𐍆𐍂𐌰𐌿𐌾𐌰` <heiwafrauja>: "head of household"
+------> West Germanic
+-------> Old English `hīwa`: "household member"
+--------> English `hewe`
+-----> Germanic <*hīwid>: "household, land associated with a household"
+------> North Germanic
+------?> Old Norse `hiþ`: "beaver den"
+---------> Swedish `ide`: "den"
+------> West Germanic
+-------> Old English `hīd`: "unit of land and tax assesment, approx. 120 acres, the farming land necessary to support a household"
+--------> English `hide` (unit of land)
+
+-----> Indo-Iranian
+------> Indo-Aryan
+-------> Sanskrit `𑀰𑀺𑀯` <śivá>: "auspicious, gracious, happiness, prosperity, welfare"
+-------?> Sanskrit `𑀰𑀺𑀯` <Śivá>: "Shiva
+---------> Hindi `शिव` <Śiv>
+---------> Telugu `శివుడు` <śivuḍu>: "Shiva"
+---------> English `Shiva`
+
+-----> Italic <*keiwis>
+------> Latin `cīvis`: "citizen"
+-------> English `civic`
+-------> English `civil`
+-------> Latin `cīvitātem`: "citizenship, citizenry, community, city"
+--------> Sardinian `tzitade`: "city"
+--------> Eastern Romance
+---------> Romanian `cetate`: "citadel, fortress"
+--------> Western Romance
+---------> Old French `cité`: "(walled) city"
+----------> French `cité`: "city"
+----------> English `city`
+----------> Old French `citeien`
+-----------> French `citoyen`: "citizen"
+-----------> English `citizen`
+---------> Italian `città`: "town, city"
+---------> Spanish `ciudad`: "city"
+--------> Armenian `qytet`: "city"
+--------> Welsh `ciwdod`: "race, people, nation"
+
+
+----> Proto-Indo-European <*(t)ḱeyros> (adjective)
+
+-----> Old Armenian `սէր` <sēr>: "love, affection, fondness, charity, kiss, Lovefeast/Agape feast"
+------> Armenian `սեր` <ser>: "love, affection, caring"
+------> Georgian `სერი` <seri>: "feast"
+
+-----> Germanic <*(ga)hiurijaz>: "trusted, familiar, dear, gentle, mild"
+------> North Germanic
+-------> Old Norse `hýrr`: "smiling, pleasant, friendly"
+--------> Icelandic `hýr`: "glad, happy, gay, homosexual, tipsy"
+------> West Germanic
+-------> Old English `hēore`: "pleasant, secure, gentle, mild"
+-------> Frankish <*hiuri>
+--------> Dutch `guur`
+-------> Old High German <(ga)hiuri>
+--------> German `geheuer`: "pleasant, comfortable, sure"
+------> Germanic <*un(ga)hiurijaz>: "not familiar, not gentle"
+-------> North Germanic
+--------> Old Norse `úhýrr`
+---------> Danish `uhyre`: "enormous, tremendous, exceptionally, a monster"
+-------> West Germanic
+--------> Old English `unhēore`: "unpleasant, awful, monstrous"
+--------> Frankish `unhiuri`
+---------> Dutch `onguur`: "nasty, repulsive, unreliable"
+--------> Old High German `ungahiuri`
+---------> German `ungeheuer`: "enormous, enormously"
+
+
+----> Proto-Indo-European <*(t)ḱóymos>: "family, house, village"
+
+-----> Celtic <*koymos>
+------> Brythonic
+-------> Welsh `cu`: "dear, beloved"
+------> Old Irish `cóem`
+-------> Irish `caomh`: "gracious, gentle, bland"
+--------> Irish `Caoimhín`: "Gentle-Birth (personal name)" 
+---------> English `Kevin`
+
+-----> Germanic <*haimaz>
+------> East Germanic
+-------> Gothic `𐌷𐌰𐌹𐌼𐍃` <haims>: "village"
+------> North Germanic
+-------> Old Norse `heimr`: "home, abode, land, world"
+--------> Icelandic `heimur`: "world"
+--------> Old Norse `heim`: "homewards, home" (adverb)
+---------> Danish `hjem`: "home" (noun and adverb)
+---------> Icelandic `heim`: "home" (adverb)
+--------> Old Norse `Heimdallr` God, "home-proud"? "world-glory"?
+---------> English `Heimdall`
+------> West Germanic
+-------> Old English `hām`: "home, house, estate, farm, village"
+--------> English `home`
+--------> Scots `hame`: "home"
+--------> English `-ham`: "village" (in place names)
+---------> English `Birmingham`
+---------> English `Buckingham`
+---------> English `Nottingham`
+-------> Frankish <*haim>
+--------> Dutch `heem`: "house, home"
+--------> Dutch <-em>: "home, village" (placenames)
+--------?> Dutch `Haarlem` placename, "high? forest home"
+----------> English `Harlem`
+--------> Old French `ham`: "village"
+---------> Old French `hamel`: "small village"
+----------> French `hameau`: "hamlet"
+----------> Old French `hamelet`: "small small village"
+-----------> English `hamlet`
+-------> Old High German `heim`
+--------> German `Heim`: "home, hostel, asylum"
+--------> Yiddish `היים` <heym>: "home"
+-----?> Balto-Slavic <*káimas> ##
+-------> East Baltic
+--------> Lithuanian `kiẽmas`: "yard, courtyard, farmstead, estate, village"
+-------> West Baltic
+--------> Old Prussian `caymis`: "village"
+------> Germanic <*haimatjanã>: "to bring home, to provide with a home"
+-------> North Germanic
+--------> Old Norse `heimta`: "to fetch, to bring home"
+---------> Danish `hente`: "to fetch, to download"
+---------> Icelandic `heimta`: "to fetch, to bring home"
+---------> Scots `hent`: "to gather, to collect, to spirit away, a gathering"
+-------> West Germanic
+--------> Old English `hāmettan`: "to provide a home for, to house, to bring home"
+---------> Old French `hanter`: "to frequent, to abide in one place"
+----------> French `hanter`: "to frequent, to haunt"
+----------> Dutch `hanteren`: "to handle, to use"
+-----------> German `hantieren`: "to handle, to tamper"
+----------> Middle English
+-----------> English `haunt`
+-----------> Scots `hant`: "to frequent, association, usual abode, habit"
+
+
+-----> Proto-Indo-European <*(t)ḱóyméh₂>
+
+------> Balto-Slavic <*śeimā́ˀ>
+-------> East Baltic
+--------> Lithuanian `šeimà`: "family"
+-------> Slavic <*sěmь(ja)>: "family, household, member of the same village"
+--------> East Slavic
+---------> Russian `семья́` <semʹjá>: "family"
+
+-----?> Hellenic
+--------> Ancient Greek `κώμη` <kṓmē>: "unwalled village, country town, ward of a city"
+
+------> Indo-Iranian
+-------> Indo-Aryan
+--------> Sanskrit `𑀓𑁆𑀱𑁂𑀫` <kṣéma>: "basis, security"
+---------> Pali `𑀔𑁂𑀫` <khema>: "safe"
+---------> Sanskrit `𑀬𑁄𑀕𑀓𑁆𑀱𑁂𑀫` <yogakṣema>: "the security of possessions"
+----------> Hindi `जोखिम` <jokhim>: "risk, hazard"
+
+
+---> Proto-Indo-European <*(t)ḱin-éti> (denominative imperfective)
+
+----> Italic <*sinō>
+-----> Latin `sinō`: "I put, I set down, I permit"
+-----> Italic <*pozinō> (away-put)
+------> Latin `pōnō`: "I place, I put, I ordain, I set up"
+-------> Latin `positus`: "placed, ordained"
+--------> English `post`
+--------> English `posit`
+-------> Latin `positiō`: "position, place, framing, attitude"
+--------> English `position`
+-------> Latin `compōnō` ("place together")
+--------> English `compose`
+-------> Latin `dēpōnō` ("place away")
+--------> English `depose`
+--------> English `deposit`
+--------> English `deponent`
+-------> Latin `dispōnō` ("place apart")
+--------> English `dispose`
+-------> Latin `expōnō` ("place out")
+--------> English `expose`
+--------> English `expound`
+--------> English `exposition`
+-------> Latin `impōnō` ("place in")
+--------> English `impose`
+-------> Latin `oppōnō` ("place against")
+--------> English `oppose`
+--------> English `opponent`
+-------> Latin `postpōnō` ("place after")
+--------> English `postpone`
+-------> Latin `praepōnō` ("place before")
+--------> English `preposition`
+-------> Latin `prōpōnō` ("place forward")
+--------> English `propose`
+-------> Latin `repōnō` ("place back")
+--------> English `repose`
+-------> Latin `suppōnō` ("place under")
+--------> English `suppose`
+-------> Latin `trānspōnō` ("place across")
+--------> English `transpose`
+
+
+----> Proto-Indo-European <*(t)ḱoyneh₂>: "bed, cradle"
+
+-----> Hellenic <*kóimos>
+------> Ancient Greek `κοιμάω` <koimáō>: "I put to sleep, I lull"
+-------> Greek `κοιμάμαι` <koimámai>: "I sleep, I die, I lounge, I sleep with"
+
+-----> Italic <*koinā>
+------> Latin `cūnae`: "cradle, nest, infancy"
+-------> Eastern Romance
+--------> Aromanian `cunã`: "cradle, swing"
+-------> Western Romance
+--------> Italian `culla`: "cradle"
+--------> Spanish `cuna`: "cradle, crib"
+---------> Basque `kuma`: "cradle, baby, offspring
+----------> Basque `katakuma`: "kitten"
+-------> Greek `κούνια` <koúnia>: "swing, cradle"
+
+
+----> Proto-Indo-European <*(t)ḱoyteh₂>
+
+-----> Hellenic <*koinā>
+------> Ancient Greek
+-------> Greek `κοίτη` <koíti>: "bed, river bed"
+
+endbody
+
+
+startnotes
+
+# Germanic <*þahsuz>, Latin `taxō`, and/or Latin `taxsus` may be borrowed from Celtic.
+
+## Balto-Slavic is a satem branch, so PIE /ḱ/ should go to /ś/, as we see in the feminine PIE <*(t)ḱóyméh₂> -> Balto-Slavic <*śeimā́ˀ> (Lithuanian `šeimà`, Russian `семья́` <semʹjá>). But in <*(t)ḱóymos> -> Balto-Slavic <*káimas> (Lithuanian `kiẽmas`, Old Prussian `caymis`), there is no satemization (and also no Slavic cognate). This could be due to an early Germanic borrowing into the Baltic languages, instead of an in situ development.
+
+Alternatively, the "thorn-cluster" <*tḱ> could have blocked satemization in <*(t)ḱóymos> but not <*(t)ḱóyméh₂> for some reason. Compare Sanskrit <kṣéma> from <*(t)ḱoyneh₂> with thorn-cluster development, but <śivá> from <*(t)ḱéywos> with simple satemization, as if from  <*ḱéywos>.
+
+### While the Irish name "Tadg" is generally considered to mean "poet", the mythical king Tadg mac Céin is repeatedly associated with badgers in stories. It probably represents a merger of two names.
+
+
+endnotes

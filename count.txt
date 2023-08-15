@@ -1,0 +1,333 @@
+date: 20180105
+theme: Royal and Noble Titles 👑
+tags: Divinities, Titles
+
+
+
+startbody
+
+
+Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
+
+-> Indo-Iranian <*hai>
+--> Iranian
+---> Western Iranian
+----> Kurdish `-ê-`: "comes"  (suppletive present of <hatin>)
+----> Persian `آی` <ây>: "comes, arrives" (suppletive present of <âmadan>)
+
+-> Tocharian <*jä->
+--> Arshian <i->: "to go"
+--> Kushean <i->: "to go"
+---> Kushean <yalñe>: "a going, journey, trip"
+
+
+-> Proto-Indo-European <*h₁éyti>: "goes" (primary verb) #
+
+--> Proto-Albanian <*eika>
+---> Albanian `iki`: "I go, I leave, I escape"
+
+--> Anatolian
+---> Hittite `𒄿𒄿𒀀𒋫𒋫` <iyatta>: "goes"
+
+--> Balto-Slavic
+---> Lithuanian `eĩti`: "to go, to walk"
+---> Slavic <*jьti>: "to go"
+----> East Slavic `ити` <iti>
+-----> Russian `идти́` <idtí>: "to go, to walk, to function"
+-----> Ukrainian `іти́` <itý>: "to go, to walk, to proceed"
+----> South Slavic
+-----> Old Church Slavonic `ити` <iti>: "to walk, to go"
+-----> Serbo-Croatian `ѝћи` <ìći>: "to go, to walk"
+----> West Slavic
+-----> Polish `iść`: "to go, to walk"
+
+--> Hellenic
+---> Mycenaean Greek `𐀂𐀍𐀳` <i-jo-te>: "goes"
+---> Ancient Greek `εἶμῐ` <eîmi>: "I will come, I will go" (suppletive future, subjunctive, etc. for `ἔρχομα`)
+---> Ancient Greek `ἰσθμός` <isthmós>: "neck, pharynx, isthmus, channel" (with unexplained <-s->)
+----> Latin `isthmus`
+-----> English `isthmus`
+
+
+--> Indo-Iranian <*Háyti>: "goes"
+---> Indo-Aryan
+----> Sanskrit `𑀏𑀢𑀺` <éti>: "goes, walks"
+---> Iranian
+----> Avestan `𐬀𐬉𐬙𐬍` <aētī>: "goes"
+----> Western Iranian
+-----> Old Persian `𐎠𐎡𐎫𐎡𐎹` <aitiy>: "goes"
+---> Nuristani
+----> Kamviri <ie>: "walks"
+
+--> Italic
+---> Latin `eō`: "I go"
+----> Western Romance
+-----> French `irai`: "will go" (suppletive future of `aller`)
+-----> Spanish `ir`: "to go"
+----> Latin `ambiō`: "I go around, I solicit favor, I campaign, I strive for"
+-----> Eastern Romance
+-----?> Romanian `a îmbia`: "to urge, to entice, to solicit"
+-----> Western Romance
+------> Italian `ambìre`: "to aspire, to yearn"
+-----> Latin `ambitiō`: "a going around, desire to please, desire for honor, ambition"
+------> English `ambition`
+-----> Vulgar Latin <*ambitāre> (frequentive)
+------> Western Romance
+-------> Spanish `andar`: "to walk, to go, to be"
+--------> Spanish `ándale`: "hurry!, come on!, all right!" (interjection)
+----> Latin `pereō`: "I go through, I pass away, I vanish, I perish"
+-----> Western Romance
+------> Old French `perir`: "to die, to perish"
+-------> French `périr`: "to perish"
+-------> English `perish` (from the `per-iss-` stem)
+----> Latin `praetereō`: "I go past, I ignore, I surpass"
+-----> Western Romance
+------> Italian `preterire`: "I neglect, I omit"
+-----> Latin `praeteritio`
+------> English `preterite`
+----> Latin <*sēdeō>: "I go away, I go separately" (not used due to homophony with "to sit", only the participle is used)
+-----> Latin `sēditiō`: "rebellion, sedition, discord, turmoil"
+------> English `sedition`
+----> Latin `subeō`: "I go under, I come from under, I sneak up on, I undergo, I come to mind, I take place"
+-----> Latin `subitus`: "approached, snuck up on, undergone"
+------> Western Romance
+-------> Italian `subito`: "immediately, as soon as possible"
+-------> Spanish `súbito`: "sudden, suddenly"
+------> Latin `subitāneus`: "sudden, unexpected"
+-------> Western Romance
+--------> Old French `sodein`: "sudden"
+---------> French `soudain`: "sudden, suddenly"
+---------> English `sudden`
+----> Latin `trānseō`: "I go across, I go over to, I surpass, I elapse, I pass away"
+-----> Western Romance
+------> Old French
+-------> French `transir`: "to pass through, to cut through (esp. of cold or wind)"
+-------> English `transit`
+-----> Latin  `trānsitiō`
+------> French `transition`: "transition"
+-------> English `transition`
+----> Latin `comeō`
+-----> Latin `comes`: "companion, comrade, partner" (lit. "go together")
+------> Medieval Latin `comes`: "trusted companion/advisor to the Emperor, count, earl"
+-------> Old French
+--------> French `comte`: "count, earl" (from the accusative form <comitem>)
+--------> English `count` (the noble title)
+-------> Medieval Latin `comitātus`: "company of soldiers, association, county"
+--------> Old French `conté`: "county"
+---------> French `comté`: "county"
+---------> English `county`
+-------> Medieval Latin `comes stabuli`: "officer of the stables"
+--------> Old French `conestable`: "a military officer of some kind"
+---------> English `constable`
+---------> French `connétable`: "historical commander in chief of the French army, 1060-1626"
+
+--> Phrygian `ειτου` <eitou>: "to go, to become"
+
+
+
+-> Proto-Indo-European <*h₁itus>: "a going"
+
+--> Italic
+---> Latin `itus`: "a going, a gait, a right of way"
+----> Latin `coitus`: "a meeting, a joining, sexual intercourse" (lit. "a going-together")
+-----> French `coit`: "coitus"
+-----> Spanish `coito`: "coitus"
+-----> English `coitus`
+
+
+
+-> Proto-Indo-European <*h₁oytyos?>
+
+--> Germanic <*aidijaz?>: "passable?"
+---> Germanic <*aidijã>: "isthmus, strait" (de-adjectival noun from a gerund?)
+----> North Germanic
+-----> Old Norse `eið`: "isthmus"
+------> Icelandic `eiði`: "isthmus"
+------> Swedish `ed`: "isthmus, portage"
+
+
+
+-> Proto-Indo-European <*h₁éytr̥>
+
+--> Italic
+---> Latin `iter`: "route, journey"
+----> Latin `itinerārium`: "road map, itinerary"
+-----> English `itinerary`
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan `𐬌𐬚𐬥𐬀` <iθna>: "lifetime"
+
+--> Tocharian <*yätār>
+---> Arshian <ytār>: "road, way"
+---> Kushean <ytārye>: "road, way"
+
+
+-> Proto-Indo-European <*h₁eh₁óye>
+
+--> Germanic <*ijjē>: "went" (suppletive past tense <*gānã>)
+---> West Germanic
+----> Old English `ēode`: "went" (suppletive past tense `gān`)
+-----> Middle English `yode`: "went"
+---> East Germanic
+----> Gothic `𐌹𐌳𐌳𐌾𐌰` <iddja>: "went" (suppletive past tense <gaggan>)
+
+
+
+-> Proto-Indo-European <*h₁eyh₂ti> (factive)
+-?> Proto-Indo-European <*yeh₂->: "to go, to enter, to ride, to travel" (re-analyzed root)
+
+
+---> Proto-Indo-European <*yéh₂ti>: "goes, enters, rides, travels"
+
+----> Balto-Slavic <*jā́ˀtei>: "to ride, to travel"
+-----> East Baltic
+------> Lithuanian `jóti`: "to ride (horseback)"
+-----> Slavic <*jěti>: "to go, to ride"
+------> West Slavic
+-------> Czech `jet`: "to ride, to travel by horse or vehicle"
+------> Slavic <*jě̀xati> (stem <*ěd->)
+-------> East Slavic `ꙗхати` <jaxati>
+--------> Russian `е́хаць` <jéxacʹ>: "to ride, to drive, to travel by horse or vehicle"
+--------> Ukrainian `ї́хати` <jíxaty>: "to ride, to drive, to travel by horse or vehicle"
+-------> South Slavic
+--------> Bulgarian `я́хам` <jáham>: "to mount, to get on a horse"
+--------> Old Church Slavonic `ꙗхати` <jaxati>: "to travel, to leave"
+--------> Serbo-Croatian `ја̏хати` <jȁhati>: "to ride (horseback)"
+-------> West Slavic
+--------> Polish `jechać`: "to go, to ride, to drive"
+------?> Slavic <*ězda>: "a ride" (<*ěd-> stem + <*-ьba> action noun suffix?)
+--------> East Slavic
+---------> Russian `езда́` <jezdá>: "a ride, a drive"
+--------> South Slavic
+---------> Old Church Slavonic `язда` <jazda>
+--------> West Slavic
+---------> Polish `jazda`: "a ride, a drive, cavalry, move it!"
+
+----> Indo-Iranian <*yáHti>
+-----> Indo-Aryan
+------> Sanskrit `𑀬𑀸𑀢𑀺` <yā́ti>: "to go, to move, to walk, to flee, to enter"
+-------> Elu
+--------> Dhivehi `​​ދަނީ` <danī>
+--------> Sinhala `යනවා` <yanawā>
+-------> Magadhi
+--------> Bengali `যাওয়া` <jaoa>: "to go"
+-------> Maharashtri `𑀚𑀸𑀇` <jāi>
+--------> Marathi `जाणे` <jāṇe>: "to go"
+-------> Pali `𑀬𑀸𑀢𑀺` <yāti>: "to go, to travel"
+-------> Sauraseni `𑀚𑀸𑀤𑀺` <jādi>
+--------> Madhya
+---------> Hindi `जाना` <jānā>: "to go, to leave, passive voice marker"
+-------> West Indo-Aryan
+--------> Romani `džal`: "to go"
+-----> Iranian
+------> Avestan `𐬫𐬁𐬌𐬙𐬌` <yāiti>
+
+
+---> Proto-Indo-European <*yiyéh₂ti>  (reduplicative imperfective)
+
+----> Tocharian
+-----> Arshian <yā->: "to go, to travel, to lead"
+-----> Kushean <iyā->: "to go, to travel, to lead"
+
+
+---> Proto-Indo-European <*yeh₂no-> (noun)
+
+----> Indo-Iranian <*yáHnam>
+-----> Indo-Aryan
+------> Sanskrit `𑀬𑀸𑀦` <yā́na>: "carriange, vehicle, journey"
+-------> Pali <yā́na>: "carriange, vehicle, journey"
+--------> Burmese `ယာဉ်` <yany>: "vehicle, mount"
+--------> Khmer `យាន` <yiən>: "vehicle"
+--------> Thai `ยาน` <yaan>: "vehicle, conveyance"
+---------> Thai `ยานอวกาศ` <yaan-à-wá-gàat>: "spaceship"
+-------> Sanskrit `𑀉𑀤𑁆𑀬𑀸𑀦` <udyā́na>: "an outing, an excursion, a park"
+--------> Magadhi
+---------> Assamese `উজনি` <uzoni>: "upstream"
+--------> Pali <uyyāna>
+---------> Burmese `ဥယျာဉ်` <u.yyany>: "garden, orchard"
+----------> Burmese `ရစ္ဆာန်ဥယျာဉ်` <ti.rachcan-u.yyany>: "zoo" (equivalent to Sanskrit <tiraścīna udyā́na>: "horizontal park")
+--------> Hindi `उद्यान` <udyān>: "garden, park"
+--------> Thai `อุทยาน` <ùt-tá-yaan>: "garden, park"
+-------> Sanskrit `𑀫𑀳𑀸𑀬𑀸𑀦` <mahāyāna>: "Mahayana (Buddhism)" (lit. "great vehicle, great journey")
+--------> English `Mahayana`
+--------> Hindi `महायान` <mahāyān>: "Mahayana (Buddhism)"
+
+----> Italic
+-----> Latin `iānus`: "covered passage, arcade"
+------> Latin `Iānus`: "Divinity of Doors, Beginnings, and Endings"
+-------> English `Janus`
+-------> Latin `iānuārius`: "having to do with or belonging to Janus, the month of Janus" ##
+--------> English `January` ##
+------> Latin `iānua`: "door, entrance, double-door"
+-------> Western Romance
+--------> Mozarabic `يانة` <yana>: "door"
+-------> Latin `iānitor`: "doorman, porter"
+--------> English `janitor`
+------> Latin <*iānuella> (dimunitive)
+-------> Western Romance
+--------> Portuguese `janela`: "window"
+---------> Malay `jendela`: "window"
+---------> Tamil `ஜன்னல்` <jaṉṉal>
+
+
+---> Proto-Indo-European <*yéh₂mn̥> (noun)
+
+----> Indo-Iranian <*yáHma>
+-----> Indo-Aryan
+------> Sanskrit `𑀬𑀸𑀫𑀦𑁆` <yā́man>: "motion, course, expedition, invocation, prayer"
+
+
+---> Proto-Indo-European <*yeh₂tóm> (noun)
+
+----> Balto-Slavic
+-----> Slavic <*ě̀to>: "herd, flock"
+------> South Slavic
+-------> Old Church Slavonic `ято` <jato>
+-------> Serbo-Croatian `ја̏то` <jȁto>: "flock"
+
+
+-> Proto-Indo-European <*yeh₂tr̥> (noun)
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀬𑀸𑀢𑁆𑀭𑀸` <yātrā>: "journey, travel, pilgrimage"
+-----> Hindi `यात्रा` <yātrā>: "journey, travel"
+-----> Pali `𑀬𑀸𑀢𑁆𑀭𑀸` <yātrā>
+------> Thai `ยาตรา` <yâat-dtraa>: "procession, parade"
+-----> Telugu `యాత్ర` <yātra>: "journey, expedition, march"
+
+--> Tocharian <*yätār>
+---> Arshian <ytār>: "road, way"
+---> Kushean <ytārye>: "road, way"
+
+
+---> Proto-Indo-European <*yéh₂tus>: "a going" (action noun)
+
+----> Celtic <*yātus>: "ford, passage"
+-----> Old Irish `áth`: "ford, opening"
+------> Irish `áth`: "ford, opening"
+-------> Irish `Átha Luain`: "Luan's Ford (place name)"
+--------> English `Athlone`
+-------> Irish `Átha an Rí`: "Ford of the King (place name)"
+--------> English `Athenry`
+
+
+---> Proto-Indo-European <*yéh₂wō> (noun of some kind, agentive?)
+
+----> Indo-Iranian <*yáHwā>
+-----> Indo-Aryan
+------> Sanskrit `𑀬𑀸𑀯𑀦𑁆` <yā́van>: "rider, horseman, invader, enemy"
+
+
+endbody
+
+
+
+startnotes
+
+# This verb is ambiguous in which conjugation paradigm it uses. The first person conjugation of this verb could be either <*h₁eymi> or <*h₁eyoh₂>. The first form shows up in Greek `εἶμῐ` <eîmi>, the second in Latin `eō`.
+
+## There are of course many, many descendants of Latin `iānuārius`: "January". Too many (and mostly too obvious) to bother to list at the moment.
+
+endnotes

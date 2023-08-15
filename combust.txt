@@ -1,0 +1,129 @@
+date: 20220408
+tags: Elements, ElfQuest, Fire, Plants
+
+
+startintro
+
+In which we go from Latin `ūrō`: "I burn" to English `bust`: "upper torso", with very little semantic or phonological similarity.
+
+Latin `ūrō`: "I burn" picks up an extra <b-> in many inflected forms based on re-analysis of `amb-ūrō`, leading to Latin `bustum`: "place for fires".
+
+Then semantically Latin `bustum` went from "place for fires" to "place for pyres" to "tomb". Italian `busto` continued from "tomb" to "statue decorating a grave" to "statue, especially of head and shoulders" to "torso" to "corset".
+
+
+endintro
+
+
+startbody
+
+Proto-Indo-European <*h₁ews->: "to burn"
+
+-> Proto-Indo-European <*h₁éwseti> (primary verb)
+
+--> Hellenic <*éuhō>
+---> Classical Greek `εὕω` <heúō>: "I singe"
+
+--> Indo-Iranian <*Háwšati>
+---> Indo-Aryan
+----> Sanskrit `𑀑𑀱𑀢𑀺` <óṣati>: "to burn, to punish, to chastise"
+
+--> Italic <*ouzō>
+---> Latin `ūrō`: "I burn, I inflame, I annoy, I rage"
+
+----> Latin `ambūrō`: "I singe, I char" ("around-burn")
+
+-----> Latin <*būrō> (re-analysis from `ambūrō`)
+------> Latin `combūrō`: "I burn, I burn completely, I cremate"
+-------> Western Romance
+--------> Italian `comburere`: "to burn"
+-------> Latin `combustus`: "burnt up, consumed, cremated"
+--------> English `combust`
+------> Latin `bustum`: "place for burning pyres, tomb, burial mound"
+-------> Western Romance
+--------> Italian `busto`: "grave, statue decoration of a grave, statue, bust (statue), torso, corset"
+---------> French `buste`: "bust (statue), bust (anatomy), torso"
+----------> English `bust`
+----------> French `bustier`
+-----------> English `bustier`
+
+----> Latin `ūrna`: "urn, water jar" (made of burnt clay)
+-----> Western Romance
+------> French `urne`
+-------> English `urn`
+
+----> Latin `urtīca`: "stinging nettle"
+-----> Eastern Romance
+------> Romanian `urzică`: "nettle"
+-----> Western Romance
+------> French `ortie`: "nettle"
+------> Italian `ortica`: "nettle, stinging nettle"
+------> Spanish `ortiga`: "nettle"
+-------> Spanish `Ortega`: "Nettle (place name, habitational surname)"
+--------> English `Ortega`
+-----> Translingual `Urtica`: "taxonomic genus of nettles"
+
+----> Latin `ustulō`: "I scorch, I burn up"
+-----> Western Romance
+------> Old French `usler`
+-------> Old French `brusler`: "to burn" (conflation with `bruir` from Frankish <*brōjan>, under influence of <b-> forms of the Latin)
+--------> French `brûler`: "to burn"
+---------> French `crème brûlée`
+----------> English `crème brûlée`
+--------> English `broil`
+
+-----> Latin `perustulō`
+------> Western Romance
+-------> Italian `brustolare`
+--------> Italian `abbrustolire`: "to roast, to toast"
+-----?> Vulgar Latin <*brusiāre> (also conflation with descendant of Germanic <*brōjan>? or <b-> forms?)
+-------> Eastern Romance
+--------> Dalmatian `brusur`: "to burn, to singe, to char"
+-------> Western Romance
+--------> Italian `bruciàre`: "to burn, to sear"
+
+
+
+-> Proto-Indo-European <*h₁usnós> (adjective)
+
+--> Indo-Iranian <*Hušnás>
+---> Indo-Aryan
+----> Sanskrit `𑀉𑀱𑁆𑀡` <uṣṇá>: "warm, hot"
+
+
+-> Proto-Indo-European <*h₁ewsós> (result noun)
+
+--> Indo-Iranian <*Hawšás>
+---> Indo-Aryan
+----> Sanskrit `𑀑𑀱` <oṣá>: "combustion, shining"
+-----> Maharashtri
+------> Old Marathi `𑘁𑘮` <āha>: "heat"
+
+
+
+-> Proto-Indo-European <*h₁owsmos>
+
+-?> Germanic <*aimaz>: "steam, smoke" (unexpected <*-i-> instead of <*-u->, possibly from *h₂eydʰ- instead)
+---> North Germanic
+----> Old Norse `eimr`: "steam, vapor"
+-----> Icelandic `eimur`: "steam, vapor"
+------> Icelandic `eimskip`: "steamer, steamboat"
+
+
+
+-> Proto-Indo-European <*h₁usieh₂ō>
+
+--> Germanic <*uzjȭ>: "fire"
+---> North Germanic
+----> Old Norse `yrja`
+
+---> Germanic <*aimuzjȭ>: "ember, ash, pyre"
+----> North Germanic
+-----> Old Norse `eimyrja`: "embers"
+------> Icelandic `eimyrja`
+------> Swedish `mörja`: "embers, mud"
+----> West Germanic
+-----> Old English `ǣmyrġe`: "embers, coals"
+------> English `ember`
+
+
+endbody

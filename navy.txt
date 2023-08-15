@@ -1,0 +1,372 @@
+date: 20200626
+
+
+startintro
+
+For the UN Interntaional Day of the Seafarer
+
+endintro
+
+startbody
+
+
+Proto-Indo-European <*(s)neh₂->: "to float, to swim"
+
+-> Proto-Indo-European <*(s)néh₂ti>: "floats, swims"
+
+--> Celtic <*snāti>
+---> Old Irish `snaid`: "swims"
+
+--> Hellenic
+---> Classical Greek `νᾱ́ω` <nā́ō>: "I flow"
+----> Classical Greek `Νᾱϊᾰ́ς` <Nāïás>: "naiad" 
+-----> English `naiad`
+---?> Classical Greek `νέω` <néō>: "I swim" (possibly altered by analogy to <pléō>: "to sail, to float")
+
+
+----?> Classical Greek `νῆσος` <nêsos>: "island" ###
+------> Greek `νησί` <nisí>: "island"
+------> Classical Greek `χερσόνησος` <khersónēsos>: "peninsula" ("dry land island")
+------> Classical Greek `Πελοπόννησος` <Pelopónnēsos>: "Peloponnese" ("island of Pelops")
+-------> English `Peloponnese`
+------> Coptic `ⲛⲏⲥⲟⲥ` <nēsos>: "island"
+------> English `-nesia`
+-------> English `Indonesia`
+-------> English `Melanesia`
+-------> English `Micronesia`
+-------> English `Polynesia`
+
+
+--> Indo-Iranian <snáHti>
+---> Indo-Aryan
+----> Sanskrit `स्नाति` <snā́ti>: "to bathe"
+---> Iranian
+----> Northern Iranian
+-----> Khotani <ysänāh->: "to wash"
+----> Western Iranian
+-----> Kurdish `ajne`: "to swim"
+-----> Persian `شناویدن‎` <šenāvīdan>: "to swim"
+
+---?> Iranian <*snanan?>: "saltwort, potash" (ingredient in soapmaking)
+-----> Western Iranian
+------> Parthian
+-------> Old Armenian `աւշնան` <awšnan>: "saltwort
+------> Persian `اشنان` <ošnân>: "saltwort"
+-------> Arabic `أُشْنَان` <ʾušnān>: "saltwort, potash"
+
+
+--> Italic <*snāō>
+---> Latin `nō`: "I swim, I float, I flow"
+----> Western Romance
+-----> Old French `noer`: "to swim"
+----> Latin `natō`: "I swim, I float, I flow"
+-----> Eastern Romance
+------> Romanian `a înota`: "to swim"
+------> Albanian `notoj`: "I swim"
+-----> Western Romance
+------> Italian `nuotare`: "to swim"
+------> Spanish `nadar`: "to swim"
+
+-----> Latin `natans`: "swimming"
+------> Translingual `Ambulocetus natans` #
+
+
+-> Proto-Indo-European <*(s)noh₂éyeti> (causative)
+
+--> Indo-Iranian <*snaHpáyati>
+---> Indo-Aryan
+----> Sanskrit `स्नापयति` <snāpáyati>: "to bathe, to wash"
+---> Iranian 
+----> Avestan <*snaiieni>
+-----> Avestan `frasnaiieni`: "to wash off"
+----> Northern Iranian
+-----> Khotani <ysänāj->: "to bathe"
+-----> Ossetian `найын` <najyn>: "to bathe"
+
+
+-> Proto-Indo-European <*(s)n̥h₂sḱéti> (iterative/frequentive)
+
+--> Tocharian
+---> Kushean <nāsk->: "to swim, to bathe"
+
+
+-> Proto-Indo-European <*(s)neh₂tós>
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `स्नात` <snātá>: "bathed"
+---> Iranian
+----> Avestan `𐬯𐬥𐬁𐬙𐬀‎` <snāta>: "washed, clean"
+
+
+--> Italic <*snātos>
+---> Umbrian `𐌔𐌍𐌀𐌕𐌀` <snata>: "wet?, cleansed?" (Iguvine Tablets)
+----> Umbrian `𐌀𐌔𐌍𐌀𐌕𐌀` <asnata>: "dry?, uncleansed?" (Iguvine Tablets)
+
+
+-> Proto-Indo-European <*(s)néh₂mn̥>: "a swim, a flow" (action noun)
+
+--> Hellenic <*(h)nā́mə>
+---> Classical Greek `νᾶμᾰ` <nâma>: "running water, a spring, a fountain"
+
+
+-> Proto-Indo-European <*(s)n̥h₂mós>: "a swim" (action noun)
+
+--> Celtic <*snāmos>
+---> Brythonic
+----> Welsh `nawf`: "swimming"
+-----> Welsh `nofio`: "to swim"
+---> Old Irish `snám`
+----> Irish `snámh`: "to swim, to float, a swim, deep water"
+
+--> Indo-Iranian
+---> Iranian
+----> Western Iranian
+-----> Kurdish `ajna`: "a swim, swimming"
+-----> Persian `شنا` <šenâ>: "a swim, swimming"
+
+
+?> Proto-Indo-European <*néh₂us>: "boat"
+
+--> Old Armenian `նաւ` <naw>: "boat, ship"
+
+--> Celtic <*nāwā>
+---> Brythonic
+----> Middle Welsh `noe`: "boat" (replaced by borrowing from OE `bāt`)
+---> Old Irish `nó`: "boat" (replaced by borrowing from OE `bāt`)
+
+--> Germanic <*nōwaz>: "ship" 
+---> North Germanic
+----> Old Norse `nór`: "ship (archaic, poetic), trough"
+-----> Old Norse `brandnór`: "hearth-ship" (kenning for "house")
+-----> Old Norse `Nóatún`: "Ship-Farm" (home of Njörðr, divinity of the sea and sailing)
+
+---> Germanic <*naustã>: "boathouse"
+----> North Germanic
+-----> Old Norse `naust`: "boathouse"
+------> Danish `nøst`: "boathouse"
+------> Icelandic `naust`: "boathouse"
+------> Scots `noust`: "landing place, boat launch, boathouse"
+----> West Germanic
+
+---> Germanic <*nōwandz>: "boater, boatman"
+----> West Germanic
+-----> Old English `nōwend`: "sailor, captain, shipmaster"
+
+--?> Germanic <*nakwô>: "boat, ship"
+----> North Germanic
+-----> Old Norse `nǫkkvi`: "boat, ship, personal name"
+------> Icelandic `Nökkvi`
+----> West Germanic
+-----> Old English `naca`: "boat, ship" (poetic)
+-----> Frankish <*nak(w)o>
+------> Dutch `aak`: "barge"
+-------> German `Aak`: "Lower Rhine barge"
+------> Old High German
+-------> German `Nachen`: "boat" (archaic)
+
+--> Hellenic <*náus>
+---> Mycenaean Greek <*náus>
+----> Mycenaean Greek `𐀙𐀄𐀈𐀗` <na-u-do-mo>: "shipwrights"
+---> Classical Greek `ναῦς` <naûs>
+----> Greek `ναυς` <nafs>
+
+----> Classical Greek `ναύτης` <naútēs>: "sailor"
+-----> Greek `ναύτης` <náftis>: "sailor"
+-----> Classical Syriac `ܢܰܘܛܳܐ‎` <nawṭā>
+------> Arabic `نَوْتِيّ‎` <nawtiyy>: "sailor, nautilus"
+-------> Ge'ez `ኖትያዊ` <notəyawi>: "ship's captain"
+-----> Latin `nauta`: "sailor"
+------> English `-naut`
+-------> English `astronaut`
+
+-----> Classical Greek `Ἀργοναύτης` <Argonaútēs>
+------> English `Argonaut`
+-----> Classical Greek `ναυτῐκός` <nautikós>: "sea faring, naval"
+------> Greek `ναυτικός` <naftikós>
+------> Latin `nauticus`: "nautical, naval"
+-------> Western Romance
+--------> French `nautique`
+---------> English `nautical`
+--------> Italian `nautico`
+--------> Spanish `náutico`
+
+----> Classical Greek `ναυτῐ́λος` <nautílos>: "sailor, nautilus"
+-----> Latin `nautilus`
+------> English `nautilus`
+----> Classical Greek `ναυσία`: "sea sickness"
+-----> Latin `nausea`
+------> English `nausea`
+----> Classical Greek `ναυπηγέω` <naupēgéō>: "I build ships"
+-----> Classical Greek `Ναύπᾰκτος` <Naúpaktos>: "Shipyard (placename)"
+------> Greek `Ναύπακτος` <Nafpaktos>
+-------> English `Nafpaktos`
+------> Latin `Naupactus`
+-------> English `Naupactus`
+----> Classical Greek `ναῦλος` <naûlos>: "ship fare, freight
+-----> Greek `ναύλος` <návlos>: "fare, transport free"
+-----> Italian `nolo`: "hire, rental, freight"
+----> Classical Greek `Ναυσικᾶ`: "Ship-Burner (personal name)"
+-----> English `Nausicaa`
+------> Japanese `ナウシカ` <Naushika>
+
+--> Indo-Iranian <*náHuš>: "boat"
+---> Indo-Aryan <*náHuṣ>
+----> Sanskrit `नौ` <naú>: "ship, boat"
+----> Sanskrit `नावा` <nāvā́>
+-----> Hindi `नाव` <nāv>: "boat"
+---> Iranian <*náHuš>: "boat"
+----> Northern Iranian
+-----> Ossetian `нау` <naw>: "ship"
+----> Western Iranian
+-----> Persian `ناو‎` <nāw>: "boat, warship, trough"
+------> Persian `ناخدا` <nâxodâ>: "skipper, captain, shipmaster" (lit. "boat-autocrat")
+-------> Arabic `نَاخُوذَاة` <nāḵūḏāh>: "skipper, shipmaster"
+--------> Swahili `nahodha`: "captain (of a ship)"
+-------> Hindi `नाख़ुदा` <nāxudā>: "sailor, captain"
+-------> Malay `nakhoda`: "ship owner, shipmaster, captain"
+
+
+---> Indo-Iranian <*naHuyáH>: "navigable (river)"
+----> Indo-Aryan
+-----> Sanskrit `𑀦𑀸𑀯𑁆𑀬𑀸` <navyā́>: "navigable (river)"
+----> Nuristani <*nāwyā́>: "mill race"
+-----> Kamviri `nu`: "mill race"
+
+--> Italic <*nāwis>
+---> Latin `nāvis`: "ship"
+----> Western Romance
+-----> French `nef`
+------> English `nef`
+-----> Italian `nave`: "ship"
+-----> Spanish `nave`: "ship, nave, aisle"
+-----> English `nave`
+----> Latin `nāvicula` (diminutive)
+-----> Western Romance
+------> French `nacelle`
+-------> English `nacelle`
+----> Latin `nāvigium`
+-----> Western Romance
+------> Old French `navie`
+-------> English `navy`
+------> Spanish `navío`: "ship"
+----> Latin <*navilium>
+-----> Western Romance
+------> French `navire`
+------> Italian `naviglio`: "ship, fleet, canal"
+
+
+--> Proto-Indo-European <*neh₂w(i)yos>: "boatish, naval"
+
+---> Hellenic <*nā́yyos>
+----> Classical Greek `νήϊος` <nḗïos>: "of or for a ship, naval"
+
+---> Indo-Iranian <*naHwiyás>: "boatable, navigable"
+----> Indo-Aryan
+-----> Sanskrit `नाव्य` <nāvyá>: "navigable"
+----> Iranian <*naHwiyáh>
+-----> Avestan `𐬥𐬁𐬎𐬎𐬌𐬌𐬀‎` <nāuuiia>: "boatable, navigable"
+-----> Western Iranian
+------> Old Persian `𐎴𐎠𐎻𐎡𐎹𐎠` <n-a-vi-i-y-a> ####
+-----> Kushean <newiya>: "canal"
+
+
+--> Proto-Indo-European <*(s)neh₂w(i)h₂eǵeti>: "drives a boat"
+
+---> Indo-Iranian <*naHuHaȷ́ati>
+----> Indo-Iranian <*naHuHaȷ́ás>: "navigator, skipper"
+-----> Indo-Aryan <*naHuHaĵás>
+------> Sanskrit `𑀦𑀸𑀯𑀸𑀚` <nāvājá>: "sailor, captain, navigator"
+-----> Iranian <*naHuHajáh>
+------> Avestan `𐬥𐬀𐬎𐬎𐬁𐬰𐬀‎` <nauuāza>: "sailor"
+------> Bactrian `ναοαζο` <naoazo>: "sailor"
+------> Western Iranian
+-------> Parthian `𐫗𐫀𐫇𐫀𐫉` <nʾwʾz>: "helmsman, navigator"
+--------> Old Armenian `նաւազ` <nawaz>: "boatman, sailor"
+---------> Armenian `նավազ` <navaz>: "sailor"
+
+---> Italic
+----> Latin `nāvigō`: "I sail"
+-----> Western Romance
+------> French `nager`: "to swim"
+------> Italian `navigare`: "to sail, to navigate, to browse""
+------> Spanish `navegar`: "to sail, to navigate, to browse""
+-----> English `navigate`
+-----> French `naviguer`: "to sail, to navigate, to browse"
+
+
+--> Proto-Indo-European <*neh₂w(i)wedʰeti>: "leads a boat"
+
+---> Indo-Iranian <*náHwwādáyati>
+----> Iranian
+-----> Western Iranian
+------> Parthian <*nāvvast>
+-------> Old Armenian <*nawast>: "to navigate, to sail"
+--------> Old Armenian `նաւաստի` <nawasti>: "sailor"
+---------> Armenian `նավաստի` <navasti>: "sailor"
+
+
+
+?> Proto-Indo-European <*(s)néHtr̥>: "snake, common European adder?" ##
+
+--> Proto-Indo-European <*(s)n̥Htrós>
+---> Germanic <*nadraz>: "snake, viper, adder"
+----> East Germanic
+-----> Gothic `𐌽𐌰𐌳𐍂𐍃` <nadrs>: "viper, adder"
+----> North Germanic
+-----> Old Norse `naðr`: "snake, viper, adder"
+------> Icelandic `naður`: "viper, adder"
+----> Germanic <*nadrȭ>: "snake, viper, adder"
+-----> North Germanic
+------> Old Norse `naðra`: "snake, viper, adder"
+-------> Icelandic `naðra`: "viper, adder"
+-----> West Germanic
+------> Old English `nǣdre`: "snake, adder"
+-------> English `adder` (rebracketed from "an nǣdre" to "an ǣdre")
+------> Frankish <*nadra>
+-------> Dutch `adder` (rebracketed)
+------> Old High German `nātara`
+-------> German `Natter`: "snake"
+-------> German `Otter`: "adder, viper" (rebracketed)
+--------> German `Kreuzotter`: "common European adder"
+
+--> Proto-Indo-European <*(s)n̥Htríh>
+
+---> Celtic <*natrī>
+----> Brythonic <*nėdr>
+-----> Welsh `neidr`: "snake, adder"
+
+---> Proto-Indo-European <*(s)n̥Htríks>
+
+----> Celtic <*natrixs>: "snake"
+-----> Old Irish `nathir`: "snake"
+------> Irish `nathair`: "snake"
+
+----> Italic
+-----> Latin `natrīx`: "water snake"
+------> Translingual `Natrix`: "taxonomic genus of grass and water snakes"
+------> Western Romance
+-------> Italian `natrice`: "grass snake"
+
+
+
+endbody
+
+
+startnotes
+
+# One of my favorite taxonomic names: "the walking whale that swims"
+
+## <*(s)néHtr̥>: "snake" could be from either <*(s)neh₁tr̥>: "twister" or <*(s)neh₂tr̥>: "swimmer". Or it could be a substrate borrowing; given that it is a geographically restricted animal name, that would be fairly common. It could even be a substrate borrowing eggcorned after "twist" or "swim".
+
+
+### Other possible origins for Classical Greek `νῆσος` <nêsos> include the unknown origin that gives Latin `īnsula` and Celtic <*enistī>, or from <*néh₂s>: "nose", similar to Germanic <*nasją>: "headland, promontory" from "nose". https://www.aidanem.com/word-family-isolate.html 
+
+#### Old Persian `𐎴𐎠𐎻𐎡𐎹𐎠` <n-a-vi-i-y-a> is in the Behistun Inscription, in the description of Darius's army crossing the Tigris to attack Babylon.
+
+
+endnotes
+
+https://twitter.com/word_family_fri/status/1257742758778822656
+
+

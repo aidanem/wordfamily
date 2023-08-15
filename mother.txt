@@ -1,0 +1,398 @@
+date: 20180511
+theme: kinship terms 👨‍👩‍👧‍👧
+tags: Divinities, Family
+
+
+startintro
+
+<ma>: "mother", Proto-World! Or—more likely—convergent development from onamatopoeia of nursing sounds.
+
+endintro
+
+
+startbody
+
+
+Proto-World? <ma>
+
+?> Bantu <mààmá>: "mother"
+--> Swahili `mama`: "mother"
+--> Zulu `úm̤áma`: "my mother"
+?> Basque <ama>: "mother"
+?> Dravidian <*amma>: "mother"
+--> Northern Dravidian
+---> Brahui `امّا` <ammā>: "mother"
+--> Southern Dravidian
+---> Tamil `அம்மா` <ammā>: "mother"
+--> South-Central Dravidian
+---> Telugu `అమ్మ` <amma>: "mother, lady"
+?> Mon-Khmer <*meeʔ>: "mother"
+--> Khmer `ម៉ែ` <mae>: "mother"
+--> Vietnamese `mẹ`: "mother"
+?> Old Japanese `母` <omo>: "mother"
+?> Mayan <mamah>
+?> Navajo `-má`: "mother"
+?> Nilo-Saharan
+-?> Luo `mama`: "mother"
+?> Quechua `mama`: "mother"
+?> Afro-Asiatic <*ʔam>
+-?> Egyptian `𓅐𓏏𓁐` <mwt>: "mother"
+---> Demotic <mwt>
+----> Coptic `ⲙⲁⲁⲩ` <maau>: "mother"
+-?> Chadic
+---> Hausa `mààmáá`: "breast"
+--> Semitic <*ʾimm->: "mother"
+---> East Semitic
+----> Akkadian `𒂼` <ummu>: "mother"
+---> Central Semitic
+----> Arabic `أم` <ʾumm>: "mother, origin, source"
+-----> Maltese `omm`: "mother"
+----> Northwest Semitic
+-----> Aramaic `𐡀𐡌𐡀` <ʾmʾ>: "mother"
+------> Koine Greek `ἀμμά` <amma>: "mother (religious), female clergy, female saint"
+-------> Coptic `ⲁⲙⲁ` <ama>: "mother (religious), female clergy, female saint"
+------> Hebrew `אמא` <ímma>: "mother"
+-----> Canaanite
+------> Phoenician `𐤀𐤌` <ʾm>: "mother"
+------> Hebrew `אם` <(ʾ)em>: "mother"
+-----> Ugaritic `𐎜𐎎` <ủm>: "mother"
+---> South Semitic
+----> Ethiopic
+-----> Geʿez `እም` <ʾəmm>: "mother"
+----> Old South Arabian
+-----> Sabaean `𐩱𐩣` <ʾm>: "mother"
+--> Tamazight <*ʔamm>
+---> Central Atlas Tamazight `ⵎⵎⴰ` <mma>: "mother"
+
+?> Sino-Austronesian
+
+-?> Austronesian
+---> Malayo-Polynesian <*əma>: "mother"
+----> Chamic
+-----> Aceh `ma`: "mother"
+----> Malayo-Polynesian <*əma-ʔ>: "mother"
+-----> Chamic
+------> Aceh `mak`: "mother"
+-----> Malayic
+------> Malay `emak`: "mother"
+
+-?> Sino-Tibetan <*mow>: "mother, woman"
+---> Sintic
+----> Old Chinese <*məʔ>: "mother"
+-----> Middle Chinese `母` <məuˣ>: "mother"
+------> Mandarin `母` <mǔ>: "mother"
+------> Vietnamese `mẫu`: "mother"
+-----> Min
+------> Hokkien `母` <bú>: "mother"
+------> Middle Chinese `母親` <məuX tsʰiɪn>: "mother (formal), dear mother"
+-------> Mandarin `母親` <mǔqīn>: "mother (formal)"
+
+----> Old Chinese <*maːʔ>: "mom, mama"
+-----> Middle Chinese `媽` <muoˣ>: "mom"
+------> Mandarin `媽` <mā>: "mom"
+
+---> Tibeto-Burman
+----> Bodish
+-----> Tibetan `མོ` <mo>: "female, she, feminine suffix"
+----> Lolo-Burmese
+-----> Burmese `အမယ်` <a.mai>: "woman, mother"
+-----> Burmese `အမေ` <a.me>: "mother, mom"
+
+-?> Tai <*meːᴮ>: "mother"
+---> Northern Tai
+----> Zhuang `meh`: "mother, woman"
+---> Southwestern Tai
+----> Thai `แม่` <mɛ̂ɛ>: "mother"
+----> Lao `ແມ່` <mǣ>: "mother"
+
+?> Sumerian `𒂼` <AMA>: "mother"
+
+
+
+?> Early Proto-Indo-European <*méh₂->
+
+
+-?> Early Proto-Indo-European <*méh₂ters> #
+
+---> Greco-Armenian
+
+----> Old Armenian `մայր` <mayr>
+-----> Armenian `մեր` <mer>
+-----> Armenian `մայր` <mayr> (reborrowing)
+
+----> Hellenic <*mā́tēr>
+-----> Mycenaean Greek `𐀔𐀳𐀩` <ma-te-re>
+-----> Classical Greek `μήτηρ` <mḗtēr>: "mother, source, origin"
+------> Greek `μητέρα` <mitéra>
+
+----> Greco-Armenian <*meh₂truih₂->: "stepmother"
+
+-----> Old Armenian `մօրու` <mōru>: "stepmother"
+------> Armenian `մորու` <moru>: "stepmother"
+
+-----> Hellenic
+------> Classical Greek
+-------> Greek `μητριά` <mitriá>: "stepmother"
+
+
+
+---> Proto-Indo-European <*méh₂tēr> #
+---?> Balto-Slavic <*māˀtē> #
+-----> East Baltic
+------> Lithuanian `mótė`
+-----> West Baltic
+------> Old Prussian `mothe`
+-----> Slavic <*màti>
+------> East Slavic
+-------> Russian `мать` <matʹ>
+------> South Slavic
+-------> Serbo-Croatian `ма̏ти` <mȁti>
+------> West Slavic
+-------> Polish `mać` (archaic)
+--------> Polish `matka`
+
+----> Celtic <*mātīr>
+-----> Brythonic
+------> Old Welsh <*modri>
+-------> Old Welsh <*modribydaf>: "queen bee" (lit. "mother of beehive")
+--------> Welsh `modrydaf`: "queen bee"
+-----> Celtiberian <matrubos>: "to (the) mothers" ##
+-----> Gaulish <matīr>
+-----> Old Irish `máthir`
+------> Irish `máthair`
+
+----> Germanic <*mōdēr>
+-----> North Germanic
+------> Old Norse `móðir`
+-------> Danish `mor`
+-------> Icelandic `móðir`
+-----> West Germanic
+------> Old English `mōdor`
+-------> English `mother`
+-------> Scots `mither`
+------> Frankish `mōder`
+-------> Dutch `moeder`
+------> Old High German `muoter`
+-------> German `Mutter`
+-------> Yiddish `מוטער` <muter>
+
+----> Indo-Iranian <*máHtar>
+-----> Indo-Aryan
+------> Sanskrit `𑀫𑀸𑀢𑀾` <mā́tṛ>
+-------> Magadhi
+--------> Bengali `মা` <ma>
+-------> Maharashtri
+--------> Marathi `माता` <mātā>
+-------> Sauraseni `𑀫𑀸𑀤𑀸` <mādā>
+--------> Madhya
+---------> Hindi `माँ` <mā̃>
+--------> Punjabi `ਮਾਂ` <mā̃>
+-------> Pali <mātā>
+--------> Thai `มารดา` <maan-daa> (formal)
+-------> Telugu `మాత` <māta>
+-----> Iranian
+------> Avestan `𐬨𐬁𐬙𐬀𐬭` <mātar>
+------> Northern Iranian
+-------> Scythian
+--------> Ossetian `мад` <mad>
+------> Pashto `مور` <mor>
+------> Western Iranian
+-------> Northwestern Iranian
+--------> Kurdish `mak`
+-------> Old Persian `𐎶𐎠𐎫𐎠` <m-a-t-a>
+--------> Persian `مادر` <mādar>
+
+----> Italic <*mātēr>
+-----> Latin `māter`
+------> Central Romance
+-------> Italian `madre`
+------> Western Romance
+-------> French `mère`
+-------> Spanish `madre`
+--------> Tagalog `madre`: "nun"
+------> Latin `alma māter`: "mother goddess, Virgin Mary" (lit. "nourishing mother")
+-------> Latin `Alma Mater Studiorum`: "Nurturing Mother of Studies" ###
+--------> English `alma mater`
+------> Latin `māternus`: "maternal"
+-------> Central Romance
+--------> Italian `materno`: "maternal"
+-------> Eastern Romance
+--------> Romanian `matern`: "maternal"
+-------> Western Romance
+--------> Spanish `materno`: "maternal"
+-------> Latin `māternālis`: "maternal"
+--------> Western Romance
+---------> French `maternel`: "maternal"
+----------> English `maternal`: "maternal"
+------> Latin `mātrīx`: "womb, dam, origin, list, register"
+-------> English `matrix`
+-------> Latin `mātrīcālis`: "of or from a womb, newly invented"
+--------> Central Romance
+---------> Italian `madrigale`: "madrigal"
+----------> English `madrigal`
+-------> Latin `mātrīcula`: "register, list"
+--------> Albanian `ndrikull`: "godmother"
+--------> French `matricule`: "serial number"
+--------> Italian `matricola`: "register, freshman"
+--------> Spanish `matrícula`: "license plate, matriculation"
+--------> Latin `mātrīculāre`: "to register"
+---------> English `matriculate`
+
+----> Phrygian `ΜΑΤΑΡ` <matar>
+
+----> Tocharian <*mācer>
+-----> Arshian <mācar>
+-----> Kushean <mācer>
+
+
+
+----> Proto-Indo-European <*méh₂treh₂>: "mother's sister, maternal aunt"
+
+-----> Albanian `motër`: "sister"
+
+-----> Celtic <*mātrikʷā>: "maternal aunt"
+------> Brythonic
+-------> Welsh `modryb`: "aunt"
+
+-----> Germanic <*mōdrijǭ>: "mother's sister, maternal aunt"
+------> West Germanic
+-------> Old English `mōdriġe`: "maternal aunt"
+-------> Old High German `muotera`: "maternal aunt"
+
+
+
+----> Proto-Indo-European <*meh₂terieh₁->: "source, material, timber" (that is, the "mother" of a finished product)
+
+-----> Old Armenian `մայր` <mayr>: "cedar, pine, timber"
+------> Armenian `մայր` <mayr>: "cedar"
+------> Old Armenian `մայրի` <mayri>: "woods, forest, thicket"
+-------> Armenian `մերի` <meri>: "woods, forest"
+
+-----> Italic
+------> Latin `māteria`: "matter, material, component stuff, timber, source"
+-------> Central Romance
+--------> Italian `matera`: "material" (archaic)
+-------> Western Romance
+--------> Portuguese `madeira`: "wood, timber"
+---------> Portuguese `Madeira`: place name
+----------> English `Madeira`: place name
+-----------> English `madeira` ####
+--------> Spanish `madera`: "wood, board, makings"
+-------> French `matière`: "material, matter, content"
+--------> English `matter`
+-------> Italian `materia`: "matter, material, substance, subject"
+-------> Spanish `materia`: "matter, subject"
+-------> Latin `māteriālis`: "material"
+--------> English `material`
+--------> Russian `материа́л` <materiál>: "material, stuff, fabric"
+---------> Russian `компрома́т` <kompromát>: "compromising or discrediting evidence, dirt"
+----------> English `kompromat`
+
+
+
+--> Early Proto-Indo-European <*méh₂-méh₂->: "mama"
+---> Proto-Indo-European <*méh₂méh₂>
+
+----> Albanian `mëmë`
+
+----> Old Armenian
+-----> Armenian `մամա` <mama>
+
+----> Balto-Slavic
+-----> Lithuanian `mamà`
+-----> Slavic
+------> East Slavic
+-------> Russian `ма́ма` <máma>
+------> South Slavic
+-------> Serbo-Croatian `ма̏ма` <mȁma>
+------> West Slavic
+-------> Polish `mama`
+
+----> Celtic <*mammā>
+-----> Brythonic <*mamm>
+------> Welsh `mam`
+-----?> Brythonic <*Mamkeos?>: "breast-like (hill)?"
+-------> Brythonic <*Mamkenion?>: "place/city of breast-like hill, Manchester"
+--------> Welsh `Manceinion`: "Manchester"
+--------> Latin `Mamucium (Castrum)`: "Manchester (Fort)"
+---------> English `Manchester`
+-----> Old Irish
+------> Irish `mam`
+
+----> Germanic <*mōmǭ>
+-----> North Germanic
+------> Old Norse
+-------> Icelandic `mamma`
+-----> West Germanic
+------> Old English
+-------> English `mama`
+-------> English `mom`
+-------> English `mum`
+-------> Scots `mam`
+------> Old High German
+-------> German `Mama`
+
+----> Hellenic
+-----> Classical Greek `μᾰ́μμη` <mámmē>: "mama, mother's breast"
+------> Greek `μαμά` <máma>
+------> Greek `μάνα` <mána>
+------> Latin `mamma`: "mama, breast"
+-------> Central Romance
+--------> Italian `mamma`
+-------> Eastern Romance
+--------> Romanian `mamă`
+-------> Western Romance
+--------> French `maman`
+-------> English `mammogram`
+-------> Latin `mammalis`: "relating to breasts or nursing"
+--------> Translingual `Mammalia`: "taxonomic class of the mammals"
+---------> English `mammal`
+
+----> Indo-Iranian
+-----> Indo-Aryan
+------> Sanskrit `𑀅𑀫𑁆𑀩𑀸` <ambā́>
+-------> Elu
+--------> Sinhala `අම්මා` <ammā>
+-------> Sauraseni `𑀅𑀁𑀫𑀸` <aṃmā>
+--------> Madhya
+---------> Hindi `अम्मा` <ammā>
+-----> Iranian
+------> Northern Iranian
+-------> Scythian
+--------> Ossetian `мамӕ` <mamæ>
+------> West Iranian
+-------> Old Persian
+--------> Persian `ممه` <mame>: "breast"
+
+----> Tocharian
+-----> Kushean <ammakki>
+
+
+endbody
+
+
+startnotes
+
+
+# Greek and Armenian forms require a different reconstruction than most other branches, notably a different stress pattern. Since the other form is analogous to the words for "father" and "daughter", the guess is that Greco-Armenian retains the older form, and in other dialects <*méh₂ters> changed to <*méh₂tēr> under the influence of <*ph₂tḗr> ("father"), <*dʰugh₂tḗr> ("daughter"), and <*bʰréh₂tēr> ("brother"). <*ph₂tḗr> and <*dʰugh₂tḗr> in turn had their inflection paradigm influenced by the paradigm used by <*méh₂ters> and <*bʰréh₂tēr>.
+
+
+The Balto-Slavic is actually ambiguous and could be derived from either <*méh₂ters> or <*méh₂tēr>. But Balto-Slavic has fewer shared derived characteristics with Greek and Armenian than it does with almost any other branch of IE, so I'm defaulting it to <*méh₂tēr>.
+
+The Anatolian reflex would be be greatly illuminating. Unfortunately, the only attested Anatolian word for "mother" seems to be <*Honno>.
+
+
+## Only attested in the dative plural, because most Celtiberian inscriptions are on objects recording the history of a gift, either to a person, or as a votive offering to a divinity. In this case, <matrubos> is usually in reference to the Divine Mothers. For example <Matribus Termegiste (VSLM)> "The Three Great(est) Mothers (this vow has been willingly and properly fulfilled)" (Latinized Celtiberian in Spain, Celtic Triple Goddess).
+
+See also Gaulish word for "sister" only attested in the dative dual
+
+
+### The English usage of `alma mater` to mean the school one graduated from is derived from the motto of the University of [Bologna|bee]: "Alma Mater Studiorum". University of Bologna has been in continuous operation (since 1088), and is the institution for whom the word `university` (or rather `ūniversitās`) was coined. Alumni of Bologna include Copernicus, Petrarch, and Paracelsus. (`alumnus` is related to `alma`, and means "the one who is nourished, foster child, student".)
+
+
+
+#### <madeira>: "The wine from the island with all the stuff". Compare <canary>: "The birds from the island with all the dogs", from another archipelago in the region.
+
+
+endnotes
+

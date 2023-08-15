@@ -1,0 +1,478 @@
+date: 20180518
+theme: kinship terms 👨‍👩‍👧‍👧
+tags: Divinities, Family
+
+
+Teaser: father, pastor, food, pants, Pan
+
+startbody
+
+Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
+
+-> Proto-Indo-European <*péh₂-ti> (primary verb form)
+
+--> Indo-Iranian <*pā́ti>
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀸𑀢𑀺` <pā́ti>: "to watch, to keep, to protect, to rule"
+---> Iranian <*pāta->
+----> Avestan `𐬞𐬁𐬝` <pāt̰>: "protects"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `payîn`: "to wait, to anticipate"
+-----> Old Persian `𐎱𐎠𐎮𐎹` <p-a-di-y>: "you protect"
+------> Persian `پاییدن` <pâyidan>: "to protect, to guard, to watch, to wait, to stand firm
+----> Iranian <*āpāta->
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Kurdish `ava`: "built, inhabited, flourishing"
+------> Old Persian
+-------> Persian `آباد` <ābād>: "city, habitation, cultivated land, good"
+--------> Persian `حیدرآباد` <hīdrābād>: "Lion City, City of Caliph Ali the Lionheart, Hyderabad"
+---------> Hindi `हैदराबाद` <haidrābād>: "Hyderabad"
+----------> English `Hyderabad`
+
+
+-> Proto-Indo-European<*péh₂s-ti> (se- verb form)
+
+--> Anatolian
+---> Hittite `𒉺𒀪𒊭` <pa-aḫ-ša>: "protect, guard"
+
+--> Balto-Slavic
+---> Slavic <*pastì>: "to keep in pasture, to herd"
+----> East Slavic
+-----> Russian `пасти́` <pastí>: "to graze, to pasture, to herd"
+----> South Slavic
+-----> Serbo-Croatian `па̏сти` <pȁsti>: "to graze"
+----> West Slavic
+-----> Polish <paść>: "to feed, to graze"
+---> West Slavic
+----> Old Prussian `posty`: "pasture" 
+
+
+--> Proto-Indo-European <*peh₂séh₁ye-ti>: "~to be watched over" (stative of se- form)
+
+---> Italic <*pāzēō>
+----> Latin `pāreō`: "I am watched, I am visible, I appear, I obey, I am obedient to"
+-----> Eastern Romance
+------> Romanian `a părea`: "to look, to appear, to seem"
+-----> Western Romance
+------> French `paraître`: "to appear, to be published, to seem"
+------> Italian `parere`: "to look, to seem, to think (of), to sound (like)"
+------> Spanish `parecer`: "to seem, to believe, to think"
+-----> Latin `appāreō`
+------> English `appear`
+------> Latin `apparēns`
+-------> English `apparent`
+-----> Latin `compāreō`
+------> English `compare`
+-----> Latin `trānspāreō`
+------> English `transparent`
+
+
+-> Proto-Indo-European <*ph₂sḱé-ti> (iterative)
+
+--> Albanian `pashë`: "to watch, to observe"
+
+--> Italic <*pāskō>: "to feed, to pasture"
+---> Latin `pāscō`: "I feed, I nourish, I support, I pasture, I attend, I supply, I cultivate, I graze, I feed, I feast"
+----> Sardinian `paschi`
+----> Eastern Romance
+-----> Romanian `a paște`: "to graze, to feed, to pasture"
+----> Western Romance
+-----> French `paître`: "to graze"
+-----> Italian `pascere`: "to graze, to graze on"
+-----> Spanish `pacer`: "to graze, to pasture, to nibble, to gnaw"
+
+---> Italic <*pāstos>
+----> Latin `pāstus`: "fed, pastured"
+-----> Western Romance
+------> Italian `pasto`: "meal"
+-------> Italian `antipasto`: "appetizer" (lit. "before-meal")
+--------> English `antipasto`
+------> Spanish `pasto`: "pasture, lawn, grass"
+---?> Italic <*pastnis>
+-----> Latin `pānis`: "bread, loaf, food, nourishment" (most descendants from the accusative: <panem>)
+------> Sardinian `pani`: "bread"
+------> Eastern Romance
+-------> Romanian `pâine`: "bread"
+------> Western Romance
+-------> Old French
+--------> French `pain`: "bread, block (of ice, soap, etc.)"
+--------> Old French `paneterie`: "bread-baking, storeroom for bread, sale of bread"
+---------> English `pantry`
+-------> Italian `pane`: "bread, block (of butter)"
+-------> Portuguese `pão`: "bread, food"
+--------> Hindi `पाव` <pāv>: "bread"
+--------> Japanese `パン` <pan>: "bread"
+---------> Korean `빵` <ppang>: "bread"
+--------> Thai `ปัง` <bpang>: "bread"
+-------> Spanish `pan`: "bread, money, work"
+--------> Navajo `bááh`: "(leavened) bread"
+
+-----> Latin `pastura`: "pasture, grazing ground"
+------> Eastern Romance
+-------?> Romanian `păstură`: "pollen ball, bee bread"
+------> Western Romance
+-------> Old French `pasture`
+--------> French `pâture`: "livestock feed, pasture"
+--------> English `pasture`
+-------> Italian `pastura`: "grazing, pasture, (fishing) bait"
+-------> Spanish `pastura`: "pasture, grassland"
+
+----> Latin `pāstor`: "shepherd"
+-----> Eastern Romance
+------> Romanian `păstor`: "shepherd"
+-----> Western Romance
+------> French `pâtre`: "shepherd, herdsman"
+------> Italian `pastore`: "shepherd, minister, pastor"
+------> Spanish `pastor`: "shepherd, herder, pastor, priest"
+-----> French `pasteur`: "shepherd, pastor" (re-borrowing)
+------> English `pastor`
+------> French `Pasteur`: given name and surname
+-------> French `pasteuriser`: "to pasteurise" (after Louis Pasteur)
+--------> English `pasteurise`
+
+----> Latin `repāscō`: "to feed regularly"
+-----> Western Romance
+------> Old French `repaistre`: "to eat"
+-------> French `repaître`: "to feed, to eat" (archaic)
+-------> Old French `repast`
+--------> French `repas`: "meal"
+--------> English `repast`
+
+--> Tocharian <*pāsk->
+---> Arshian <pās->: "to look after, to guard, practice moral behavior"
+----> Arshian <papāṣṣorñe>: "(moral) behavior"
+
+
+-> Proto-Indo-European <*poh₂téye-ti> (causative)
+
+--> Germanic <*fōdijaną>: "to feed"
+---> East Germanic
+----> Gothic `𐍆𐍉𐌳𐌾𐌰𐌽` <fōdjan>
+---> North Germanic
+----> Old Norse `fœða`: "to feed, to nourish, to raise, to give birth"
+-----> Danish `føde`: "feed, support, bear"
+-----> Icelandic `fæða`: "to give birth to, to feed, to nourish"
+---> West Germanic
+----> Old English `fēdan`: "to feed"
+-----> English `feed`
+----> Frankish <*fuoden>
+-----> Dutch `voeden`: "to feed"
+
+--> Hellenic
+---> Classical Greek `πατέομαι` <patéomai>: "to eat"
+
+
+-> Proto-Indo-European <*poh₂mn̥>
+
+--> Hellenic
+---> Classical Greek `πῶμα` <pôma>: "lid, cover"
+
+
+-> Proto-Indo-European <*poh₂imn̥>
+
+--> Balto-Slavic
+---> Lithuanian `piemuõ`: "shepherd"
+---> Finnish `paimen`: "shepherd"
+
+--> Hellenic
+---> Mycenaean `𐀡𐀕` <po-me>: "shepherd"
+---> Classical Greek `ποιμήν` <poimḗn>: "shepherd, herdsman"
+
+
+-> Proto-Indo-European <*poh₂yus>
+
+--> Hellenic
+---> Classical Greek `πῶῠ` <pôu>: "flock of sheep"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀸𑀬𑀼` <pāyú>: "guard, protector"
+---> Iranian
+----> Avestan `𐬞𐬁𐬌𐬌𐬎` <pāiiu>: "shepherd, protector"
+
+
+?> Proto-Indo-European <*Péh₂usōn>: "possible name of a god: The Provider? The Nourisher? The Herdsman?"
+
+-?> Hellenic
+---> Classical Greek `Πᾱ́ν` <Pā́n>: "Pan, Greek god of shepherds and nature"
+----> Latin `Pan`: "Pan"
+-----> English `Pan`
+-----> Translingual `Pan`: "taxonomic genus of chimpanzees"
+----> Classical Greek `πανικός` (panikós): "to do with Pan, especially sudden noises he makes from the woods"
+-----> Greek `πανικός` <panikós>
+-----> Latin `panicus`
+------> Eastern Romance
+-------> Romanian `panică`
+------> Western Romance
+-------> French `panique`: "panic, panicked"
+--------> English `panic`
+---------> Japanese `パニック` <panikku>: "panic"
+--------> Swedish `panik`: "panic"
+---------> Finnish `paniikki`: "panic"
+-------> Italian `panico`: "panic, relating to Pan"
+-------> Spanish `pánico`: "panic"
+
+-?> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀽𑀱𑀦` <Pūṣan>: "Pushan, Vedic god of marriage, journeys, and rich pastures"
+
+
+-> Proto-Indo-European <*peh₂tro>
+
+--> Old Armenian `հաւրան` <hawran>: "sheepfold, herd"
+
+--> Indo-Iranian
+---> Iranian <*pāθra->
+----> Avestan `𐬞𐬁𐬚𐬭𐬀` <pāθra>: "ward, protective"
+----> Western Iranian
+-----> Old Persian
+------> Persian `پاس‎` <pâs>: "guard, watch"
+
+
+-> Proto-Indo-European <*peh₂dʰrom> (instrumental)
+
+--> Balto-Slavic
+---> Slavic
+----> West Slavic
+-----> Polish `pudło`: "box"
+
+--> Germanic <*fōdrą>: "fodder, sheath" #
+---> East Germanic
+----> Gothic `𐍆𐍉𐌳𐍂` <fōdr>: "sheath"
+---> North Germanic
+----> Old Norse `fóðr`: "fodder, sheath"
+-----> Danish `for`: "lining"
+-----> Danish `foder`: "feed, fodder"
+-----> Icelandic `fóður`: "fodder"
+----> Finnic <*hootra>
+-----> Finnish `huotra`: "sheath, scabbard"
+---> West Germanic
+----> Old English `fōdor`: "fodder, sheath"
+-----> English `fodder`
+----> Frankish <*fōdar>
+-----> Dutch `voer`: "fodder, (inferior) food"
+-----> Dutch `voder`: "lining, load, freight"
+-----> Old French `fourage`
+------> French `feurre`: "hay, straw"
+------> English `forage`
+----> Old High German `fuotar`
+-----> German `Futter`: "fodder, lining"
+-----> Italian `fodero`: "scabbard, sheath, holster"
+
+
+--> Italic
+---> Latin `pābulum`: "food, sustenace, fodder, pasture, food for thought"
+----> Eastern Romance
+-----> Romanian `plaur`: "floating islet made of decaying grass, reeds, bent, or driftwood"
+----> Western Romance
+-----> Spanish `pábulo`: "fodder, pabulum"
+----> English `pabulum`
+
+
+-> Proto-Indo-European <péh₂dō>
+
+--> Germanic <*fōdô>: "food, nourishment"
+---> North Germanic
+----> Old Norse `fœða`: "food" (merges to a homonym with <fœða> from <*fōdijaną>: "feed" in Old Norse and all descendants)
+-----> Danish `føde`: "food"
+-----> Icelandic `fæða`: "food"
+---> West Germanic
+----> Old English `fōda`: "food"
+-----> English `food`
+-----> Scots `fuid`: "food"
+
+
+-> Proto-Indo-European <*peh₂n(e)ts> ##
+
+-?> Hellenic
+---> Mycenaean Greek `𐀞𐀯` <pa-si>: "all of, all"
+---> Classical Greek `πᾶς` <pâs>: "all, every, whole" ##
+----> Greek `παν` <pan>: "the universe, everything"
+----> English `pan(t)-`
+----> Classical Greek `παντόμιμος` <pantómimos>: "pantomine performer" ####
+-----> Latin `pantomīmus`: "pantomime performer"
+------> English `pantomime`
+-------> English `panto`
+----> Byzantine Greek `Παντελεήμων` <Panteleímon>: "All-Compassionate" (name of a saint)
+-----> English `(Saint) Pantaleon`
+----?> Italian `Pantalone` ###
+------> French `pantalon`: "trousers, pants"
+-------> English `pantaloon(s)`: "Aging buffoon, pants, trousers"
+--------> English `pants`
+---------> Japanese `パンツ` <pantsu>: "underpants, pants"
+----------> Mandarin `胖次` <pàngcì>: "underpants, panties"
+---------> English `panties`
+-------> Italian `pantalone`: "trousers, pantsuit"
+-------> Spanish `pantalón`: "trousers, pants"
+
+--> Italic <*penets>
+---> Latin `penes`: "stores of food, something under one's governance, something at one's disposal, concerning, within"
+----> Latin `(Di) Penates`: "Household Gods"
+----> Latin `penitus`: "inner, inward, inside, inwardly, thoroughly"
+-----> Latin `penētrō`: "I enter into, I penetrate"
+------> Eastern Romance
+-------> Romanian `a pătrunde`: "to penetrate, to permeate, to perceive, to understand"
+------> Western Romance
+-------> Italian `penetrare`: "to penetrate, to soak in, to permeate"
+-------> French `pénétrer`: "to enter, to penetrate, to see through"
+------> English `penetrate`
+--?> Italic <*pastnis>
+
+-?> Tocharian
+---> Arshian <po>: "all, everything, complete" ##
+
+
+?> Proto-Indo-European <*ph₂tḗr>: "father" (lit. "protector and/or provider")
+
+--> Old Armenian `հայր` <hayr>
+---> Armenian `հայր` <hayr>
+
+--> Celtic <*ɸatīr>
+---> Gaulish `ater`: "father"
+----> Gaulish `gutuater`: "priest (of some kind?)"
+---> Old Irish `athir`
+----> Irish `athair`
+
+--> Germanic <*fadēr>
+---> East Germanic
+----> Gothic `𐍆𐌰𐌳𐌰𐍂` <fadar>
+---> North Germanic
+----> Old Norse `faðir`
+-----> Danish `far`
+-----> Icelandic `faðir`
+---> West Germanic
+----> Old English `fæder`
+-----> English `father`
+-----> Scots `faither`
+----> Frankish `fader`
+-----> Dutch `vader`
+----> Old High German `fater`
+-----> German `Vater`
+-----> Yiddish `פֿאָטער` <foter>
+
+--> Hellenic <*patḗr>
+---> Mycenaean Greek `𐀞𐀳` <pa-te>
+---> Classical Greek `πατήρ` <patḗr>
+----> Greek `πατήρ` <patír>
+----> Classical Greek `Κλεοπᾰ́τρᾱ` <Kleopátrā>: "Glory-of-Father (personal name)"
+-----> Latin `Cleopatra`
+------> English `Cleopatra`
+----> Classical Greek `πᾰτρῐᾰ́ρχης` <patriárkhēs>: "patriarch"
+-----> Coptic `ⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ` <patriarkhēs>: "patriarch"
+-----> Latin `patriarcha`: "patriarch"
+------> Old English `patriarcha`
+-------> English `patriarch`
+----> Classical Greek `πᾰτρῐ́ς` <patrís>: "home land, fatherland, native city"
+-----> Greek `πατρίδα` <patrída>: "fatherland, birth place"
+-----> Classical Greek `πατριώτης` <patriṓtēs>: "countryman, fellow citizen"
+------> Latin `patriōta`: "countryman, fellow citizen"
+-------> Western Romance
+--------> French `patriote`: "patriot"
+---------> English `patriot`
+--------> Italian `patriota`: "patriot"
+--------> Spanish `patriota`: "patriot"
+-------> Vulgar Latin <*compatriōta>
+--------> Western Romance
+---------> French `compatriote`: "compatriot, fellow citizen"
+----------> English `compatriot`
+
+--> Indo-Iranian <*pHtā́>
+---> Indo-Aryan
+----> Sanskrit `𑀧𑀺𑀢𑀾` <pitṛ́>
+-----> Sauraseni `𑀧𑀺𑀉` <piu>
+------> Madhya
+-------> Hindi `पिउ` <piu>
+-----> Bengali `পিতা` <pita>
+-----> Hindi `पिता` <pitā>
+-----> Punjabi `ਪਿਤਾ` <pitā>
+-----> Telugu `పిత` <pita>
+---> Iranian <*pHtā́>
+----> Avestan `𐬞𐬌𐬙𐬀𐬭` <pitar>
+-----> Pashto `پلار` <plār>
+-----> Scythian
+------> Ossetian `фыд` <fyd>
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `pya`: "man"
+-----> Old Persian `𐎱𐎡𐎫𐎠` <pitā>
+------> Persian `پدر` <pedar>
+
+--> Italic <*patēr>
+---> Latin `pater`
+----> Western Romance
+-----> French `père`
+-----> Italian `padre`
+-----> Spanish `padre`
+----> Romanian `pater`: "term of address for a priest"
+---> Oscan `𐌐𐌀𐌕𐌝𐌓` <patír>
+----> Latin `patrōnus`: "protector, patron, role model"
+-----> Western Romance
+------> French `patron`: "boss, employer, pattern"
+-------> English `patron`
+-------> English `pattern`
+------> Italian `padrone`: "master, landlord, host, employer"
+------> Spanish `patrón`: "protector, boss, patron, pattern"
+-----> English `patronus`
+-----> Italian `patrono`: "patron saint, benefactor, patron"
+-----> Spanish `padrón`: "census"
+-----> Spanish `patrono`: "patron saint, patron, host, employer"
+----> Latin `compater`: "first cousin, godfather of one's child" ("co-father")
+-----> Western Romance
+------> French `compère`: "partner, accomplice, godfather of one's child"
+-------> English `compere`
+------> Italian `compare`: "godfather of one's child, best man, old friend, accomplice"
+------> Spanish `compadre`: "godfather of one's child, friend"
+-------> English `compadre`
+----> Latin `Pater noster`: "the Lord's Prayer (Our Father)"
+-----> Old Czech `páteř`: "Lord's Prayer, rosary"
+------> Czech `páteř hřbetní`: "spine, vertebra" (lit. "back rosary")
+-------> Czech `páteř`: "spine, vertebra"
+------> Polish `pacierz`: "Lord's Prayer, prayer"
+-------> Polish `paciorek`: "rosary, bead"
+-----> English `paternoster`
+
+--> Mysian `πατριζι` <patrizi>: "fathers" (only attested in the plural)
+
+--> Phrygian `πατερης` <pateres>: "fathers" (only attested in the plural)
+
+--> Tocharian <*pācer>
+---> Arshian <pācar>
+---> Kuchean <pācer>
+
+
+--> Proto-Indo-European <ph₂trwós>: "paternal uncle" (lit. "father-like")
+
+---> Old Armenian `յաւրայ` <yawray>: "stepfather"
+----> Armenian `հորու` <horu>: "stepfather"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀧𑀺𑀢𑀾𑀯𑁆𑀬` <pitṛvyá>: "paternal uncle, older male relative"
+
+--> Proto-Indo-European <ph₂trós>: "father-like"
+
+---> Hellenic
+----> Classical Greek `πάτρως` <pátrōs>: "paternal uncle"
+
+---> Italic
+----> Latin `patruus`: "paternal uncle"
+
+
+endbody
+
+startnotes
+
+# Though "fodder" and "sheath" are very different from each other, they are both instruments of taking care of something.
+
+## If Greek <pâs/pân/pánta/etc. meaning "all, universal" is related to Arshian <po>/<pone>/<pontaṃts>/etc. meaning "all, universal" (and it's compelling to think they are) the PIE form would be <*peh₂nts> which is almost the same as the ancestral form <*peh₂nets> indicated by Latin `penes`/`penitus` meaning "store of food". The semantic ancestor would presumably be "that which is watched over", with the semantic divergence to "visible" and "feeding" that appears (ha!) throughout the family.
+
+### Pantalone is the satirical representation of the rich and powerful in commedia dell'arte, and appears as an old man who wears trousers because his legs have gotten too skinny to hold up his hose.
+
+"All the World's a Stage"/"The Seven Ages of Man" monologue in _As You Like It_ (William Shakespeare) says:
+"The lean and slippered pantaloon [...] His youthful hose, well saved, a world too wide for his shrunk shank".
+
+#### Greek `παντόμιμος` <pantómimos>: "pantomine performer", literally "mimic/actor of all". An actor who performs a complete story by themselves, taking on different roles with masks and body posture.
+
+endnotes
