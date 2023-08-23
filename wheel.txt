@@ -120,7 +120,7 @@ Proto-Indo-European
 -----> Latin `polus`: "pole (of an axis)"
 ------> Old French `pole`
 -------> French `pôle`
--------> English `pole`######
+-------> English `pole`! ######
 
 
 --> Proto-Indo-European <*kʷl̥h₁tós>: "turned" (adjective)
@@ -131,7 +131,7 @@ Proto-Indo-European
 ------> English `cult`
 -----> Latin `cultūra`: "care, cultuivation, agriculture, culture"
 ------> French `culture`
--------> English `culture`
+-------> English `culture`!
 ------> Italian `cultura`
 ------> Spanish `cultura`
 ------> Latin `agricultūra` ("field-cultivation")
@@ -180,7 +180,7 @@ Proto-Indo-European
 ----------> Central Romance
 -----------> Italian `Galileo`: "Personal name: Galilean, Christian"
 ------------> Italian `Galileo Galilei`
-------------> English `Galileo`
+------------> English `Galileo`!
 -------------> English `Galilean`
 --------------> English `Galilean moon`
 ------------> Italian `Galilei`: "Surname: son of or descendant of Galileo"
@@ -205,7 +205,7 @@ Proto-Indo-European
 --------> Icelandic `reiðhjól`: "bicycle"
 -----> West Germanic
 ------> Old English `hwēol`: "wheel"
--------> English `wheel`
+-------> English `wheel`!
 ------> Frankish <*wiol>
 -------> Dutch `wiel`: "wheel"
 
@@ -214,7 +214,7 @@ Proto-Indo-European
 -----> Greek `κύκλος` <kýklos>: "circle, cycle, course"
 -----> Latin `cyclus`: "circle, cycle"
 ------> French `cycle`
--------> English `cycle`
+-------> English `cycle`!
 --------> Japanese `サイクル` <saikuru>: "cycle, bicycle"
 -------> French `bicycle`
 --------> French `bicyclette`
@@ -289,17 +289,58 @@ Proto-Indo-European
 ------> Old French `col`
 -------> French `cou`: "neck"
 -------> French `col`: "collar, neck (of a vase, etc.)"
+--------> English `col`
 ------> Spanish `cuello`: "neck, collar"
 -----> Latin `collāris`: "of the neck, collared"
 ------> Old French `coler`
 -------> French `colier`
--------> English `collar`
+-------> English `collar`!
 --------> Irish `coiléar`: "collar, truss"
 
 
 --> Proto-Indo-European <*kʷolh₁sos>
 
 --?> Germanic <*halsaz>: "neck" ##
+----> East Germanic
+-----> Gothic `𐌷𐌰𐌻𐍃` <hals>: "neck"
+----> North Germanic
+-----> Old Norse `hals`: "neck"
+------> Danish `hals`: "neck, throat"
+------> Icelandic `háls`: "neck, throat, a person (metonymically)"
+----> West Germanic
+-----> Old English `heals`: "neck, prow of a ship"
+------> English `halse`
+------> English `hause`
+------> English `hawse`
+------?> English `hawser` (partly, but mostly from Norman `haucier`=nrf-Latn: "to raise, to lift" from `altus`=lat-Latn)
+------> Scots `hause`
+-------> Scots `hausebane`: "collar bone" #########
+-----> Frankish <*hals>
+------> Dutch `hals`: "neck, throat"
+-----> Old High German `hals`
+------> German `Hals`: "neck, throat"
+------> Yiddish `האַלדז` <haldz>: "neck"
+
+----> Germanic <*frijahalsaz>: "free, unconstrained, freedom, liberty" (lit. "free-neck")
+-----> East Germanic
+------> Gothic `𐍆𐍂𐌴𐌹𐌷𐌰𐌻𐍃` <freihals>: "freedom, liberty"
+-----> North Germanic
+------> Old Norse `frjáls`
+-------> Icelandic `frjáls`: "free"
+-------> Old Norse `frelsa`: "to free, to rescue"
+--------> Danish `frelse`: "to save, to rescue, to redeem"
+-----> West Germanic
+------> Old English `frēols`: "freedom, privilege, immunity, peace, festival day"
+------> Old High German `frīhals`: "freedom, liberation"
+
+----> Germanic <*halsōną>: "to neck, to embrace"
+-----> North Germanic
+------> Old Norse `halsa`
+-------> Swedish `halsa`: "to chug"
+-----> West Germanic
+------> Old English <*healsian>
+-------> Middle English `halsen`: "to embrace"
+
 
 
 
@@ -313,7 +354,7 @@ Proto-Indo-European
 ------> Coptic `ⲡⲁⲗⲓⲛ` <palin>: "again"
 ------> Classical Greek `πᾰλῐ́μψηστος` <palímpsēstos>: "re-scraped"
 -------> Latin `palimpsēstus`: "manuscript scraped clean for re-use, palimpsest"
---------> English `palimpsest`
+--------> English `palimpsest`!
 
 
 --> Proto-Indo-European <?>
@@ -389,7 +430,7 @@ Proto-Indo-European
 ------> Icelandic `hleifur`: "loaf (of bread)"
 ----> West Germanic
 -----> Old English `hlāf`: "bread, loaf"
-------> English `loaf`
+------> English `loaf`!
 ------> Scots `laif`
 ------> Old English `hlǣfdīġe`: "mistress of a household" (lit. "bread-kneader")
 -------> English `lady`
@@ -420,7 +461,7 @@ endbody
 
 startnotes
 
-# Sumerian `𒇀`=sux-Xsux <GIGIR>: "chariot" and/or Hebrew `גלגל`=heb-Hebr <gálgal>: "wheel" may derive from IE introduction of the chariot, but it is far from certain. (Galilee and Galileo 
+# Sumerian `𒇀`=sux-Xsux <GIGIR>: "chariot" and/or Hebrew `גלגל`=heb-Hebr <gálgal>: "wheel" may derive from IE introduction of the chariot, but it is far from certain. 
 
 
 ## Words for "neck" are thought to come from this root via the concept of "thing that turns (your head)". Compare Armenian `պարանոց`=hye-Armn <paranocʿ>: "neck" which is understood to be <paranim>: "to turn" plus <-ocʿ> which derives tool nouns: "thing used for turning".
@@ -468,6 +509,10 @@ Tibetan also has `འཁོར`=bod-Tibt <'khor>: "to turn around, to spin, to g
 
 (He was probably natively `Cristoffa Corombo`=lij-Latn. In any case the family name meant "dove".)
 
+######### Scots `hausebane`: "collar bone" (note cognate `collar`=eng-Latn), as in "Ye’ll sit on his white hause-bane,/And I’ll pike out his bonny blue een./Wi’ ae lock o’ his gowden hair,/We’ll theek our nest when it grows bare."
+
 
 endnotes
+
+
 
