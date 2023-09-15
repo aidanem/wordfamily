@@ -1,0 +1,369 @@
+date: 20230915
+tags: DnD, Food
+
+
+startintro
+
+Dragon tears.
+
+The etymology of `dragon`=eng-Latn (Classical Greek `δράκων`=grc-Grek <drákōn>) is not certain, but is traditionally linked to `δέρκομαι`=grc-Grek <dérkomai>: "to see, to watch".
+
+"Derkomai…really?" Not so odd: the aorist active participle masculine of `δέρκομαι`=grc-Grek <dérkomai> is `δρακών`=grc-Grek <drakṓn>—the only difference from `δράκων`=grc-Grek <drákōn> is the placement of the accent. A substantive use of the aorist active participle could be translated as "he who watches, he who stares". It's unclear if the Athenian lawgiver Draco/Δρακων from whom we get the word "draconian" is named "Dragon" or "Watcher"
+
+The same root—<*derḱ->—appears in the compound <*dr̥ḱ-h₂eḱru>: "tear". [wff-edge|<*h₂eḱru>, while literally meaning "bitter" or "sting"], seems to have meant "tear" on its own at an early stage. This is preserved in Anatolian, Tocharian, Baltic, and Indo-Iranian. In Armenian, Hellenic, Germanic, Celtic, and Italic, the compound form is preserved instead <*dr̥ḱ-h₂eḱru> (haplologized to <*drh₂éḱru>, <*dh₂éḱru>), interpretable as "eye-tears", "eye-stings", or "bitter-eyes".
+
+The word <*drh₂éḱru> has had a very unstable plural, due to the combination of the unusual stem ending and the semantics of "tear(s)" easily falling into plurale tantum territory:
+Both Welsh and Classical Greek re-derived a singular from the collective <*dáḱruh₂>: `deigryn`=cym-Latn and `δάκρυον`=grc-Latn <dákruon>
+ Armenian `արցունք`=hye-Armn <arcʿunkʿ> is derived from the Old Armenian `արտասուք`=xcl-Armn <artasukʿ>: "tears"; the Old Armenian singular `արտօսր`=xcl-Armn <artōsr> also has an unexpected <s> copied from the plural
+In Germanic <*tahrą>, the difference in stressed syllable triggered Verner's Law only in the plural form giving singular stem <*tahr-> (really /taxr-/) but plural stem <*tagr-> (really /taɣr-/). East Germanic levelled the stem to <*tagr->, while North and West levelled the stem to <*tahr->.
+
+
+
+endintro
+
+
+
+startbody
+
+
+Proto-Indo-European <*derḱ->: "to see, eye"
+
+
+-> Proto-Indo-European <*dérḱeti> (imperfective)
+
+--> Hellenic
+---> Classical Greek `δέρκομαι` <dérkomai>: "to see, to watch, to gleam" (3P <dérketai>)
+----> Classical Greek `δρακών` <drakṓn> (aorist active participle masculine, "watching"/"having watched"/"he who watches")
+----?> Classical Greek `δράκων` <drákōn>: "dragon, serpent" (oblique steam <drákont->)
+------> Greek `δράκοντας` <drákontas>: "dragon"
+------> Byzantine Greek `δράκος` <drákos>
+-------> Greek `δράκος` <drákos>: "dragon, monster"
+------> Coptic `ⲇⲣⲁⲕⲱⲛ` <drakōn>: "dragon, serpent"
+------> Hebrew `דרקון` <drakón>: "serpent, dragon"
+-------> Yiddish `דראַקאָן` <drakon>: "dragon"
+
+------> Latin `drāco`: "dragon, serpent" (acc. `dracōnem`=lat-Latn)
+-------> Central Romance
+--------> Italian `drago` (from the nom.)
+--------> Italian `dragone` (from the acc.)
+--------> Sicilian `dragu`
+---------> Maltese `dragun`: "dragon, dragoon"
+--------> Pre-Albanian <*dragɔ̄n>
+---------> Albanian `dragua`: "dragon, hero, dragon-slayer"
+-------> Insular Romance
+--------> Sardinian `dragone`
+-------> Eastern Romance
+--------> Romanian `drac`: "devil" (definite form: `dracul`=ron-Latn)
+---------> English `Dracula`!
+--------> Pre-Albanian <*drak>
+---------> Albanian `dreq`: "devil"
+-------> Western Romance
+--------> Spanish `drago`: "dragon tree" (from the nom.)
+--------> Spanish `dragón`: "dragon, dragoon"
+-------> Old French `dragon`
+--------> French `dragon`: "dragon, dragoon"
+---------> English `dragoon`
+---------> Swedish `dragon`: "dragoon, tarragon"
+----------> Finnish `rakuuna`: "dragoon"
+--------> English `dragon`!
+---------> Japanese `ドラゴン` <doragon>: "(Western) dragon"
+--------> Irish `dragan`: "dragon, tarragon"
+
+-------> Yiddish `דראַקאָן` <drakon>: "dragon"
+
+-------> Brythonic <*drėg>
+--------> Welsh `draig`: "dragon"
+---------> Welsh `Y Ddraig Goch`: "The Red Dragon (on the flag of Wales)"
+
+-------> West Germanic <*drakō> ####
+--------> Old English `draca`: "dragon"
+---------> English `drake`
+--------> Frankish <*draka>
+---------> Dutch `draak`: "dragon"
+--------> Old High German `trahho`
+---------> German `Drache`: "dragon" (re-modelled to Latin, supported by Central German dialect forms without the d > t change)
+----------> Czech `drak`: "dragon, kite, glider"
+--------> Old Saxon
+---------> Old Norse `dreki`: "dragon, dragon ship (drakkar)"
+----------> Danish `drage`: "dragon, kite, hang-glider, dragon ship"
+----------> Icelandic `dreki`: "dragon"
+----------> Swedish `drake`: "dragon, kite, dragon ship" (pl. `drakar`=swe-Latn)
+-----------> French `drakkar`
+------------> English `drakkar`
+
+-------> English `Draco`
+
+-------> Translingual `Draco`: "taxonomic genus of gliding lizards"
+
+-------> Latin `dracunculus`
+--------> Western Romance
+---------> Old French `draoncle`: "a sore, a boil"
+----------> Old French `(d)raoncler`
+-----------> English `rankle`!
+
+
+
+------> Classical Greek `δράκαινα` <drákaina>
+-------> Latin `dracaena`
+--------> Central Romance
+---------> Italian `tracina`
+--------> Translingual `Dracaena`: "taxonomic genus of dragon trees, taxonomic genus of caiman lizards"
+
+------> Classical Greek `δρακόντιον`: "edder-wort, dragonwort"
+-------> Arabic `طرخون` <ṭarḵūn>: "tarragon" (different plant with similar snakey leaves)
+--------> Italian `targone`: "tarragon"
+--------> Medieval Latin `tragum`
+---------> Middle French
+----------> French `estragon`
+-----------> Greek `εστραγκόν` <estragkón>: "tarragon"
+-----------> Spanish `estragón`: "tarragon"
+----------> English `tarragon`!
+----------> Swedish `dragon`: "dragoon, tarragon"
+--------> Persian `ترخون` <tarxun>: "tarragon"
+---------> Armenian `թարխուն` <tʿarxun>: "tarragon"
+---------> Georgian `ტარხუნა` <ṭarxuna>: "tarragon"
+--------> Ottoman Turkish `طرخون` <tarhun>: "tarragon, alecost"
+---------> Turkish `tarhun`: "tarragon"
+---------> Romanian `tarhon`: "tarragon"
+
+-----?> Classical Greek `Δράκων` <Drákōn>: "personal name: Dragon?, Watcher?"
+----?> Classical Greek `Δράκων` <Drákōn>: "personal name: Dragon?, Watcher?"
+------> Latin `Draco`
+-------> Latin `draconianus`
+--------> English `draconian`
+
+
+-> Proto-Indo-European <*dr̥ḱeti> (variant imperfective)
+
+--> Celtic <*driketi>
+---> Celtic <*ati-driketi> ("again-see")
+----> Brythonic <*ėddrɨxɨd>
+-----> Welsh `edrych`: "to look"
+
+
+-> Proto-Indo-European <*dedórḱe> (reduplicative stative)
+
+--> Celtic <*-dark->
+---> Celtic <*ad-kom-dark-> ("toward-with-see")
+----> Old Irish `ad·condairc`: "saw" (suppletive perfect of `ad·cí`=sga-Latn)
+-----> Irish `chonaic`: "saw" (suppletive past of `feic`=gle-Latn)
+
+--> Hellenic
+---> Classical Greek `δέδορκα` (perfect of <dérkomai>)
+
+--> Indo-Iranian < *dadárća>
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀤𑀭𑁆𑀰` <dadárśa>: "saw" (suppletive perfect of <páśyati>)
+---> Iranian
+----> Avestan `𐬛𐬁𐬛𐬀𐬭𐬆𐬯𐬀` <dādarᵊsa>
+
+
+-> Proto-Indo-European <*dorḱéyeti> (causative)
+
+--> Germanic <*tarhijaną>
+---> East Germanic
+----> Gothic `(𐌲𐌰)𐍄𐌰𐍂𐌷𐌾𐌰𐌽` <(ga)tarhjan>: "to mark, to note, to draw attention to"
+
+--> Indo-Iranian <*darćáyati>
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀭𑁆𑀰𑀬𑀢𑀺` <darśayati>: "to show, to demonstrate, to make seen, to pay for"
+-----> Pali `𑀤𑀲𑁆𑀲𑁂𑀢𑀺` <dasseti>
+-----> Sauraseni `𑀤𑀲𑁆𑀲𑁂𑀤𑀺` <dassedi>
+------> Northwestern Sauraseni
+-------> Punjabi `ਦੱਸਣਾ` <dassaṇā>: "to tell, to explain, to show"
+-----> Hindi `दर्शाना` <darśānā>: "to show, to exhibit"
+
+
+
+-> Proto-Indo-European <*dr̥ḱtós>: "seen, visible" (adjective)
+
+--> Germanic <*turhtaz>: "bright, clear, well-lit"
+---> West Germanic
+----> Old English `torht`: "bright, radiant, glorious"
+----> Old High German `zoraht`: "bright, clear"
+
+--> Indo-Iranian <*dr̥štás>: "seen, visible, apparent"
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀾𑀱𑁆𑀝` <dṛṣṭá>: "visible, apparent, seen, noticed"
+-----> Magadhi
+------> Assamese `দিঠক` <dithok>: "reality"
+-----> Pali `𑀤𑀺𑀝𑁆𑀞` <diṭṭha>: "seen"
+------> Pali `𑀤𑀺𑀝𑁆𑀞𑀥𑀫𑁆𑀫` <diṭṭhadhamma>: "the visible world, the mortal world"
+---> Iranian
+----> Avestan `𐬛𐬆𐬭𐬆𐬱𐬙𐬀` <dərᵊšta>
+
+
+-> Proto-Indo-European <*dr̥ḱtis>: "sight, seeing" (abstract action noun)
+
+--> Albanian `dritë`: "light"
+
+--> Indo-Iranian <*dŕ̥štiš>
+---> Indo-Aryan
+----> Sanskrit `𑀤𑀾𑀱𑁆𑀝𑀺` <dṛ́ṣṭi>: "sight, seeing, vision, theory, eye, delusion (Buddhism)"
+-----> Pali `𑀤𑀺𑀝𑁆𑀞𑀺` <diṭṭhi>: "view, belief, theory, dogma"
+-----> Hindi `दृष्टि` <dŕṣṭi>: "vision, sight"
+------> Hindi `दृष्टि पटल` <dŕṣṭi paṭal>: "retina" (lit "sight screen")
+-----> Punjabi `ਦ੍ਰਿਸ਼ਟੀ` <driśṭī>: "sight, vision"
+
+-----> Sanskrit `𑀆𑀢𑁆𑀫𑀤𑀾𑀱𑁆𑀝𑀺` <ātmadṛṣṭi>: "self-view, the delusion that the self exists"
+------> Kushean `𑀆𑀢𑁆𑀫𑀤𑀾𑀱𑁆𑀝𑀺` <ātmadṛṣṭi>
+
+
+-> Proto-Indo-European <*dérḱmn̥>: "a look, a sight" (action or result noun)
+
+--> Hellenic
+---> Classical Greek `δέργμα` <dérgma>: "a look, a glance, a sight"
+
+
+-> Proto-Indo-European <*dr̥ḱos>: "see-er"
+
+--> Hellenic
+---> Classical Greek `δράκος` <drákos>: "eye"
+
+
+-> Proto-Indo-European <*dr̥ḱeh₂>
+
+--> Celtic <*drikā>: "face, front, thing seen"
+---> Brythonic
+----> Welsh `drych`: "mirror, image, form"
+
+---> Celtic <*ɸaredrikā>: "forefront, thing seen"
+----> Old Irish `airdrech`: "a phantom, a kind of ghost"
+
+
+-> Proto-Indo-European <*derḱ-áno->: "see again?"
+
+--> Old Armenian `տեսանեմ` <tesanem>: "to see, to visit, to watch, to know"
+---> Armenian `տեսնել` <tesnel>: "to see, to examine, to meet, to visit, to know"
+----> Armenian `տեսանյութ` <tesanyutʿ>: "video, footage"
+---> Old Armenian `լրտես` <lrtes>: "spy, scout, emissary"
+----> Armenian `լրտես` <lrtes>: "spy, secret agent"
+
+
+
+-> Proto-Indo-European <*dr̥ḱ-h₂eḱru>: "tear(s)" (lit. "eye-bitter" "eye-sting")
+
+--> Proto-Indo-European <*drh₂éḱru> (haplology)
+
+---> Germanic <*trahnuz>: "a tear"
+----> West Germanic
+-----> Frankish <*trān>
+------> Dutch `traan`: "a tear, fish oil"
+-------> Dutch `traanolie`: "fish oil"
+--------> English `train oil`
+-----> Old High German `tra(h)an`
+------> German `Träne`: "a tear"
+
+---> Proto-Indo-European <*dh₂éḱru> (further haplology)
+
+----> Pre-Armenian <*artawr>: "a tear"
+-----> Old Armenian `արտօսր` <artōsr>: "a tear" (with 's' from the plural)
+-----> Pre-Armenian <*artaḱu-?>: "tears"
+------> Old Armenian `արտասուք` <artasukʿ>: "tears"
+-------> Armenian `արցունք` <arcʿunkʿ>: "a tear"
+-------> Armenian `արտասուք` <artasukʿ>: "a tear, to weep, to lament" (re-borrowing)
+
+----> Hellenic
+-----> Classical Greek `δάκρυ` <dákru>: "a tear, sap"
+------> Greek `δάκρυ` <dákry>: "a tear"
+------> English `dacryo-`
+------> Classical Greek `δακρύω` <dakrúō>: "I weep" 
+-------> Classical Greek `δακρυμα` <dakryma>: "a tear" (re-derived noun as a deverbal)
+-------?> Old Latin `𐌃𐌀𐌂𐌓𐌖𐌌𐌀` <dacruma>: "a tear" ##
+
+----> Northwest Indo-European <*dáḱrom>
+
+-----> Celtic <*dakrom>: "a tear"
+------> Old Irish `dér`: "a tear"
+-------> Irish `deoir`: "a tear"
+
+-----> Germanic <*tahrą>: "a tear" (plural stem <*tagr->)
+------> East Germanic
+-------> Gothic `𐍄𐌰𐌲𐍂` <tagr>: "a tear" (singular stem levelled to plural stem)
+------> North Germanic
+-------> Old Norse `tár`: "a tear"
+--------> Danish `tår`: "a drop, a sip"
+---------> Danish `tåre`: "a tear" (originally a plural)
+--------> Icelandic `tár`: "a tear, a drop, a sip"
+------> West Germanic
+-------> Old English `tear`: "a tear"
+--------> English `tear`!
+-------> Old High German `zahar`
+--------> German `Zähre`: "a tear" (archaic)
+
+------> Germanic <*tahrijaną>: "to weep, to shed tears"
+-------> East Germanic
+--------> Gothic `𐍄𐌰𐌲𐍂𐌾𐌰𐌽` <tagrjan>: "to weep, to shed tears"
+-------> West Germanic
+--------> Old English `tieran`: "to weep, to water (of eyes)"
+
+-----> Italic <*dakrom>
+-----?> Old Latin `𐌃𐌀𐌂𐌓𐌖𐌌𐌀` <dacruma>: "a tear" ##
+-------> Latin `lacruma`: "a tear" (archaic)
+-------> Old Latin `𐌃𐌀𐌂𐌓𐌉𐌌𐌀` <dacrima>: "a tear" (variant)
+--------> Latin `lacrima`: "a tear" ##
+---------> Central Romance
+----------> Italian `lacrima`: "a tear"
+---------> Eastern Romance
+----------> Romanian `lacrimă`: "a tear"
+---------> Western Romance
+----------> French `larme`: "a tear, a drop"
+----------> Spanish `lágrima`: "a tear"
+
+---------> Latin `lacrimalis`: "of tears, related to tears"
+----------> English `lacrimal`
+
+---------> Latin `lacrimosus`: "full of tears, lamentable"
+----------> English `lachrymose`! (partly re-modelled as if Greek)
+
+---------> Latin `lacrimare`: "to weep, to shed tears"
+----------> Central Romance
+-----------> Italian `lacrimàre`: "to weep, to drip, to mourn"
+----------> Eastern Romance
+-----------> Romanian `a lăcrima`: "to weep"
+----------> Spanish `lagrimar`
+----------> Spanish `lacrimar`
+
+---------> Vulgar Latin <*lacrimidiare>
+----------> Eastern Romance
+-----------> Aromanian `lãcãrmedz`: "to weep"
+----------> Western Romance
+-----------> French `larmoyer`: "to weep, to whine, to drip"
+-----------> Spanish `lagrimear`
+
+
+----> Proto-Indo-European <*dáḱruh₂>: "tears" (collective)
+
+-----> Celtic <*dakrū>: "tears"
+------> Brythonic <*dėgr>
+-------> Welsh `deigr`: "tears" (archaic)
+--------> Welsh `deigryn`: "a tear"(new singular derived from `deigr`=cym-Latn with `-yn`=cym-Latn singulative suffix)
+--------> Welsh `dagrau`: "tears" (new regular plural)
+
+-----> Hellenic
+------> Classical Greek `δάκρυα` <dákrua>: "tears"
+-------> Classical Greek `δάκρυον` <dákruon>: "a tear" (back-formed from <dákrua>)
+
+
+
+
+
+
+endbody
+
+
+
+startnotes
+
+
+## While Latin `lacrima`=lat-Latn could be part of the Late Northwest <*dáḱrom> cluster with Celtic and Germanic, it should have been `*dacrum`=lat-Latn or possibly `*dacrumen`=lat-Latn. It's more likely a borrowing from the Greek re-de-verbal `δακρυμα`=grc-Grek <dakryma>, which perfectly fits among the many pre-Classical alternations of the word: <dakruma>/<dakrima>/<lakruma>/<lakrima>. The <d>/<l> alternation in Archaic Latin is also most common in very early Greek loan words, e.g. `Ulysses`=lat-Latn for `Odysseus`=eng-Latn, and a borrowing from Greek `υ`=grc-Grek could also help explain the <i>/<u> alternation.
+
+
+
+
+
+#### In many cases, the descendants of West Germanic <*anadrekō>: "male duck" ([wff-rex|lit. "duck-king"]) lost the first syllable and became homophonous with the descendants of <*drakō>: "dragon", borrowed from Latin: English `drake`=eng-Latn/`drake`=eng-Latn, Dutch `draak`=nld-Latn/`draak`=nld-Latn, Swedish `drake`=swe-Latn/`drake`=swe-Latn (both borrowed from West Germanic).
+
+
+endnotes
+

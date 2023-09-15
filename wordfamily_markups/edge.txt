@@ -1,5 +1,5 @@
 date: 20170721
-tags: Elements
+tags: Animals, Elements
 
 
 startbody
@@ -12,7 +12,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 --> Hellenic
 --?> Classical Greek `ὀξύς` <oxús>: "sharp, pointed, clever, swift"
 ----> French `oxygène`: "oxygen" (Greek technical formation "sharp-forming", for oxygen's role in forming acids)
------> English `oxygen`
+-----> English `oxygen`!
 -----> Translingual `O`
 ----> Classical Greek `ὀξύμωρος` <oxúmōros>: "a witty saying that is seemingly paradoxical, oxymoron" ("clever-foolish")
 -----> English `oxymoron`
@@ -26,7 +26,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ---> Latin `aceō`: "sour"
 ----> Latin `acidus`: "sour, tart, acidic, harsh"
 -----> French `acide`: "acid, acidic, sour, tart"
-------> English `acid`
+------> English `acid`!
 ----> Latin `acētum`: "vinegar"
 -----> Central Romance
 ------> Italian `aceto`: "vinegar"
@@ -80,9 +80,9 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -----> Italian `agro`: "sour, vinegary"
 ----> Western Romance
 -----> French `aigre` "sharp, sour, shrill"
-------> English `eager` #
+------> English `eager`! #
 ------> French `vinaigre`: "vinegar" (lit. "wine-sour")
--------> English `vinegar`
+-------> English `vinegar`!
 -----> Spanish `agrio`: "sour, tangy, bitter"
 ----> Latin `acerbus`: "sour, bitter, rough, oppressive"
 -----> French `acerbe`: "acerbic, harsh"
@@ -131,55 +131,105 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ----> Arshian <ākär>: "tear"
 ----> Kushean <akrūna>: "tears"
 
----> Proto-Indo-European <*dr̥ḱ-h₂eḱru>: "tear" (lit. "eye-bitter")
-----> Proto-Indo-European <*dh₂éḱru>: "tear"
+---> Proto-Indo-European <*dr̥ḱ-h₂eḱru>: "tear(s)" (lit. "eye-bitter" "eye-sting", with [wff-dragon|<*derḱ->])
 
-------> Old Armenian `արտօսր` <artōsr>: "tear"
--------> Armenian `արտասուք` <artasukʿ>: "tear, cry"  (from the OA plural)
+----> Proto-Indo-European <drh₂éḱru> (haplology)
 
-------> Celtic <*dakrom>
--------> Brythonic
---------> Welsh `deigryn`: "tear"
--------> Old Irish `dér`
---------> Irish `deoir`: "tear"
+-----> Germanic <*trahnuz>: "a tear"
+------> West Germanic
+-------> Frankish <*trān>
+--------> Dutch `traan`: "a tear, fish oil"
+---------> Dutch `traanolie`: "fish oil"
+----------> English `train oil`
+-------> Old High German `tra(h)an`
+--------> German `Träne`: "a tear"
 
-------> Germanic <*tahrą>: "tear"
--------> East Germanic
---------> Gothic `𐍄𐌰𐌲𐍂` <tagr>: "tear"
--------> North Germanic
---------> Old Norse `tár`: "tear"
----------> Danish `tåre`: "tear"
----------> Danish `tår`: "drop, sip"
----------> Icelandic `tár`: "tear"
--------> West Germanic <*tahr>
---------> Old English `tēar`: "tear"
----------> English `tear`
+-----> Proto-Indo-European <*dh₂éḱru> (further haplology)
 
-------> Germanic <*trahnuz>: "tear" (alternate form)
--------> West Germanic
---------> Frankish <*trān>
----------> Dutch `traan`: "tear"
---------> Old High German `trahan`
----------> German `Träne`: "tear"
---------> Old Saxon
----------> Low German `Traan`: "tear"
-----------> German `Tran`: "fish oil, whale oil"
+------> Pre-Armenian <*artawr>: "a tear"
+-------> Old Armenian `արտօսր` <artōsr>: "a tear" (with 's' from the plural)
+-------> Pre-Armenian <*artaḱu-?>: "tears" #
+--------> Old Armenian `արտասուք` <artasukʿ>: "tears"
+---------> Armenian `արցունք` <arcʿunkʿ>: "a tear"
+---------> Armenian `արտասուք` <artasukʿ>: "a tear, to weep, to lament" (re-borrowing)
 
------> Hellenic
-------> Classical Greek `δᾰ́κρῠ` <dákru>: "tear, sap"
--------> Greek `δάκρυ` <dákry>: "tear"
+------> Hellenic
+-------> Classical Greek `δάκρυ` <dákru>: "a tear, sap"
+--------> Greek `δάκρυ` <dákry>: "a tear"
+--------> English `dacryo-`
 
------> Italic <*dakrima>
-------> Latin `lacrima`: "tear"
--------> Central Romance
---------> Italian `lacrima`: "tear"
--------> Eastern Romance
---------> Romanian `lacrimă`: "tear"
--------> Western Romance
---------> French `larme`: "tear, drop"
---------> Spanish `lágrima`: "tear"
--------> Latin `lacrimōsus`: "tearful, lamentable"
---------> English `lachrymose`
+------> Late Northwest Indo-European <*dáḱrom>
+
+-------> Celtic <*dakrom>: "a tear"
+--------> Old Irish `dér`: "a tear"
+---------> Irish `deoir`: "a tear"
+
+-------> Germanic <*tahrą>: "a tear" (plural stem <*tagr->)
+--------> East Germanic
+---------> Gothic `𐍄𐌰𐌲𐍂` <tagr>: "a tear" (singular stem levelled to plural stem)
+--------> North Germanic
+---------> Old Norse `tár`: "a tear"
+----------> Danish `tår`: "a drop, a sip"
+-----------> Danish `tåre`: "a tear" (originally a plural)
+----------> Icelandic `tár`: "a tear, a drop, a sip"
+--------> West Germanic
+---------> Old English `tear`: "a tear"
+----------> English `tear`!
+---------> Old High German `zahar`
+----------> German `Zähre`: "a tear" (archaic)
+
+--------> Germanic <*tahrijaną>: "to weep, to shed tears"
+---------> East Germanic
+----------> Gothic `𐍄𐌰𐌲𐍂𐌾𐌰𐌽` <tagrjan>: "to weep, to shed tears"
+---------> West Germanic
+----------> Old English `tieran`: "to weep, to water (of eyes)"
+
+-------> Italic <*dakrom>
+--------> Old Latin `𐌃𐌀𐌂𐌓𐌖𐌌𐌀` <dacruma>: "a tear"
+---------> Latin `lacruma`: "a tear" (archaic)
+---------> Old Latin `𐌃𐌀𐌂𐌓𐌉𐌌𐌀` <dacrima>: "a tear" (variant)
+----------> Latin `lacrima`: "a tear"
+-----------> Central Romance
+------------> Italian `lacrima`: "a tear"
+-----------> Eastern Romance
+------------> Romanian `lacrimă`: "a tear"
+-----------> Western Romance
+------------> French `larme`: "a tear, a drop"
+------------> Spanish `lágrima`: "a tear"
+
+-----------> Latin `lacrimalis`: "of tears, related to tears"
+------------> English `lacrimal`
+
+----------> Latin `lacrimosus`: "full of tears, lamentable"
+-----------> English `lachrymose`! (partly re-modelled as if Greek)
+
+-----------> Latin `lacrimare`: "to weep, to shed tears"
+------------> Central Romance
+-------------> Italian `lacrimàre`: "to weep, to drip, to mourn"
+------------> Eastern Romance
+-------------> Romanian `a lăcrima`: "to weep"
+------------> Spanish `lagrimar`
+------------> Spanish `lacrimar`
+
+-----------> Vulgar Latin <*lacrimidiare>
+------------> Eastern Romance
+-------------> Aromanian `lãcãrmedz`: "to weep"
+------------> Western Romance
+-------------> French `larmoyer`: "to weep, to whine, to drip"
+-------------> Spanish `lagrimear`
+
+
+------> Proto-Indo-European <*dáḱruh₂>: "tears" (collective)
+
+-------> Celtic <*dakrū>: "tears"
+--------> Brythonic <*dėgr>
+---------> Welsh `deigr`: "tears" (archaic)
+----------> Welsh `deigryn`: "a tear"(new singular derived from `deigr`=cym-Latn with `-yn`=cym-Latn singulative suffix) ###
+----------> Welsh `dagrau`: "tears" (new regular plural)
+
+-------> Hellenic
+--------> Classical Greek `δάκρυα` <dákrua>: "tears"
+---------> Classical Greek `δάκρυον` <dákruon>: "a tear" (back-formed from <dákrua>) ###
 
 
 -> Proto-Indo-European <*h₂eḱu-s>
@@ -217,9 +267,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ----> Latin `acūcla`: "small needle"
 -----> Central Romance
 ------> Italian `agucchia`: "needle"
-------> Emilian `gùccia`: "sewing needle"
-------?> Emilian `Gucci`: "tailor?? (occupational? surname)" ###
---------> Translingual `Gucci`
+------> Emilian `gùccia`: "sewing needle" ### 
 -----> Western Romance
 ------> French `aiguille`: "needle, watch hand, spire"
 -------> French `aiglet`: "needle, aiglet"
@@ -281,7 +329,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ------> English `egg`
 ---> West Germanic
 ----> Old English `eċġ`: "edge"
------> English `edge`
+-----> English `edge`!
 ----> Frankish
 -----> Dutch `eg`: "harrow"
 ------> Dutch `eggen`: "to harrow, to plow"
@@ -357,7 +405,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -----> Icelandic `öxi`: "axe"
 ---> West Germanic
 ----> Old English `æx`: "axe"
------> English `axe`
+-----> English `axe`!
 ----> Frankish <*akus>
 -----> Dutch `aks`
 ----> Old High German `ackis`
@@ -415,9 +463,9 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -------> Khotani <saṃgga->: "stone"
 -------> Old Chinese <slaːn  ɡaː>
 --------> Middle Chinese `珊瑚` <sɑn  ɦuo>: "coral"
---------->  Mandarin `珊瑚` <shānhú>: "coral"
----------> Shanghainese `珊瑚` <se hhu>: "coral"
----------> Cantonese `珊瑚` <saan1 wu4>: "coral"
+---------> Mandarin `珊瑚` <shānhú>: "coral"
+---------> Wu `珊瑚` <se hhu>: "coral"
+---------> Yue `珊瑚` <saan1 wu4>: "coral"
 ---------> Japanese `サンゴ` <sango>: "coral"
 ---------> Korean `산호` <sanho>: "coral"
 ---------> Vietnamese `san hô`: "coral"
@@ -449,7 +497,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -----> Icelandic `hamar`: "hammer, cliff"
 ----> West Germanic
 -----> Old English `hamor`: "hammer"
-------> English `hammer`
+------> English `hammer`!
 -----> Frankish <*hamar>
 ------> Dutch `hamer`: "hammer"
 -----> Old High German `hamar`: "hammer"
@@ -487,7 +535,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -----> Icelandic `heyra`: "to hear, to listen"
 ---> West Germanic
 ----> Old English `hīeran`: "to hear, to listen, to obey"
------> English `hear` ²
+-----> English `hear`! ##
 ----> Frankish <*hōren>
 -----> Dutch `horen`: "to hear, to be polite, to be supposed to, to belong"
 ----> Old High German `hōren`: "to hear"
@@ -505,7 +553,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ---> Classical Greek `ᾰ̓κούω`: "I hear, I listen, I learn, I obey"
 ----> Classical Greek `ἀκουστικός` <akoustikós>: "auditory, related to hearing"
 -----> French `acoustique`: "acoustic"
-------> English `acoustic`
+------> English `acoustic`!
 -------> Japanese `アコースティック` <akōsutikku>: "acoustic (unamplified)"
 
 
@@ -524,7 +572,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -----> Western Romance
 ------> Old French `coi(g)ne`
 -------> French `coin`: "wedge, cornerpiece, corner"
--------> English `coin`
+-------> English `coin`!
 --------> Japanese `コイン` <koin>: "coin"
 -------> English `coign`
 ------> Spanish `cuño`: "stamp, die stamp, mark"
@@ -534,7 +582,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ------> English `cuneate`
 -----> Latin `cuneifōrmis`: "cuneiform" (lit. "wedge-shaped")
 ------> French `cunéiforme`: "cuneiform"
--------> English `cuneiform`
+-------> English `cuneiform`!
 
 --> Proto-Indo-European <*h₂ḱulis>: "stinging insect"
 
@@ -565,7 +613,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ------> Western Romance
 -------> Old French
 --------> French `cône`: "cone"
---------> English `cone`
+--------> English `cone`!
 -------> Spanish `cono`: "cone"
 
 
@@ -610,26 +658,26 @@ endbody
 
 startnotes
 
-# The modern English meaning of `eager` is a local innovation. English also kept "sharp, sour" as a secondary meaning until 19thC; that's what Shakespeare usually means by `eager`, e.g., "It is a nipping and an eager (sharp) air" (Hamlet 1.4.2) or "And curd, like eager (sour) droppings into milk" (Hamlet 1.5.69).
+# The modern English meaning of `eager`=eng-Latn is a local innovation. English also kept "sharp, sour" as a secondary meaning until 19thC; that's what Shakespeare usually means by `eager`=eng-Latn, e.g., "It is a nipping and an eager (sharp) air" (Hamlet 1.4.2) or "And curd, like eager (sour) droppings into milk" (Hamlet 1.5.69).
 
-## The word `ear`, as in an ear of corn, and `ear`, as in the part of your body you hear with are unrelated, from PIE roots <*h₂eḱ-> and <*h₂ows->, respectively.
+## The word `ear`=eng-Latn, as in an ear of corn, and `ear`=eng-Latn, as in the part of your body you hear with are unrelated, from PIE roots <*h₂eḱ-> and <*h₂ows->, respectively.
 
-The word "hear" is from a compound of both of those roots: <*h₂ḱh₂owsyéti> from <*h₂eḱ-> (sharp) + <*h₂ows-> (ear) + <*-yéti> (intransitive imperfective verb ending), "to be sharp-earing"
+The word `hear`=eng-Latn is from a compound of both of those roots: <*h₂ḱh₂owsyéti> from <*h₂eḱ-> (sharp) + <*h₂ows-> (ear) + <*-yéti> (intransitive imperfective verb ending), "to be sharp-earing"
 
-### I can't find anyone suggesting or confirming that <Gucci> is an occupational surname meaning "tailor" in Emilian (a Gallo-Italic language in Bologna and other parts of Northeast Italy). But without a plausible alternative story (which I also can't find), there is enough circumstanial evidence to tentatively assume that it is.
+### I really wanted Emilian `gùccia`=egl-Latn: "sewing needle" to be the source of Guccio Gucci's names, as an occupational surname for a tailor. But it's not, `Guccio`=ita-Latn is a version of `Hugo`=eng-Latn (ultimately from West Germanic <*hugi>)
 
-#### Classical Greek `ἀξῑ́νη` <axī́nē> is derivable either from Proto-Indo-European, or from a Semitic borrowing. Compare Akkadian `𒍏𒄩𒍣𒅔` <ḫaṣṣinnu>: "axe" and Aramaic `𐡇𐡑𐡉𐡍𐡀` <ḥaṣīnā>: "axe" from Semitic <*ḥaṣṣ->. Latin `ascia` and Germanic <*agʷésih₂> could also be from the Semitic borrowing, but the evidence is more towards the PIE root for those.
+#### Classical Greek `ἀξῑ́νη`=grc-Grek <axī́nē> is derivable either from Proto-Indo-European, or from a Semitic borrowing. Compare Akkadian `𒍏𒄩𒍣𒅔`=akk-Xsux <ḫaṣṣinnu>: "axe" and Aramaic `𐡇𐡑𐡉𐡍𐡀`=arc-Armi <ḥaṣīnā>: "axe" from Semitic <*ḥaṣṣ->. Latin `ascia`=lat-Latn and Germanic <*agʷésih₂> could also be from the Semitic borrowing, but the evidence is more towards the PIE root for those.
 
 ##### <*ḱeh₃-> looks like metathesis from <*h₂eḱ-> and has the same root meaning, but the <o> in Greek and <o>/<a> alternation in Latin require <*ḱeh₃->, not <*ḱeh₂->.
 
 
-###### Latin `catus`: "clever, cunning, sly" makes Linaeus' binomial name "felis catus" (instead of "felis cattus") for the domestic cat, an (unintentional?) pun.
+###### Latin `catus`=lat-Latn: "clever, cunning, sly" makes Linaeus' binomial name `Felis catus` (instead of `Felis cattus`) for the domestic cat, an (unintentional?) pun.
 
 
-####### There is apparently an Iberian substrate word of some kind here behind Basque `unxti` and Greek <kóniklos>, meaning either "rabbit" or "rabbit burrow" (unclear which way the semantic shift is going). There are a lot of possibilities, but I think the best single option is a Celtiberian word from <*ḱoh₃nos>: "sharp thing".
+####### There is apparently an Iberian substrate word of some kind here behind Basque `unxti`=eus-Latn and Greek <kóniklos>, meaning either "rabbit" or "rabbit burrow" (unclear which way the semantic shift is going). There are a lot of possibilities, but I think the best single option is a Celtiberian word from <*ḱoh₃nos>: "sharp thing".
 
-Borrowing of this word from an Iberian substrate is logical given the native range of the European rabbit (Oryctolagus cuniculus): Iberia, western France, and a bit of northwest Africa. This is also why the Old French descendant `connin` was widely borrowed in a later wave.
+Borrowing of this word from an Iberian substrate is logical given the native range of the European rabbit (`Oryctolagus cuniculus`): Iberia, western France, and a bit of northwest Africa. Similarly, the Old French descendant `connin`=fro-Latn was widely borrowed in a later wave.
 
-Compare that "Spain"/"Hispania" is from traditionally thought to be from Phoenician `𐤀𐤉 𐤔𐤐𐤍` <‘i špn>: "island of hyraxes/rabbits". Rabbits were a notable feature of Iberia to ancient visitors! Though that may be a very old folk etymology, <‘i ṣpn>: "northern/remote/hidden island", <‘i spn> "island of smithing" or <‘i spn> "island of sailors" are each also plausible on both phonology and semantics.
+Compare that "Spain"/"Hispania" is from traditionally thought to be from Phoenician `𐤀𐤉 𐤔𐤐𐤍`=phn-Phnx <‘i špn>: "island of hyraxes/rabbits". Rabbits were a notable feature of Iberia to ancient visitors! Though that may be a very old folk etymology, <‘i ṣpn>: "northern/remote/hidden island", <‘i spn> "island of smithing" or <‘i spn> "island of sailors" are all plausible alternatives both phonologically and semantically.
 
 endnotes
