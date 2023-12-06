@@ -12,8 +12,8 @@ def html_safe(text):
     if text:
         text = re.sub(r"<([^>]+)>", r"<span class='transliteration'>\1</span>", text)
         text = re.sub(r"\`([^`]+)\`(=([\w-]+))*", r"<span class='orthography' lang='\3'>\1</span>", text)
-        text = re.sub(r"(http\S+)", r"<a href='\1'>\1</a>", text)
         text = re.sub(r"\[([^\]\|]+)\|([^\]\|]+)]", r"<a href='\1'>\2</a>", text)
+        text = re.sub(r"(http\S+)", r"<a href='\1'>\1</a>", text)
         text = re.sub(r"href='wff-(\w+)'", r"href='/word-family-\1.html'", text)
         return text
 
