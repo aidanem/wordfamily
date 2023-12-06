@@ -1,0 +1,815 @@
+date: 20231013
+tags: Family, Toponymy
+
+startintro
+
+Proto-Indo-European <*h₂ew>: "away from, since, again" cannot be formally tied to <*h₂epó>: "off, away", but the similarity is suggestive. Perhaps Pre-Proto-Indo-European <*b> became either <*p> (by fortition) or <*w> (by lenition) in almost all cases, accounting for the paucity of <*b> in PIE.
+
+In any case, the later (re?)-merger of the two etymons in Italic and Celtic convinced me to present them together.
+
+Proto-Indo-European <*h₂éwh₂os>: "maternal grandfather, maternal uncle" similarly merges with <*h₂ew>: "from" in the Irish `ó`=gle-Latn/`ua`=gle-Latn, and has plausible semantic relationship, so I've included that also even though I don't have an explanation for where the <*-h₂os> came from.
+
+The root [wff-easter|<*h₂ews->: "sunrise"] is probably also connected, especially in light of <*h₂éwgeh₂>: "sunrise, dawn"
+
+
+endintro
+
+
+startbody
+
+Pre-Proto-Indo-European <*h₂eb-?>
+
+
+-> Proto-Indo-European <*h₂ew>: "away from, since, again"
+
+-?> Old Armenian `հաւ` <haw>: "beginning, rise, origin"
+
+--> Balto-Slavic <*au>
+---> Slavic <*u>: "away from, at, near"
+----> East Slavic
+-----> Russian `у` <u>: "at, by, near, from, of, belonging to"
+-----> Ukrainian `у` <u>: "in, at" (phonological merger with <*vъ> from PIE <*h₁én>: "in")
+----> South Slavic
+-----> Bulgarian `у` <u>: "at the home of, chez, with, among, in the possession of"
+-----> Serbo-Croatian `у` <u>: "at the home of, chez" (partially merged with <*vъ> from PIE <*h₁én>: "in")
+----> Czech `u`: "at, by"
+----> Polish `u`: "of, by, at, with, chez, from, among"
+
+
+
+-?> Celtic <*aw>: "of, from"
+---> Brythonic
+----> Welsh `o`: "from, of, out of"
+
+---> Old Irish `ó`: "from, of, with, since, after"
+----> Irish `ó`: "of, from, since"
+
+--> Hellenic
+---> Classical Greek `αὖ`: "again, in turn, further, on the other hand"
+
+--> Indo-Iranian <*Hu>
+---> Indo-Aryan
+----> Sanskrit `𑀉` <u>
+
+
+--> Proto-Indo-European <*h₂ew->: "away from, since, again" (prefix)
+
+---> Pre-Albanian <*awa->
+----> Albanian `v-`: "at, away, on"
+
+---> Balto-Slavic <*au->: "away from"
+----> East Baltic
+-----> Lithuanian `au-`
+----> West Baltic
+-----> Old Prussian <*au->
+------> Old Prussian `aumūsnan`: "washing off, ablution"
+-----?> Old Prussian `auklextes`: "chaff, waste from winnowing"
+-----> Sudovian <*au->
+------> Sudovian `aucima`: "village, countryside" (probably with [wff-text|<*koymos>: "family, house"]
+
+
+---> Italic <*au->
+----> Latin `au-`: "from, away, off, completely" ##
+
+
+
+--> Proto-Indo-European <*h₂ew-ge> (with intensifying particle <*g(ʰ)e>
+
+--?> Germanic <*auk>: "and, but, also, furthermore"
+----> East Germanic
+-----> Gothic `𐌰𐌿𐌺` <auk>: "because, but, but also"
+----> North Germanic
+-----> Old Norse `auk`: "and"
+------> Danish `og`: "and, also"
+------> Icelandic `auk`: "in addition to"
+------> Icelandic `og`: "and"
+----> West Germanic
+-----> Old English `ēac`: "also, too, either, along with"
+------> Middle English `eke`
+-------> Middle English `ekename`: "nickname, an additional name"
+--------> English `nickname`! (by rebracketing `an ekename`=enm-Latn to `a nekename`=enm-Latn and then further modification)
+-----> Frankish <*ōk>
+------> Dutch `ook`: "also, too, either"
+-----> Old High German `ouh`
+------> German `auch`: "also, too, even"
+------> Yiddish `אויך` <oykh>: "also, even"
+-------> Yiddish `אויכעט` <oykhet>
+
+
+
+
+--> Proto-Indo-European <*h₂ew-kʷe> (with <*-kʷe>: "and"
+
+---> Hellenic
+---?> Classical Greek `αὖτε` <aûte>: "again, furthermore, on the other hand"
+
+
+
+--> Proto-Indo-European <*h₂ewti(s)>
+
+---> Hellenic
+----> Classical Greek `αὖτις`: "back, again, in turn"
+---?> Classical Greek `αὖτε` <aûte>: "again, furthermore, on the other hand"
+
+---> Italic <*auti>: "either, or"
+----> Latin `aut`: "or, otherwise, else"
+-----> Central Romance
+------> Italian `o(d)`: "or"
+-----> Insular Romance
+------> Sardinian `a`: "question marker"
+-----> Eastern Romance
+------> Romanian `au`: "really? or (archaic)"
+-----> Western Romance
+------> French `ou`: "or"
+------> Spanish `o`: "or"
+----> Oscan `aut(i)`: "but, or"
+----> Umbrian `ute`: "or"
+
+
+--> Proto-Indo-European <*h₂ewtos>
+
+---> Hellenic
+----> Classical Greek `αὐτός` <autós>: "self, the same, he/she/it"
+-----> Greek `αυτός` <aftós>: "this, that, he/she/it"
+
+-----> German `Autismus`
+------> English `autism`! #
+
+-----> Greek `και αυτός ποιος`: "and who is this one?, who's this clown?"
+------> Turkish `kıtıpiyos`: "ordinary, unimportant, worthless"
+-------> Laz `კიტიპიროზი` <ǩiťip̌irozi>: "stingy"
+-------> Laz `ხიტიპიჲოზი` <xiťip̌iyozi>: "swindler, conman"
+
+---> Phrygian `αυτος` <autos>: "self"
+
+
+
+--> Proto-Indo-European <*h₂ewtyos>: "left behind, deserted, empty"
+
+---> Germanic <*auþijaz>: "empty, deserted, barren, void"
+----> East Germanic
+-----> Gothic `𐌰𐌿𐌸𐌴𐌹𐍃` <auþeis>: "deserted, barren, wild"
+----> North Germanic
+-----> Old Norse `auðr`: "desolate"
+------> Danish `øde`: "desolate, waste, wilderness"
+------> Icelandic `auður`: "empty, desolate"
+------> Old East Norse <*auðkin>: "desert"
+-------> Danish `ørken`: "desert"
+----> West Germanic
+-----> Old English `īeþe`: "empty, barren"
+-----> Old High German `ōdi`: "empty, desolate, void"
+------> German `öde`: "empty, bleak, deserted, dull, tedious"
+----> Finnic <*autijo>: "deserted, desolate, uninhabited"
+-----> Finnish `autio`: "desolate, empty, abandoned"
+----> Samic <*awta>
+----?> Samic <*vuovtē>: "forest"
+------> Northern Sami `vuovdi`: "forest"
+
+
+---> Hellenic <*awtsios>
+----> Classical Greek `αὔσιος` <aúsios>: "idle"
+
+---> Italic <*autiom>
+---?> Latin `ōtium`: "leisure, free time, idleness, peace"
+-----> Italian `ozio`: "sloth, idleness"
+-----> Spanish `ocio`: "leisure, recreation, diversion"
+-----> Latin `negōtium`: "business, labor, trouble" ("not leisure")
+------> Central Romance
+-------> Italian `negozio`: "shop, store, deal, transaction"
+------> French `négoce`: "business"
+
+------> Latin `negotiari`: "to do business, to trade, to bank"
+-------> Central Romance
+--------> Italian `negoziàre`: "to negotiate, to trade, to deal"
+-------> Eastern Romance
+--------> Romanian `a neguța`: "to engage in trade, to bargain, to negotiate"
+-------> French `négocier`: "to negotiate"
+-------> Latin `negotiatus` (past participle)
+--------> English `negotiate`!
+
+
+
+--> Proto-Indo-European <*h₂ewo>
+
+---> Celtic <*aw>
+----> Old Irish `úa`: "from, from their, of which"
+
+
+--> Proto-Indo-European <*h₂éwh₂(o)s>: "maternal grandfather, maternal uncle"
+
+---> Anatolian
+----> Hittite `𒄷𒄴𒄩𒀸` <ḫu-uḫ-ḫa-as>: "grandfather"
+----> Luwian
+-----> Cuneiform Luwian `𒄷𒌋𒄩` <ḫūḫa->: "grandfather"
+-----> Hieroglyphic Luwian `𔕳𔓷` <huha->: "grandfather"
+----> Lydian `𐤨𐤰𐤨𐤠𐤮` <kukaś>: "grandfather, personal name: Grandfather"
+-----> Akkadian `𒄖(𒊌)𒄖` <gu-(ug)-gu>: "Gyges"
+-----> Classical Greek `Γύγης` <Gúgēs>
+------> Latin `Gyges`
+-------> English `Gyges`
+
+---> Old Armenian `հաւ` <haw>: "grandfather, ancestor, uncle"
+----> Armenian `հավ` <hav>
+----> Old Armenian <*havuk> (diminutive/affectionate)
+----?> Cappadocian Greek `αβούκα` <avoúka>: "grandfather"
+
+---> Italic <*awos>
+----> Latin `avus`
+-----> Latin `avunculus` (partly, but mostly from lost <*awō(n)> instead)
+
+
+---> Tocharian
+----> Kushean <āwe->: "grandfather"
+
+
+---> Proto-Indo-European <*h₂éwh₂eh₂>: "grandmother, aunt"
+
+----> Germanic <*awǭ>
+-----> East Germanic
+------> Gothic `𐌰𐍅𐍉` <awō>: "grandmother"
+
+----> Italic <*awā>
+-----> Latin `ava`: "grandmother, old wive's tale"
+------> Central Romance
+-------> Italian `ava`: "female ancestor, ancestress"
+------> Insular Romance
+-------> Sardinian `aba`: "grandmother"
+
+
+
+---> Proto-Indo-European <*h₂éwh₂ō> (oblique stem <*h₂uh₂n->)
+
+----> Celtic <*awū>: "(maternal) uncle"
+-----> Celtic <*altrawū>: "foster uncle" (with <*altros>: "foster", related to Latin `alma mater`=lat-Latn, English `old`=eng-Latn)
+------> Brythonic <*alltrọw>
+-------> Welsh `athro`: "teacher, professor"
+------> Middle Irish `altra`: "foster father"
+-------> Middle Irish `banaltra`: "foster-mother, nurse" (lit. "woman-foster-uncle")
+--------> Irish `banaltra`: "(female) nurse"
+---------> Irish `banaltra fir`: "(male) nurse" (lit. "woman-foster-uncle of man")
+
+-----> Celtic <*awontīr>: "(maternal) uncle" (with agentive <*-tīr>, "uncler")
+------> Brythonic <*ọɨntir>
+-------> Welsh `ewythr`: "uncle"
+------> Old Irish `amnair`: "maternal uncle"
+
+----> Germanic <*awô>: "grandfather"
+-----> North Germanic
+-----?> Old Norse `ái`: "great-grandfather"
+
+-----> Germanic <*awahaimaz>: "maternal uncle" (with [wff-text|<*haimaz>: "home"])
+------> West Germanic <*auhaim>
+-------> Old English `ēam`: "(maternal) uncle"
+--------> Scots `eme`: "maternal uncle, friend"
+-------> Frankish <*ōm>
+--------> Dutch `oom`: "uncle"
+-------> Old High German `ōheim`: "uncle"
+
+
+----> Italic <*awō> (oblique stem <*awun->)
+-----> Italic <*awunkolos>
+------> Latin `avunculus`: "maternal uncle, great-uncle"
+-------> Vulgar Latin <*unculus>: "uncle"
+--------> Eastern Romance
+---------> Romanian `unchi`
+---------> Old Albanian `ungël`
+----------> Albanian `ungj`: "uncle"
+--------> Western Romance
+---------> Old French `oncle`: "uncle"
+----------> French `oncle`: "uncle"
+-----------> German `Onkel`: "uncle"
+------------> Danish `onkel`: "uncle"
+-----------> Yiddish `אָנקל` <onkl>: "uncle"
+----------> English `uncle`!
+-----------> Hawaiʻian `ʻanakala`: "uncle"
+-----------> Irish `uncail`: "uncle"
+
+
+---> Proto-Indo-European <*h₂ewh₂yós>
+
+----> Balto-Slavic <*auˀis>: "maternal uncle"
+-----> West Baltic
+------> Old Prussian `awis`: "uncle"
+------> Slavic <*ujь>: "maternal uncle"
+-------> East Slavic
+--------> Ukrainian `вуй` <vuj>: "maternal uncle, old man"
+-------> West Slavic
+--------> Polish `wuj`: "maternal uncle"
+-------> Slavic <*ujьkъ>
+--------> South Slavic
+---------> Bulgarian `вуйчо` <vujčo>: "maternal uncle"
+---------> Serbo-Croatian `ујак` <ujak>: "maternal uncle"
+--------> West Slavic
+---------> Polish `wujek`: "uncle"
+
+-----> Balto-Slavic <*auˀinas>
+------> East Baltic
+-------> Lithuanian `avynas`: "maternal uncle"
+
+
+----> Celtic <*auyos>: "descendant, grandchild"
+----?> Brythonic <*uwer> (with excrescent <*r> or instead from <*ɸuweros> cognate to Latin `puer`=lat-Latn: "child, boy")
+------> Welsh `ŵyr`: "grandson"
+-----> Gaulish `aua`: "grandaughter"
+-----> Primitive Irish `ᚐᚃᚔ` <avi>: "descendant"
+------> Old Irish `aue`: "grandson, descendent"
+-------> Irish `ó`
+--------> Irish `Ó`
+---------> English `O'-`
+
+--------> Irish `iníon uí`: "daughter of descendant of"
+---------> Irish `Ní`
+
+
+
+
+
+--> Proto-Indo-European <*h₂wg->
+
+---> Proto-Indo-European <*h₂ewg->: "to increase, to enlarge" ###
+
+---?> Germanic <*auk>: "and, but, also, furthermore"
+
+
+----> Proto-Indo-European <*h₂éwgeti> (primary verb)
+
+-----> Balto-Slavic <*augtei>
+------> East Baltic
+-------> Lithuanian `áugti`: "to grow"
+
+----?> Germanic <*aukaną>: "to increase, to grow"
+------> East Germanic
+-------> Gothic `𐌰𐌿𐌺𐌰𐌽` <aukan>: "to increase, to grow"
+------> North Germanic
+-------> Old Norse `auka`: "to add, to increase, to surpass"
+--------> Danish `øge`: "to increase, to enhance"
+--------> Icelandic `auka`: "to increase, to augment"
+------> West Germanic
+-------> Old English `ēacan`: "to increase, to enlarge, to become pregnant"
+--------> English `eke (out)`
+-------> Frankish <*ōkan>
+-------> Old High German `ouhhan`
+
+----> Proto-Indo-European <*h₂ugséti> (se imperfective)
+
+-----> Hellenic
+------> Classical Greek `αὐξάνω` <auxánō>: "to make grow, to increase, to promote, to honor"
+
+-----> Indo-Iranian <*Hukšáti>
+------> Indo-Aryan
+-------> Sanskrit `𑀉𑀓𑁆𑀱𑀢𑀺` <ukṣati>: "to be strong"
+
+
+----> Proto-Indo-European <*h₂owgéyeti> (causative)
+
+-----> Italic <*augezi>
+------> Latin `augēre`: "to increase, to augment, to spread, to strengthen, to enrich"
+
+-------> Latin `augmentum`: "an increase, a growth, an augmentation"
+--------> English `augment`
+--------> Latin `augmentare`
+---------> English `augment`
+
+-------> Latin `auxilium`: "help, aid, remedy"
+--------> Latin `auxiliarius`: "assistant, ally, auxiliary"
+---------> English `auxiliary`
+
+-------> Latin `auctor`: "creator, originator, author, vendor"
+--------> English `author`! (unetymologic `h`=eng-Latn, possibly by conflation with unrelated `authentic`=eng-Latn)
+--------> English `auteur`
+--------> Latin `auctoritas`: "credibility, prestige, reputation, power, authority"
+---------> English `authority`
+--------> Latin `auctorizo`
+---------> English `octroy`
+---------> English `authorize`
+
+-------> Latin `auctio`: "an increase, a profit, an auction"
+--------> English `auction`
+
+
+
+----> Proto-Indo-European <*h₂ugrós>: "large, strengthened" (adjective)
+
+-----> Indo-Iranian <*Hugrás>: "powerful, strong"
+
+----?> Venetic `𐌀𐌖𐌙𐌀𐌓` <augar> (uncertain meaning on a votive offering)
+
+
+----> Proto-Indo-European <*h₂éwgos>: "an increase" (noun)
+
+-----> Indo-Iranian <*Háwǰas>
+
+-----> Italic <*augos>: "an increase"
+-----?> Latin `augur`
+
+------> Italic <*augostos>: "increased"
+-------> Latin `augustus`
+--------> English `august`
+--------> English `Augustus`
+--------> English `August`!
+--------> English `Aosta`
+--------> Latin `Caesaraugusta` (place name)
+---------> English `Kaiseraugst`
+---------> English `Saragossa`
+---------> English `Zaragoza`
+--------> Latin `Augusta Vindelicorum` (place name)
+---------> English `Augsburg`
+
+
+----> Proto-Indo-European <*h₂éwgō>: "an increase" (noun)
+
+-----> Germanic <*aukô>: "increase, addition"
+------> North Germanic
+-------> Old Norse `auki`
+--------> Icelandic `auki`: "increase, addition"
+------> West Germanic
+-------> Old English `ēaca`: "addition, increase, supplement"
+--------> English `eke (out)`
+
+
+----> Proto-Indo-European <*h₂éwgeh₂>: "sunrise, dawn" (secondary noun: collective or feminine)
+
+-----> Pre-Albanian <*(h)aug->
+------> Albanian `ag`: "dawn, predawn light, shine, fog, pupils"
+-------> Albanian `vegoj`: "to appear, to look blurry, to barely see"
+--------> Albanian `vegim`: "mirage, illusion, dream"
+-------> Albanian `agull`: "dawn, predawn light, fog" (diminutive)
+--------> Albanian `vagëlloj`: "to barely see, to blink, to glow dimly, to dim, to weaken"
+
+-----> Hellenic
+------> Classical Greek `αὐγή` <augḗ>: "sunlight, dawn, sheen"
+-------> Greek `αυγή` <avgí>: "dawn, beginning"
+
+----?> Balto-Slavic
+------> Slavic <*jùgъ>: "south, south wind"
+-------> South Slavic
+--------> Bulgarian `юг` <jug>: "south"
+--------> Serbo-Croatian `југ` <jug>: "south"
+---------> Serbo-Croatian `Југославија` <Jugoslavija>
+----------> English `Yugoslavia`!
+--------> Albanian `jug`: "south"
+-------> West Slavic
+--------> Czech `jih`: "south"
+
+
+
+
+----> Proto-Indo-European <*h₂éwgs->
+
+
+-----> Proto-Indo-European <*h₂ugstos>: "grown" (adjective)
+
+------> Balto-Slavic
+-------> East Baltic
+--------> Lithuanian `áukštas`: "high, tall, noble"
+
+
+-----> Finno-Ugric <*kawsa->
+------> Finno-Ugric <*kaswa-> (regular metathesis)
+-------> Finnic <*kasva->: "to grow"
+--------> Finnish `kasvaa`: "to grow, to become, to increment"
+
+
+
+
+---> Proto-Indo-European <*h₂weg-> ###
+
+----> Proto-Indo-European <*h₂wégseti> (se imperfective)
+
+-----> Germanic <*wahsijaną>
+
+------> West Germanic
+-------> Old English `weaxan`: "to grow"
+--------> English `wax`
+
+-----> Hellenic <*awéksō>
+------> Classical Greek `αὔξω` <aúxō>: "to increase, to promote" (archaic)
+
+
+-----> Indo-Iranian <*Hwakšáyati>
+------> Iranian
+-------> Avestan `𐬎𐬑𐬱𐬌𐬌𐬈𐬌𐬙𐬍` <uxšiieitī>: "grows"
+-------> Western Iranian
+--------> Persian `وخشیدن` <vaxšidan>: "to grow (archaic)"
+
+
+----> Proto-Indo-European <*h₂wégses>
+
+-----> Indo-Iranian <*Hwákšas>
+------> Indo-Aryan
+-------> Sanskrit `𑀯𑀓𑁆𑀱𑀲𑁆` <vákṣas>: "chest, breast"
+--------> Magadhi
+---------> Assamese `বুকু` <buku>: "chest"
+
+----> Proto-Indo-European <*h₂wégstus> (result noun)
+
+-----> Germanic <*wahstuz>: "size, growth"
+
+------> West Germanic
+-------> Old English
+--------> English `waist`!
+
+
+----> Proto-Indo-European <*h₂wegrom>
+
+-----> Celtic <*wegrom>: "grass, hay"
+------> Brythonic <*gweɣr>
+-------> Welsh `gwair`: "grass, hay"
+------> Old Irish `fér`: "grass"
+-------> Irish `féar`: "grass"
+
+
+
+----> Proto-Indo-European <*h₂wógros>
+
+-----> Germanic <*wōkraz>: "gain, yield, offspring, interest, usury"
+------> East Germanic
+-------> Gothic `𐍅𐍉𐌺𐍂𐍃` <wōkrs>: "usury"
+------> North Germanic
+-------> Old Norse `okr`
+--------> Danish `åger`: "usury"
+--------> Icelandic `okur`: "usury"
+--------> Middle English `o(c)ker`
+------> West Germanic
+-------> Old English `wōcor`
+-------> Frankish <*wōkar>
+--------> Dutch `woeker`: "usury"
+-------> Old High German `wuohhar`
+--------> German `Wucher`: "usury, price-gouging"
+--------> Yiddish `וואָכער` <vokher>
+
+------> Finnic <*vookra>
+-------> Finnish `vuokra`: "lease, rent"
+
+----> Proto-Indo-European
+
+-----> Balto-Slavic
+------> Slavic <*ovoťe>: "fruit, yield"
+
+
+
+
+
+?> Proto-Indo-European <*h₂epó>: "off, away"
+
+--> Anatolian
+---> Hittite `𒀀𒀊𒉺` <a-ap-pa>: "behind, afterward, back, again"
+---> Luwian
+----> Cuneiform Luwian `𒀀𒀊𒉺` <a-ap-pa>: "back, again"
+
+--> Pre-Albanian <*apa>
+---> Albanian `pa`: "without, minus, not including"
+---> Pre-Albanian <*pər apa> (lit. "front away")
+----> Albanian `prapë`: "again, back, anew"
+
+-?> Celtic <*aw>: "of, from"
+
+--> Germanic <*ab>
+
+---> West Germanic
+----> Old English `af`
+-----> English `of`!
+-----> English `off`!
+
+--> Hellenic <*apó>
+---> Mycenaean Greek `𐀀𐀢` <a-pu>: "from"
+---> Classical Greek `ἀπό` <apó>: "from, away, because of"
+----> Greek `από`
+----> Classical Greek `ἀπο-` <apo->
+-----> Classical Greek `ἀφαιρέω` <aphairéō>: "I take away, I deprive, I rob, I abstract away"
+------> English `apheresis`
+-----> Classical Greek `ἀφορίζω` <aphorízō>: "I mark off, I set apart, I define"
+------> English `aphorism`
+-----> Classical Greek `ἀποκαλύπτω` <apokalúptō>: "I reveal, I disclose"
+------> English `apocalypse`
+-----> Classical Greek `ἀποκόπτω` <apokóptō>: "I cut off"
+------> English `apocope`
+-----> Classical Greek `ἀπολογία` <apologíā>: "speech in defense of something, justification, apology"
+------> English `apology`
+-----> Classical Greek `ἀποπλήσσω` <apoplḗssō>: "I strike down, I cripple, I become dazed"
+------> English `apoplexy`
+-----> Classical Greek `ἀπόπτωσις` <apóptōsis>: "a falling away, a depositing, a vanishing"
+------> English `apoptosis`
+-----> Classical Greek `ἀφίστημι` <aphístēmi>: "I stand away, I depart"
+------> English `apostate`
+-----> Classical Greek `ἀποστρέφω` <apostréphō>: "I turn away"
+------> English `apostrophe`
+-----> Classical Greek `ἀποθεόω` <apotheóō>: "I deify, I make a god"
+------> English `apotheosis`
+-----> Classical Greek `ἀποθήκη` <apothḗkē>: "repository, warehouse" ("put away")
+------> English `apothecary`
+------> English `boutique`
+------> English `bodega`!
+-----> Classical Greek `ἀποτρέπω`: "I cause to turn away, I halt"
+------> English `apotropaic`
+
+--> Indo-Iranian <*Hapá>: "off, away, from"
+---> Indo-Aryan
+----> Sanskrit `𑀅𑀧-` <apa->: "away, off, back, down"
+---> Iranian
+----> Avestan `𐬀𐬞𐬀` <apa>
+----> Western Iranian
+-----> Old Persian `𐎠𐎱` <a-p(a)>: "away"
+----?> Armenian `ապա` <apa>: "then, after that, so, therefore, however, but" (but also compare Georgian `აბა`=kat-Geor <aba>: "so, well, right")
+
+
+--> Italic
+---> Latin `ab`: "from, with, out of, after, at"
+----> Central Romance
+-----> Italian `a`: "to, at, with, by"
+------> English `a cappella`
+------> English `alarm`
+------> English `alert`!
+----> Western Romance
+-----> French `à`: "to, on, at, in"
+------> French `aujourd’hui`: "today"
+------> English `a la mode`
+------> English `apropos`
+-----> Spanish `a`
+
+----> Latin `ab-`
+-----> Latin `abundare`
+------> English `abound`
+------> English `abundance`
+-----> Latin `avocare`
+------> English `avocation`!
+-----> Latin `amanuensis`
+------> English `amanuensis`
+-----> Latin `absolvere`
+------> English `absolve`
+-----> Latin `au-`: "from, away, off, completely" ##
+
+
+--> Messapic `ΑΠΑ` <apa>: "from, out of, by"
+
+
+
+--> Proto-Indo-European <*h₂pó>
+
+---> Balto-Slavic <*pa>
+
+---> Celtic <*φo>
+
+---> Italic <*po>
+----> Latin `po-`: "off, away"
+----> Italic <*pozinezi> ("away-put")
+-----> Latin `pōnere`: "to place, to put, to ordain, to set up" (passive participle: `positus`=lat-Latn)
+------> English `post`
+------> English `posit`
+------> Latin `positiō`: "position, place, framing, attitude"
+-------> English `position`!
+------> Latin `compōner` ("place together")
+-------> English `compose`
+------> Latin `dēpōnere` ("place away")
+-------> English `depose`
+-------> English `deposit`
+-------> English `deponent`
+------> Latin `dispōnere` ("place apart")
+-------> English `dispose`
+------> Latin `expōnere` ("place out")
+-------> English `expose`
+-------> English `expound`
+-------> English `exposition`
+------> Latin `impōnere` ("place in")
+-------> English `impose`
+------> Latin `oppōnere` ("place against")
+-------> English `oppose`
+-------> English `opponent`
+------> Latin `postpōnere` ("place after")
+-------> English `postpone`
+------> Latin `praepōnere` ("place before")
+-------> English `preposition`
+------> Latin `prōpōnere` ("place forward")
+-------> English `propose`
+------> Latin `repōnere` ("place back")
+-------> English `repose`
+------> Latin `suppōnere` ("place under")
+-------> English `suppose`
+------> Latin `trānspōnere` ("place across")
+-------> English `transpose`
+
+---> Proto-Indo-European <*h₂poneh₁>
+
+----> Germanic <*fanē>: "from"
+
+-----> West Germanic
+------> Frankish <*fan>
+-------> Dutch `van`: "of, by, from"
+------> Old High German `fon`
+-------> German `von`: "from, of, by, with"
+-------> Yiddish `פֿון` <fun>: "of, from, by"
+
+
+--> Proto-Indo-European <*h₂eps>
+
+---> Hellenic
+----> Classical Greek `ἄψ` <áps>: "back, again, in return"
+
+---> Italic
+----> Latin `abs` (archaic alternative to `ab`=lat-Latn)
+
+
+--> Proto-Indo-European <*h₂eperos>
+
+---> Germanic <*aferą>
+----> East Germanic
+-----> Gothic `𐌰𐍆𐌰𐍂` <afar>: "after, following, according to"
+----> North Germanic
+----> West Germanic
+-----> Old High German `aber`
+------> German `aber`: "but, however, though, again, to a surprising degree"
+
+---> Indo-Iranian <*áparas>
+----> Indo-Aryan
+-----> Sanskrit `𑀅𑀧𑀭` <ápara>: "later, following, another, different, western, distant"
+------> Magadhi <*avara>
+-------> Bengali `আর` <ar>: "and"
+------?> Bengali `ও` <ō>: "and, also"
+------> Sauraseni `𑀅𑀯𑀭` <avara>
+-------> Madhya Sauraseni
+--------> Hindi `और` <aur>: "other, more, and"
+-------> Northwestern Sauraseni
+--------> Punjabi `ਹੋਰ` <hor>: "more, another, different"
+-------> Western Sauraseni
+--------> Romani `aver`: "other"
+-------> Telugu `అపరము` <aparamu>: "other, another"
+----> Iranian
+-----> Avestan `𐬀𐬞𐬀𐬭𐬀` <apara>: "later, further back"
+-----> Western Iranian
+------> Old Persian `𐎠𐎱𐎼` <apara>: "later, after"
+
+
+--> Proto-Indo-European <*h₂epteros> (contrastive)
+
+---> Germanic <*afteraz>: "back, behind"
+
+----> Germanic <*after>: "after, behind" (locative adverb)
+-----> North Germanic `ᚨᚠᛏᛖᚱ` <after>: "after" ([https://en.wikipedia.org/wiki/Tune_stone|on the Tune Stone])
+------> Old Norse `eptir`: "after, afterwards, along"
+-----> West Germanic
+------> Old English `æfter`
+-------> English `after`!
+
+--> Proto-Indo-European <*h₂epotm̥mos>: "furthest back, furthest away"
+
+---> Indo-Iranian <*Hapatamás>
+----> Iranian
+-----> Western Iranian
+------> Old Persian <*apatama>
+-------> Persian `افدم` <afdom>: "last, end, oldest, finale"
+
+
+
+--> Proto-Indo-European <*h₂épyeh₂>: "an awaying? a turning back?"
+
+---> Germanic <*abjǭ>: "an ebb"
+----> North Germanic
+-----> Old Norse `efja`: "mud, ooze"
+----> West Germanic <*abbjā>
+-----> Old English `ebba`: "an ebb, a tide"
+------> English `ebb`
+----> Finnic <*apaja>: "bay, fishing spot"
+-----> Finnish `apaja`: "fishing spot, fishing waters"
+
+--> Proto-Indo-European <*h₂époh₃kʷos>: "looking back"
+
+---> Balto-Slavic
+----> East Baltic
+-----> Lithuanian `apúokas`: "eagle owl" (for being able to turn their head around and look backward)
+----> Slavic <*opakъ>
+-----> South Slavic
+------> Serbo-Croatian `опак` <opak>: "wicked, spiteful, severe"
+
+---> Germanic <*abuhaz>: "backwards, inverted, wicked"
+----> East Germanic
+-----> Gothic `𐌹𐌱𐌿𐌺𐍃` <ibuks>: "backward, back"
+----> North Germanic
+-----> Old Norse `ǫfugr`: "backward, unkind, harsh"
+------> Danish `avet`: "backward"
+------> Icelandic `öfugur`: "backward, inverted, wrong, inside out, queer"
+------> English `awk`
+-------> English `awkward`!
+----> West Germanic
+-----> Old High German `abuh`
+------> German `äbich`: "inside out"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀅𑀧𑀸𑀜𑁆𑀘𑁆` <apāñc>: "facing backward, behind, western"
+
+
+endbody
+
+
+
+startnotes
+
+# As I've said before, I'm not always thrilled with the word `autism`=eng-Latn—it was originally coined to describe a symptom of a completely different neurotype, and then applied to us by a Nazi. And yet, it's still probably the best term available. If I break down the morpehemes past Greek all the way to PIE, I get <*h₂ew-tó-id-ye-mos>, which I translate as "doing-that-again-ness", which I can get behind.
+
+
+## Latin `au-`=lat-Latn (from <*h₂ew->) became an allomorph of `ab-`=lat-Latn (<*h₂epó>) used before base words starting with `f-`=lat-Latn, interpreted as if it was a dissimilatory variant of `ab-`=lat-Latn.
+
+### Proto-Indo-European <*h₂weg-> and <*h₂ewg->, both "to increase, to enlarge" are clearly variants, with one (or both) formed by guessing were the root vowel was supposed to be from a zero-grade form. Typologically, it is more common for that re-analysis to have gone from <*h₂weg-> to <*h₂ewg->. But if the pair is connected to <*h₂ew-> perhaps it went the other way. Or perhaps both were back formed separately from the same zero-grade extension form, <*h₂wg->.
+
+
+endnotes

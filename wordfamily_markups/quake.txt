@@ -1,0 +1,44 @@
+
+
+startbody
+
+Proto-Indo-European <*gʷeg->: "to shake"
+
+-> Proto-Indo-European <*gʷegyeti>
+
+--> Germanic <*kwakjaną>
+---> West Germanic
+----> Old English `cweċċan`: "to shake, to vibrate, to shake off"
+-----> English `quake`
+------> English `earthquake`
+
+
+-> Proto-Indo-European <*gʷogeti>
+--> Celtic <*gʷogati>
+---> Old Irish `bocaid`: "softens, moves, shakes" #
+----> Irish `bogadh`
+----> Old Irish `bocach`: "bog, moor, marsh"
+-----> Irish `bogach`
+------> English `bog`
+
+
+-> Proto-Indo-European <*gʷegs->
+
+--> Proto-Indo-European <*gʷegseti>
+
+---> Italic <*gʷeksazi>
+----> Latin `vexāre`: "to shake, to jolt, to harass, to annoy"
+-----> Western Romance
+------> Old French `vexer`
+-------> French `vexer`: "to irritate, to annoy, to offend"
+-------> English `vex`
+
+
+endbody
+
+
+startnotes
+
+# Most likely merged with <*buggos>: "soft"
+
+endnotes

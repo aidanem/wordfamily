@@ -1,0 +1,31 @@
+startbody
+
+Phoenician `𐤒𐤓𐤕` <qrt>: "city"
+-> Phoenician `𐤒𐤓𐤕𐤇𐤃𐤔𐤕` <qrtḥdšt>: "place name: New-City"
+--> Etruscan <*carθaza>
+---> Latin `Carthago`
+----> English `Carthage`
+--> Classical Greek `Καρχηδών` <Karkhēdṓn>: "Carthage"
+---> Greek `Καρχηδόνα` <Karchidóna>: "Carthage"
+--> Classical Greek `Χαλκηδών` <Khalkēdṓn>: "Chalcedon"
+---> Greek `Χαλκηδών` <Chalkidón>
+----> Turkish `Kadıköy`
+---> Latin `Chalcedon`
+----> English `Chalcedon`
+----> Latin `(lapis) chalcedonius`: "stone of Chalcedon, chalcedony"
+-----> English `chalcedony`
+-> Phoenician `𐤒𐤓𐤕𐤉𐤅𐤁𐤏𐤉` <qrtywbʿy>: "place name: City-of-Juba?"
+--> Classical Greek `Κορδύβη` <Kordúbē>
+---> Greek `Κορδύβη` <Kordývi>
+--> Latin `Corduba`
+---> Arabic `قرطبة` <Qurṭubah>
+----> Spanish `Córdoba`
+-----> English `Cordoba`
+-----> English `Cordova`
+------> English `cordovan`
+-------> English `cordwain`
+--------> English `cordwainer`
+----> Arabic `القرطبي` <al-Qurṭubī>
+
+
+endbody

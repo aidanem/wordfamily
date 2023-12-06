@@ -1,0 +1,167 @@
+date: 20231027
+tags: Family
+
+
+
+
+startbody
+
+Proto-Indo-European <*bʰréh₂tēr>: "brother"
+
+-> Anatolian
+--> Lydian `𐤡𐤭𐤠𐤱𐤭𐤳𐤦𐤳` <brafrsis>: "brother, community member"
+
+-> Pre-Armenian <*rbayr> (regular *Br → *rB metathesis)
+--> Old Armenian `եղբայր` <ełbayr>: "brother"
+---> Armenian `եղբայր` <ełbayr>: "brother"
+
+-> Balto-Slavic <*brā́ˀtē>
+--> East Baltic <*brote>
+---> East Baltic <*broterė́lis> (diminutive)
+---> Lithuanian `brólis`: "brother"
+--> Slavic <*bràtrъ>
+---> East Slavic `братъ`
+----> Russian `брат` <brat>: "brother, pal"
+-----> Russian `братва́` <bratvá>: "brotherhood, mafia"
+------> English `bratva`
+----> Ukrainian `брат` <brat>: "brother, friar, pal"
+---> South Slavic
+----> Old Church Slavonic `братръ` <bratrŭ>: "brother"
+----> Serbo-Croatian `бра̏т` <brȁt>: "brother, pal"
+---> West Slavic
+----> Polish `brat`
+--> West Baltic
+---> Old Prussian `brāti`: "brother, comrade, community member"
+
+
+-> Celtic <*brātīr>
+--> Brythonic <*brọdr>
+---> Welsh `brawd`: "brother, friar"
+--> Gaulish <*bratir>
+---> Gaulish `Bratonos`: "Little-Brother (personal name)"
+--> Old Irish `bráthair`: "brother, cousin, kinsman"
+---> Irish `bráthair`: "monk, friar, community member"
+---> Old Irish `derbráthair`: "full brother, brother german" (lit. "certain-brother")
+----> Irish `deartháir`: "brother"
+
+
+-> Germanic <*brōþēr>
+--> East Germanic
+---> Gothic `𐌱𐍂𐍉𐌸𐌰𐍂` <brōþar>: "brother"
+---> Crimean Gothic `bruder`
+--> North Germanic
+---> Old Norse `bróðir`: "brother"
+----> Danish `bror`: "brother"
+----> Icelandic `bróðir`: "brother"
+--> West Germanic
+---> Old English `brōþor`: "brother"
+----> English `brother`!
+-----> English `bro`
+----?> English `buddy` (possibly a baby talk alteration of "brother")
+----> Scots `brither`: "brother"
+----> Yola `brover`: "brother"
+---> Frankish
+----> Dutch `broeder`: "brother (dated), friar, community member, colleague"
+-----> Dutch `broer`: "brother"
+---> Old High German `bruoder`: "brother"
+----> German `Bruder`: "brother"
+----> Yiddish `ברודער` <bruder>: "brother"
+
+
+-> Hellenic <*pʰrā́tēr>
+--> Classical Greek `φρᾱ́τηρ` <phrā́tēr>: "kinsman, community member, citizen"
+---> Classical Greek `φρᾱτρῐ́ᾱ` <phrātríā>: "brotherhood, clan, association, conspiracy"
+----> Latin `phratria`
+-----> English `phratry`
+
+
+-> Indo-Iranian <*bʰráHtā>
+
+--> Indo-Aryan
+---> Sanskrit `𑀪𑁆𑀭𑀸𑀢𑀾` <bhrā́tṛ>: "brother, kinsman, paternal cousin, friend"
+----> Magadhi `𑀪𑀸𑀇` <bhāi>
+-----> Bengali `ভাই` <bhai>: "brother"
+----> Maharashtri `𑀪𑀸𑀉` <bhāu>
+-----> Marathi `भाऊ` <bhāū>: "brother"
+----> Pali `𑀪𑀸𑀢𑀭𑁆` <bhātar>
+----> Sauraseni `𑀪𑀸𑀇` <bhāi>
+-----> Madhya Sauraseni
+------> Hindi `भाई` <bhāī>: "brother, sir (informal)"
+-------> Hindi `भैया` <bhaiyā>: "brother (esp. elder), sir (to an elder male)"
+-----> Northwestern Sauraseni
+------> Kashmiri `بوے` <bōē>: "brother"
+-----> Western Sauraseni
+------> Romani
+-------> Vlax Romani `phral`: "stepbrother, fellow, companion"
+-------> Angloromani `pal`: "brother, friend"
+--------> English `pal`!
+----> Hindi `भ्राता` <bhrātā>: "brother"
+----> Hindi `भ्रातृ` <bhrātŕ>: "brother"
+----> Telugu `భ్రాత` <bhrāta>: "brother"
+
+--> Iranian <*bráHtā>
+---> Avestan `𐬠𐬭𐬁𐬙𐬀𐬭` <brātar>: "brother"
+---> Northern Iranian
+----> Scythian <*βrā́tā>
+-----> Ossetian `ӕрвад` <ærvad>: "kinsman, relative"
+---> Pashto `ورور` <wror>: "brother"
+---> Western Iranian
+----> Northwestern Iranian
+-----> Kurdish `bira`: "brother"
+-----> Parthian `𐫁𐫡𐫀𐫅` <brʾd>: "brother"
+---> Old Persian `𐎲𐎼𐎠𐎫𐎠` <b-r-a-t-a>: "brother"
+----> Persian `برادر` <barâdar>: "brother, comrade"
+-----> Bengali `বেরাদর` <beradôr>: "brother, kinsmen, friend"
+-----> Ottoman Turkish `برادر` <birader>: "brother"
+------> Turkish `birader`
+------> Serbo-Croatian `бура̀зер` <buràzer>: "bro, friend"
+
+--> Nuristani
+---> Ashkun `břā`
+---> Kamviri `břo`
+
+
+-> Italic <*frātēr>
+--> Latin `frāter`: "brother, friend, community member, sibling"
+---> Sardinian `frade`: "brother"
+---> Eastern Romance
+----> Dalmatian `frutro`: "brother"
+----> Romanian `frate`: "brother"
+---> Western Romance
+----> Old French `frere`
+-----> French `frère`: "brother, monk"
+-----> English `friar`!
+----> Italian `frate`: "friar, monk, brother"
+-----> English `fra`
+----> Old Occitan `fraire`
+-----> Spanish `fraile`: "friar"
+-----> Spanish `fray`: "friar"
+---> English `frater`
+---> Latin `frāternālis`: "brotherly, fraternal"
+----> Old French
+-----> French `fraternel`: "fraternal"
+-----> English `fraternal`
+---> Latin `frāternitās`: "brotherhood"
+----> Western Romance
+-----> Italian `fraternità`: "fraternity, brotherhood"
+----> Old French
+-----> French `fraternité`: "fraternity, brotherhood"
+-----> English `fraternity`
+----> Spanish `fraternidad`: "fraternity, brotherhood"
+--> Oscan `𐌚𐌓𐌀𐌕𐌓𐌞𐌌` <fratrúm>: "of brothers" (probably gen. pl.)
+--> Venetic `𐌇𐌅𐌓𐌀𐌕𐌄𐌓𐌄𐌉` <fraterei>: "for a brother" (attested in dat. sg.)
+
+
+-> Mysian `βρατεραις` <braterais>: "for brothers" (dat. pl.)
+
+-> Phrygian `βρατερε` <bratere>: "for a brother" (dat. sg.)
+
+-> Tocharian <*procer>: "brother"
+--> Arshian <pracar>: "brother"
+--> Kushean <procer>: "brother"
+
+
+
+
+
+endbody

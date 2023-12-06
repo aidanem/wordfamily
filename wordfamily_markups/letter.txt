@@ -1,0 +1,156 @@
+date: 20231124
+tags: Sci-fi, Sumerian, Writing
+
+
+startintro
+
+There are two words from Sumerian whose descendants are still used all over the world today: [wff-cane|<gi>]: "reed"—what they wrote with—and <dub>: "tablet"—what they wrote on.
+
+Just in case you wonder how important Sumerian writing was in world history.
+
+The word `tablet`=eng-Latn (Latin `tabula`=lat-Latn) is probably not related, despite the phonological and semantic match. On the other hand, there's disagreement about exactly where `tabula`=lat-Latn does come from, so…
+
+
+endintro
+
+
+startbody
+
+Sumerian `𒁾` <dub>: "tablet"
+-> Sumerian `𒂍𒁾𒁀𒀀` <e₂-dub-ba-a> [edubak]: "school, storehouse" ("house of tablets")
+-> Sumerian `𒄀𒁾𒁀` <gi-dub-ba> [gidubak]: "stylus" ("tablet reed", with [wff-cane|<gi>])
+-> Sumerian `𒁾𒊬` <dub-sar >: "scribe"
+
+-> Akkadian `𒁾` <ṭuppu(m)>: "tablet, document, letter"
+
+--> Aramaic `𐡈𐡁𐡏` <ṭbʿ>: "to stamp, to seal"
+---> Classical Syriac `ܛܒܥܐ` <ṭavʿa>: "text, signature, authority, style, seal"
+---> Arabic `طبع` <ṭabaʿa>: "to print, to stamp, to type, to coin"
+----> Arabic `مطبوعات` <maṭbūʿāt>: "printed material, the press"
+-----> Persian `مطبوعات` <matbu'ât>: "the press
+-----> Turkish `matbuat`: "the press"
+
+
+--> Elamite
+---> Old Persian `𐎮𐎡𐎱𐎡` <di-i-p-i>: "document"
+----> Middle Persian <dp>
+-----> Persian `دف` <daf>: "frame drum, daf"
+------> English `daf`
+-----> Persian `دب` <dab>
+------> Arabic `أدب` <ʾadab>: "literature, learning, culture, courtesy"
+-------> Arabic `مؤدب` <muʾaddib>: "teacher"
+--------> English `Muad'dib`
+
+----> Prakrit `𑀤𑀺𑀧𑀺` <dipi>
+-----> Prakrit `𑀮𑀺𑀧𑀺` <lipi>
+------> Sanskrit `𑀮𑀺𑀧𑀺` <lipi>: "writing, inscription, document, painting"
+-------> Hindi `लिपि` <lipi>: "writing, script, letter, character"
+
+----> Old Persian <*dipī-var->
+-----> Middle Persian `𐭣𐭯𐭩𐭥𐭥` <dpywr>: "scribe"
+------> Persian `دبیر` <dabir>: "scribe, secretary"
+------> Armenian `դպիր` <dpir>: "scholar, scribe"
+-------> Armenian `դպրոց` <dprocʿ>: "school"
+
+----> Old Persian <*dipī-vahanam>: "document-house"
+-----> Middle Persian `𐭣𐭯𐭩𐭥𐭠𐭭` <dpywʾn'>: "collection of writings, archive"
+------> Persian `دیوان` <divân>: "collection of poems, court, council, register list of soldiers, sofa, couch"
+-------> Arabic `ديوان` <dīwān>: "register, registration book, collection of poetry, council, court, gathering place, couch"
+--------> Andalusi Arabic <*duwān>
+---------> Medieval Latin `dogana`: "customs, customs house, tariff"
+----------> Albanian `doganë`: "customs"
+----------> French `douane`: "customs, customs office"
+-----------> Algerian Arabic `الديوانة` <al-dīwāna>
+-----------> Dutch `douane`: "customs, customs officer"
+-----------> English `douane`
+----------> Italian `dogana`: "customs, customs house, tariff"
+---------> Spanish `aduana`: "customs"
+----------> Tagalog `adwana`: "customs, customs house, tariff"
+-------> Georgian `დივანი` <divani>: "divan, sofa"
+
+-------> Hindi `दीवान` <dīvān>: "royal court, tribunal, collection of poems"
+--------> English `dewan`
+
+-------> Malay `dewan`: "council, court, hall"
+
+-------> Ottoman Turkish `دیوان` <dîvân>
+--------> Turkish `divan`
+---------> French `divan`
+----------> English `divan`!
+----------> German `Diwan`
+
+--> Hebrew `דף` <dáf>: "page, sheet of paper"
+
+
+
+
+-?> Unknown transmission
+
+---> Hellenic <*dipʰtʰérā>
+----> Mycenaean Greek `𐀇𐁇𐀨` <di-pte-ra>
+----> Classical Greek `διφθέρᾱ` <diphthérā>
+-----> Greek `διφθέρα` <difthéra>
+-----> French `diphtérie`
+------> English `diphtheria`!
+
+-----> Aramaic `𐡃𐡐𐡕𐡓𐡀` <dptrʾ>: "parchment, hide, accounting book"
+------> Middle Persian `𐭣𐭯𐭲𐭫` <dptl> [daftar]
+-------> Persian `دفتر` <daftar>: "register, account book, notebook, office"
+-------> Arabic `دفتر` <daftar>: "register, roster, notebook"
+--------> Malay `daftar`: "list, register"
+--------> Ottoman Turkish
+---------> Turkish `defter`: "notebook, inventory, register, tax roll"
+---------> Greek `τεφτέρι` <teftéri>: "ledger, accounts book"
+---------> Serbo-Croatian `де̏фтер` <dȅfter>: "notebook, accounting records"
+
+
+-----> Etruscan 
+------> Latin `littera`: "letter, handwriting, literature, learning, books" ##
+-------> Central Romance
+--------> Dalmatian `latera`: "letter"
+--------> Italian `lettera`: "letter, literature"
+---------> Albanian `letër`: "paper, letter, document, literature, playing card"
+-------> Western Romance
+--------> Old French `letre`
+---------> French `lettre`: "letter"
+---------> Dutch `letter`
+----------> Malay `leter`: "letter"
+----------> Japanese `レッテル` <retteru>: "label"
+---------> English `letter`!
+--------> Spanish `letra`: "letter, handwriting, lyrics"
+-------> German `Letter`
+-------> Old Irish `liter`
+--------> Irish `litir`
+-------> Russian `литера` <lítera>
+-------> Welsh `llythyr`
+
+-------> Latin `litteratura`: "lettering, learning, grammar, philology"
+--------> French `littérature`
+---------> English `literature`
+
+-------> Latin `litteralis`
+--------> Old French `literal`
+---------> French `littéral`
+---------> English `literal`
+-------> Latin `litterarius`
+--------> Old French
+---------> French `littéraire`
+---------> English `literary`
+
+-------> New Latin `alliteratio`
+--------> English `alliteration`
+
+
+endbody
+
+startnotes
+
+## For Greek /d/ -> Etruscan -> Latin /l/, compare Odysseus -> Ulysses. And the general pattern of unexplained /l/s in Old Latin, many but not all originally /d/.
+
+
+endnotes
+
+
+
+
+

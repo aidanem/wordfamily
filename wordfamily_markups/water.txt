@@ -1,9 +1,11 @@
 
 date: 20170818
-theme: Elements So Slow 🌎🌊
-
+theme: Earth and Water 🌎🌊
+tags: Alcohol, Elements
 
 startintro
+
+<*wed->: "water" and some potentially related other roots
 
 I love how Indo-European <*udrós>, "aquatic", became the word for "otter" in 4 out of the 5 branches where it is attested, except for Greek where it became "sea serpent".
 
@@ -14,125 +16,74 @@ startbody
 
 Proto-Indo-European <*wed->: "water" 
 
--> Proto-Indo-European <*wódr̥>: "water" (oblique form: <*udén->)
 
---> Pre-Albanian <*udrijā>
-----> Albanian `ujë`: "water"
 
---> Anatolian
----> Hittite `𒉿𒀀𒋻` <wa-a-tar>: "water" ##
+-> Proto-Indo-European <*wodsḱeti> (iterative verb)
 
---> Balto-Slavic <*wandō>: "water"
----> Lithuanian `vanduõ`: "water, flow, current"
-----> Lithuanian `vandenilis`: "hydrogen"
----> Slavic <*vodà>: "water"
-----> East Slavic
------> Russian `вода́` <vodá>: "water"
-------> Russian `водоро́д` <vodoród>: "hydrogen"
-------> Russian `во́дка` <vódka>: "vodka, distilled alcohol" (<вода́> + <-ка>, a nominal derivational suffix, often dimunitve) ###
--------> English `vodka`³
---------> Japanese `ウォッカ` <wokka>: "vodka"
-----> South Slavic
------> Serbo-Croatian `во̀да` <vòda>: "water"
-------> Serbo-Croatian `во̀дӣк` <vòdīk<, `водоник` <vodonik>: "hydrogen"
-----> West Slavic
------> Polish `woda`: "water"
-------> Polish `wodór`: "hydrogen"
-----> Slavic <*vědro>: "(water) bucket"
------> East Slavic
-------> Russian `ведро́` <vedró>: "bucket", also an old Russian unit of liquid measurement ~ 12 liters
------> South Slavic
-------> Serbo-Croatian `ве̏дро` <vȅdro>: "bucket"
------> West Slavic
-------> Polish `wiadro`: "bucket"
-
---> Celtic <*udenskyos>: "water"
----> Irish `uisce`: "water"
-----> Irish `uisce beatha`: "whiskey, distilled alchohol"³
------> English `whiskey`
-------> Irish `fuisce`: "whiskey"
-------> Japanese `ウィスキー` <wisukī>: "whisky"
-
---> Germanic <*watōr>: "water"
----> East Germanic
-----> Gothic `𐍅𐌰𐍄𐍉` <watō>: "water"
----> North Germanic
-----> Old Norse `vatn`: "water, lake, river"
------> Danish `vand`: "water"
------> Icelandic `vatn`: "water, lake"
-------> Icelandic `vetni`: "hydrogen"
+--> Germanic <*waskaną>: "to wash"
+---> North Germanic 
+----> Old Norse `vaska`: "to wash"
+-----> Danish `vaske`: "to wash, to launder, to shuffle"
+-----> Icelandic `vaska`: "to wash"
 ---> West Germanic
-----> Old English `wæter`: "water"
------> English `water`
-------> Jamaican Creole `wata`: "water"
------> Scots `watir`: "water"
-----> Old High German
------> German `Wasser`
-------> German `Wasserstoff`: "hydrogen" ("water-stuff")
------> Yiddish `וואַסער` <vaser>: "water"
-
---> Hellenic
----> Mycenaean Greek `𐀄𐀈` <u-do>: "water"
-----> Ancient Greek `ῠ̔́δωρ` <húdōr>: "water, rain, sweat, time"
------> English `hydro-`
------> French `hydro-`
-------> French `hydrogène`: "hydrogen"
--------> Translingual `H`: chemical symbol for hydrogen
--------> English `hydrogen`
-
---> Indo-Iranian
----> Indo-Aryan
-----> Dardic <*udá>
------> Kashmiri <odūr>
-----> Sanskrit `उदन्` <udán>
------> Hindi `उदजन` <udjan>: "hydrogen" (learned borrowing. None of Hindi's words for "water" are related.)
------> Telugu `ఉదకము` <udakamu>: "water"
-
---> Italic
----> Latin `unda`: "wave"
-----> Sardinian `unda`
-----> Eastern Romance
------> Romanian `undă`: "wave"
-----> Western Romance
------> French `onde`: "wave (technical)" ####
-------> French `onduler`: "to wave (a hand)" ####
------> Italian `onda`: "wave"
------> Spanish `onda`: "wave, style, mood"
------> Latin `undulātus`: "wavy" 
-------> English `undulate`
------> Latin `inundō`: "flood" ("in-wave")
-------> English `inundate`
-------> Spanish `inundar`: "to flood"
------> New Latin `undina`: "female water spirit, undine" (coined by Paracelsus in the 16th C)
-------> German `Undine`: "undine"
-------> English `undine`
-------> French `ondine`: "undine, mermaid"
-------> Italian `ondina`: "undine, mermaid, female swimming champion"
----> Umbrian `𐌖𐌕𐌖𐌓` <utur>: "water"
----?> Latin `ūter`: "water skin, wineskin, hide bag for flotation"
-
---> Tocharian
----> Arshian <wär>: "water"
+----> Old English `wascan`: "to wash"
+-----> English `wash`!
+----> Old High German `waskan`
+-----> German `waschen`: "to wash"
+-----> Yiddish `וואַשן` <vashn>: "to wash"
+----> Frankish <*waskan>: "to wash"
+-----> Dutch `wassen`: "to wash"
+-----> French `gâcher`: "to soak, to ruin, spoil, to waste, to mess up"
 
 
--> Proto-Indo-European <*wéd-os-> (action noun, "waterer"?, "wateringness"?)
+
+-> Proto-Indo-European <*wédos-> (action noun, "waterer"?, "wateringness"?)
 
 --> Armenian `գետ` <get>: "river"
 
+--> Germanic <*wētaz>: "wet"
+---> North Germanic
+----> Old Norse `vátr`: "wet"
+-----> Danish `våd`: "wet"
+-----> Icelandic `votur`: "wet"
+---> West Germanic
+----> Old English `wǣt`: "wet"
+----?> English `wet` (adjective)
+
+---> Germanic <*wētijǭ>: "wetness, moisture"
+----> North Germanic
+-----> Old Norse `væta`
+------> Danish `væde`: "moisture"
+------> Icelandic `væta`: "wetness, moisture, rainy weather"
+
+---> Germanic <*wētijaną>: "to make wet, to wet"
+----> North Germanic
+-----> Old Norse `væta`
+------> Danish `væde`: "to wet, to moisten"
+------> Icelandic `væta`: "to wet, to make wet"
+----> West Germanic
+-----> Old English `wǣtan`: "to wet, to moisten"
+------> English `wet` (verb)
+------> Old English `(ġe)wǣted`: "made wet, wetted"
+-------> Middle English `(y)wett`
+--------> English `wet` (adjective)
+
+
 --> Indo-Iranian
 ---> Indo-Aryan
-----> Sanskrit `उत्स` <útsa>: "spring, fountain"
+----> Sanskrit `𑀉𑀢𑁆𑀲` <útsa>: "spring, fountain"
 
 
--> Proto-Indo-European <*wed-ro->  : "water-like, watery"
+-> Proto-Indo-European <*wedros>  : "water-like, watery"
 
 --> Italic <*wedrom>: "glass"
 ---> Latin `vitrum`: "glass"
+----> Central Romance
+-----> Italian `vetro`: "glass"
 ----> Eastern Romance
 -----> Romanian `vitră`
 ----> Western Romance
 -----> French `verre`: "glass"
------> Italian `vetro`: "glass"
 -----> Spanish `vidrio`: "glass"
 ----> French `vitre`: "pane of glass, car window" (re-borrowing)
 -----> French `vitrine`: "shop window, glass-panelled showcase, vitrine"
@@ -154,16 +105,24 @@ Proto-Indo-European <*wed->: "water"
 --> Proto-Indo-European <*udrós>: "of water, aquatic (animal)"
 
 ---> Balto-Slavic <*ūˀdrāˀ>: "otter"
-----> Lithuanian `ū́dra`: "otter"
+----> East Baltic
+-----> Lithuanian `ū́dra`: "otter"
 ----> Slavic <*vỳdra>: "otter"
 -----> East Slavic
 ------> Russian `вы́дра` <výdra>: "otter"
 ------> Yiddish `ווידרע`‎ <vidre>: "otter"
 -----> South Slavic
+------> Bulgarian `ви́дра` <vídra>: "otter"
+-------> Albanian `vidër`: "otter"
+-------> Greek `βίδρα` <vídra>: "otter"
+-------> Hungarian `vidra`: "otter"
+-------> Bulgarian `vidră`: "otter"
 ------> Serbo-Croatian `ви́дра` <výdra>: "otter"
-------> Greek `βίδρα` <vídra>: "otter"
 -----> West Slavic
+------> Czech `vydra`: "otter"
 ------> Polish `wydra`: "otter"
+----> West Baltic
+-----> Old Prussian `vdro`: "otter"
 
 
 ---> Germanic <*utraz>
@@ -173,7 +132,7 @@ Proto-Indo-European <*wed->: "water"
 ------> Icelandic `otur`: "otter"
 ----> West Germanic
 -----> Old English `oter`: "otter"
-------> English `otter`
+------> English `otter`!
 ------> Scots `otter`
 -----> Frankish
 ------> Dutch `otter`
@@ -182,59 +141,369 @@ Proto-Indo-European <*wed->: "water"
 
 ---> Hellenic
 ----> Mycenaean Greek `𐀄𐀈𐀫` <u-do-ro>
-----> Ancient Greek `ὕδρα` <húdra>: "sea snake, sea serpent, hydra"
+----> Classical Greek `ὕδρα` <húdra>: "sea snake, sea serpent, hydra"
 -----> Latin `hydra`
-------> English `hydra`
+------> English `hydra`!
 
 ---> Indo-Iranian <*udrás>
 ----> Indo-Aryan <*udrás>
------> Sanskrit `उद्र` <udrá>: "otter, aquatic animal"
+-----> Sanskrit `𑀉𑀤𑁆𑀭` <udrá>: "otter, aquatic animal"
 ------> Magadhi
 -------> Assamese `উদ` <ud>: "otter"
 ------> Sauraseni
--------> Madhya
+-------> Madhya Sauraseni
 --------> Hindi `ऊद` <ūd>: "otter, beaver" (rare)
 ---------> Hindi `ऊदबिलाव` <ūdbilāv>: "otter, beaver" (more common. derivationally, "otter-civet")
 ------> Telugu `ఉద్రము` <udramu>: "otter"
 ----> Iranian <*udráh>: "otter"
------> East Iranian
+-----> Avestan `𐬎𐬛𐬭𐬀` <udra->: "otter"
+-----> Northern Iranian
 ------> Scythian
 -------> Ossetian `уырд` <wyrd>: "otter"
-------> Avestan `𐬎𐬛𐬭𐬀` <udra->: "otter"
------> West Iranian
+-----> Western Iranian
 ------> Old Persian
--------> Middle Persian `ʾwdlk'` <udrag>
+-------> Middle Persian `𐭠𐭥𐭣𐭫𐭪` <udrag>
 --------> Persian `اودر‏‎` <ūdar>: "otter" (archaic)
 
 ---> Italic
 ----> Latin `lutra`: "otter" #####
------> Sardinian `lontra`
+-----> Central Romance
+------> Italian `lontra`: "otter"
+-----> Insular Romance
+------> Sardinian `lontra`
 -----> Eastern Romance
 ------> Romanian `lutră`: "otter"
 -----> Western Romance
 ------> French `loutre`: "otter"
-------> Italian `lontra`: "otter"
 ------> Spanish `lutria`: "otter"
 ------> Spanish `nutria`: "otter"
------> Translingual `Lutra`: taxnomic genus of Old World river otters
+-----> Translingual `Lutra`: "taxnomic genus of Old World river otters"
 
 
---> Proto-Indo-European <*wodsḱe> (iterative)
 
----> Germanic <*waskaną>: "to wash"
-----> North Germanic 
------> Old Norse `vaska`: "to wash"
-------> Danish `vaske`: "to wash, to launder, to shuffle"
-------> Icelandic `vaska`: "to wash"
-----> West Germanic
------> Old English `wascan`: "to wash"
-------> English `wash`
------> Old High German `waskan`
-------> German `waschen`: "to wash"
-------> Yiddish `וואַשן` <vashn>: "to wash"
------> Frankish <*waskan>: "to wash"
-------> Dutch `wassen`: "to wash"
-------> French `gâcher`: "to soak, to ruin, spoil, to waste, to mess up"
+-> Proto-Indo-European <*wódr̥>: "water" (oblique form was originally <*wedn̥->, later <*udén->)
+
+--> Pre-Albanian <*udrijā>
+----> Albanian `ujë`: "water"
+
+--> Anatolian
+---> Hittite `𒉿𒀀𒋻` <wa-a-tar>: "water" ##
+
+--> Balto-Slavic <*wandō>: "water"
+---> East Baltic
+----> Lithuanian `vanduõ`: "water, flow, current"
+-----> Lithuanian `vandenilis`: "hydrogen"
+---> Slavic <*vodà>: "water"
+----> East Slavic
+-----> Russian `вода́` <vodá>: "water"
+------> Russian `водоро́д` <vodoród>: "hydrogen"
+------> Russian `во́дка` <vódka>: "vodka, distilled alcohol" (<вода́> + <-ка>, a nominal derivational suffix, often dimunitve) ###
+-------> English `vodka`! ###
+--------> Japanese `ウォッカ` <wokka>: "vodka"
+----> South Slavic
+-----> Serbo-Croatian `во̀да` <vòda>: "water"
+------> Serbo-Croatian `во̀дӣк` <vòdīk>: "hydrogen"
+------> Serbo-Croatian `водоник` <vodonik>: "hydrogen"
+----> West Slavic
+-----> Polish `woda`: "water"
+------> Polish `wodór`: "hydrogen"
+----> Slavic <*vědro>: "(water) bucket"
+-----> East Slavic
+------> Russian `ведро́` <vedró>: "bucket" (also an old Russian unit of liquid measurement ~ 12 liters)
+------> Ukrainian `відро́` <vidró>: "bucket"
+-----> South Slavic
+------> Bulgarian`ведро́` <vedró>: "bucket"
+-------> Albanian `vedër`: "bucket, milk pail"
+-------> Greek `βέδρον` <védron>
+-------> Hungarian `veder`: "bucket"
+-------> Hungarian `vödör`: "bucket" (different adaptation to vowel harmony)
+------> Serbo-Croatian `ве̏дро` <vȅdro>: "bucket"
+-----> West Slavic
+------> Czech `vědro`: "bucket"
+------> Polish `wiadro`: "bucket"
+---> West Baltic
+----> Old Prussian `wundan`: "water"
+
+--> Celtic <*udens>
+--?> Celtic <*udenskyos>: "water"
+----> Irish `uisce`: "water"
+-----> Irish `uisce beatha`: "whiskey, distilled alchohol" ###
+------> English `whiskey`!
+-------> Irish `fuisce`: "whiskey"
+-------> Japanese `ウィスキー` <wisukī>: "whiskey"
+
+--> Germanic <*watōr>: "water"
+---> East Germanic
+----> Gothic `𐍅𐌰𐍄𐍉` <watō>: "water"
+---> North Germanic
+----> Old Norse `vatn`: "water, lake, river"
+-----> Danish `vand`: "water"
+-----> Icelandic `vatn`: "water, lake"
+------> Icelandic `vetni`: "hydrogen"
+---> West Germanic
+----> Old English `wæter`: "water"
+-----> English `water`!
+------> Jamaican Creole `wata`: "water"
+-----> Scots `watir`: "water"
+----> Old High German
+-----> German `Wasser`
+------> German `Wasserstoff`: "hydrogen" ("water-stuff")
+-----> Yiddish `וואַסער` <vaser>: "water"
+
+--> Hellenic
+---> Mycenaean Greek `𐀄𐀈` <u-do>: "water"
+----> Classical Greek `ῠ̔́δωρ` <húdōr>: "water, rain, sweat, time"
+-----> English `hydro-`
+-----> French `hydro-`
+------> French `hydrogène`: "hydrogen"
+-------> Translingual `H`: chemical symbol for hydrogen
+-------> English `hydrogen`!
+-----> Classical Greek `ὑδράργῠρος` <hudrárguros>: "mercury, quicksilver" (lit. "water-silver")
+------> Latin `hydrargyrus`: "mercury, quicksilver"
+-------> New Latin `hydrargyrum`: "mercury"
+--------> Translingual `Hg`
+-----> Classical Greek `ἔνῠδρῐς` <énudris>: "otter, water snake"
+
+--> Illyrian <*adur>
+--?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria> 
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀉𑀤𑀦𑁆` <udán>: "water, wave"
+-----> Northwestern Sauraseni
+------> Kashmiri `اودُر‎` <odūr>: "wet"
+-----> Hindi `उदजन` <udjan>: "hydrogen" (learned borrowing)
+
+-----> Sanskrit `𑀉𑀤𑀓` <udaká>: "water, ablution"
+------> Elu
+-------> Sinhala `දිය` <diya>
+------> Magadhi `𑀉𑀤𑀅` <udaa>: "water"
+------> Pali `𑀉𑀤𑀓` <udaka>
+------> Sauraseni `𑀉𑀤𑀅` <udaa>: "water"
+------> Hindi `उदक` <udak>
+------> Telugu `ఉదకము` <udakamu>: "water"
+
+--> Italic
+---> Latin `unda`: "wave"
+----> Central Romance
+-----> Italian `onda`: "wave"
+----> Insular Romance
+-----> Sardinian `unda`
+----> Eastern Romance
+-----> Romanian `undă`: "wave"
+----> Western Romance
+-----> French `onde`: "wave (technical)" ####
+------> French `onduler`: "to wave (a hand)" ####
+-----> Spanish `onda`: "wave, style, mood"
+
+----> Latin `undāre`: "to wave, to undulate, to rise in waves"
+------> Italian 
+-----> Eastern Romance
+------> Romanian `a unda`: "to boil, to boil over, to surge"
+
+-----> Latin `abundāre`: "to flow from, to overflow, to exceed"
+------> Central Romance
+-------> Italian `abbondàre`: "to be plentiful, to have or use in large quantities, to abound"
+------> Insular Romance
+-------> Sardinian `abbunnàri`
+------> Western Romance
+-------> Old French `abonder`
+--------> French `abonder`: "to be found in large amounts, to abound, to finance"
+--------> English `abound`
+-------> Spanish `abundar`: "to abound, to satisfy"
+------> Latin `abundāns`: "overflowing, abundant, copious"
+-------> English `abundant`
+
+-----> Latin `inundāre`: "flood" ("in-wave")
+------> English `inundate`
+------> Spanish `inundar`: "to flood"
+
+-----> Latin `redundāre`: "to overflow, to pour forth" ("back-wave")
+------> Central Romance
+-------> Italian `ridondàre`: "to overflow, to abound, to overwhelm, to change direction"
+------> Western Romance
+-------> Old French `redunder`
+--------> French `redonder`: "to be redundant, to have too much"
+--------> English `redound`
+-------> Spanish `redundar`: "to redound, to result in"
+-------?> English `dunder`
+--------?> English `dunderhead` (or from [wff-taran|Dutch `donder`]
+
+-------> Latin `redundāns`: "overflowing"
+--------> English `redundant`!
+
+
+----> Latin `undulātus`: "wavy" 
+-----> English `undulate`
+
+----> Vulgar Latin <*undidiāre>
+-----> Central Romance
+------> Italian `ondeggiàre`
+-----> Eastern Romance
+------> Romanian `a undeza`
+-----> Western Romance
+------> French `ondoyer`
+------> Spanish `ondear`
+
+----> New Latin `undina`: "female water spirit, undine" (coined by Paracelsus in the 16th C)
+-----> German `Undine`: "undine"
+-----> English `undine`
+-----> French `ondine`: "undine, mermaid"
+-----> Italian `ondina`: "undine, mermaid, female swimming champion"
+
+---> Umbrian `𐌖𐌕𐌖𐌓` <utur>: "water"
+---?> Latin `ūter`: "water skin, wineskin, hide bag for flotation"
+---> Venetic <adur>: "water"
+---?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria>
+-----> Latin `Hadria`
+------> Latin `Hadriānus`: "of Hadria (also a family name)"
+-------> English `Hadrian`
+-------> English `Adrian`
+------> Latin `Adria`
+-------> Central Romance
+--------> Italian `Adria`
+-------> Western Romance
+---------> English `Adria`
+-------> Latin `Adriāticus`
+--------> English `Adriatic`
+
+--> Tocharian
+---> Arshian <wär>: "water"
+
+--> Venetic <*adur>
+--?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria>
+
+
+-?> Proto-Indo-European <*woh₁r> (one of several possible *d -> *h₁ alternations)
+
+--?> Anatolian
+----> Cuneiform Luwian `𒉿𒀀𒅈` <wa-a-ar>: "water"
+
+---> Balto-Slavic
+----> West Baltic
+----?> Old Prussian `wurs`: "pond"
+
+---> Germanic
+----> North Germanic
+-----> Old Norse `vari`: "blood, blood plasma"
+
+---> Indo-Iranian <*waHr>
+----> Indo-Aryan
+-----> Sanskrit `वार्` <var>: "water, pool"
+----> Iranian <*wāra>: "rain"
+-----> Avestan `𐬬𐬁𐬭𐬀` <vāra>: "rain"
+-----> Western Iranian <*wārān>
+------> Northwestern Iranian
+-------> Kurdish `baran`: "rain"
+------> Old Persian
+-------> Middle Persian `𐭡𐭠𐭫𐭠𐭭` <wʾrʾn>
+--------> Persian `باران` <bârân>: "rain"
+
+
+---> Italic <*wōr->: "water"
+----> Italic <*ūrinos>: "made of water, watery"
+-----> Latin `ūrīna`: "urine"
+------> Central Romance
+-------> Italian `orina`
+--------> Italian `urina` (re-Latinized)
+------> Western Romance
+-------> Old French `orine`
+--------> French `urine` (re-Latinized)
+--------> English `urine` (re-Latinized)
+-------> Spanish `orina`
+----> Italic <*urintor>
+-----> Latin `ūrīnārī`: "to dive, to plunge into water"
+
+
+--?> Proto-Indo-European <*h₁wers->: "rain"
+
+----> Proto-Indo-European <*h₁wérseti>: "rains" (primary verb)
+
+-----> Indo-Iranian
+------> Indo-Aryan
+-------> Sanskrit `𑀯𑀭𑁆𑀱𑀢𑀺` <várṣati>: "to rain, to pour, to bestow, to be vigorous"
+
+
+----> Proto-Indo-European <*h₁worséyeti> (causative)
+
+-----> Hellenic <*eworhéyō>: "I make rain"
+------> Classical Greek `οὐρέω` <ouréō>: "I urinate
+
+-----?> Hellenic <*eworsanós>: "rain-causer?"
+------?> Classical Greek `οὐρανός` <ouranós>: "the sky, the heavens, the universe"
+--------> Latin `Uranus`
+---------> English `Uranus`
+
+
+----> Proto-Indo-European <*h₁wr̥stós>: "rained, rainy" (adjective)
+
+-----> Celtic <*wrastos>
+------> Old Irish `fros`: "rain shower"
+
+-----> Indo-Iranian <*Hwr̥štás>
+------> Indo-Aryan
+-------> Sanskrit `𑀯𑀾𑀱𑁆𑀝` <vṛṣṭá>: "rained"
+------> Iranian
+-------> Avestan <*varᵊšta>
+--------> Avestan `𐬀𐬌𐬡𐬌𐬬𐬀𐬭𐬆𐬱𐬙𐬀` <aᶤβi-varᵊšta>: "rained upon"
+
+
+----> Proto-Indo-European <*h₁wersóm>: "rain" (noun)
+
+----> Anatolian
+-----> Hittite <warsa->: "rainfall, dew"
+
+----> Indo-Iranian <*Hwaršám>
+-----> Indo-Aryan
+------> Sanskrit `𑀯𑀭𑁆𑀱` <varṣá>: "rain, the rainy season, a year"
+
+-------> Magadhi
+--------> Assamese `বৰষ` <borox>: "to rain"
+
+-------> Sauraseni `𑀯𑀭𑀺𑀱𑀦𑁆𑀢` <variṣanta>
+--------> Madhya Sauraseni
+---------> Hindi `बरसना` <barasnā>: "to rain"
+--------> Northwestern Sauraseni
+---------> Khowar `بوۨشىک` <bosik>: "to rain"
+---------> Punjabi `ਵੱਸਣਾ` <vassaṇā>: "to fall (of rain), to settle, to reside"
+--------> Western Sauraseni
+---------> Romani `briśind`: "rain"
+
+
+----> Proto-Indo-European <*h₂worsom>: "rain" (noun)
+
+-----> Hellenic <*eworhon>
+------> Classical Greek `οὖρον` <oûron>: "urine"
+
+----> Proto-Indo-European <*h₁wérsos>
+
+-----> Hellenic <*ewérsā>
+------> Classical Greek `ἕρση` <hérsē>: "dew, raindrop"
+
+----> Proto-Indo-European <*pro-h₁wérs>
+
+-----> Indo-Iranian <*praHwŕ̥š>
+------> Indo-Aryan
+-------> Sanskrit `𑀧𑁆𑀭𑀸𑀯𑀾𑀱𑁆` <prāvṛ́ṣ>: "rainy season, monsoon"
+
+
+--?> Proto-Indo-European <*h₂wer-> (proposed alternation of <*weh₁r->)
+
+---?> Indo-European substrate <**h₂wereh₂>
+----?> Latin `Avāra` (river)
+------> Western Romance
+-------> French `Yèvre`
+
+----?> Indo-European substrate <**h₂werōn>
+-----?> Latin `Auron` (tributary of the Avāra)
+-------> French `Auron`
+
+
+
+
+
+
+
 
 
 ?> Uralic <*wete>: "water" #
@@ -258,13 +527,13 @@ endbody
 startnotes
 
 
-## Hittite `𒉿𒀀𒋻` <wa-a-tar> is the word that first triggered the realization by Bedřich Hrozný that Hittite was an Indo-European language, during his decipherment of Hittite in 1917.
+## Hittite `𒉿𒀀𒋻`=hit-Xsux <wa-a-tar> is the word that first triggered the realization by Bedřich Hrozný that Hittite was an Indo-European language, during his decipherment of Hittite in 1917.
 
-### As distilled alcohols, whisky and vodka come from words meaning "water" because they are calques of the Latin `aqua vitae`, coined as the process of distillation was spread through Europe by monks during the late Medieval and early Renaissance eras.
+### As distilled alcohols, whiskey and vodka come from words meaning "water" because they are calques of the Latin `aqua vitae`=lat-Latn, coined as the process of distillation was spread through Europe by monks during the late Medieval and early Renaissance eras.
 
 #### French <onde> is a technical term. The normal term for a wave is <vague>, from the Germanic <*wēgaz>, same as English <wave>. Note that even though the French <onduler>, "to wave one's hand", is derived from <onde>, the English <wave> of that meaning is from a different Germanic root <*wabjaną>: "to wander, to sway".
 
-#### The initial 'l' in Latin `lutra` is irregular and unexplained. Suggestions include modification by association to `lupus`, "wolf" (cf. `lobo del río` https://en.wikipedia.org/wiki/Giant_otter) or `ludo`, "play".
+#### The initial 'l' in Latin `lutra`=lat-Latn is irregular and unexplained. Suggestions include modification by association to `lupus`=lat-Latn, "wolf" (cf. [https://en.wikipedia.org/wiki/Giant_otter|`lobo del río`=spa-Latn) or `ludo`=lat-Latn, "play".
 
 # Uralic <*wete> was likely borrowed from Indo-European to Uralic, replacing the inherited <*śäčä> in many branches.
 

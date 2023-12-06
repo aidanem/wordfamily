@@ -1,5 +1,5 @@
 date: 20200423
-tags: Chess
+tags: Chess, Toponymy
 
 
 
@@ -23,7 +23,7 @@ Proto-Indo-European
 ---> Albanian `sjell`: "to turn, to bring, to dawdle"
 
 ---> Hellenic <*kʷélō>
-----> Classical Greek `πέλω` <pélō>: "to go, to become, to be"
+----> Classical Greek `πέλω` <pélō>: "I go, I become, I am"
 
 -----> Classical Greek `πάλαι` <pálai>: "gone, far away, long ago"
 ------> English `paleo-`
@@ -35,7 +35,7 @@ Proto-Indo-European
 ----> Iranian <*čárati>
 -----> Avestan `𐬗𐬀𐬭𐬁𐬥𐬍` <carānī>: "I move, I approach"
 -----> Northern Iranian
-------> Alanian
+------> Scythian
 -------> Ossetian `цӕрын` <cæryn>: "I live"
 -----> Pashto `څرېدل` <caredal>: "to take to pasture, to set to graze"
 -----> Western Iranian
@@ -44,8 +44,8 @@ Proto-Indo-European
 ------> Old Persian
 -------> Persian `چریدن‎`: "to take to pasture, to set to graze"
 
----> Italic <*kʷelō>
-----> Latin `colō`: "I plow, I cultivate, I inhabit, I worship"
+---> Italic <*kʷelezi>
+----> Latin `colere`: "I plow, I cultivate, I inhabit, I worship"
 -----> Latin `-cola`: "inhabitor, cultivator, worshipper"
 ------> Latin `agricola`: "farmer" (lit. "field-turner")
 -------> Latin `Agricola`: "Farmer" (personal or family name)
@@ -82,8 +82,8 @@ Proto-Indo-European
 -----> Welsh `pallu`: "to fail, to cease, to perish, to refuse"
 
 ---> Hellenic
-----> Classical Greek `τέλλω` <téllō>: "to accomplish, to perform, to rise"
------> Classical Greek `ἀνᾰτέλλω` <anatéllō>: "to rise, to raise up, to grow, to bring to light"
+----> Classical Greek `τέλλω` <téllō>: "I accomplish, I perform, I rise"
+-----> Classical Greek `ἀνᾰτέλλω` <anatéllō>: "I rise, I raise up, I grow, I bring to light"
 ------> Classical Greek `ἀνατολή` <anatolḗ>: "sun rise, rise, east, growth"
 -------> Medieval Latin `Anatolia`
 --------> English `Anatolia`
@@ -101,7 +101,16 @@ Proto-Indo-European
 --> Proto-Indo-European <*kʷelh₁esyeti>
 
 ---> Hellenic <*kʷeléyyō>
-----> Classical Greek `τελέω` <teléō>: "I complete, I fulfill, I perform"
+----> Classical Greek `τελέω` <teléō>: "I complete, I fulfill, I perform, I present, I pay"
+-----> Classical Greek `τέλεσμα` <télesma>: "completion, payment, taxes, certificate"
+------> Byzantine Greek `τέλεσμα` <télesma>: "completion, religious rite, talisman"
+-------> Arabic `طلسم` <ṭilasm>: "enigma, talisman, cryptogram"
+--------> French `talisman`
+---------> English `talisman`!
+--------> Georgian `თილისმა` <tilisma>: "mascot, talisman"
+--------> Turkish `tılsım`: "charm, talisman"
+-------> French `talisman`
+-------> English `telesm`
 
 
 --> Proto-Indo-European <*kʷólh₁os>
@@ -151,6 +160,15 @@ Proto-Indo-European
 -----> Classical Greek `Ἀριστοτέλης` <Aristotélēs>: "personal name: Best-Result"
 ------> Latin `Aristotelēs`: "Aristotle"
 -------> English `Aristotle`
+-----> Classical Greek `ὑποτελής` <hupotelḗs>: "subject to paying taxes, tributary, taxable"
+------> Greek `υποτελής` <ypotelís>: "vassal, subordinate, submissive"
+-----> Classical Greek `τελωνιον` <telōnion>: "custom house"
+------> Latin `telonium`: "toll booth, custom house, tariff"
+-------> Western Romance
+--------> Old French `tolniu`
+---------> French `tonlieu`: "market toll, tariff" (modified by association with `lieu`=fra-Latn)
+-------> English `telonium`
+-------> English `thelony`
 -----> English `tele(o)-`
 
 
@@ -474,7 +492,7 @@ Or the "neck" words of Baltic, Latin, and Germanic may not belong to this root a
 
 Germanic <*hlaibaz> (`loaf`=eng-Latn) is thought to have originally meant flatbread, in constrast to <*braudã> (`bread`=eng-Latn), which is connected to `brew`=eng-Latn and would have meant "leavened bread". Assuming this is correct, the semantic connection to <kʷel-> is the wheel-like shape of most flatbread.
 
-On the other hand, the phonology is shaky and Classical Greek words that vary between <l> and <r> tend to be borrowings from non-IE sources. Often because the Minoan language appears not to have had an <l>/<r> distinction, and/or because some but not all Ancient Egyptian dialects in which <l> merged into <r>. So these words could also be borrowed from one or more unknown languages. (see "lion")
+On the other hand, the phonology is shaky and Classical Greek words that vary between <l> and <r> tend to be borrowings from non-IE sources. Often because the Minoan language appears not to have had an <l>/<r> distinction, and/or because some but not all Ancient Egyptian dialects in which <l> merged into <r>. So these words could also be borrowed from one or more unknown languages. (compare [wff-lion|"lion"])
 
 #### 
 

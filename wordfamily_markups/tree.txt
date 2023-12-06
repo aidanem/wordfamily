@@ -1,9 +1,9 @@
-date: 20190503
+date: 20190517
 theme: Plants 🌱
 
 startintro
 
-In which "dryad" and "druid" are basically the same word, "trust" and "tryst", "trees" and "truce". Plus horse racing history.
+In which "trees" and "truce" are basically the same word.
 
 endintro
 
@@ -121,9 +121,9 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 ------> Spanish `durazno`: "peach" (Latin American only)
 -------> Quechua `turasnu`: "peach"
 -----> French `duracine`: "type of peach"
------> Ancient Greek `δωράκινον` <dōrákinon>: "type of peach"
+-----> Classical Greek `δωράκινον` <dōrákinon>: "type of peach"
 ------> Greek `ροδάκινο` <rodákino>: "peach"
-------> Aramaic `ܕܘܪܩܝܢܐ` <dōraqqīnā>: "apricot, peach"
+------> Classical Syriac `ܕܘܪܩܝܢܐ‎` <dōraqqīnā>: "apricot, peach"
 -------> Arabic `دُرَّاق` <durrāq>: "peach"
 
 
@@ -146,7 +146,7 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 ------> English `trim`
 
 --> Hellenic
----> Ancient Greek `δροόν` <droón>: "strong, mighty"
+---> Classical Greek `δροόν` <droón>: "strong, mighty"
 
 
 -> Proto-Indo-European <*drutós>
@@ -209,10 +209,11 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 
 --> Anatolian <*dōru>
 ---> Hittite `𒋫𒀀𒊒` <tāru>: "wood, tree"
+---> Hieroglyphic Luwian <tarud->: "statue"
 
 
 --> Hellenic <*dóru>: "tree"
----> Ancient Greek `δόρῠ` <dóru>: "wood, tree, pole, spear, lance"
+---> Classical Greek `δόρῠ` <dóru>: "wood, tree, pole, spear, lance"
 ----> Greek `δόρυ` <dóry>: "pike, spear"
 ----> English `dory`
 ---> Hellenic <*drutómoi>: "tree cutters"
@@ -326,7 +327,7 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 ------> Old English `apuldor`: "apple tree" (partial translation)
 -------> English `Appledore`: "place name"
 ----> Gaulish
------> Ancient Greek `λάριξ` <lárix>: "larch, Venice turpentine"
+-----> Classical Greek `λάριξ` <lárix>: "larch, Venice turpentine"
 ------> Latin `larix`: "larch"
 -------> Translingual `Larix`: "taxonomic genus of conifers, the larches"
 -------> Italian `larice`: "larch"
@@ -346,7 +347,7 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 ------> Old English `drȳ`: "sorcerer, magician"
 -----> Gaulish <*druwits>
 ------> Gaulish <*druwides>: "druids, the Druids"
--------> Ancient Greek `δρυΐδαι` <druḯdai>: "the Druids"
+-------> Classical Greek `δρυΐδαι` <druḯdai>: "the Druids"
 --------> Latin `Druidae`: "the Druids"
 ---------> French `druide`: "druid"
 ----------> English `druid`
@@ -358,17 +359,34 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 -------> Irish `draíodóir`: "magician"
 
 ---> Hellenic
-----> Ancient Greek `δρῦς` <drûs>: "tree, timber, oak"
------> Ancient Greek `Δρῠᾰ́ς` <Druás>: "tree nymph, dryad" (genitive `Δρῠᾰ́δος` <Druádos>)
+----> Classical Greek `δρῦς` <drûs>: "tree, timber, oak"
+-----> Classical Greek `Δρῠᾰ́ς` <Druás>: "tree nymph, dryad" (genitive `Δρῠᾰ́δος` <Druádos>)
 ------> Latin `Dryas`: "dryad, druidess" (genitive `Dryadis`)
 -------> French `dryade`: "dryad"
 --------> English `dryad`
+-----> Classical Greek `χᾰμαίδρῡς` <khamaídrūs>: "wall germander" ("ground-oak")
+------> Latin `chamaedrys`
+-------> French `germandrée`
+--------> English `germander`
+--------> German `Gamander`
+-------> Italian `camedrio`: "avens"
+
+
 
 
 ---> Indo-Iranian
 ----> Indo-Aryan
 -----> Sanskrit `द्रु` <drú>: "wood, wooden implement, branch"
 ------> Sanskrit `द्रुपद` <drupadá>: "post, (wooden) pillar"
+
+--?> Messapic <*daras>: "oaks"
+---?> Classical Greek `Τᾰ́ρᾱς` <Tárās>: "Tarentum" (Greek colony in southern Italy)
+-----> Latin `Tarentum`
+------> Western Romance
+-------> Italian `Tarento`
+--------> Italian `Tarantino`
+--------> Italian `tarantola`
+---------> English `tarantula`
 
 
 --> Proto-Indo-European <*drumos>
@@ -380,10 +398,10 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 -------> Old English `wyrttrumian`: "to grow upward, as from a root or seed"
 
 ---> Hellenic
-----> Ancient Greek `δρυμός` <drumós>: "copse, thicket, wood"
------> Ancient Greek `Δρυμός` <Drumós>: "place name"
+----> Classical Greek `δρυμός` <drumós>: "copse, thicket, wood"
+-----> Classical Greek `Δρυμός` <Drumós>: "place name"
 ------> Latin `Drymus`
------> Ancient Greek `Δρυμαία` <Drumaia>: "place name"
+-----> Classical Greek `Δρυμαία` <Drumaia>: "place name"
 
 ---> Indo-Iranian
 ----> Indo-Aryan
@@ -417,7 +435,7 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 --> Proto-Indo-European <*dréwh₂(n/t)om>: "wooden implement"
 
 --?> Anatolian
-----> Hittie <taru̯āli>: "pestle?"
+----> Hittite <taru̯āli>: "pestle?"
 
 ---> Old Armenian `տոռն` <toṙn>: "(wooden) pestle"
 
@@ -432,7 +450,7 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 ------> Low German `Treechel`: "trough"
 
 ---> Hellenic
-----> Ancient Greek `δρουίτη` <drouítē>: "(wooden) tub"
+----> Classical Greek `δρουίτη` <drouítē>: "(wooden) tub"
 
 ---> Indo-Iranian <*dráwnam>
 ----> Indo-Aryan <*dráwnam>
@@ -449,7 +467,7 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 ?> Proto-Indo-European <*dweh₂->: "long?, distant?, enduring?" (or related to <*dyew->: "day"?) 
 
 -?> Hellenic
----> Ancient Greek `δήν` <dḗn>: "for a long time, long ago"
+---> Classical Greek `δήν` <dḗn>: "for a long time, long ago"
 
 --?> Italic
 ---> Latin `dēmum`: "at last, only"
@@ -461,77 +479,22 @@ Proto-Indo-European <*drew->: "hard, firm, strong, wood, tree" ##
 ----> Armenian `երկար` <erkar>: "long, lengthy, protacted"
 
 ---> Hellenic <*dwārós> (alternate zero-grade stem where <*h₂> instead of <*w> is vocalized)
-----> Ancient Greek `δηρός` <dērós>: "long, too long"
+----> Classical Greek `δηρός` <dērós>: "long, too long"
 
---?> Italic <*dūros> #####
----> Latin `dūrus`: "hard, harsh, vigorous, stern, unyielding"
-----> Sardinian `duru`: "hard, tough"
-----> Western Romance
------> French `dur`: "hard, tough, harsh"
------> Italian `duro`: "hard, tough, harsh"
------> Spanish `: "hard, solid, tough, cruel, stingy"
-----> Middle Irish
------> Irish `dúr`: "hard, tough, difficult, grim, dense, sluggish"
------> Scottish Gaelic `dùr`: "obstinate, stubborn, sullen, dour"
-------> Scots `dour`
--------> English `dour`
-----> Latin `dūrō`: "I harden, I last, I endure"
------> Western Romance
-------> French `durer`
--------> French `durée`: "duration"
-------> Italian `durare`
-------> Spanish `durar`
------> Albanian `duroj`
------> Latin `indūrō`: "I harden, I endure"
-------> Eastern Romance
--------> Romanian `a îndura`
-------> Western Romance
--------> French `endurer`
---------> English `endure`
--------> Italian `indurare`
--------> Spanish `endurar`
------> Latin `dūrātiō`
-------> Western Romance
--------> Old French `duracion`
---------> English `duration`
--------> Italian `durazione`
--------> Spanish `duración`
-----> Latin `dūrābilis`: "durable, lasting"
------> Western Romance
-------> Old French
--------> English `durable`
-------> Italian `durabile`
-----> Latin `dūritia`: "hardness, rigidity, a harsh flavor, austerity, severity"
------> Western Romance
-------> Old French `durece`
--------> English `duress`
-------> Italian `durezza`: "harshness, rigidity, severity"
-------> Spanish `dureza`: "hardness, arduousness"
-----> Latin `dūracinus`: "hard-berried, stone fruit"
------> Western Romance
-------> Old French `duraine`
-------> Italian `duracina`
-------> Spanish `durazno`: "peach" (Latin American only)
--------> Quechua `turasnu`: "peach"
------> French `duracine`: "type of peach"
------> Ancient Greek `δωράκινον` <dōrákinon>: "type of peach"
-------> Greek `ροδάκινο` <rodákino>: "peach"
-------> Aramaic `ܕܘܪܩܝܢܐ` <dōraqqīnā>: "apricot, peach"
--------> Arabic `دُرَّاق` <durrāq>: "peach"
+--?> Italic <*dūros>
 
 ---> Indo-Iranian <*duHrás>: "long, far"
 ----> Indo-Aryan <*duHrás>
------> Dardic
-------> Kashmiri `دوٗر‎` <dūr>
 -----> Sanskrit `दूर` <dūrá>
 ------> Pali <dūra>
 ------> Sauraseni `𑀤𑀽𑀭` <dūra>
--------> Madhya
+-------> Madhya Sauraseni
 --------> Hindi `दूर` <dūr>: "distant, far, away from, off"
--------> Pahari
+-------> Northwestern Sauraseni
+--------> Kashmiri `دوٗر‎` <dūr>
 --------> Punjabi `ਦੂਰ` <dūr>: "far"
-------> West Indo-Aryan
--------> Romani `dur`: "far"
+-------> Western Sauraseni
+--------> Romani `dur`: "far"
 ------> Telugu `దూరము` <dūramu>: "distance"
 ----> Iranian <*duHráh>
 -----> Avestan <dūrāt̰‎>: "from afar"
@@ -569,3 +532,4 @@ Nota bene, "Oaks" after the London estate of the Earls of Derby (now Oaks Park),
 ###### Yes, Armenian <erkar> really is cognate to Greek <dērós>! Compare Armenian <erku>: vs. Greek <dúo>, both "two".
 
 endnotes
+

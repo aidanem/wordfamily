@@ -1,273 +1,532 @@
 
 date: 20181019
 theme: Nighttime 🌃
-tags: Divinities
+tags: Alcohol, Divinities, Elements, Fire, Time
 
 
 startbody
 
-Proto-Indo-European <*h₂eh₁s->: "to be dry, to burn, ashes, hearth"
 
+Proto-Indo-European <*h₂eh₁->: "to be warm"
 
--> Proto-Indo-European <*h₂eh₁seh₁(ye)-ti> (stative)
+-> Proto-Indo-European <*h₂éh₁tis>: "a warming" (abstract/action noun)
 
----> Hellenic
-----> Ancient Greek `ἄζω` <ázō>: "I am dry"
------> Ancient Greek `ἀζᾰλέος` <azaléos>: "dry, parched"
-------> New Latin `azalea`: "azalea" (grows well in dry soil, originally a genus name, but now obsolete)
--------> English `azalea`
-
---> Italic <*āzēō>
----> Latin `āreō`: "I am dry, I am parched, I am withered"
-----> Latin `āridus`: "dry, withered, arid, shrivelled, uninspired"
------> Western Romance
-------> Italian `arido`: "arid, barren, insensitive, narrow-minded, bland"
-------> Spanish `árido`: "arid"
------> English `arid`
------> French `aride`: "arid"
-
--> Proto-Indo-European <*h₂ēh₁só-ti>
-
---> Tocharian
----> Arshian <asatär>: "dries up"
----> Kushean <osotär>: "dries up"
-
-
--> Proto-Indo-European <*h₂eh₁sh₂>: "hearth, fireplace"
-
---> Anatolian
----> Hittite `𒄩𒀸𒊭𒀀` <ḫāššā->: "fireplace, hearth"
-
--?> Germanic
----> North Germanic `ᚨᛉᛁᚾᚨ` <azina>: "ash"
----> West Germanic
-----> Old High German `essa`: "furnace"
------> German `Esse`: "furnace, forge, chimney"
-
---> Italic <*āzā>
----> Latin `āra`: "altar, sanctuary, refuge"
----> Oscan `𐌀𐌀𐌔𐌀` <aasa>: "altar"
-
-
--> Proto-Indo-European <*h₂éh₁sh₂s?>
-
---> Anatolian
----> Hittite <ḫāšš->: "ashes, dust, soap"
-
---> Indo-Iranian <*HáHsas>
----> Indo-Aryan
-----> Sanskrit `आस` <ā́sa>: "ashes, dust"
-
-
-?> Proto-Indo-European <*h₂stḗr>: "star" (agentive: ~"burner") #
-
---> Anatolian
----> Hittite `𒄩𒀸𒋼𒅕𒍝` <ḫašterz(a)>: "star"
-
---> Old Armenian `աստղ` <astł>: "star, starfish, asterisk"
----> Armenian `աստղ` <astł>: "star, celebrity"
-----> Armenian `համաստեղություն` <hamastełutʿyun>: "constellation" ## (morpheme-by-
-
---> Celtic <*sterā>: "star"
----> Brythonic <*ster>: "star"
-----> Welsh `sêr`: "stars"
-
---> Germanic <*sternǭ>
----> East Germanic
-----> Gothic `𐍃𐍄𐌰𐌹𐍂𐌽𐍉` <stairnō>: "star"
-----> Crimean Gothic `stein`: "star"
----> North Germanic
-----> Old Norse `stjarna`: "star"
------> Danish `stjerne`: "star"
------> Icelandic `stjarna`: "star"
----> West Germanic
-----> Old English `steorra`: "star"
------> English `star`
-------> German `Star`: "celebrity"
------> Scots `ster`: "star"
-----> Frankish <*sterro>
------> Dutch `ster`: "star, celebrity"
-----> Old High German `sterno`: "star"
------> German `Stern`: "star, asterisks"
------> Yiddish `שטערן`‎ <shtern>: "star"
-
---> Hellenic <*astḗr>: "star"
----> Ancient Greek `ἀστήρ` <astḗr>: "star, celebrity, starfish"
-----> Greek `αστέρι` <astéri>: "star, celebrity"
-----> Latin `astēr`: "star, starwort"
------> Translingual `Aster`: "a genus of flowers"
-------> English `aster`
-----> Ancient Greek `ᾰ̓́στρον` <ástron>
------> Greek `άστρο` <ástro>: "star"
------> Latin `astrum`
-------> Western Romance
--------> French `astre`: "celestial body"
--------> Italian `astro`: "celestial body, star"
---------> Italian `disastro`
----------> French `désastre`
-----------> English `disaster`
--------> Spanish `astro`: "celestial body"
------> English `astro-`
-
---> Indo-Iranian <*Hstā́>: "star"
----> Indo-Aryan <*Hstā́>
-----> Sanskrit `स्तृ` <(s)tṛ́>: "star"
------> Sanskrit `तारा` <tārā>: "star, asterism, pupil (of the eye)" ###
-------> Elu
--------> Sinhala `තරුව` <taruva>: "star"
-------> Magadhi
--------> Bengali `তারা` <tara>: "star"
-------> Maharashtri
--------> Marathi `तारा` <tārā>: "star"
-------> Sauraseni
--------> Madhya
---------> Hindi `तारा` <tārā>: "star, planet, meteor, pupil (of the eye)"
--------> Pahari
---------> Punjabi `ਤਾਰਾ` <tārā>: "star"
--------> Pali
---------> Burmese `တာရာ` <tara>: "constellation"
---------> Tagalog `tala`: "star"
---------> Thai `ดารา` <daa-raa>: "celestial body, celebrity"
--------> Telugu `తార` <tāra>: "star, pupil (of the eye)"
----> Iranian <*Hstā́>
-----> Avestan `(𐬯)𐬙𐬀𐬭𐬀‎` <star(a)>: "star"
-----> Western Iranian
------> Kurdish `stêr`: "star, celebrity"
------> Old Persian <*star>
-------> Old Persian <*apāxtara>: "planet" (lit. "backwards-star", i.e. star with retrograde movement)
--------> Middle Persian <abāxtar>
---------> Persian `اختر` <axtar>: "star, constellation" ####
---------> Persian `باختر` <bāḵtar>: "west"
-----> Iranian <*Hstā́rakaH>
------> East Iranian
-------> Pashto `ستوری‎` <stóray>: "star"
-------> Scythian
--------> Ossetian `стъалы` <st’aly>: "
------> Western Iranian
-------> Kurdish `stêrk`: "star"
-------> Old Persian
--------> Middle Persian <stārag>
---------> Persian `ستاره` <setâre>: "star, destiny"
----------> Punjabi `ਸਿਤਾਰਾ` <sitārā>: "star" 
-
---> Tocharian <*ścäriye->
----> Arshian <śre>: "star"
----> Kushean <ścirye>: "star": "stars"
-
-
---> Proto-Indo-European <*h₂stḗrlo> (probably Italo-Celtic innovation)
-
---?> Celtic <*stīrlo>
-----> Old Irish `sell`: "iris" (compare Irish `suil`: "eye" from PIE <*sóh₂wl̥>: "sun")
-----> Celtic <*stīrlon>
------> Brythonic
-------> Welsh `syllu`: "to gaze"
-
----> Italic <*stērolā>: "star"
-----> Latin <stēlla>: "star, planet"
------> Sardinian <isteddu>: "star"
------> Eastern Romance
-------> Romanian `stea`: "star"
------> Western Romance
-------> French `étoile`: "star"
--------> Haitian Creole `zetwal`: "star"
-------> Italian `stella`: "star"
-------> Spanish `estrella`: "star"
--------> Tagalog `estrelya`: "star"
-
-
-
-
-?> Proto-Indo-European <*h₂eh₁sdi-> (dental enlargement)
-
---> Anatolian
----> Hittite <hāt-ᶤ>: "to dry up, to become parched"
-
-
---> Proto-Indo-European <*h₂eh₁sdi-eti> (primary verb)
-
----> Balto-Slavic
-----> Slavic
------> West Slavic
-------> Czech `ozditi`: "to dry malt"
-
-
---> Proto-Indo-European <*h₂eh₁sdōs> (result)
-
----> Balto-Slavic
-----> Slavic <*ozdъ>
------> West Slavic
-------> Polish `ozd`: "dry malt"
-
-
---> Proto-Indo-European <*h₂éh₁stis> (abstract noun)
-
----> Celtic <*ātis>: "furnace, oven"
-----> Brythonic
+--> Celtic <*ātis>: "furnace, kiln"
+---> Old Irish `áith`: "oven, grain kiln"
+----> Irish `áith`: "kiln"
+---> Celtic <*ātinos>
+----> Brythonic <*ọdɨn>
+-----> Cornish <*oden>
+------> Cornish `odencolc`: "lime-kiln"
 -----> Welsh `odyn`: "kiln"
-----> Old Irish `áith`: "oven, grain kiln"
------> Irish `áith`: "kiln"
 
 
---> Proto-Indo-European <*h₂h₁stós> (adjective)
+-> Proto-Indo-European <*h₂éh₁tēr>: "fire"
 
----> Italic <*astos>
-----> Latin `assus`: "roasted, baked"
+--> Pre-Albanian <*ōtr>
+---> Albanian `vatër`: "fireplace, hearth, home, focus"
+---?> Balkan substrate
+-----> Eastern Romance
+------> Romanian `vatră`
+-----> Slavic
+------> East Slavic
+-------> Ukrainian `ватра` <vatra>: "fireside, hearth, bonfire"
+--------> Ukrainian `ватрушка` <vatruška>: "vatrushka, a kind of pastry"
+---------> English `vatrushka`
+------> South Slavic
+-------> Serbo-Croatian `ватра` <vatra>: "fire"
+------> West Slavic
+-------> Czech `vatra`: "bonfire, hearth"
+-------> Polish `watra`: "bonfire, hearth"
+
+--> Old Armenian <*ayr>: "fire" (lost due to homophony <*h₂nḗr> -> <ayr>: "man")
+---> Old Armenian `այրել` <ayrel>: "to enflame, to burn, to fire, to parch"
+----> Armenian `այրել` <ayrel>: "to set on fire, to burn, to scorch"
+
+--> Indo-Iranian
+---> Iranian <*HáHtr̥(s)>: "fire"
+----> Avestan `𐬁𐬙𐬀𐬭𐬱` <ātar(š)>: "fire"
+----> Bactrian <*atar>
+-----> Bactrian `αδοραστο` <adorasto>: "fireplace"
+----> Pashto `اور` <or>: "fire"
+----> Northern Iranian
+-----> Scythian <*ātar->
+-----?> Classical Greek `Ἰατραγόρας` <Iatragóras>: "a Scythian personal name"
+-----?> Classical Greek `Ἀρθάμων` <Arthámōn>: "a Scythian personal name"
+-----?> Classical Greek `Ψευδαρτάκη` <Pseudartákē>: "a Scythian place name"
+------> Ossetian `арт` <art>: "fire, campfire"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Parthian `𐭀𐭕𐭓𐭅` <ʾtrw>: "fire"
+------> Kurdish `agir`: "fire"
+-----> Old Persian <*ātr̥>
+------> Middle Persian <ʾtwr>
+-------> Persian `آذر` <âzar>: "fire, a month name, a personal name"
+-------> Old Persian <*ātr̥gauna>: "fire-colored"
+--------> Persian `آذرگون` <âzargun>: "marigold"
+---------> Arabic `آذريون` <ʔāḏaryūn>: "marigold"
+--------> Armenian `ատրագույն` <atraguyn>: "fire-colored"
+------> Middle Persian <ʾthš>
+-------> Persian `آتش` <âtaš>
+--------> Hindi `आतिश` <ātiś>: "fire, anger"
+--------> Ottoman Turkish `آتش` <ateş>: "fire"
+---------> Turkish `ateş`: "fire, fever, lighter, anger"
+
+----> Iranian <*HaHtr̥paHtah>: "personal name: Fire-Protected"
+-----> Avestan `𐬀𐬙𐬆𐬭𐬆𐬞𐬁𐬙𐬀` <Atərəpāta>
+-----> Northwestern Iranian
+------> Medean <*Ātr̥pātah>
+-------> Akkadian `𒀜𒋫𒊏𒉺𒋫` <at-ta-ra-pa-ta>
+-------> Elamite `𒄩𒋻𒁀𒀜𒆪` <ha-tar-ba-ad-da>
+-------> Classical Greek `Ἀτροπάτης` <Atropatēs>
+--------> Classical Greek `Ἀτροπατηνή` <Atropatēnḗ>
+---------> Latin `Atropatene`
+----------> English `Atropatene`
+-------> Old Persian <*Ātr̥pātah>
+--------> Middle Persian <ʾtwrpʾt'>
+---------> Middle Persian <ʾtwrpʾt'kʾn'>: "(realm) of Ādurbād"
+----------> Persian `آذربایجان` <âzarbâyjân>: "(Iranian) Azerbaijan, (Republic of) Azerbaijan"
+-----------> English `Azerbaijan`
+----------> Arabic `أذربيجان` <ʔaḏarbayjān>: "Azerbaijan"
+----------> Armenian `Ատրպատական` <Atrpatakan>
+----------> Byzantine Greek `Ἀδαρβιγάνων` <Adarbigánōn>
 
 
 
-?> Proto-Indo-European <*h₂eh₁sgi-> (velar enlargement)
+--> Proto-Indo-European <*h₂éh₁tros>: "a burning, burnt" (action or result noun)
 
---> Proto-Indo-European <*h₂eh₁sgō> (primary noun)
---?> Germanic <*askǭ>: "ash, ashes"
-----> East Germanic
------> Gothic `𐌰𐌶𐌲𐍉` <azgō>: "ash, cinder"
-----> North Germanic
------> Old Norse `aska`: "ash, ashes"
-------> Danish `aske`: "ash"
-------> Icelandic `aska`: "ash, ashes"
+---> Italic <*ātros>: "charred black"
+----> Latin `āter`: "dull black, gloomy, dismal"
+-----> Latin `ātrāmentum`: "black liquid, ink, blacking"
+------> English `atrament`
+----> Oscan `𐌀𐌀𐌃𐌝𐌓𐌉𐌉𐌔` <aadíriis>
+----> Umbrian `𐌀𐌕𐌓𐌖` <atru>
+
+---> Proto-Indo-European <*h₂éh₁tryos>: "of a burning" (adjective)
+----> Proto-Indo-European <*h₂éh₁tryom>: "a place/thing of burning?" (substantivized neuter adjective)
+----?> Italic <*ātrjom>: "place of burning?" (substantivized neuter adjective)
+------> Latin `atrium`: "reception hall, court in a temple"
+
+-------> English `atrium`!
+------?> Etruscan `𐌀𐌕𐌓𐌉𐌖𐌌` <atrium>: "atrium, house, temple"
+--------> Etruscan `𐌀𐌈𐌓𐌄` <aθre>: "atrium, house, temple"
+
+
+--> Proto-Indo-European <*h₂eh₁tro-h₃kʷs>: "fire-sight, seeming like a fire"
+
+---> Italic <*ātrōks>
+----> Latin `atrox`: "terrible, frightening, fierce, cruel"
+-----> Central Romance
+------> Italian `atroce`: "atrocious, dreadful, ghastly"
+-----> Western Romance
+------> Spanish `atroz`: "atrocious, horrible, appalling"
+-----> Latin `atrocitas`: "atrocity, suffering, disaster"
+------> English `atrocity`
+
+
+-> Proto-Indo-European <*h₂eh₁s->: "to be dry, to burn, ashes, hearth"
+
+--> Proto-Indo-European <*h₂eh₁seh₁(ye)-ti> (stative)
+
+----> Hellenic
+-----> Classical Greek `ἄζω` <ázō>: "I am dry"
+------> Classical Greek `ἀζᾰλέος` <azaléos>: "dry, parched"
+-------> New Latin `azalea`: "azalea" (grows well in dry soil, originally a genus name, but now obsolete)
+--------> English `azalea`
+
+---> Italic <*āzēō>
+----> Latin `ārēre`: "I am dry, I am parched, I am withered"
+-----> Latin `āridus`: "dry, withered, arid, shrivelled, uninspired"
+------> Central Romance
+-------> Italian `arido`: "arid, barren, insensitive, narrow-minded, bland"
+------> Western Romance
+-------> Spanish `árido`: "arid"
+------> English `arid`!
+------> French `aride`: "arid"
+
+--> Proto-Indo-European <*h₂ēh₁só-ti>
+
+---> Tocharian
+----> Arshian <asatär>: "dries up"
+----> Kushean <osotär>: "dries up"
+
+
+--> Proto-Indo-European <*h₂eh₁sh₂>: "hearth, fireplace"
+
+---> Anatolian
+----> Hittite `𒄩𒀸𒊭𒀀` <ḫāššā->: "fireplace, hearth"
+
+--?> Germanic
+----> North Germanic `ᚨᛉᛁᚾᚨ` <azina>: "ash"
 ----> West Germanic
------> Old English `æsce`: "ash"
-------> English `ash`
-------> Scots `aise`: "ash"
------> Frankish <*aska>
-------> Dutch `as`: "ash, ashes"
------> Old High German `asca`: "ash"
-------> German `Asche`: "ash, ashes, money"
-------> Yiddish `אַש` <ash>: "ash"
-------> Italian `lasca`: "an ash-colored cyprinid fish like a dace, roach, or nase"
+-----> Old High German `essa`: "furnace"
+------> German `Esse`: "furnace, forge, chimney"
+
+---> Italic <*āzā>
+----> Latin `āra`: "altar, sanctuary, refuge"
+----> Oscan `𐌀𐌀𐌔𐌀` <aasa>: "altar"
 
 
---> Proto-Indo-European <*h₂eh₁sgiōn-> (genitive?)
----> Old Armenian `աճիւն` <ačiwn>: "ashes"
-----> Armenian `աճյուն` <ačyun>: "cremated remains, corpse, grave"
+--> Proto-Indo-European <*h₂éh₁sh₂s?>
+
+---> Anatolian
+----> Hittite <ḫāšš->: "ashes, dust, soap"
+
+---> Indo-Iranian <*HáHsas>
+----> Indo-Aryan
+-----> Sanskrit `आस` <ā́sa>: "ashes, dust"
 
 
---> Proto-Indo-European <*h₂íh₁sgah₁sg-eti??> (reduplicated thematic)
+-?> Proto-Indo-European <*h₂stḗr>: "star" (agentive: ~"burner") #
 
----> Old Armenian `ազազեմ` <azazem>: "to tarnish, to dry, to fade, to wither"
-----> Armenian `ազազել` <azazel>: "to dry up, to become dry"
+---> Anatolian
+----> Hittite `𒄩𒀸𒋼𒅕𒍝` <ḫašterz(a)>: "star"
+
+---?> Semitic <*ʕaθtar–>: "divine name, possibly a personification of Venus" #
+-----> Central Semitic
+------> Northwest Semitic
+-------> Aramaic `𐡏𐡕𐡓` <ʿattar> (apparently masculine deity)
+-------> Canaanite
+--------> Hebrew `עשתרת` <ʿaštṓreṯ> (possible taboo deformation)
+--------> Moabite `𐤏𐤔𐤕𐤓` <ʿaštar>
+--------> Phoenician `𐤏𐤔𐤕𐤓𐤕` <ʿaštart>
+---------> Classical Greek `Ἀστάρτη` <Astártē>
+----------> Latin `Astarte`
+-----------> English `Astarte`!
+-------> Egyptian `𓂝:𓊃𓍿:𓂋:𓏏` <ꜥsṯrt>
+-------> Ugaritic `𐎓𐎘𐎚𐎗𐎚` <ʿṯtr>
+-----> East Semitic
+------> Akkadian `𒀭𒀹𒁯` <ᵈiš₈-tar₂>
+-------> English `Ishtar`
+-----> South Semitic
+------> Old South Arabian `𐩲𐩻𐩩𐩧` <ʿṯtr>
+------> Ethiopic
+-------> Amharic `አስታር` <ʾästar>
+
+---> Old Armenian `աստղ` <astł>: "star, starfish, asterisk"
+----> Armenian `աստղ` <astł>: "star, celebrity"
+-----> Armenian `համաստեղություն` <hamastełutʿyun>: "constellation" ##
+
+---> Celtic <*sterā>: "star"
+----> Brythonic <*ster>: "star"
+-----> Welsh `sêr`: "stars"
+
+---> Germanic <*sternǭ>
+----> East Germanic
+-----> Gothic `𐍃𐍄𐌰𐌹𐍂𐌽𐍉` <stairnō>: "star"
+-----> Crimean Gothic `stein`: "star"
+----> North Germanic
+-----> Old Norse `stjarna`: "star"
+------> Danish `stjerne`: "star"
+------> Icelandic `stjarna`: "star"
+----> West Germanic
+-----> Old English `steorra`: "star"
+------> English `star`!
+-------> German `Star`: "celebrity"
+------> Scots `ster`: "star"
+-----> Frankish <*sterro>
+------> Dutch `ster`: "star, celebrity"
+-----> Old High German `sterno`: "star"
+------> German `Stern`: "star, asterisks"
+------> Yiddish `שטערן`‎ <shtern>: "star"
+
+---> Hellenic <*astḗr>: "star"
+----> Classical Greek `ἀστήρ` <astḗr>: "star, celebrity, starfish"
+-----> Greek `αστέρι` <astéri>: "star, celebrity"
+-----> Latin `astēr`: "star, starwort"
+------> Translingual `Aster`: "a genus of flowers"
+-------> English `aster`
+-----> Classical Greek `ᾰ̓́στρον` <ástron>
+------> Greek `άστρο` <ástro>: "star"
+------> Latin `astrum`
+-------> Western Romance
+--------> French `astre`: "celestial body"
+--------> Italian `astro`: "celestial body, star"
+---------> Italian `disastro`
+----------> French `désastre`
+-----------> English `disaster`!
+--------> Spanish `astro`: "celestial body"
+------> English `astro-`
+
+---> Indo-Iranian <*Hstā́>: "star"
+----> Indo-Aryan <*Hstā́>
+-----> Sanskrit `𑀲𑁆𑀢𑀾` <(s)tṛ́>: "star"
+------> Sanskrit `𑀢𑀸𑀭𑀸` <tārā>: "star, asterism, pupil (of the eye)" ###
+-------> Elu
+--------> Sinhala `තරුව` <taruva>: "star"
+-------> Magadhi
+--------> Bengali `তারা` <tara>: "star"
+-------> Maharashtri
+--------> Marathi `तारा` <tārā>: "star"
+-------> Sauraseni
+--------> Madhya
+---------> Hindi `तारा` <tārā>: "star, planet, meteor, pupil (of the eye)"
+--------> Pahari
+---------> Punjabi `ਤਾਰਾ` <tārā>: "star"
+--------> Pali
+---------> Burmese `တာရာ` <tara>: "constellation"
+---------> Tagalog `tala`: "star"
+---------> Thai `ดารา` <daa-raa>: "celestial body, celebrity"
+--------> Telugu `తార` <tāra>: "star, pupil (of the eye)"
+----> Iranian <*Hstā́>
+-----> Avestan `(𐬯)𐬙𐬀𐬭𐬀‎` <star(a)>: "star"
+-----> Western Iranian
+------> Kurdish `stêr`: "star, celebrity"
+------> Old Persian <*star>
+-------> Old Persian <*apāxtara>: "planet" (lit. "backwards-star", i.e. star with retrograde movement)
+--------> Middle Persian <abāxtar>
+---------> Persian `اختر` <axtar>: "star, constellation" ####
+---------> Persian `باختر` <bāḵtar>: "west"
+-----> Iranian <*Hstā́rakaH>
+------> Pashto `ستوری‎` <stóray>: "star"
+------> Northern Iranian
+-------> Scythian
+--------> Ossetian `стъалы` <st’aly>: "star"
+------> Western Iranian
+-------> Kurdish `stêrk`: "star"
+-------> Old Persian
+--------> Middle Persian <stārag>
+---------> Persian `ستاره` <setâre>: "star, destiny"
+----------> Punjabi `ਸਿਤਾਰਾ` <sitārā>: "star" 
+
+---> Tocharian <*ścäriye->
+----> Arshian <śre>: "star"
+----> Kushean <ścirye>: "star": "stars"
 
 
---> ?
----> Finnic <*kaski>: "swidden (slash-and-burned land), coppice (for firewood)"
-----> Estonian `kask`: "birch"
-----> Finnish `kaski`: "slash and burn"
+
+---> Proto-Indo-European <*h₂stḗrlo> (probably Italo-Celtic innovation)
+
+---?> Celtic <*stīrlo>
+-----> Old Irish `sell`: "iris" (compare Irish `suil`=gle-Latn: "eye" from PIE <*sóh₂wl̥>: "sun")
+-----> Celtic <*stīrlon>
+------> Brythonic
+-------> Welsh `syllu`: "to gaze"
+
+----> Italic <*stērolā>: "star"
+-----> Latin <stēlla>: "star, planet"
+------> Sardinian <isteddu>: "star"
+------> Eastern Romance
+-------> Romanian `stea`: "star"
+------> Western Romance
+-------> French `étoile`: "star"
+--------> Haitian Creole `zetwal`: "star"
+-------> Italian `stella`: "star"
+-------> Spanish `estrella`: "star"
+--------> Tagalog `estrelya`: "star"
+
+
+
+
+-?> Proto-Indo-European <*h₂eh₁sdi-> (dental enlargement)
+
+---> Anatolian
+----> Hittite <hāt-ᶤ>: "to dry up, to become parched"
+
+
+---> Proto-Indo-European <*h₂eh₁sdi-eti> (primary verb)
+
+----> Balto-Slavic
+-----> Slavic
+------> West Slavic
+-------> Czech `ozditi`: "to dry malt"
+
+
+---> Proto-Indo-European <*h₂eh₁sdōs> (result)
+
+----> Balto-Slavic
+-----> Slavic <*ozdъ>
+------> West Slavic
+-------> Polish `ozd`: "dry malt"
+
+
+
+---> Proto-Indo-European <*h₂h₁stós> (adjective)
+
+----> Italic <*astos>
+-----> Latin `assus`: "roasted, baked"
+
+
+
+-?> Proto-Indo-European <*h₂eh₁sgi-> (velar enlargement)
+
+---> Proto-Indo-European <*h₂eh₁sgō> (primary noun)
+---?> Germanic <*askǭ>: "ash, ashes"
+-----> East Germanic
+------> Gothic `𐌰𐌶𐌲𐍉` <azgō>: "ash, cinder"
+-----> North Germanic
+------> Old Norse `aska`: "ash, ashes"
+-------> Danish `aske`: "ash"
+-------> Icelandic `aska`: "ash, ashes"
+-----> West Germanic
+------> Old English `æsce`: "ash"
+-------> English `ash`!
+-------> Scots `aise`: "ash"
+------> Frankish <*aska>
+-------> Dutch `as`: "ash, ashes"
+------> Old High German `asca`: "ash"
+-------> German `Asche`: "ash, ashes, money"
+-------> Yiddish `אַש` <ash>: "ash"
+-------> Italian `lasca`: "an ash-colored cyprinid fish like a dace, roach, or nase"
+
+
+---> Proto-Indo-European <*h₂eh₁sgiōn-> (genitive?)
+----> Old Armenian `աճիւն` <ačiwn>: "ashes"
+-----> Armenian `աճյուն` <ačyun>: "cremated remains, corpse, grave"
+
+
+---> Proto-Indo-European <*h₂íh₁sgah₁sg-eti??> (reduplicated thematic)
+
+----> Old Armenian `ազազեմ` <azazem>: "to tarnish, to dry, to fade, to wither"
+-----> Armenian `ազազել` <azazel>: "to dry up, to become dry"
+
+
+---> ?
+----> Finnic <*kaski>: "swidden (slash-and-burned land), coppice (for firewood)"
+-----> Estonian `kask`: "birch"
+-----> Finnish `kaski`: "slash and burn"
+
+
+?> Proto-Indo-European <*h₂eh₃->: "to be hot, to burn"
+
+-?> Proto-Indo-European <*h₂eh₃mós>: "raw, uncooked, sour, bitter"
+
+---> Old Armenian `հում` <hum>
+----> Armenian `հում` <hum>: "raw, uncooked, unprocessed"
+----> Georgian `უმი` <umi>: "raw, uncooked"
+
+---> Celtic <*omos>: "raw"
+----> Brythonic <*oβ̃>
+-----> Welsh `of`
+----> Old Irish `om`
+-----> Irish `amh`: "raw, uncooked"
+---?> Celtic <*omiyom>: "copper, bronze"
+-----> Brythonic <*öβ̃ɨð>
+------> Welsh `efydd`: "bronze, brass, copper"
+-----> Old Irish `umae`: "copper, bronze, brass"
+------> Irish `umha`
+
+---> Hellenic <*ōmós>
+----> Classical Greek `ὠμός` <ōmós>: "raw, crude, uncooked, fierce"
+-----> Greek `ωμός` <omós>: "raw, uncooked, crude, brutal"
+
+---> Indo-Iranian <*HaHmás>
+----> Indo-Aryan
+-----> Sanskrit `𑀆𑀫` <āmá>: "raw, uncooked, unripe, immature"
+----> Iranian <*HaHmáh>
+-----> Pashto `اوم` <um>: "raw, uncooked, unripe"
+-----> Western Iranian
+------> Northwestern Iranian
+------> Old Persian
+-------> Persian `خام` <xâm>: "raw, uncooked, crude, fresh, inexperienced, idle"
+--------> Pashto `خام` <xâm>: "raw, uncooked, unripe, unfinished"
+--------> Ottoman Turkish `خام` <ham>
+---------> Turkish `ham`: "raw"
+
+
+---> Proto-Indo-European <*h₂h₃mros>: "sour, sorrel?"
+
+----> Pre-Germanic <*ambros> (with epenthetic *b)
+-----> Germanic <*ampraz>: "sour"
+
+----> Indo-Iranian <*Hamrás>
+-----> Indo-Aryan
+------> Sanskrit `𑀅𑀫𑁆𑀮` <amla>: "sour"
+------> Sanskrit `𑀆𑀫𑁆𑀭` <āmra>: "mango"
+-------> Elu
+--------> Dhivehi `އަނބު` <aᵐbu>: "mango"
+-------> Magadhi `𑀅𑀁𑀩` <aṃba>
+--------> Bengali `আম` <am>: "mango"
+--------> Rohingya `amm`: "mango"
+-------> Maharashtri `𑀅𑀁𑀩𑀅` <aṃbaa>
+--------> Marathi `आंबा` <āmbā>
+---------> Arabic `عمبة` <ʾamba>: "amba, a condiment of mashed mango"
+----------> Hebrew `עמבה` <ʾámba>
+-----------> English `amba`
+-------> Pali `𑀅𑀫𑁆𑀩` <amba>: "mango"
+-------> Sauraseni `𑀅𑀁𑀩` <aṃba>
+--------> Madhya Sauraseni
+---------> Hindi `आम` <ām>: "mango"
+--------> Northwestern Sauraseni
+---------> Kashmiri `اَمب` <amb>: "mango"
+--------> Middle Persian
+---------> Persian `انبه` <anbe>: "mango"
+----------> Arabic `عنبا` <ʾanbā>: "mango"
+-----------> Swahili `embe`: "mango"
+--------> Sauraseni <*ambaka>
+---------> Middle Persian <*anbag>
+----------> Arabic `أنبج` <ʾanbaj>: "mango"
+-------> Tocharian <āmpär>: "mango"
+
+
+
+---?> Italic
+-----> Latin `amārus`: "bitter, harsh, sour"
+------> Central Romance
+-------> Dalmatian `amur`: "bitter"
+-------> Italian `amaro`: "bitter"
+--------> English `amaro`
+--------> Italian `amaretto`: "amaretto`
+---------> English `amaretto`!
+------> Eastern Romance
+-------> Romanian `amar`: "bitter, rancid, rude"
+------> Western Romance
+-------> French `amer`: "bitter, sour"
+-------> Old Spanish `amaro`
+--------> Spanish `amargo`: "bitter, sour" (modified by association with `amargar`=spa-Latn)
+
+------> Latin `amarellus`: "yellowish, pale"
+-------> Western Romance
+--------> Spanish `amarillo`: "yellow"
+
+------> Latin `amaricare`: "to make bitter, to irritate"
+-------> Central Romance
+--------> Italian `amaricare`: "to make bitter"
+-------> Western Romance
+--------> Spanish `amargar`: "to make bitter, to get bitter"
+
+
+------> Byzantine Greek <*amaroús>
+-------> Byzantine Greek <*amaroúlion> (diminutive)
+--------> Byzantine Greek `μαρούλιον` <maroúlion>: "lettuce"
+---------> Greek `μαρούλι` <maroúli>: "lettuce"
+----------> Romanian `marulă`: "lettuce"
+---------> Armenian `մառոլ` <maṙol>: "lettuce"
+---------> Ottoman Turkish `مارول` <marul>
+----------> Turkish `marul`: "lettuce"
+
+
+--> Proto-Indo-European <*h₂éh₃mr̥>: "heat"
+---> Greco-Armenian <*āmr̥>: "heat, day"
+----> Old Armenian `աւր` <awr>: "day, daytime"
+-----> Armenian `օր` <ōr>: "day"
+----> Hellenic <*āmǝr>
+-----> Classical Greek `ἦμαρ` <êmar>: "day"
+------> Greek `ημέρα` <iméra>: "day, daytime"
+------> Classical Greek `ἡμέρα` <hēméra>: "day, time" (probably modified by analogy to <hespérā>)
+-------> Classical Greek `ἐφήμερος` <ephḗmeros>: "daily, for a day, short-lived"
+--------> Latin `ephemerus`
+---------> English `ephemeral`!
+-----> Hellenic <*ťāmǝron>: "this day"
+------> Classical Greek `σήμερον` <sḗmeron>: "today"
+-------> Greek `σήμερα` <símera>: "today, the present"
+
 
 
 endbody
 
 startnotes
 
-# Alternatively, Proto-Indo-European <*h₂stḗr>: "star" could be related to Semitic <*ʕaṯtar>, meaning "heavens, sky" and the name Astarte/Ishtar/Ashtoreth, the Queen of Heaven (whose symbol is Venus the Morning Star).
+# Proto-Indo-European <*h₂stḗr>: "star" and Proto-Semitic <*ʕaθtar–>: "divine name, possibly a personification of Venus" have long been compared. There are arguments for each possibility: coincidence, PIE to Semitic borrowing, or Semitic to PIE borrowing. I find a PIE to Semitic borrowing most compelling.
 
-## I thought it was interesting that Armenian `համաստեղություն` <hamastełutʿyun>: "constellation" is a morpheme-by-morpheme equivalent to Latin `constellatio(n)`.
-<ham-> == `con-`
-<asteł> == <stella>
-<-utʿyun> == <-tio(n)>
 
-### Given her nature, the Hindu and Buddhist divinity Tārā is best understood to mean "defend" from <*terh₂->: "cross over, pass through, overcome", i.e. the same origin as `avatar`, `nectar`, and `trans-` (20170616); but there may be some influence from `तारा` (tārā): "star".
+## I thought it was interesting that Armenian `համաստեղություն`=hye-Armn <hamastełutʿyun>: "constellation" is a morpheme-by-morpheme equivalent to Latin `constellatio(n)`=lat-Latn.
+<ham-> == `con-`=lat-Latn
+<asteł> == `stella`=lat-Latn
+<-utʿyun> == `-tio(n)`=lat-Latn
 
-#### Persian <axtar>: "star" is understood to be a mistaken (re-bracketed) backformation from <abāxtar>: "planet". But considering the word first appears in Middle Persian (i.e., after several centuries of Hellenistic rule in Persia), it makes me wonder if the rebracketing was influenced by Greek `ἀστήρ` <astḗr>.
+### Given her nature, the Hindu and Buddhist divinity Tārā is best understood to mean "defend" from <*terh₂->: "cross over, pass through, overcome", i.e. the same origin as `avatar`=eng-Latn, `nectar`=eng-Latn, and `trans-`=eng-Latn; but there may be some influence from `𑀢𑀸𑀭𑀸`=san-Brah= <tārā>: "star".
+
+#### Persian `اختر`=fas-Aran <axtar>: "star" is understood to be a mistaken (re-bracketed) backformation from <abāxtar>: "planet". But considering the word first appears in Middle Persian (i.e., after several centuries of Hellenistic rule in Persia), it makes me wonder if the rebracketing was influenced by Greek `ἀστήρ`=grc-Grek <astḗr>.
 
 endnotes

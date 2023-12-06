@@ -1,0 +1,37 @@
+startbody
+
+
+Austronesian <*bituqən>: "star"
+
+-> Paiwan `vitjuqan`: "star"
+
+-> Malayo-Polynesian <*bituqən>: "star"
+
+--> Malayic <*bintaŋ>: "star"
+---> Malay `bintang`: "star, asterisk, celebrity"
+
+--> Philippine <*bituʔən>
+---> Tagalog `bituin`: "star, celebrity"
+
+--> Oceanic <*pituqun>: "star"
+
+---> Micronesian <*fituu>: "star"
+----> Chuukese `fúú`: "star"
+----> Kiribati `itoi`: "star"
+
+---> Polynesian <*fetuʔu>: "star"
+----> Tongan `fetuʻu`: "star"
+----> Nuclear Polynesian
+-----> Samoan `fetū`: "star"
+-----> Eastern Polynesian
+------> Rapa Nui `hetu'u`: "star"
+------> Marquesic
+-------> Hawaiʻian `hōkū`: "star"
+------> Tahitic
+-------> Māori `whetū`: "star"
+-------> Tahitian `fetū`: "sea star"
+--------> Tahitian `fetiʻa`: "star, medal" (displaced original `fetū` because of taboo avoidance)
+
+
+
+endbody
