@@ -1,0 +1,168 @@
+date: 20180727
+theme: Architecture 🏛️
+
+
+startintro
+
+For the end of my architecture theme month, I've put together a collection a few small-but-interesting families with architecture words that I did preliminary research on, before concluding each was too small to a weekly family on its own.
+
+
+endintro
+
+
+startbody
+
+
+Afro-Asiatic <*ŋaw->: "to burn, to blaze"
+
+-> Egyptian <nwḫ>: "to heat, to scorch"
+--> Egyptian <snwḫ>: "to boil" (causative)
+
+
+-> Afro-Asiatic <*ŋiwr->: "fire, firelight" (substantive)
+
+--> Chadic <*ŋurŋ->: "ash"
+---> Central Chadic
+----> Gude <ŋira-ḍu>: "ash, coal"
+---> West Chadic
+----> Boghom <nwur-ǝŋ>: "ash"
+
+
+--> Cushitic <*ŋuur->
+---> Somali `nal`: "light, lamp"
+
+
+--> Semitic <*nūr->: "fire, light"
+
+---> Central Semitic <*n-w-r>
+----> Arabic `نُور` <nūr>: "light"
+-----> Arabic `نَار` <nār>: "fire"
+------> Maltese `nar`: "fire"
+----> Northwest Semitic
+-----> Aramaic `𐡍𐡅𐡓𐡀` <nūrā>
+-----> Canaanite
+------> Hebrew `נוּר` <nūr>: "shining fire, light"
+-------> Hebrew `נֵר` <ner>: "candle, single-wick lamp"
+-----> Ugaritic `𐎐𐎗` <nīru>: "fire"
+
+----> Central Semitic <*m-n-w-r> (noun of place or instrument)
+-----> Arabic `مَنَارَة` <manāra>: "lighthouse, beacon, minaret"
+------> Persian `مناره` <menâre>: "minaret"
+-------> Ottoman Turkish `مناره` <minare>
+--------> Turkish `minare`: "minaret"
+--------> French `minaret`
+---------> English `minaret`!
+-----> Northwest Semitic
+------> Aramaic `𐡌𐡍𐡓𐡕𐡀` <mənārəṯā>: "candlestick, lighthouse"
+------> Canaanite
+-------> Hebrew `מְנוֹרָה` <m'norá>: "light, lamp, menorah"
+--------> English `menorah`
+------> Ugaritic `𐎎𐎐𐎗𐎚` <mnrt>: "candlestick, candelabra"
+
+---> East Semitic
+----> Akkadian `𒉡𒌨(𒌝)` <nūru(m)>: "light, fire, lamp"
+
+---> South Semitic
+----> Old South Arabian `𐩬𐩥𐩧` <nwr>
+
+
+
+
+Egyptian `𓅙-𓃀:𓏏*𓊌` <ḏbt>: "brick, block, ingot" #
+-> Demotic Egyptian <tb>: "brick"
+--> Coptic `ⲧⲱⲃⲉ` <tobǝ>: "brick"
+---> Arabic `طُوب` <ṭūb>: "brick, backed brick, adobe"
+----> Amharic `(እ)ጡብ` <(ʾə)ṭub>: "brick, tile"
+----> French `toub`: "mud brick, adobe"
+----> Spanish `adobe`: "adobe" (from the definite `الطُوب`=arb-Arab <aṭ-ṭūb>)
+-----> English `adobe`!
+
+
+
+
+
+Unknown substrate
+
+
+?> Balto-Slavic
+--> Latvian `ẽrcis`: "juniper"
+--> Slavic
+---> East Slavic
+----> Russian `раки́та` <rakíta>: "willow, sallow, broom"
+---> South Slavic
+----> Serbo-Croatian `српски` <rakita>: "purple willow"
+
+
+?> Hellenic
+--> Classical Greek `ἄρκευθος` <árkeuthos>: "juniper, cedar"
+
+?> Celtic <*wareka??> ##
+
+?> Northwest Indo-European <*h₂érkʷo- >: "bow, arrow"
+
+-?> Celtic <*wareka??> ##
+---> Brythonic <*gwarɨg>: "bow, arc"
+----> Breton `gwareg`: "bow, arc, arch"
+-----> Breton `Gwareg`: "placename: Arc" (possibly referring to a bend in the Blavezh River)
+-----> French `Gouarec`
+----> Cornish `gwarak`: "arc, arch, bow, crescent, yoke"
+
+--> Germanic <*arhwō>: "arrow"
+---> East Germanic
+----> Gothic <*arƕa>
+-----> Gothic `𐌰𐍂𐍈𐌰𐌶𐌽𐌰` <arƕazna>: "dart, missile"
+---> North Germanic
+----> Old Norse `ǫr`: "arrow"
+-----> Icelandic `ör`: "arrow, directed edge (graph theory)"
+-----> Old Norse `Ǫrvar`: "Arrows (personal name)"
+------> Icelandic `Örvar`
+------> Swedish `Orvar`
+---> West Germanic
+----> Old English `earh`: "arrow"
+-----> English `arrow`!
+
+--> Italic
+---> Latin `arcus`: "arc, bow, rainbow"
+----> Central Romance
+-----> Italian `arco`: "bow, arc, arch"
+------> Italian `arcata`: "arcade, span (of a bridge)"
+-------> French `arcade`: "arcade"!
+--------> English `arcade`
+----> Eastern Romance
+-----> Aromanian `arcu`: "bow"
+-----> Romanian `arc`: "bow, arch"
+----> Western Romance
+-----> Old French `arc`: "bow, arch"
+------> French `arc`: "bow, arc, arch"
+------> English `arc`
+-----> Old French `arche`: "bow, arch"
+------> French `arche`
+------> English `arch`!
+-----> Spanish `arco`: "bow, arc, arch"
+----> Latin `arcuārius`: "of bows, bowyer, archer"
+-----> Vulgar Latin <*arcārius>
+------> Eastern Romance
+-------> Romanian `arcar`: "bowyer, bowmonger" (archaic)
+------> Western Romance
+-------> Old French
+--------> French `archier`
+--------> English `archer`
+--------> Italian `arciere`
+-------> Spanish `arquero`: "archer, goalkeeper"
+
+
+
+endbody
+
+startnotes
+
+# Egyptian `𓅙-𓃀:𓏏*𓊌`=egy-Egyp <ḏbt>: "(clay) brick" is interestingly similar to [wff-letter|Sumerian `𒁾`=sux-Xsux <dub>: "(clay) tablet"].
+
+
+## There is an apparently Late Northwest Indo-European word <*h₂érkʷo->, meaning "arrow" in Germanic <*arhwō> and "bow, arc" in Latin `arcus`=lat-Latn. This is probably a substrate borrowing, and probably the same substrate as gives words for trees suitable for making bent-branch objects like bows in Balto-Slavic—Latvian `ẽrcis`=lav-Latn: "juniper", Russian `раки́та`=rus-Cyrl <rakíta>: "willow, broom"—and Greek `ἄρκευθος`=grc-Grek <árkeuthos>: "juniper, cedar".
+
+Brythonic <*gwarɨg>: "bow, arc" (apparently something like Celtic <*wareka>) is a fairly poor sound match to <*h₂érkʷo-> and the others, but it is an exact semantic match to the Latin, and just close enough in sound to wonder about. Perhaps it was a separate borrowing from the substrate.
+
+Brythonic <*gwarɨg> replaced by `bwa`=cym-Latn in Welsh (a borrowing from Old English), but is preserved in Cornish and Breton. There is even a placename in Brittany named `Gwareg`=bre-Latn (Gouarec in French), possibly referring to an arc in the Blavezh (Blavet) River.
+
+endnotes

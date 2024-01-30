@@ -4,10 +4,10 @@ tags: Plants
 
 startintro
 
-A Mediterranean/Caucausian substrate word approximately like <*wion>: "violet (flower)", was borrowed into Hellenic, Iranian, and Italic.
+A Mediterranean/Caucasian substrate word approximately like <*wion>: "violet (flower)", was borrowed into Hellenic, Iranian, and Italic.
 
 
-Greek Ionia is probably not related, since the Mycenaean shows `𐀂𐀊𐀺𐀚 ` <i-ja-wo-ne> for "Ionians" with digamma in a different position than the <*wion> expected for "violet" , and Egyptian `​​𓇌𓅱𓈖𓏭𓉻𓂝𓏛` <ywnj-ꜥꜣ> supports that. 
+Greek Ionia is probably not related, since the Mycenaean shows `𐀂𐀊𐀺𐀚`=gmy-Linb <i-ja-wo-ne> for "Ionians" with digamma in a different position than the <*wion> expected for "violet" , and Egyptian `𓇌-𓅱-𓈖:𓏭-𓉻:𓂝-𓏛`=egy-Egyp <ywnj-ꜥꜣ> supports that. 
 
 But it's vaguely possible the Ionians were named for the flower either in the substrate or in an early Attic-Ionic dialectic form, which had already lost the /w/ before lending the name into Mycenaean (Ionic appears to have been the first to lose /w/, already lost by the time Ionic was first written alphabetically). The Egyptian would be expected to be borrowed from contact with Mycenaean speakers (or even from Mycenaean via Minoan speakers).
 
@@ -33,7 +33,7 @@ Mediterranean substrate <*wion?>
 ------> French `violet`: "violet (color)"
 ------> French `violette`: "violet (flower)"
 -------> French `Violette`: "Violet (personal name)"
-------> English `violet`
+------> English `violet`!
 -------> English `Violet`: "Violet (personal name)"
 ------> German `violett`: "violet (color), purple"
 -------> Polish `fiolet`: "violet (color)"
@@ -65,6 +65,9 @@ Mediterranean substrate <*wion?>
 -----> English `Ianthe`
 ---> Classical Greek `ἰοειδής` <ioeidḗs>: "violet-ish, violet (color)"
 ----> Greek `ιώδης` <iódis>: "violet (color), purple"
+----> French `iodine`: "iodine"!
+-----> English `iodine`
+-----> Translingual `I`
 ---> Classical Greek `ἰάζω` <iázō>: "to be violet colored"
 ---> Classical Greek `λευκόϊον`: "gilliflower" (lit. "white violet")
 ----> German `Levkoje`: "wallflower, stock (flower)"
@@ -97,7 +100,7 @@ Mediterranean substrate <*wion?>
 
 
 
-?> Archaic Ionic Greek <*Iā́wōn> ##
+?> Archaic Ionic Greek <*Iā́wōn>
 
 --> Classical Greek `Ἴων` <Íōn>: "personal name, mythical founder of Ionia"
 ---> Latin `Īōn`
@@ -108,11 +111,11 @@ Mediterranean substrate <*wion?>
 
 --> Archaic Ionic Greek <*Iā́wōnia>: "Ionia"
 ---> Mycenaean Greek `𐀂𐀊𐀺𐀚 ` <i-ja-wo-ne>: "Ionians"
-----> Egyptian `​​𓇌𓅱𓈖𓏭𓉻𓂝𓏛` <ywnjꜥꜣ>: "Ionia" ###
+----> Egyptian `𓇌-𓅱-𓈖:𓏭-𓉻:𓂝-𓏛` <ywnjꜥꜣ>: "Ionia" ###
 ---> Classical Greek `Ἰωνῐ́ᾱ` <Iōníā>
 ----> Greek `Ιωνία` <Ionía>
 ----> Latin `Iōnia`: "Ionia"
------> English `Ionia`
+-----> English `Ionia`!
 
 
 ---> Old Persian `𐎹𐎢𐎴` <y-u-n>: "Ionia, Greece"
@@ -151,10 +154,10 @@ endbody
 
 startnotes
 
-# Possibly Goergian `ია` <ia> may be directly related to the substrate word, but it's more likely a contraction of `იასამანი` <iasamani> related to jasmine/yasmin (see parallel contraction in Persian `یاس` <yâs>).
+# Possibly Goergian `ია`=kat-Geor <ia> may be directly related to the substrate word, but it's more likely a contraction of `იასამანი`=kat-Geor <iasamani> related to jasmine/yasmin (see parallel contraction in Persian `یاس`=fas-Aran <yâs>).
 
 
-### Egyptian `​​𓇌𓅱𓈖𓏭𓉻𓂝𓏛` <ywnjꜥꜣ>: "Ionia" is more properly "Great Ionia" (compare Chinese  `大宛` <Da Yuan>), with the same Egyptian suffix <-ꜥꜣ> as in <pr-ꜥꜣ> "pharaoh", which is literally "great house", meaning "palace" and later (metonymically) "king of Egypt". (Egyptian does not use the same words for foreign kings as for their own.)
+### Egyptian `𓇌-𓅱-𓈖:𓏭-𓉻:𓂝-𓏛`=egy-Egyp <ywnjꜥꜣ>: "Ionia" is more properly "Great Ionia" (compare Chinese  `大宛`=lzh-Hant <Da Yuan>), with the same Egyptian suffix <-ꜥꜣ> as in <pr-ꜥꜣ> "pharaoh", which is literally "great house", meaning "palace" and later (metonymically) "king of Egypt". (Egyptian does not use the same words for foreign kings as for their own.)
 
 
 endnotes

@@ -1,32 +1,40 @@
 date: 20180928
 theme: Community 🏘️
+tags: Divinities
+
+
+startintro
+
+Latin words `munio`=lat-Latn: "fortifiation" (English `munitions`=eng-Latn) and `murus`=lat-Latn: "wall" (English `mural`=eng-Latn) appear to come from a <*mey-> root, so could be related, but are more likely connected to <*mewtʰi-> which gives various words about "pole, stick, post, picket"
+
+endintro
 
 
 startbody
 
 Proto-Indo-European <*mey->: "to exchange, to intermingle"
 
--> Proto-Indo-European <*moyno-s>
+-> Proto-Indo-European <*moynos>
 
 --> Italic <*moinos>
----> Latin `mūnus`: "service, duty, obligation, public office"
-----> Latin `mūniceps`: "citizen (duty-taker)"
------> Latin `mūnicipium`: "township, town"
-------> Western Romance
+---> Latin `munus`: "service, duty, obligation, public office"
+----> Latin `municeps`: "citizen (duty-taker)"
+-----> Latin `municipium`: "township, town"
+------> Central Romance
 -------> Italian `municipo`: "town council, town hall, government office"
------> Latin `mūnicipālis`: "to do with citizens or local government"
+-----> Latin `municipalis`: "to do with citizens or local government"
 ------> French `municipal`: "municipal"
--------> English `municipal`
-----> Latin `mūnerō`: "I honor (service), I reward (service)"
------> Latin `remūnerō`: "I reward, I recompense"
+-------> English `municipal`!
+----> Latin `munerare`: "to honor (service), to reward (service)"
+-----> Latin `remunerare`: "to reward, to recompense"
 ------> English `remunerate`
-----> Latin `immūnis`: "exempt from duty or public service"
+----> Latin `immunis`: "exempt from duty or public service"
 -----> English `immune`
 
 
--> Proto-Indo-European <*moyni-s>
+-> Proto-Indo-European <*moynis>
 
---> Proto-Indo-European <*ḱom-moyni-s>
+--> Proto-Indo-European <*ḱom-moynis>
 
 ---> Germanic <*gamainiz>: "shared, communal, public, common, ordinary" ##
 ----> East Germanic
@@ -42,25 +50,26 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 
 
 ---> Italic <*kommoinis>
-----> Latin `commūnis`: "common, ordinary, universal, public, democratic, familiar, courteous"
+----> Latin `communis`: "common, ordinary, universal, public, democratic, familiar, courteous"
 -----> Western Romance
 ------> French `commun`: "common, ordinary, low class, communal"
--------> English `common`
------> Latin `commūne`
+-------> English `common`!
+-----> Latin `commune`
 ------> English `commune`
------> Latin `commūnālis`
+-----> Latin `communalis`
 ------> English `communal`
------> Latin `commūniō`
+-----> Latin `communio` (oblique stem `communion-`=lat-Latn)
 ------> English `communion`
------> Latin `commūnitās`
+-----> Latin `communitas`
 ------> English `community`
------> Latin `commūnicō`
+-----> Latin `communicare`
+------> Central Romance
+-------> Italian `comunicare`: "to communicate"
 ------> Eastern Romance
 -------> Romanian `a cumineca`: "to receive communion, to communicate"
 ------> Western Romance
--------> Italian `comunicare`: "to communicate"
 -------> Spanish `comulgar`: "to receive communion, to communicate, to agree with"
-------> English `communicate`
+------> English `communicate`!
 ------> French `communiquer`: "to communicate"
 -------> French `communiqué`: "communicated, a thing that has beeb communicated"
 --------> English `communique`
@@ -72,116 +81,133 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 
 --> Indo-Iranian <*mitrás>: "oath, promise, treaty, agreement"
 ---> Indo-Aryan <*mitrás>
-----> Sanskrit `मित्र` <mitrá>: "friend, companion, associate"
+----> Sanskrit `𑀫𑀺𑀢𑁆𑀭` <mitrá>: "friend, companion, associate"
 -----> Magadhi `𑀫𑀺𑀢𑁆𑀢` <mitta>
 ------> Bengali `মিতা` <mita>: "friend, ally, namesake"
+------?> Bengali `মিতালী` <Mitali>: "a given name"
 -----> Pali <mitta>: "friend, friensdhip"
 -----> Sauraseni `𑀫𑀺𑀢𑁆𑀢` <mitta>
 ------> Madhya
 -------> Hindi `मीत` <mīt>: "friend"
 ------> Pahari
 -------> Punjabi `ਮਿੱਤ` <mitta>: "friend"
+-----> Sanskrit `𑀫𑀺𑀢𑁆𑀭𑀬𑀼` <mitrayu>
+------> Sanskrit `𑀫𑁃𑀢𑁆𑀭𑁂𑀬` <maitreya>
+-------> English `Maitreya`
+
+
 ---> Iranian <*miθráh>
-----> East Iranian
------> Avestan `𐬨𐬌𐬚𐬭𐬀` <miθra>: "contract, agreement, Mithra the Zoroastrian Divinity of Oaths"
-------> Old Persian `𐎷𐎰𐎼` <miθra>: "contract, agreement, Mithra"
--------> Persian `مهر` <mehr>: "kindness, love, friendship, prosperity, Mithhra, the Sun"
---------> Persian `مهربان` <mehrabân>: "kind, gracious"
----------> Hindi `मेहरबान` <meharbān>: "kind"
--------> Arabic `مَهْر` <mahr>: "contract, signet, seal, marriage portion"
---------> Persian `مهر` <mahr>: "contract, covenant, marriage portion"
--------> Ancient Greek `Μίθρᾱς` <Míthrās>: "Mithra, or various Helleno-Zoroastrian syncretic figures"
---------> Latin `Mithrās`
----------> English `Mithra`
+----> Avestan `𐬨𐬌𐬚𐬭𐬀` <miθra>: "contract, agreement, Mithra the Zoroastrian Divinity of Oaths"
+-----> Old Persian `𐎷𐎰𐎼` <miθra>: "contract, agreement, Mithra"
+------> Persian `مهر` <mehr>: "kindness, love, friendship, prosperity, Mithhra, the Sun"
+-------> Persian `مهربان` <mehrabân>: "kind, gracious"
+--------> Hindi `मेहरबान` <meharbān>: "kind"
+------> Arabic `مَهْر` <mahr>: "contract, signet, seal, marriage portion"
+-------> Persian `مهر` <mahr>: "contract, covenant, marriage portion"
+------> Classical Greek `Μίθρας` <Míthras>: "Mithra" (or various Helleno-Zoroastrian syncretic figures of the same name)
+-------> Latin `Mithras`
+--------> English `Mithra`!
 
 
 -> Proto-Indo-European <*meygʷ-> (extension)
 
---> Proto-Indo-European <*meygʷe-ti> (primary verb)
+--> Proto-Indo-European <*meygʷeti> (primary verb)
 
 ---> Italic
-----> Latin `migrō`: "I depart, I migrate, I change"
------> Western Romance
-------> Old French
--------> French `émigrer`: "to emmigrate, to migrate"
--------> English `migrate`
+----> Latin `migrare`: "to depart, to migrate, to change"
+-----> Central Romance
 ------> Italian `migrare`: "to migrate"
+-----> English `migrate`!
+-----> Latin `emigrare`
+------> Western Romance
+-------> Old French
+--------> French `émigrer`: "to emmigrate, to migrate"
+------> English `emigrate`
+-----> Latin `immigrare`
+------> English `immigrate`
+
 
 
 -> Proto-Indo-European <*meyḱ->: "to mix" (extension)
 
---> Proto-Indo-European <*meyḱe-ti> (primary verb)
+--> Proto-Indo-European <*meyḱeti> (primary verb)
 
 ---> Indo-Iranian
 ----> Iranian
------> East Iranian
+-----> Northern Iranian
 ------> Scythian
 ------?> Ossetian `ызмис` <yzmis>: "sand"
------> West Iranian
+-----> Western Iranian
 ------> Old Persian
--------> Persian `آمیختن` <âmixtan>: "to mix"
-------> Kurdish `ئامێژەن` <amêjen>: "mixing"
+-------> Persian `آمیختن‎` <âmixtan>: "to mix"
+------> Northwestern Iranian
+-------> Kurdish `ئامێژەن‎` <amêjen>: "mixing"
 
 
---> Proto-Indo-European <*méyḱe-ti> (root perfective)
+--> Proto-Indo-European <*méyḱeti> (root perfective)
 
 ---> Hellenic
-----> Ancient Greek `ἔμῐκτο` (émikto): "I mix, I mingle" (aorist)
+----> Classical Greek `ἔμῐκτο` <émikto>: "I mix, I mingle" (aorist)
 
 
---> Proto-Indo-European <*miḱsḱé-ti> (iterative)
+--> Proto-Indo-European <*miḱsḱéti> (iterative)
 
 ---> Germanic <*miskijaną>
 ----> Western Romance
 -----> Old English `miscian`
-------> English `mix`
+------> English `mix`!
 -----> Frankish <*misken>
 ------> Dutch `misken`
 -----> Old High German `miskian`
 ------> German `mischen`: "to mix, to shuffle"
 
 ---> Hellenic
-----> Ancient Greek `μίσγω` <mísgō>: "I mix"
+----> Classical Greek `μίσγω` <mísgō>: "I mix"
 
 ---> Indo-Iranian <*misĉá->
 ----> Indo-Aryan <*misĉá->
 -----> Sanskrit <*micchá->
-------> Sanskrit `मिच्छमान` <micchámāna>: "agitated"
+------> Sanskrit `𑀫𑀺𑀘𑁆𑀙𑀫𑀸𑀦` <micchámāna>: "agitated"
 ----> Iranian <*āmayxš->
------> West Iranian
-------> Parthian `ʾmyxs-`: "to be mixed up with"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Parthian `ʾmyxs-`: "to be mixed up with"
 
 ---> Italic <*mikskō>
-----> Latin `misceō`: "I mix, I confuse"
+----> Latin `miscere`: "to mix, to confuse"
 
 -----> Latin `miscellus`: "mixed"
-------> Latin `miscellāneus`: "mixed, assorted, sundry, miscellaneous"
--------> English `miscellaneous`
+------> Latin `miscellaneus`: "mixed, assorted, sundry, miscellaneous"
+-------> English `miscellaneous`!
 
 -----> Latin `mixtus`: "mixed"
 ------> Western Romance
 -------> Italian `misto`: "mixed"
-------> Latin `mixtūra`: "mixturem mixing"
+------> Latin `mixtura`: "mixturem mixing"
+-------> Central Romance
+--------> Italian `mistura`: "mixture, concoction"
 -------> Western Romance
 --------> Old French `misture`: "mixture"
 ---------> English `mixture`
---------> Italian `mistura`: "mixture, concoction"
-------> Latin `mixtīcius`: "of mixed race"
+------> Latin `mixticius`: "of mixed race"
+-------> Central Romance
+--------> Italian `meticcio`
 -------> Western Romance
 --------> French `métis`
 --------> Spanish `mestizo`
---------> Italian `meticcio`
------> Vulgar Latin <*misculō>
-------> Western Romance
+-----> Vulgar Latin <*misculare>
+------> Central Romance
 -------> Italian `mescolare`: "to mix, to stir, to blend"
 ------> Vulgar Latin <*misclāre> (syncopated variant)
--------> Western Romance
--------> Old French <*mescler>
---------> French `mêler`: "to mix, to shuffle, to meddle with"
----------> French `mélange`: "mixture, blend" ###
-----------> English `melange`
---------> English `meddle`
+-------> Central Romance
 --------> Italian `mischiare`: "to mix, to blend, to shuffle"
+-------> Western Romance
+--------> Old French <*mescler>
+---------> French `mêler`: "to mix, to shuffle, to meddle with"
+----------> French `mélange`: "mixture, blend"
+-----------> English `melange`
+---------> Norman `medler`
+----------> English `meddle`
 --------> Spanish `mezclar`: "to mix, to blend"
 
 
@@ -210,59 +236,60 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 --> Proto-Indo-European <*moyḱéye-ti> (causative)
 
 ---> Balto-Slavic <*maiśeitei>
-----> Lithuanian `maišýti`: "to mix, to stir, to agitate"
+----> Lithuanian `maišyti`: "to mix, to stir, to agitate"
 ----> Slavic <*mě̄sìti>: "to mix, to knead"
 -----> East Slavic
-------> Russian `меси́ть` (mesítʹ): "to knead (bread), to mix (with water)"
+------> Russian `меси́ть` <mesítʹ>: "to knead (bread), to mix (with water)"
+------> Ukrainian `місити` <misyty>: "to knead, to work clay, to beat up"
 -----> South Slavic
-------> Old Church Slavonic `ⰿⱑⱄⰹⰿⱏ` <měsimŭ>: "being mixed"
+------> Old Church Slavonic `мѣсити` <měsiti>: "to mix, to blend, to agitate"
 ------> Serbo-Croatian `мијѐсити` <mijèsiti>: "to knead"
 -----> West Slavic
+------> Czech `mísit`: "to mix"
 ------> Polish `miesić`: "to knead"
 
 
---> Proto-Indo-European <*méyḱs-eti> (desiderative?)
+--> Proto-Indo-European <*méyḱseti> (desiderative?)
 
 ---> Hellenic
-----> Ancient Greek `μείξω` <>: "I will mix" (future)
+----> Classical Greek `μειξω` <meixō>: "I will mix" (future)
 
 ---> Indo-Iranian <*maykšáyati>
 ----> Indo-Aryan <*maykṣáyati>
------> Sanskrit `मेक्षयति` <mekṣáyati>: "to mix, to stir, to mingle"
+-----> Sanskrit `𑀫𑁂𑀓𑁆𑀱𑀬𑀢𑀺` <mekṣáyati>: "to mix, to stir, to mingle"
 
 
---> Proto-Indo-European <*meyḱye-ti> (secondary imperfective)
+--> Proto-Indo-European <*meyḱyeti> (secondary imperfective)
 
 ---> Balto-Slavic 
 ----> Lithuanian `miēši`: "dilute, mix, ferment, sweeten"
 
 
---> Proto-Indo-European <*méyḱti-s> (action noun)
+--> Proto-Indo-European <*méyḱtis> (action noun)
 
 ---> Balto-Slavic <*miśtis>
 ----> Lithuanian `mìšti`
 
 ---> Hellenic <*míktis>
-----> Ancient Greek `μῐ́ξῐς` <míxis>: "a mixing, a mingling, intercourse"
+----> Classical Greek `μίξις` <míxis>: "a mixing, a mingling, intercourse"
 
 ---> Indo-Iranian <*míštiš>
 ----> Iranian
------> East Iranian
-------> Avestan `𐬨𐬌𐬱𐬙𐬌‎` <mišti>: "confusedly"
+-----> Avestan `𐬨𐬌𐬱𐬙𐬌‎` <mišti>: "confusedly"
 
 
---> Proto-Indo-European <*miḱró-s> (adjective)
+--> Proto-Indo-European <*miḱrós> (adjective)
 
 ---> Balto-Slavic
 ----> Lithuanian `mìšras`: "mixed"
 
 ---> Indo-Iranian <*miĉrás>
 ----> Indo-Aryan <*miśrás>
------> Sanskrit `मिश्र` <miśrá>: "mixed"
+-----> Sanskrit `𑀫𑀺𑀰𑁆𑀭` <miśra>: "mixed"
 ------> Pali <missa>
 
 -?> Proto-Indo-European <*menḱ->
----> Proto-Indo-European <*menḱe-ti>
+---> Proto-Indo-European <*menḱeti>
 ----> Germanic <*mangijaną>: "to mix, to knead"
 -----> West Germanic
 ------> Old English `mengan`: "to mix, to mingle, to blend"
@@ -273,9 +300,40 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 -------> German `mengen`
 
 
--> Proto-Indo-European <*meyH-> (extension)
+-> Proto-Indo-European <*meytH-> (extension)
 
---> Proto-Indo-European <*méytHe-ti> (primary verb)
+--> Proto-Indo-European <*méytHeti> (primary verb)
+
+---> Italic <*meito>
+----> Latin `mittere`: "to send"
+
+-----> French `mettre`
+
+------> French `mise`: "placement, bet, appearance"
+
+-------> French `mise en place`: "installation, kitchen preparation, mise en place"
+--------> English `mise en place`
+--------> Finnish `misata`: "mise en place"
+
+-----> Latin `admittere`
+------> English `admit`
+
+-----> Latin `emittere`
+------> English `emit`
+------> English `emissary`
+
+------> Latin `missio` (oblique stem `mission-`=lat-Latn)
+-------> English `mission`
+
+
+------> Latin `missilis`: "able to be sent, thing to be thrown"
+-------> English `missile`
+
+------> Late Latin `missivus`
+-------> English `missive`
+
+
+--> Proto-Indo-European <*moytHyeti>
 
 ---> Germanic <*maidijaną>
 ----> East Germanic
@@ -283,40 +341,41 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 ------> Gothic `𐌹𐌽𐌼𐌰𐌹𐌳𐌾𐌰𐌽` <inmaidjan>: "to transform, to change, to exchange"
 
 ---> Italic <*moitō>
-----> Latin `mūtō`: "I alter, I change, I exchange, I barter, I vary
+----> Latin `mutare`: "to alter, to change, to exchange, to barter, to vary"
+-----> Central Romance
+------> Italian `mutare`: "to change"
 -----> Eastern Romance
 ------> Romanian `a muta`: "to move, to shift"
 -----> Western Romance
 ------> French `muer`: "to moult, to change, to mutate"
 -------> French `mue`: "moulting, metamorphosis, transformation"
 --------> English `mew` (originally a cage for moulting birds)
-------> Italian `mutare`: "to change"
 ------> Spanish `mudar`: "to change, to convert, to move, to shed"
 -----> Old English `mutian`
 ------> English `moult`
 -----> French `muter`: "to transfer, to mutate"
------> Latin `commūtō`
+-----> Latin `commatare`
 ------> English `commute`
------> Latin `mūtābilis`
+-----> Latin `mutabilis`
 ------> English `mutable`
------> Latin `mūtāns`
+-----> Latin `matans`
 ------> English `mutant`
------> Latin `mūtātiō`
+-----> Latin `mutatio`
 ------> French `mutation`: "substitution, mutation"
 -------> English `mutation`
 --------> English `mutate`
------> Latin `mūtuus`
+-----> Latin `mutuus`
 ------> Western Romance
 -------> French `mutuel`
---------> English `mutual`
------> Latin `permūtō`
+--------> English `mutual`!
+-----> Latin `permutare`
 ------> English `permute`
------> Latin `trānsmūtō`
+-----> Latin `transmutare`
 ------> English `transmute`
 
 
 
---> Proto-Indo-European <mitHto-s>: "mutual, reciprocal"
+--> Proto-Indo-European <*mitHtos>: "mutual, reciprocal"
 
 ---> Germanic <*missaz>: "swapped, reversed, mixed up"
 ----> Germanic <*missa->: "mis-, badly, wrongly"
@@ -329,7 +388,7 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 -----> West Germanic
 ------> Old English `mis-`: "bad, badly, wrong, lack, failure"
 -------> English `mis-`
-------> Frankish 'mis(sa)-'
+------> Frankish `mis(sa)-`
 -------> Dutch `mis-`: "mis-"
 -------> French `mé(s)-`: "mis-"
 ------> Old High German `missa-`
@@ -342,7 +401,7 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 -------> Icelandic `missa`: "to lose"
 -----> West Germanic
 ------> Old English `missan`: "to miss, to fail, to escape notice"
--------> English `miss`
+-------> English `miss`!
 ------> Frankish <*missen>
 -------> Dutch `missen`: "to miss, to go without, to spare"
 ------> Old High German `missen`
@@ -352,3 +411,19 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 
 
 endbody
+
+
+
+startnotes
+
+
+## In many descendants, merged or influenced by the unrelated <*mainaz>: "hurtful, unjust, mean" (which is related to the other meaning of `mean`=eng-Latn, and probably originally meant "intentional").
+
+See also [https://en.wikipedia.org/wiki/The_Meaning_of_Meaning|The Meaning of Meaning] :-p
+
+
+
+endnotes
+
+
+

@@ -6,7 +6,7 @@ tags: Toponymy
 startbody
 
 
-Central Asian substrate <*sVrng-??>
+? <*sVrng-??> (Central Asian substrate)
 
 
 
@@ -33,7 +33,7 @@ Central Asian substrate <*sVrng-??>
 -----> Khmer `សឹង្ហ` <səng>: "lion"
 -----> Malay `singa`: "lion"
 -----> Punjabi `ਸਿੰਘ` <sĩgh>: "lion, Singh (Sikh surname)"
-------> English `Singh`
+------> English `Singh`!
 -----> Telugu `సింహము` <sĩhamu>: "lion, Leo"
 -----> Thai `སེངྒེ` <sengge>: "lion"
 
@@ -41,11 +41,11 @@ Central Asian substrate <*sVrng-??>
 -----> Sanskrit `𑀲𑀺𑀁𑀳𑀮` <sĩhala>: "Sri Lanka, Sri Lankan" ("of/with the lions")
 ------> Elu
 -------> Sinhala `සිංහල` <sĩhala>: "Sinhala"
---------> English `Sinhala`
+--------> English `Sinhala`!
 
 -----> Sanskrit `𑀲𑀺𑀁𑀳𑀧𑀼𑀭` <sĩhá-pura>: "Singapore" (lit. "Lion-City") ###
 ------> Malay `Singapura`: "Singapore" (lit. "Lion-City")
--------> English `Singapore`
+-------> English `Singapore`!
 
 
 -> Iranian <*šarguh> ##
@@ -61,7 +61,7 @@ Central Asian substrate <*sVrng-??>
 -----> Middle Chinese `獅子`: "lion (cub), bodhisattva"
 ------> Mandarin `獅子` <shízi>
 -------> Mandarin `獅子狗` <shīzigǒu>: "pekingese, shih tsu" (lit. "lion-cub-dog")
---------> English `shih tzu`
+--------> English `shih tzu`!
 ------> Japanese `獅子` <shishi>: "lion"
 ------> Korean `사자` <saja>: "lion"
 ------> Vietnamese `sư tử`: "lion"

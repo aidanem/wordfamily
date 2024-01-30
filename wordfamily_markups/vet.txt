@@ -9,7 +9,7 @@ I've included (possibly) two families again in this one, Proto-Indo-European *we
 
 Acrostatic *ó-r̥ nouns like <*wósr̥> are from very early PIE. You could imagine that this particular one is pre-PIE and a palatalization changed <*wótr̥> to <*wósr̥> that was no longer active in PIE, and <*wósr̥> became disconnected from its paradigm.
 
-For the semantic, consider for example the Italian and Spanish use of `primavera` for both "spring" and "year" (in certain contexts), as well as the common use of "winters" to mean "years".
+For the semantic, consider for example the Italian and Spanish use of `primavera`=spa-Latn for both "spring" and "year" (in certain contexts), as well as the common use of "winters" to mean "years".
 
 endintro
 
@@ -24,7 +24,7 @@ Proto-Indo-European <*wet->: "year, year-old"
 -> Proto-Indo-European <*wéts>
 
 --> Anatolian
----> Hittite `𒌑𒄿𒀉` <ú-i-it->: "year" (more often written with `𒈬` <MU> Sumerogram for "year")
+---> Hittite `𒌑𒄿𒀉` <ú-i-it->: "year" (more often written with `𒈬`=hit-Xsux <MU> Sumerogram for "year")
 
 
 -> Proto-Indo-European <*wétos>: "year"
@@ -50,7 +50,7 @@ Proto-Indo-European <*wet->: "year, year-old"
 
 
 ----> Latin `vetus lēx`: "old law"
------> Old Irish `fetarlicc`: "the Old Testament" (ablative `vetere lēge`, or Vulgar Latin accusative <*veterẽ legẽ>)
+-----> Old Irish `fetarlicc`: "the Old Testament" (from ablative `vetere lēge`=lat-Latn, or Vulgar Latin accusative <*veterẽ legẽ>)
 
 
 ----> Latin `vetulus`: "old, little old, little old man" (diminutive)
@@ -78,7 +78,7 @@ Proto-Indo-European <*wet->: "year, year-old"
 -----> Eastern Romance
 ------> Romanian `bătrân`: "old (of people)"
 -----> French `vétéran`: "veteran"
-------> English `veteran`
+------> English `veteran`!
 -----> Koine Greek `βετεράνος` <beterános>
 ------> Greek `βετεράνος` <veterános>: "veteran"
 -----> Italian `veterano`: "veteran"
@@ -91,10 +91,10 @@ Proto-Indo-European <*wet->: "year, year-old"
 -------> English `inveterate`
 
 
----?> Latin `veterīnus`: "related to draft animals" (possibly mixed with `vehere`)
+---?> Latin `veterīnus`: "related to draft animals" (possibly mixed with `vehere`=lat-Latn)
 -----> Latin `veterīnārius`: "related to treating domestic animals, veterinary, veterinarian"
 ------> English `veterinary`
--------> English `veterinarian`
+-------> English `veterinarian`!
 --------> English `vet`
 
 ---> Etruscan `𐌅𐌄𐌕𐌖𐌔` <vetus>: "old"
@@ -107,19 +107,19 @@ Proto-Indo-European <*wet->: "year, year-old"
 
 --> Anatolian
 ---> Luwic
-----> Cuneiform Luwian `𒈬𒅖` <MU-iš> [uššiš] (`𒈬` <MU> Sumerogramic for "year")
+----> Cuneiform Luwian `𒈬𒅖` <MU-iš> [uššiš] (`𒈬`=xlu-Xsux <MU> Sumerogramic for "year")
 ----> Hieroglyphic Luwian `𔑺𔓉𔐤` <u-si-na>  (attested in accusative)
 
 --> Indo-Iranian <*watsás>: "yearling calf"
 ---> Indo-Aryan <*watsás>
-----> Dardic
------> Khowar `بَۨچھوڑ` <bač̣hoóḷ>: "a calf"
 ----> Sanskrit `𑀯𑀢𑁆𑀲` <vatsá>: "a calf, a child, an offspring"
 -----> Magadhi
 ------> Assamese `বাছা` <basa>: "child (as an affectionate address)"
 -----> Sauraseni `𑀯𑀘𑁆𑀙` <vaccha>
 ------> Madhya Sauraseni
 -------> Hindi `बछड़ा` <bachṛā>: "calf"
+------> Northwestern Sauraseni
+-------> Khowar `بَۨچھوڑ` <bač̣hoóḷ>: "a calf"
 -----> Sanskrit <vatsarūpa>
 ------> Magadhi
 -------> Assamese `বাছৰু` <basoru>: "calf"
@@ -193,7 +193,7 @@ Proto-Indo-European <*wet->: "year, year-old"
 --------> Italian `viola`: "viola, fiddle"
 ---------> English `viola`
 ---------> Italian `violino`
-----------> English `violin`
+----------> English `violin`!
 -----------> Japanese `バイオリン` <baiorin>: "violin"
 
 -----?> Germanic <*fiþulǭ>: "fiddle, violin" #
@@ -203,7 +203,7 @@ Proto-Indo-European <*wet->: "year, year-old"
 -------> West Germanic
 --------> Old English <*fiþele>
 ---------> Middle English `fithele`
-----------> English `fiddle`
+----------> English `fiddle`!
 -----------> Swahili `fidla`: "fiddle, violin"
 ----------> Irish `fidil`: "fiddle"
 --------> Frankish <*fithela>
@@ -216,7 +216,7 @@ Proto-Indo-European <*wet->: "year, year-old"
 ----> Latin `vitulinus`: "of calf, from calf"
 -----> Western Romance
 ------> French `vélin`: "vellum"
--------> English `vellum` ### 
+-------> English `vellum`! ### 
 
 ----> Latin `vitellus`: "a small calf, yolk of an egg"
 -----> Central Romance
@@ -228,7 +228,7 @@ Proto-Indo-European <*wet->: "year, year-old"
 -----> Western Romance
 ------> Old French `veel`
 -------> French `veau`
--------> English `veal`
+-------> English `veal`!
 
 ----> Latin `vitella`: "a heifer calf"
 -----> Central Romance
@@ -248,7 +248,7 @@ Proto-Indo-European <*wet->: "year, year-old"
 -------> West Germanic <*Etala?>
 --------> Old English `Eotol`: "Italy"
 -------> Old English `Italia`: "Italy"
---------> English `Italy`
+--------> English `Italy`!
 ---------> Mandarin `意大利` <Yìdàlì>: "Italy"
 -------> Old Irish `(In) Etáil`: "Italy"
 --------> Irish `An Iodáil`: "Italy"
@@ -274,10 +274,12 @@ Proto-Indo-European <*wet->: "year, year-old"
 ----> Old Norse `veðr`: "ram"
 -----> Danish `vædder`: "ram, Aries"
 -----> Icelandic `veður`: "ram, battering ram"
+-----> Old Norse `Veðrafjǫrðr`: "place name: Ram-Ford"
+------> English `Waterford`
 ---> West Germanic
 ----> Old English `weþer`: "castrated ram, wether"
 -----> English `wether`
-------> English `bellwether`
+------> English `bellwether`!
 ----> Frankish <*wither>
 -----> Dutch `weer`: "wether"
 ----> Old High German `widar`: "ram"
@@ -401,8 +403,6 @@ Proto-Indo-European <*wósr̥>: "spring (season)" (oblique stem <*wésn̥->
 
 --> Indo-Iranian <*wasantás>
 ---> Indo-Aryan <*wasantás>
-----> Dardic
------> Kalasha `básond`: "spring"
 ----> Sanskrit `𑀯𑀲𑀦𑁆𑀢` <vasantá>: "spring"
 -----> Magadhi
 ------> Bengali `বসন্ত` <bôsôntô>: "spring"
@@ -412,6 +412,8 @@ Proto-Indo-European <*wósr̥>: "spring (season)" (oblique stem <*wésn̥->
 -----> Sauraseni
 ------> Madhya Sauraseni
 -------> Hindi `बसंत` <basant>: "spring"
+------> Northwestern Sauraseni
+-------> Kalasha `básond`: "spring"
 -----> Telugu `వసంతము` <vasantamu>: "spring"
 
 -> Italic <*wezor>
@@ -427,12 +429,12 @@ Proto-Indo-European <*wósr̥>: "spring (season)" (oblique stem <*wésn̥->
 ----> Central Romance
 -----> Italian `verno`: "of spring, vernal" ##
 ----> Latin `vernālis`: "of spring, vernal"
------> English `vernal`
+-----> English `vernal`!
 
 ---> Latin `prīma vēra`: "early spring, first spring"
 ----> Central Romance
 -----> Italian `primavera`: "spring, year, primrose"
-------> English `primavera`
+------> English `primavera`!
 ----> Eastern Romance
 -----> Romanian `primăvară`: "spring"
 ----> Western Romance
@@ -454,14 +456,17 @@ endbody
 startnotes
 
 
-# Latin "vitul(us/a" means a young cow, originally a one-year old cow. The Oscan equivalent (in the plural and/or genitive) 𐌅𐌝𐌕𐌄𐌋𐌉𐌞` <víteliú> is thought to be the origin of Greek Ἰταλία <Ītalíā>: "Italy"
+# Latin "vitul(us/a" means a young cow, originally a one-year old cow. The Oscan equivalent (in the plural and/or genitive) `𐌅𐌝𐌕𐌄𐌋𐌉𐌞`=osc-Ital <víteliú> is thought to be the origin of Greek `Ἰταλία`=grc-Grek <Ītalíā>: "Italy"
 
-Latin "vitula" also means a kind of stringed instrument (and becomes "viula" in Occitan, whence "viola" and "violin"). This is clearly related to Germanic *fiþulǭ: "a stringed instrument" ("fiddle"), but it is unclear if "vitula": "stringed instrument" is from "vitula": "young cow" (compare the story of Hermes and the lyre) and Germanic borrowed it; or if the Germanic is of unknown origin and Latin borrowed it.
+Latin `vitula`=lat-Latn also means a kind of stringed instrument (and becomes `viula`=oci-Latn in Occitan, whence `viola`=eng-Latn and `violin`=eng-Latn). This is clearly related to Germanic *fiþulǭ: "a stringed instrument" ("fiddle"), but it is unclear if `vitula`=lat-Latn: "stringed instrument" is from `vitula`=lat-Latn: "young cow" (compare the story of Hermes and the lyre) and Germanic borrowed it; or if the Germanic is of unknown origin and Latin borrowed it.
 
-"vitula": "stringed instrument" is attested late enough that Latin could have borrowed it, and Germanic *þ borrowed as Latin 't' is more common than the reverse; so on whole it is probably most likely that  Late Latin borrowed the meaning on to the existing Latin word `vitula`: "a heifer calf" and/or `Vitula`: "divinity of Joy and Victory" (whose name may or may not be from `vitula`: "a heifer calf" and whose worshipped involved music).
+`vitula`=lat-Latn: "stringed instrument" is attested late enough that Latin could have borrowed it, and Germanic *þ is borrowed as Latin 't' is more common than the reverse; so on whole it is probably most likely that  Late Latin borrowed the meaning on to the existing Latin word `vitula`=lat-Latn: "a heifer calf" and/or `Vitula`=lat-Latn: "divinity of Joy and Victory" (whose name may or may not be from `vitula`=lat-Latn: "a heifer calf" and whose worshipped involved music).
 
-## Hilariously, Latin `vernum`: "of spring, vernal" and Latin `hībernum`: "of winter" have both become `verno` in Italian.
+## Hilariously, Latin `vernum`=lat-Latn: "of spring, vernal" and Latin `hībernum`=lat-Latn: "of winter" have both become `verno` in Italian.
 
-### I always assumed "vellum": "calf or lamb skin for writing" was related to "vellus": "wool, the pelt or hide of an animal", but while "vellum" looks like a direct Latin word, but is actually from French "velin" from Latin "vitulinus": "of calf". Possibly some other Latin-knowing English speaker made the same assumption in the past and re-modeled "velin" to look like `vellus`.
+### I always assumed `vellum`=eng-Latn: "calf or lamb skin for writing" was related to `vellus`=lat-Latn: "wool, the pelt or hide of an animal", but it is not. `vellum`=eng-Latn looks like a direct Latin word, but is actually from French `velin`=fra-Latn from Latin `vitulinus`=lat-Latn: "of calf". Possibly some other Latin-knowing English speaker made the same assumption in the past and re-modeled `velin`=fra-Latn to look like `vellus`=lat-Latn.
 
 endnotes
+
+
+

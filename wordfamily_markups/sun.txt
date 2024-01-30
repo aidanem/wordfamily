@@ -8,20 +8,32 @@ tags: Divinities, Elements, Runes
 
 startbody
 
-Proto-Indo-European <*sóh₂wl̥>: "sun"
+Proto-Indo-European <*sóh₂wl̥>: "sun" ###
 
--> Balto-Slavic <*saul>: "sun"
---> Lithuanian `sáulė`: "sun"
---> Slavic <*sъlnьce>: "sun"
----> East Slavic
-----> Russian `со́лнце` <sólnce>: "sun"
----> South Slavic
-----> Serbo-Croatian `су̑нце` <sȗnce>: "sun"
----> West Slavic
-----> Polish `słońce`: "sun"
+-> Balto-Slavic <*sáuli>: "sun"
+--> East Baltic <*saulē>
+---> Lithuanian `sáulė`: "sun"
+--> West Baltic
+---> Old Prussian `saule`: "sun"
+--> Balto-Slavic <*sulnika>
+---> Slavic <*sъlnьce>: "sun"
+----> East Slavic
+-----> Russian `солнце` <solnce>: "sun"
+-----> Ukrainian `сонце` <sonce>: "sun"
+----> South Slavic
+-----> Bulgarian `слънце` <slǎnce>: "sun"
+-----> Old Church Slavonic `слъньце` <slŭnĭce>: "sun"
+-----> Serbo-Croatian `сунце` <sunce>: "sun"
+----> West Slavic
+-----> Czech `slunce`: "sun"
+-----> Polish `słońce`: "sun"
+--> Balto-Slavic <*pa-sáuli>
+---> East Baltic
+----> Lithuanian `pasáulis`: "world" (lit. "place or thing under the sun")
+
 
 -> Celtic <*sāwol>
---> Brythonic `heol`
+--> Brythonic
 ---> Welsh `haul`: "sun"
 --> Old Irish `súil`: "eye" (from the sun as the "eye of the sky")
 ---> Irish `súil`: "eye"
@@ -41,24 +53,46 @@ Proto-Indo-European <*sóh₂wl̥>: "sun"
 ----> Old English `sweġl`: "the sky, Heaven, sun, the rune ᛋ"
 
 -> Hellenic <*hāwélios>
---> Ancient Greek `ἥλιος` <hḗlios>: "sun, God of the Sun"
+--> Classical Greek `ἥλιος` <hḗlios>: "sun, day, east"
 ---> Greek `ήλιος` <ílios>: "sun"
+---> Classical Greek `ἡλῐοτρόπῐον` <hēliotrópion>: "heliotrope (flower), sundial, heliotrope (bloodstone)" (lit. "sun-turning, compare `girasole`=eng-Latn)
+----> Greek `ηλιοτρόπιο` <iliotrópio>: "heliotrope (flower), sunflower"
+----> Latin `hēliotropium`: "heliotrope (flower), heliotrope (stone)"
+-----> French `héliotrope`
+------> English `heliotrope`
+---> Sanskrit `𑀳𑁂𑀮𑀺` <heli> 
 ---> New Latin `helium`: "noble gas with atomic number 2, helium" #
-----> English `helium`
-----> Translingual `He`: chemical symbol for Helium
+----> English `helium`!
+----> Translingual `He`: "chemical symbol for Helium"
+---> Classical Greek `Ἥλιος` <Hḗlios>: "divinity of the Sun"
+----> Latin `Helios`
+-----> English `Helios`
 
 -> Italic <*swōl>: "sun"
---> Latin `sōl`: "sun"
----> Sardinian `sole`: "sun"
+--> Latin `sol`: "sun"
+---> Central Romance
+----> Italian `sole`: "sun"
+-----> Italian `girasole`: "sunflower" (lit. "sun-turning", compare `heliotrope`=eng-Latn)
+------> English `girasole`
+------> English `girasol`
+------> Italian `girasole articiocco`: "Jerusalem artichoke"
+-------> English `Jerusalem artichoke` (deformation by folk etymology)
 ---> Eastern Romance
 ----> Romanian `soare`: "sun"
+---> Insular Romance
+----> Sardinian `sole`: "sun"
 ---> Western Romance
-----> Italian `sole`: "sun"
 ----> Spanish `sol`: "sun"
+---> English `sol`
+---> Brythonic
+----> Welsh `Sul`
+-----> Welsh `dydd Sul`: "Sunday"
+
 ---> Vulgar Latin <*soliculus>: "sun"
-----> French `soleil`: "sun"
+----> Western Romance
+-----> French `soleil`: "sun"
 ---> Latin `sōlāris`: "related to the sun, sunny"
-----> English `solar`
+----> English `solar`!
 ----> Latin `sōlārium`: "sundial, sunny terrace" ("sun-place")
 -----> English `solarium`
 -----> Dutch `zolder`: "attic"
@@ -71,6 +105,8 @@ Proto-Indo-European <*sóh₂wl̥>: "sun"
 -----> Persian `خورشیدی` <Xoršidi>: "sunlight, male given name"
 ------> Turkish `Hurşit`
 ------> English `Khorshid`
+-----> Persian `خراسان` <Xorâsân>: "Place name: Sun-Coming, East, Khorasan"
+------> English `Khorasan`
 --> Indo-Aryan
 ---> Mitanni Aryan <*šuwar>
 ----> Mitanni Aryan <Šuwardata>: "Sun-Given (personal name)"
@@ -86,8 +122,8 @@ Proto-Indo-European <*sóh₂wl̥>: "sun"
 -----> Sauraseni
 ------> Madhya
 -------> Hindi `सूरज` <sūraj>: "sun"
------> Bengali `সূর্য` (surjô)
------> Punjabi `ਸੂਰਜ` (sūraj)
+-----> Bengali `সূর্য` <surjô>
+-----> Punjabi `ਸੂਰਜ` <sūraj>
 -----> Telugu `సూర్యుడు` <sūryuḍu>: "sun"
 -----> Sanskrit `𑀲𑀽𑀭𑁆𑀬 𑀦𑀫𑀲𑁆𑀓𑀸𑀭` <sū́rya namaskāra>: "sun salutation"
 ------> English `Surya Namaskara`
@@ -97,12 +133,12 @@ Proto-Indo-European <*sóh₂wl̥>: "sun"
 
 --> Celtic <*sawenos>: "sun"
 ---> Brythonic
-----> Welsh `huan`: "sun" (rare)
+----> Welsh `huan`: "sun (rare)"
 
 --> Germanic <*sunnȭ>: "sun"
 ---> West Germanic
 ----> Old English `sunne`: "sun"
------> English `sun`
+-----> English `sun`!
 ------> English `sunglasses`
 -------> Japanese `サングラス` <sangurasu>: "sunglasses"
 ----> Frankish `sunna`: "sun"
@@ -110,14 +146,32 @@ Proto-Indo-European <*sóh₂wl̥>: "sun"
 ----> Old High German `sunna`: "sun"
 -----> German `Sonne`: "sun"
 -----> Yiddish `זון` <zun>: "sun"
----> Germanic `sunþraz`: "south, sunward"
+----> West Germanic <*sunnōn dag>: "Sunday" (calque of Latin `dies Solis`=lat-Latn)
+-----> Old English `sunnandæġ`: "Sunday"
+------> English `Sunday`
+------> Yola `Zindei`: "Sunday"
+-----> Frankish <*sunnadag>
+------> Dutch `zondag`: "Sunday"
+-------> Afrikaans `Sondag`: "Sunday"
+--------> Zulu `iSonto`: "Sunday"
+-------> Japanese `ドンタク` <dontaku>: "Sunday (archaic), holiday, day off, festival day"
+--------> Japanese `半ドン` <handon>: "a half-day (half work or school and half holiday)"
+-----> Old High German `sunnuntag`: "Sunday"
+------> German `Sonntag`
+------> Yiddish `זונטיק` <zuntik>: "Sunday"
+-----> Old Norse `sunnudagr`: "Sunday"
+------> Danish `søndag`: "Sunday"
+------> Icelandic `sunnudagur`: "Sunday"
+------> Finnish `sunnuntai`: "Sunday"
+
+---> Germanic <*sunþraz>: "south, sunward"
 ----> North Germanic
 -----> Old Norse `suðr`: "south"
 ------> Danish `syd`: "south"
 ------> Icelandic `suður`: "south"
 ----> West Germanic
 -----> Old English `sūþ`: "south"
-------> English `south`
+------> English `south`!
 ------> Old French `sud` ##
 -------> French `sud` ##
 -------> Italian `sud` ##
@@ -148,15 +202,15 @@ startnotes
 # Helium is named after the sun, because it was first identified in the spectral emission lines of light from the Sun, 13 years before it was ever identified on Earth. As a noble gas, helium is both rare on Earth, and the second least reactive of any element, leaving it hidden from the early chemical discovery processes.
 
 
-## Latin words for cardinal directions, in this case <auster>/<meridies>, were replaced or supplemented in most Romance languages by borrowings from Old English. Weird.
+## Latin words for cardinal directions, in this case `auster`=lat-Latn/`meridies`=lat-Latn, were replaced or supplemented in most Romance languages by borrowings from Old English. Weird. Probably connected to the handful of nautical words that were also borrowed from Old English into Vulgar Latin.
 
 
 
-### <*sóh₂wl̥>/<*sh̥₂wén> is the only known case of a heteroclitic l/n stem, but it behaves identically to the larger group of r/n stems, just with *l instead of *r
+### <*sóh₂wl̥> ("solar") vs. <*sh̥₂wén> ("sun") is the only known case of a heteroclitic l/n stem, but it behaves identically to the larger group of r/n stems, just with <*l> instead of <*r>.
 
- The l/n alternation paradigm was levelled independently in different language families. Sometimes it was changed to use *-l- in both forms, in others to use *-n- in both forms
+ The l/n alternation paradigm was levelled independently in different language families. Sometimes it was changed to use <*-l-> in both forms, in others to use <*-n-> in both forms.
 
-The "oblique form" shown here is a theoretical nominative declension back-formed from genitive <*sh₂wéns> as if the stem did not alternate between *-l- and *-n-. But in reality, this form probably never occured, as the levellings happened much later. For example in Germanic the levelling appears to happen after the split between North and West Germanic, perhaps around the 3rd century CE
+The "oblique form" shown here is a theoretical nominative declension back-formed from genitive <*sh₂wéns> as if the stem did not alternate between <*-l-> and <*-n->. But in reality, this form probably never occurred, as the levellings happened much later. For example in Germanic the levelling appears to happen after the split between North and West Germanic, perhaps around the 3rd century CE.
 
 
 endnotes
