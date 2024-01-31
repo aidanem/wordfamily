@@ -82,9 +82,7 @@ class Family(object):
                 if relation_line:
                     dot_file_lines.extend(relation_line)
         
-        
         dot_file_lines.append('}\n')
-        
         
         with open(filepath, "w") as file:
             
@@ -168,6 +166,7 @@ class Family(object):
     def from_text(cls, filepath, session, focus=["English", "Translingual"], check_unknown_langs=True, auto_merge=False):
         session = db.default_session()
         word_lines = list()
+        next_word_id = 1
         status = None
         date = None
         theme = None
@@ -214,7 +213,8 @@ class Family(object):
                         intro.append(raw_line)
                     
                     elif status == "body":
-                        level, guess, word = Word.from_raw(raw_line, session, check_unknown_langs=check_unknown_langs)
+                        level, guess, word = Word.from_raw(raw_line, session, next_word_id, check_unknown_langs=check_unknown_langs)
+                        next_word_id += 1
                         for word_line in word_lines:
                             existing_word = word_line[2]
                             if word.possible_match(existing_word):

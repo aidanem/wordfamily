@@ -19,10 +19,9 @@ def html_safe(text):
 
 class Word(object):
     
-    _next_id = 1
-    
-    def __init__(self, language, orthography=None, is_teaser=False, transliteration=None, transcription=None, meaning=None, note=None, footnote_id=None):
+    def __init__(self, language, _id, orthography=None, is_teaser=False, transliteration=None, transcription=None, meaning=None, note=None, footnote_id=None):
         self.language = language
+        self._id = _id
         self.orthography = orthography
         self.is_teaser = is_teaser
         self.child_relations = []
@@ -31,8 +30,6 @@ class Word(object):
         self.meaning = meaning
         self.note = note
         self.footnote_id = footnote_id
-        self._id = self._next_id
-        self.__class__._next_id += 1
         
     
     def __repr__(self):
@@ -223,7 +220,7 @@ class Word(object):
     # Input Factory
     
     @classmethod
-    def from_raw(cls, raw_line, session, check_unknown_langs=True):
+    def from_raw(cls, raw_line, session, _id=0, check_unknown_langs=True):
         try:
             markup_match = markup_pattern.search(raw_line)
         except AttributeError:
@@ -299,7 +296,7 @@ class Word(object):
         else:
             footnote_id = None
         
-        word = cls(language, orthography=orthography, is_teaser=is_teaser, transliteration=transliteration, meaning=meaning, note=note, footnote_id=footnote_id)
+        word = cls(language, _id, orthography=orthography, is_teaser=is_teaser, transliteration=transliteration, meaning=meaning, note=note, footnote_id=footnote_id)
         
         return level, guess, word
 
