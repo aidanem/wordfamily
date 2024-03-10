@@ -6,12 +6,12 @@ import re
 
 import database as db
 
-markup_pattern = re.compile(r"^(?P<level>[-?]+>)?\s*(?P<language>[^`<(#]+)(?P<orthography>\`[^`]+\`)?(?P<teaser>!)?\s*(?P<transliteration><[^>]+>)?\s*(?P<transcription>\[[^>]+\])?\s*(?P<meaning>: \"[^\"]+\")?\s*(?P<note>\([^\)]+\))?\s*(?P<footnote>[ ]*\#+)?")
+markup_pattern = re.compile(r"^(?P<level>[-?]+>)?\s*(?P<language>[^`<>()#{}]+)(?P<orthography>\`[^`]+\`)?(?P<teaser>!)?\s*(?P<transliteration><.+?>)?\s*(?P<transcription>\[.+?\])?\s*(?P<meaning>: \".+?\")?\s*(?P<tags>{.+?})?\s*(?P<note>\(.+?\))?\s*(?P<footnote>[ ]*\#+)?")
 
 def html_safe(text):
     if text:
         text = re.sub(r"<([^>]+)>", r"<span class='transliteration'>\1</span>", text)
-        text = re.sub(r"\`([^`]+)\`(=([\w-]+))*", r"<span class='orthography' lang='\3'>\1</span>", text)
+        text = re.sub(r"\`(.+?)\`(=([\w-]+))*", r"<span class='orthography' lang='\3'>\1</span>", text)
         text = re.sub(r"\[([^\]\|]+)\|([^\]\|]+)]", r"<a href='\1'>\2</a>", text)
         text = re.sub(r"(http\S+)", r"<a href='\1'>\1</a>", text)
         text = re.sub(r"href='wff-(\w+)'", r"href='/word-family-\1.html'", text)
@@ -19,7 +19,7 @@ def html_safe(text):
 
 class Word(object):
     
-    def __init__(self, language, _id, orthography=None, is_teaser=False, transliteration=None, transcription=None, meaning=None, note=None, footnote_id=None):
+    def __init__(self, language, _id, orthography=None, is_teaser=False, transliteration=None, transcription=None, meaning=None, tags={}, note=None, footnote_id=None):
         self.language = language
         self._id = _id
         self.orthography = orthography
@@ -28,6 +28,7 @@ class Word(object):
         self.transliteration = transliteration
         self.transcription = transcription #not currently used
         self.meaning = meaning
+        self.tags = tags
         self.note = note
         self.footnote_id = footnote_id
         
@@ -284,6 +285,12 @@ class Word(object):
         else:
             meaning = None
         
+        tags_str = markup_match.group("tags")
+        if tags_str:
+            tags = set([tag.strip().title() for tag in tags_str.strip("{}").split(",")])
+        else:
+            tags = set()
+        
         note_str = markup_match.group("note")
         if note_str:
             note = note_str.strip("() ")
@@ -296,7 +303,7 @@ class Word(object):
         else:
             footnote_id = None
         
-        word = cls(language, _id, orthography=orthography, is_teaser=is_teaser, transliteration=transliteration, meaning=meaning, note=note, footnote_id=footnote_id)
+        word = cls(language, _id, orthography=orthography, is_teaser=is_teaser, transliteration=transliteration, meaning=meaning, tags=tags, note=note, footnote_id=footnote_id)
         
         return level, guess, word
 

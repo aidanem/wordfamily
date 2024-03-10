@@ -25,11 +25,9 @@ tags_start = re.compile('^tags:[ ]*(.*)', re.I)
 control_status = re.compile("(start|end)(intro|body|notes)", re.I)
 
 
-
-
 class Family(object):
     
-    def __init__(self, words, roots, focus_words, teaser_words=None, introduction=None, date=None, theme=None, tags=None, footnotes=None):
+    def __init__(self, words, roots, focus_words, teaser_words=None, introduction=None, date=None, theme=None, footnotes=None):
         self.words = words
         self.roots = roots
         self.focus_words = focus_words
@@ -37,14 +35,6 @@ class Family(object):
         self.introduction = introduction
         self.date = date or datetime.date.today()
         self.theme = theme
-        
-        self.tags = list()
-        self.tags.append("Historical Linguistics")
-        year = self.date.year
-        self.tags.append("WFF-{year}".format(year=year))
-        if tags:
-            self.tags.extend(tags)
-        
         self.footnotes = footnotes
     
     def __repr__(self):
@@ -61,6 +51,15 @@ class Family(object):
             return self.focus_words
         else:
             return None
+    
+    @property
+    def tags(self):
+        tags = set(["Historical Linguistics", f"WFF-{self.date.year!s}"]).union(
+            *[word.tags for word in self.words]
+        )
+        
+        return sorted(list(tags))
+        
     
     # Dot Output
     def dot_file(self, filepath, session, detail_langs=None):
@@ -94,17 +93,11 @@ class Family(object):
         
         if self.teaser_words is not None:
             teaser_word_text = ",\n".join(
-                ['<a href="/word-family-{name}.html#{word.id}">{word.orthography}</a>'.format(
-                    name = name,
-                    word = word,
-                )
+                [f'<a href="/word-family-{name}.html#{word.id}">{word.orthography}</a>'
                 for word in self.teaser_words]
             )
         focus_word_text = ",\n".join(
-            ['<a href="/word-family-{name}.html#{word.id}">{word.orthography}</a>'.format(
-                name = name,
-                word = word,
-            )
+            [f'<a href="/word-family-{name}.html#{word.id}">{word.orthography}</a>'
             for word in self.focus_words]
         )
         with open(filepath, "w") as file:
@@ -280,7 +273,7 @@ class Family(object):
                 if word not in teaser_words:
                     teaser_words.append(word)
         
-        return cls(words, roots, focus_words, teaser_words, introduction=intro, footnotes=footnotes, date=date, theme=theme, tags=tags)
+        return cls(words, roots, focus_words, teaser_words, introduction=intro, footnotes=footnotes, date=date, theme=theme)
 
 
 
