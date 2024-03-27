@@ -22,6 +22,7 @@ class Script(DeclarativeGroup, hermes.DynamicReprMixin):
     name = sqla.Column(sqla.String)
     adjective = sqla.Column(sqla.String)
     iso_15924 = sqla.Column(sqla.String)
+    #type_ = sqla.Column(sqla.String) # switch to multiple types per Script
     direction = sqla.Column(sqla.String)
     noto_fontname = sqla.Column(sqla.String)
     comment = sqla.Column(sqla.String)
@@ -234,7 +235,7 @@ class Glyph(DeclarativeGroup, hermes.DynamicReprMixin):
         u_ = self.unicode_display()
         name_ = repr(self.english_name)
         if self.unicode_ and self.english_name:
-            main_str = f'{u} ({name_})'
+            main_str = f'{u_} ({name_})'
         elif self.unicode_:
             main_str = u_
         elif self.english_name:

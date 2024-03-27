@@ -13,12 +13,12 @@ from .glyph import Script
 
 
 
-class Language(DeclarativeGroup, hermes.DynamicReprMixin, hermes.PromptMergeMixin):
+class Language(DeclarativeGroup, hermes.DynamicReprMixin, hermes.MergeMixin):
     __tablename__ = 'languages'
     
     id = sqla.Column(sqla.Integer, primary_key=True)
     name = sqla.Column(sqla.String, unique=True)
-    bcp47 = sqla.Column(sqla.String)
+    iso639 = sqla.Column(sqla.String)
     
     _unique_keys = [
         "name",
@@ -42,9 +42,9 @@ class Language(DeclarativeGroup, hermes.DynamicReprMixin, hermes.PromptMergeMixi
                 raise ValueError(f"No language found for input: {name!r}")
         return language
     
-    def script_from_bcp47(self, session):
-        if self.bcp47 is not None:
-            for tag_part in self.bcp47.split("-")[1:]:
+    def script_from_iso639(self, session):
+        if self.iso639 is not None:
+            for tag_part in self.iso639.split("-")[1:]:
                 try:
                     return Script.get_by_iso_15924(tag_part, session)
                 except ValueError:
@@ -75,7 +75,7 @@ class Language(DeclarativeGroup, hermes.DynamicReprMixin, hermes.PromptMergeMixi
         secondaryjoin = "LanguageStyleMapping.style_id == LanguageStyle.id",
     )
 
-class LanguageStyle(DeclarativeGroup, hermes.DynamicReprMixin, hermes.PromptMergeMixin):
+class LanguageStyle(DeclarativeGroup, hermes.DynamicReprMixin, hermes.MergeMixin):
     __tablename__ = 'language_styles'
     
     id = sqla.Column(sqla.Integer, primary_key=True)
@@ -90,7 +90,7 @@ class LanguageStyle(DeclarativeGroup, hermes.DynamicReprMixin, hermes.PromptMerg
 class LanguageStyleMapping(
         DeclarativeGroup,
         hermes.DynamicReprMixin,
-        hermes.PromptMergeMixin
+        hermes.MergeMixin
     ):
     __tablename__ = 'language_style_mapping'
     __table_args__ = (
@@ -118,7 +118,7 @@ class LanguageStyleMapping(
 class LanguageDescentMapping(
         DeclarativeGroup,
         hermes.DynamicReprMixin,
-        hermes.PromptMergeMixin
+        hermes.MergeMixin
     ):
     __tablename__ = 'language_descent_mapping'
     __table_args__ = (
@@ -145,7 +145,7 @@ class LanguageDescentMapping(
 class LanguageAutoCorrection(
         DeclarativeGroup,
         hermes.DynamicReprMixin,
-        hermes.PromptMergeMixin
+        hermes.MergeMixin
     ):
     __tablename__ = 'language_autocorrections'
     
@@ -168,7 +168,7 @@ class LanguageAutoCorrection(
     
     language = sqlalchemy.orm.relationship("Language")
 
-class Word(DeclarativeGroup, hermes.DynamicReprMixin, hermes.PromptMergeMixin):
+class Word(DeclarativeGroup, hermes.DynamicReprMixin, hermes.MergeMixin):
     __tablename__ = 'words'
     
     id = sqla.Column(sqla.Integer, primary_key=True)
@@ -341,7 +341,7 @@ def read_language_json(initialize=False):
     for lang_dict in language_data:
         language_obj = Language(
             name = lang_dict["name"],
-            bcp47 = lang_dict["subtag"],
+            iso639 = lang_dict["subtag"],
             style_classes = []
         )
         hermes.prompt_merge(Language, language_obj, session, "name")
