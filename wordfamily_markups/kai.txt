@@ -1,0 +1,208 @@
+date: 20240315
+
+startintro
+
+A quick Austronesian word family inspired by my friend Kai's birthday: Malayo-Polynesian <*tasik>: "sea, coastal water, saltwater, tide" -> Hawaiʻian `kai`=haw-Latn: "sea, saltwater, coast, tide".
+
+The Oceanic compound <*taqu-tasi>: "expert sailor" (lit. "sea-able, sea-knowing") is such a cool word, I included Austronesian <*tsaqu>: "to know how, to be able", too!
+
+endintro
+
+startbody
+
+Malayo-Polynesian <*tasik>: "sea, coastal water, saltwater, tide" {Water}
+
+-> Bornean
+--> Barito
+---> Malagasy `taiky`: "sea" {Water} (dialectic)
+
+-> Chamorro `tasi`: "sea" {Water}
+
+-> Kawi `𑼡𑼱𑼶𑼒𑽁` <tasik>: "sea, ocean" {Water}
+--> Javanese `ꦠꦱꦶꦏ꧀` <tasik>: "sea, ocean" {Water} (literary)
+
+-> Malayo-Sumbawan
+--> Bali `tasik`: "salt"
+--> Malayic <*tasik>
+---> Iban `tasik`: "sea"
+---> Malay `tasik`: "lake" {Water}
+
+-> Philippine <*tasik>
+--> Cebuano `tasik`: "brine" {Water}
+--> Tagalog `tasik`: "saltwater, brine, brining" {Water}
+
+
+-> South Halmahera–West New Guinea
+--> Mor `ati`
+-?> Tarof Kokoda `tai`: "water" {Water}
+
+
+-> Timoric
+--> Tetun `tasi`
+
+
+-> Oceanic <*tasi>
+
+--> Admiralty Islands
+---> Loniu <tas>
+
+--> Fijian `taci`
+--> Fijian `tai`: "coast, seashore"
+
+--> Micronesian
+---> Kiribati `tari`
+
+
+--> Polynesian <*tai>: "sea, saltwater, tide" {Water}
+
+---> Outlier Polynesian
+----> Takuu `tai`: "sea, tide, sea water" {Water}
+
+---> Tongic
+----> Tongan `tahi`: "sea, ocean, beach, tide" {Water}
+
+---> Nuclear Polynesian
+----> Samoic <*tai>
+-----> Samoan `tai`: "tide, sea" {Water}
+-----> Tokelauan `tai`: "sea, tide" {Water}
+
+----> Eastern Polynesian
+-----> Rapa Nui `tai`: "sea" {Water}
+-----> Marquesic
+------> Hawaiʻian `kai`: "sea, saltwater, coast, tide" {Water}
+------> Marquesan `tai`: "sea, salt water, seaward" {Water}
+-----> Tahitic
+------> Tahitian `tai`: "sea" {Water}
+------> Māori `tai`: "sea" {Water}
+
+
+---> Polynesian <*tai-tai>: "salty, brackish"
+
+---> Polynesian <*ŋaa-tai>: "seawards, at the sea, coast"
+
+----> Nuclear Polynesian
+-----> Samoic <*ŋaa-tai>
+------> Samoan `gaatai`: "towards the sea"
+
+----> Outlier Polynesian
+-----> Takuu `naatai`: "flotsam"
+
+
+--> Southeast Solomonic
+---> Bughotu `tahi`
+
+
+
+--> Oceanic <*taqu-tasi>: "sea-farer, expert sailor" (lit. "sea-able, sea-knowing")
+
+---> Polynesian
+
+----> Tongic
+-----> Tongan `toutai`: "fisherman" (irregular vowel)
+
+----> Nuclear Polynesian
+
+-----> Samoic
+------> Samoan `tautai`: "master fisherman, captain"
+------> Tokelauan `tautai`: "master fisherman, captain, to steer, to direct"
+
+-----> Eastern Polynesian
+------> Tahitic
+-------> Tahitian `tautai`: "a fishing technique"
+
+----> Outlier Polynesian
+-----> Takuu `tautai`: "fishing leader, shark-fishing equipment"
+
+
+
+Austronesian <*tsaqu>: "to know how, to be able" {Austronesian}
+
+-> Paiwan `tsaqu`: "to know, to be able"
+--> Paiwan `ki-tsaqu-an`: "to practice, to learn a skill"
+
+-> Malayo-Polynesian <*taqu>: "to know how, to be able"
+
+--> Kawi `𑼡𑼲𑼸` <tahu>: "skilled, practiced, trained"
+
+--> Malayo-Sumbawan
+---> Bali `tahu`
+---> Chamic <*thɔw>
+----> Aceh `thée`
+----> Tsat <tiawʔ³²>: "to know"
+---> Malayic <*tahu(ʔ)>
+----> Iban `tau`: "able, can, should"
+----> Malay `tahu`: "to know"
+
+--> Philippine
+---> Binukid `tatau`
+
+
+--> Oceanic <*taqu>
+---> Polynesian
+----> Tongic
+-----> Tongan `tau`: "accustomed skill"
+----> Nuclear Polynesian
+-----> Samoic
+------> Samoan `tau`: "a familiar or habitual action"
+-----> Eastern Polynesian
+-----?> Rapa Nui `tau(tau)`: "Beautiful, elegant, handsome, precious"
+------> Tahitic
+-------> Māori `tau`: "to be able, suitable"
+
+--> Malayo-Polynesian <*ka-taqu>: "ability, skill, knowledge"
+
+---> Philippine
+----> Binukid `ka-tatau`: "ability, skill; wisdom, knowledge"
+
+
+---> Malayo-Polynesian <*ka-taqu-an>
+
+
+-> Austronesian <*ma-Caqu> {Austronesian}
+
+--> Paiwan `ma-tsaqu`: "capable, skilled"
+
+--> Malayo-Polynesian
+
+---> Philippine
+----> Binukid `ma-tatau`: "clever, wise, skilled"
+
+---> Oceanic <*maa-taqu>
+
+----> Fijian `ma(ta)sau`: "title of respect, master"
+
+----> Polynesian <*ma(a)taqu>: "to know, to understand"
+
+-----> Nuclear Polynesian
+
+------> Samoic
+-------> Tokelauan `mātau`: "knowledge, understanding"
+
+------> Eastern Polynesian
+-------> Marquesic
+--------> Hawaiʻian `mākaukau`: "ready, able, competent, skilled"
+-------> Tahitic
+--------> Tahitian 
+--------> Māori `mātau`: "to know, to understand, knowledge"
+
+---> Oceanic <*taqu-tasi>: "sea-farer, expert sailor" (lit. "sea-able, sea-knowing")
+
+
+-> Austronesian <*tsaqu-an> {Austronesian}
+
+--> Paiwan `tsaqu-an`: "skill"
+
+--> Malayo-Polynesian <*taqu-an>
+
+---> Malayo-Sumbawan
+----> Bali `tawang`: "to see, to perceive, to know"
+
+---> Malayo-Polynesian <*ka-taqu-an>
+
+----> Kawi `𑼒𑼡𑼁𑼮𑼁` <katahwan>: "skilled, used to, familiar with"
+
+----> Malayo-Sumbawan
+-----> Malayic
+------> Malay `pêngêtahuan`: "knowledge, intelligence"
+
+endbody

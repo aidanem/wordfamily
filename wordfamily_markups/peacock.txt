@@ -1,0 +1,187 @@
+date: 20240308
+
+startintro
+
+I was very excited to realize <tawus> and `peacock`=eng-Latn were related!
+
+endintro
+
+
+startbody
+
+
+Wanderwort?
+
+?> Turkic <*tiakï>: "hen" {Birds, Animals}
+?> Tungusic <*tiaku>: "hen" {Birds, Animals}
+?> Mongolic <*takiga>: "hen, fowl" {Birds, Animals}
+--> Mongolic <*takixa>: "hen, fowl" {Birds, Animals}
+?> Khitan `𘰺𘯛𘯺` <t.qo.a>: "hen" {Birds, Animals}
+?> Middle Korean `ᄃᆞᆰ` <tolk>: "fowl" {Birds, Animals}
+?> Tamil `தோகை` <tōkai>: "plumage, feathers, tail of a peacock" {Birds, Animals}
+?> Classical Greek `ταώς` <taṓs>: "peafowl" {Birds, Animals}
+?> Aramaic `𐡈𐡅𐡎𐡀` <ṭawsā>: "peafowl" {Birds, Animals}
+
+
+
+
+Tungusic <*tiaku>: "hen" {Birds, Animals}
+-> Manchu `ᠴᠣᡴᠣ` <coko>: "chicken" {Birds, Animals, Domestic Animals}
+
+
+
+Middle Korean `ᄃᆞᆰ` <tolk>: "fowl" {Birds, Animals}
+-> Korean `닭` <dak>: "fowl, chicken" {Birds, Animals, Domestic Animals}
+
+
+Mongolic <*takixa>: "hen, fowl" {Birds, Animals}
+-> Mongolian `ᠲᠠᠬᠢᠶ᠎ᠠ` <takiy-a>: "chicken" {Birds, Animals, Domestic Animals}
+?> Khitan `𘰺𘯛𘯺` <t.qo.a>: "hen" {Birds, Animals}
+?> Middle Korean `ᄃᆞᆰ` <tolk>: "fowl" {Birds, Animals}
+
+
+
+Turkic <*tiakï>: "hen" {Birds, Animals}
+
+?> Tungusic <*tiaku>: "hen" {Birds, Animals}
+
+-> Turkic <*tiakïgu>: "hen, fowl" {Birds, Animals}
+--> Oghur
+---> Chuvash `чӑх` <čăh>: "hen" {Birds, Animals}
+---> Hungarian `tyúk`: "hen" {Birds, Animals}
+--> Common Turkic
+---> Oghuz
+----> East Oghuz
+-----> Turkmen `towuk`: "hen" {Birds, Animals}
+----> West Oghuz
+-----> Azerbaijani `toyuq`: "hen, chicken" {Birds, Animals, Domestic Animals}
+-----> Ottoman Turkish `طاوق` <tavuk>: "hen, fowl" {Birds, Animals}
+------> Turkish `tavuk`: "hen" {Birds, Animals}
+---> Karluk
+----> Uyghur `توخۇ` <toxu>
+----> Uzbek `tovuq`: "hen" {Birds, Animals}
+---> Kipchak <*tawuɣ>
+----> Tatar `тавык` <tawıq>: "hen, chicken" {Birds, Animals, Domestic Animals}
+----> Kazakh `тауық` <tauyq>: "hen, chicken" {Birds, Animals, Domestic Animals}
+
+---> Siberian Turkic
+----> Khakas `таңах` <tañax>: "hen, chicken" {Birds, Animals, Domestic Animals}
+----> Old Uyghur `𐾀𐽰𐽲𐾄𐽶𐽳` <tʾqyγw>: "fowl, hen" {Birds, Animals}
+
+-?> Mongolic <*takiga>: "hen, fowl" {Birds, Animals}
+-?> Tungusic <*tiaku>: "hen" {Birds, Animals}
+-?> Classical Greek `ταώς` <taṓs>: "peafowl" {Birds, Animals}
+
+
+
+
+
+Tamil `தோகை` <tōkai>: "plumage, feathers, tail of a peacock" {Birds, Animals}
+?> ?
+-?> Classical Greek `ταώς` <taṓs>: "peafowl" {Birds, Animals}
+
+
+
+
+Classical Greek `ταώς` <taṓs>: "peafowl" {Birds, Animals}
+
+-> Latin `pavo`: "peafowl, peacock" {Birds, Animals} #
+--> Vulgar Latin <*pawoneᵐ> {Birds, Animals}
+---> Central Romance
+----> Italian `pavone`: "peafowl, peacock" {Birds, Animals}
+----?> Italian `pavana`: "pavane (dance)" ##
+------> Spanish `pavana` ##
+------> French `pavane` ##
+-------> English `pavane` ##
+
+-----> Italian `paone`: "peafowl, peacock" {Birds, Animals} (variation)
+------> Serbo-Croatian `паун` <paun>: : "peafowl, peacock" {Birds, Animals}
+-----> Sicilian `pagu(n)`: "peafowl, peacock" {Birds, Animals}
+------> Greek `παγώνι` <pagóni>: "peafowl, peacock" {Birds, Animals}
+------> Maltese `pagun`: "peafowl, peacock" {Birds, Animals}
+---> Eastern Romance
+----> Romanian `păun`: "peafowl, peacock" {Birds, Animals}
+---> Insular Romance
+----> Sardinian
+-----> Campidanese `poni`: "peafowl, peacock" {Birds, Animals}
+-----> Logudorese `paone`: "peafowl, peacock" {Birds, Animals}
+---> Western Romance
+----> French `paon`: "peafowl, peacock" {Birds, Animals}
+-----> Breton `paun`: "peafowl, peacock" {Birds, Animals}
+-----> Welsh `paun`: "peafowl, peacock" {Birds, Animals}
+----> Spanish `pavón`: "peacock (archaic), emperor moth" {Animals}
+--> Spanish `pavo`: "turkey, peacock" {Birds, Animals}
+---> Spanish `pavo real`: "peacock" {Birds, Animals} (lit. "royal peacock/turkey")
+-?> Lithuanian `povas`: "peafowl, peacock, braggart" {Birds, Animals}
+
+--> Germanic <*pāwô>: "peafowl" {Birds, Animals}
+---> North Germanic
+----> Old Norse `pái`: "peafowl, peacock" {Birds, Animals}
+-----> Old Norse `páfugl`: "peafowl" {Birds, Animals}
+------> Danish `påfugl`: "peafowl" {Birds, Animals}
+------> Icelandic `páfugl`: "peafowl" {Birds, Animals}
+---> West Germanic <*pāwō>
+----> Old English `pāwa`: "peafowl" {Birds, Animals}
+-----> English `pea`
+------> English `peafowl` {Birds, Animals}
+------> English `peacock`! {Birds, Animals}
+-------> Hawaiʻian `pīkake`: "peafowl, peacock, Arabian jasmine flower" {Birds, Animals, Plants} ###
+--------> English `pikake`
+-------> Irish `péacóg`: "peacock, peafowl, dandy" {Birds, Animals} (modified by association with diminutive suffix `-óg`=gle-Latn)
+------> English `peahen` {Birds, Animals}
+------> English `peachick` {Birds, Animals}
+----> Frankish <*pāwo>
+-----> Dutch `pauw`: "peafowl, peacock" {Birds, Animals}
+----> Old High German `pfāwo` {Birds, Animals}
+-----> German `Pfau` {Birds, Animals}
+-----> Yiddish `פּאַווע` <pave>: "peafowl, peacock" {Birds, Animals}
+-----> Old High German <pfāwelīn> {Birds, Animals} (diminutive)
+------> German `Pfäulein` {Birds, Animals} (archaic)
+------> Estonian `paabulind`: "peafowl, peacock" {Birds, Animals}
+------> East Slavic
+-------> Russian `павлин​​` <pavlin>: "peafowl, peacock, pheasant" {Birds, Animals}
+------> Polish `paw`: "peacock, vomit" {Birds, Animals}
+------?> Lithuanian `povas`: "peafowl, peacock, braggart" {Birds, Animals}
+
+
+?> Aramaic `𐡈𐡅𐡎𐡀` <ṭawsā>: "peafowl" {Birds, Animals}
+
+
+--> Arabic `طاووس` <ṭāwūs>: "peafowl, peacock" {Birds, Animals}
+---> Kurdish `tawûs`: "peafowl, peacock" {Birds, Animals}
+----> Kurdish `Tawûsî Melek`: "Peacock Angel, Yazidi Archangel of the World" {Divinities}
+-----> English `Tawusi Melek` {Divinities}
+---> Persian `طاووس` <tâwus>: "peafowl, peacock" {Birds, Animals}
+----> Persian `⁧تخت طاووس⁩` <taxt-e tâwus>: "the Peacock Throne" (throne of the Mughal Emperors)
+----> English `taus`
+---> Swahili `tausi`: "peafowl, peacock" {Birds, Animals}
+---> Turkish `tavus`: "peafowl, peacock" {Birds, Animals}
+--?> Mongolian `ᠲᠣᠭ᠋ᠤᠰ᠋` <toɣus>: "peafowl, peacock" {Birds, Animals}
+---?> Manchu `ᡨᠣᠵᡳᠨ` <tojin>: "peafowl, peacock" {Birds, Animals} ####
+
+--> Hebrew `טווס` <tavas>: "peafowl" {Birds, Animals}
+
+
+
+
+
+endbody
+
+
+
+startnotes
+
+
+# Latin `pavo`=lat-Latn: "peafowl" from Greek `ταώς`=grc-Grek <taṓs>, the `v`=lat-Latn is just an epenthetic glide between the <a> and <o>. The change from <t> to <p> was probably a modification by association with the Latin onomatopoeia for a peacock's cry `pau`=lat-Latn (`paupulare`=lat-Latn: "to cry, as of a peacock")
+
+## The dance "the Pavane" is probably originally unrelated, most likely being a version of "Paduan", but it was later re-interpreted as meaning "peacock" resulting in the dance becoming more and more peacock-inspired.
+
+### Hawaiʻian `pīkake`=haw-Latn refers to both peacocks and Arabian jasmine flower; both were imported around the same time and were associated with Princess Kaʻiulani (the heir apparent to Queen Liliʻuokalani at the time of the overthrow of the Kingdom Of Hawaiʻi).
+
+
+#### Manchu `ᡨᠣᠵᡳᠨ`=mnc-Mong <tojin>: "peafowl, peacock" has to be a relatively recent borrowing, or the <t-j> sequence would have become <s-j> (cf. <sunja> from Proto-Tungusic <*tunga>: "five")
+
+endnotes
+
+
+

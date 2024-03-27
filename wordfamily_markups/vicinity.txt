@@ -1,6 +1,5 @@
 
-date: 2020-05-08
-tags: Toponymy
+date: 20200508
 
 
 startbody
@@ -27,6 +26,61 @@ Proto-Indo-European <*weyḱ->: "settlement, to settle"
 ----> Sanskrit `𑀯𑀺𑀯𑁂𑀰` <vivéśa>: "entered"
 ---> Iranian
 ----> Avestan `𐬬𐬍𐬎𐬎𐬍𐬯𐬈` <vīuuīse> #
+
+
+-> Proto-Indo-European <*wéyḱs> (root noun)
+
+--> Indo-Iranian <*wíćš>
+---> Indo-Aryan <*wíṭṣ>
+----> Sanskrit `𑀯𑀺𑀰𑁆` <víś>: "settlement, house, community, wealth"
+---> Iranian <*wícš>
+----> Avestan `𐬬𐬍𐬯` <vīs>: "village, clan"
+----> Western Iranian
+-----> Old Persian `𐎻𐎰` <viθ>
+------> Persian `ویس` <vis>: "clan; also Vis, a given name"
+-------> Persian `ويس و رامين` <Vis o Rāmin>: "Vis and Ramin (Parthian epic)"
+--------> English `Vis and Ramin`
+
+
+-> Proto-Indo-European <wóyḱos> (agentive noun)
+
+--> Hellenic <*wóikos>
+---> Mycenaean Greek `𐀺𐀒` <wo-ko>: "home"
+---> Classical Greek `οῖκος` <oîkos>: "house, room, estate"
+----> Greek `οίκος` <oíkos>
+----> Classical Greek `οἰκονόμος` <oikonómos>: "head of household, steward, manager"
+-----> Classical Greek `οἰκονομῐ́α` <oikonomía>: "management of a house, administration"
+------> Latin `oeconomia`: "management of a house, arrangement, economy"
+-------> English `economy`!
+-------> French `économie`
+--------> Haitian Creole `ekonomi`
+-------> German `Ökonomie`
+-------> Russian `экономия` <ekonomija>
+----> German `Ökologie`: "ecology" (learned formation by Ernst Haeckel)
+-----> English `ecology`
+------> English `arcology`
+----> Classical Greek `οἰκέω` <oikéō>: "I inhabit, I settle in, I reside at"
+-----> Classical Greek `οἴκημᾰ` <oíkēma>
+
+-----> Classical Greek `οἴκησις`
+------> Classical Greek `διοίκησις` <dioíkēsis>: "housekeeping, government, administration"
+-------> Latin `dioecesis`
+--------> Old French `diocese`
+---------> French `diocèse`
+---------> English `diocese`
+
+-----> Classical Greek `(ἡ) οἰκουμένη (γῆ)` <(hē) oikouménē (gê)>: "(the) inhabited (earth), the known world"
+------> Classical Greek `οἰκουμενικός`: "relating to the whole world, relating to everyone"
+-------> Late Latin `oecumenicus`
+--------> English `ecumenic`
+---------> English `ecumenical`
+
+
+
+-> Proto-Indo-European <*wéyḱos> (action or result noun)
+
+--> Tocharian <*wjäike>
+---> Kushean <īke>: "place, location"
 
 
 -> Proto-Indo-European <*wéyḱis>
@@ -56,7 +110,7 @@ Proto-Indo-European <*weyḱ->: "settlement, to settle"
 
 --> Italic <*weikos>
 ---> Latin `vīcus`: "neighborhood, village"
-----> Western Romance
+----> Central Romance
 -----> Italian `vico`: "village, district"
 -----> Latin `vīcīnus`: "neighbor, near, similar"
 ------> Central Romance
@@ -77,7 +131,7 @@ Proto-Indo-European <*weyḱ->: "settlement, to settle"
 --------> English `vicinity`!
 -------> Spanish `vecindad`: "vicinity, neighborhood"
 -----> Latin `vīculus`: "village, hamlet, side-street"
-------> Western Romance
+------> Central Romance
 -------> Italian `vicolo`: "alley"
 -----?> Latin `vīlla`: "country house, estate, villa"
 -------> Central Romance
@@ -109,9 +163,9 @@ Proto-Indo-European <*weyḱ->: "settlement, to settle"
 ------> Old Norse `vík`: "bay, cove, inlet"
 -------> Danish `vig`: "inlet, fjord"
 -------> Icelandic `vík`: "bay, cove"
--------> Old Norse `Reykjavík`: "Bay of Smokes"
---------> Icelandic `Reykjavík`
----------> English `Reykjavík`
+-------> Old Norse `Reykjavík`: "Bay of Smokes" {Toponymy}
+--------> Icelandic `Reykjavík` {Toponymy}
+---------> English `Reykjavík` {Toponymy}
 ------?> Old Norse `víkingr` ##
 --------> Icelandic `víkingur`: "viking"
 --------> English `viking`
@@ -119,19 +173,19 @@ Proto-Indo-European <*weyḱ->: "settlement, to settle"
 ----------> Japanese `バイキング(料理)` <Baikingu (ryōri)>: "smorgasbord, buffet" #######
 -----> West Germanic
 ------> Old English `wīc`: "settlement, village, bay" (or `wīċ`=ang-Latn)
--------> Old English `Beowīc`: "Bee-Town"
---------> English `Bewick`
+-------> Old English `Beowīc`: "Bee-Town" {Toponymy}
+--------> English `Bewick` {Toponymy}
 ---------> English `Buick`
--------> Old English `Eoforwīċ`: "Boar-Town" ###
---------> Norman `Éverouic`
---------> Old Norse `Jórvík`
----------> English `York`
-----------> English `New York`!
--------> Old English `Gippeswic`
---------> English `Ipswich`
--------> Old English `Sandwic`: "Sand-(Habor)-Town"
---------> English `Sandwich`
----------> English `sandwich`! ####
+-------> Old English `Eoforwīċ`: "Boar-Town" {Toponymy} ###
+--------> Norman `Éverouic` {Toponymy}
+--------> Old Norse `Jórvík` {Toponymy}
+---------> English `York` {Toponymy}
+----------> English `New York`! {Toponymy}
+-------> Old English `Gippeswic` {Toponymy}
+--------> English `Ipswich` {Toponymy}
+-------> Old English `Sandwic`: "Sand-(Habor)-Town" {Toponymy}
+--------> English `Sandwich` {Toponymy}
+---------> English `sandwich`!  {Food} ####
 ----------> English `-wich`
 ----------> Arabic `سَانْدْوِيتْش` <sandwitš>
 ----------> French `sandwich`
@@ -143,68 +197,14 @@ Proto-Indo-European <*weyḱ->: "settlement, to settle"
 ----------> Tibetan `སན་ཊ་ཝིཆི` <san ṭa wichi>
 ----------> Vietnamese `xăng-uých`
 ---------> English `Sandwich Islands` ####
--------> Old English `Werwic`: "Weir-Town"
---------> English `Warwick`
+-------> Old English `Werwic`: "Weir-Town" {Toponymy}
+--------> English `Warwick` {Toponymy}
 -------> English `bailiwick`
 ------> Old High German `wīh`
 -------> Old High German `wīhbilidi`
 --------> German `Weichbild`: "city appearance, metropolitan region"
 ------> Frankish <*wīk>
 -------> Dutch `wijk`: "nieghborhood, district"
-
-
-
--> Proto-Indo-European <*wéyḱos>
-
---> Tocharian <*wjäike>
----> Kushean <īke>: "place, location"
-
-
--> Proto-Indo-European <*wéyḱs>
-
---> Indo-Iranian <*wíćš>
----> Indo-Aryan <*wíṭṣ>
-----> Sanskrit `𑀯𑀺𑀰𑁆` <víś>: "settlement, house, community, wealth"
----> Iranian <*wícš>
-----> Avestan `𐬬𐬍𐬯` <vīs>: "village, clan"
-----> Western Iranian
------> Old Persian `𐎻𐎰` <viθ>
-------> Persian `ویس` <vis>: "clan; also Vis, a given name"
--------> Persian `ويس و رامين` <Vis o Rāmin>: "Vis and Ramin (Parthian epic)"
---------> English `Vis and Ramin`
-
-
--> Proto-Indo-European <wóyḱos>
-
---> Hellenic <*wóikos>
----> Mycenaean Greek `𐀺𐀒` <wo-ko>: "home"
----> Classical Greek `οῖκος` <oîkos>: "house, room, estate"
-----> Greek `οίκος` <oíkos>
-----> Classical Greek `οἰκονόμος` <oikonómos>: "head of household, steward, manager"
------> Classical Greek `οἰκονομῐ́ᾱ` <oikonomíā>: "management of a house, administration"
-------> Latin `oeconomia`: "management of a house, arrangement, economy"
--------> English `economy`!
--------> French `économie`
---------> Haitian Creole `ekonomi`
--------> German `Ökonomie`
--------> Russian `эконо́мия` <ekonómija>
-----> German `Ökologie`: "ecology" (learned formation by Ernst Haeckel)
------> English `ecology`
-----> Classical Greek `οἰκέω` <oikéō>: "I inhabit, I settle in, I reside at"
------> Classical Greek `οἴκημᾰ` <oíkēma>
-
------> Classical Greek `οἴκησις`
-------> Classical Greek `διοίκησις` <dioíkēsis>: "housekeeping, government, administration"
--------> Latin `dioecēsis`
---------> Old French `diocese`
----------> French `diocèse`
----------> English `diocese`
-
------> Classical Greek `(ἡ) οἰκουμένη (γῆ)` <(hē) oikouménē (gê)>: "(the) inhabited (earth), the known world"
-------> Classical Greek `οἰκουμενικός`: "relating to the whole world, relating to everyone"
--------> Late Latin `oecūmenicus`
---------> English `ecumenic`
----------> English `ecumenical`
 
 
 -> Proto-Indo-European <*wéyḱsom>
@@ -273,7 +273,7 @@ The Sandwich Islands were also, but separately, named after John Montagu who, as
 
 ##### As far as I can tell, Albanian `zonjë e mirë`=sqi-Latn: "smallpox" literally means "The Good Lady". Possibly I'm misinterpreting that. If I'm not, I assume it is a euphemism designed not to anger Old King Plague. Compare "Eumenidies" ("the Kindly Ones") for the Furies, or "the Good Folk" for fairies.
 
-###### Despite the fact that Lithuanian `viešė́ti`=lat-Latn means "to visit" and also looks an awful lot like "visit", Latinate English `visit`=eng-Latn is unrelated, as is Russian `на-вести́ть`=rus-Cyrl <na-vestítʹ>: "to visit" for that matter. Both of those are from [<*weyd->: "to see"|wff-veda] instead.
+###### Despite the fact that Lithuanian `viešė́ti`=lat-Latn means "to visit" and also looks an awful lot like "visit", Latinate English `visit`=eng-Latn is unrelated, as is Russian `на-вести́ть`=rus-Cyrl <na-vestítʹ>: "to visit" for that matter. Both of those are from [wff-veda|<*weyd->: "to see"] instead.
 
 ####### Japanese `バイキング(料理)`=jpn-Kana <Baikingu (ryōri)>: "smorgasbord, buffet", literally "Viking (cuisine)". The idea of the smorgasbord was imported to Japan from Sweden in the late 1950's, when the Kirk Douglas film "The Vikings" was also very popular in Japan. `Viking`=eng-Latn was much easier to adapt to a catchy Japanese word than `smörgåsbord`=swe-Latn!
 

@@ -1,0 +1,52 @@
+date: 20240301
+
+startintro
+
+Étienne de Silhouette, a French politician of Basque ancestry, was the Controller-General of Finances under Louis XV in 1759. His measures to curb the national debt, notably by imposing new taxes on the rich and the nobility prompted a backlash and ultimately his dismissal after less than a year leaving the work unfinished. This lead to the derogatory phrase `(faire quelque chose) à la Silhouette`=fra-Latn to mean "(to do something) in a cheap, miserly, or unfinished way".
+
+Around the same time, black paper silhouette portraits became popular in France, and were derided as a cheap option for portraits—`portrait à la Silhouette`=fra-Latn.
+
+The name `Silhouette`=fra-Latn is from Basque `Zulueta`=eus-Latn (archaic variant `Zilhoeta`=eus-Latn), from Basque `zulo`=eus-Latn: "hole, pit, hiding place, cave". Spanish `silo`=spa-Latn is of unclear origin, it may be from `zulo`=eus-Latn. Or `silo`=spa-Latn could be from Greek σιρός <siros>: "pit, pitfall, pit for storing grain", but that is again of unclear and probably non-Greek origin—maybe the same European neolithic substrate as underlies the Basque?
+
+endintro
+
+
+
+startbody
+
+
+European substrate? {Unknown Substrate}
+
+?> Vasconic <*zuLo>
+--> Basque `zulo`: "hole, pit, hiding place, cave" {Basque}
+---> Basque `zulogune`: "gully, depression"
+---> Basque `Zulueta`: "placename: Cave-place, also habitational surname"
+----> French `Silhouette`
+-----> French `silhouette`
+------> English `silhouette`!
+------> Japanese `シルエット` <shiruetto>: "silhouette"
+------> Polish `sylwetka`: "figure, silhouette"
+----> Spanish `Zulueta`
+
+--?> Spanish `silo`: "silo"
+----> English `silo`!
+-----> Japanese `サイロ` <sairo>: "silo"
+----> French `silo`: "silo"
+----> Persian `سیلو` <silu>: "silo"
+----> Russian `силос` <silos>: "silo" (from Spanish plural `silos`=spa-Latn)
+
+---> Spanish `zulo`: "cache, hiding place"
+
+
+
+?> Pre-Greek
+--> Classical Greek `σιρός` <sirós>: "pit, pit for storing grain, pitfall"
+---> Latin `sirus`: "pit for storing grain, underground granary"
+---?> Spanish `silo`: "silo"
+
+---> Classical Greek `σιρομάστης` <siromástēs>: "gauge for measuring stored grain" (lit. "pit-searcher")
+----> Latin `siromastes`
+
+
+
+endbody

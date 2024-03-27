@@ -37,12 +37,12 @@ Austronesian <*ʔalep>: "to beckon, to wave"
 
 ----> Polynesian <*ʔarofa>: "love, compassion"
 -----> Tongan `alofa`: "love"
-------> Tongan `Nuku'alofa`: "Place of Love (placename)"
--------> English `Nukuʻalofa`
+------> Tongan `Nukuʻalofa`: "Place of Love (placename)"
+-------> English `Nukuʻalofa`!
 -----> Nuclear Polynesian
 ------> Marquesic
 -------> Hawai'ian `aloha`: "love, compassion, greeting"
---------> English `aloha`
+--------> English `aloha`!
 --------> Hawai'ian `aloha kakahiaka`: "good morning"
 --------> Hawai'ian `aloha ahiahi`: "good morning"
 ------> Rapa Nui `'aroha`

@@ -526,7 +526,7 @@ startbody
 -------> Pali <agha>
 -------> Sauraseni `𑀅𑀳` <aha>
 --------> Madhya
---------> Hindi `अह` <ah>
+---------> Hindi `अह` <ah>
 -------> Telugu `అఘము` <aghamu>: "sin, guilt"
 -----> Iranian
 ------> Avestan `𐬀𐬖𐬀` <aγa>: "evil"
@@ -779,8 +779,6 @@ startnotes
 
 
 endnotes
-
-
 
 
 
