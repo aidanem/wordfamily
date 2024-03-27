@@ -94,14 +94,6 @@ class Word(object):
         return styles
     
     # Output
-    """font_names = []
-        if self.orthography:
-            script = self.language.script_from_bcp47(session)
-            if script:
-                font_names.extend(script.noto_fontname.split(", "))
-        font_names = ", ".join(font_names)
-        dot_stlyings.append(f'fontname="{font_names}"')
-        """
     def dot_text(self, session, detail_langs=None):
         lines = deque()
         if self.is_detailed(detail_langs):
@@ -112,7 +104,7 @@ class Word(object):
             label = f"label=<<TABLE BORDER=\"0\" CELLSPACING=\"0\" CELLPADDING=\"0\"><TR><TD>{self.language.name}</TD></TR>"
             if self.orthography:
                 orthography_inner = self.orthography
-                script = self.language.script_from_bcp47(session)
+                script = self.language.script_from_iso639(session)
                 if script:
                     orthography_inner = f"<FONT FACE=\"{script.noto_fontname}\">{orthography_inner}</FONT>"
                 label += f"<TR><TD>{orthography_inner}</TD></TR>"
@@ -178,7 +170,7 @@ class Word(object):
         ))
         
         if self.orthography:
-            lang_tag = getattr(self.language, "bcp47", "") or ""
+            lang_tag = getattr(self.language, "iso639", "") or ""
             lang_attr = f"lang='{lang_tag}'"
             elems.append("<span class='{classes}' {lang_attr}>{o.orthography}</span>".format(
                 classes = " ".join(["orthography",]+self.style_class_names),
@@ -250,7 +242,7 @@ class Word(object):
                     language = db.word_family.Language(
                         id = None,
                         name = language_name,
-                        bcp47 = None,
+                        iso639 = None,
                     )
                 else:
                     raise e
@@ -258,7 +250,7 @@ class Word(object):
                 language = db.word_family.Language(
                     id = None,
                     name = language_name,
-                    bcp47 = None,
+                    iso639 = None,
                 )
                 
         
