@@ -127,7 +127,7 @@ Early Proto-Indo-European
 
 ------> West Germanic <*kokōn>: "to cook"
 -------> Old English <*cōcian>
---------> English `cook`
+--------> English `cook`»1
 -------> Old High German
 --------> German `kochen`: "to cook, to boil, to get agitated"
 ---------> German `Koch`: "a cook, occupational surname: Cook"
@@ -185,7 +185,7 @@ Early Proto-Indo-European
 --------> Old Saxon <*kōko>
 ---------> Low German `Kook`: "cake"
 ----------> Low German `Kookje`: "cookie, cracker, biscuit"
--------?> Finnic <*kakku>
+-------?> Finnic <*kakku>»1
 
 --------> West Germanic <*kōkilaz >: "little cake, bun" (diminutive)
 ---------> Old English `cyċel`: "little cake, morsel"
@@ -201,7 +201,7 @@ Early Proto-Indo-European
 ----------> Icelandic `legkaka`: "placenta" (calque of New Latin `placenta uterī`)
 ---------> English `cake`
 ---------> Irish `cáca`: "cake"
---------?> Finnic <*kakku>
+--------?> Finnic <*kakku>»1
 ----------> Finnish `kakku`: "cake"
 ----------> Finnish `kakko`: "a kind of cakey bread, a dumpling"
 
@@ -215,7 +215,7 @@ Early Proto-Indo-European
 -------> French `queux`: "a cook" (obsolete)
 ------> West Germanic <*kok>: "a cook"
 -------> Old English `cōc`: "a cook"
---------> English `cook`
+--------> English `cook`»2
 ---------> Thai `กุ๊ก` <gúk>: "a cook"
 -------> Frankish <*kok>
 --------> Dutch `kok`: "a cook, a chef"
@@ -281,9 +281,9 @@ Early Proto-Indo-European
 -------> Spanish `precoz`: "precocious, early"
 
 -------> Latin `(persica) praecocia`: "early-ripening (peaches)"
---------> Koine Greek `πραικόκιον` <praikókion>: "apricot"
+--------> Koine Greek `πραικόκιον` <praikókion>»1: "apricot"
 -------> Latin `(mālum) praecoquum`: "early-ripening (fruit)"
---------> Koine Greek `πραικόκιον` <praikókion>: "apricot"
+--------> Koine Greek `πραικόκιον` <praikókion>»1: "apricot"
 ---------> Byzantine Greek `βερικοκκιᾱ` <berikokkíā>
 ----------> Aramaic <bārqoqa>: "plum, apricot (archaic)"
 -----------> Arabic `برقوق` <barqūq>: "plum, apricot (archaic, dialectic), peach (dialectic)"
@@ -332,7 +332,7 @@ Early Proto-Indo-European
 ----> Classical Greek `πεπτός` <peptos>
 
 -----> Classical Greek `δύσπεπτος` <dúspeptos>: "difficult to digest, unripe"
-------> Latin `dyspepsia`
+------> Latin `dyspepsia`»1
 -------> English `dyspepsia`
 --------> English `Pepsi-Cola`
 ---------> English `Pepsi`
@@ -341,13 +341,13 @@ Early Proto-Indo-European
 ----> Latin `coctus`: "cooked, ripened"
 -----> Central Romance
 ------> Italian `cotto`: "cooked"
--------> Italian `biscotto`: "biscuit, cookie"
+-------> Italian `biscotto`»1: "biscuit, cookie"
 -------> Italian `terracotta`: "terracotta" (lit. "cooked earth", i.e. unglazed earthenware)
 --------> English `terracotta`
 
 -----> Latin `biscoctus`: "twice-cooked"
 ------> Central Romance
--------> Italian `biscotto`: "biscuit, cookie"
+-------> Italian `biscotto`»1: "biscuit, cookie"
 --------> English `biscotti` (from the plural)
 ------> Western Romance
 -------> French `biscuit`
@@ -397,7 +397,7 @@ Early Proto-Indo-European
 ------> Bulgarian `пещ` <pešt>: "furnace, oven"
 ------> Old Church Slavonic `пещь` <peštĭ>: "oven, stove"
 ------> Serbo-Croatian `пе̑ћ` <pȇć>: "furnace, oven, stove"
------?> Hungarian `Pest`: "Pest" ###
+-----?> Hungarian `Pest`»1: "Pest" ###
 -------> English `Pest`
 -------> Hungarian `Budapest`: "Budapest" ###
 --------> English `Budapest`
@@ -417,7 +417,7 @@ Early Proto-Indo-European
 --------> Romanian `peșteră`: "cave"
 --------> Russian `пеще́ра` <peščéra>: "cave"
 -------> Serbo-Croatian `пѐћина` <pèćina>: "cave"
-------?> Hungarian `Pest` ###
+------?> Hungarian `Pest`»1: "Pest" ###
 
 ----> West Baltic
 ----?> Old Prussian `pagaptis`: "spit (for roasting)"
@@ -426,7 +426,7 @@ Early Proto-Indo-European
 
 ---> Hellenic
 ----> Classical Greek `πέψῐς` <pépsis>
------> Latin `dyspepsia`
+-----> Latin `dyspepsia`»1
 
 
 --> Proto-Indo-European <*pékʷmn̥>
@@ -465,4 +465,7 @@ In German, the town of "Buda" is called `Ofen`: "oven, furnace"—a translation 
 In Oxford slang, `coach` was used metaphorically for a tutor who "carries" someone through an exam. This meaning (and even more so, the extension to sports) was then borrowed as a separate word into many languages that already had the word for the cart.
 
 
+
+
 endnotes
+

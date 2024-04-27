@@ -1,81 +1,80 @@
 date: 20171013
 theme: Ancient Borrowings 𒅴
-tags: Afro-Asiatic, Animals, Chess
 
 startbody
 
-Proto-Afro-Asiatic <*leb->
+Afro-Asiatic <*leb-> {Afro-Asiatic}
 
 -> Chadic
 --> West Chadic
 ---> Tangale `labata`: "elephant"
 
--> Egyptian `𓍋𓃀𓅱` <ābu>: "elephant, ivory" (usually with determiner suffix 𓃰 or 𓌟 to distinguish between "elephant" and "ivory")
---> Coptic `ⲓⲏⲃ` <yēb>: "elephant"
+-> Egyptian `𓍋𓃀𓅱` <ꜣbw>: "elephant, ivory" {Animals} (usually with determiner suffix 𓃰 or 𓌟 to distinguish between "elephant" and "ivory")
+--> Coptic `ⲓⲏⲃ` <yēb>: "elephant" {Animals}
 ---> Latin `ebur`: "ivory"
 ----> French `ivoire`: "ivory"
 -----> English `ivory`
 ----> Italian `avorio`: "ivory"
 ----> Irish `eabhar`: "ivory"
--?> Sanskrit `𑀇𑀪` <ibha>: "elephant" (rare; `𑀳𑀲𑁆𑀢𑀺𑀦𑁆` <hastin> is more common)
+-?> Sanskrit `𑀇𑀪` <ibha>: "elephant" {Animals} (rare; `𑀳𑀲𑁆𑀢𑀺𑀦𑁆`=san-Brah <hastin> is more common)
 
---> Egyptian `𓅮𓍋𓃀𓅱𓃰` <pir-ābu>: "the elephant"
---?> Akkadian `𒄠𒋛` <pīru>: "elephant"
-----> Aramaic `𐡐𐡉𐡋𐡀` <pīlā>: "elephant"
------> Hebrew `פִּיל` <píl>: "elephant"
+--> Egyptian `𓅮𓍋𓃀𓅱𓃰` <pir-ꜣbw>: "the elephant" {Animals}
+--?> Akkadian `𒄠𒋛` <pīru>: "elephant" {Animals}
+----> Aramaic `𐡐𐡉𐡋𐡀` <pīlā>: "elephant" {Animals}
+-----> Hebrew `פִּיל` <píl>: "elephant" {Animals}
 ----> Elamite `𒉿𒊑𒌝𒈾` <pi-ri-um-na>: "ivory"
-----> Persian `پیل` <pīl>: "elephant"
------> Ossetian `пыл` <pyl>: "elephant"
------> Georgian `სპილო` <sṗilo>: "elephant"
------> Armenian `փիղ` <pʿił>: "elephant, bishop chess piece"
------> Arabic `فِيل` <fīl>: "elephant, bishop chess piece"
-------> Persian `فیل` <fil>: "elephant, bishop chess piece" #
-------> Ottoman Turkish `فیل` <fil>: "elephant"
--------> Turkish `fil`: "elephant, bishop chess piece"
--------> Serbo-Croatian `фи̏л` <fȉl>: "elephant" (regional)
-------> Spanish `alfil`: "bishop chess piece"
-------> Old Norse `fíll`: "elephant"
--------> Icelandic `fíll`: "elephant"
+----> Persian `پیل` <pīl>: "elephant" {Animals}
+-----> Ossetian `пыл` <pyl>: "elephant" {Animals}
+-----> Georgian `სპილო` <sṗilo>: "elephant" {Animals}
+-----> Armenian `փիղ` <pʿił>: "elephant, bishop chess piece" {Animals, Chess}
+-----> Arabic `فِيل` <fīl>: "elephant, bishop chess piece" {Animals, Chess}
+------> Persian `فیل` <fil>: "elephant, bishop chess piece" {Animals, Chess} #
+------> Ottoman Turkish `فیل` <fil>: "elephant" {Animals}
+-------> Turkish `fil`: "elephant, bishop chess piece" {Animals, Chess}
+-------> Serbo-Croatian `фи̏л` <fȉl>: "elephant" {Animals} (regional)
+------> Spanish `alfil`: "bishop chess piece" {Animals, Chess}
+------> Old Norse `fíll`: "elephant" {Animals}
+-------> Icelandic `fíll`: "elephant" {Animals}
 ------> Arabic `عَظْم اَلْفِيل‎` <ʿaẓm al-fīl>: "ivory, elephant bone"
 -------> Spanish `marfil`: "ivory"
 
 
--> Berber <*eḷu>: "elephant"
---> Tuareg `êlu`: "elephant"
+-> Tamazight <*eḷu>: "elephant" {Animals}
+--> Tuareg `êlu`: "elephant" {Animals}
 
 -?> Mycenaean Greek `𐀁𐀩𐀞` <e-re-pa> ##
----> Ancient Greek `ἐλέφᾱς` <eléphās>: "elephant, ivory"
-----> Latin `elephās`: "elephant, ivory"
------> Latin `elephāns`: "elephant, ivory" (variant, also `elephantus`)
+---> Ancient Greek `ἐλέφᾱς` <eléphās>: "elephant, ivory" {Animals}
+----> Latin `elephās`: "elephant, ivory" {Animals}
+-----> Latin `elephāns`: "elephant, ivory" {Animals} (variant, also `elephantus`)
 ------> Western Romance
--------> Old French `olifan`: "elephant, ivory"
---------> Middle English `olifant`: "elephant, ivory"
--------> Italian `elefante`: "elephant"
--------> Spanish `elefante`: "elephant"
---------> Tagalog `elepante`: "elephant"
-------> French `éléphant`: "elephant"
--------> English `elephant`
---------> Welsh `eliffant`: "elephant"
--------> Irish `eilifint`: "elephant"
-------> Germanic <*elpanduz>: "elephant, camel" ### 
+-------> Old French `olifan`: "elephant, ivory" {Animals}
+--------> Middle English `olifant`: "elephant, ivory" {Animals}
+-------> Italian `elefante`: "elephant" {Animals}
+-------> Spanish `elefante`: "elephant" {Animals}
+--------> Tagalog `elepante`: "elephant" {Animals}
+------> French `éléphant`: "elephant" {Animals}
+-------> English `elephant` {Animals}
+--------> Welsh `eliffant`: "elephant" {Animals}
+-------> Irish `eilifint`: "elephant" {Animals}
+------> Germanic <*elpanduz>: "elephant, camel" {Animals} ### 
 -------> East Germanic
 --------> Gothic
----------> Visigothic `𐌿𐌻𐌱𐌰𐌽𐌳𐌿𐍃` <ulbandus>: "camel"
----------> Slavic <*velьb(l)ǫdъ>: "camel"
+---------> Visigothic `𐌿𐌻𐌱𐌰𐌽𐌳𐌿𐍃` <ulbandus>: "camel" {Animals}
+---------> Slavic <*velьb(l)ǫdъ>: "camel" {Animals}
 ----------> East Slavic
------------> Russian `верблю́д` <verbljúd>: "camel"
+-----------> Russian `верблю́д` <verbljúd>: "camel" {Animals}
 ----------> South Slavic
------------> Old Church Slavonic `вельбѫдъ` <velĭbǫdŭ>: "camel"
+-----------> Old Church Slavonic `вельбѫдъ` <velĭbǫdŭ>: "camel" {Animals}
 ----------> West Slavic
------------> Polish `wielbłąd`: "camel"
+-----------> Polish `wielbłąd`: "camel" {Animals}
 -------> North Germanic
---------> Old Norse `úlfaldi`: "camel"
----------> Icelandic `úlfaldi`: "camel"
+--------> Old Norse `úlfaldi`: "camel" {Animals}
+---------> Icelandic `úlfaldi`: "camel" {Animals}
 -------> West Germanic
---------> Old English `elpend`: "elephant"
---------> Old English `olfend`: "camel"
---------> Old High German `hëlfant`
----------> Yiddish `העלפֿאַנד` <helfand>: "elephant"
+--------> Old English `elpend`: "elephant" {Animals}
+--------> Old English `olfend`: "camel" {Animals}
+--------> Old High German `hëlfant` {Animals}
+---------> Yiddish `העלפֿאַנד` <helfand>: "elephant" {Animals}
 
 endbody
 
@@ -85,7 +84,7 @@ startnotes
 
 # Note Persian `فیل` <fil> is borrowed back from Arabic after Arabic borrowed it from Persian `پیل` <pīl>. There are many words like that in Persian, due to the historical reversal of the prestige relationship between the two languages.
 
-## Greek `𐀁𐀩𐀞`/`ἐλέφᾱς` <eléphās> is apparently a compound of Berber <*eḷu> plus Egyptian <ābu>, both from the Afro-Asiatic <*leb>.
+## Greek `𐀁𐀩𐀞`/`ἐλέφᾱς` <eléphās> is apparently a compound of Tamazight <*eḷu> plus Egyptian <ābu>, both from the Afro-Asiatic <*leb>.
 
 ### The early Germanics did not have a lot of direct contact with elephants or camels, and did not distinguish between them using <*elpanduz> for both.
 

@@ -1,15 +1,16 @@
 date: 20170908
 theme: Fire 🔥
+tags: Elements, Fire, Divinities
 
 startintro
 
 <*péh₂wr̥> means "fire" as an inanimate substance (grammatically neuter), as opposed to <*h₁n̥gʷnis> (link), which is animate, elemental fire (grammatically animate in earlier PIE, masculine in later PIE).
 
-<*péh₂wr̥> is though to contain the <(é)-wr̥> suffix that derives nouns from roots, though there are no attested descendants of the any other morphological forms of the root. <(é)-wr̥> is presumably a variant of <(ó)-r̥> suffix (the suffix which that appears in the noun <*wódr̥>: "water").
+<*péh₂wr̥> is though to contain the <(é)-wr̥> suffix that derives nouns from roots. <(é)-wr̥> is presumably a variant of <(ó)-r̥> suffix (the suffix which that appears in the noun <*wódr̥>: "water").
 
 The root <*pewH->: "to be clean, pure" is a likely base for <*péh₂wr̥>, though it would be a very early morphological construct, and likely fossilized by the time of Proto-Indo-European proper, which may explain the very odd double-zero-grade <*puh₂r̥> form which most languages point to (which also has the <*w> before the <*H>, just as in <*pewH->).
 
-This is further supported by a few words which are independent semantic shifts between the "fire" and "pure" meanings, such as Latin `purgō`: "I clean, I purge" from <*péh₂wr̥>: "fire" or Sanskrit `𑀧𑀸𑀯𑀓` <pāvaká>: "pure, clear, fire" from <*pewHokós>: "pure, clean".
+This is further supported by a few words which are independent semantic shifts between the "fire" and "pure" meanings, such as Latin `purgare`: "to clean, to purge" from <*péh₂wr̥>: "fire" or Sanskrit `𑀧𑀸𑀯𑀓` <pāvaká>: "pure, clear, fire" from <*pewHokós>: "pure, clean".
 
 
 
@@ -27,9 +28,11 @@ Proto-Indo-European <*pewH->: "to be clean, pure"
 
 --> Indo-Iranian <*punáHti>
 ---> Indo-Aryan
-----> Dardic
------> Khowar `پھُونىک` <phuník>: "to winnow"
 ----> Sanskrit `𑀧𑀼𑀦𑀸𑀢𑀺` <punā́ti>: "to cleanse, to purify, to purge, to winnow"
+-----> Maharashtri `𑀧𑀼𑀡𑀇` <puṇaï>: "to clean, to winnow"
+-----> Sauraseni
+------> Northwestern Sauraseni
+-------> Khowar `پھُونىک` <phuník>: "to winnow"
 
 
 -> Proto-Indo-European <*powHéyeti>: "purifies, cleans" (causative)
@@ -70,16 +73,32 @@ Proto-Indo-European <*pewH->: "to be clean, pure"
 ----> Irish `úr`: "fresh, new, free, liberal, moist"
 
 --> Italic <*pūros>
----> Latin `pūrus`: "clean, pure, clear"
+---> Latin `purus`: "clean, pure, clear"
 ----> Central Romance
 -----> Italian `puro`: "pure"
 ----> Western Romance
 -----> French `pur`: "pure"
 ------> English `pure`
 -----> Spanish `puro`: "pure, clean, only"
-----> Latin `pūrificō`
+----> Latin `purificare`
 -----> French `purifier`
 ------> English `purify`
+----> Latin `purgare`»1: "to clean, to purge"
+-----> Central Romance
+------> Italian `purgare`: "to purge, to purify"
+-----> Western Romance
+------> French `purger`: "to purge, to serve a sentence"
+-------> English `purge`
+------> Spanish `purgar`: "to purge, to drain"
+-----> Latin `purgatorium`
+------> French `purgatoire`
+-------> English `purgatory`
+-----> Latin `expurgare`
+------> Latin `expurgatus`
+-------> English `expurgate`
+
+
+
 
 
 -> Proto-Indo-European <*puHtós>: "pure, clean" (adjective)
@@ -97,18 +116,25 @@ Proto-Indo-European <*pewH->: "to be clean, pure"
 
 --> Italic <*putos>
 ---> Latin `putus`: "pure"
-----> Latin `putō`: "I clean, I prune, I arrange, I judge, I consider"
------> Latin `putātīvus`
+----> Latin `putare`: "to clean, to prune, to arrange, to judge, to consider"
+-----> Latin `putativus`
 ------> English `putative`
------> Latin `amputō`: "I prune, I cut off, I shorten"
+-----> Latin `amputare`: "to prune, to cut off, to shorten"
 ------> English `amputate`
------> Latin `computō`: "I arrange together, I calculate, I compute"
+-----> Latin `computare`: "to arrange together, to calculate, to compute"
+------> Western Romance
+-------> Old French `conter`
+--------> English `count`»1
+--------> Old French `acconter`
+---------> English `account`
+--------> Old French `desconter`
+---------> English `discount`
 ------> English `computer`
------> Latin `dēputō`: "I prune, I esteem, I count as"
+-----> Latin `deputare`: "to prune, to esteem, to count as"
 ------> English `deputy`
------> Latin `disputō`: "I estimate, I discuss, I argue, I preach"
+-----> Latin `disputare`: "to estimate, to discuss, to argue, to preach"
 ------> English `dispute`
------> Latin `reputō`: "I calculate again, I reflect upon, I consider, I examine"
+-----> Latin `reputare`: "to calculate again, to reflect upon, to consider, to examine"
 ------> English `reputation`
 
 
@@ -144,7 +170,13 @@ Proto-Indo-European <*pewH->: "to be clean, pure"
 ---> Oscan `𐌐𐌉𐌉𐌇𐌉𐌞𐌝 ` <piihiúí> (attested in dative)
 ---> Latin `pius`: "pious, devout, dutiful, blessed"
 ----> English `pious`
-----> English `piety`
+---> Italic <*pwījotāts>
+----> Latin `pietās`
+-----> Old French
+------> Anglo-Norman `pité`
+-------> English `pity`
+------> French `piété`
+-------> English `piety`
 
 
 
@@ -174,6 +206,9 @@ Proto-Indo-European <*pewH->: "to be clean, pure"
 -----> Polish `perz`: "couch grass" ##
 -----> Polish `perzyna`: "embers"
 
+----> Slavic <*pyriti>: "to combust" (causative)
+
+
 --> Hellenic
 ---> Mycenaean Greek `𐀢` <pu>: "fire"
 ---> Classical Greek `πῦρ` <pûr>: "fire, lightning, fever"
@@ -191,28 +226,43 @@ Proto-Indo-European <*pewH->: "to be clean, pure"
 -----> Classical Greek `Πῠ́ρρος` <Púrrhos>: "personal name"
 ------> Latin `Pyrrhus`
 -------> English `pyrrhic`
+-----> Latin `burrus`: "red, reddish-brown"
+------> Latin `burricus`: "small horse"
+-------> Western Romance
+--------> Spanish `borrico`
+---------> French `bourrique`
+---------> Tagalog `buriko`
+---------> Spanish `burro`
+----------> English `burro`
+----------> Quechua `wuru`
+----------> Spanish `burrito`
+-----------> English `burrito`
+------> Latin `burra`
+-------> Western Romance
+--------> French `bourre`
+
+-------> Vulgar Latin <*burrula>
+--------> Central Romance
+---------?> Italian `burla`»1
+--------> Western Romance
+---------> Old French `burel`
+----------> French `bureau`
+-----------> English `bureau`
+----------> English `burel`
+----------?> English `burlap`
+---------> Spanish `burla`
+---------?> Italian `burla`»1
+
 ----> Classical Greek `ἐμπύριος` <empúrios>: "fiery" ("on-fire")
 -----> Latin `empyreus`
 ------> English `empyrean`
 
---> Indo-Iranian
----> Indo-Aryan
-----> Dardic
------> Pashayi `پور` <pūr>: "bonfire"
+
 
 --> Italic <*pur>
 ---> Umbrian `𐌐𐌉𐌓` <pir>: "fire"
----> Italic <*puragō> ("fire" + "act")
-----> Latin `purgō`: "I clean, I purge"
------> Central Romance
-------> Italian `purgare`: "to purge, to purify"
------> Western Romance
-------> French `purger`: "to purge, to serve a sentence"
--------> English `purge`
-------> Spanish `purgar`: "to purge, to drain"
------> Latin `pūrgātōrium`
-------> French `purgatoire`
--------> English `purgatory`
+---> Italic <*puragazi> ("fire" + "act")
+----> Latin `purgare`»1: "to clean, to purge"
 
 --> Tocharian
 ---> Arshian <por>: "fire"
@@ -280,3 +330,4 @@ startnotes
 ### In Old Armenian `հուր` <hur>, the meaning of "pyramidal" is based on a mistaken idea that Greek `πυραμίς`/`πυραμίδα` <pūramís>/<pyramída>: "pyramid" has related to `πῦρ` <pûr>: "fire". (The origin of Greek `πυραμίς` remains unsolved.)
 
 endnotes
+

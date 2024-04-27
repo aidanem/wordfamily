@@ -22,7 +22,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 
 -> Proto-Indo-European <*h₂ew>: "away from, since, again"
 
--?> Old Armenian `հաւ` <haw>: "beginning, rise, origin"
+-?> Old Armenian `հաւ` <haw>»1: "beginning, rise, origin"
 
 --> Balto-Slavic <*au>
 ---> Slavic <*u>: "away from, at, near"
@@ -37,12 +37,12 @@ Pre-Proto-Indo-European <*h₂eb-?>
 
 
 
--?> Celtic <*aw>: "of, from"
+-?> Celtic <*aw>»1: "of, from"
 ---> Brythonic
 ----> Welsh `o`: "from, of, out of"
 
 ---> Old Irish `ó`: "from, of, with, since, after"
-----> Irish `ó`: "of, from, since"
+----> Irish `ó`»1: "of, from, since"
 
 --> Hellenic
 ---> Classical Greek `αὖ`: "again, in turn, further, on the other hand"
@@ -52,7 +52,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 ----> Sanskrit `𑀉` <u>
 
 
---> Proto-Indo-European <*h₂ew->: "away from, since, again" (prefix)
+--> Proto-Indo-European <*h₂ew->»1: "away from, since, again" (prefix)
 
 ---> Pre-Albanian <*awa->
 ----> Albanian `v-`: "at, away, on"
@@ -69,13 +69,13 @@ Pre-Proto-Indo-European <*h₂eb-?>
 
 
 ---> Italic <*au->
-----> Latin `au-`: "from, away, off, completely" ##
+----> Latin `au-`»1: "from, away, off, completely" ##
 
 
 
 --> Proto-Indo-European <*h₂ew-ge> (with intensifying particle <*g(ʰ)e>
 
---?> Germanic <*auk>: "and, but, also, furthermore"
+--?> Germanic <*auk>»1: "and, but, also, furthermore"
 ----> East Germanic
 -----> Gothic `𐌰𐌿𐌺` <auk>: "because, but, but also"
 ----> North Germanic
@@ -101,7 +101,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 --> Proto-Indo-European <*h₂ew-kʷe> (with <*-kʷe>: "and"
 
 ---> Hellenic
----?> Classical Greek `αὖτε` <aûte>: "again, furthermore, on the other hand"
+---?> Classical Greek `αὖτε` <aûte>»1: "again, furthermore, on the other hand"
 
 
 
@@ -109,7 +109,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 
 ---> Hellenic
 ----> Classical Greek `αὖτις`: "back, again, in turn"
----?> Classical Greek `αὖτε` <aûte>: "again, furthermore, on the other hand"
+---?> Classical Greek `αὖτε` <aûte>»1: "again, furthermore, on the other hand"
 
 ---> Italic <*auti>: "either, or"
 ----> Latin `aut`: "or, otherwise, else"
@@ -191,7 +191,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 
 --> Proto-Indo-European <*h₂ewo>
 
----> Celtic <*aw>
+---> Celtic <*aw>»2
 ----> Old Irish `úa`: "from, from their, of which"
 
 
@@ -208,14 +208,14 @@ Pre-Proto-Indo-European <*h₂eb-?>
 ------> Latin `Gyges`
 -------> English `Gyges`
 
----> Old Armenian `հաւ` <haw>: "grandfather, ancestor, uncle"
-----> Armenian `հավ` <hav>
+---> Old Armenian `հաւ` <haw>»2: "grandfather, ancestor, uncle"
+----> Armenian `հավ` <hav>»2: "ancestor, great-grandfather"
 ----> Old Armenian <*havuk> (diminutive/affectionate)
 ----?> Cappadocian Greek `αβούκα` <avoúka>: "grandfather"
 
 ---> Italic <*awos>
 ----> Latin `avus`
------> Latin `avunculus` (partly, but mostly from lost <*awō(n)> instead)
+-----> Latin `avunculus`»1 (partly from <*awos>, but mostly from lost <*awō(n)> instead)
 
 
 ---> Tocharian
@@ -268,7 +268,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 
 ----> Italic <*awō> (oblique stem <*awun->)
 -----> Italic <*awunkolos>
-------> Latin `avunculus`: "maternal uncle, great-uncle"
+------> Latin `avunculus`»1: "maternal uncle, great-uncle"
 -------> Vulgar Latin <*unculus>: "uncle"
 --------> Eastern Romance
 ---------> Romanian `unchi`
@@ -313,7 +313,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 -----> Gaulish `aua`: "grandaughter"
 -----> Primitive Irish `ᚐᚃᚔ` <avi>: "descendant"
 ------> Old Irish `aue`: "grandson, descendent"
--------> Irish `ó`
+-------> Irish `ó`»2
 --------> Irish `Ó`
 ---------> English `O'-`
 
@@ -328,7 +328,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 
 ---> Proto-Indo-European <*h₂ewg->: "to increase, to enlarge" ###
 
----?> Germanic <*auk>: "and, but, also, furthermore"
+---?> Germanic <*auk>»1: "and, but, also, furthermore"
 
 
 ----> Proto-Indo-European <*h₂éwgeti> (primary verb)
@@ -346,7 +346,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 --------> Icelandic `auka`: "to increase, to augment"
 ------> West Germanic
 -------> Old English `ēacan`: "to increase, to enlarge, to become pregnant"
---------> English `eke (out)`
+--------> English `eke (out)`»1
 -------> Frankish <*ōkan>
 -------> Old High German `ouhhan`
 
@@ -366,9 +366,9 @@ Pre-Proto-Indo-European <*h₂eb-?>
 ------> Latin `augēre`: "to increase, to augment, to spread, to strengthen, to enrich"
 
 -------> Latin `augmentum`: "an increase, a growth, an augmentation"
---------> English `augment`
+--------> English `augment`»1
 --------> Latin `augmentare`
----------> English `augment`
+---------> English `augment`»1
 
 -------> Latin `auxilium`: "help, aid, remedy"
 --------> Latin `auxiliarius`: "assistant, ally, auxiliary"
@@ -400,7 +400,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 -----> Indo-Iranian <*Háwǰas>
 
 -----> Italic <*augos>: "an increase"
------?> Latin `augur`
+-----?> Latin `augur`»1: "augur, diviner"
 
 ------> Italic <*augostos>: "increased"
 -------> Latin `augustus`
@@ -414,6 +414,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 ---------> English `Zaragoza`
 --------> Latin `Augusta Vindelicorum` (place name)
 ---------> English `Augsburg`
+Dutch `oogst`
 
 
 ----> Proto-Indo-European <*h₂éwgō>: "an increase" (noun)
@@ -424,7 +425,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 --------> Icelandic `auki`: "increase, addition"
 ------> West Germanic
 -------> Old English `ēaca`: "addition, increase, supplement"
---------> English `eke (out)`
+--------> English `eke (out)`»1
 
 
 ----> Proto-Indo-European <*h₂éwgeh₂>: "sunrise, dawn" (secondary noun: collective or feminine)
@@ -562,7 +563,7 @@ Pre-Proto-Indo-European <*h₂eb-?>
 ---> Pre-Albanian <*pər apa> (lit. "front away")
 ----> Albanian `prapë`: "again, back, anew"
 
--?> Celtic <*aw>: "of, from"
+-?> Celtic <*aw>»1: "of, from"
 
 --> Germanic <*ab>
 
@@ -618,8 +619,14 @@ Pre-Proto-Indo-European <*h₂eb-?>
 ----> Central Romance
 -----> Italian `a`: "to, at, with, by"
 ------> English `a cappella`
-------> English `alarm`
-------> English `alert`!
+------> Italian `alle`
+-------> Italian `all'arme`»1: "to arms"
+--------> French `alarme`»1
+---------> English `alarm`»1
+-------> Italian `all'erta`»1: "to the heights" (to watch out for danger)
+--------> French `à l'erte`»1
+---------> English `alert`»1!
+
 ----> Western Romance
 -----> French `à`: "to, on, at, in"
 ------> French `aujourd’hui`: "today"
@@ -637,10 +644,10 @@ Pre-Proto-Indo-European <*h₂eb-?>
 ------> English `amanuensis`
 -----> Latin `absolvere`
 ------> English `absolve`
------> Latin `au-`: "from, away, off, completely" ##
+-----> Latin `au-`»1: "from, away, off, completely" ##
 
 
---> Messapic `ΑΠΑ` <apa>: "from, out of, by"
+--> Messapian `ΑΠΑ` <apa>: "from, out of, by"
 
 
 
@@ -797,6 +804,8 @@ Pre-Proto-Indo-European <*h₂eb-?>
 ----> Indo-Aryan
 -----> Sanskrit `𑀅𑀧𑀸𑀜𑁆𑀘𑁆` <apāñc>: "facing backward, behind, western"
 
+-?> Proto-Indo-European <*h₂ews->»1: "dawn, east"
+
 
 endbody
 
@@ -813,3 +822,4 @@ startnotes
 
 
 endnotes
+

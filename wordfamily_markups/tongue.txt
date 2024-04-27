@@ -1,3 +1,5 @@
+date: 20221028
+tags: Body Parts
 
 
 startintro
@@ -166,101 +168,101 @@ Proto-Indo-European <*denḱ->: "to bite"
 
 
 
-?> Proto-Indo-European <*dn̥ǵʰwéh₂s>: "tongue, language"
+?> Proto-Indo-European <*dn̥ǵʰwéh₂s>: "tongue, language" {Body Parts}
 
 
---> Old Armenian `լեզու` <lezu>: "tongue, language, nation" (modified by association with `լիզեմ` <lizem>: "to lick")
----> Armenian `լեզու` <lezu>: "tongue, language, speech"
+--> Old Armenian `լեզու` <lezu>: "tongue, language, nation" {Body Parts} (modified by association with `լիզեմ` <lizem>: "to lick")
+---> Armenian `լեզու` <lezu>: "tongue, language, speech" {Body Parts}
 ----> Armenian `նախալեզու` <naxalezu>: "proto-language"
 
 
---> Balto-Slavic <*inźūˀ>: "tongue" (regular loss of *d before *n̥)
+--> Balto-Slavic <*inźūˀ>: "tongue"  {Body Parts}(regular loss of *d before *n̥)
 ---> East Baltic
-----> Lithuanian `liežùvis`: "tongue" (modified by association with `liežti`: "to lick")
+----> Lithuanian `liežùvis`: "tongue" {Body Parts} (modified by association with `liežti`: "to lick")
 ---> West Baltic
-----> Old Prussian `insuwis`: "tongue"
+----> Old Prussian `insuwis`: "tongue" {Body Parts}
 ---> Balto-Slavic <*inźūˀ-kas>
-----> Slavic <*ęzỳkъ>: "tongue, language"
------> East Slavic `ꙗзꙑкъ` <jazykŭ>: "tongue, language, nation"
-------> Russian `язы́к` <jazýk>: "tongue, language"
-------> Ukrainian `язи́к` <jazýk>: "tongue"
+----> Slavic <*ęzỳkъ>: "tongue, language" {Body Parts}
+-----> East Slavic `ꙗзꙑкъ` <jazykŭ>: "tongue, language, nation" {Body Parts}
+------> Russian `язы́к` <jazýk>: "tongue, language" {Body Parts}
+------> Ukrainian `язи́к` <jazýk>: "tongue" {Body Parts}
 -----> South Slavic
-------> Bulgarian `ези́к` <ezík>: "tongue, language"
-------> Old Church Slavonic `ѩзꙑкъ` <językŭ>: "tongue, language, nation"
-------> Serbo-Croatian `јѐзик` <jèzik>: "tongue, language"
+------> Bulgarian `ези́к` <ezík>: "tongue, language" {Body Parts}
+------> Old Church Slavonic `ѩзꙑкъ` <językŭ>: "tongue, language, nation" {Body Parts}
+------> Serbo-Croatian `јѐзик` <jèzik>: "tongue, language" {Body Parts}
 -----> West Slavic
-------> Czech `jazyk`: "tongue, language"
-------> Polish `język`: "tongue, language"
+------> Czech `jazyk`: "tongue, language" {Body Parts}
+------> Polish `język`: "tongue, language" {Body Parts}
 
 
 --> Celtic <*dangʷāss>
----> Celtic <*tangʷāss>: "tongue" (irregular *d -> *t, Germanic influence?)
+---> Celtic <*tangʷāss>: "tongue" {Body Parts} (irregular *d -> *t, Germanic influence?)
 ----> Brythonic <*tavọd>
------> Welsh `tafod`: "tongue"
+-----> Welsh `tafod`: "tongue" {Body Parts}
 ------> Welsh `tafodiaith`: "dialect, vernacular"
-----> Old Irish `tengae`: "tongue, language"
------> Irish `teanga`: "tongue, language"
+----> Old Irish `tengae`: "tongue, language" {Body Parts}
+-----> Irish `teanga`: "tongue, language" {Body Parts}
 
 
---> Germanic <*tungȭ>: "tongue, speech, language"
+--> Germanic <*tungǭ>: "tongue, speech, language" {Body Parts}
 ---> East Germanic
-----> Gothic `𐍄𐌿𐌲𐌲𐍉` <tuggō>: "tongue"
+----> Gothic `𐍄𐌿𐌲𐌲𐍉` <tuggō>: "tongue" {Body Parts}
 ---> North Germanic
-----> Old Norse `tunga`: "tongue, language"
------> Danish `tunge`: "tongue, language, sole (fish)"
------> Icelandic `tunga`: "tongue, language"
+----> Old Norse `tunga`: "tongue, language" {Body Parts}
+-----> Danish `tunge`: "tongue, language, sole (fish)" {Body Parts}
+-----> Icelandic `tunga`: "tongue, language" {Body Parts}
 ---> West Germanic
-----> Old English `tunge`: "tongue, language"
+----> Old English `tunge`: "tongue, language" {Body Parts}
 -----> English `tongue`
 ------> Sranan Tongo `tongo`: "language"
 -------> Sranan Tongo `Sranan Tongo`
 --------> English `Sranan Tongo`
 ----> Frankish <*tunga>
------> Dutch `tong`: "tongue"
-----> Old High German `zunga`: "tongue, language"
------> German `Zunge`: "tongue"
------> Yiddish `צונג` <tsung>: "tongue"
-----> West Germanic <*tungā-tulga>: "root of the tongue"
+-----> Dutch `tong`: "tongue" {Body Parts}
+----> Old High German `zunga`: "tongue, language" {Body Parts}
+-----> German `Zunge`: "tongue" {Body Parts}
+-----> Yiddish `צונג` <tsung>: "tongue" {Body Parts}
+----> West Germanic <*tungā-tulga>: "root of the tongue" {Body Parts}
 
 
 -?> Indo-Iranian <*diȷ́ʰwáH> ##
 ---> Nuristani <*diȷ́ū́>
-----> Ashkun `žū`: "tongue"
-----> Kamviri `dić`: "tongue"
+----> Ashkun `žū`: "tongue" {Body Parts}
+----> Kamviri `dić`: "tongue" {Body Parts}
 
 --?> Indo-Iranian <*ȷ́iȷ́ʰwáH> ##
 ----> Indo-Aryan <*ȷ́iźʰwáH>
------> Dardic
-------> Kashmiri `زؠو` <zyav>: "tongue, language"
------> Sanskrit `𑀚𑀺𑀳𑁆𑀯𑀸` <jihvā́>: "tongue"
+-----> Sanskrit `𑀚𑀺𑀳𑁆𑀯𑀸` <jihvā́>: "tongue" {Body Parts}
 ------> Elu
--------> Dhivehi `ދޫ` <dū>: "tongue"
--------> Sinhala `දිව` <diwa>: "tongue"
-------> Magadhi `𑀚𑀺𑀩𑁆𑀪𑀸 ` <jibbhā>
--------> Bengali `জিভ` <jibh>: "tongue" 
+-------> Dhivehi `ދޫ` <dū>: "tongue" {Body Parts}
+-------> Sinhala `දිව` <diwa>: "tongue" {Body Parts}
+------> Magadhi `𑀚𑀺𑀩𑁆𑀪𑀸 ` <jibbhā> {Body Parts}
+-------> Bengali `জিভ` <jibh>: "tongue" {Body Parts}
 ------> Maharastri
--------> Marathi `जीभ` <jībh>: "tongue"
-------> Pali `𑀚𑀺𑀯𑁆𑀳𑀸` <jivhā>: "tongue"
--------> Thai `ชิวหา` <chiu-hǎa>: "tongue"
-------> Sauraseni `𑀚𑀺𑀩𑁆𑀪𑀸` <jibbhā>
--------> Madhya
---------> Hindi `जीभ` <jībh>: "tongue"
+-------> Marathi `जीभ` <jībh>: "tongue" {Body Parts}
+------> Pali `𑀚𑀺𑀯𑁆𑀳𑀸` <jivhā>: "tongue" {Body Parts}
+-------> Thai `ชิวหา` <chiu-hǎa>: "tongue" {Body Parts}
+------> Sauraseni `𑀚𑀺𑀩𑁆𑀪𑀸` <jibbhā> {Body Parts}
+-------> Madhya Sauraseni
+--------> Hindi `जीभ` <jībh>: "tongue" {Body Parts}
+-------> Northwestern Sauraseni
+--------> Kashmiri `زؠو` <zyav>: "tongue, language" {Body Parts} (with "language" sense borrowed from Persian <zabân>)
 -------> Western Sauraseni
---------> Gujarati `જીભ` <jībh>: "tongue"
---------> Romani `ćhib`: "tongue, language"
-------> Telugu `జిహ్వ` <jihva>: "tongue"
+--------> Gujarati `જીભ` <jībh>: "tongue" {Body Parts}
+--------> Romani `ćhib`: "tongue, language" {Body Parts}
+------> Telugu `జిహ్వ` <jihva>: "tongue" {Body Parts}
 ----> Iranian <*hižwáH>
------> Avestan `𐬵𐬌𐬰𐬎𐬎𐬁` <hizuuā>: "tongue, language"
+-----> Avestan `𐬵𐬌𐬰𐬎𐬎𐬁` <hizuuā>: "tongue, language" {Body Parts}
 -----> Western Iranian <*hǝzǝwá>
 ------> Northwestern Iranian
--------> Kurdish `ziman`: "language, tongue"
--------> Parthian `𐫙𐫉𐫁𐫀𐫗` <ʿzbʾn>
-------> Old Persian `𐏃𐏀𐎠` <h-z-a> [hazāna]
--------> Persian `زبان` <zabân>: "tongue, language"
---------> Bengali `জবান` <zôban>: "language, speech, pronunciation, promise, tongue"
----------> Rohingya `𐴎𐴟𐴁𐴝𐴕‎` <zuban>
---------> Kashmiri `زَبان` <zabān>: "language, tongue"
---------> Hindi `ज़बान` <zabān>: "tongue, language"
+-------> Kurdish `ziman`: "language, tongue" {Body Parts}
+-------> Parthian `𐫙𐫉𐫁𐫀𐫗` <ʿzbʾn> {Body Parts}
+------> Old Persian `𐏃𐏀𐎠` <h-z-a> [hazāna] {Body Parts}
+-------> Persian `زبان` <zabân>: "tongue, language" {Body Parts}
+--------> Bengali `জবান` <zôban>: "language, speech, pronunciation, promise, tongue" {Body Parts}
+---------> Rohingya `𐴎𐴟𐴁𐴝𐴕‎` <zuban> {Body Parts}
+--------> Kashmiri `زَبان` <zabān>: "language, tongue" {Body Parts}
+--------> Hindi `ज़बान` <zabān>: "tongue, language" {Body Parts}
 -----> Iranian <*hižwáHkaH>
 ------> Bactrian `εζϐαγο` <ezbago>
 ------> Northern Iranian
@@ -275,10 +277,10 @@ Proto-Indo-European <*denḱ->: "to bite"
 --> Italic <*denɣwā>
 ---> Oscan `𐌚𐌀𐌍𐌂𐌖𐌀` <fangua>: "words, language" (attested in plural)
 ---> Old Latin `dingua`
-----> Latin `lingua`: "tongue, language, speech" (modified by association with `lingō`: "to lick")
+----> Latin `lingua`: "tongue, language, speech" {Body Parts} (modified by association with `lingō`: "to lick")
 -----> Central Romance
-------> Dalmatian `langa`: "language, tongue"
-------> Italian `lingua`: "tongue, language"
+------> Dalmatian `langa`: "language, tongue" {Body Parts}
+------> Italian `lingua`: "tongue, language" {Body Parts}
 -------> Italian `lingua franca`
 --------> English `lingua franca`
 -------> Italian `linguina`: "a linguine" (diminutive)
@@ -290,13 +292,11 @@ Proto-Indo-European <*denḱ->: "to bite"
 ------> Maltese `lingwa`: "language"
 -----> Eastern Romance
 -----> Insular Romance
-------> Sardinian `limba`: "tongue, language, speech"
+------> Sardinian `limba`: "tongue, language, speech" {Body Parts}
 -----> Western Romance
-------> French `langue`
--------> French `langue d'oc`
---------> English `langue d'oc`
---------> French `Languedoc`
----------> English `Languedoc`
+------> French `langue`: "tongue, language" {Body Parts}
+-------> French `Langue d'oc`
+--------> English `Languedoc`
 -------> French `langue d'oïl`
 --------> English `langue d'oïl`
 
@@ -326,15 +326,15 @@ Proto-Indo-European <*denḱ->: "to bite"
 
 
 --> Tocharian <*tänkwo>
----> Tocharian <*käntwo>: "tongue, language" (metathesis)
-----> Arshian <käntu>: "tongue, language"
-----> Kushean <kantwo>: "tongue, language, voice"
+---> Tocharian <*käntwo>: "tongue, language" {Body Parts} (metathesis)
+----> Arshian <käntu>: "tongue, language" {Body Parts}
+----> Kushean <kantwo>: "tongue, language, voice" {Body Parts}
 
 
--?> Proto-Indo-European <*dl̥gʰús>: "tongue" (n~l variant?)
+-?> Proto-Indo-European <*dl̥gʰús>: "tongue" {Body Parts} (n~l variant?)
 
 --?> Germanic <*tulgaz>
-----> West Germanic <*tungā-tulga>: "root of the tongue"
+----> West Germanic <*tungā-tulga>: "root of the tongue" {Body Parts}
 ----?> Old English `tungan tulge`
 -----> Old High German <*zunga-zulga>
 ------> German `Zungenzolch`
@@ -342,8 +342,8 @@ Proto-Indo-European <*denḱ->: "to bite"
 
 --?> Proto-Indo-European <*dlṓgʰis>
 ---?> Hellenic <*dlṓťťā>
------> Classical Greek `γλῶσσᾰ` <glôssa>: "tongue, language" (regular <dl> -> <gl>, compare <glukus> vs. Latin `dulcis)
-------> Greek `γλώσσα` <glóssa>: "tongue, language"
+-----> Classical Greek `γλῶσσᾰ` <glôssa>: "tongue, language" {Body Parts} (regular <dl> -> <gl>, compare <glukus> vs. Latin `dulcis)
+------> Greek `γλώσσα` <glóssa>: "tongue, language" {Body Parts}
 ------> Latin `glōssa`: "an obscure or foreign term, an explanation of such a term"
 -------> Central Romance
 --------> Italian `chiosa`: "gloss, note, annotation"
@@ -355,10 +355,10 @@ Proto-Indo-European <*denḱ->: "to bite"
 -------> Koine Greek `πολύγλωττος` <polúglōttos>
 --------> English `polyglot`
 
-------> Classical Greek `γλωσσίς` <glōssís>
--------> Koine Greek `γλωττίς` <glōttís>
---------> New Latin `glottis`
----------> English `glottis`
+------> Classical Greek `γλωσσίς` <glōssís> {Body Parts}
+-------> Koine Greek `γλωττίς` <glōttís> {Body Parts}
+--------> New Latin `glottis` {Body Parts}
+---------> English `glottis` {Body Parts}
 ----------> English `glottal`
 
 -------> Classical Greek `ἐπιγλωσσίς` <épiglossis>
@@ -369,8 +369,8 @@ Proto-Indo-European <*denḱ->: "to bite"
 
 ------> Attic Greek `γλῶττα` <glôtta>
 -------> Koine Greek `πολύγλωττος` <polúglōttos>
--------> Attic Greek `γλωττίς` <glōttís>
---------> Koine Greek `γλωττίς` <glōttís>
+-------> Attic Greek `γλωττίς` <glōttís> {Body Parts}
+--------> Koine Greek `γλωττίς` <glōttís> {Body Parts}
 ---------> Koine Greek `ἐπιγλωττίς` <epiglōttís> 
 
 
@@ -380,11 +380,11 @@ endbody
 startnotes
 
 
-## The significant phonetic differences of Indo-Iranian <*ȷ́iȷ́ʰwáH>: "tongue" from PIE <*dn̥ǵʰwéh₂s>: "tongue" have suggested an alternate origin, from a reduplicative form of <*ǵʰew->: "to call out, to invoke". Compare Sanskrit `𑀚𑀺𑀳𑁆𑀯𑀸` <jihvā́>: "tongue" to Sanskrit `𑀚𑀼𑀳𑁄𑀢𑀺` <juhóti>, which more clearly comes from a reudplicative <*ǵʰew-> and has the same <j-h> reflexes of <*ǵʰ-ǵʰ>.  [wff-geyser].
+## The significant phonetic differences of Indo-Iranian <*ȷ́iȷ́ʰwáH>: "tongue" from PIE <*dn̥ǵʰwéh₂s>: "tongue" have suggested an alternate origin, from a reduplicative form of <*ǵʰew->: "to call out, to invoke". Compare Sanskrit `𑀚𑀺𑀳𑁆𑀯𑀸`=san-Brah <jihvā́>: "tongue" to Sanskrit `𑀚𑀼𑀳𑁄𑀢𑀺`=san-Brah <juhóti>, which more clearly comes from a reudplicative <*ǵʰew-> and has the same <j-h> reflexes of <*ǵʰ-ǵʰ>.  [wff-geyser].
 
 On the other hand, the Nuristani forms seem to support an early form <*diȷ́ʰwáH>, which is a better fit to <*dn̥ǵʰwéh₂s>: "tongue". In that case, the later <*ȷ́iȷ́ʰwáH> could be an assimilation and/or palatalization from <*diȷ́ʰwáH>. But Nuristani has distinctive treatment of palatals that I haven't studied in any depth, it's possibly that it was actually Nuristani that changed <*ȷ́iȷ́ʰwáH> to <*diȷ́ʰwáH>.
 
-### `Lingurari` are an ethnic group of Romani, descended from enslaved Romani in Wallachia (now Romania, no etymological relation to Romani). The Lingurari were part of the Boyash or Rudari group that were forced to give up their nomadic lifestyle and work in mines. When the mines became depleted, many switched to making their living as wood-carvers, including the Lingurari or "Spoon-makers".
+### `Lingurari`=rom-Latn are an ethnic group of Romani, descended from enslaved Romani in Wallachia (now Romania, no etymological relation to Romani). The Lingurari were part of the Boyash or Rudari group that were forced to give up their nomadic lifestyle and work in mines. When the mines became depleted, many switched to making their living as wood-carvers, including the Lingurari or "Spoon-makers".
 
 
 endnotes

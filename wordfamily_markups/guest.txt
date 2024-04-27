@@ -9,6 +9,8 @@ This word for "guest"/"host" is restricted to the Late Northwest Indo-European l
 
 The word for guest and host appear to have been interchangeable in antiquity. Possibly because hospitality was viewed as reciprocal, and/or the original word may have simply meant "stranger that you are eating with", without specifying the guest or host roles.
 
+Because it meant "stranger", it sometimes also came to mean "enemy, invader". So several contradictory English words all come from the same source.
+
 
 endintro
 
@@ -37,7 +39,7 @@ Proto-Indo-European <*gʰes->: "to eat"
 -----> Serbo-Croatian `го̑ст` <gȏst>: "guest"
 ----> West Slavic
 -----> Polish `gość`: "guest, guy, fellow"
-----> Slavic <*Gostislavъ>: "Guest-Glory (personal name)"
+----> Slavic <*Gostislavъ>»1: "personal name: Guest-Glory"
 -----> West Slavic
 ------> Polish `Goscław`
 -----?> Old Swedish `Gøtstaf` #
@@ -45,7 +47,7 @@ Proto-Indo-European <*gʰes->: "to eat"
 
 --> Celtic <*gostiyos>
 ---> Lepontic <*kośio>
-----> Lepontic `𐌖𐌅𐌀𐌌𐌏𐌊𐌏𐌆𐌉𐌔` <uvamokozis>: "Has-Splendid-Guests (personal name)"
+----> Lepontic `𐌖𐌅𐌀𐌌𐌏𐌊𐌏𐌆𐌉𐌔` <uvamokozis>: "personal name: Has-Splendid-Guests"
 
 --> Germanic <*gastiz>: "stranger, guest"
 ---> East Germanic
@@ -55,9 +57,9 @@ Proto-Indo-European <*gʰes->: "to eat"
 -----> Danish `gæst`: "visitor, guest"
 -----> Icelandic `gestur`: "guest, visitor"
 -----> English `guest`
-----> North Germanic `ᚺᛚᛖᚹᚨᚷᚨᛊᛏᛁᛉ` <Hlewagastiz>: "Famous-Guest (personal name)"
-----> North Germanic `ᚾᚨᚢᛞᛁᚷᚨᛊᛏᛁᛉ` <Naudigastiz>: "Need-Guest (personal name)"
-----> North Germanic `ᛊᚨᛚᛁᚷᚨᛊᛏᛁᛉ` <Saligastiz>: "either Hall-Guest or Joy-Guest (personal name)"
+----> North Germanic `ᚺᛚᛖᚹᚨᚷᚨᛊᛏᛁᛉ` <Hlewagastiz>»1: "personal name: Famous-Guest"
+----> North Germanic `ᚾᚨᚢᛞᛁᚷᚨᛊᛏᛁᛉ` <Naudigastiz>: "personal name: Need-Guest"
+----> North Germanic `ᛊᚨᛚᛁᚷᚨᛊᛏᛁᛉ` <Saligastiz>: "personal name: either Hall-Guest or Joy-Guest"
 ---> West Germanic
 ----> Old English `ġiest`: "stranger, guest"
 ----> Frankish
@@ -68,13 +70,14 @@ Proto-Indo-European <*gʰes->: "to eat"
 
 --> Italic <*hostis>: "stranger, guest"
 ---> Latin `hostis`: "stranger, foreign enemy"
+----> Central Romance
+-----> Italian `oste`»1: "army, host"
 ----> Eastern Romance
 -----> Romanian `oaste`: "army, host" (archaic)
 ----> Western Romance
------> Old French `oste`
+-----> Old French `oste`»1
 ------> French `ost`: "army, host" (archaic)
-------> English `host` (an army-like group of people)
------> Italian `oste`: "army, host"
+------> English `host`»1 (an army-like group of people)
 -----> Spanish `hueste`: "army, troops, following"
 
 ----> Latin `hostilis`: "hostile, to do with enemies"
@@ -98,17 +101,20 @@ Proto-Indo-European <*gʰes->: "to eat"
 
 ---> Italic <*hostipotis>
 ----> Latin `hospes`: "host, guest, visitor, stranger"
+-----> Central Romance
+------> Italian `ospite`: "host, guest"
 -----> Eastern Romance
 ------> Romanian `oaspete`: "guest"
 -----> Western Romance
-------> Old French `oste`: "innkeeper, landlord, host"
+------> Old French `oste`»2: "innkeeper, landlord, host"
 -------> French `hôte`: "host, guest, innkeeper"
--------> English `host` (someone giving hospitality)
--------> Italian `oste`: "innkeeper"
-------> Italian `ospite`: "host, guest"
+-------> English `host`»2 (someone giving hospitality)
+-------> Italian `oste`»2: "innkeeper"
 ------> Spanish `huésped`: "guest, lodger"
 -----> Latin `hospitālis`: "hospitable, generous, pertaining to hospitality or hosts"
 ------> Latin `hospitāle`: "guesthouse, guestroom, hospital"
+-------> Central Romance
+--------> Italian `ospedale`: "hospital"
 -------> Western Romance
 --------> Old French `ostel`: "shelter, place to stay"
 ---------> French `hôtel`: "mansion, townhouse, hotel"
@@ -116,7 +122,6 @@ Proto-Indo-European <*gʰes->: "to eat"
 ----------> Italian `hotel`: "hotel"
 ----------> Spanish `hotel`: "hotel"
 ---------> English `hostel`
---------> Italian `ospedale`: "hospital"
 --------> Old Occitan `ostal`
 ---------> Occitan `ostal`: "house"
 ---------> Spanish `hostal`: "hostel"
@@ -127,19 +132,21 @@ Proto-Indo-European <*gʰes->: "to eat"
 -------> Spanish `hospital`: "hospital"
 
 
-------> Latin `hospitālitās`
+------> Latin `hospitalitas`
+-------> Central Romance
+--------> Italian `ospitalità`: "hospitality"
 -------> Western Romance
 --------> French `hospitalité`: "hospitality"
 ---------> English `hospitality`
---------> Italian `ospitalità`: "hospitality"
 --------> Spanish `hospitalidad`: "hospitality"
 -----> Latin `hospitium`: "hospitality, friendship, lodgings, poor-house"
+------> Central Romance
+-------> Italian `ospizio`: "nursing home, hospice"
 ------> Eastern Romance
 -------> Romanian `ospăț`: "feast, banquet"
 ------> Western Romance
 -------> French `hospice`: "hospice"
 --------> English `hospice`
--------> Italian `ospizio`: "nursing home, hospice"
 ------> Koine Greek `ὁσπίτιον` <hospítion>
 -------> Byzantine Greek `σπίτιν` <spítin>
 --------> Greek `σπίτι` <spíti>: "house, home"

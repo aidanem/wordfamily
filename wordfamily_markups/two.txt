@@ -15,7 +15,10 @@ Proto-Indo-European <*dwóh₁>: "two"
 ---> Armenian `կրկին` <krkin>: "double, again, once more"
 
 -> Balto-Slavic <*duwō>: "two"
---> Lithuanian `du`: "two"
+--> East Baltic
+---> Lithuanian `du`: "two"
+--> West Baltic
+---> Old Prussian `dwai`: "two"
 --> Slavic <*dъva>: "two"
 ---> East Slavic
 ----> Russian `два` <dva>: "two"
@@ -88,8 +91,6 @@ Proto-Indo-European <*dwóh₁>: "two"
 
 -> Indo-Iranian
 --> Indo-Aryan <*dva>: "two"
----> Dardic
-----> Kashmiri `zɨ`: "two"
 ---> Sanskrit `𑀤𑁆𑀯` <dvá>: "two, both"
 ----> Elu
 -----> Sinhala `දෙක` <deka>: "two"
@@ -98,9 +99,10 @@ Proto-Indo-European <*dwóh₁>: "two"
 ----> Pali <dve>: "two"
 -----> Thai `โท` <too>: "second"
 ----> Sauraseni `𑀤𑁄` <do>: "two"
------> Madhya
+-----> Madhya Sauraseni
 ------> Hindi `दो` <do>: "two"
------> Pahari
+-----> Northwestern Sauraseni
+------> Kashmiri `zɨ`: "two"
 ------> Punjabi `ਦੋ` <do>: "two"
 -----> Western Sauraseni
 ------> Romani `duj`: "two"
@@ -144,7 +146,7 @@ Proto-Indo-European <*dwóh₁>: "two"
 ---> Hittite <tān>
 
 
--> Proto-Indo-European <*dwi(s)->: "two (prefix)"
+-> Proto-Indo-European <*dwi(s)->: "two (prefix), apart"
 
 --> Anatolian
 ---> Luwian <twi->: "two, double"
@@ -197,6 +199,8 @@ Proto-Indo-European <*dwóh₁>: "two"
 -----> Latin `duplicō`: "I double, I duplicate, I fold in half, I split in half, I enlarge"
 ------> English `duplicate`
 -----> English `duplicity`
+
+---> Italic <*dwis-wiðō>
 
 
 --> Indo-Iranian <*dwi->
@@ -264,6 +268,11 @@ Proto-Indo-European <*dwóh₁>: "two"
 -----> English `duple`
 
 
+--> Proto-Indo-European <*dwityon>
+
+--?> Italic <*wition>
+----> Latin `vitium`
+
 
 --> Proto-Indo-European <*dwi(h₁)dḱm̥ti>: "twenty (two-ten)"
 
@@ -292,8 +301,6 @@ Proto-Indo-European <*dwóh₁>: "two"
 
 ---> Indo-Iranian <*HwiHĉati>
 ----> Indo-Aryan <*HwiHśati>
------> Dardic
-------> Kashmiri `وُہ‎` <vuh>: "twenty"
 -----> Sanskrit `𑀯𑀺𑀁𑀰𑀢𑀺` <viṃśatí>: twenty"
 ------> Magadhi
 -------> Bengali `বিশ` <bish>: "twenty"
@@ -301,12 +308,20 @@ Proto-Indo-European <*dwóh₁>: "two"
 -------> Marathi `वीस` <vīs>
 ------> Pali <vīsati>
 ------> Sauraseni
--------> Madhya
+-------> Madhya Sauraseni
 --------> Hindi `बीस` <bīs>: "twenty"
--------> Pahari
+-------> Northwestern Sauraseni
+--------> Kashmiri `وُہ‎` <vuh>: "twenty"
 --------> Punjabi `ਵੀਹ` <vīh>: "twenty"
 -------> Western Sauraseni
 --------> Romani `biś`: "twenty"
+------> Sanskrit `𑀧𑀜𑁆𑀘𑀯𑀺𑀁𑀰𑀢𑀺` <páñcaviṃśati>: twenty-five"
+-------> Sauraseni
+--------> Madhya Sauraseni
+---------> Hindi `पच्चीस` <paccīs>: "twenty-five"
+----------> English `pachisi`
+-----------> English `Parcheesi`
+
 ----> Iranian <*HwiHĉati>
 -----> Avestan `𐬬𐬍𐬯𐬀𐬌𐬙𐬌` <vīsaⁱti>: "twenty"
 -----> Northern Iranian
@@ -406,6 +421,17 @@ Proto-Indo-European <*dwóh₁>: "two"
 -------> Spanish `combinar`: "to combine, to go with"
 
 
+--> Proto-Indo-European <*dwi-dʰeh₁->: "place apart, placed in two"
+---> Proto-Indo-European <*h₁weydʰh₁->: "to separate, to divide" (compounded and dissimilated)
+
+----> Proto-Indo-European <*h₁widʰh₁eti>: "separates, divides"
+
+-----> Italic <*wiðō>
+------> Italic <*dwis-wiðō> (re-prefixed with <*dwi->)
+-------> Latin `dīvidō`
+--------> English `divide`
+
+
 endbody
 
 startnotes
@@ -415,6 +441,7 @@ startnotes
 
 ## Around 1840, Swedish chemist Carl Gustaf Mosander isolated the oxide ceria into two separate oxides, which he called `lanthana` ("hidden, forgotten" related to `Lethe`) and `didymia` ("twin"). Lanthana was determined to be an elemental oxide of a new element lanthanum. Didymia was then separated into samarium and didydium, and finally didymium was separated into the elements neo(di)dymium and praeso(di)dymium.
 
-So while `neodymium` and `praesodymium` form a "twin" set of elements, that is not the pair of twins their refers to, but to lanthanum and didymium.
+So while `neodymium` and `praesodymium` form a "twin" set of elements, that is not the pair of twins their refers to, but to twin discovery of lanthanum and didymium.
 
 endnotes
+

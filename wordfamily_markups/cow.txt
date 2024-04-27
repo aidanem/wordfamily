@@ -1,6 +1,6 @@
 date: 20190621
 theme: Domestic Animals 🐕
-tags: Animals, Domestic Animals
+tags: Animals, Domestic Animals, Sino-Tibetan, Sumerian, Unknown Substrate
 
 
 startintro
@@ -16,7 +16,7 @@ endintro
 
 startbody
 
-Central Asian Substrate
+Central Asian Substrate?
 
 ?> Proto-Indo-European <*gʷṓws>: "cow, cattle"
 
@@ -49,7 +49,7 @@ Central Asian Substrate
 ----> Gaulish <Bomarus>: "Cow-Great" (personal name)
 ---> Old Irish `bó`: "ox, cow"
 ----> Irish `bó`: "cow"
------> Irish `buachaill bó`: "cowherd, cowboy"
+-----> Irish `buachaill bó`»1: "cowherd, cowboy"
 -----> Irish `Táin Bó Cúailnge`: "The Cattle Raid of Cooley"
 --> Celtic <*bowkkā>
 ---> Brythonic
@@ -85,8 +85,8 @@ Central Asian Substrate
 -----> Classical Greek `βοείη` <boeíē>: "cowhide"
 ------> Latin `boia`: "collar, fetter"
 -------> Western Romance
---------> Old French `buie`: "fetter, chain"
---------?> Old French `buie`: "buoy" (possible, but more likely from West Germanic cognate to "beacon")
+--------> Old French `buie`»1: "fetter, chain"
+--------?> Old French `buie`»2: "buoy" (possible, but more likely from West Germanic cognate to "beacon")
 ----------> Dutch `boei`: "buoy, shackle, fetter"
 -----------> English `buoy`
 ------------> English `buoyant`
@@ -110,6 +110,9 @@ Central Asian Substrate
 ---------> German `Butter`: "butter"
 ----------> Serbo-Croatian `пу̏тер` <pȕter>: "butter"
 ---------> Yiddish `פּוטער‎` <puter>: "butter"
+-----> English `butyric acid` (isolated from rancid butter)
+------> English `but-`: "having four carbon (of organic molecules)"
+-------> English `butane`
 ----> Classical Greek `ἑκατόμβη` <hekatómbē>: "animal sacrifice, hecatomb, great sacrifice" (lit. "hundred oxen")
 -----> Latin `hecatombē`
 ------> English `hecatomb`
@@ -128,17 +131,18 @@ Central Asian Substrate
 
 --> Indo-Iranian <*gā́wš>
 ---> Indo-Aryan
-----> Dardic <*gā́va>
------> Kashmiri `گاو‎` <gāv>: "
-----> Sanskrit `𑀕𑁄` <gó>: "cow, ox, cattle" 
+----> Sanskrit `𑀕𑁅𑀂` <gaúḥ>: "cow, ox, cattle" (oblique stem <gáv->)
 -----> Maharashtri
 ------> Marathi `गाय` <gāy>: "cow" (from <gavi> form)
------> Sauraseni `𑀕𑀸𑀈` <gāī> (from <gavi> form)
-------> Madhya
--------> Hindi `गाय` <gāy>: "cow"
 -----> Pali <go>
 ------> Khmer `គោ` <koo>: "ox, cow, bull"
 ------> Thai `โค` <koo>: "cow, ox"
+-----> Sauraseni `𑀕𑀸𑀈` <gāī> (from <gavi> form)
+------> Madhya Sauraseni
+-------> Hindi `गाय` <gāy>: "cow"
+------> Northwestern Sauraseni
+-------> Kashmiri `گاو‎` <gāv>: "cow"
+-------> Punjabi `ਗਾਂ` <gā̃>: "cow"
 -----> Telugu `గోవు` <gōvu>: "cow, ox"
 -----> Sanskrit `𑀕𑁄𑀭𑀽𑀧` <gorūpá>: "bovine, cow-like, cow-shaped"
 ------> Magadhi
@@ -218,7 +222,7 @@ Central Asian Substrate
 -----> Welsh `bugail`: "shepherd, pastor"
 ----> Old Irish `búachaill`: "cowherd, herdsman"
 -----> Irish `buachaill`: "boy, boyfriend, herdsman, (male) employee"
------> Irish `buachaill bó`: "cowherd, cowboy"
+-----> Irish `buachaill bó`»1: "cowherd, cowboy"
 
 ---> Hellenic <*gʷoukólos> 
 ----> Mycenaean Greek `𐀦𐀄𐀒𐀫` <qo-u-ko-ro>: "cowherders"
@@ -272,6 +276,7 @@ Central Asian Substrate
 --------> Spanish `vaquero`: "cowherd, cowboy, jeans"
 --------?> English `buckaroo`
 
+?> Sumerian `𒄞` <gud'>: "cattle, ox"
 
 
 ?> Sino-Tibetan <*ŋwa>: "cattle, ox"

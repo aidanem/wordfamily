@@ -1,5 +1,4 @@
 date: 20170721
-tags: Animals, Elements
 
 
 startbody
@@ -11,9 +10,9 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 
 --> Hellenic
 --?> Classical Greek `ὀξύς` <oxús>: "sharp, pointed, clever, swift"
-----> French `oxygène`: "oxygen" (Greek technical formation "sharp-forming", for oxygen's role in forming acids)
------> English `oxygen`!
------> Translingual `O`
+----> French `oxygène`: "oxygen" (Greek technical formation "sharp-forming", for oxygen's role in forming acids) {Elements}
+-----> English `oxygen`! {Elements}
+-----> Translingual `O` {Elements}
 ----> Classical Greek `ὀξύμωρος` <oxúmōros>: "a witty saying that is seemingly paradoxical, oxymoron" ("clever-foolish")
 -----> English `oxymoron`
 ----> English `oxytocic` (Greek technical formation "swift-birth")
@@ -22,12 +21,12 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 
 -> Proto-Indo-European <*h₂eḱéh₁ye-ti> (secondary imperfective)
 
---> Italic <*akēō> "to be sharp, to be sour"
----> Latin `aceō`: "sour"
+--> Italic <*akēzi> "to be sharp, to be sour"
+---> Latin `acere`: "to be sour"
 ----> Latin `acidus`: "sour, tart, acidic, harsh"
 -----> French `acide`: "acid, acidic, sour, tart"
 ------> English `acid`!
-----> Latin `acētum`: "vinegar"
+----> Latin `acetum`: "vinegar"
 -----> Central Romance
 ------> Italian `aceto`: "vinegar"
 -----> Insular Romance
@@ -47,11 +46,12 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -----> Gothic `𐌰𐌺𐌴𐌹𐍄` <akeit>: "vinegar"
 -----?> Slavic <*ocьtъ>
 -------> East Slavic
---------> Russian `о́цет` <ócet>: "vinegar"
+--------> Russian `оцет` <ocet>: "vinegar"
 -------> South Slavic
 --------> Old Church Slavonic `оцьтъ` <ocĭtŭ>: "vinegar"
---------> Serbo-Croatian `о̀цат` <òcat>: "vinegar"
+--------> Serbo-Croatian `оцат` <ocat>: "vinegar"
 -------> West Slavic
+--------> Czech `ocet`: "vinegar"
 --------> Polish `ocet`: "vinegar"
 
 
@@ -63,10 +63,12 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ----> Lithuanian `aštrùs`: "sharp"
 ---> Slavic <*ostrъ>: "sharp"
 ----> East Slavic
------> Russian `о́стрый` <óstryj>: "sharp, acute, keen, piquant"
+-----> Russian `острый` <ostryj>: "sharp, acute, keen, spicy"
+-----> Ukrainian `гострий` <hostryj>: "sharp, spicy"
 ----> South Slavic
------> Serbo-Croatian `о̏штар` <ȍštar>: "sharp, acute, keen, precise"
+-----> Serbo-Croatian `оштар` <oštar>: "sharp, acute, keen, precise"
 ----> West Slavic
+-----> Czech `ostrý`: "sharp, spicy"
 -----> Polish `ostry`: "sharp, spicy, acute"
 
 --> Hellenic
@@ -75,9 +77,9 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -----> English `acropolis`
 
 --> Italic <*akris>: "sharp, sour"
----> Latin `ācer`: "sharp, sour, keen, shrewd"
+---> Latin `acer`: "sharp, sour, keen, shrewd"
 ----> Central Romance
------> Italian `agro`: "sour, vinegary"
+-----> Italian `agro`»1: "sour, vinegary"
 ----> Western Romance
 -----> French `aigre` "sharp, sour, shrill"
 ------> English `eager`! #
@@ -94,6 +96,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ----> French `âcre`: "acrid, bitter"
 ----> Old Irish `aicher`: "sharp, fierce"
 -----> Irish `aichear`: "sharp, keen"
+
 
 --> Proto-Indo-European <*h₂eḱru>: "a sharp, a bitter, tear" (deadjectival)
 
@@ -131,105 +134,39 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ----> Arshian <ākär>: "tear"
 ----> Kushean <akrūna>: "tears"
 
----> Proto-Indo-European <*dr̥ḱ-h₂eḱru>: "tear(s)" (lit. "eye-bitter" "eye-sting", with [wff-dragon|<*derḱ->])
 
-----> Proto-Indo-European <drh₂éḱru> (haplology)
-
------> Germanic <*trahnuz>: "a tear"
-------> West Germanic
--------> Frankish <*trān>
---------> Dutch `traan`: "a tear, fish oil"
----------> Dutch `traanolie`: "fish oil"
-----------> English `train oil`
--------> Old High German `tra(h)an`
---------> German `Träne`: "a tear"
-
------> Proto-Indo-European <*dh₂éḱru> (further haplology)
-
-------> Pre-Armenian <*artawr>: "a tear"
--------> Old Armenian `արտօսր` <artōsr>: "a tear" (with 's' from the plural)
--------> Pre-Armenian <*artaḱu-?>: "tears" #
---------> Old Armenian `արտասուք` <artasukʿ>: "tears"
----------> Armenian `արցունք` <arcʿunkʿ>: "a tear"
----------> Armenian `արտասուք` <artasukʿ>: "a tear, to weep, to lament" (re-borrowing)
-
-------> Hellenic
--------> Classical Greek `δάκρυ` <dákru>: "a tear, sap"
---------> Greek `δάκρυ` <dákry>: "a tear"
---------> English `dacryo-`
-
-------> Late Northwest Indo-European <*dáḱrom>
-
--------> Celtic <*dakrom>: "a tear"
---------> Old Irish `dér`: "a tear"
----------> Irish `deoir`: "a tear"
-
--------> Germanic <*tahrą>: "a tear" (plural stem <*tagr->)
---------> East Germanic
----------> Gothic `𐍄𐌰𐌲𐍂` <tagr>: "a tear" (singular stem levelled to plural stem)
---------> North Germanic
----------> Old Norse `tár`: "a tear"
-----------> Danish `tår`: "a drop, a sip"
------------> Danish `tåre`: "a tear" (originally a plural)
-----------> Icelandic `tár`: "a tear, a drop, a sip"
---------> West Germanic
----------> Old English `tear`: "a tear"
-----------> English `tear`!
----------> Old High German `zahar`
-----------> German `Zähre`: "a tear" (archaic)
-
---------> Germanic <*tahrijaną>: "to weep, to shed tears"
----------> East Germanic
-----------> Gothic `𐍄𐌰𐌲𐍂𐌾𐌰𐌽` <tagrjan>: "to weep, to shed tears"
----------> West Germanic
-----------> Old English `tieran`: "to weep, to water (of eyes)"
-
--------> Italic <*dakrom>
---------> Old Latin `𐌃𐌀𐌂𐌓𐌖𐌌𐌀` <dacruma>: "a tear"
----------> Latin `lacruma`: "a tear" (archaic)
----------> Old Latin `𐌃𐌀𐌂𐌓𐌉𐌌𐌀` <dacrima>: "a tear" (variant)
-----------> Latin `lacrima`: "a tear"
------------> Central Romance
-------------> Italian `lacrima`: "a tear"
------------> Eastern Romance
-------------> Romanian `lacrimă`: "a tear"
------------> Western Romance
-------------> French `larme`: "a tear, a drop"
-------------> Spanish `lágrima`: "a tear"
-
------------> Latin `lacrimalis`: "of tears, related to tears"
-------------> English `lacrimal`
-
-----------> Latin `lacrimosus`: "full of tears, lamentable"
------------> English `lachrymose`! (partly re-modelled as if Greek)
-
------------> Latin `lacrimare`: "to weep, to shed tears"
-------------> Central Romance
--------------> Italian `lacrimàre`: "to weep, to drip, to mourn"
-------------> Eastern Romance
--------------> Romanian `a lăcrima`: "to weep"
-------------> Spanish `lagrimar`
-------------> Spanish `lacrimar`
-
------------> Vulgar Latin <*lacrimidiare>
-------------> Eastern Romance
--------------> Aromanian `lãcãrmedz`: "to weep"
-------------> Western Romance
--------------> French `larmoyer`: "to weep, to whine, to drip"
--------------> Spanish `lagrimear`
+---> Proto-Indo-European <*dr̥ḱ-h₂eḱru>»1: "tear(s)" (lit. "eye-bitter" "eye-sting")
 
 
-------> Proto-Indo-European <*dáḱruh₂>: "tears" (collective)
+--> Proto-Indo-European <*h₂oḱris>: "top, protrusion, corner" (<*o-is> noun derived from <*h₂ḱrós>)
 
--------> Celtic <*dakrū>: "tears"
---------> Brythonic <*dėgr>
----------> Welsh `deigr`: "tears" (archaic)
-----------> Welsh `deigryn`: "a tear"(new singular derived from `deigr`=cym-Latn with `-yn`=cym-Latn singulative suffix) ###
-----------> Welsh `dagrau`: "tears" (new regular plural)
+---> Celtic <*ókris>
+----> Old Irish `ochair`: "edge"
+-----> Irish `achar`: "limit, extent, (geometric) area"
+----?> Welsh `ochr`»1: "side"
+----> Brythonic
+----?> Welsh `ochr`»1: "side"
 
--------> Hellenic
---------> Classical Greek `δάκρυα` <dákrua>: "tears"
----------> Classical Greek `δάκρυον` <dákruon>: "a tear" (back-formed from <dákrua>) ###
+---> Hellenic <*ókris>
+----> Classical Greek `ὄκρις` <ókris>: "point, prominence"
+-----> Classical Greek `ὀκρίς` <okrís>: "pointed, rugged, peaked"
+
+---> Indo-Iranian <*Háćriš>
+----> Indo-Aryan <*Háśriṣ>
+-----> Sanskrit `𑀅𑀰𑁆𑀭𑀺` <áśri>: "sharp edge, corner, angle"
+
+---> Italic <*okris>
+----> Old Latin `ocris`: "rugged mountain, crag"
+----?> Latin `mediocris`: "middling, medium, ordinary, tolerable, mediocre" (apparently "halfway up the mountain"?)
+------> English `mediocre`
+------> French `médiocre`
+------> Italian `mediocre`
+------> Spanish `mediocre`
+
+
+----> Umbrian `𐌖𐌊𐌀𐌓` <ukar>
+-----> Umbrian `𐌖𐌊𐌓𐌉𐌐𐌄𐌓` <ukriper>: "mountain"
+
 
 
 -> Proto-Indo-European <*h₂eḱu-s>
@@ -246,14 +183,14 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ----> Gothic `𐌰𐌷𐍃` <ahs>: "ear (of grain)"
 ---> West Germanic
 ----> Old English
------> English `ear` (only as in grain) ##
+-----> English `ear`»1 (only as in grain) ##
 ----> Old High German
 -----> German `Ähre`: "ear (of grain), spike (of a flower)"
 
 --> Italic
 ---> Latin `acus`: "needle (sewing or pine), husk"
-----> Latin `acuō`: "sharpen, make pointed, spur, stimulate, exercise, practice"
------> Latin `acūtus`: "sharp, sharpened"
+----> Latin `acuere`: "to sharpen, to make pointed, to spur, to exercise, to practice"
+-----> Latin `acutus`: "sharp, sharpened"
 ------> Central Romance
 -------> Italian `aguzzo`: "sharp"
 ------> Western Romance
@@ -284,6 +221,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ---> Kushean `āk`: "ear (of grain)"
 
 
+
 -> Proto-Indo-European <*h₂eḱh₂enh₂>?
 
 --> Balto-Slavic
@@ -296,7 +234,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 --> Germanic <*aganō>: "chaff"
 ---> North Germanic
 ----> Old Norse
-----?> Swedish `ag`: "fen sedge, saw sedge" (sharp marsh grasses)
+----?> Swedish `ag`: "fen sedge, saw sedge" {Plants} (sharp marsh grasses)
 ---> West Germanic
 ----> Old English <ægnan>
 -----> English `awn`
@@ -304,7 +242,7 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -----> Dutch `agen`
 
 --> Hellenic
----> Classical Greek `ἄκανος` <ákanos>: "thistle"
+---> Classical Greek `ἄκανος` <ákanos>: "thistle" {Plants}
 
 --> Italic
 ---> Latin `agna`: "straw, ear (of grain)"
@@ -321,12 +259,12 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 
 --> Germanic <*agjō>: "edge, corner"
 ---> North Germanic
-----> Old Norse `egg`: "edge"
------> Danish `æg`
------> Icelandic `egg`: "edge of a knife or sword, edge of a mountain"
+----> Old Norse `egg`»2: "edge"
+-----> Danish `æg`»2
+-----> Icelandic `egg`»2: "edge of a knife or sword, edge of a mountain"
 -----> Old Norse `eggja`: "to incite, to egg on"
 ------> Icelandic `eggja`: "to incite, to egg on"
-------> English `egg`
+------> English `egg`»2
 ---> West Germanic
 ----> Old English `eċġ`: "edge"
 -----> English `edge`!
@@ -338,17 +276,18 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ----> Old High German `egga`
 -----> German `Ecke`: "edge, corner, roughly triangular piece"
 ------> German `Dreieck`: "triangle" ("three-corner")
+------> German `Eckzahn`: "canine tooth"
 ---> Northern Sami `ávju`: "edge"
 
----> Germanic <*Agi>: "Sword's Edge (personal name)"
+---> Germanic <*Agi>: "personal name: Sword's-Edge"
 ----> North Germanic
 -----> Old Norse `Eggi`
 ------> Danish `Ove`
 -------> German `Uwe`
-----> Germanic <*Agino>: "personal name (diminutive)"
+----> Germanic <*Agino> (dimunitive)
 -----> West Germanic
 -----?> Frankish `Aizino`
--------> Old French `Aisincurt`: "Aizino's farmstead (place name)"
+-------> Old French `Aisincurt`: "place name: Aizino's farmstead"
 --------> English `Agincourt`
 --------> French `Azincourt`
 ------> Old High German
@@ -362,11 +301,11 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 
 --> Hellenic
 ---> Classical Greek `ἀκή` <akḗ>: "point"
-----> Classical Greek `ἀκακία` <akakía>: "acacia/shittah tree"
------> Translingual `Acacia`: taxonomic genus of wattle shrub
-----> Classical Greek `ἄκᾰνθος` <ákanthos>: "acanthus, thorn" ("point-flower")
------> Translingual `Acanthus`: "a taxonomic genus of prickly herbs"
-------> Translingual `Pyracantha`: "taxonomic genus of the firethorn shrubs"
+----> Classical Greek `ἀκακία` <akakía>: "acacia/shittah tree" {Plants}
+-----> Translingual `Acacia`: taxonomic genus of wattle shrub {Plants}
+----> Classical Greek `ἄκᾰνθος` <ákanthos>: "acanthus, thorn" {Plants} (lit. "point-flower")
+-----> Translingual `Acanthus`: "a taxonomic genus of prickly herbs" {Plants}
+------> Translingual `Pyracantha`: "taxonomic genus of the firethorn shrubs" {Plants}
 
 
 -?> Finno-Ugric
@@ -512,16 +451,38 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 
 
 
--> Proto-Indo-European <?>
+-> Proto-Indo-European <?>»9
 
 --> Italic
----> Latin `aciēs`: "sharp edge or point, battle line"
+---> Latin `acies`: "sharp edge or point, battle line"
+----> Latin `acinus`
+-----> Latin `duracinus`: "hard-berried, stone fruit"
+------> Central Romance
+-------> Dalmatian `drucno`
+-------> Italian `duracina`
+------> Western Romance
+-------> Old French `duraine`
+-------> Spanish `durazno`: "peach" {Plants} (Latin American only)
+--------> Quechua `turasnu`: "peach" {Plants}
+------> French `duracine`: "type of peach" {Plants}
+------> Classical Greek `δωράκινον` <dōrákinon>: "type of peach" {Plants}
+-------> Greek `ροδάκινο` <rodákino>: "peach" {Plants}
+-------> Classical Syriac `ܕܘܪܩܝܢܐ‎` <dōraqqīnā>: "apricot, peach" {Plants}
+--------> Arabic `دُرَّاق` <durrāq>: "peach" {Plants}
+
+-----> Latin <*acillus>
+------> Medieval Latin <arillus>: "pip, grape seed"
+-------> English `aril`
+-------> French `arille`
+
+
 ----> Late Latin `aciārium`: "steel"
 -----> Central Romance
 ------> Italian `acciaio`: "steel"
 -----> Western Romance
 ------> French `acier`: "steel"
 ------> Spanish `acero`: "steel, weapon, arms"
+
 
 
 -> Proto-Indo-European <*h₂ḱh₂owsyéti>: "hears (well)" (lit. "is sharp-earing") ##
@@ -580,9 +541,9 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 ------> Western Romance
 -------> French `cognée`: "axe, hatchet"
 ------> English `cuneate`
------> Latin `cuneifōrmis`: "cuneiform" (lit. "wedge-shaped")
-------> French `cunéiforme`: "cuneiform"
--------> English `cuneiform`!
+-----> Latin `cuneiformis`: "cuneiform" {Writing} (lit. "wedge-shaped")
+------> French `cunéiforme`: "cuneiform" {Writing}
+-------> English `cuneiform`! {Writing}
 
 --> Proto-Indo-European <*h₂ḱulis>: "stinging insect"
 
@@ -617,24 +578,25 @@ Proto-Indo-European <*h₂eḱ->: "sharp"
 -------> Spanish `cono`: "cone"
 
 
---?> Celtiberian <?>: "rabbit?, rabbit burrow?" #######
+--?> Celtiberian <?>: "rabbit?, rabbit burrow?" {Animals} #######
 ----> Vasconic <*Hunx́i>
------> Basque `unxti`: "rabbit"
+-----> Basque `unxti`: "rabbit" {Animals}
 ----> Classical Greek `κόνικλος` <kóniklos>
------> Latin `cuniculus`: "rabbit, rabbit burrow, mine"
-------> Central Romance
--------> Italian `coniglio`: "rabbit"
-------> Western Romance <*cuniclus>: "rabbit"
--------> Old French `connin`: "rabbit"
---------> English `cony`
----------> Welsh `cwning`: "rabbit, cony, hyrax"
---------> Middle Low German <kanīn>
----------> Low German `Kanien`: "rabbit"
----------> Danish `kanin`: "rabbit"
----------> German `Kanin`: "rabbit"
--------> Spanish `conejo`
--------> Mozarabic <konélyo>: "rabbit"
---------> Mozarabic <koncháir>: "greyhound" (from their use as hare-coursers)
+-----> Latin `cuniculus`: "rabbit, rabbit burrow, mine" {Animals}
+------> Vulgar Latin <*cuniclus>: "rabbit" {Animals}
+-------> Central Romance
+--------> Italian `coniglio`: "rabbit" {Animals}
+-------> Western Romance 
+--------> Old French `connin`: "rabbit" {Animals}
+---------> English `cony` {Animals}
+----------> Welsh `cwning`: "rabbit, cony, hyrax" {Animals}
+---------> Middle Low German <kanīn>
+----------> Low German `Kanien`: "rabbit" {Animals}
+----------> Danish `kanin`: "rabbit" {Animals}
+----------> German `Kanin`: "rabbit" {Animals}
+--------> Spanish `conejo`: "rabbit" {Animals}
+--------> Mozarabic <konélyo>: "rabbit" {Animals}
+---------> Mozarabic <koncháir>: "greyhound" {Animals} (from their use as hare-coursers)
 
 
 --> Proto-Indo-European <*ḱh₃tós>
@@ -681,3 +643,4 @@ Borrowing of this word from an Iberian substrate is logical given the native ran
 Compare that "Spain"/"Hispania" is from traditionally thought to be from Phoenician `𐤀𐤉 𐤔𐤐𐤍`=phn-Phnx <‘i špn>: "island of hyraxes/rabbits". Rabbits were a notable feature of Iberia to ancient visitors! Though that may be a very old folk etymology, <‘i ṣpn>: "northern/remote/hidden island", <‘i spn> "island of smithing" or <‘i spn> "island of sailors" are all plausible alternatives both phonologically and semantically.
 
 endnotes
+

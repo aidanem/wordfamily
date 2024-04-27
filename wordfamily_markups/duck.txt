@@ -1,6 +1,5 @@
 date: 20180420
 theme: Birds 🐦
-tags: Animals, Birds, Water
 
 startintro
 
@@ -20,44 +19,44 @@ Proto-Indo-European <*dʰewb->: "deep, hollow"
 ----> East Slavic
 -----> Russian `дю́бать` <djúbatʹ>
 
---> Germanic <*dūbanã>: "to dive, to sink"
+--> Germanic <*dūbaną>: "to dive, to sink"
 ---> West Germanic
 ----> Old English `dūfan`: "to dive, to sink"
------> English `dive`
+-----> English `dive`»1
 
---?> Germanic <*dūkanã>: "to duck, to dive under" (intensive -k-? compare `hear`/`hark` and `smile`/`smirk`)
+--?> Germanic <*dūkaną>: "to duck, to dive under" (intensive -k-? compare `hear`/`hark` and `smile`/`smirk`)
 ----> West Germanic
 -----> Old English <*dūcan>: "to dive, to dip, to plunge"
-------> English `duck`
+------> English `duck`»1
 ------> Scots `douk`: "to duck, to dive"
 ------> Old English `dūce`: "duck (bird)" (lit. "diver")
--------> English `duck`
+-------> English `duck`»2 {Animals, Birds}
 -------> Scots `deuk`: "duck"
 -----> Frankish <*dūkan>
 ------> Dutch `duiken`: "to dive"
--------> Dutch `duiker`: "diver, culvert, loon (bird), duiker (antelope)"
+-------> Dutch `duiker`: "diver, culvert, loon (bird), duiker (antelope)" {Animals, Birds}
 --------> English `duiker`
 -----> Old High German `tūchan`
 ------> German `tauchen`: "to dive, to bathe"
--------> German `Taucher`: "diver, loon (bird), grebe (bird)"
+-------> German `Taucher`: "diver, loon (bird), grebe (bird)" {Animals, Birds}
 
 
 -> Proto-Indo-European <*dʰowbéyeti>: "makes deep, submerges" (causative verb)
 
---> Germanic <*daubijanã>
+--> Germanic <*daubijaną>
 ---> North Germanic
 ----> Old Norse
 -----> Icelandic `dýfa`: "to dip, to dive"
 ---> West Germanic
 ----> Old English `dȳfan`: "to dive"
------> English `dive`
+-----> English `dive`»1
 
----> Germanic <*daupijanã>  (variant)
+---> Germanic <*daupijaną>  (variant)
 ----> West Germanic
 -----> Old English `dīepan`
-------> Scots `depe`: "to dip, to incline"
+------> Scots `depe`»1: "to dip, to incline"
 
----> Germanic <*dupjanã> (variant)
+---> Germanic <*dupjaną> (variant)
 ----> East Germanic
 -----> Gothic `𐌳𐌰𐌿𐍀𐌾𐌰𐌽` <daupjan>: "to dip, to immerse, to baptize"
 ----> North Germanic
@@ -78,7 +77,7 @@ Proto-Indo-European <*dʰewb->: "deep, hollow"
 -> Proto-Indo-European <*dʰéwbus>: "deep" (adjective)
 
 --> Proto-Albanian <*deubeta>
----> Albanian `det`: "sea"
+---> Albanian `det`: "sea" {Water}
 
 --> Balto-Slavic <*dubus>
 ---> Lithuanian `dubùs`: "deep, hollow"
@@ -93,7 +92,7 @@ Proto-Indo-European <*dʰewb->: "deep, hollow"
 ---> West Germanic
 ----> Old English `dēop`: "deep"
 -----> English `deep`
------> Scots `depe`: "deep, profound"
+-----> Scots `depe`»2: "deep, profound"
 ----> Frankish <*diop>
 -----> Dutch `diep`: "deep, low, profound"
 ----> Old High German `tiuf`
@@ -115,11 +114,11 @@ Proto-Indo-European <*dʰewb->: "deep, hollow"
 ------> Dutch `diepte`: "depth"
 
 --> Hellenic <*butʰós> (metathesis)
----> Classical Greek `βῠθός` <buthós>: "depth, deep water, bottom of the sea" (metathesis from <*thubós>)
+---> Classical Greek `βῠθός` <buthós>: "depth, deep water, bottom of the sea" {Water}
 
 ----> Classical Greek `ἄβῠσσος` <ábussos>: "bottomless, unfathomable, abyss" (<a-buthos>: "without bottom")
 -----> Latin `abyssus`: "abyss"
-------> Western Romance
+------> Central Romance
 -------> Italian `abisso`: "abyss, gulf"
 ------> English `abyss`
 ------> French `abysse`: "abyss, deep sea"
@@ -183,25 +182,25 @@ Proto-Indo-European <*dʰewb->: "deep, hollow"
 ----> South Slavic
 -----> Serbo-Croatian `дебри` <debri>
 
---> Celtic <*dubros>: "water"
+--> Celtic <*dubros>: "water" {Water}
 ---> Gaulish
 ----> German `Tauber` (name of a river)
 ---> Celtiberian
 ----> Galician `Dubra` (name of a river)
----> Brythonic <*duβr>: "water"
-----> Welsh `dŵr`: "water"
+---> Brythonic <*duβr>: "water" {Water}
+----> Welsh `dŵr`: "water" {Water}
 ----> English `Dour`
-----> Brythonic <*duβras>: "waters, Dover"
+----> Brythonic <*duβras>: "waters, Dover" {Water}
 -----> Latin `(Portus) Dubris`: "Dover"
 ------> Old English `Dofras`: "Dover"
 -------> English `Dover`
 ------> Brythonic <*wenduβras>: "white waters"
 -------> English `Wendover`: name of a river
----> Celtic <*dubrokū>: "otter" (lit. "water-dog")
-----> Brythonic <*düβrgi>
------> Welsh `dyfrgi`: "otter"
-----> Old Irish `doburchú`: "otter"
------> Irish `dobharchú`: "otter"
+---> Celtic <*dubrokū>»1: "otter" {Animals} (lit. "water-dog")
+----> Brythonic <*düβrgi>»1
+-----> Welsh `dyfrgi`»1: "otter" {Animals}
+----> Old Irish `doburchú`»1: "otter" {Animals}
+-----> Irish `dobharchú`»1: "otter" {Animals}
 
 --> Tocharian <*täpre>
 ---> Arshian <tpär>

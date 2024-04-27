@@ -262,7 +262,7 @@ Proto-Indo-European <*wed->: "water"
 ------> Latin `hydrargyrus`: "mercury, quicksilver"
 -------> New Latin `hydrargyrum`: "mercury"
 --------> Translingual `Hg`
------> Classical Greek `ἔνῠδρῐς` <énudris>: "otter, water snake"
+-----> Classical Greek `ἔνυδρις` <énudris>: "otter, water snake"
 
 --> Illyrian <*adur>
 --?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria> 
@@ -533,7 +533,7 @@ startnotes
 
 #### French <onde> is a technical term. The normal term for a wave is <vague>, from the Germanic <*wēgaz>, same as English <wave>. Note that even though the French <onduler>, "to wave one's hand", is derived from <onde>, the English <wave> of that meaning is from a different Germanic root <*wabjaną>: "to wander, to sway".
 
-#### The initial 'l' in Latin `lutra`=lat-Latn is irregular and unexplained. Suggestions include modification by association to `lupus`=lat-Latn, "wolf" (cf. [https://en.wikipedia.org/wiki/Giant_otter|`lobo del río`=spa-Latn) or `ludo`=lat-Latn, "play".
+#### The initial 'l' in Latin `lutra`=lat-Latn is irregular and unexplained. Suggestions include modification by association to `lupus`=lat-Latn, "wolf" (cf. [https://en.wikipedia.org/wiki/Giant_otter|`lobo del río`=spa-Latn]) or `ludo`=lat-Latn, "play".
 
 # Uralic <*wete> was likely borrowed from Indo-European to Uralic, replacing the inherited <*śäčä> in many branches.
 

@@ -51,7 +51,7 @@ Proto-Indo-European <*me>: "with, at, between, in the middle of"
 
 -----> Classical Greek `μεταβάλλω` <metabállō>: "I throw into a different position, I change suddenly, I turn around"
 ------> Classical Greek `​​μετᾰβολή` <metabolḗ>: "change, mutation, transformation"
--------> Greek `μεταβολή` <metavolí>: "
+-------> Greek `μεταβολή` <metavolí>: ""
 -------> French `métabolisme`: "metabolism"
 --------> English `metabolism`
 
@@ -73,6 +73,13 @@ Proto-Indo-European <*me>: "with, at, between, in the middle of"
 -------> Latin `metamorphōsis`
 --------> English `metamorphosis`
 
+-----> Classical Greek `μετέωρος` <metéōros>: "hung up among, hanging above, lifted up, in the air"
+------> Classical Greek `μετέωρον` <metéōron>: "a hanging thing, a thing in the air"
+-------> Latin `meteorum`
+--------> French `météore`: "meteor"
+---------> English `meteor`
+-------> French `météorologie`: "meteorology, study of atmospheric phenomena"
+--------> English `meteorology`
 
 -----> Classical Greek `μετανοέω` <metanoéō>
 ------> English `metanoia`
@@ -218,8 +225,6 @@ Proto-Indo-European <*me>: "with, at, between, in the middle of"
 -----> Latin `Metubarbis`
 
 ---> Indo-Iranian <*mádʰyas>: "middle"
-----> Dardic
------> Kashmiri `مَنٛز` <manz>: "inside of, among, between"
 ----> Indo-Aryan
 -----> Sanskrit `𑀫𑀥𑁆𑀬` <mádhya>: "middle, center"
 ------> Magadhi `𑀫𑀚𑁆𑀛` <majjha>
@@ -228,10 +233,11 @@ Proto-Indo-European <*me>: "with, at, between, in the middle of"
 ------> Sauraseni `𑀫𑀚𑁆𑀛` <majjha>
 -------> Madhya Sauraseni
 --------> Hindi `में` <mẽ>: "in, within, into, during, between"
--------> Pahari
+-------> Northwestern Sauraseni
+--------> Kashmiri `مَنٛز` <manz>: "inside of, among, between"
 --------> Nepali `मा` <mā>: "in, at, on"
--------> Punjabi `ਮੰਝ` <mañjh>: "middle"
---------> Punjabi `ਮਾਝਾ` <Mājjhā>: "place name: Central (Punjab), Majha"
+--------> Punjabi `ਮੰਝ` <mañjh>: "middle"
+---------> Punjabi `ਮਾਝਾ` <Mājjhā>: "place name: Central (Punjab), Majha"
 ---------> English `Majha`
 ------> Hindi `मध्य` <madhya>
 ------> Javanese `ꦩꦢꦾ` <madya>: "middle, medium, waist"

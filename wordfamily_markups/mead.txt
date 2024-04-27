@@ -4,7 +4,7 @@ tags: Alcohol, Animals
 
 startbody
 
-Unknown source
+Unknown source <*méɬ-?>
 
 ?> Proto-Indo-European <*mélit>: "honey" #
 
@@ -12,6 +12,7 @@ Unknown source
 
 --> Anatolian
 ---> Hittite `𒈪𒇷𒀉` <mi-li-it>: "honey"
+---> Luwian `𒈠𒀠𒇷` <malli>: "honey"
 
 --> Armenian `մեղր` <mełr>: "honey"
 ---> Armenian `մեղու` <mełu>: "bee"
@@ -60,21 +61,32 @@ Unknown source
 ------> Portuguese `marmelo`: "quince"
 -------> Portuguese `marmelada`: "quince jam"
 --------> French `marmelade`: "marmelade"
----------> English `marmelade`
+---------> English `marmalade`
 
 --> Italic
 ---> Latin `mel`: "honey, sweetness"
-----> Sardinian `mele`: "honey"
+----> Central Romance
+-----> Italian `miele`: "honey, sweetness"
+----> Insular Romance
+-----> Sardinian `mele`: "honey"
 ----> Eastern Romance
 -----> Romanian `miere`: "honey"
 ----> Western Romance
 -----> French `miel`: "honey"
------> Italian `miele`: "honey, sweetness"
 -----> Spanish `miel`: "honey"
 ------> Spanish `aguamiel`: "mead"
 ----> Latin `mellifluus`: "flowing with honey, mellifluous"
 -----> English `mellifluous`
 -----> Italian `mellifluo`: "sugary, honeyed, mellifluous"
+----> Latin `mellāceus`: "honey-like, made of honey"
+-----> Western Romance
+------> Spanish `melazos`
+-------> English `molasses`
+-----> Latin `mellācea`
+------> Western Romance
+-------> French `mélasse`: "molasses, treacle"
+--------> Spanish `melaza`: "molasses"
+---------> Dutch `melasse`
 
 
 --> Proto-Indo-European <*melítih₂>: "bee"
@@ -123,6 +135,9 @@ Unknown source
 ---> Old Irish `mid`
 ----> Irish `miodh`: "mead, metheglin"
 ---> Gaulish `medu`
+---> Celtic <*medwos>: "drunk, mead-y"
+----> Brythonic
+-----> Welsh `meddw`
 
 --> Germanic <*meduz>
 ---> East Germanic
@@ -204,10 +219,17 @@ Unknown source
 --> Tocharian <*ḿət(ə)>
 ---> Kushean `mit`: "honey"
 --?> Old Chinese `蜜` <*mit or *mlig>
-----> Mandarin `蜜` <mì>: "honey, honey-colored, besswax, sweet"
-----> Japanese `蜜` <mitsu/michi>: "honey, nectar, syrup"
-----> Korean `밀` <mil>: "honey, beeswax"
-----> Vietnamese `mật`: "honey"
+----> Middle Chinese `蜜` <miɪt̚>
+-----> Mandarin `蜜` <mì>: "honey, honey-colored, besswax, sweet"
+-----> Japanese `みつ` <mitsu>: "honey, nectar, syrup"
+-----> Korean `밀` <mil>: "honey, beeswax"
+-----> Vietnamese `mật`: "honey"
+-----> Middle Chinese `糖蜜` <dɑŋ miɪt̚>: "honey candy, honey sugar"
+------> Mandarin `糖蜜` <tángmì>: "molasses, treacle"
+------> Japanese `とうみつ` <tomītsu>: "molasses"
+----> Min
+-----> Hokkien `蜜` <bi̍t>: "honey"
+
 
 --> Finno-Ugric <*mete>
 ---> Finnic <*meci>: "honey"
@@ -227,18 +249,18 @@ startnotes
 # Neither of the reconstructed PIE words for "honey" have the form of a regular root, so they both presumably derive from unknown earlier forms, or from borrowings. Given that we have two very similar forms, <*mélit> and <*médʰu>, both from unknown sources, both meaning "honey", I think it's a reasonable speculation that they may ultimately come from the same unknown source, either in pre-PIE, or borrowed separately from another source.
 
 
-## Hawaiʻian `meli`: "honey" was coined by missionaries for the 1839 translation of the Bible. English `honey` would have been borrowed as either `hani` or `honi`, which were already words in Hawai'ian meaning "to flirt" and "to kiss", respectively, so the missionaries coined the word from Greek.
+## Hawaiʻian `meli`=haw-Latn: "honey" was coined by missionaries for the 1839 translation of the Bible. English `honey` would have been borrowed as either `hani` or `honi`, which were already words in Hawai'ian meaning "to flirt" and "to kiss", respectively, so the missionaries coined the word from Greek.
 
 
-### `Μέλισσᾰ` <Mélissa> is the name of various people and places, including the nymph who fed the infant Zeus (on milk and honey) while he was hidden from Cronus, and was later turned into a bee.
+### `Μέλισσα`=grc-Grek <Mélissa> is the name of various people and places, including the nymph who fed the infant Zeus (on milk and honey) while he was hidden from Cronus, and was later turned into a bee.
 
 #### Northern Indo-European language families (that is, the ones historically overlapping the range of the brown bear), often have words for "bear" that derive from euphemisms. This is probably originally taboo avoidance, either due to bear worship or simply to being terrified of brown bears. Germanic uses "brown one" (or possibly "wild") and Slavic uses "honey-eater" to replace the PIE word for "bear", <*h₂ŕ̥tḱos> /wff-arctic.html
 
 
-###### `méthylène`/`methylene` was coined in the 1830s by French chemists Jean-Baptiste Dumas and Eugene Peligot. It is formed (not entirely correctly) from Greek roots `μέθυ` <methu>: "wine" and `ὕλη` <hule>: "woods, forest" as a calque of French `l'esprit de bois`: "wood alchohol".
+###### `méthylène`=fra-Latn/`methylene`=eng-Latn was coined in the 1830s by French chemists Jean-Baptiste Dumas and Eugene Peligot. It is formed (not entirely correctly) from Greek roots `μέθυ`=grc-Grek <methu>: "wine" and `ὕλη`=grc-Grek <hule>: "woods, forest" as a calque of French `l'esprit de bois`=fra-Latn: "wood alchohol".
 
 
 
-#####: Despite all appearance, Welsh `medd`: "mead" is not the origin `meddyglyn` (English `metheglin`), a Welsh spiced mead. `meddyglyn` is actually `meddyg-lyn`: "medicinal brew", with `meddyg` a borrowing from Latin `medicus`, and `llyn` from Celtic <*lindom>: "lake, liquid", which is also the origin of `Lincoln`.
+##### Despite all appearance, Welsh `medd`=cym-Latn: "mead" is not the origin `meddyglyn`=cym-Latn (English `metheglin`=eng-Latn), a Welsh spiced mead. `meddyglyn`=cym-Latn is actually `meddyg-lyn`=cym-Latn: "medicinal brew", with `meddyg`=cym-Latn a borrowing from Latin `medicus`=lat-Latn, and `llyn`=cym-Latn from Celtic <*lindom>: "lake, liquid", which is also the origin of `Lincoln`=eng-Latn.
 
 endnotes

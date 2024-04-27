@@ -72,7 +72,6 @@ Proto-Indo-European <*dʰwer->: "door, gate" {Architecture}
 ---------> Irish `foraois`: "forest, timber, lair"
 --------> Italian `foresta`: "forest"
 ---------> Maltese `foresta`: "forest"
---------> Italian `foresta`: "forest"
 --------> Spanish `foresta`: "forest"
 ---------> Spanish `floresta`: "woodland, forest, dell" (modified by association to "flor")
 
@@ -113,6 +112,9 @@ Proto-Indo-European <*dʰwer->: "door, gate" {Architecture}
 ------> Kurdish `derî`: "door" {Architecture}
 -----> Old Persian `𐎯𐎺𐎼𐎹𐎠` <du-va-ra-ya-a>: "at (my) door" {Architecture} (attested in locative)
 ------> Persian `در` <dar>: "door, court, lid" {Architecture}
+-------> Persian `دربند` <darband>: "mountain pass (or other controlled choke point)" (lit. "barred door")
+
+-------> Persian `دربار` <darbar>
 ---> Nuristani
 ----> Kamviri <du>
 
@@ -154,13 +156,12 @@ Proto-Indo-European <*dʰwer->: "door, gate" {Architecture}
 
 --> Balto-Slavic <*dwáras>
 ---> East Baltic
-----> Lithuanian `dvãras`: "manor, court, courtyard" {Architecture}
+----> Lithuanian `dvaras`: "manor, court, courtyard" {Architecture}
 ---> West Baltic
 ----> Old Prussian `duarris`: "courtier"
 ---> Slavic <*dvõrъ>: "court, courtyard" {Architecture}
 ----> East Slavic
 -----> Russian `двор` <dvor>: "yard, courtyard, homestead" {Architecture}
------> Lithuanian `dvãras`: "manor (of a landed estate), courtyard"
 ----> South Slavic
 -----> Serbo-Croatian `дво̑р` <dvȏr>: "castle, palace, courtyard" {Architecture}
 -----> Hungarian `udvar`: "court, courtyard" {Architecture}

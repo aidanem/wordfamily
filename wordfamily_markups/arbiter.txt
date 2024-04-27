@@ -1,6 +1,5 @@
 date: 20181228
-theme: Pre-Classical Mediterranean 🏝
-tags: divinities, toponymy
+theme: Pre-Classical Mediterranean 🏝️
 
 startbody
 
@@ -9,11 +8,11 @@ Semitic <*[ʕ/ġ]rb>: "to depart, to set" #
 -> Central Semitic 
 --> Arabic <ġaraba>
 --> Northwest Semitic
----> Aramaic `ערובה` <ʿrōbā>: "sunset, evening, (Sabbath) eve"
+---> Aramaic `𐡏𐡓𐡅𐡁𐡄` <ʿrōbā>: "sunset, evening, (Sabbath) eve"
 ---> Canaanite
 ----> Phoenician <*'irōb>
 ----?> Homeric Greek `Εὐρώπη` <Eurṓpē>: "Western shore of the Aegean,\nmainland Greece\n(as opposed to Pelopennese or the islands)" ##
-------> Ancient Greek `Εὐρώπη` <Eurṓpē>: "Land north of the Mediterranean Sea \nand west of the Aegean and Black Seas,\nEurope, Europa"
+------> Classical Greek `Εὐρώπη` <Eurṓpē>: "Land north of the Mediterranean Sea \nand west of the Aegean and Black Seas,\nEurope, Europa"
 -------> Greek `Ευρώπη` <Evrópi>: "Europe, Europa"
 -------> Latin `Europa`
 --------> Western Romance
@@ -26,12 +25,13 @@ Semitic <*[ʕ/ġ]rb>: "to depart, to set" #
 ----------> Japanese `ヨーロッパ` <Yōroppa>
 ---------> Spanish `Europa`
 --------> Arabic `أُورُوبَّا` <ʾūrūbbā>
---------> Chinese `歐羅巴`: "Europa, Europe (archaic)"
----------> Mandarian `歐羅巴` <Ōuluóbā>
-----------> Mandarian `歐洲` <Ōuzhōu>: "Europe" ###
+--------> Literary Chinese `歐羅巴`: "Europa, Europe (archaic)"
+---------> Mandarin `歐羅巴` <Ōuluóbā>
+----------> Mandarin `歐洲` <Ōuzhōu>: "Europe" ###
 --------> English `Europa`
 --------> German `Europa`
 -------> Russian `Европа` <Jevropa>: "Europe"
+
 
 --> Central Semitic <*ma-grb>: "place of sunset, western place, the west" (locative)
 ---> Arabic `مَغْرِب` <maḡrib>: "place or time of sunset, west, evening"
@@ -42,13 +42,13 @@ Semitic <*[ʕ/ġ]rb>: "to depart, to set" #
 ---> Aramaic
 ----> Classical Syriac `ܡܰܥܪܒܐ` <ma‑arba>: "west, occident, sunset, western sky, west wind"
 ---> Canaanite
-----> Hebrew `מַעֲרָב` <ma‑ārov>: "the west, occident"
+----> Hebrew `מַעֲרָב`‎ <ma‑ārov>: "the west, occident"
 
 
 -?> Central Semitic <?>: "surety, pledge (money before you leave)?"
 ---> Arabic
 ---> Northwest Semitic
-----> Hebrew `ערבון` <erabon>: "guarantee"
+----> Hebrew `ערבון‎` <erabon>: "guarantee"
 ----> Phoenician
 ------> Punic <*ʿarb>
 ------?> Latin `arbiter`
@@ -57,7 +57,7 @@ Semitic <*[ʕ/ġ]rb>: "to depart, to set" #
 ----------> English `arbiter`
 ---------> Italian `arbitro`: "referee, umpire, arbitrator"
 ---------> Spanish `árbitro`: "referee"
-----?> Ancient Greek `ἀρραβών` <arrabōn>: "pledge, surety, deposit, down payment"
+----?> Classical Greek `ἀρραβών` <arrabōn>: "pledge, surety, deposit, down payment"
 ------> Greek `αρραβώνας` <arravónas>: "engagement, betrothal, deposit, earnest money"
 ------> Latin `arrhabō`
 -------> Latin `arrha`
@@ -72,9 +72,9 @@ Semitic <*[ʕ/ġ]rb>: "to depart, to set" #
 ---?> Arabic `عَرَب` <ʿarab>: "Arab" #####
 -----> Aramaic
 ------> Old Persian `𐎠𐎼𐎲𐎠𐎹` <Arabāya>: "Arabia"
-------> Ancient Greek `Ἄρᾰψ` <Áraps>: "Arab, Arabian"
+------> Classical Greek `Ἄρᾰψ` <Áraps>: "Arab, Arabian"
 -------> Greek `Άραβας` <Áravas>: "Arab"
--------> Ancient Greek `Ἀρᾰβῐ́ᾱ` <Arabíā>: "Arabia"
+-------> Classical Greek `Ἀρᾰβῐ́ᾱ` <Arabíā>: "Arabia"
 --------> Greek `Αραβία` <Aravía>: "Arabia"
 --------> Latin `Arabia`: "Arabia"
 ---------> English `Arabia`
@@ -97,19 +97,20 @@ Semitic <*[ʕ/ġ]rb>: "to depart, to set" #
 --> Old Armenian `երեկ` <erek>: "evening, west, evening star (Venus)"
 ---> Old Armenian `երեկոյ` <erekoy>: "evening"
 ----> Armenian `երեկո` <ereko>: "evening"
+---> Old Armenian `ցերեկ` <cʿerek>: "by day, day, daytime" (lit. "up until evening") #######
+----> Armenian `ցերեկ` <cʿerek>
 ---> Old Armenian `երէկ` <erēk>: "yesterday"
 ----> Armenian `երեկ` <erek>: "yesterday"
 
 --> Germanic <*rekwaz>: "darkness"
 ---> East Germanic
-----> Gothic
------> Ostrogothic `𐍂𐌹𐌵𐌹𐍃` <riqis>: "darkness"
+----> Gothic `𐍂𐌹𐌵𐌹𐍃` <riqis>: "darkness"
 ---> North Germanic
 ----> Old Norse `røkkr`: "twilight"
 -----> Icelandic `rökkur`: "twilight"
 
 --> Hellenic
----> Ancient Greek `Ἔρεβος` <Érebos>: "primordial divinity of darkness"
+---> Classical Greek `Ἔρεβος` <Érebos>: "primordial divinity of darkness"
 ----> Latin `Erebus`
 -----> English `Erebus`
 
@@ -122,11 +123,55 @@ Semitic <*[ʕ/ġ]rb>: "to depart, to set" #
 
 ---> Germanic <*rikwizjaną>: "to get dark"
 ----> East Germanic
------> Gothic
-------> Ostrogothic `𐍂𐌹𐌵𐌹𐌶𐌾𐌰𐌽` <riqizjan>: "to become dark, to darken"
+-----> Gothic `𐍂𐌹𐌵𐌹𐌶𐌾𐌰𐌽` <riqizjan>: "to become dark, to darken"
 
 ---> Indo-Iranian <*Hraǰasyáti>
 ----> Indo-Aryan <*Hraȷ́asyáti>
 -----> Sanskrit `रजस्यति` <rajasyáti>: "to become dust, to be scattered"
 
 endbody
+
+start notes
+
+
+# The first consonant of the Semitic root is ambiguous. The Arabic form points to <*ġ> (/ɣ/), but Akkadian should have <ḫ> (/χ/) in that case; instead the Akkadian has e-coloring and no consonant, which should come from Semitic <*ʕ>. Aramaic, Hebrew, and Phoenician forms can't help answer the question, because <*ġ> and <*ʕ> merged in Northwest Semitic.
+
+If the Proto-Indo-European <*h₁régʷos> is related, IE <*h₁> usually corresponds to Semitic <*ʔ>, <h₂> is the usual correspondence to Semitic <*ʕ>.
+
+
+## Εὐρώπη` <Eurṓpē> is traditionally derived in Greek as "broad-face", the name of a mythological Phoenician princess abducted by Zeus and brought to Crete. This is almost certainly a folk-etymology of a non-Greek borrowing.
+
+Given that (1) the mythological Europa is described as a Phoenician princess, (2) the Phoenician word for "west" is <*'irōb>, which is phoentically similar to `Εὐρώπη` <Eurṓpē>, and (3) Greece is to the west of Phoenicia; Phoenician <*'irōb> is a very likely candidate for what the Greeks folk-etymologized as `Εὐρώπη` <Eurṓpē>.
+
+
+### Modern Mandarian `歐洲` <Ōuzhōu> is formed by abbreviation of `歐羅巴` <Ōuluóbā> to <歐> and then suffixing `洲` <zhōu>: "continent". The same process is used to create the modern forms of the other continent names, such as <Yàzhōu>: "Asia" from <Yàxìyà>; or <Fēizhōu>: "Africa" from <Āfēilìjiā>
+
+
+
+
+#### English <earnest> as in "down payment, surety", of uncertain etymology, but probably a mixture of French <arrhes>: "down payment, surety" and Old English <eornost>: "sincerity, earnestness"
+
+
+
+##### Arabian self-designation is of uncertain origin. It is the same triconsonantal root in some but not all Semitic languages, but does not follow the normal rules for which languages merge [ɣ] and [ʕ]. The most likely explanation is that it is a doublet borrowing of the root for "west" from Eastern Semitic.
+
+Note that Akkadian (Eastern Semitic) is the politically dominant language of Mesopotamia approximately 2300 BCE - 800 BCE.
+
+See also:
+
+https://twitter.com/Safaitic/status/1028330912285683714
+
+"Where does the term ‘Arab come from? It is impossible to know for sure, but there are many theories. A popular one relates it to the root ‘-b-r, which gives the name of the Hebrew language. The best explanation IMO is a derivation from the root ġ-r-b ‘west’ > ‘westerners’.
+This makes sense geographically. The name wouldn’t have originated in Arabic; it was a term used by outsiders to refer to the land/people/language, comparable to the term Amorite < Mar.tu ‘westerner’. But it must have been adopted by the people it referred to early on."
+
+
+
+
+#### We know there are borrowings from Semitic into Indo-European, so this similarity bears a second look. And there are no attested words coming from any morphological form other than <*h₁régʷos> (and secondary derivations from there), which could also point to a borrowed word that was fit to an adjective morphology, but that never had a root form.
+
+On the other hand, the forms don't match up quite well enough to prove a connection. PIE <*h₁> usually corresponds to Semitic <*ʔ> (see note 1), and similarly Semitic <*b> and PIE <*gʷ> are close neighbors, but not identical. <*gʷ> to <*b> would be a normal and expected distortion in borrowing, but <*b> to <*gʷ> is much less expected.
+
+
+####### Replaced Old Armenian `տիւ` <tiw>: "day" from Proto-Indo-European <*diwoh₁>: "bright", which was from the same root as many other IE words for "day" Latin `dies`, Welsh `dydd`, Sanskrit `दिन` <diná>
+
+endnotes

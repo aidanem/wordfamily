@@ -11,7 +11,7 @@ endintro
 startbody
 
 
-Proto-Indo-European <*h₂ew->: "to put on clothes, to cover"
+Proto-Indo-European <*h₂ew->»2: "to put on clothes, to cover"
 
 
 -> Proto-Indo-European <*h₁én-h₂ewti>: "to put on clothes" (lit. "in-clothe")
@@ -73,10 +73,10 @@ Proto-Indo-European <*h₂ew->: "to put on clothes, to cover"
 
 ?> Proto-Indo-European <*h₂éwis>: "bird" (perhaps, "one who is clothed (in feathers)")
 
---> Old Armenian `հաւ` <haw>: "bird, poultry"
----> Armenian `հավ` <hav>: "chicken, hen"
+--> Old Armenian `հաւ` <haw>»3: "bird, poultry"
+---> Armenian `հավ` <hav>»3: "chicken, hen"
 
---> Indo-Iranian <*Háwiš>: "bird"
+--> Indo-Iranian <*Háwiš>»2: "bird"
 ---> Indo-Aryan <*Hwíṣ>: "bird"
 ----> Sanskrit `𑀯𑀺` <vi>
 ---> Iranian <*Hwíš>
@@ -101,7 +101,7 @@ Proto-Indo-European <*h₂ew->: "to put on clothes, to cover"
 ----> Latin `auspex`: "augur, officiating priest" (lit. "bird-watcher")
 -----> Latin `auspicium`: "divination, augury, sign, auspices"
 ------> English `auspice`
----?> Latin `augur`: "augur, diviner" ###
+---?> Latin `augur»1`: "augur, diviner" ###
 ----> English `avian`
 ----> Translingual `Aves`: taxonomic class of birds
 
@@ -155,16 +155,18 @@ Proto-Indo-European <*h₂ew->: "to put on clothes, to cover"
 ---> Celtic <*āuyom>
 ----> Brythonic
 -----> Welsh `wy`: "egg"
+----> Old Irish `og`
+-----> Irish `ubh`: "egg"
 
 ---> Germanic <*ajją>: "egg"
 ----> East Germanic
 -----> Gothic `𐌰𐌳𐌳𐌹` <addi>
 -----> Crimean Gothic `ada`: "egg"
 ----> North Germanic
------> Old Norse `egg``: "egg"
-------> Danish `æg`: "egg"
-------> Icelandic `egg`: "egg, oval"
-------> English `egg`
+-----> Old Norse `egg`»1: "egg"
+------> Danish `æg`»1: "egg"
+------> Icelandic `egg`»1: "egg, oval"
+------> English `egg`»1
 ----> West Germanic <*ajjaz>
 -----> Old English `ǣġ`: "egg"
 ------> Middle English `ey`: "egg"
@@ -265,7 +267,7 @@ Proto-Indo-European <*h₂ew->: "to put on clothes, to cover"
 ----> Frankish <*ōi>
 -----> Dutch `ooi`: "ewe"
 ----> Old High German `awi`
------> German `Aue`: "ewe"
+-----> German `Aue`»2: "ewe"
 ---> Germanic <*awidjã>: "flock of sheep"
 ----> East Germanic
 -----> Gothic `𐌰𐍅𐌴𐌸𐌹` <awēþi>: "flock of sheep"
@@ -282,7 +284,7 @@ Proto-Indo-European <*h₂ew->: "to put on clothes, to cover"
 --> Hellenic
 ---> Ancient Greek `οἶς` <oîs>: "sheep"
 
---> Indo-Iranian <*Háwiš>
+--> Indo-Iranian <*Háwiš>»1: "sheep"
 ---> Indo-Aryan
 ----> Sanskrit `𑀅𑀯𑀺` <ávi>: "sheep, ewe"
 ---> Iranian
@@ -332,3 +334,5 @@ startnotes
 ### Latin `augur` is of unknown origin. I would dismiss the `avis-garriō`: "bird talker" as folk etymology, if there wasn't also `auspex`: "bird-watcher".
 
 endnotes
+
+

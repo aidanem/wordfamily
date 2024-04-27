@@ -1,6 +1,5 @@
 date: 20180615
 theme: Celtic Iron Age
-tags: Divinities
 
 
 startintro
@@ -33,7 +32,7 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 -----> Welsh `a`: "goes" (suppletive conjugation of `mynet`: "to go")
 ---> Old Irish `aigid`: "to drive, to impel"
 
---> Germanic <*akaną>: "to drive, to sail, to navigate"
+--> Germanic <*akaną>»2: "to drive, to sail, to navigate"
 ---> North Germanic
 ----> Old Norse `aka`: "to drive"
 -----> Danish `age`: "to drive"
@@ -41,24 +40,24 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 -----> Scots `aik`: "to drive"
 
 --> Hellenic <*ágō>: "I lead, I guide"
----> Ancient Greek `ἄγω` <ágō>: "I lead, I fetch, I guide, I command, I draw out"
+---> Classical Greek `ἄγω` <ágō>: "I lead, I fetch, I guide, I command, I draw out"
 ----> Greek `άγω` <ágo>: "I lead"
-----> Ancient Greek `παιδαγωγός` <paidagōgós>: "teacher" (lit. "child-leader")
+----> Classical Greek `παιδαγωγός` <paidagōgós>: "teacher" (lit. "child-leader")
 -----> French `pédagogie`: "pedagogy, education, learning"
 ------> English `pedagogy`
-----> Ancient Greek `συνάγω` <sunágō>: "I gather together"
------> Ancient Greek `συναγωγή` <sunagōgḗ>: "gathering, assembly"
+----> Classical Greek `συνάγω` <sunágō>: "I gather together"
+-----> Classical Greek `συναγωγή` <sunagōgḗ>: "gathering, assembly"
 ------> French `synagogue`: "synagogue"
 -------> English `synagogue`
-----> Ancient Greek `ᾰ̓́γρᾱ` <ágrā>: "prey, a catch, a hunt"
------> Ancient Greek `ἀγρεύς` <agreús>: "hunter"
------?> Ancient Greek `ζἀγρεύς` <zagreús>: "hunter who captures live prey" ####
-------?> Ancient Greek `Ζαγρεύς` <Zagreús>: "name of a divinity"
---------> English `Zagreus`
+----> Classical Greek `ᾰ̓́γρᾱ` <ágrā>: "prey, a catch, a hunt"
+-----> Classical Greek `ἀγρεύς` <agreús>: "hunter"
+-----?> Classical Greek `ζἀγρεύς` <zagreús>: "hunter who captures live prey" ####
+------?> Classical Greek `Ζαγρεύς` <Zagreús>: "name of a divinity" {Divinities}
+--------> English `Zagreus` {Divinities}
 
 --> Indo-Iranian <*Háĵati>: "to drive, to lead"
 ---> Indo-Aryan <*Hájati>
-----> Sanskrit `अजति` <ájati>: "to drive, to propel, to throw"
+----> Sanskrit `𑀅𑀚𑀢𑀺` <ájati>: "to drive, to propel, to throw"
 ---> Iranian <*Háĵati>
 ----> Avestan `𐬀𐬰𐬀𐬌𐬙𐬌` <azaiti>: "to drive, to lead, to lead away"
 ---> Uralic <*aja->: "to drive, to hunt, to chase"
@@ -67,36 +66,35 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 ----> Permic
 -----> Komi `войны` <vojny>
 
---> Italic <*agō>: "I drive, I push, I impel, I do"
----> Latin `agō`: "I do, I make, I perform, I drive, I push, I think upon, I stir up, I chase"
+--> Italic <*agezi>: "to drive, to push, to impel, to do"
+---> Latin `agere`: "to do, to make, to perform, to drive, to push, to think upon, to stir up, to chase"
 ----> English `agent`
 ----> English `agenda`
 ----> English `agile`
 ----> English `active`
 ----> English `agitate`
-----> Latin `cōgō`: "I collect, I assemble, I confine" ("push together")
+----> Latin `coger`: "to collect, to assemble, to confine" ("push together")
 -----> English `cogent`
 -----> English `coagulate`
-----> Latin `ambigō`: "I wander, I hesitate, I doubt" ("move about")
+----> Latin `ambiger`: "to wander, to hesitate, to doubt" ("move about")
 -----> English `ambiguous`
----> Latin `-igō` #
-----> Latin `castīgō`: "I rebuke, I correct, I chastise" ("I make virtuous", from `castus`: "virtue"
+---> Latin `-igare` #
+----> Latin `castigare`: "to rebuke, to correct, to chastise" ("to make virtuous", from `castus`: "virtue")
 -----> English `castigate`
 -----> English `chastise`
-----> Latin `fūmigō`: "I smoke, I fumigate" ("I perform smoke", from `fūmus`: "smoke")
+----> Latin `fumigare`: "to smoke, to fumigate" ("to perform smoke", from `fūmus`: "smoke")
 -----> English `fumigate`
-----> Latin `lītigō`: "I dispute, I quarrel, I litigate" ("I make quarrel", from `līs`: "quarrel")
+----> Latin `litigare`: "to dispute, to quarrel, to litigate" ("to make quarrel", from `līs`: "quarrel")
 -----> English `litigate`
-----> Latin `nāvigō`: "I sail, I navigate, I travel by ship" ("I do ship", from `nāvis`: "ship")
+----> Latin `navigare`: "to sail, to navigate, to travel by ship" ("to do ship", from `nāvis`: "ship")
 -----> English `navigate`
 -----> English `navy`
-----> Latin `pūrgō`: "I clean, I purge" ("I make pure", from `purus`)
------> English `purge`
------> English `expurgate`
+----> Latin `purgare`»1: "to clean, to purge" ("to make pure", from `purus`=lat-Latn)
+
 
 --> Tocharian <*āk->
 ---> Arshian <ākeñc>
----> Kushean <āśtär>: "to lead, to guide, to drive"
+---> Kuchean <āśtär>: "to lead, to guide, to drive"
 
 
 -> Proto-Indo-European <*h₂ǵtós>: "what is driven, what is caused"
@@ -142,23 +140,25 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 -------> West Germanic (phonologically merged with <*ambahtaz>)
 
 --> Italic <*aktos>
----> Latin `āctus`: "act, deed, behavior, cattle drive, a unit of length"
-----> Sardinian `atu`
+---> Latin `actus`: "act, deed, behavior, cattle drive, a unit of length"
+----> Central Romance
+-----> Italian `atto`
+----> Insular Romance
+-----> Sardinian `atu`
 ----> Western Romance
 -----> French `acte`
 ------> English `act`
------> Italian `atto`
 -----> Spanish `acto`
 
 
 -> Proto-Indo-European <*h₂éǵtōr>: "driver, causer"
 
 --> Hellenic <*áktōr>
----> Ancient Greek `ἄκτωρ` <áktōr>: "leader"
-----> Ancient Greek `Ἄκτωρ` <Áktōr> (personal name)
+---> Classical Greek `ἄκτωρ` <áktōr>: "leader"
+----> Classical Greek `Ἄκτωρ` <Áktōr> (personal name)
 
 --> Italic <*aktōr>
----> Latin `āctor`: "actor (doer), actor (performer), orator, prosecutor"
+---> Latin `actor`: "actor (doer), actor (performer), orator, prosecutor"
 ----> English `actor`
 
 
@@ -166,9 +166,9 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 
 --> Indo-Iranian <*HáštraH>
 ---> Indo-Aryan <*HáṣṭraH>
-----> Sanskrit `अष्ट्रा` <áṣṭrā>: "cattle prod"
+----> Sanskrit `𑀅𑀱𑁆𑀝𑁆𑀭𑀸` <áṣṭrā>: "cattle prod"
 ---> Iranian <*HáštraH>
-----> Avestan `𐬀𐬱𐬙𐬭𐬁` <aštrā> ###
+----> Avestan `𐬀𐬱𐬙𐬭𐬁` <aštrā>: "whip" ###
 ----> Western Iranian
 -----> Old Persian
 ------> Persian
@@ -178,16 +178,16 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 -> Proto-Indo-European <*h₂éǵmn̥>
 
 --> Hellenic
----> Ancient Greek `ἄχματα` <ákhmata>
+---> Classical Greek `ἄχματα` <ákhmata>
 
 --> Indo-Iranian <*áĵma>
 ---> Indo-Aryan <*áȷ́ma>
-----> Sanskrit `अज्मन्` <ájman>: "passage, course, career, battle"
+----> Sanskrit `𑀅𑀚𑁆𑀫𑀦𑁆` <ájman>: "passage, course, career, battle"
 
 --> Italic
 ---> Latin `agmen`: "crowd, flock, host, army, stream of water"
-----> Latin `exāmen`: "swarm of bees, crowd, tongue of a scale"
------> Latin `exāminō`: "I weigh, I consider, I examine"
+----> Latin `examen`: "swarm of bees, crowd, tongue of a scale"
+-----> Latin `examinare`: "to weigh, to consider, to examine"
 ------> English `examine`
 
 
@@ -216,9 +216,9 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 
 --> Hellenic
 ---> Mycenaean Greek `𐀀𐀒𐀫` <a-ko-ro>: "field, country"
----> Ancient Greek `ἀγρός` <agrós>: "field, land, countryside"
+---> Classical Greek `ἀγρός` <agrós>: "field, land, countryside"
 ----> Greek `αγρός` <agrós>: "field, countryside"
-----> Ancient Greek `ἄγρῐος` <ágrios>: "of the open fields, wild, fierce, harsh"
+----> Classical Greek `ἄγρῐος` <ágrios>: "of the open fields, wild, fierce, harsh"
 -----> Greek `άγριος` <ágrios>: "wild, fierce, uncultivated"
 
 --> Indo-Iranian <*Háĵras>
@@ -228,9 +228,9 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 ----> Eastern Romance
 -----> Romanian `agru`: "field, plot of land"
 ----> Western Romance
------> Italian `agro`: "countryside around a town"
+-----> Italian `agro`»2: "countryside around a town"
 -----> Spanish `agro`: "cultivated field"
-----> Latin `agricultūra`
+----> Latin `agricultura`
 -----> English `agriculture`
 ---> Umbrian `𐌀𐌂𐌄𐌓` <acer>
 
@@ -256,8 +256,8 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 ---> Germanic <*ahsō>
 
 ---> Hellenic <*aksōn>
-----> Mycenaean Greek `𐀀𐀒𐀰𐀚` <a-ko-so-ne>
-----> Ancient Greek `ἄξων` <áxōn>
+----> Mycenaean `𐀀𐀒𐀰𐀚` <a-ko-so-ne>
+----> Classical Greek `ἄξων` <áxōn>
 -----> English `axon`
 
 
@@ -269,42 +269,77 @@ Proto-Indo-European <*h₂eǵ->: "to drive, to cause, to impel"
 ------> English `axle`
 
 ---> Italic <*akslā>
-----> Latin `āla`: "wing, armpit"
+----> Latin `ala`: "wing, armpit"
 -----> Western Romance
 ------> French `aile`
 -------> English `aisle`
 -------> French `aileron`
 --------> English `aileron`
 ----> Italic <*aksilla> (dimunitive)
------> Latin `āxilla`
+-----> Latin `axilla`
 ------> English `axilla`
 
 
--> Late Proto-Indo-European <*h₂ǵes->
+-> Northwest Indo-European <*h₂ǵes(t)->
 
---> Italic <*gezō>
----> Latin `gerō`: "I carry, I wear (clothes), I have (traits), I wage (war)"
-----> Western Romance
------> French `gérer`: "to manage"
-----> Latin `gestus`: "carriage, posture, attitude, gesture, action"
------> English `gesture`
------> Latin `gesticulus` (diminutive)
-------> English `gesticulate`
-----> Latin `gerendus`: "a thing that is carried"
------> English `gerund`
-----> Latin `aggerō`: "I carry towards, I pile up, I augment, I fill"
------> Latin `exaggerō`: "I heap up, I heighten, I amplify, I exaggerate"
-------> English `exaggerate`
-----> Latin `dīgerō`: "I separate, I dissolve, I arrange, I classify"
------> English `digest`
-----> Latin `ingerō`: "I carry in, I pile up"
------> English `ingest`
-----> Latin `suggerō`: "I bring under, I supply, I advise"
------> English `suggest`
 
-----> Latin `gestō`: "I bear, I carry, I have" (frequentive)
------> Latin `gestātiō`
+--> Northwest Indo-European <*h₂ǵes(t)eti>
+
+---> Italic <*gezezi>
+----> Faliscan `𐌊𐌄𐌔𐌄𐌕` <keset>: "wore" (attested as 3S perfect)
+----> Latin `gerere`: "to carry, to wear (clothes), to have (traits), to wage (war)"
+-----> Western Romance
+------> French `gérer`: "to manage"
+-----> Latin `gestus`: "carriage, posture, attitude, gesture, action"
+------> English `gesture`
+------> Latin `gesticulus` (diminutive)
+-------> English `gesticulate`
+-----> Latin `gerendus`: "a thing that is carried"
+------> English `gerund`
+-----> Latin `aggerere`: "to carry towards, to pile up, to augment, to fill"
+------> Latin `exaggerere`: "to heap up, to heighten, to amplify, to exaggerate"
+-------> English `exaggerate`
+-----> Latin `digerere`: "to separate, to dissolve, to arrange, to classify"
+------> English `digest`
+-----> Latin `ingerere`: "to carry in, to pile up"
+------> English `ingest`
+-----> Latin `suggerere`: "to bring under, to supply, to advise"
+------> English `suggest`
+
+
+
+
+--> Northwest Indo-European <*h₂ǵes(t)eh₂yéti>
+
+---> Germanic <*kastōną>
+----> North Germanic
+-----> Old Norse `kasta`
+------> English `cast`
+
+---> Italic <*gestazi>
+----> Latin `gestare`: to bear, to carry, to have" (frequentive)
+-----> Latin `gestatio`
 ------> English `gestation`
+
+
+--> Northwest Indo-European <*h₂ǵes(t)om>
+
+---> Germanic <*kazą>: "vessl, tub, barrel"
+
+----> Germanic <*kazjô>: "vessel-maker"
+-----> East Germanic
+------> Gothic `𐌺𐌰𐍃𐌾𐌰` <kasja>: "potter"
+-----> West Germanic <*kaʀjō>
+
+------> West Germanic <*bijakaʀjō>: "bee-keeper" (lit. "beehive-maker")
+
+------> West Germanic <*tinąkaʀjō>: "tinker, maker of tin vessels"
+-------> Old English <*tincere>
+--------> English `tinker`
+
+---> Germanic <*kastō>
+
+
 
 
 endbody
@@ -312,7 +347,7 @@ endbody
 
 startnotes
 
-#  Latin `-igō`, a verb-forming suffix, derived from Proto-Italic phrases equivalent to "I do/make/perform [noun]"
+#  Latin `-igare`, a verb-forming suffix, derived from Proto-Italic phrases equivalent to "to do/make/perform [noun]"
 
 ## Gothic `𐌰𐌽𐌳𐌱𐌰𐌷𐍄𐍃` <andbahts> and `𐌰𐌽𐌳𐌱𐌰𐌷𐍄𐌹` <andbahti> are probably hyper-corrections of earlier <ambahts>/<ambahti>, reversing an apparent nasal assimilation that had occurred in other words, but not actually in this word.
 
@@ -336,8 +371,11 @@ bearer of small cattle, large cattle and men"
 
 When Xerxes whipped the sea it wasn't because he was a lunatic, Herodotus just didn't catch the cultural signifigance.
 
-#### Ancient Greek `ζἀγρεύς` <zagreús>. According to Carl Kerényi, a "hunter who captures live prey", `ζω-` <zo->: "live" + `ἀγρεύς` <agreús>: "hunter" (Kerényi _Dionysos_ 82). I'm not convinced that Hesychius is really saying what Kerényi says Hesychius is saying, but it's plausible.
+#### Classical Greek `ζἀγρεύς` <zagreús>. According to Carl Kerényi, a "hunter who captures live prey", `ζω-` <zo->: "live" + `ἀγρεύς` <agreús>: "hunter" (Kerényi _Dionysos_ 82). I'm not convinced that Hesychius is really saying what Kerényi says Hesychius is saying, but it's plausible.
 
 Compare, a number of clearer morphological formations like `μῠᾰ́γρᾱ` <muágrā>: "mouse-trap" and `ποδᾰ́γρᾱ` <podágrā>: "foot-trap, foot disease".
 
 endnotes
+
+
+

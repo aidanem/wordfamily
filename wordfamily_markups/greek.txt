@@ -7,7 +7,7 @@ startbody
 Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 
 
--> Proto-Indo-European <*ǵerh₂e-ti> (primary verb)
+-> Proto-Indo-European <*ǵerh₂eti> (primary verb)
 
 --> Balto-Slavic
 ---> Slavic <*zьrěti>: "to ripen"
@@ -29,7 +29,7 @@ Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 ----> Sanskrit `𑀚𑀭𑀢𑀺` <járati>: "to make old"
 
 
--> Proto-Indo-European <*ǵr̥h₂y-éti> (intransitive imperfective)
+-> Proto-Indo-European <*ǵr̥h₂yéti> (intransitive imperfective)
 
 --> Indo-Iranian
 ---> Indo-Aryan
@@ -54,21 +54,21 @@ Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 
 
 
--> Proto-Indo-European <*ǵr̥h₂yó-s>: "matured, old" (alternate adjective form)
+-> Proto-Indo-European <*ǵr̥h₂yós>: "matured, old" (alternate adjective form)
 
 --> Hellenic
----> Ancient Greek `γεραιός` <geraiós>: "old"
+---> Classical Greek `γεραιός` <geraiós>: "old"
 ----> Latin `Grāius`
 
 
 --> Proto-Indo-European <*ǵr̥h₂yeh₂>: "old person, old women"
 
 ---> Hellenic
-----> Ancient Greek `γραῖα` <graîa>: "old woman"
+----> Classical Greek `γραῖα` <graîa>: "old woman"
 -----> Greek `γριά` <griá>: "old woman"
-----?> Ancient Greek `Γραῖα` <Graîa>: "an ancient Greek city in Boeotia"
------?> Ancient Greek `Τᾰ́νᾰγρ(αῖ)ᾰ` <Tánagr(ai)a>: "Greek city in Boeotia, sometimes identified with Graîa"
-------> Ancient Greek `Γραικός` <Graikós>: "inhabitant of Graia"
+----?> Classical Greek `Γραῖα` <Graîa>: "an Classical Greek city in Boeotia"
+-----?> Classical Greek `Τᾰ́νᾰγρ(αῖ)ᾰ` <Tánagr(ai)a>: "Greek city in Boeotia, sometimes identified with Graîa"
+------> Classical Greek `Γραικός` <Graikós>: "inhabitant of Graia"
 -------> Latin `Graecus`: "Greek" (presumably after early visitors/colonists to southern Italy from Graia)
 --------> Sardinian `grecu`: "Greek"
 --------> Eastern Romance
@@ -86,16 +86,23 @@ Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 ---------> Old English `Grēcland`
 --------> French `grec`: "Greek"
 --------> Gothic `𐌺𐍂𐌴𐌺𐍃` <krēks>: "Greek"
+--------> Slavic <*grьkъ>
+
+
 --------> Latin `Graecia`: "Greece"
 ---------> Western Romance
 ----------> French `Grèce`
 -----------> English `Greece`
 
 
--> Proto-Indo-European <*ǵerh₂ro-s>
+-> Proto-Indo-European <*ǵerh₂ros>
 
 --> Hellenic
----> Ancient Greek `γεραρός` <gerarós>: "old man, respectable, majestic"
+---> Classical Greek `γεραρός` <gerarós>: "old man, respectable, majestic"
+
+--> Indo-Iranian 
+---> Iranian <jár̥Hrah>
+----> Avestan `𐬰𐬀𐬎𐬭𐬎𐬭𐬀‎` <zaurura>: "old age"
 
 
 
@@ -107,7 +114,7 @@ Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 ----> Armenian `ծերունի` <ceruni>: "old person, aged, senile"
 
 --> Hellenic
----> Ancient Greek `γέρων` <gérōn>: "old, old man, elders, council of elders"
+---> Classical Greek `γέρων` <gérōn>: "old, old man, elders, council of elders"
 ----> Greek `γέροντας` <gérontas>
 ----> English `geronto-`
 
@@ -118,7 +125,7 @@ Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 ----> Northern Iranian
 -----> Scythian
 ------> Alanian <*zarand>
--------> Ancient Greek `Ζάρανδος` <Zárandos> (personal name)
+-------> Classical Greek `Ζάρανδος` <Zárandos> (personal name)
 ------> Ossetian `зӕронд` <zærond>: "old, ancient, archaic"
 
 --> Messapic
@@ -129,12 +136,12 @@ Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 ---> Kuchean <śrāñ->: "old"
 
 
--> Proto-Indo-European <*ǵērh₂-s>
+-> Proto-Indo-European <*ǵērh₂s>
 
 --> Hellenic
----> Ancient Greek `γῆρας` <gêras>: "age, old age"
+---> Classical Greek `γῆρας` <gêras>: "age, old age"
 ----> English `geriatric`
----?> Ancient Greek `γέρας` <géras>: "gift of honour, gift, perquisite, reward"
+---?> Classical Greek `γέρας` <géras>: "gift of honour, gift, perquisite, reward"
 
 
 -> Proto-Indo-European <*ǵérh₂o>: "old person, old man"
@@ -163,11 +170,11 @@ Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 -------> Danish `Karl`
 --------> Kalaallisut `Kaarali`
 -------> Icelandic `Karl`
--------> English `Carl`
+-------> English `Carl`»1
 -----> West Germanic
 ------> Old High German <*Karal>
 -------> German `Karl`
---------> English `Carl`
+--------> English `Carl`»1
 -------> Latin `Carolus`
 --------> Western Romance
 ---------> Old French `Carles`
@@ -216,7 +223,7 @@ Proto-Indo-European <*ǵerh₂->: "to grow old, to mature"
 ---> Old Irish `grán`
 ----> Irish `grán`: "grain"
 
---> Germanic <*kurną>: "grain, cereal"
+--> Germanic <*kurnã>: "grain, cereal"
 ---> East Germanic
 ----> Gothic `𐌺𐌰𐌿𐍂𐌽` <kaurn>: "grain, seed"
 -----> Crimean Gothic `kor`: "wheat, grain"

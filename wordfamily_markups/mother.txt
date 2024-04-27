@@ -5,7 +5,7 @@ tags: Divinities, Family
 
 startintro
 
-<ma>: "mother", Proto-World! Or—more likely—convergent development from onamatopoeia of nursing sounds.
+<ma>: "mother" from Proto-World! Or—more likely—convergent development from onomatopoeia of nursing sounds.
 
 endintro
 
@@ -82,10 +82,10 @@ Proto-World? <ma>
 -----> Middle Chinese `母` <məuˣ>: "mother"
 ------> Mandarin `母` <mǔ>: "mother"
 ------> Vietnamese `mẫu`: "mother"
+------> Middle Chinese `母親` <məuˣ tsʰiɪn>: "mother (formal), dear mother"
+-------> Mandarin `母親` <mǔqīn>: "mother (formal)"
 -----> Min
 ------> Hokkien `母` <bú>: "mother"
-------> Middle Chinese `母親` <məuX tsʰiɪn>: "mother (formal), dear mother"
--------> Mandarin `母親` <mǔqīn>: "mother (formal)"
 
 ----> Old Chinese <*maːʔ>: "mom, mama"
 -----> Middle Chinese `媽` <muoˣ>: "mom"
@@ -387,7 +387,7 @@ The Anatolian reflex would be be greatly illuminating. Unfortunately, the only a
 See also Gaulish word for "sister" only attested in the dative dual
 
 
-### The English usage of `alma mater` to mean the school one graduated from is derived from the motto of the University of [Bologna|bee]: "Alma Mater Studiorum". University of Bologna has been in continuous operation (since 1088), and is the institution for whom the word `university` (or rather `ūniversitās`) was coined. Alumni of Bologna include Copernicus, Petrarch, and Paracelsus. (`alumnus` is related to `alma`, and means "the one who is nourished, foster child, student".)
+### The English usage of `alma mater` to mean the school one graduated from is derived from the motto of the University of Bologna: "Alma Mater Studiorum". University of Bologna has been in continuous operation (since 1088), and is the institution for whom the word `university` (or rather `ūniversitās`) was coined. Alumni of Bologna include Copernicus, Petrarch, and Paracelsus. (`alumnus` is related to `alma`, and means "the one who is nourished, foster child, student".)
 
 
 

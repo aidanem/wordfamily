@@ -14,6 +14,9 @@ Proto-Indo-European <*sed->: "to sit" ####
 ----> Cornish `hedhi`: "to stop, to pause"
 ---> Old Irish `saidid`: "to sit"
 ----> Irish `suigh`: "to sit, to set, to settle, to arrange, to rent"
+----> Old Irish `tánais(t)e`: "second"
+-----> Irish `tánaiste`: "tanist, heir presumptive, second in command, deputy"
+------> English `tanist`
 ---> Celtic <*exs-dī-sedeti> ("out-from-sit")
 ----> Brythonic
 -----> Welsh `eistedd`: "to sit"
@@ -49,7 +52,8 @@ Proto-Indo-European <*sed->: "to sit" ####
 -----> Armenian `զիստ` <zist>: "thigh, haunch"
 
 --> Balto-Slavic <*sēˀstei>
----> Old Prussian `sindants`: "sitting"
+---> West Baltic
+----> Old Prussian `sindants`: "sitting"
 ---> Slavic <*sěsti>: "to sit down"
 ----> East Slavic
 -----> Russian `сесть` <sestʹ>: "to sit down"
@@ -69,9 +73,9 @@ Proto-Indo-European <*sed->: "to sit" ####
 ------> Dhivehi `އިންނަނީ` <in̊nanī>
 -----> Pali <sīdati>
 
---> Italic <*sizdō>
----> Latin `sīdō`: "I sit, I seat, I settle, I sink down"
-----> Latin `subsīdō`
+--> Italic <*sizdezi>
+---> Latin `sīdere`: "I sit, I seat, I settle, I sink down"
+----> Latin `subsīdere`
 -----> English `subside`
 ---> Umbrian `𐌔𐌉𐌔𐌕𐌖` <sistu>
 
@@ -88,8 +92,10 @@ Proto-Indo-European <*sed->: "to sit" ####
 -> Proto-Indo-European <*sodéyeti>: "causes to sit, sets, seats" (causative)
 
 --> Balto-Slavic <*sōˀdeitei>
----> Lithuanian `sodinti`: "to set, to plant"
----> Old Prussian `saddinna`: "sets"
+---> East Baltic
+----> Lithuanian `sodinti`: "to set, to plant"
+---> West Baltic
+----> Old Prussian `saddinna`: "sets"
 ---> Slavic <*sadìti>: "to plant"
 ----> East Slavic
 -----> Russian `сади́ть` <sadítʹ>: "to seat, to plant, to imprison"
@@ -175,7 +181,7 @@ Proto-Indo-European <*sed->: "to sit" ####
 -> Proto-Indo-European <*sedéh₂yeti> (causative/factitive)
 
 --> Italic
----> Latin `sēdō`: "I settle, I calm, I make still, I stop"
+---> Latin `sedare`: "I settle, I calm, I make still, I stop"
 ----> Central Romance
 -----> Italian `sedare`: "to sedate, to soothe, to cool"
 ----> Latin `sēdātus`: "calmed, stilled, ended"
@@ -196,8 +202,8 @@ Proto-Indo-European <*sed->: "to sit" ####
 ----> West Slavic
 -----> Polish `siedzieć`: "to sit"
 
---> Italic <*sedēō>
----> Latin `sedeō`: "I sit, I preside, I settle, I remain"
+--> Italic <*sedēzi>
+---> Latin `sedere`: "I sit, I preside, I settle, I remain"
 ----> Central Romance
 -----> Italian `sedere`: "to sit"
 ----> Eastern Romance
@@ -206,20 +212,20 @@ Proto-Indo-European <*sed->: "to sit" ####
 -----> French `seoir`: "to be situated, to be suitable, to sit down"
 -----> Spanish `ser`: "to be" (suppletive verb, most of the conjugated forms are from `sum`)
 
-----> Latin `assideō`: "I sit next to, I attend on, I assist, I resemble" #####
+----> Latin `assidere`: "I sit next to, I attend on, I assist, I resemble" #####
 -----> Latin `assessus`
 -----> English `assess` #####
 
-----> Latin `dissideō`: "I sit apart, I am divided, I disagree"
+----> Latin `dissidere`: "I sit apart, I am divided, I disagree"
 -----> Latin `dissidēns`
 ------> French `dissident`: "dissident, dissenting"
 -------> English `dissident`
 
-----> Latin `obsideō`: "I sit up against, I sit near, I stay, I frequent, I besiege, I detain, I guard"
+----> Latin `obsidere`: "I sit up against, I sit near, I stay, I frequent, I besiege, I detain, I guard"
 -----> Latin `obsessus`
 ------> English `obsess`
 
-----> Latin `possideō`: "I have, I own, I possess, I occupy, I control" (literally "able to sit (on), able to inhabit")
+----> Latin `possidere`: "I have, I own, I possess, I occupy, I control" (literally "able to sit (on), able to inhabit")
 -----> Central Romance
 ------> Italian `possedere`: "to possess, to own, to master"
 -----> Western Romance
@@ -228,7 +234,7 @@ Proto-Indo-European <*sed->: "to sit" ####
 ------> Spanish `poseer`: "to possess, to own"
 -----> French `posséder`: "to own, to possess"
 
-----> Latin `praesideō`: "I sit in front of, I guard, I preside over"
+----> Latin `praesidere`: "I sit in front of, I guard, I preside over"
 -----> Central Romance
 ------> Italian `presiedere`: "to preside"
 -----> Western Romance
@@ -254,7 +260,7 @@ Proto-Indo-European <*sed->: "to sit" ####
 -------> Russian `прези́диум` <prezídium>: "head of committee"
 --------> English `presidium`
 
-----> Latin `resideō`: "I remain sitting, I linger, I reside, I am left behind"
+----> Latin `residere`: "I remain sitting, I linger, I reside, I am left behind"
 -----> Central Romance
 ------> Italian `risedere`: "to sit again, to reside"
 ------> Italian `risiedere`: "to reside in, to room at, to lie in"
@@ -279,7 +285,7 @@ Proto-Indo-European <*sed->: "to sit" ####
 ----> Latin `sedimentum`: "a settling, a subsidence"
 -----> English `sediment`
 
-----> Latin `supersedeō`: "I sit above, I preside, I refrain, I omit"
+----> Latin `supersedere`: "I sit above, I preside, I refrain, I omit"
 -----> Central Romance
 ------> Italian `soprassedere`: "to postpone"
 -----> Western Romance
@@ -345,7 +351,7 @@ Proto-Indo-European <*sed->: "to sit" ####
 -------> English `cathedra`
 -------> Latin `cathedrālis`: "relating to a bishop's throne, cathedral"
 --------> French `cathédrale`: "cathedral"
----------> English `cathderal`
+---------> English `cathedral`
 ---------> Turkish `katedral`
 --------> Italian `cattedrale`: "cathedral"
 --------> Spanish `catedral`
@@ -439,7 +445,7 @@ Proto-Indo-European <*sed->: "to sit" ####
 ------> English `exodus`
 ----> Classical Greek `κᾰ́θοδος` <káthodos>: "path down, descent"
 -----> English `cathode`
-----> Classical Greek `μέθοδος` <méthodos>: "path behind, pursuit, pursuit of knowledge, inquiry, doctrine, method, trick"
+----> Classical Greek `μέθοδος` <méthodos>: "path to follow, pursuit, pursuit of knowledge, inquiry, doctrine, method, trick"
 -----> Greek `μέθοδος` <méthodos>: "method"
 -----> Armenian `մեթոդ` <metʿod>: "method"
 -----> Georgian `მეთოდი` <metodi>: "method"
@@ -487,6 +493,7 @@ Proto-Indo-European <*sed->: "to sit" ####
 ---> Latin `sēdēs`: "seat, chair, residence, place"
 ----> Central Romance
 -----> Italian `sede`: "venue, branch office, see, syllable"
+-----?> English `sedan`
 ----> Western Romance
 -----> Old French `sie`
 ------> English `see` (episcopal capital, diocese)
@@ -661,13 +668,13 @@ Proto-Indo-European <*sed->: "to sit" ####
 
 ---> Indo-Iranian <*niždás>: "nest"
 ----> Indo-Aryan <*niẓḍás>
------> Dardic
-------> Kashmiri `نؽوٗر` <nyūr>: "mea
 -----> Sanskrit `𑀦𑀻𑀟` <nīḍá>: "nest, resting spot, place"
 ------> Pali <nīḍa>
 ------> Sauraseni `𑀡𑀻𑀟` <ṇīḍa>
--------> Madhya
+-------> Madhya Sauraseni
 --------> Hindi `नीड़` <nīṛ>: "nest"
+-------> Northwestern Sauraseni
+--------> Kashmiri `نؽوٗر` <nyūr>: "mountain meadow"
 
 ---> Italic <*nizdos>: "nest"
 ----> Latin `nīdus`: "nest, dwelling"
@@ -724,3 +731,4 @@ Most of the rest of the <*st-> roots are related to "spreading out": <*(s)teg->,
 
 
 endnotes
+

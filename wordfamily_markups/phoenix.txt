@@ -14,7 +14,7 @@ Egyptian <fnḫ>: "carpenter, woodcutter"
 ?> Egyptian <fnḫw>: "woodcutters, Canaanites, Syrians" #
 
 -?> Mycenaean Greek `𐀡𐀛𐀑𐀍` <po-ni-ki-jo>: "trade commodity of some sort" ##
---?> Ancient Greek `φοῖνῐξ` <phoînix>: "Phoenician, purple or crimson, date palm, a guitar-like instrument from Phoenicia, phoenix"
+--?> Classical Greek `φοῖνῐξ` <phoînix>: "Phoenician, purple or crimson, date palm, a guitar-like instrument from Phoenicia, phoenix"
 
 ----> Latin `Poenus`: "a Phoenician, a Carthaginian"
 -----> Latin `pūnicus`: "Carthaginian, Phoenician"
@@ -23,21 +23,20 @@ Egyptian <fnḫ>: "carpenter, woodcutter"
 ----> Latin `phoenīx`: "phoenix"
 -----> English `phoenix`
 
-----> Ancient Greek `Φοινίκη/Φοίνῑσσᾰ` <Phoiníkē/Phoínīssa>: "Phoenicia"
+----> Classical Greek `Φοινίκη/Φοίνῑσσᾰ` <Phoiníkē/Phoínīssa>: "Phoenicia"
 -----> Latin `Phoenīcia`
 ------> English `Phoenicia`
 
-----> Berber
------> Tuareg `ⵜⴼⵉⵏⵗ` <tfingh>: "Tifinagh, a Berber writing system" ###
-
--?> Northwest Semitic
+----> Tamazight
+-----> Tuareg
+------> Tamahaq `ⵜⴼⵉⵏⵗ` <tfingh>: "Tifinagh, a Berber writing system" ###
 
 
 
 Afro-Asiatic
--> Egyptian <wbn>: "to shine, to rise in brilliance"
+->Egyptian <wbn>: "to shine, to rise in brilliance"
 -?> Egyptian <bnw>: "heron god of rebirth, phoenix"
---?> Ancient Greek `φοῖνῐξ` <phoînix>: "Phoenician, purple or crimson, date palm, a guitar-like instrument from Phoenicia, phoenix"
+--?> Classical Greek `φοῖνῐξ` <phoînix>: "Phoenician, purple or crimson, date palm, a guitar-like instrument from Phoenicia, phoenix"
 -> Semitic
 --> Northwest Semitic
 ---> Canaanite
@@ -51,9 +50,9 @@ Afro-Asiatic
 -----> Canaanite
 -----?> Hebrew `פֻוָ֕ה‎` <fuweh>: "a clan name?"
 -----?> Phoenician
-------?> Mycenaean Greek `𐀡𐀛𐀑𐀍` <po-ni-ki-jo>: "trade commodity of some sort" ##
--------?> Ancient Greek `φοῖνῐξ` <phoînix>: "Phoenician, purple or crimson, date palm, a guitar-like instrument from Phoenicia, phoenix"
 -----?> Arabic `فُوَّه` <fuwwah>: "madder, reddish-purple"
+------?> Mycenaean Greek `𐀡𐀛𐀑𐀍` <po-ni-ki-jo>: "trade commodity of some sort" ##
+-------?> Classical Greek `φοῖνῐξ` <phoînix>: "Phoenician, purple or crimson, date palm, a guitar-like instrument from Phoenicia, phoenix"
 
 
 
@@ -63,9 +62,9 @@ Proto-Indo-European <*gʷʰen->: "to strike, to slay, to kill" ####
 -> Proto-Indo-European <*gʷʰóno-s>: "murder"
 
 --> Hellenic
----> Ancient Greek `φόνος` <phónos>: "murder"
+---> Classical Greek `φόνος` <phónos>: "murder"
 ----> Greek `φόνος` <fónos>: "murder"
-----> Ancient Greek `Τισιφόνη` <Tisiphónē>: "Avenging-Murder, the Fury who punishes crimes of murder"
+----> Classical Greek `Τισιφόνη` <Tisiphónē>: "Avenging-Murder, the Fury who punishes crimes of murder"
 -----> English `Tisiphone`
 
 --> Germanic <*banô>: "murder"
@@ -77,8 +76,8 @@ Proto-Indo-European <*gʷʰen->: "to strike, to slay, to kill" ####
 -> Proto-Indo-European <*gʷʰonyó-s>: "murderous, baneful"
 
 --> Hellenic
---?> Ancient Greek `φοινός` <phoinós>: "bloody, blood-red, blood thirsty, deadly"
----?> Ancient Greek `φοῖνῐξ` <phoînix>: "Phoenician, purple or crimson, date palm, a guitar-like instrument from Phoenicia, phoenix"
+--?> Classical Greek `φοινός` <phoinós>: "bloody, blood-red, blood thirsty, deadly"
+---?> Classical Greek `φοῖνῐξ` <phoînix>: "Phoenician, purple or crimson, date palm, a guitar-like instrument from Phoenicia, phoenix"
 
 endbody
 
@@ -88,15 +87,15 @@ startnotes
 # Egypt got much of its lumber in trade from Canaan/Lebanon
 
 
-## There are many theories about what <po-ni-ki-jo> might refer to. In context, all that can be deduced for certain is that it is a trade commodity. But it is formally equivalent to later Ancient Greek `φοῖνῐξ` <phoînix>.
+## There are many theories about what <po-ni-ki-jo> might refer to. In context, all that can be deduced for certain is that it is a trade commodity. But it is formally equivalent to later Classical Greek `φοῖνῐξ` <phoînix>.
 
-Ancient Greek `φοῖνῐξ` <phoînix> means a number of things, but probably at heart means "Phoenician" and from there is used to refer to a number of things associated with the Phoenicians: Tyrean purple (the famous dye of the Pheonicians), date palm trees, dates, a Phoenician musical instrument, and the phoenix.
+Classical Greek `φοῖνῐξ` <phoînix> means a number of things, but probably at heart means "Phoenician" and from there is used to refer to a number of things associated with the Phoenicians: Tyrean purple (the famous dye of the Pheonicians), date palm trees, dates, a Phoenician musical instrument, and the phoenix.
 
 It is probably a conflation of two or more etymologies, including Egyptian <fnḫw>: "Canaanites", Greek `φοινός` <phoinós>: "bloody, blood-red", Egyptian <bnw>: "a divine bird associated with rebirth", and/or a Semitic root which also gave Arabic `فُوَّه` <fuwwah>: "madder, reddish-purple". One or more of these sources might come from one of the others.
 
 
 
-### Tifinagh is a Berber writing system descendant of the Phoenician alphabet. The name is likely a Berberised feminine plural cognate of "Punic", (ti- is a feminine nominalization prefix in Berber languages); thus tifinagh reasonably means "the Phoenician (letters)".
+### Tifinagh is a Tamazight writing system descendant of the Phoenician alphabet. The name is likely a feminine plural cognate of "Punic", (ti- is a feminine nominalization prefix in Tamazight languages); thus `tifinagh` reasonably means "the Phoenician (letters)".
 
 
 #### This is a very abbreviated treatment of PIE <*gʷʰen->, which is a large and important family itself, and probably not the most important of the sources conflated into `φοῖνῐξ` <phoînix>. 

@@ -1,4 +1,4 @@
-date: 20180523
+date: 20180323
 theme: Bees
 tags: Animals, Toponymy
 
@@ -77,7 +77,7 @@ Proto-Indo-European <*bʰewh₂->: "to hit, to strike"
 -----> East Slavic
 ------> Russian `бить` <bitʹ>: "to beat, to clap, to chime"
 -----> South Slavic
-------> Serbo-Croatian `би̏ти` <bȉti>: "to beat, to hit, to strike" ###
+------> Serbo-Croatian `би̏ти` <bȉti>»2: "to beat, to hit, to strike" ###
 -----> West Slavic
 ------> Polish `bić`: "to beat, to mint, to forge, to ring"
 
@@ -148,8 +148,9 @@ Proto-Indo-European <*bʰewh₂->: "to hit, to strike"
 
 --> Proto-Indo-European <*bʰikwó->: "striker, stinger, bee"
 
----> Balto-Slavic
-----> Lithuanian `bitė`: "bee"
+---> Balto-Slavic <*bitē>
+----> East Baltic
+-----> Lithuanian `bitė`: "bee"
 ----> Slavic <*bьčelà>: "bee"
 -----> East Slavic
 ------> Russian `пчела́` <pčelá>: "bee"
@@ -157,6 +158,8 @@ Proto-Indo-European <*bʰewh₂->: "to hit, to strike"
 ------> Serbo-Croatian `пчѐла` <pčèla>: "bee"
 -----> West Slavic
 ------> Polish `pszczoła`: "honey bee"
+----> West Baltic
+-----> Old Prussian `bitte`: "bee"
 
 ---> Celtic <*bekos>
 ----> Brythonic
@@ -178,6 +181,7 @@ Proto-Indo-European <*bʰewh₂->: "to hit, to strike"
 ------> Scots `bee`: "bee, caprice, fanciful idea"
 ------> Old English `Bēoƿulf`: "Beowulf" #######
 -------> English `Beowulf`
+------> Old English `Beoƿīc`: "Bee-Town"»1 {Toponymy}
 
 ----> Germanic <*biniz>
 -----> West Germanic
@@ -219,11 +223,10 @@ Germanic <*Boiohaimaz> is the land ("home") of the Boii. Germanic <*Boiowarjaz> 
 
 In Italty <Bononia> (modern <Bologna>) was one of their major settlements, presumably from Celtic <*Boi-bona>: "Boii Settlement". Compare <*Windo-bona>: "white fort/settlement", modern Vienna. There are some places in France called <Boulogne>, which likely have the same etymology, but are not in the part of France settled by the Boii, may have been named by Roman settlers from the other Bononia.
 
-###### Venetic `𐌘𐌏𐌉𐌉𐌉𐌏(𐌔)` <Boiiios> is interpreted as a family name in the name "Lemetor Boios". Alternatively, could be an ethnic designator borrowed from the Celtic, thus "Lemetor the Boii". (Venetic inscription in Old Italic script at Este in northern Italy)
+###### Venetic `𐌘𐌏𐌉𐌉𐌉𐌏(𐌔)` <Boiiios> is interpreted as a family name in the name "Lemetor Boios". Alternatively, could be an ethnic designator borrowed from the Celtic, thus "Lemetor the Boii". (Venetic inscription at Este in northern Italy)
 
 ####### Beowulf, literally "bee-wolf", is a kenning for a bear. There is some good evidence that Beowulf is a reflex of a Germanic archetype sometimes called "The Bear's Son". The archetype is also represented by Bödvar Bjarki ("Bodvar Little-Bear") who has some of the same adventures as Beowulf, but also has the ability to either turn into a bear or to project his spirit in the form of a bear.
 
 
 endnotes
-
 

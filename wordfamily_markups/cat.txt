@@ -22,10 +22,12 @@ Egyptian <*Caw> ##
 ----> Ottoman Turkish `کدی` <kädi>
 -----> Turkish `kedi`: "cat"
 
---> Berber <*kaddîska>: "wildcat"
+--> Tamazight <*kaddîska>: "wildcat"
 
 --> Nubian <kadís>: "cat"
 --?> Latin `cattus`: "cat" #
+----> Central Romance
+-----> Italian `gatto`: "cat"
 ----> Eastern Romance <*catu>
 -----> Eastern Romance <*catusa> (diminutive)
 ------> Aromanian `cãtushi`: "cat"
@@ -33,10 +35,13 @@ Egyptian <*Caw> ##
 ----> Western Romance
 -----> Old French `cate`
 ------> French `chat`: "cat"
+-------> French `chatoyer`: "to shimmer, to iridesce" (like a cat's eye)
+--------> French `chatoyant`
+---------> English `chatoyant`!
+----------> English `chatoyancy`
 ------> Old French `catepeluse`: "caterpillar" (lit. "fuzzy-cat")
--------> English `caterpillar`
------> Italian `gatto`: "cat"
------> Spanish `gato`: "cat"
+-------> English `caterpillar`!
+------> Spanish `gato`: "cat"
 -----> Basque `katu`: "cat"
 ----> Maghrebi Arabic
 -----> Libyan Arabic `قَطُّوس‎` <gaṭṭūs>
@@ -55,7 +60,7 @@ Egyptian <*Caw> ##
 -------> Finnish `katti`: "cat" (colloquial)
 -----> West Germanic
 ------> Old English `catt(e)`
--------> English `cat`
+-------> English `cat`!
 --------> English `kitty`: "cat" (dimunitive)
 ---------> Navajo `gídí`: "cat"
 ------> Frankish
@@ -90,8 +95,8 @@ endbody
 
 startnotes
 
-## A large number of Egyptian consonants would become Coptic  `ϣ`/<š> in this position, so it's impossible to reconstruct what it would have been. Honestly, there are several possibilities for the vowels, too.
+## A large number of Egyptian consonants would become Coptic  `ϣ`=cop-Copt/<š> in this position, so it's impossible to reconstruct what it would have been. Honestly, there are several possibilities for the vowels, too.
 
-# The Latin and Greek roots used in scientific English, Latin <fēlēs> and Greek <ἴλουρος> (aílouros), are both primarily words from before domestic cats were introduced to those cultures, and the word "cattus" was introduced along with domestic cats. Similarly, the earlier Slavic <*mačьka>, was mostly replaced in East and West Slavic with introduction of domestic cats (but mostly retained in South Slavic).
+# The Latin and Greek roots used in scientific English, Latin `fēlēs`=lat-Latn and Greek `ἴλουρος`=grc-Grek <aílouros>, are both primarily words from before domestic cats were introduced to those cultures, and the word "cattus" was introduced along with domestic cats. Similarly, the earlier Slavic <*mačьka>, was mostly replaced in East and West Slavic with introduction of domestic cats (but mostly retained in South Slavic).
 
 endnotes

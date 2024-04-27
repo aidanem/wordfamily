@@ -99,11 +99,11 @@ Proto-Indo-European <*mey->: "to exchange, to intermingle"
 ---> Iranian <*miθráh>
 ----> Avestan `𐬨𐬌𐬚𐬭𐬀` <miθra>: "contract, agreement, Mithra the Zoroastrian Divinity of Oaths"
 -----> Old Persian `𐎷𐎰𐎼` <miθra>: "contract, agreement, Mithra"
-------> Persian `مهر` <mehr>: "kindness, love, friendship, prosperity, Mithhra, the Sun"
+------> Persian `مهر` <mehr>»1: "kindness, love, friendship, prosperity, Mithhra, the Sun"
 -------> Persian `مهربان` <mehrabân>: "kind, gracious"
 --------> Hindi `मेहरबान` <meharbān>: "kind"
 ------> Arabic `مَهْر` <mahr>: "contract, signet, seal, marriage portion"
--------> Persian `مهر` <mahr>: "contract, covenant, marriage portion"
+-------> Persian `مهر` <mahr>»2: "contract, covenant, marriage portion"
 ------> Classical Greek `Μίθρας` <Míthras>: "Mithra" (or various Helleno-Zoroastrian syncretic figures of the same name)
 -------> Latin `Mithras`
 --------> English `Mithra`!

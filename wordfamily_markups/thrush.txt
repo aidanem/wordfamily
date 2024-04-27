@@ -58,7 +58,7 @@ startbody
 -----> Spanish `tordo`: "thrush"
 
 
--> Greco-Armenian? <*drodʰ-> #
+-> Greco-Armenian <*drodʰ-> #
 
 --> Armenian `տորդիկ` <tordik>: "thrush" (archaic)
 ---> Armenian `Տորդիկ` <Tordik>: "Thrush (surname)"

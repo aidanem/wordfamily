@@ -32,8 +32,8 @@ Proto-Indo-European <*bʰrewh₁->: "to boil, to brew"
 ------> Dutch `broeien`: "to be hot, to heat up"
 -------> Dutch `broeikas`: "greenhouse"
 ------> Old French `bruir`: "to burn"
--------> Old French `brusler` (conflation with `(b)usler` from Latin `(b)ustulō`)
---------> French `brûler`
+-------> Old French `brusler`»1 (conflation with `(b)usler` from Latin `(b)ustulō`)
+--------> French `brûler`: "to burn"
 ---------> French `crème brûlée`
 ----------> English `crème brûlée`
 --------> English `broil`
@@ -114,6 +114,10 @@ Proto-Indo-European <*bʰrewh₁->: "to boil, to brew"
 ------> English `firebrand`
 ----> Frankish <*brand>: "fire, torch, sword"
 -----> Dutch `brand`: "fire"
+------> Dutch `branden`: "to be burn, to set alight"
+-------> Dutch `​​brandewijn`: "brandy, distilled liquor" (lit. "burnt wine"
+--------> English `brandywine`
+---------> English `brandy`
 -----> Vulgar Latin <*brandus>: "fire, torch, sword"
 ------> French `branler`: "to shake, to masturbate"
 ------> Vulgar Latin <*brandio>: "I brandish (a sword)"
@@ -128,7 +132,7 @@ Proto-Indo-European <*bʰrewh₁->: "to boil, to brew"
 
 -> Proto-Indo-European <*bʰrewh₁néw-ti> (transitive imperfective)
 
---> Germanic <*brinnanã>: "to burn, to be on fire"
+-?> Germanic <*brinnanã>: "to burn, to be on fire" ####
 ---> East Germanic
 ----> Gothic `𐌱𐍂𐌹𐌽𐌽𐌰𐌽` <brinnan>: "to burn"
 ---> North Germanic
@@ -283,7 +287,12 @@ startnotes
 
 ### Bourbon l'Archembault (Latin `Borbanus` and probably Gaulish <*Borwanicos>) is a French spa town (and thus solidly under the purview of the Gaulish god Borwō, divinity of healing springs). "l'Archembault" part of the name refers to the House Dampierre Lords of Bourbon from c. 900 to 1249, of whom 9 out of 12 were named Archambaud.
 
-After Archambaud IX, Lordship of Bourbon passed to each of his two daughters in turn, then to his grandaughter Beatrice, Lady of Bourbon, and then to her son Louis I, Duke of Bourbon, who father was the 6th son of Saint Louis IX Capet of France, thus founding the House of Bourbon as a cadet branch of House Capet.
+After Archambaud IX, Lordship of Bourbon passed to each of his two daughters in turn, then to his granddaughter Beatrice, Lady of Bourbon, and then to Beatrice's son Louis I, Duke of Bourbon, whose father was the 6th son of Saint Louis IX Capet of France, thus founding the House of Bourbon as a cadet branch of House Capet.
 
+The direct House Capet male line failed in 1328 and kingship passed to House Valois (another cadet branch) and then to House Bourbon (technically Bourbon-Vendôme) in 1589 with the end of the Valois male line.
+
+#### Or from <*gʷʰer->: "warm, hot", see wff-thermos
 
 endnotes
+
+

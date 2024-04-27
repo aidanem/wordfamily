@@ -10,6 +10,14 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 
 -> Proto-Indo-European <*gʷíh₃weti>: "to be alive" 
 
+---> Old Armenian `կեամ` <keam>: "to live, to be alive, to breathe, to exist"
+----> Old Armenian `կեանք` <keankʿ>: "life, health, living, habits, possessions, the world"
+-----> Armenian `կյանք` <kyankʿ>: "life, lifestyle, sustenance, "
+-----> Armenian `կենս-` <kens->: "bio-"
+-----> Old Armenian `կենդանի` <kendani>
+------> Old Armenian `կենդանակերպ` <kendanakerp>: "sign of the zodiac" (lit. ~"image of living")
+
+
 --> Balto-Slavic
 ---> East Baltic
 ----> Lithuanian `gyventi`: "to live, to inhabit"
@@ -23,24 +31,29 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 -----> Polish `żyć`: "to live, to be alive"
 
 --> Hellenic <*ďṓwō>: "I live"
----> Ancient Greek `ζάω` <záō>: "I live"
+---> Classical Greek `ζάω` <záō>: "I live"
 ----> Greek `ζω` <zo>: "live, endure, sustain"
-----> Ancient Greek `ζωή` <zōḗ>: "life, a living"
------> Ancient Greek `Ζωή` <Zoe>: "given name" ##
+----> Classical Greek `ζωή` <zōḗ>: "life, a living"
+-----> Classical Greek `Ζωή` <Zoe>: "given name" ##
 ------> English `Zoe`
+-----> Classical Greek `ζωγράφος` <zōgráphos>: "a painter or drawer of living things, a painter"
+------> Greek `ζωγράφος` <zográfos>: "painter, artist"
+-------> Romanian `zugrav`: "painter"
 
 --> Indo-Iranian
 ---> Indo-Aryan
 ----> Sanskrit `𑀚𑀻𑀯𑀢𑀺` <jī́vati>: "to live, to support, to nourish, to seek a livelihood"
 -----> Magadhi
 ------> Assamese `জীয়া` <zia>: "to live, alive, animate, fresh"
+-----> Pali <jīvati>: "to live, to be alive, to subsist on"
 -----> Sauraseni `𑀚𑀻𑀯𑀤𑀺` <jīvadi>
 ------> Madhya
 -------> Hindi `जीना` <jīnā>: "to live"
 ------> Pahari
 -------> Nepali `जिउनु` <jiunu>: "to live, to survive"
 -------> Punjabi `ਜਿਊਣਾ` <jiūṇā>: "to live"
-------> Pali <jīvati>: "to live, to be alive, to subsist on"
+------> Western Sauraseni
+-------> Romani `ʒivel`: "to live"
 ---> Iranian
 ----> Avestan `𐬘𐬎𐬎𐬀𐬌𐬙𐬌` <juuaiti>
 ----> Western Iranian
@@ -104,6 +117,10 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 ---> Old Irish `béo`: "alive, living, living thing"
 ----> Irish `beo`: "alive, living, lively, life, living thing, livelihood, quick (sensitive flesh)"
 
+
+
+
+
 --> Germanic <*kwiwaz>
 ---> East Germanic
 ----> Gothic `𐌵𐌹𐌿𐍃` <qius>: "alive, lively"
@@ -131,7 +148,7 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 
 
 --> Hellenic <*gʷīwos>
----> Ancient Greek `βίος` <bíos>: "life"
+---> Classical Greek `βίος` <bíos>: "life"
 ----> English `bio-`
 -----> English `biology`
 ----> Greek `βίος`: "life, lifespan, quality of life, biography"
@@ -179,6 +196,8 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 ---> Balto-Slavic <*gʔiwot->
 ----> East Baltic
 -----> Lithuanian `gyvatà`: "life"
+----> West Baltic
+-----> Old Prussian `giwato`: "life"
 ----> Slavic <*živõtъ>: "life, belly"
 -----> East Slavic
 ------> Russian `живо́т` <živót>: "belly, stomach, life (archaic)"
@@ -189,17 +208,28 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 ------> Polish `żywot`: "life (archaic)"
 -------> Polish `żywotny`: "vigorous, full of life, animate"
 
+---> Celtic <*biwotūts>: "life"
+----> Brythonic <*bɨwöd>
+-----> Welsh `bywyd`: "life, existence, lifetime, livelihood, wealth"
+----> Old Irish `bethu`
+-----> Irish `beatha`: "life, biography, livelihood, sustenance"
+------> Irish `uisce beatha`: "whiskey"  (lit. ["water of life", calque of Latin `aqua vītae`])
+-------> English `whiskey`
+------> Old Irish `Mac Bethaid`: "Son of Life"
+-------> English `Macbeth`
+
 ---> Hellenic
-----> Ancient Greek `βίοτος` <bíotos>: "life"
+----> Classical Greek `βίοτος` <bíotos>: "life"
 
 ---> Indo-Iranian
 ----> Indo-Aryan
 -----> Sanskrit `𑀚𑀻𑀯𑀺𑀢` <jīvitá>: "living, enlivened, animated, life, living being, livelihood, lifespan"
-------> Madhya
--------> Hindi `जीवित` <jīvit>: "alive, living"
 ------> Maharashtri
 -------> Sinhala `ජීවිතය` <jīvitaya>: "life"
-------> West Indo-Aryan
+------> Sauraseni
+-------> Madhya
+--------> Hindi `जीवित` <jīvit>: "alive, living"
+------> Western Sauraseni
 -------> Romani `zhuvipe`: "life"
 ------> Telugu `జీవితము` <jīvitamu>: "living, existence, life"
 ------> Pali <*jīvita>
@@ -237,26 +267,35 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 --> Proto-Indo-European <*gʷih₃wyom> "living thing"
 
 ---> Hellenic <*ďṓyyon>: "animal, creature, beast"
-----> Ancient Greek `ζῷον` <zôion>: "animal, beast"
+----> Classical Greek `ζῷον` <zôion>: "animal, beast"
 -----> Greek `ζώο` <zóo>: "animal, beast, mammal"
 -----> Coptic `ⲍⲱⲟⲛ` <zōon>: "animal"
 -----> English `zoo-`: "pertaining to animals"
 ------> English `zoology`
 -------> English `zoological garden`
 --------> English `zoo`
+-----> Classical Greek `ζῴδιον` <zṓidion>: "small animal, animal figure, sign of the zodiac"
+------> Classical Greek `ζῳδιακός` <zōidiakós>: "relating to small animals, relating to the zodiac"
+-------> Latin `zōdiacus`
+--------> Western Romance
+---------> French `zodiaque`
+----------> English `zodiac`
 
 
--> Proto-Indo-European <*gʷeyh₃tos>
 
---> Balto-Slavic <*geit->
----> Old Prussian <geytye>: "bread"
+-> Proto-Indo-European <*gʷeyh₃to->: "food, nourishment, life-sustaining"
+
+--> Balto-Slavic <*geiˀta>
+---> West Slavic
+----> Old Prussian <geytye>: "bread"
 ---> Slavic <*žìto>: "grain"
 ----> East Slavic
------> Russian `жи́то` <žíto>: "grain"
+-----> Russian `жито` <žíto>: "grain"
 ----> South Slavic
 -----> Old Church Slavonic `жито` <žito>: "grain"
 -----> Serbo-Croatian `жи̏то` <žȉto>: "wheat, koliva"
 ----> West Slavic
+-----> Czech `žito`: "rye"
 -----> Polish `żyto`: "rye"
 
 --> Celtic <*bētom>: "food"
@@ -264,6 +303,26 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 ----> Welsh `bwyd`: "food"
 ---> Old Irish `bíad`
 ----> Irish `bia`: "food, substance"
+
+--> Italic <gʷītos>
+---> Latin `vīctus`: "lifestyle, nourishment, what sustains life" (with `c` by analogic contamination)
+----> Central Romance
+-----> Italian `vitto`: "food"
+----> Eastern Romance
+-----> Aromanian `yiptu`: "grain, cereal, corn"
+-----> Romanian `vipt`: "food (archaic)"
+----> Latin `convīctus`: "communal life, communal eating, banquet"
+-----> Central Romance
+------> Italian `convitto`: "boarding school"
+----> Latin `vīctuālis`: "nutritional"
+-----> Central Romance
+------> Italian `vettovaglie`: "victuals"
+-----> Western Romance
+------> Old French `vitaille`
+-------> French `victuaille`: "provisions, victuals" (partially remodeled to the Latin)
+--------> English `victual(s)`
+------> Spanish `vitualla`
+
 
 
 -> Proto-Indo-European <*h₂yugʷih₃s>: "long life" ####
@@ -276,8 +335,11 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 -----> Gothic `𐌰𐌾𐌿𐌺𐌳𐌿𐌸𐍃` <ajukduþs>: "eternity"
 
 --> Hellenic
----> Ancient Greek `ὑγιής` <hugiḗs>: "healthy, strong, wholesome"
-----> Ancient Greek `ὑγιεινή` <hugieinḗ>: "healthy practices, promoting health"
+---> Classical Greek `ὑγιής` <hugiḗs>: "healthy, strong, wholesome"
+----> Classical Greek `ὑγίεια` <hugíeia>: "health"
+-----> Greek `υγεία` <ygeía>: "health"
+------> Greek `γείτσες` <geítses>: "bless you, gesundheit"
+----> Classical Greek `ὑγιεινή` <hugieinḗ>: "healthy practices, promoting health"
 -----> French `hygiène`: "hygiene"
 ------> English `hygiene`
 
@@ -305,7 +367,7 @@ startnotes
 
 ### `vitamin` is a portmanteau of "vital amine". Originally spelled "vitamine" in 1912, the "e" was dropped in 1920 to de-emphasize "amine" when it was determined that vitamin C, and probably a number of other vitamins, had no amine component.
 
-#### In the compound <*h₂yugʷih₃-s>, <*h₂yu-> is the root of "youth", "juvenile", and "-eval" (as in medieval, primeval, etc.) and Scots "aye", meaning "always", "still". (<a href="/word-family-justice.html">Justice WFF</a>)
+#### In the compound <*h₂yugʷih₃-s>, [<*h₂yu-> is the root of "youth", "juvenile", and "-eval"|/word-family-justice.html] (as in medieval, primeval, etc.) and Scots "aye".
 
 Germanic <*ajukiz> is definitely derived from <*h₂yu->, but only tentatively derived from <*h₂yugʷih₃-s>, as a possible explanation for the presence of the <-k->.
 
@@ -322,3 +384,4 @@ if : this : record : not : away-hide : people : you-declare : Ahura Mazda : you 
 
 
 endnotes
+

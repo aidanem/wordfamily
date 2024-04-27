@@ -90,13 +90,13 @@ Proto-Indo-European <*terh₂->: "to cross over, pass through, overcome"
 -> Proto-Indo-European <*térh₂dʰrom> (instrumental)
 
 --> Hellenic
----> Ancient Greek `τέρθρον` <térthron>: "end, extremity, end of the sail-yard"
+---> Classical Greek `τέρθρον` <térthron>: "end, extremity, end of the sail-yard"
 
 
 ?> Proto-Indo-European <*térmn̥>: "boundary"
 
 --> Hellenic
----> Ancient Greek `τέρμα` <térma>: "finish line, goal, conclusion"
+---> Classical Greek `τέρμα` <térma>: "finish line, goal, conclusion"
 ---> Latin `terminus`: "boundary, limit, end"
 ----> Western Romance
 -----> French `terme`: "limit, period of time, word or phrase especially in a specialized field"
@@ -118,7 +118,7 @@ Proto-Indo-European <*terh₂->: "to cross over, pass through, overcome"
 --> Proto-Indo-European <*néḱ-tr̥h₂>: "death-overcome, unperishing"
 
 ---> Hellenic
-----> Ancient Greek `νέκταρ` <néktar>: "drink of the gods, nectar"
+----> Classical Greek `νέκταρ` <néktar>: "drink of the gods, nectar"
 -----> Latin `nectar`: "nectar"
 ------> Western Romance
 -------> Italian `nettare`: "nectar"

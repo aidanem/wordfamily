@@ -123,7 +123,7 @@ Proto-Indo-European <*terkʷ->: "to turn"
 --> Balto-Slavic
 ---> Slavic <*tъ̑rkъ>: "a run, a sprint"
 ----> South Slavic
------> Old Church  Slavonic `тръкъ` <trŭkŭ>
+-----> Old Church Slavonic `тръкъ` <trŭkŭ>
 -----> Serbo-Croatian `тр̑к` <tȓk>: "a run, the act of running"
 ----> Slavic <*tъrčiti>: "to run, to sprint"
 -----> Serbo-Croatian `тр̀чати` <tr̀čati>: "to run"

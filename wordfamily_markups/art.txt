@@ -1,9 +1,5 @@
 date: 20171229
 theme: Religion 📿
-tags: 
-
-
-
 
 
 startbody
@@ -13,11 +9,214 @@ Proto-Indo-European <*h₂er->: "fit, fix, put together"
 -> Anatolian
 --> Hittite `𒀀𒀀𒊏` <āra>: "right, proper"
 
--> Hellenic
---> Ancient Greek `ᾰ̓́ρᾰ` <ára>: "then, therefore, consequently"
-
 -> Tocharian
 --> Arshian <yär->: "to wash"
+
+
+-> Proto-Indo-European <*h₂er>: "thus, so"
+
+--> Balto-Slavic <*ir>
+---> East Baltic
+----> Lithuanian `ir̃`: "and, even, exactly, and so"
+---> West Baltic
+----> Old Prussian `ir`: "and, even"
+
+--> Hellenic
+---> Classical Greek `ᾰ̓́ρᾰ` <ára>: "then, therefore, consequently"
+
+
+
+-> Proto-Indo-European <*h₂r̥neti> (ne- imperfective)
+
+--> Old Armenian `առնեմ` <aṙnem>
+
+
+-> Proto-Indo-European <*h₂r̥téys>
+
+--> Italic
+---> Latin `ars`: "art, skill, craft, power" (accusative <artem>)
+----> Western Romance
+-----> Old French `art`: "art"
+------> French `art`: "art"
+-------> Haitian Creole `la`: "art"
+------> Middle English `art`: "art"
+-------> English `art`: "art"
+--------> Japanese `アート` <āto>: "art"
+-------> Scots `airt`»1: "art, skill"
+-----> Italian `arte`: "art"
+-----> Spanish `arte`: "art, skill"
+----> Vulgar Latin <*artefacto> ("made by art")
+-----> Western Romance
+------> Italian `artefatto`: "artificial"
+-------> English `artifact`
+----> Latin `iners`: "unskilled, incompetent, lazy" ("without art")
+-----> French `inerte`: "inert, inactive"
+------> English `inert`
+-----> Latin `inertia`: "lack of art, laziness"
+------> French `inertie`: "inertia"
+-------> English `inertia`
+
+
+-> Proto-Indo-European <*h₂r̥tós>: "fitted"
+
+--> Indo-Iranian <*Hr̥tás>
+---> Indo-Aryan
+----> Sanskrit `𑀋𑀢` <ṛtá>: "order, law, rule, piety, faith, truth, righteousness, oath"
+---> Iranian
+----> Avestan <aṣ̌a>
+----> Western Iranian
+-----> Old Persian `𐎠𐎼𐎫` <arta>
+------> Persian `ارد‏` <ard>
+------> Old Persian `𐎠𐎼𐎫𐎧𐏁𐏂` <Artaxšaça>»1: "personal name: Truth-Reign"
+-------> Classical Greek `Ἀρταξέρξης` <Artaxérxēs>»1: "Artaxerxes"
+-------> Hebrew `אַרְתַּחְשַׁשְׂתָּא` <artaḥšásta>»1: "Artaxerxes"
+
+--> Italic
+---> Latin `artus`»1: "narrow, fitted, confined, dense"
+
+
+--> Proto-Indo-European <*h₂éristos>: "most fitted, best fitted, fittest"
+
+---> Hellenic
+----> Classical Greek `ᾰ̓́ρῐστος` <áristos>: "best"
+-----> Classical Greek `ἀριστοκρατίᾱ` <aristokratíā>: "rule by the best, rule by nobles"
+------> Medieval Latin <*aristocratia>
+-------> French `aristocratie`: "aristocracy"
+--------> English `aristocracy`
+
+
+-> Proto-Indo-European <*h₂r̥mós>: "(the act of) fitting, joint"
+
+--> Balto-Slavic
+---> Slavic <*ormę>
+----> South Slavic
+-----> Serbo-Croatian `раме` <rame>: "shoulder"
+----> West Slavic
+-----> Polish `ramię`: "arm"
+
+--> Germanic <*armaz>: "arm (body part)"
+---> East Germanic
+----> Gothic `𐌰𐍂𐌼𐍃` <arms>: "arm"
+---> North Germanic
+----> Old Norse `armr`: "arm"
+-----> Danish `arm`: "arm"
+-----> Icelandic `armur`: "arm"
+---> West Germanic
+----> Old English `earm`: "arm"
+-----> English `arm`
+----> Frankish
+-----> Dutch `arm`: "arm, branch"
+----> Old High German `arm`: "arm"
+-----> German `Arm`: "arm, branch, sleeve"
+-----> Yiddish `אָרעם` <orem>: "arm"
+
+--> Hellenic
+---> Classical Greek `ἁρμός` <harmós>: "joint, link, bolt, peg"
+----> Classical Greek `ἁρμόζω` <harmózō>: "I fit together, I join, I betrothe, I arrange, I govern"
+
+--> Indo-Iranian
+---> Iranian
+----> Avestan <arəm>: "correctly, properly"
+
+--> Italic
+---> Latin `arma`: "armor, weapons, soldiers, 
+----> Western Romance
+-----> Italian `arma`
+------> Italian `all'arme`»1: "to arms"
+-------> French `alarme`»1
+--------> English `alarm`»1
+----> Latin `armo`: "I arm, I equip, I mobilize"
+-----> English `armor`
+-----> English `arms`
+-----> English `armory`
+-----> English `armament`
+-----> English `armature`
+-----> Latin `armarium`
+------> English `armoire`
+------> Portuguese
+-------> Hindi `अलमारी` <almārī>
+
+
+-> Proto-Indo-European <*h₂ermō>
+
+--> Balto-Slavic
+---> Slavic <*arьmò>: "yoke"
+
+
+-> Proto-Indo-European <*h₂r̥monih₂>
+
+--> Hellenic
+---> Classical Greek `ἁρμονίᾱ` <harmoníā>: "a fitting together, a joining"
+----> Latin `harmonia`: "harmony, music, peace"
+-----> Western Romance
+------> French `harmonie`: "harmony"
+-------> English `harmony`
+--------> English `harmonica`
+-------> French `harmonium`: "harmonium"
+--------> English `harmonium`
+------> Italian `armonia`: "harmony"
+------> Spanish `armonía`: "harmony"
+
+
+
+-> Proto-Indo-European <*h₂értus>
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀋𑀢𑀼` <ṛtú>: "a point in time, the right time, season, epoch, period, order, rule"
+-----> Magadhi
+------> Bengali `ঋতু` <ritu>: "season"
+-----> Sauraseni
+------> Madhya
+-------> Hindi `ऋतु` <ŕtu>: "season"
+------> Pali
+-------> Thai `ฤดู` <rʉ́-duu>: "moment, occasion, opportunity, season, time"
+-----> Maharashtri
+------> Sinhala `ඍතුව` <ṛtuva>: "season"
+-----> Telugu `ఋతువు` <r̥tuvu>: "season"
+
+--> Hellenic
+---> Classical Greek `ἀρτύω` <artúō>: "I arrange, I devise, I prepare, I season"
+
+--> Italic
+---> Latin `artus`»2: "joint, sinew, strength, limbs"
+----> Latin `articulātus`: "jointed, distinct, articulated"
+-----> English `articulate`
+
+----> Latin `articulus`: "joint, knuckle, limb, finger, short clause, word, article"
+-----> Western Romance
+------> French `orteil`: "toe"
+------> Italian `artiglio`: "talon, claw"
+------> Spanish `artejo`: "knuckle"
+-----> French `article`: "article, joint, articulation"
+------> English `article`
+-----> Italian `articolo`: "article"
+-----> Spanish `artículo`: "article"
+-----> German `Artikel`: "article, entry, paragraph, clause"
+-----> Irish `airteagal`: "article"
+
+
+-> Proto-Indo-European <*h₂ereh₂ksneh₂>: "sew together?, order-weaver?"
+
+--> Hellenic
+---> Classical Greek `ἀράχνη` <arákhnē>: "spider, spider web"
+----> Greek `αράχνη`: "spider, spider web"
+----> Latin `Arachne`
+----> French `arachnide`: "arachnid"
+-----> English `arachnid`
+
+---?> Latin `arānea`: "spider, spider web, threads" ##
+-----> Eastern Romance
+------> Romanian `râie`: "scab, scabies, itch"
+-----> Western Romance
+------> French `araignée`: "spider"
+------> French `rogne`: "ringworm, anger"
+------> Italian `aragna`: "spider"
+------> Italian `rogna`: "scabies, mange, bother, trouble"
+------> Spanish `araña`: "spider"
+
+
+-> Proto-Indo-European <*h₂reh₁-> (re-analyzed root)
 
 
 -> Proto-Indo-European <*h₂réh₁ti>: "to fit, to fix, to put together" (basic verb form)
@@ -68,212 +267,29 @@ Proto-Indo-European <*h₂er->: "fit, fix, put together"
 -> Proto-Indo-European <*h₂r̥h₁téh₂>
 
 --> Hellenic
----> Ancient Greek `ᾰ̓ρετή` <aretḗ>: "goodness, excellence, virtue, glory, reputation, miracle"
+---> Classical Greek `ᾰ̓ρετή` <aretḗ>: "goodness, excellence, virtue, glory, reputation, miracle"
 ----> Greek `αρετή` <aretí>
 ----> Coptic `ⲁⲣⲉⲧⲏ` <aretē>: "virtue"
 ----> English `arete`
 
---> Proto-Indo-European <*h₂r̥h₂r̥h₁sḱéti>
-
----> Hellenic
-----> Ancient Greek `ἀραρίσκω` <ararískō>: "I join, I fasten, I construct, I prepare, I fit, I furnish, I am fixed, I am suited to, I am agreeable
-------> Ancient Greek `ᾰ̓́ρθρον` <árthron>: "joint, limb, articulation, connecting word, article"
--------> Greek `άρθρο` <árthro>: "article"
--------> English `arthro-`: "to do with joints"
---------> English `arthropod`
---------> English `arthritis`
-
--> Proto-Indo-European <*h₂r̥téys>
-
---> Italic
----> Latin `ars`: "art, skill, craft, power" (accusative <artem>)
-----> Western Romance
------> Old French `art`: "art"
-------> French `art`: "art"
--------> Haitian Creole `la`: "art"
-------> Middle English `art`: "art"
--------> English `art`: "art"
---------> Japanese `アート` <āto>: "art"
--------> Scots `airt`: "art, skill"
------> Italian `arte`: "art"
------> Spanish `arte`: "art, skill"
-----> Vulgar Latin <*artefacto> ("made by art")
------> Western Romance
-------> Italian `artefatto`: "artificial"
--------> English `artifact`
-----> Latin `iners`: "unskilled, incompetent, lazy" ("without art")
------> French `inerte`: "inert, inactive"
-------> English `inert`
------> Latin `inertia`: "lack of art, laziness"
-------> French `inertie`: "inertia"
--------> English `inertia`
 
 
--> Proto-Indo-European <*h₂r̥tós>: "fitted"
+--> Proto-Indo-European <*h₂r̥é(h₁)h₂r̥h₁eti> (reduplicative imperfective)
 
---> Indo-Iranian <*Hr̥tás>
----> Indo-Aryan
-----> Sanskrit `𑀋𑀢` <ṛtá>: "order, law, rule, piety, faith, truth, righteousness, oath"
----> Iranian
-----> Avestan <aṣ̌a>
-----> Western Iranian
------> Old Persian `𐎠𐎼𐎫` <arta>
-------> Persian `ارد‏` <ard>
-------> Old Persian `𐎠𐎼𐎫𐎧𐏁𐏂` <Artaxšaça>: "Artaxerxes (any of 5 Achaemenid monarchs)" (lit. "rule through truth" or "perfected rule")
--------> Ancient Greek `Ἀρταξέρξης` <Artaxérxēs>: "Artaxerxes"
--------> Hebrew `אַרְתַּחְשַׁשְׂתָּא` <artaḥšásta>: "Artaxerxes"
+---> Proto-Indo-European <*h₂r̥(h₁)h₂r̥h₁sḱéti> (reduplicative plus ∅-sḱeti iterative/durative)
 
---> Italic
----> Latin `artus`: "narrow, fitted, confined, dense"
-
-
---> Proto-Indo-European <*h₂éristos>: "most fitted, best fitted, fittest"
-
----> Hellenic
-----> Ancient Greek `ᾰ̓́ρῐστος` <áristos>: "best"
------> Ancient Greek `ἀριστοκρατίᾱ` <aristokratíā>: "rule by the best, rule by nobles"
-------> Medieval Latin <*aristocratia>
--------> French `aristocratie`: "aristocracy"
---------> English `aristocracy`
-
-
--> Proto-Indo-European <*h₂r̥mós>: "(the act of) fitting, joint"
-
---> Balto-Slavic
----> Slavic <*ormę>
-----> South Slavic
------> Serbo-Croatian `раме` <rame>: "shoulder"
-----> West Slavic
------> Polish `ramię`: "arm"
-
---> Germanic <*armaz>: "arm (body part)"
----> East Germanic
-----> Gothic `𐌰𐍂𐌼𐍃` <arms>: "arm"
----> North Germanic
-----> Old Norse `armr`: "arm"
------> Danish `arm`: "arm"
------> Icelandic `armur`: "arm"
----> West Germanic
-----> Old English `earm`: "arm"
------> English `arm`
-----> Frankish
------> Dutch `arm`: "arm, branch"
-----> Old High German `arm`: "arm"
------> German `Arm`: "arm, branch, sleeve"
------> Yiddish `אָרעם` <orem>: "arm"
-
---> Hellenic
----> Ancient Greek `ἁρμός` <harmós>: "joint, link, bolt, peg"
-----> Ancient Greek `ἁρμόζω` <harmózō>: "I fit together, I join, I betrothe, I arrange, I govern"
-
---> Indo-Iranian
----> Iranian
-----> Avestan <arəm>: "correctly, properly"
-
---> Italic
----> Latin `arma`: "armor, weapons, soldiers, 
-----> Western Romance
------> Italian `arma`
-------> Italian `all'arme`: "to arms"
--------> French `alarme`
---------> English `alarm`
-----> Latin `armo`: "I arm, I equip, I mobilize"
------> English `armor`
------> English `arms`
------> English `armory`
------> English `armament`
------> English `armature`
------> Latin `armarium`
-------> English `armoire`
-------> Portuguese
--------> Hindi `अलमारी` <almārī>
-
-
--> Proto-Indo-European <*h₂ermō>
-
---> Balto-Slavic
----> Slavic <*arьmò>: "yoke"
-
-
--> Proto-Indo-European <*h₂r̥monih₂>
-
---> Hellenic
----> Ancient Greek `ἁρμονίᾱ` <harmoníā>: "a fitting together, a joining"
-----> Latin `harmonia`: "harmony, music, peace"
------> Western Romance
-------> French `harmonie`: "harmony"
--------> English `harmony`
---------> English `harmonica`
--------> French `harmonium`: "harmonium"
---------> English `harmonium`
-------> Italian `armonia`: "harmony"
-------> Spanish `armonía`: "harmony"
-
-
-
--> Proto-Indo-European <*h₂értus>
-
---> Indo-Iranian
----> Indo-Aryan
-----> Sanskrit `𑀋𑀢𑀼` <ṛtú>: "a point in time, the right time, season, epoch, period, order, rule"
------> Magadhi
-------> Bengali `ঋতু` <ritu>: "season"
------> Sauraseni
-------> Madhya
--------> Hindi `ऋतु` <ŕtu>: "season"
-------> Pali
--------> Thai `ฤดู` <rʉ́-duu>: "moment, occasion, opportunity, season, time"
------> Maharashtri
-------> Sinhala `ඍතුව` <ṛtuva>: "season"
------> Telugu `ఋతువు` <r̥tuvu>: "season"
-
---> Hellenic
----> Ancient Greek `ἀρτύω` <artúō>: "I arrange, I devise, I prepare, I season"
-
---> Italic
----> Latin `artus`: "joint, sinew, strength, limbs"
-----> Latin `articulātus`: "jointed, distinct, articulated"
------> English `articulate`
-
-----> Latin `articulus`: "joint, knuckle, limb, finger, short clause, word, article"
------> Western Romance
-------> French `orteil`: "toe"
-------> Italian `artiglio`: "talon, claw"
-------> Spanish `artejo`: "knuckle"
------> French `article`: "article, joint, articulation"
-------> English `article`
------> Italian `articolo`: "article"
------> Spanish `artículo`: "article"
------> German `Artikel`: "article, entry, paragraph, clause"
------> Irish `airteagal`: "article"
-
-
--> Proto-Indo-European <*h₂ereh₂ksneh₂>: "sew together?, order-weaver?"
-
---> Hellenic
----> Ancient Greek `ἀράχνη` <arákhnē>: "spider, spider web"
-----> Greek `αράχνη`: "spider, spider web"
-----> Latin `Arachne`
-----> French `arachnide`: "arachnid"
------> English `arachnid`
-
----?> Latin `arānea`: "spider, spider web, threads" ##
------> Eastern Romance
-------> Romanian `râie`: "scab, scabies, itch"
------> Western Romance
-------> French `araignée`: "spider"
-------> French `rogne`: "ringworm, anger"
-------> Italian `aragna`: "spider"
-------> Italian `rogna`: "scabies, mange, bother, trouble"
-------> Spanish `araña`: "spider"
-
-
--> Proto-Indo-European <*h₂reh₁-> (re-analyzed root)
+----> Hellenic
+-----> Classical Greek `ἀραρίσκω` <ararískō>: "I join, I fasten, I construct, I prepare, I fit, I furnish, I am fixed, I am suited to, I am agreeable
+-------> Classical Greek `ᾰ̓́ρθρον` <árthron>: "joint, limb, articulation, connecting word, article"
+--------> Greek `άρθρο` <árthro>: "article"
+--------> English `arthro-`: "to do with joints"
+---------> English `arthropod`
+---------> English `arthritis`
 
 
 --> Proto-Indo-European <*h₂reh₁dʰ->: "to think, to arrange, to accomplish" (re-analyzed or extended root)
 
----> Proto-Indo-Europeaan <*h₂réh₁dʰe-ti> (primary verb)
+---> Proto-Indo-European <*h₂réh₁dʰe-ti> (primary verb)
 
 ----> Germanic <*rēdanã>: "to decide, to advise"
 -----> English `read`
@@ -292,8 +308,11 @@ Proto-Indo-European <*h₂er->: "fit, fix, put together"
 ---> Proto-Indo-European <*h₂réh₁dʰos> (resultative noun)
 
 ----> Germanic <*rēdaz>
------> English `rede`
------> English `Alfred`
+-----> West Germanic
+------> Old English `rǣd`
+-------> English `rede`
+-------> Old English `Ælfrēd`»1
+--------> English `Alfred`»1
 
 
 
@@ -329,8 +348,8 @@ Proto-Indo-European <*h₂er->: "fit, fix, put together"
 -------> Old English `rīmcræft`: "arithmetic"
 
 ---> Hellenic
-----> Ancient Greek `ἀριθμός` <arithmós>: "number, sum, quantity, rank, rhythm"
------> Ancient Greek `ἀριθμητική` <arithmētikḗ>: "arithmetic" (lit. "number-tech" i.e., "the art/craft of numbers")
+----> Classical Greek `ἀριθμός` <arithmós>: "number, sum, quantity, rank, rhythm"
+-----> Classical Greek `ἀριθμητική` <arithmētikḗ>: "arithmetic" (lit. "number-tech" i.e., "the art/craft of numbers")
 ------> Greek `αριθμητική` <arithmitikí>: "arithmetic"
 ------> Russian `арифме́тика` <arifmétika>: "arithmeitc"
 ------> Latin `arithmētica`: "arithmetic"
@@ -398,3 +417,5 @@ startnotes
 ### English `rhyme is a merger of Old English `rīm`, "number, series" with Old French `ryme`, "rhyme". It is unclear if the Old French comes from Latin `rhythmus`, "rhythm", or Frankish <*rīm>, same as the Old English.
 
 endnotes
+
+

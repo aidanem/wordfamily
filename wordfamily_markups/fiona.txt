@@ -24,7 +24,7 @@ Celtic <*windos>: "white"
 ----> English `Gwendolyn`
 ---> Welsh `-wen`
 ----> Welsh `Anwen`: "personal name: Very-Fair"
-----> Welsh `Blodwen`: "personal name: Flower-Fair"
+----> Welsh `Blodwen`»1: "personal name: Flower-Fair"
 ----> Welsh `Branwen`: "personal name: Raven-Fair"
 ----> Welsh (many other names)
 --> Cornish `gwen`: "white"

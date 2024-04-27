@@ -1,4 +1,5 @@
 date: 20190104
+theme: 98, 99, 100! 💯
 
 startbody
 
@@ -13,12 +14,12 @@ Proto-Indo-European <*weys->: "slime, poison, flow, melt"
 
 --> Indo-Iranian <*wišás>
 ---> Indo-Aryan <*wíṣas>
-----> Dardic <*biṣá>
------> Kalasha `biṣ`: "poison"
 ----> Sanskrit `विष` <viṣá>: "poison, venom, bane"
 -----> Sauraseni `𑀯𑀺𑀲` <visa>
-------> Madhya
+------> Madhya Sauraseni
 -------> Hindi `बिस` <bis>
+------> Northwestern Sauraseni
+-------> Kalasha `biṣ`: "poison"
 -----> Pali
 ------> Malay `bisa`: "poison"
 ------> Thai `พิษ` <pít>: "poison, venom, toxin"
@@ -91,3 +92,4 @@ Proto-Indo-European <*weys->: "slime, poison, flow, melt"
 
 
 endbody
+

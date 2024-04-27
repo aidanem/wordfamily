@@ -1,10 +1,9 @@
 date: 20210314
-tags: Austronesian
 
 
 startbody
 
-Austronesian <*tsau>: "person, human"
+Austronesian <*tsau>: "person, human" {Austronesian}
 
 -> Basay <tau>: "person, human"
 
@@ -25,13 +24,15 @@ Austronesian <*tsau>: "person, human"
 
 -> Malayo-Polynesian <*tau>
 
+--> Chamorro `taotao`: "person"
+
 --> Philippine <*taʔu>: "person, human"
 ---> Binukid <ʔɨtaw>: "person, human"
 ---> Ilokano `tao`: "person, human"
 ---> Sangir `tau`: "person, human"
 ---> Tagalog `tao`: "person, human"
----> Yami `tao`: "person, human"
-----> Yami `ciriciring no Tao`: "Yami language" (lit. "human speech", "language of the people")
+---> Tao <tao>: "person, human"
+----> Tao <ciriciring no Tao>: "Yami language" (lit. "human speech", "language of the people")
 
 --> Oceanic <*tau>: "person, human"
 ---> Admiralty Islands
@@ -47,9 +48,9 @@ Austronesian <*tsau>: "person, human"
 -?> Malayo-Polynesian <*tau-mataʔ>: "mortal person?" ##
 
 --?> Micronesian <*cjaramata>
-----> Chuukese <aramas>: "person, human"
-----> Kiribati <aomata>: "man, human, native"
-----> Woleai <yaremata>: "person, human"
+----> Chuukese `aramas`: "person, human"
+----> Kiribati `aomata`: "man, human, native"
+----> Woleai `yaremata`: "person, human"
 
 ---> Philippine
 ----> Sangir `taumata`: "person, human"
@@ -93,15 +94,19 @@ Austronesian <*tsau>: "person, human"
 ----> Japanese `ひと` <hito>: "person, human, one"
 -----> Japanese `ひとつ` <hitotsu>: "one thing, one person, person"
 --> Ryukyuan
----> Amami <cjuu>
----> Miyako <pytu>
+---> Amami <cjuu>: "person, human"
+---> Miyako <pytu>: "person, human"
 
 endbody
 
 
 startnotes
 
-## Malayo-Polynesian variant <*tau-mataʻ> appears to be a compound of the inherited <*tau>: "person" with <*mataj>: "to die", forming "mortal, human". Compare Proto-Indo-European <*mr̥tó-s>: "dead, mortal" from <*mer->: "to die", which gives for example Persian `مرد‏` <mard>: "mortal, human, man" (origin of `manticore`: "man-eater"). See <a href="word-family-mort.html">WFF-Mort</a> for both Indo-European <*mer-> and Austronesian <*mataj>.
+## Malayo-Polynesian variant <*tau-mataʻ> appears to be a compound of the inherited <*tau>: "person" with [wff-mort|<*mataj>: "to die"], forming "mortal, human". Compare Proto-Indo-European [wff-mort|<*mr̥tó-s>: "dead, mortal" from <*mer->: "to die"], which gives for example Persian `مرد‏`=fas-Aran <mard>: "mortal, human, man" (origin of `manticore`: "man-eater").
 
 
-### As far as I can tell Mandarin `臺南` <Tainan> is a doublet of `臺灣` <Táiwān>, both from Hokkien `臺灣` <Tâi-oân>, with `臺南` <Tainan> being adapted by folk etymology to "Tai(wan) South", which then got borrowed back into Hokkien as `臺南` <Tâi-lâm>.
+### As far as I can tell Mandarin `臺南`=cmn-Hant <Tainan> is a doublet of `臺灣` <Táiwān>=cmn-Hant, both from Hokkien `臺灣`=nan-Hant <Tâi-oân>, with `臺南`=cmn-Hant <Tainan> being adapted by folk etymology to "Tai(wan) South", which then got borrowed back into Hokkien as `臺南` <Tâi-lâm>=nan-Hant.
+
+
+endnotes
+

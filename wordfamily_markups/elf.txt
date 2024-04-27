@@ -1,5 +1,5 @@
 date: 20230113
-tags: Colors, Hydronomy, Plants, Toponymy
+tags: Colors, Hydronymy, Plants, Toponymy
 
 
 
@@ -28,7 +28,7 @@ Proto-Indo-European <*h₂elbʰós>: "white"
 ---> Spanish `albo`: "white"
 ----> Spanish `albino`: "albino"
 -----> English `albino`
----> Vulgar Latin <*albidiare>: "to whiten, to dawn"
+---> Vulgar Latin <*albidiare>»1: "to whiten, to dawn"
 
 ---> Vulgar Latin <*alba>: "dawn, sunrise"
 ----> Central Romance
@@ -40,7 +40,7 @@ Proto-Indo-European <*h₂elbʰós>: "white"
 -----> Spanish `alba`: "dawn"
 ------> Spanish `albada`
 
-----> Vulgar Latin <*albidiare>: "to whiten, to dawn"
+----> Vulgar Latin <*albidiare>»1: "to whiten, to dawn"
 -----> Central Romance
 ------> Italian `albeggiàre`: "to turn white, to dawn"
 -----> Western Romance
@@ -104,11 +104,12 @@ Proto-Indo-European <*h₂elbʰós>: "white"
 --> Umbrian `𐌀𐌋𐌚𐌖` <alfu>: "white"
 ---> Byzantine Greek `ἄλβος` <álbos>: "white"
 
-
-
 -> Unknown
 --> Finnic <*kalbas>
 ---> Finnish `kalvas`: "pale"
+
+
+-> Proto-Indo-European <*h₂olbʰ
 
 
 -> Proto-Indo-European <*h₂elbʰyos>: "whitish"
@@ -174,8 +175,11 @@ Proto-Indo-European <*h₂elbʰós>: "white"
 
 -----> Germanic <*Albirēdaz>: "personal name: Elf-Counsel"
 ------> West Germanic
--------> Old English `Ælfrēd`
---------> English `Alfred`
+-------> Old English `Ælfrēd`»1
+--------> English `Alfred`»1
+---------> Italian `Alfredo`
+----------> Italian `fettuccine Alfredo`
+-----------> English `fettuccine Alfredo`
 
 -----> Germanic <*Albirīks>: "personal name: Elf-King"
 ------> West Germanic
@@ -303,18 +307,18 @@ Proto-Indo-European <*h₂elbʰós>: "white"
 --------> Spanish `alpino`: "alpine, Alpine"
 -------> English `alpine`
 
-----?> Latin `Albānus`: "an Albanian" ####
+----?> Latin `Albanus`»1: "an Albanian" ####
 
 
 
 
 ---?> Illyrian ####
 ----?> Classical Greek `Ἀλβᾱνός` ####
------?> Byzantine Greek `Ἀλβανός` <Albānós>: "an Albanian"
+-----?> Greek `Αλβανός` <Alvanos>»1: "an Albanian"
 
-----?> Latin `Albānus`: "an Albanian" ####
+----?> Latin `Albanus`»1: "an Albanian" ####
 -----?> Byzantine Greek `Ἀλβανός` <Albānós>: "an Albanian"
--------> Greek `Αλβανός` <Alvanós>: "an Albanian"
+-------> Greek `Αλβανός` <Alvanós>»1: "an Albanian"
 -------> Byzantine Greek `Ἀλβανία` <Albaníā>: "Albania"
 --------> Greek `Αλβανία` <Alvanía>: "Albania"
 --------> English `Albania`
@@ -356,19 +360,17 @@ It could be from a different Germanic bithematic name (through any of those path
 
 ## Oddly, Vulgar Latin <*albaster>: "whitish" is the not the origin of "alabaster", despite the phonological and semantic resemblance. Latin "alabaster" comes from Classical Greek `ἀλάβαστος` <alábastos>: "a vase of alabaster" (and its variant `ἀλάβαστρος` <alábastros>). Though the specific form of the Latin borrowing `alabaster` from Greek was probably influenced by the Latin suffix `-aster`.
 
-The Greek has been compared to Arabic <ʿulba>: "box, trunk, can", which is also attested as <ʿulba>: "a kind of palm-tree" (that a box might be made from, collective <ʿalaba>), in turn connected to Akkadian `𒀀𒆷𒈪𒌅` <alabattu>: "a kind of palm-tree".
+In the 1930s, Egyptologist Kurt Sethe derived "alabaster" from <ꜥj-r-bꜣstjt> / <a-labaste>: "bowl of Bastet". In the 1960s Gerhard Fecht proposed <jnr-bꜣstjt> / <ana-baste>: "stone of Bastet". But as far as I know, neither of those phrases are attested in Egyptian.
 
-In the 1930s, Egyptologist Kurt Sethe derived "alabaster" from ꜥj-r-bꜣstjt / a-labaste: "bowl of Bastet". In the 1960s Gerhard Fecht proposed jnr-bꜣstjt / ana-baste: "stone of Bastet". But as far as I know, neither of those phrases are attested in Egyptian.
-
-The name `bꜣstjt` has been linked to <bꜣs>: "jar", but that's a much later association, and it's probably not the real etymology of her name. <bꜣs> may or may not have a link to alabaster, but it's unlikely to be through Bastet.
+The name <bꜣstjt> (Bastet) has been linked to <bꜣs>: "jar", but that's a much later association, and it's probably not the real etymology of her name. <bꜣs> may or may not have a link to alabaster, but it's unlikely to be through Bastet.
 
 It's also been suggested that Greek `ἀλάβαστος` <alábastos> comes from a place name in Egypt that alabaster was imported from. This is based on Pliny's _Naturalis historia_ and Ptolemy's _Geographia_.
 
-Pliny lists a city he calls Alabastron, and Ptolemy has one likewise (though in a different place) and Ptolemy also lists the Alabastrites Mountains. Pliny discusses the stone alabastrites in Book 36 and says it comes from near Thebes and from near Damascus (with Damascus being the better quality) but does not connect it to the place Alabastron he mentioned in Book 5.
+Pliny lists a city he calls Alabastron, and Ptolemy has one likewise (though in a different place) and Ptolemy also lists the Alabastrites Mountains. Pliny discusses the stone alabastrites in Book 36 and says it comes from two places: near Thebes and near Damascus (with Damascus being the better quality) but does not connect it to the place Alabastron he mentioned in Book 5.
 
 It's worth noting that Pliny and Ptolemy are writing hundreds of years after the conquest of Egypt by Alexander, and the names they give are not Egyptian names but Greek names which only sometimes have anything to do with Egyptian names for the same places. While the Greeks were almost certainly getting alabaster from the places they called Alabastron and Mons Alabastrites, it seems more likely they named the place(s) after the material instead of vice versa!
 
-More recently a comparison has been made to Arabic علبة <ʿulba>/<ʿalaba>: "box, trunk, can", though to be from an obsolete similar word for a kind of palm tree that was used for making boxes; the palm tree is also attested in Akkadian as <alabattu>.
+More recently a comparison has been made to Arabic علبة <ʿulba>/<ʿalaba>: "box, trunk, can", thought to be from an obsolete similar word for a kind of palm tree that was used for making boxes; the palm tree is also attested in Akkadian as `𒀀𒆷𒈪𒌅` <alabattu>: "a kind of palm-tree".
 
 
 
@@ -382,3 +384,5 @@ More recently a comparison has been made to Arabic علبة <ʿulba>/<ʿalaba>: 
 
 
 endnotes
+
+

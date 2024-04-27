@@ -59,12 +59,12 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 ---> Nuristani
 ----> Kamviri <ie>: "walks"
 
---> Italic
----> Latin `eō`: "I go"
+--> Italic <*eizi>
+---> Latin `ire`: "I go"
 ----> Western Romance
 -----> French `irai`: "will go" (suppletive future of `aller`)
 -----> Spanish `ir`: "to go"
-----> Latin `ambiō`: "I go around, I solicit favor, I campaign, I strive for"
+----> Latin `ambire`: "I go around, I solicit favor, I campaign, I strive for"
 -----> Eastern Romance
 -----?> Romanian `a îmbia`: "to urge, to entice, to solicit"
 -----> Western Romance
@@ -75,20 +75,39 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 ------> Western Romance
 -------> Spanish `andar`: "to walk, to go, to be"
 --------> Spanish `ándale`: "hurry!, come on!, all right!" (interjection)
-----> Latin `pereō`: "I go through, I pass away, I vanish, I perish"
+----> Latin `comire`
+-----> Latin `comes`: "companion, comrade, partner" (lit. "go together")
+------> Medieval Latin `comes`: "trusted companion/advisor to the Emperor, count, earl"
+-------> Old French
+--------> French `comte`: "count, earl" (from the accusative form <comitem>)
+--------> English `count`»2 (the noble title)
+-------> Medieval Latin `comitātus`: "company of soldiers, association, county"
+--------> Old French `conté`: "county"
+---------> French `comté`: "county"
+---------> English `county`
+-------> Medieval Latin `comes stabuli`: "officer of the stables"
+--------> Old French `conestable`: "a military officer of some kind"
+---------> English `constable`
+---------> French `connétable`: "historical commander in chief of the French army, 1060-1626"
+----> Latin `exire`
+-----> English `exit`
+-----> English `issue`
+----> Latin `obire`
+-----> English `obituary`
+----> Latin `perire`: "I go through, I pass away, I vanish, I perish"
 -----> Western Romance
 ------> Old French `perir`: "to die, to perish"
 -------> French `périr`: "to perish"
 -------> English `perish` (from the `per-iss-` stem)
-----> Latin `praetereō`: "I go past, I ignore, I surpass"
+----> Latin `praeterire`: "I go past, I ignore, I surpass"
 -----> Western Romance
 ------> Italian `preterire`: "I neglect, I omit"
 -----> Latin `praeteritio`
 ------> English `preterite`
-----> Latin <*sēdeō>: "I go away, I go separately" (not used due to homophony with "to sit", only the participle is used)
+----> Latin <*sēdire>: "I go away, I go separately" (not used due to homophony with "to sit", only the participle is used)
 -----> Latin `sēditiō`: "rebellion, sedition, discord, turmoil"
 ------> English `sedition`
-----> Latin `subeō`: "I go under, I come from under, I sneak up on, I undergo, I come to mind, I take place"
+----> Latin `subire`: "I go under, I come from under, I sneak up on, I undergo, I come to mind, I take place"
 -----> Latin `subitus`: "approached, snuck up on, undergone"
 ------> Western Romance
 -------> Italian `subito`: "immediately, as soon as possible"
@@ -98,7 +117,7 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 --------> Old French `sodein`: "sudden"
 ---------> French `soudain`: "sudden, suddenly"
 ---------> English `sudden`
-----> Latin `trānseō`: "I go across, I go over to, I surpass, I elapse, I pass away"
+----> Latin `trānsire`: "I go across, I go over to, I surpass, I elapse, I pass away"
 -----> Western Romance
 ------> Old French
 -------> French `transir`: "to pass through, to cut through (esp. of cold or wind)"
@@ -106,20 +125,8 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 -----> Latin  `trānsitiō`
 ------> French `transition`: "transition"
 -------> English `transition`
-----> Latin `comeō`
------> Latin `comes`: "companion, comrade, partner" (lit. "go together")
-------> Medieval Latin `comes`: "trusted companion/advisor to the Emperor, count, earl"
--------> Old French
---------> French `comte`: "count, earl" (from the accusative form <comitem>)
---------> English `count` (the noble title)
--------> Medieval Latin `comitātus`: "company of soldiers, association, county"
---------> Old French `conté`: "county"
----------> French `comté`: "county"
----------> English `county`
--------> Medieval Latin `comes stabuli`: "officer of the stables"
---------> Old French `conestable`: "a military officer of some kind"
----------> English `constable`
----------> French `connétable`: "historical commander in chief of the French army, 1060-1626"
+
+
 
 --> Phrygian `ειτου` <eitou>: "to go, to become"
 
@@ -158,7 +165,7 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 ---> Iranian
 ----> Avestan `𐬌𐬚𐬥𐬀` <iθna>: "lifetime"
 
---> Tocharian <*yätār>
+--> Tocharian <*yätār>»1
 ---> Arshian <ytār>: "road, way"
 ---> Kushean <ytārye>: "road, way"
 
@@ -218,8 +225,8 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 -------> Sauraseni `𑀚𑀸𑀤𑀺` <jādi>
 --------> Madhya
 ---------> Hindi `जाना` <jānā>: "to go, to leave, passive voice marker"
--------> West Indo-Aryan
---------> Romani `džal`: "to go"
+--------> Western Sauraseni
+---------> Romani `džal`: "to go"
 -----> Iranian
 ------> Avestan `𐬫𐬁𐬌𐬙𐬌` <yāiti>
 
@@ -235,7 +242,7 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 
 ----> Indo-Iranian <*yáHnam>
 -----> Indo-Aryan
-------> Sanskrit `𑀬𑀸𑀦` <yā́na>: "carriange, vehicle, journey"
+------> Sanskrit `𑀬𑀸𑀦` <yā́na>: "carriage, vehicle, journey"
 -------> Pali <yā́na>: "carriange, vehicle, journey"
 --------> Burmese `ယာဉ်` <yany>: "vehicle, mount"
 --------> Khmer `យាន` <yiən>: "vehicle"
@@ -262,7 +269,7 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 ------> Latin `iānua`: "door, entrance, double-door"
 -------> Western Romance
 --------> Mozarabic `يانة` <yana>: "door"
--------> Latin `iānitor`: "doorman, porter"
+-------> Latin `ianitor`: "doorman, porter"
 --------> English `janitor`
 ------> Latin <*iānuella> (dimunitive)
 -------> Western Romance
@@ -287,19 +294,17 @@ Proto-Indo-European <*h₁ey->: "to go (imperfective)" (possibly suppletive)
 -------> Serbo-Croatian `ја̏то` <jȁto>: "flock"
 
 
--> Proto-Indo-European <*yeh₂tr̥> (noun)
+---> Proto-Indo-European <*yeh₂tr̥> (noun)
 
---> Indo-Iranian
----> Indo-Aryan
-----> Sanskrit `𑀬𑀸𑀢𑁆𑀭𑀸` <yātrā>: "journey, travel, pilgrimage"
------> Hindi `यात्रा` <yātrā>: "journey, travel"
------> Pali `𑀬𑀸𑀢𑁆𑀭𑀸` <yātrā>
-------> Thai `ยาตรา` <yâat-dtraa>: "procession, parade"
------> Telugu `యాత్ర` <yātra>: "journey, expedition, march"
+----> Indo-Iranian
+-----> Indo-Aryan
+------> Sanskrit `𑀬𑀸𑀢𑁆𑀭𑀸` <yātrā>: "journey, travel, pilgrimage"
+-------> Hindi `यात्रा` <yātrā>: "journey, travel"
+-------> Pali `𑀬𑀸𑀢𑁆𑀭𑀸` <yātrā>
+--------> Thai `ยาตรา` <yâat-dtraa>: "procession, parade"
+-------> Telugu `యాత్ర` <yātra>: "journey, expedition, march"
 
---> Tocharian <*yätār>
----> Arshian <ytār>: "road, way"
----> Kushean <ytārye>: "road, way"
+----> Tocharian <*yätār>»1
 
 
 ---> Proto-Indo-European <*yéh₂tus>: "a going" (action noun)

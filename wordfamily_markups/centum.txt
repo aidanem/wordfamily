@@ -1,12 +1,12 @@
 date: 20190118
 theme: 98, 99, 100! 💯
-tags: Numbers, SI Units
+tags: Body Parts, Numbers, SI Units
 
 startintro
 
 This is the 100th Word Family Friday in 100 weeks, and the last before I take a break for a few weeks to work on infrastructure and pad my buffer. I originally had a different idea, but then I realized I of course had to do "hundred", because it's such an important word in the history of historical linguistics. Indo-European languages have been grouped into "centum languages" and "satem languages" since Peter von Bradke in 1890.
 
-Centum languages merge /ḱ/ with /k/, but keep /kʷ/ distinct. Celtic, Germanic, Hellenic, and Italic languages are canonical centum languages. The group is named for the Latin `centum`: "hundred". (Note `c` is pronounced /k/ in Classical Latin, even before a front vowel as in `centum`, despite later palatalization affecting nearly all modern Romance pronunciation).
+Centum languages merge /ḱ/ with /k/, but keep /kʷ/ distinct. Celtic, Germanic, Hellenic, and Italic languages are canonical centum languages. The group is named for the Latin `centum`=lat-Latn: "hundred". (Note `c` is pronounced /k/ in Classical Latin, even before a front vowel as in `centum`, despite later palatalization affecting nearly all modern Romance pronunciation).
 
 Satem languages merge /kʷ/ with /k/, but keep /ḱ/ distinct (generally becoming a sibilant: /s/, /ʃ/, or /ɕ/). Indo-Iranian and Balto-Slavic are canonical satem languages. The group is named for Avestan <sata>: "hundred" (acc. <satem>).
 
@@ -105,29 +105,30 @@ Pre-Proto-Indo-European <**ḱemt?>: "hand??" #
 
 
 ---> Hellenic <*dékə>
-----> Ancient Greek `δέκα` <déka>
+----> Classical Greek `δέκα` <déka>
 -----> Greek `δέκα` <déka>
 -----> English `deca-`
 
 ---> Indo-Iranian <*dáĉa>
 ----> Indo-Aryan <*dáśa>
------> Dardic <*dáša>
-------> Kashmiri `دَہ‎` <dah>
 -----> Sanskrit `𑀤𑀰` <dáśa>
 ------> Elu
 -------> Sinhala `දහය` <dahaya>
 ------> Magadhi `𑀤𑀰` <daśa>
 -------> Bengali `দশ` <dôś>
--------> Rohingya `doc`
+-------> Rohingya `𐴊𐴡𐴆` <doc>
 ------> Maharashtri ` 𑀤𑀳` <daha>
 -------> Marathi `दहा` <dahā>
 ------> Pali <dasa>
 ------> Sauraseni `𑀤𑀲` <dasa>
--------> Madhya
+-------> Madhya Sauraseni
 --------> Hindi `दस` <das>
--------> Pahari
+-------> Northwestern Sauraseni
+--------> Kashmiri `دَہ‎` <dah>
 --------> Nepali `दस` <dasa>
 --------> Punjabi `ਦਸ` <das>
+-------> Western Sauraseni
+--------> Romani `deś`
 ----> Iranian <*dáĉa>
 -----> Avestan <dasā>
 -----> Northern Iranian
@@ -148,24 +149,27 @@ Pre-Proto-Indo-European <**ḱemt?>: "hand??" #
 
 ---> Italic <*dekem>
 ----> Latin `decem`
------> Sardinian `deghe`
------> Eastern Romance
+-----> Central Romance
 ------> Dalmatian `dic`
+------> Italian `dieci`
+-----> Eastern Romance
 ------> Romanian `zece`
+-----> Insular Romance
+------> Sardinian `deghe`
 -----> Western Romance
 ------> French `dix`
-------> Italian `dieci`
 ------> Spanish `diez`
------> Latin `decānus`: "leader of a group of ten people, dean"
+-----> Latin `decanus`: "leader of a group of ten people, dean"
+------> Central Romance
+-------> Italian `decano`: "dean, doyen"
 ------> Western Romance
 -------> Old French `deien`
 --------> French `doyen`: "dean, doyen"
 ---------> English `doyen`
 --------> English `dean`
 --------> Spanish `deán`: "dean"
--------> Italian `decano`: "dean, doyen"
 -------> Spanish `degano`: "ranch administrator"
------> Latin `decimō`
+-----> Latin `decimare`
 ------> English `decimate`
 -----> Latin <*decumo-mēnsris>: "of/in the tenth month"
 ------> Latin `december`
@@ -201,13 +205,13 @@ Pre-Proto-Indo-European <**ḱemt?>: "hand??" #
 ----> Dacian
 ----?> Romanian `sută`
 
-----> Germanic <*hundã>: "hundred" ###
+----> Germanic <*hundą>: "hundred" ###
 -----> East Germanic
 ------> Gothic `𐌷𐌿𐌽𐌳` <hund>
 -----> West Germanic
-------> Old English `hund`
+------> Old English `hund`»2
 ------> Frankish <*hund>
--------> Dutch `hond`: "old unit of land area, 100 roeden"
+-------> Dutch `hond`»2: "old unit of land area, 100 roeden"
 ------> Old High German `hund`
 -----> Germanic <*hundaradã>: "hundred" (lit. "hundred-count") ###
 ------> North Germanic
@@ -229,31 +233,30 @@ Pre-Proto-Indo-European <**ḱemt?>: "hand??" #
 ---------> Yiddish `הונדערט‎‎` <hundert>
 
 ----> Hellenic <*he-kətón>: "hundred" (lit. "one-hundred? the-hundred?")
------> Ancient Greek `ἑκατόν` <hekatón>
+-----> Classical Greek `ἑκατόν` <hekatón>
 ------> Greek `εκατό` <ekató>
 ------> English `hecato-`
 -----> Arcadocypriot `ἑκοτόν` <hekotón>
 
 ----> Indo-Iranian <*ĉatám>
 -----> Indo-Aryan <*śatám>
-------> Dardic <*šatá>
--------> Kashmiri <şath>
 ------> Sanskrit `𑀰𑀢` <śatá>
 -------> Elu
 --------> Sinhala `සියය` <siyaya>
 -------> Magadhi `𑀰𑀢` <śata>
 --------> Bengali `শত` <śôt>
---------> Rohingya `cót`
+--------> Rohingya `𐴆𐴡𐴤𐴃` <cót>
 -------> Maharashtri `𑀲𑀅` <saä>
 --------> Marathi `-शे` <-śe>
 -------> Pali <sata>
 -------> Sauraseni `𑀲𑀤` <sada>
---------> Madhya
+--------> Madhya Sauraseni
 ---------> Hindi `सौ` <sau>
---------> Pahari
+--------> Northwestern Sauraseni
+---------> Kashmiri <şath>
 ---------> Nepali `सय` <saya>
 ---------> Punjabi `ਸੌ` <sau>
--------> West Indo-Aryan
+-------> Western Sauraseni
 --------> Romani `šel`
 -----> Iranian
 ------> Avestan <satəm>
@@ -282,32 +285,37 @@ Pre-Proto-Indo-European <**ḱemt?>: "hand??" #
 --------> Hungarian `százszorszép`: "daisy" (lit. "hundred-times-beautiful")
 
 ----> Italic <*kentom>
------> Latin
-------> Sardinian
-------> Eastern Romance
+-----> Latin `centum`
+------> Central Romance
 -------> Dalmatian `ciant`
+-------> Italian `cento`
+------> Eastern Romance
+--------> Aromanian `tsendu`
 --------> Albanian `qind`
+------> Insular Romance
+-------> Sardinian
+--------> Campidanese `centu`
+--------> Logudorese `chentu`
 ------> Western Romance
 -------> French `cent`
 --------> English `cent`
--------> Italian `cento`
 -------> Spanish `ciento`
 ------> Latin `centuria`: "century, 100 of anything"
 -------> French `centurie`
 --------> English `century`
--------> Latin `centuriō`: "centurion, commander of 100 soldiers"
+-------> Latin `centurio`: "centurion, commander of 100 soldiers"
 --------> English `centurion`
-------> Latin `centēnārius`: "hundredfold, containing hundred"
+------> Latin `centenarius`: "hundredfold, containing hundred"
 -------> English `centenary`
 -------> Arabic `قِنْطَار‎` <qinṭār>: "hundredweight, 100 riṭl"
 --------> Medieval Latin `quintale`: "hundredweight, 100 pounds"
 ---------> French `quintal`: "hundredweight, 100 pounds or 100 kilograms"
 ----------> English `quintal`: "hundredweight, 100 pounds or 100 kilograms"
-------> Latin `centipelliō`: "third stomach of a ruminant; psalterium, omasum" (lit. "hundred-skin")
+------> Latin `centipellio`: "third stomach of a ruminant; psalterium, omasum" (lit. "hundred-skin")
+-------> Central Romance
+--------> Italian `centopelle`: "tripe"
 -------> Eastern Romance
 --------> Romanian `cimpoi`: "stomach of a ruminant, bellows, bagpipe"
--------> Western Romance
---------> Italian `centopelle`: "tripe"
 ------> French `centi-`
 -------> English `centi-`
 ------> English `centum`
@@ -320,7 +328,7 @@ Pre-Proto-Indo-European <**ḱemt?>: "hand??" #
 
 
 
----?> Proto-Indo-European <*tuh₂s-ḱm̥tóm?> "thousand" (lit. "strong/swollen/crowded hundred")
+---?> Proto-Indo-European <*tuh₂s-ḱm̥tóm?>: "thousand" (lit. "strong/swollen/crowded hundred")
 
 -----> Balto-Slavic <*tūˀsantis>
 ------> Lithuanian `tūkstantis`
@@ -363,7 +371,7 @@ startnotes
 
 # <**ḱm̥t> is a possible origin for Germanic <*handuz>: "hand", in which case <*déḱm̥> is derivable as <*de-ḱm̥t>: "two-hands". But <*handuz> has no certain cognates in other branches and is often considered of non-PIE origin.
 
-One of the more common PIE words for "hand", <*ǵʰes->, is used in <*(sm̥-)ǵʰéslom>: "(one) handful, many, thousand", the origin of Armenian `հազար` <hazar>, Greek `χίλια` <chília>, Latin `mīlle`, Sanskrit `𑀲𑀳𑀲𑁆𑀭` <sahásra>, all meaning "thousand".
+One of the more common PIE words for "hand", <*ǵʰes->, is used in <*(sm̥-)ǵʰéslom>: "(one) handful, many, thousand", the origin of Armenian `հազար`=hye-Armn <hazar>, Greek `χίλια`=grc-Grek <chília>, Latin `mille`=lat-Latn, Sanskrit `𑀲𑀳𑀲𑁆𑀭`=san-Brah <sahásra>, all meaning "thousand".
 
 A transparent word for "ten" in Pre-PIE would not be unexpected, as PIE shows signs of a recent transition from five-based to ten-based counting.
 
@@ -383,3 +391,6 @@ This is not enough information to reach much of a conclusion. Though given that 
 #### "But at the end o seven years/ They pay their teind to hell"
 
 endnotes
+
+
+

@@ -1,25 +1,33 @@
 date: 20171006
 theme: Ancient Borrowings 𒅴
 
-Teaser: mummy, M
+
 
 startbody
 
 Proto-Afro-Asiatic <*maʾ->
--> Berber
+
+-> Tamazight
 --> Tashelhit <aman>: "water"
 --> Tuareg `ⵎⵏ` <aman>: "water"
+
 -> Chadic
 --> West Chadic
 ---> Tangale <am>: "water"
--> Egyptian `𓈖` <mw>: "water, rain, sea, lake"¹
+
+-> Cushitic
+--> South Cushitic
+---> Iraqw `ma'ay`: "water"
+
+-> Egyptian `𓈗` <mw>: "water, rain, sea, lake" #
 --> Demotic Egyptian <mw>
 ---> Coptic `ⲙⲟⲟⲩ` <moou>: "water"
 ---> Egyptian Arabic `امبو` <ʾumbū>: "water, drink" (childish)
----> Ancient Greek `μῦ` <mû> ¹
+--?> Ancient Greek `μῦ` <mû> #
 ----> Greek `μι` <mi>
 ----> English `mu`
 -----> English `muon`
+
 -> Semitic <*maʾ->
 --> East Semitic
 ---> Akkadian `𒀀` <mû>: "water"
@@ -29,18 +37,19 @@ Proto-Afro-Asiatic <*maʾ->
 ----> Ge'ez `ማይ` <māy>: "water"
 --> Central Semitic
 ---> Classical Arabic `مَاء‏` <māʾ>: "water, liquid, juice"
-----> Egyptian Arabic `مية‏` <máyya>: "water"
+----> Egyptian Arabic `مية‏` <máyya(t)>: "water"
 ----> Maghrebi Arabic
 -----> Moroccan Arabic `ما` <mā>: "water"
 -----> Sicilian Arabic
 ------> Maltese `ilma`: "water"
 ----> Peninsular Arabic
------> Hijazi Arabic `مويَة` <mōya>: "water, body of water"
+-----> Hijazi Arabic `مويَة` <mōya(t)>: "water, body of water"
 ---> Northwest Semitic
-----> Aramaic `מַיָּא‏` <mayyā>: "water"
+----> Aramaic `𐡌𐡉𐡀` <mayyā>: "water"
 ----> Canaanite
 -----> Hebrew `מַיִם` <máyim>: "water"
------> Phoenician `𐤌𐤌` <mm>: "water"¹
+-----> Phoenician `𐤌𐤌` <mm>: "water" #
+-----?> Ancient Greek `μῦ` <mû> #
 
 ---?> Middle Persian <*mōm>: "wax"
 -----> Armenian `մոմ` <mom>: "wax, candle"
@@ -50,7 +59,7 @@ Proto-Afro-Asiatic <*maʾ->
 ------> Hindi `मोम` <mom>: "wax"
 -------> Hindi `मोमबत्ती` <mombattī>: "candle"
 
-------> Persian `مومیا` <mumiyâ>: "waxy substance covering mummies, mummy"²
+------> Persian `مومیا` <mumiyâ>: "waxy substance covering mummies, mummy" ##
 -------> Tajik
 --------> Russian `мумиё` <mumijó>: "mineral tar, mountain balsam, shilajit"
 ---------> English `mumijo`
@@ -69,6 +78,15 @@ Proto-Afro-Asiatic <*maʾ->
 --------> ?
 ---------> Imperial Mandarin `木乃伊`
 ----------> Mandarin `木乃伊` <mùnǎiyī>: "mummy"
-----------> Cantonese `木乃伊` <muk6 naai5 ji1>: "mummy"
+----------> Cantonese `木乃伊` <muk⁶ naai⁵ ji¹>: "mummy"
 
 endbody
+
+startnotes
+
+# This is the origin of the shape of the letter <M>: a water ripple taking the sound of Phoenician <mm>. The hieroglyph of a single water ripple `𓈖`, which is probably the origin of Phoenician `𐤌`, was used in Egyptian for the sound /n/, acrophonic for a different word for water. The Sinaitic/Canaanite abjad gave it the sound of /m/ after the Canaanite <m(y)m>. The Greek letter shape and value are via Phoenician, but the name has the appearance of being direct from Egyptian.
+
+## At least according to Herodotus, the ancient Persians wrapped their royal dead in wax or waxed cloth before internment (and after something related to dakhma furneral still practiced by the Parsis). That would fit well with the Persian word for "mummy" being derived from "wax".
+
+endnotes
+

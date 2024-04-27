@@ -1,21 +1,22 @@
+
 date: 20180914
 theme: Community 🏘️
 
 startbody
 
-Proto-Indo-European <*pleh₁>: "to fill"
+Proto-Indo-European <*pleh₁>: "to fill, full, numerous"
 
 -> Proto-Indo-European <*pleh₁-ti>: primary verb (root perfective)
 
 --> Hellenic
 ---> Ancient Greek `πλῆτο` <plêto>
 
--> Proto-Indo-European <pleh₁st> (sigma perfective)
---> Proto-Indo-European <*h₁n̥-pleh₁st>: "in-fill (perfective)"
+-> Proto-Indo-European <*pleh₁st> (sigma perfective)
+--> Proto-Indo-European <*h₁n̥-pleh₁st> ("in-fill")
 
 ---> Indo-Iranian <*HápraHt>
 ----> Indo-Aryan
------> Sanskrit `अप्रात्` <áprāt>: "to fill"
+-----> Sanskrit `𑀅𑀧𑁆𑀭𑀸𑀢𑁆` <áprāt>: "to fill"
 
 
 -> Proto-Indo-European <*pípleh₁-ti> (reduplicate imperfective)
@@ -25,17 +26,16 @@ Proto-Indo-European <*pleh₁>: "to fill"
 
 --> Indo-Iranian <*píparti>
 ---> Indo-Aryan
-----> Sanskrit `पिपर्ति` <píparti>: "to fill, to satisfy, to fulfil, to inflate, to blow"
+----> Sanskrit `𑀧𑀺𑀧𑀭𑁆𑀢𑀺` <píparti>: "to fill, to satisfy, to fulfil, to inflate, to blow"
 ---> Iranian
-----> East Iranian
------> Avestan `𐬵𐬀𐬨𐬞𐬁𐬟𐬭𐬁𐬌𐬙𐬌`‎ <hampāfrāiti>: "fills himself" (Vendidad 4.48)
+----> Avestan `𐬵𐬀𐬨𐬞𐬁𐬟𐬭𐬁𐬌𐬙𐬌`‎ <hampāfrāiti>: "fills himself" (Vendidad 4.48)
 
 
 -> Proto-Indo-European <*pl̥néh₁-ti> (nasal infix imperfective)
 
 --> Indo-Iranian <*pr̥náHti>
 ---> Indo-Aryan
-----> Sanskrit `पृणाति` <pṛnā́ti>: "fulfill, nourish, inflate"
+----> Sanskrit `𑀧𑀾𑀡𑀸𑀢𑀺` <pṛnā́ti>: "fulfill, nourish, inflate"
 
 
 -> Proto-Indo-European <*pleh₁ye-ti> (ye imperfective)
@@ -131,7 +131,7 @@ Proto-Indo-European <*pleh₁>: "to fill"
 ------> English `plebeian`
 ----> Latin `plēbiscītum`
 -----> French `plébiscite`
-------> English `plebiscite`
+------> English `plebiscite'
 ---> Italic <*plēðros>
 ----> Oscan `𐌐𐌋𐌝𐌚𐌓𐌉𐌊𐌔` <plífriks>: "plebeian"
 
@@ -193,28 +193,29 @@ Proto-Indo-European <*pleh₁>: "to fill"
 
 --> Indo-Iranian <*pr̥Hnás>: "full, filled"
 ---> Indo-Aryan <*pr̥Hnás>
-----> Sanskrit `पूर्ण` <pūrṇá>: "filled, complete, past, satisfied, powerful, selfish"
+----> Sanskrit `𑀧𑀽𑀭𑁆𑀡` <pūrṇá>: "filled, complete, past, satisfied, powerful, selfish"
 -----> Magadhi
 ------> Bengali `পূর্ণ` <purnô>: "full, whole, complete"
 -----> Sauraseni
-------> Madhari
+------> Madhya Sauraseni
 -------> Hindi `पूरा` <pūrā>: "whole, complete, fulfilled"
-------> Pahari
+------> Northwestern Sauraseni
 -------> Punjabi `ਪੂਰਾ` (pūrā)
-------> Pali <puṇṇa>
-------> Telugu `పూర్ణము` <pūrṇamu>: "full, complete, powerful, pie filling"
------> Sanskrit `पूर्णिमा` <pūrṇimā>: "(day/night of) full moon"
+-----> Pali <puṇṇa>
+-----> Telugu `పూర్ణము` <pūrṇamu>: "full, complete, powerful, pie filling"
+-----> Sanskrit `𑀧𑀽𑀭𑁆𑀡𑀺𑀫𑀸` <pūrṇimā>: "(day/night of) full moon"
 ------> Sauraseni
 -------> Pali
 --------> Malay `purnama`: "moon"
 ---> Iranian <*pr̥Hnáh>
-----> East Iranian
------> Avestan `𐬞𐬆𐬭𐬆𐬥𐬀`‎ (pərəna)
------> Pashto `پر‎` <pur>
+----> Avestan `𐬞𐬆𐬭𐬆𐬥𐬀`‎ (pərəna)
+----> Pashto `پر‎` <pur>
+----> Northern Iranian
 -----> Saka <*purrəh>
-------> Khotanese ` ` <purrä>
-----> West Iranian
------> Kurdish `pir` <piř>: "very"
+------> Khotanese <purrä>
+----> Western Iranian
+-----> Northwestern Iranian
+------> Kurdish `pir` <piř>: "very"
 -----> Old Persian `*𐎱𐎼𐎴` <*purna>
 ------> Persian `پر‎` <por>: "full"
 
@@ -265,14 +266,14 @@ Proto-Indo-European <*pleh₁>: "to fill"
 
 --> Indo-Iranian <*praHtás>
 ---> Indo-Aryan 
-----> Sanskrit `प्रात` <prātá>
+----> Sanskrit `𑀧𑁆𑀭𑀸𑀢` <prātá>
 
 
 -> Proto-Indo-European <*polh₁ús>: "much, many"
 
 --> Hellenic
----> Mycenaean Greek `*𐀡𐀬` <po-ru>
-----> Mycenaean Greek `𐀡𐀬𐀡𐀆` <po-ru-po-de>: "octopus" ("many-foot")
+---> Mycenaean Greek `*𐀡𐀬` (po-ru)
+----> Mycenaean Greek `𐀡𐀬𐀡𐀆` (po-ru-po-de): "octopus" ("many-foot")
 ---> Ancient Greek `πολῠ́ς` <polús>: "many" 
 ----> English `poly-`
 ----> Ancient Greek `πλείων` <pleíōn>: "more" #
@@ -306,10 +307,10 @@ Proto-Indo-European <*pleh₁>: "to fill"
 -----> English `maniple`
 
 
--> Proto-Indo-European <*plh₁yó-s>
+-> Proto-Indo-European <*pl̥h₁yó-s>
 
--?> Old Armenian `լի` <li>: "full, abundant, perfect, whole"
----> Armenian `լի` <li>: "full, packed, abundant, rich"
+-?> Old Armenian `լի` (li): "full, abundant, perfect, whole"
+---> Armenian `լի` (li): "full, packed, abundant, rich"
 ---> Old Armenian `լնում` <lnum>: "to fill, to load, to complete, to spread"
 
 
@@ -360,7 +361,7 @@ Proto-Indo-European <*pleh₁>: "to fill"
 ------> Polish `pułk`: "regiment"
 -------> German `Pulk`: "mob, throng, crowd"
 
--> Proto-Indo-European <?>
+-> Proto-Indo-European <?>»11
 
 --> Hellenic
 ---> Ancient Greek `πλήθω` <plḗthō>: "I am full, I swell"
@@ -377,12 +378,45 @@ Proto-Indo-European <*pleh₁>: "to fill"
 
 
 
+?> Proto-Indo-European <*pelH->: "stronghold" ###
+
+--> Proto-Indo-European <*pl̥His>
+
+--> Balto-Slavic
+---> Lithuanian `pilìs`: "castle, stronghold, palace"
+
+--> Proto-Indo-European <pólHis>
+
+---> Hellenic
+----> Classical Greek `πόλις • (pólis)
+
+--> Proto-Indo-European <pĺ̥H>
+
+---> Indo-Iranian <*pŕ̥H>
+----> Indo-Aryan <*pŕ̥H>
+-----> Sanskrit `𑀧𑀼𑀭𑁆` <púr>: "stronghold, fortification, city, castle, wall"
+------> Sanskrit `𑀧𑀼𑀭` <pura>: "castle, city, town, house, body"
+-------> Sauraseni
+--------> Hindi `पुर` <pur>: "town, city, fortress"
+
+
+-------> Malay `pura`: "town, temple"
+-------> Malay `puri`: "castle, palace"
+------?> Thai `พารา` <paa-raa>: "city, town" (archaic/poetic)
+
+-------> Sanskrit `𑀲𑀺𑀁𑀳𑀧𑀼𑀭` <siṃhá-pura>: "Singapore" (lit. "Lion-City" with [wff-singh|Singh])
+--------> Malay `Singapura`: "Singapore" (lit. "Lion-City")
+---------> Engish `Singapore`
+
+
 endbody
 
 
 
 
 fulfill
+
+startnotes
 
 
 # Greek `πλείων` <pleíōn>: "more" and πλεῖστος <pleîstos> "most" are obivously related in some way Greek `πολῠ́ς` <polús>: "many", but I don't have the details of that derivation. 
@@ -391,4 +425,16 @@ fulfill
 ## In Latinate words like `simple`, `double`, `triple` it is sometimes hard to know the origins of the `-ple`-type suffix, due to the confusability of Latin `plus`: "more" and `plex`: "fold". In many cases both words existed in Latin side-by-side (`simplus`/`simplex`, `duplus`/`duplex`, etc.) which under went some combination of merger or influence to give a single inherited word (often with later re-borrowings of one or both forms). 
 
 This is probably mirrored in Greek <-plóos> and <-plásios>, which are both used to form adjectives from numerals and generally considered alternate forms of each other, but look like cognates of `plus` and `plex`, respectively. As in many things, the Latin may have been influenced by the Greek.
+
+
+
+
+###  <*pl̥h₁-> looks like a zero-grade form of <*pleh₁->: "full, many" and a semantic connection is certainly plausible, given descendants of <*pleh₁-> with meanings like "crowd", "nation", "complete", and "solid")
+
+Beekes reconstructs the root as <*tpelH-> instead, but I'm not convinced. As far as I know the <*t> is only attested (with metathesis) in the Homeric Greek variant `πτόλῐς` <ptólis>. I don't see any reason to think <*tp-> is a possible cluster in PIE. Most Greek initial `πτ-` <pt-> are from non-Indo-European sources, and most of the rest are from deletion of vowels from PIE <pV(p)th->.
+
+It also invites comparison with <*peh₂ǵ->: "to attach", the root of "pallisade" and possibly "palace".
+
+
+endnotes
 

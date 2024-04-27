@@ -13,14 +13,14 @@ Proto-Indo-European <*neḱ->: "to perish, to disappear"
 
 --> Indo-Iranian <*náĉyati>
 ---> Indo-Aryan
-----> Dardic
------> Kashmiri `نَشُن` <naśun>: "to be destroyed, to disappear, to wear away"
 ----> Sanskrit `𑀦𑀰𑁆𑀬𑀢𑀺` <naśyati>: "to be lost, to perish, to disappear, to be gone"
 -----> Maharashtri `𑀡𑀲𑁆𑀲𑀇` <ṇassaï>
 ------> Marathi `नासणे` <nāsṇe>: "to spoil, to rot"
 -----> Sauraseni
-------> Madhya
+------> Madhya Sauraseni
 -------> Hindi `नासना` <nāsnā>: "to destroy, to finish"
+------> Northwestern Sauraseni
+-------> Kashmiri `نَشُن` <naśun>: "to be destroyed, to disappear, to wear away"
 ------> Western Sauraseni
 -------> Romani `naśel`: "to run away"
 
@@ -169,4 +169,6 @@ http://titus.fkidg1.uni-frankfurt.de/database/titusinx/titusinx.asp?LXLANG=59288
 <νέκταρ> (néktar) seems to have already been unanalyzable by a native speaker by Classical Greek. The underlying meaning was lost until 1952 when Paul Thieme correlated it with Vedic Sanskrit <tar->, "overcome", confirmed in 1961 when Rüdiger Schmitt realized it had a phrasal parallel in the Atharvaveda: <mrtyum tar-> "overcome death". (_How to Slay a Dragon_, Watkins 1995, p. 12)
 
 endnotes
+
+
 

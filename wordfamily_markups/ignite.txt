@@ -6,9 +6,9 @@ startintro
 
 Proto-Indo-European had (at least) two words <*h₁n̥gʷnis>: "fire" (grammatically animate) and <*péh₂wr̥> (grammatically inanimate).
 
-Effectively all descendants of <*h₁engʷ-> have lost the labialization, so distinguishing it from reconstructed <**h₁eng-> is not immediately obivous. It mostly survives only  in languages that merge <*g> and <*gʷ> (Balto-Slavic, Indo-Iranian, Albanian, Armenian), with only one descendant in a clearly centum language: Latin `ignis`, where the labialization is also not present due to the following consonant (compare Latin `migrō` from <*h₂migʷró->, corresponding to Greek <ameíbō> from <*h₂méygʷ->).
+Effectively all descendants of <*h₁engʷ-> have lost the labialization, so distinguishing it from reconstructed <**h₁eng-> is not immediately obivous. It mostly survives only in languages that merge <*g> and <*gʷ> (Balto-Slavic, Indo-Iranian, Albanian, Armenian), with only one descendant in a clearly centum language: Latin `ignis`=lat-Latn, where the labialization is also not present due to the following consonant (compare Latin `migrare`=lat-Latn as if from <*h₂migró->, but corresponding to Greek <ameíbō> from <*h₂méigʷ-> with a clear labial).
 
-Possibly the clearest indication of original <*gʷ> is Albanian `thëngjill`—the palatalization to `gj` happens to original <*gʷ>, but not <*g>, even though <*gʷ> and <*g> merge otherwise. 
+Possibly the clearest indication of original <*gʷ> is Albanian `thëngjill`=sqi-Latn—the palatalization to `gj` happens to original <*gʷ>, but not <*g>, even though <*gʷ> and <*g> merge otherwise. 
 
 endintro
 
@@ -22,8 +22,8 @@ Proto-Indo-European <*h₁engʷ->: "to burn, fire"
 -> Proto-Indo-European <*h₁n̥gʷnis>: "fire"
 
 --> Paleo-Balkan <*Enji>: "divinity of Fire"
----> Albanian `En`: "divinity of Fire and Thunder" (oblique stem `enj-`)
-----> Albanian `enjte`: "Thursday" (calque of Latin `​​(diēs) Iovis`: "day of Jupiter")
+---> Albanian `En`: "divinity of Fire and Thunder" (oblique stem `enj-`=sqi-Latn)
+----> Albanian `e enjte`: "Thursday" (calque of Latin `​​(diēs) Iovis`=lat-Latn: "day of Jupiter")
 ---> Messapian <*En>
 ----> Messapian <*Enni->: "personal name: of (the god) En"
 -----> Latin `Ennius` ###
@@ -44,8 +44,6 @@ Proto-Indo-European <*h₁engʷ->: "to burn, fire"
 
 --> Indo-Iranian <*Hagnis>
 ---> Indo-Aryan <*agní>: "fire"
-----> Dardic <*agní>
------> Kashmiri <agun>
 ----> Mitanni Aryan
 -----> Hurrian
 ------> Hittite `𒀀𒀝𒉌𒅖` <a-ak-ni-iš>: "Mitanni divinity of fire, Agni" #
@@ -54,9 +52,10 @@ Proto-Indo-European <*h₁engʷ->: "to burn, fire"
 ------> Javanese `geni`: "fire"
 ------> Thai `อัคนี` <àk-ká-nii>: "fire, Agni"
 -----> Sauraseni `𑀅𑀕𑁆𑀕𑀺` <aggi>
-------> Madhya
+------> Madhya Sauraseni
 -------> Hindi `आग` <āg>: "fire, flame"
-------> Pahari
+------> Northwestern Sauraseni
+-------> Kashmiri <agun>
 -------> Nepali `आगो` <āgo>: "fire, flame"
 -------> Punjabi `ਅੱਗ` <agga>: "fire"
 ------> Western Sauraseni
@@ -67,7 +66,7 @@ Proto-Indo-European <*h₁engʷ->: "to burn, fire"
 
 --> Italic <*əngʷnis>
 ---> Latin `ignis`: "fire"
-----> Latin `igniō`: "I set on fire, I ignite"
+----> Latin `ignire`: "to set on fire, to ignite"
 -----> English `ignite`
 ----> Latin `igneus`: "fiery, burning"
 -----> Central Romance
@@ -83,8 +82,10 @@ Proto-Indo-European <*h₁engʷ->: "to burn, fire"
 
 -> Proto-Indo-European <*h₁óngʷl̥>: "charcoal, coal, ember"
 
---> Pre-Albanian <*ts-angila>
----> Albanian `thëngjill`: "embers, coal, charcoal, carbon"
+--> Pre-Albanian <*angila>
+---> Albanian <*ëngjill>
+----> Albanian `fëngjill`: "embers, coal, charcoal, carbon" (with influence from unrelated Latin `favīlla`=lat-Latn: "embers, hot ashes")
+-----> Albanian `thëngjill`: "embers, coal, charcoal, carbon" (common alternation between `f`=sqi-Latn and `th`=sqi-Latn)
 
 --> Proto-Armenian <*anwcúɫ-o->
 ---> Old Armenian `ածուղ` <acuł>: "coal, soot"
@@ -109,9 +110,6 @@ Proto-Indo-European <*h₁engʷ->: "to burn, fire"
 
 --> Indo-Iranian <*Hángāras>
 ---> Indo-Aryan <*áṅgāras>
-----> Dardic
------> Khowar `انگار` <angaár>: "fire"
------> Ushojo `انگار` <angàr>: "blacksmith"
 ----> Sanskrit `𑀅𑀗𑁆𑀕𑀸𑀭` <áṅgāra>: "charcoal, Mars"
 -----> Pali <aṅgāra>
 ------> Old Khmer
@@ -119,9 +117,13 @@ Proto-Indo-European <*h₁engʷ->: "to burn, fire"
 -------> Thai `อังคาร` <ang-kaan>: "Tuesday, Mars, cremated remains"
 ------> Malay <arang>: "charcoal"
 -----> Sauraseni
-------> Romani `angar`: "coal"
--------> Angloromani
---------> English `wonga` ##
+------> Northwestern Sauraseni
+-------> Khowar `انگار` <angaár>: "fire"
+-------> Ushojo `انگار` <angàr>: "blacksmith"
+------> Western Sauraseni
+-------> Romani `angar`: "coal"
+--------> Angloromani
+---------> English `wonga` ##
 -----> Telugu `అంగారము` <aṃgāramu>: "fire, charcoal"
 ---> Iranian <*ángārah>
 ----> Pashto `انگار` <angār>: "coal, ember"
@@ -135,14 +137,16 @@ endbody
 startnotes
 
 
-# Hittite `𒀀𒀝𒉌𒅖` <a-ak-ni-iš>: "Mitanni god of fire" is recorded in a 13th century BCE treaty between the Hittites and Mitanni. The treaty invoked the gods of both kingdoms to witness and enforce the treaty.
+# Hittite `𒀀𒀝𒉌𒅖`=hit-Xsux <a-ak-ni-iš>: "Mitanni god of fire" is recorded in a 13th century BCE treaty between the Hittites and Mitanni. The treaty invoked the gods of both kingdoms to witness and enforce the treaty.
 
 Mitanni was a kingdom in northern Mesopotamia (around modern day Syria). Most of the people in Mitanni were culturally Hurrian, and spoke a Hurro-Urartian language, unrelated to either the Indo-European or the Afro-Asiatic languages of the area. But the Mitanni kings and other elite appear to have been culturally Vedic, and close relatives of the speakers of Vedic Sanskrit. Sanskrit-like words especially appear in the names of Mitanni kings and gods, as well as horse-related terminology.
 
-## "wonga" for "money, cash" is London slang, also used in New Zealand as I understand it. The "money"/"coal" equivalency is a thing that comes a couple of different times in historical London slang.
+## `wonga`=eng-Latn for "money, cash" is London slang, also used in New Zealand as I understand it. The "money"/"coal" equivalency is a thing that comes up a couple of different times in historical London slang.
 
 
-### The poet Quintus Ennius—who has been called the father of Roman poetry—was from Apulia and claimed Messapian descent, so his nomen gens, Ennius, was likely a Latinization of an originally theopheoric name referencing the same Illyrian/Balkan god as is preserved in Albanian `En` and `enjte`.
+### The poet Quintus Ennius—who has been called the father of Roman poetry—was from Apulia and claimed Messapian descent, so his nomen gens, Ennius, was likely a Latinization of an originally theopheoric name referencing the same Illyrian/Balkan god as is preserved in Albanian `En`=sqi-Latn and `enjte`=sqi-Latn.
+
+
 
 
 endnotes

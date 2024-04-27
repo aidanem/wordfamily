@@ -14,9 +14,9 @@ endintro
 startbody
 
 
-Proto-Indo-European <*dʰew->: "to run, to depart"
+Proto-Indo-European <*dʰew->»1: "to run, to depart"
 
--> Proto-Indo-European <*dʰéw-eti>
+-> Proto-Indo-European <*dʰéweti>»1
 
 -?> Anatolian
 ---> Hittite <tuḫḫušzi>: "to end"
@@ -33,10 +33,10 @@ Proto-Indo-European <*dʰew->: "to run, to depart"
 ---> Iranian <*dáwatī>
 ----> Persian `دویدن` <davidan>: "to run"
 
-?> Proto-Indo-European <*dʰew->: "to die" (Late Western PIE euphemism?)
+?> Proto-Indo-European <*dʰew->»2: "to die" (Late Western PIE euphemism?)
 
 
---> Proto-Indo-European <*dʰéw-eti>
+--> Proto-Indo-European <*dʰéweti>»2
 
 ---> Albanian `vdekje`: "death"
 
@@ -64,7 +64,7 @@ Proto-Indo-European <*dʰew->: "to run, to depart"
 ----> Old High German `touwen`
 
 
---> Proto-Indo-European <*dʰwiHt-us>
+--> Proto-Indo-European <*dʰwiHtus>
 
 --?> Armenian `դի` <di>: "corpse"
 
@@ -73,14 +73,14 @@ Proto-Indo-European <*dʰew->: "to run, to depart"
 -----> Irish `díth`: "loss, deprivation, destruction, lack, need"
 
 
---> Proto-Indo-European <*dʰów-tus>
+--> Proto-Indo-European <*dʰówtus>
 
 ---> Germanic <*dauþuz>: "death" ##
 ----> East Germanic
 -----> Gothic `𐌳𐌰𐌿𐌸𐌿𐍃` <dauþus>: "death"
 ----> North Germanic
 -----> Old Norse `dauði`: "death"
-------> Danish `død`: "death" ##
+------> Danish `død`»1: "death" ##
 ------> Icelandic `dauði`: "death"
 -----> Finno-Ugric <*tauti>: "disease"
 ------> Finnic <*tauti>
@@ -90,36 +90,36 @@ Proto-Indo-European <*dʰew->: "to run, to depart"
 ----> West Germanic
 -----> Old English `dēaþ`: "death"
 ------> English `death`
------> Old High German `tōd`: "death"
-------> German `Tod`: "death"
-------> Yiddish `טויט` <toyt>: "death" ##
 -----> Frankish
-------> Dutch `dood`: "death" ##
+------> Dutch `dood`»1: "death" ##
+-----> Old High German `tōd`»1: "death"
+------> German `Tod`»1: "death"
+------> Yiddish `טויט` <toyt>»1: "death" ##
 
 
---> Proto-Indo-European <*dʰowHt-ós>
+--> Proto-Indo-European <*dʰowHtós>
 
 ---> Germanic <*daudaz>: "dead" ##
 ----> East Germanic
 -----> Gothic `𐌳𐌰𐌿𐌸𐍃` <dauþs>: "dead"
 ----> North Germanic
 -----> Old Norse `dauðr`: "dead"
-------> Danish `død`: "dead" ##
+------> Danish `død`»2: "dead" ##
 ------> Icelandic `dauður`: "dead"
 ----> West Germanic
 -----> Old English `dēad`: "dead"
 ------> English `dead`
 -----> Frankish
-------> Dutch `dood`: "dead" ##
------> Old High German `tōt`: "dead"
-------> German `tot`: "dead"
-------> Yiddish `טויט` <toyt>: "dead" ##
+------> Dutch `dood`»2: "dead" ##
+-----> Old High German `tōt`»2: "dead"
+------> German `tot`»2: "dead"
+------> Yiddish `טויט` <toyt>»2: "dead" ##
 
 
--?> Proto-Indo-European <*dʰew-nós?>
+-?> Proto-Indo-European <*dʰewnós?>
 
---?> Italic
-----> Latin `funus`: "death, funeral"
+--?> Italic <*ðūnos>»1: "burial mound??"
+---?> Latin `funus`»1: "death, funeral"
 -----> Latin `fūnerālis`: "of a funeral, funereal"
 ------> Western Romance
 -------> French `funérailles`: "funeral"

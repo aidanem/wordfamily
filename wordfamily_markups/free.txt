@@ -18,7 +18,7 @@ Proto-Indo-European <*preyH->: "to love, to please"
 -> Proto-Indo-European <*priHnéHti>: "loves, pleases"
 
 -?> Albanian `Prende`: "divinity of love and dawn" (a clear reflex of [<*H₂éwsōs>])
----> Albanian `e premte`: "Friday" (calque of `(diēs) Veneris``: "Venus's day")
+---> Albanian `e premte`: "Friday" (calque of `(diēs) Veneris`: "Venus's day")
 
 --> Indo-Iranian <*priHnáHti>
 ---> Indo-Aryan
@@ -55,7 +55,7 @@ Proto-Indo-European <*preyH->: "to love, to please"
 ----> Gothic `𐍆𐍂𐌴𐌹𐍃` <freis>: "free"
 ---> West Germanic
 ----> Old English `frēo`: "free, at liberty, exempt"
------> English `free`
+-----> English `free`»1
 ----> Frankish <*frī>
 -----> Dutch `vrij`: "free"
 ------> Dutch `vrijbuiter`: "freebooter, pirate"
@@ -207,7 +207,7 @@ Proto-Indo-European <*preyH->: "to love, to please"
 ------> Danish `fri`: "to propose"
 ----> West Germanic
 -----> Old English `frēoġan`: "to free, to liberate, to love, to honor"
-------> English `free`
+------> English `free`»2
 -----> Frankish
 ------> Dutch `vrijen`: "to date, to make out"
 -----> Old High German <*frīon>

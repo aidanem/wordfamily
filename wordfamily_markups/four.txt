@@ -4,10 +4,13 @@ tags: Numbers, COVID-19
 
 startintro
 
-<*kʷetwer-> is too long for a root. The feminine root suggests that there may have been an original root of just <*kʷet->. There are also several reasons to believe that none of this is the original word for four: 
+<*kʷetwer-> is too long for a root. The feminine root suggests that there may have been an original root of just <*kʷet->. This is one of several reasons to believe this word was relatively recent at the time of PIE: 
 
 * Hittite's word for "four", <meyawes>, is unrelated (Hittite is the oldest attested, and oldest split)
 * The word for "eight" <*oḱtṓw> is a dual, suggesting a lost word for "four" <*h₃eḱt->, attested only in Avestan <ašti->: "width of four fingers", and likely in Proto-Kartvelian <*oxto->: "four".
+
+It's been speculated that Hittite <kutruwan>: "witness" (a fourth party in a legal preceeding?) and Lycian `𐊗𐊁𐊗𐊁𐊕𐊆` <teteri>: "city" could be from an Anatolian reflex of <*kʷetwer->, but this is not very compelling (I believe this speculation is originally from before the meaning of <teteri> was worked out).
+
 
 Note: I haven't written in the definitions for words meaning "four", "four-", or "forty" if they're in the respective section.
 
@@ -18,11 +21,6 @@ startbody
 Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*kʷétesr->)
 
 -> Albanian `katër`
-
--> Anatolian <*gʷetʷóres>
--?> Hittite <kutruwan>: "witness" (a fourth party in a legal preceeding)
---> Lycian `𐊗𐊁𐊗𐊁𐊕𐊆` <teteri>
-
 
 -> Old Armenian `չորք` <čʿorkʿ>
 --> Armenian `չորս` <čʿors>
@@ -95,7 +93,7 @@ Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*k�
 ----> Maharashtri `𑀘𑀢𑁆𑀢𑀸𑀭𑁄` <cattāro>
 -----> Marathi `चार` <cār>
 ----> Pali <catur>
------> Malay <catur>: "four, chess"
+-----> Malay <catur>»1: "four, chess"
 ----> Sauraseni `𑀘𑀢𑁆𑀢𑀸𑀭𑁄` <cattāro>
 -----> Madhya
 ------> Hindi `चार` <cār>
@@ -106,7 +104,7 @@ Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*k�
 ------> Romani `śtar`
 ----> Sanskrit `𑀘𑀢𑀼𑀭𑀗𑁆𑀕` <cátur-aṅga>: "four limbs, four parts, army, chess"
 -----> Pali <caturaṅga>
-------> Malay <catur>: "four, chess"
+------> Malay <catur>»1: "four, chess"
 -----> Middle Persian <čatrang>
 ------> Arabic `شطرنج‎` <šaṭranj>: "chess"
 -------> English `shatranj`
@@ -199,6 +197,7 @@ Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*k�
 -------> Vulgar Latin <*exquartō>
 --------> Western Romance
 ---------> French `écarter`: "to spread out, to separate, to diverge, to dismiss"
+Spanish `cuadro`
 
 
 -> Lusitanian `petranioi` ######
@@ -241,10 +240,11 @@ Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*k�
 
 --> Italic 
 ---> Latin `quadr(i)-`
+----> Latin `quādrangulus»1`: "four-cornered"
 ----> English `quadr(i)-`
------> English `quad`
+-----> English `quad`»2
 
---> Phrygian `διθυρ-`
+--> Phrygian `ΘΙΔΡΑ-` <thidra->
 
 
 
@@ -257,7 +257,7 @@ Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*k�
 
 ---> Hellenic
 ----> Classical Greek `τεσσᾰρᾰ́κοντᾰ` <tessarákonta>
------> Greek `σαράντα` <saránta> (re-bracketed, with the `tes-` interpreted as a definite article)
+-----> Greek `σαράντα` <saránta> (re-bracketed, with the <tes-> interpreted as a definite article)
 
 ---> Indo-Iranian <*čatwārHćát>
 ----> Indo-Aryan <*ćatwārHśát>
@@ -268,7 +268,7 @@ Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*k�
 -------> Magadhi
 --------> Bengali `চল্লিশ` <côlliś>
 -------> Sauraseni
---------> Madhya
+--------> Madhya Sauraseni
 ---------> Hindi `चालीस` <cālīs>
 ----> Iranian <*čatwārHcát>
 -----> Western Iranian
@@ -302,6 +302,7 @@ Proto-Indo-European <*kʷetwóres> (oblique stem <*kʷetwr->, feminine stem <*k�
 
 -------> Old Irish `Corgus`
 --------> Irish `Carghas`: "Lent"
+-------> Welsh `Grawys`: "Lent"
 
 endbody
 
@@ -327,3 +328,4 @@ Lusitanian <petranioi> known from rock inscription from Lamas de Moledo (Búa, C
 
 
 endnotes
+

@@ -1,5 +1,17 @@
 date: 20190405
-theme: Dinosaurs and Friends🦕 
+theme: Dinosaurs and Friends 🦕 
+
+startintro
+
+Semitic <*ḳarn->: "horn" and Indo-European <*ḱr̥h₂nós>: "horn" are strikingly similar. Semitic <*ḳarn->: "horn" has a plausible connection to Egyptian <kr.tj>: "horns (dual)", for a possible Afro-Asiatic cognate (which would be prevent interpreting the Semitic as an IE borrowing), but that is extremely tenuous.
+
+IE's internal connection to forms without the <*n> to an underlying <*ḱerh₂->, and from there possibly to <*ḱer->: "to grow" is more compelling (which prevents interpreting the IE as a Semitic borrowing).
+
+Compare IE <*táwros>: "bull" and Semitic <*ṯawr>: "bull", also strikingly similar and in the same semantic space as "horn". Though in that case, neither has as strong a case for a native word as IE <*ḱr̥h₂nós> does.
+
+
+
+endintro
 
 
 
@@ -7,17 +19,17 @@ startbody
 
 Proto-Afro-Asiatic
 
-?> Egyptian <*qar->: "horn"
---> Egyptian <qr.tj>: "horns (dual)"
+?> Egyptian <*kar->: "horn"
+--> Egyptian <kr.tj>: "horns (dual)" (sometimes reconstructed as <qr.tj>)
 
 
-?> Semitic <*qarn->: "horn"
+?> Semitic <*ḳarn->: "horn"
 
 --> Central Semitic
 ---> Arabic `قَرْن‎` <qarn>: "horn, century"
 ----> Maltese `qarn`: "horn"
 ---> Northwest Semitic
-----> Aramaic `קַרְנָא`‎ <qarnā>: "horn, corner, angle"
+----> Aramaic `𐡒𐡓𐡍𐡀`‎ <qarnā>: "horn, corner, angle"
 ----> Canaanite
 -----> Hebrew `קֶרֶן‎` <qéren>: "horn, antler, light beam, corner, keratin"
 ------> Hebrew `חַד קֶרֶן‎` <ẖad-qéren>: "unicorn"
@@ -43,7 +55,7 @@ Proto-Afro-Asiatic
 ---------> English `zurna`
 -------> Middle Chinese
 --------> Cantonese `嗩吶` <so2 naap6>: "suona, zurna"
---------> Mandarian `嗩吶` <suǒnà>: "suona, zurna"
+--------> Mandarin `嗩吶` <suǒnà>: "suona, zurna"
 ---------> English `suona`
 
 ----> Balto-Slavic <*śírˀnāˀ>: "horn, roe deer"
@@ -69,8 +81,7 @@ Proto-Afro-Asiatic
 --------> English `cairn`
 -----> Celtic <*karnonos> (augmentative ~"great horn"?)
 ------> Gaulish <Carnonos>: "Horned God"
--------> Helleno-Celtic `καρνονου` <karnonou>: "of the Horned God" 
--------> Gallo-Latin `[C]ernunnos`: "Horned God"
+
 
 ----> Germanic <*hurną>: "horn"
 -----> East Germanic
@@ -104,10 +115,10 @@ Proto-Afro-Asiatic
 --------> Bengali `শিঙা` <śiṅa>: "horn"
 -------> Pali <siṅga>
 -------> Sauraseni `𑀲𑀺𑀁𑀕` <siṃga>
---------> Madhya
+--------> Madhya Sauraseni
 ---------> Hindi `सींग` <sīṅg>: "horn"
--------> West Indo-Aryan
---------> Romani `shing`: "horn"
+--------> Western Sauraseni
+---------> Romani `shing`: "horn"
 -------> Telugu `శృంగము` <śr̥ṅgamu>: "horn, trumpet, peak, syringe"
 
 
@@ -136,7 +147,13 @@ Proto-Afro-Asiatic
 --------> Old French `unicorne`
 ---------> French `licorne` ###
 ---------> English `unicorn`
+--------> Italian `unicorno`: "one-horned, narwhal, unicorn"
+---------> Italian `liocorno`: "unicorn" ###
+----------> Italian `alicorno`: "unicorn"
 
+
+
+---?> Semitic <*ḳarn->: "horn"
 
 ---> Proto-Indo-European <*ḱérh₂sō>
 
@@ -203,9 +220,9 @@ Proto-Afro-Asiatic
 ------> Ancient Greek `ῥῑνόκερως` <rhīnókerōs>: "rhinoceros" (lit. "nose-horn")
 -------> Latin `rhīnocerōs`: "rhinoceros"
 --------> English `rhinoceros`
-------> Translingual `Ceratops`: "an obsolete genus name of Ceratopsians"
--------> Translingual `Ceratopsia`: "the Ceratopsians, a suborder of Ornithician dinosaurs"
--------> Translingual `Triceratops`: "a genus of Ceratopsians" (lit. "three horn face")
+------> Translingual `Ceratops`: "an obsolete taxonomic genus of ornithiscian dinosaurs"
+-------> Translingual `Ceratopsia`: "the Ceratopsians, a taxonomic suborder of ornithiscian dinosaurs"
+-------> Translingual `Triceratops`: "a taxonomic genus of Ceratopsians" (lit. "three horn face")
 
 
 ---> Proto-Indo-European <*ḱŕ̥h₂-os>
@@ -216,7 +233,13 @@ Proto-Afro-Asiatic
 
 ----> Indo-Iranian <*ĉr̥Has>
 -----> Indo-Aryan <*śr̥Has>
-------> Sanskrit `शिर` <śira>: "head, skull, top, peak"
+------> Sanskrit `𑀰𑀺𑀭𑀲𑁆` <śíras>: "head, skull, top, peak"
+
+-------> Sauraseni
+
+--------> Western Sauraseni
+---------> Romani `śero`: "head"
+
 -----> Iranian <*ĉr̥Hah>
 ------> Avestan <*sāra>: "head"
 
@@ -377,3 +400,4 @@ startnotes
 On the other hand, Italian for "unicorn" is `liocorno`, and the standard story there is that it is a blending of `lione` ("lion") and `unicorno`. I am suspicious of the idea that French and Italian could have two totally different paths to very similar words.
 
 endnotes
+

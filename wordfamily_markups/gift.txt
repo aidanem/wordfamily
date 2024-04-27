@@ -1,5 +1,5 @@
 date: 20220114
-tags: Runes
+tags: Body Parts, Runes
 
 
 
@@ -20,10 +20,10 @@ Proto-Indo-European <*gʰebʰ->: "to give"
 ----> Old Norse `gefa`
 -----> Danish `give`: "to give"
 -----> Icelandic `gefa`: "to give"
------> English `give`
+-----> English `give`»1
 ---> West Germanic
 ----> Old English `ġiefan`: "to give"
------> English `give`
+-----> English `give`»1
 ----> Frankish
 -----> Dutch `geven`: "to give"
 ----> Old High German `geban`: "to give"
@@ -37,10 +37,10 @@ Proto-Indo-European <*gʰebʰ->: "to give"
 -----> Old Norse `gjǫf`: "gift"
 ------> Icelandic `gjöf`: "gift"
 ----> West Germanic <*gebu>
------> Old English `ġiefu`: "gift, the rune ᚷ"
-------> English `gyfu`
+-----> Old English `ġiefu`
+------> English `gyfu`: "the rune ᚷ"
 -----> Old High German `geba`: "gift"
-----> Germanic <*Gudagebō>: "God-Gift (personal name)"
+----> Germanic <*Gudagebō>»1: "God-Gift (personal name)"
 -----> East Germanic
 ------> Gothic
 -------> Galician `Guxeva`
@@ -67,10 +67,10 @@ Proto-Indo-European <*gʰebʰ->: "to give"
 ------> Gothic `𐍆𐍂𐌰-𐌲𐌹𐍆𐍄𐍃` <fra-gifts>: "to give away"
 ----> North Germanic
 -----> Old Norse `gipt`: "gift, good luck"
-------> English `gift`
+------> English `gift`»1
 ----> West Germanic
 -----> Old English `ġift`: "dowry, marriage"
-------> English `gift`
+------> English `gift`»1
 -----> Old High German
 ------> German `Gift`: "poison"
 -------> Danish `gift`: "poison"
@@ -80,7 +80,7 @@ Proto-Indo-European <*gʰebʰ->: "to give"
 
 ---> Germanic <*gabulã>
 ----> West Germanic
------> Old English `gafol`: "gift, tribute, due, profit, interest, usury"
+-----> Old English `gafol`»1: "gift, tribute, due, profit, interest, usury"
 ------> English `gavel`
 -------> English `gavelkind`
 
@@ -228,11 +228,11 @@ Proto-Indo-European <*gʰebʰ->: "to give"
 ------> Welsh `Yr Eifl`
 ----> Gaulish <gabalos>
 -----> West Germanic <*gabulu>: "fork, pitchfork"
-------> Old English `gafol`: "fork"
+------> Old English `gafol`»2: "fork"
 ------> Frankish
 -------> Dutch `gaffel`: "any two-pronged fork, pitchfork or antler"
 --------> Dutch `gaffelzeil`: "gafsail"
----------> English `gaffsail`
+---------> English `gaffsail`»1
 --------> English `gaffle`
 ------> Old High German
 -------> German `Gabel`: "fork, pitchfork, prong"
@@ -248,7 +248,7 @@ Proto-Indo-European <*gʰebʰ->: "to give"
 ---------> English `gaff`
 ----------> English `gaffer`
 -----------> English `gaffer tape`
-----------> English `gaffsail`
+----------> English `gaffsail`»1
 -----> Latin `gabulus`: "gallows, cross"
 ------> Vulgar Latin
 -------> Vulgar Latin <*gabalottus>: "spear, javelin" (diminutive)
@@ -257,12 +257,13 @@ Proto-Indo-European <*gʰebʰ->: "to give"
 ----------> French `javelot`: "javelin"
 ----------> Italian `giavellotto`: "javelin"
 ----------> Old French `javelline` (another diminutive)
------------> English `javelin`
+-----------> English `javelin
 -----------> Spanish `jabalina`: "javeline"
 ----> Old Irish `gabul`: "fork, forked branch, gallows"
 -----> Irish `gabhal`: "fork, branch, crotch, udder"
 
 endbody
+
 
 
 
@@ -280,3 +281,4 @@ The past tense of the same verb appears on the Stentoften Runestone: `ᚺᚼᚦ�
 
 
 endnotes
+

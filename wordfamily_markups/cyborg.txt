@@ -88,7 +88,7 @@ Proto-Indo-European <*(s)ker->: "to bend, to curve, to turn"
 -----> Latin `crista`: "crest, plume, tuft"
 ------> English `crest`
 
---->  Proto-Indo-European <?>
+--->  Proto-Indo-European <?>»2
 ----> Italic
 -----> Latin `crispus`: "curly, crimped"
 ------> Western Romance
@@ -176,11 +176,6 @@ Proto-Indo-European <*(s)ker->: "to bend, to curve, to turn"
 
 
 ?> Proto-Indo-European <*(s)kel->: "to bend, to crook, heel, knee, hip"
--?> English `colon`
----> English `colic`
---> English `cylinder`
---> English `scoliosis`
--?> English `Scalzi`
 
 --> Proto-Indo-European <*(s)kleh₂w->: "hook, crook, peg"
 

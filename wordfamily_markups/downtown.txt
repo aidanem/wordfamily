@@ -4,7 +4,7 @@ theme: Community 🏘️
 
 startintro
 
-The Celtic word <*dūnom>: "hill fort was borrowed into Germanic twice, once as "hill" and once as "fort".
+The Celtic word <*dūnom>: "hill fort" was borrowed into Germanic twice, once as "hill" and once as "fort".
 
 The first time was borrowed before the completion of Grimm's Law, so Grimm's Law changed the <*d> to <*t> for Germanic <*tūną>: "enclosure", which eventually gave English "town"
 
@@ -24,45 +24,55 @@ Proto-Indo-European <*dʰewH-?>
 
 ---> Brythonic <*din>: "hill fort, hill"
 ----> Welsh `din`: "fort"
+-----> Welsh `Dinbych`: "place name: Little Fort
+------> English `Tenby`
+------> English `Denbigh`
+-----> Welsh `dinas`: "city"
 ---> Old Irish `dún`: "fort, fortress"
 ----> Irish `dún`: "fort, fortress, refuge, haven"
------> Irish `Dún na nGall`: "Fort of Foreigners, Donegal"
-------> English `Donegal`
+-----> Irish `Dún na nGall`»1: "place name: Fort of Foreigners, Donegal"
+------> English `Donegal`»1
+
 
 ---> Gaulish `dunum`: "hill fort, fortress, fortified town"
 ----> Latin `Dunum`
 -----> Old High German `Tuno`
 ------> German `Thun`
-----> Gaulish `Cambodunum`: "Crooked-Fort"
+----> Gaulish `Cambodunum`: "place name: Crooked-Fort"
 -----> Latin `Cambodunum`
 ------> Old High German
 -------> German `Kempten`
-----> Gaulish `Eburodunum`: "Yew-Fort"
+----> Gaulish `Eburodunum`: "place name: Yew-Fort"
 -----> Latin `Ebredunum`
 ------> Western Romance
 -------> French `Yverdon`
-----> Gaulish `Lugdunum`: "Fort of (the god) Lugh" ####
+----> Gaulish `Lugdunum`: "place name: Fort of (the god) Lugh" ####
 -----> Latin <Lugdūnum>
 ------> Western Romance
 -------> Old French
 --------> French `Lyon`
 --------> English `Lyons`
 ------> Latin `Gallia Lugdūnēnsis`
-----> Gaulish `Lugidunum`: "Fort of the Lugians"
+----> Gaulish `Lugidunum`: "place name: Fort of the Lugians"
 ----?> Latin `Lignitium`
 ------> Polish `Legnica`
-----> Gaulish `Verodunum`: "Strong-Fort"
+----> Gaulish `Verodunum`: "place name: Strong-Fort"
 -----> Latin `Virodūnum`
 ------> Western Romance
 -------> French `Verdun`
+----> Gaulish <*Noviodūnom>: "place name: New-Fort"
+-----> Latin `Noviodūnum`
 
 ----> West Germanic <*dūnǭ>: "hill"
 -----> Old English `dūn`
-------> English `down` (land feature)
+------> English `down`»1 (land feature)
 ------> Old English `ofdūne`: "off the hill, downhill"
 -------> Old English `adūne`
---------> English `down` (direction)
----------> English `downtown`
+--------> English `down`»2 (direction)
+---------> English `downtown`»1
+------> Old English `Briudun`: "place name: Briu-Hill (Hill-Hill)" #
+-------> English `Breedon` #
+--------> English `Breedon on the Hill` #
 -----> Frankish
 ------> Middle Dutch `dûne` 
 -------> Dutch `duin`
@@ -71,6 +81,13 @@ Proto-Indo-European <*dʰewH-?>
 -----> Old Saxon <*dūna>
 ------> German `Düne`: "dune"
 
+---> Celtic <*Mori-dūnom>: "place name: Sea-Fort"
+----> Latin `Moridūnum`
+----> Brythonic <*Mor-din>
+-----> Welsh `Myrddin` ##
+------> Welsh `Caerfyrddin`: "place name: Fort Myrddin" (with another word for "fort, enclosure")
+------> English `Carmarthen`
+
 ---> Germanic <*tūną>: "enclosure"
 ----> North Germanic
 -----> Old Norse `tún`: "enclosure, courtyard, farmyard, farmstead"
@@ -78,12 +95,13 @@ Proto-Indo-European <*dʰewH-?>
 ----> West Germanic
 -----> Old English `tūn`: "enclosure, garden, homestead, town"
 ------> English `town`
--------> English `downtown`
+-------> English `downtown`»1
 ------> Scots `toun`: "town, village, farmstead"
 ------> Old English `-tun`
 -------> English `-ton`
 --------> English `Newton`
----------> Translingual `newton`
+---------> English `newton`
+----------> Translingual `N`
 -----> Frankish `tūn`
 ------> Dutch `tuin`: "garden, yard"
 -----> Old High German `zūn`
@@ -100,14 +118,8 @@ Proto-Indo-European <*dʰewH-?>
 
 ?> Proto-Indo-European <*dʰuHnos>: "enclosed?, complete?"
 
--?> Italic <*fūnos>: "burial mound??"
---?> Latin `funus`: "death, funeral"
-----> Latin `fūnerālis`: "of a funeral, funereal"
------> Western Romance
-------> French `funérailles`: "funeral"
--------> English `funeral`
-------> Italian `funerale`: "funeral"
-------> Spanish `funeral`: "funeral" 
+-?> Italic <*ðūnos>»1: "burial mound??"
+--?> Latin `funus`»1: "death, funeral"
 
 
 
@@ -115,8 +127,13 @@ endbody
 
 startnotes
 
+# Old English `Briudun`=ang-Latn is a compound of Old English `dun`=ang-Latn: "hill" (borrowed from Celtic <*dunum>: "hillfort") plus a form of Celtic <*brix>: "hill". In later English, as `dun`/`down` became less common, it was elaborated again as `Breedon on the Hill`=eng-Latn ("Hill-hill on the hill").
 
-#### `Lugdunum` is sometimes also given as origin of `London`, but that doesn't stand up to reconstruction. Comparison of the Latin, Old English, and Welsh names of `London` point towards a Celtic reconstruction looking more like <*Londonjon>, possibly meaning "sunken (or flooded) place".
+My son suggests: "Downtown Breedon on the Hill" 😆
+
+## The Old Welsh `Myrddin`=owl-Latn, which underlies the place name `Caerfyrddin`=cym-Latn/`Carmarthen`=eng-Latn, is probably unrelated to Old Welsh `Myrddin`=owl-Latn which is the source of the mythical name `Merlin`=eng-Latn.
+
+#### `Lugdunum`=xtg-Latn is sometimes also given as origin of `London`=eng-Latn, but that doesn't stand up to reconstruction. Comparison of the Latin, Old English, and Welsh names of `London`=eng-Latn point towards a Celtic reconstruction looking more like <*Londonjon>, possibly meaning "sunken (or flooded) place".
 
 
 endnotes

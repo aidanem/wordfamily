@@ -1,0 +1,116 @@
+date: 2024-04-12
+
+
+startintro
+
+<*h₁elmos>: "wych elm (Ulmus glabra)" shows up with identical meaning in all four of the Late Northwest branches, plus an Albanian with a slightly different meaning. It probably represents a LNW borrowing from an Eastern European substrate language, with Albanian borrowing the term separately from either the same or a closely related source.
+
+Since the Albanian has the form of a diminutive, Pre-Albanian could have had <*ulma> meaning "elm" and formed <*ulmzā>, later losing the "elm" meaning.
+
+I met a baby Elowen last week. After initially wondering if it was another example of [wff-fiona|`-wen`], I found that it was actually the singulative suffix `-en`=cor-Latn on `elow`=cor-Latn: "elms", like Welsh `llwyfen`=cym-Latn: "elm", `llwyf`=cym-Latn: "elms".
+
+
+endintro
+
+startbody
+
+Eastern European substrate?
+
+?> Pre-Albanian <*ulma>
+--> Pre-Albanian <*ulmzā> (diminutive)
+---> Albanian `ulzë`: "Tartar maple" {Plants}
+
+
+?> Northwest Indo-European <*h₁elmos>: "wych elm (Ulmus glabra)"
+
+--> Balto-Slavic <*elemas>
+---> Slavic <*jьlьmъ> "(wych) elm" {Plants}
+----> East Slavic `илемъ` <ilemŭ>
+-----> Russian `ильм` <ilʹm>: "elm, wych elm (Ulmus glabra)" {Plants}
+----> South Slavic
+-----> Slovene `​​lìm`: "elm" {Plants}
+----> West Slavic
+-----> Czech `jilm`: "elm" {Plants}
+
+
+--> Celtic <*limos>: "elm" (from zero-grade <*h₁l̥mós>)
+---> Brythonic <*lluɨβ̃>: "elms" {Plants}
+----> Cornish `elow`: "elms" {Plants}
+----> Welsh `llwyf`: "elms" {Plants}
+----> Old English
+-----> English `(Forest of) Lyme` (but not the River Lyme)
+------> English `Audlem`
+------> English `Burslem`
+------> English `Lyme Park`
+------> English `Newcastle-under-Lyme`
+----> Brythonic <*lluɨβ̃en>: "elm" {Plants} (derived singulative)
+-----> Cornish `elowen`: "elm" {Plants}
+------> Cornish `Elowen`: "personal name: Elm"
+-------> English `Elowen`
+-----> Welsh `llwyfen`: "elm" {Plants}
+---> Old Irish `lem`
+----> Old Irish `lemán` (originally a diminutive, but later just a noun-forming suffix)
+-----> Irish `leamhán`: "elm tree" {Plants}
+---> Gaulish <*lemos>
+----> Gaulish <*Lēmouīcēs>: "ethnonym: Elm Vanquishers?" (possibly referring to elm bows or spears)
+-----> Latin `Lemovices`: "a Gaulish tribe"
+------> Latin `civitas Lemovicum`: "city of the Lemovices"
+-------> Western Romance
+--------> Catalan `Llemotges`
+--------> French `Limoges`
+---------> English `Limoges`
+--------> Occitan `Limòtges`
+------> Latin `lemovicinus`: "of or related to the Lemovices"
+-------> Western Romance
+--------> French `limousin(e)`: "of Limoges"
+---------> English `limousin` (cattle breed)
+---------> English `limousine`! (vehicle)
+----------> English `limo`
+----------> Japanese `リムジン` <rimujin>: "limousine (vehicle)"
+---------> French `limousinage`
+---> Gallaecian <*lemo>
+----> Asturian `llamera`: "elm" {Plants}
+
+
+--> Germanic <*elmaz>: "elm" {Plants}
+---> North Germanic
+----> Old Norse `almr`: "elm" {Plants}
+-----> Icelandic `álmur`: "elm" {Plants}
+-----> Old Norse `elmi`: "elms" {Plants} (collective)
+------> Danish `elm` {Plants}
+---> West Germanic
+----> Old English `elm` {Plants}
+-----> English `elm`! {Plants}
+----> Frankish
+-----> Dutch `olm`: "elm" {Plants}
+----> Old High German `elmo` {Plants}
+
+--?> Germanic <*ulmaz?> (from zero-grade <*h₁l̥mós>?)
+----> West Germanic
+----?> Old High German `ulm`»1: "elm" {Plants}
+
+
+
+--> Italic <*elmos>
+---> Old Latin <*olmus>
+----> Latin `ulmus`: "elm" {Plants}
+-----> Central Romance
+------> Italian `olmo`: "elm, field elm (Ulmus minor)" {Plants}
+-------> Italian `olmaria`: "meadowsweet" {Plants}
+-----> Eastern Romance
+------> Romanian `ulm` {Plants}
+-----> Western Romance
+------> Old French `olme` {Plants}
+-------> French `orme`: "elm" {Plants}
+
+
+----?> Old High German `ulm`»1: "elm" {Plants}
+------> German `Ulme`: "elm" {Plants}
+
+-----> Translingual `Ulmus`: "taxonomic genus of elm trees" {Plants}
+
+
+?> Laz `მულა` <mula>: "wych elm (Ulmus glabra)" {Plants} (metathesis of the substrate?)
+
+endbody
+

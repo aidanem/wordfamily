@@ -4,7 +4,7 @@ Tags: Elements
 
 startintro
 
-June's theme is linguistic effects of the Celtic Hegemony of the early Iron Age. The rest of the month will focus on words that were borrowed from Gaulish into Latin (things like very iconic Latin word <gladius> being borrowed from Gaulish, which appears in today's), but I'm going to start out with exploring some of the names of Celtic peoples. This was originally going to be a compare and contrast of two different families, but it ballooned into 3-4.
+June's theme is linguistic effects of the Celtic Hegemony of the early Iron Age. The rest of the month will focus on words that were borrowed from Gaulish into Latin (things like very iconic Latin word `gladius`=lat-Latn being borrowed from Gaulish, which appears in today's), but I'm going to start out with exploring some of the names of Celtic peoples. This was originally going to be a compare and contrast of two different families, but it ballooned into 3-4.
 
 There are 3 interesting take aways from this:
 The fairly ridiculous fact that Latin word `Gallus`/`Gallia` is unrelated to the French `Gaule`/`Gaulois` (whence English `Gaul`) of the same meaning. The regular descendant in French of `Gallia` would be `Jaille`, which does in fact appear in a handful of place names in western France, e.g. La Jaille-Yvon, Saint-Mars-la-Jaille. `Gaule` is from Frankish instead, and is cognate to English `Wales`.
@@ -34,7 +34,7 @@ Proto-Indo-European <*gelH-?>
 ----> Irish `láth gaile`: "warrior"
 ----> Irish `tuirbín gaile`: "steam turbine"
 
---> Gaulish <?> (tribe name meaning "valorous"?)
+--> Gaulish <?>»1 (tribe name meaning "valorous"?)
 --?> Classical Greek `Γᾰλᾰ́της` <Galátēs>: "Galatian, Gaul
 ----> Classical Greek `Γᾰλᾰτῐ́ᾱ` <Galatíā>: "Galatia, Gaul"
 -----> Latin `Galatia`: "Galatia" (place in Asia Minor settled by Celtic peoples around 4th C BCE)
@@ -52,14 +52,12 @@ Proto-Indo-European <*gelH-?>
 -----> Irish `gall`: "foreigner, Gaul, Norman, Englishman, Anglified Irish person"
 -----> Welsh `gelyn`: "enemy, foe"
 -----> Old Irish 
-------> Irish `Dún na nGall`: "Donegal" (lit. "Fort of the Norsemen")
--------> English `Donegal`
+------> Irish `Dún na nGall`»1: "Donegal" (lit. "Fort of the Norsemen")
+-------> English `Donegal`»1
 -----> Old Irish `gall óglaigh`: "foreign/norse warrior, gallowglass"
 ------> Irish `gallóglaigh`: "gallowglass"
 -------> English `gallowglass`
------> Old Irish `Gall-Goídel`: "Norse-Irish, foreign-Irish" (Gaelic speaking descendants of Norse settlers)
-------> Scottish Gaelic `Gall-Ghàidhealaibh`
--------> English `Galloway`
+-----> Old Irish `Gall-Goídel`»1: "Norse-Irish, foreign-Irish" (Gaelic speaking descendants of Norse settlers)
 -----> Old Irish
 ------> Irish `Dubhghall`: "Dark-(haired)-Norseman/Foreigner" (personal name)
 -------> English `Dougal`
@@ -86,8 +84,11 @@ Proto-Indo-European <*gelH-?>
 Proto-Indo-European <*gʷʰe(H?)lk?>: "hawk?" #
 
 ?> Celtic <*wolkos>: "hawk?" #
---> Brythonic
+--> Brythonic <*gwalx>
 ---> Welsh `gwalch`: "hawk, rogue, rascal" #
+--?> Brythonic <*gwalx-haβ̃>»1: "personal name: Summer-Hawk?"
+---?> Old French `Galahad`
+-----> English `Galahad`
 -?> Gaulish <Uolk-?> (tribe name of unknown native form) #
 ---> Latin `Volcae`: "Gaulish tribe"
 ---> Germanic <*walhaz>: "foreigner, southerner, speaker of a Celtic or Romance language"
@@ -168,7 +169,8 @@ Proto-Indo-European <*gʷʰe(H?)lk?>: "hawk?" #
 --> Celtic <*katuwolkos>: "battle-hawk" (personal name/epithet?) #
 ---> Brythonic
 ----> Welsh `cadwalch`: "hero"
----> Gaulish `Cativolcus`: "Battle-Hawk?" (personal name)
+---> Gaulish <*Catuuolcos>: "Battle-Hawk?" (personal name)
+----> Latin `Cativolcus`
 
 
 ?> Italic
@@ -188,7 +190,7 @@ Proto-Indo-European <*kelh₂->: "to beat, to break, to fight"
 ---> Celtic <*kellāko>: "fight, war"
 ----> Old Irish
 -----> Irish `cellach`: "battle, strife, contention"
----> Gaulish <?> (tribe name meaning "warriors"?)
+---> Gaulish <?>»2 (tribe name meaning "warriors"?)
 ---?> Classical Greek `Κελτοί` <Keltoí>: "Celts, Gauls"
 -----> Greek `Kελτοί` <Kéltis>: "Celts, Gauls"
 -----> Latin `Celtae` ####
@@ -254,6 +256,8 @@ Proto-Indo-European <*kelh₂->: "to beat, to break, to fight"
 ----> English `clade`
 
 --> Celtic <*kladiwos>
+Brythonic 
+Welsh `cleddyf`
 ---> Gaulish <*kladyos>
 ----> Latin `gladius`
 -----> Western Romance
@@ -267,7 +271,7 @@ Proto-Indo-European <*kelh₂->: "to beat, to break, to fight"
 -----> Latin `gladiolus`: "little sword, knife, sword lily, gladiolus"
 ------> English `gladiolus`
 ---> Old Irish `claideb`: "sword"
-----> Irish `claíom`>: "sword"
+----> Irish `claíom`: "sword"
 ----> Scottish Gaelic `claidheamh`: "sword"
 -----> Scottish Gaelic `claidheamh mòr`: "great sword"
 ------> English `claymore`
@@ -354,7 +358,7 @@ Proto-Indo-European <*h₁weydʰ->: "woods, wilderness"
 -----> Irish `Gael`: "Gael"
 -----> Scottish Gaelic `Gàidheal`: "Gael, highlander"
 ------> English `Gael`
------> Old Irish `Gall-Goídel`: "Norse-Irish, foreign-Irish" (Gaelic speaking descendants of Norse settlers)
+-----> Old Irish `Gall-Goídel»1`: "Norse-Irish, foreign-Irish" (Gaelic speaking descendants of Norse settlers)
 ------> Scottish Gaelic `Gall-Ghàidhealaibh`
 -------> English `Galloway`
 
@@ -386,7 +390,7 @@ Obviously there are other descendants of Latin `falcō` and Germanic <*falkô>, 
 According to the Heimskringla, "Ganger-Hrólf" ("Rolf the Walker") is the same as "Count Rollo", first duke of Normandy, and William the Conqueror's great-great-great-grandfather. The Heimskringla gives him as the son of Jarl Rognvald Eysteinsson, kinsman and ally of Harald Fairhair, first King of Norway. Neither of these facts can be confirmed. Other accounts of Rollo have some shared details as Snorri's, but diverge on other points.
 
 
-### Germanic <*walhahnuts>: "walnut". I assumed it was like "welsh onion" and was just generic "foreign". But then I found that walnuts were called `nux gallica` in Latin: "Celtic nut", so Germanic <*walhahnuts> is probably a calque of the Latin. They were probably called `nux gallica` because they were imported from Persia via Celtic Galatia in modern day Turkey. Iran and Turkey remain to this day the #3 and #4 producers of walnuts. (#1 and #2 are the United States and China, whose rankings have more to do with overall size of national industry rather than any special connection to walnuts).
+### Germanic <*walhahnuts>: "walnut". I assumed it was like "welsh onion" and was just generic "foreign". But then I found that walnuts were called `nux gallica` in Latin: "Celtic nut", so Germanic <*walhahnuts> is probably a calque of the Latin. They were probably called `nux gallica` because they were imported from Persia via Celtic Galatia in modern day Turkey. Iran and Turkey remain to this day the #3 and 4 producers of walnuts. (#1 and #2 are the United States and China, whose rankings have more to do with overall size of national industry rather than any special connection to walnuts.)
 
 
 #### Caesar, in the first sentence of his "Commentaries on the Gallic War", says the southeastern Gauls called themselves "Celtae":
@@ -402,3 +406,5 @@ The Belgae in northeast Gaul were also Celtic-speakers, and are the namesake of 
 
 
 endnotes
+
+

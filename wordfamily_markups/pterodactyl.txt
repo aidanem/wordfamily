@@ -260,8 +260,6 @@ Proto-Indo-European <*peth₂->
 
 ----> Indo-Iranian
 -----> Indo-Aryan
-------> Dardic <*panná>
--------> Kashmiri <pan>: "leaf"
 ------> Sanskrit `𑀧𑀭𑁆𑀡` <parṇá>: "pinion, feather, wing, leaf"
 -------> Magadhi
 --------> Bengali `পান` <pan>: "betel leaf, paan"
@@ -269,9 +267,12 @@ Proto-Indo-European <*peth₂->
 --------> Marathi `पान` <pān>: "leaf, page, playing card, betel leaf, paan"
 -------> Pali <paṇṇa>: "leaf, feather, quill, book"
 -------> Sauraseni `𑀧𑀡𑁆𑀡` <paṇṇa>
---------> Madhya
+--------> Madhya Sauraseni
 ---------> Hindi `पान` <pān>: "betel, betel leaf, paan"
 ----------> English `paan`
+--------> Northwestern Sauraseni
+---------> Kashmiri <pan>: "leaf"
+---------> Punjabi `ਪੰਨਾ` <pannā>: "leaf"
 --------> Hindi `पन्ना` <pannā>: "page, paper, sheet, emerald"
 -------> Hindi `पर्ण` <parṇ>: "feather, leaf"
 -----> Iranian
@@ -287,6 +288,7 @@ Proto-Indo-European <*peth₂->
 ------> South Slavic
 -------> Serbo-Croatian `ја̏стријеб` <jȁstrijeb>
 ------> West Slavic
+-------> Czech `jestřáb`: "hawk, goshawk"
 -------> Polish `jastrząb`: "hawk"
 
 ----> Hellenic
@@ -454,3 +456,4 @@ Compare: Odin's broad-brimmed travelling hat as described by his kenning "Siðho
 ###### Classical Greek `πτῶσῐς` <ptôsis>: "a fall, falling, case, inflection" was calqued into Latin, with the use of `cāsus` to mean "grammatical case" as well as "fall". Latin `cāsus` was then calqued into, e.g., German as `Fall` to mean all kinds of things English describes as "case".
 
 endnotes
+

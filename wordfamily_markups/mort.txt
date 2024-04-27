@@ -26,7 +26,8 @@ Central Asian Substrate??
 ----> Hittite `𒈨𒅕𒍣` <me-er-zi>: "diminish?, disappear?"
 
 ---> Balto-Slavic
-----> Lithuanian `mir̃ti`: "to die"
+----> East Baltic
+-----> Lithuanian `mir̃ti`: "to die"
 ----> Slavic <*merti>: "to die"
 -----> East Slavic `мерети` <mereti>
 ------> Russian `мере́ть` <merétʹ>: "to die, to perish (in large numbers)"
@@ -50,6 +51,8 @@ Central Asian Substrate??
 -------> Pahari
 --------> Nepali `मर्नु` <marnu>: "to die"
 --------> Punjabi `ਮਰਣਾ` <marṇā>: "to die"
+-------> Western Sauraseni
+--------> Romani `merel`: "to die, to love passionately"
 ----> Iranian
 -----> Avestan `𐬨𐬀𐬭𐬙𐬈` <marte>
 -----> Pashto `مړینه` <mrrīta>: "to die"
@@ -71,12 +74,14 @@ Central Asian Substrate??
 
 ---> Italic <*morjor>
 ----> Latin `morior`: "I die, I wither"
------> Sardinian `morrere`: "to die"
+-----> Central Romance
+------> Italian `morire`: "death, to die"
+-----> Insular Romance
+------> Sardinian `morrere`: "to die"
 -----> Eastern Romance
 ------> Romanian `a muri`: "to die"
 -----> Western Romance
 ------> French `mourir`: "to die, to be dying"
-------> Italian `morire`: "death, to die"
 ------> Spanish `morir`: "to die"
 -----> Latin `moribundus`: "dying, moribund, fatal"
 ------> French `moribond`: "moribund"
@@ -139,11 +144,15 @@ Central Asian Substrate??
 -----> Sanskrit `𑀫𑀾𑀢` <mṛtá>: "dead, deathly, death, a grave"
 ------> Elu
 -------> Sinhala `මළ` <maḷa>
-------> Magadhi
--------> Bengali `মৃত` <mritô>: "dead"
-------> Sauraseni
+------> Magadhi `𑀫𑀴` <maḷa>
+-------> Rohingya `mora`: "dead"
+------> Sauraseni `𑀫𑀼𑀤` <muda>
 -------> Madhya
---------> Hindi `मृत` <mṛtá>: "dead"
+--------> Hindi `मुआ` <muā>: "dead"
+-------> Western Sauraseni
+--------> Romani `mulo`: "dead person, the deceased, ghost"
+------> Bengali `মৃত` <mritô>: "dead"
+------> Hindi `मृत` <mṛtá>: "dead"
 ------> Sanskrit `𑀫𑀭𑁆𑀢` <mártas>: "mortal, human, the mortal world, the Earth"
 ----> Iranian
 -----> Avestan `𐬨𐬆𐬭𐬆𐬙𐬀` <mərəta>: "dead"
@@ -157,10 +166,11 @@ Central Asian Substrate??
 --------> Turkish `mert`: "manly, brave"
 -------> Old Persian <*martya-χvāra>: "manticore" (lit. "man-eater")
 --------> Persian `مردخوار` <mardykhor>: "manticore"
---------> Ancient Greek `μαρτῐχόρᾱς` <martikhórās>
+--------> Classical Greek `μαρτῐχόρᾱς` <martikhórās>
 ---------> Latin `mantichōra`
 ----------> French `manticore`
 -----------> English `manticore`
+
 ----> Uralic
 -----> Finnic <*mardas>: "dead, dying"
 ------> Finnish `marras`: "dead or dying person, soul of a dead person, omen of death"
@@ -176,7 +186,7 @@ Central Asian Substrate??
 ---> Proto-Indo-European <*n̥mr̥tós>: "undying, immortal"
 
 ----> Hellenic <*amrtos>
------> Ancient Greek `ᾰ̓́μβροτος` <ámbrotos>: "immortal, divine, food of the gods"
+-----> Classical Greek `ᾰ̓́μβροτος` <ámbrotos>: "immortal, divine, food of the gods"
 ------> Latin `ambrosia`: "food of the gods, ambrosia"
 -------> French `ambroisie`: "ambrosia"
 -------> English `ambrosia`
@@ -220,12 +230,14 @@ Central Asian Substrate??
 
 ----> Italic <*mortwos>
 -----> Latin `mortuus`: "dead, a dead body" ##
-------> Sardinian `mortu`: "dead"
+------> Central Romance
+-------> Italian `morto`: "dead, dead person, dead body" ##
 ------> Eastern Romance
 -------> Romanian `mort`: "dead, dead body"
+------> Insular Romance
+-------> Sardinian `mortu`: "dead"
 ------> Western Romance ##
 -------> French `mort`: "dead, dead person" ##
--------> Italian `morto`: "dead, dead person, dead body" ##
 -------> Spanish `muerto`: "dead, dead person" ##
 --------> Spanish `Día de Muertos`: "Day of  the Dead" ###
 ---------> English `Dia de los Muertos` ###
@@ -233,22 +245,24 @@ Central Asian Substrate??
 -------> Old French `mortuarie`
 --------> English `mortuary`
 ------> Vulgar Latin <*admortēscō>: "I deaden, I bring to death"
+-------> Central Romance
+--------> Italian `ammortire`: "to deaden, to numb, to muffle, to dim"
 -------> Eastern Romance
 --------> Romanian `a amorți`: "to numb, to deaden"
 -------> Western Romance
 --------> Old French
 ---------> French `amortir`: "to deaden, to muffle, to absorb, to pay off, to amortize"
 ---------> English `amortize`
---------> Italian `ammortire`: "to deaden, to numb, to muffle, to dim"
 
 
 --> Proto-Indo-European <*morbʰos>: "deathly? appearing dead?"
 
 --?> Italic
 ----> Latin `morbus`: "disease, ailment, grief, failing, death"
+-----> Central Romance
+------> Italian `morbo`: "disease"
 -----> Western Romance
 -----?> French `morve`: "snot, glanders"
-------> Italian `morbo`: "disease"
 ------> Spanish `muermo`: "glanders, boredom"
 -----> Latin `morbidus`: "sickly, unwholesome"
 ------> English `morbid`
@@ -404,15 +418,18 @@ Central Asian Substrate??
 ------> Frankish <*murthrijan>
 -------> French `meurtrir`: "to injure, to hurt, to bruise"
 
+--> Proto-Indo-European <*merkʷ-> (root extension)
 
 
-?> Proto-Afro-Asiatic <*mUt->
 
---> Berber <*mVt->
----> Northern Berber
+
+?> Proto-Afro-Asiatic <mawVt->
+
+--> Tamazight <*i-mmut>
+---> Northern Tamazight
 ----> Kabyle <emmet>
-----> Atlas Berber
------> Tamazigh <emmet>
+----> Atlas Tamazight
+-----> Central Atlas Tamazight <emmet>
 
 --> Chadic <*mawut->
 ---> East Chadic
@@ -423,22 +440,24 @@ Central Asian Substrate??
 
 --> Cushitic <*-umaaw->
 
---> Egyptian <mwt>: "to die, death"
+--> Egyptian `𓅓-𓏏-𓀐` <mwt>: "to die, death"
 ---> Demotic Egyptian <mwt>
 ----> Coptic `ⲙⲟⲩ` <mou>: "to die"
+---> Egyptian `𓂝-𓅓-𓄈-𓅓-𓏏*𓏥:𓀐` <ꜥm-mwt>: "Devourer of the Dead (divinity name)"
+----> English `Ammit`
 
 --> Semitic <*mūt->: "to die"
 ---> Central Semitic
 ----> Arabic `مَاتَ` <māta>: "to die"
 ----> Northwest Semitic
------> Aramaic `מית` <mīt>: "to die"
+-----> Aramaic `𐡌𐡉𐡕` <mīt>: "to die"
 -----> Canaanite
 ------> Hebrew `מֵת` <met>: "dead, to die"
 -------> Yiddish `מת` <meys>: "dead person"
 ---> East Semitic
 ----> Akkadian <mâtu>
 -----> Akkadian `𒉆𒁁𒈨𒌍` <mutanu>
-------> Aramaic `מוֹתָנָא` <mōṯānā>: "pestilence, plague"
+------> Aramaic `𐡌𐡅𐡕𐡍𐡀` <mōṯānā>: "pestilence, plague"
 -------> Arabic `مَوْتَان` <mawtān>: "plague, pestilence, murrain"
 ---> South Semitic
 ----> Ethiopic
@@ -472,7 +491,7 @@ Central Asian Substrate??
 ---> East Formosan
 ----> Amis <patay>: "death, to die"
 ---> Malayo-Polynesian
-----> Borito
+----> Barito
 -----> Malagasy `maty`
 ----> Javanese `mati`: "dead"
 ----> Malay `mati`: "to die, dead"

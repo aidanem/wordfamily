@@ -63,11 +63,12 @@ Proto-Indo-European <*h₂el->: "beyond, other"
 ---> Classical Greek `ἄλλος` <állos>: "other, another, different, else"
 ----> English `allo-`
 -----> English `allele`
-----> Classical Greek `ᾰ̓λληγορῐ́ᾱ` <allēgoríā>: "allegory, speech with hidden meaning" (lit. "other-speech")
+----> Classical Greek `ἀλληγορία` <allēgoría>: "allegory, speech with hidden meaning" (lit. "other-speech")
 -----> Greek `αλληγορία` <alligoría>: "allegory"
 -----> Latin `allēgoria`: "allegory, parable"
 ------> French `allegorie`
 -------> English `allegory`
+----> Classical Greek `παράλληλος` <parállēlos>: "side-by-side, parallel, redundant"
 
 
 --> Italic <*aljos>
@@ -75,7 +76,7 @@ Proto-Indo-European <*h₂el->: "beyond, other"
 ----> Latin `inter alia`: "among other things"
 ----> Latin `aliās`: "at another time, in another place, under other circumstances"
 -----> English `alias`
-----> Latin `aliēnus`
+----> Latin `aliēnus`: "of another, foreign, unfamiliar, strange"
 -----> Central Romance
 ------> Italian `alieno`
 -----> Western Romance
@@ -123,17 +124,11 @@ Proto-Indo-European <*h₂el->: "beyond, other"
 --> Italic <*olle>
 ---> Latin `ille`: "that, those, that one, he/she/it, the" ####
 
-----> Vulgar Latin <*hoc ille>: "yes, yes that"
------> Western Romance
-------> Old French `oïl`: "yes"
--------> French `oui`
---------> Māori `Wīwī`: "France"
--------> French `langue d'oïl`
---------> English `langue d'oïl`
+----> Vulgar Latin <*hoc ille>»1: "yes, yes that"
 
 ----> Latin `ecce eum`
 -----> Latin `eccum`
-------> Vulgar Latin <*eccum ille>: "that one"
+------> Vulgar Latin <*eccum ille>»1: "that one"
 -------> Central Romance
 --------> Italian `quello`: "that"
 --------> Italian `colui`: "him (over there), that man" (from dative <*eccum illui>)

@@ -6,7 +6,7 @@ startintro
 
 The attempt to brand `cis(gender)` as a slur is not truly about the word itself—they wouldn't be any happier with any other word that was used for the same meaning—but an attempt to deny the very category of "cisgender" and thus by extension the existence of "transgender".
 
-But since the word itself is often attacked under pretense, here's its history and relations. And also, its history and relations are inherently interesting!
+But since the word itself is often attacked under pretense, here's its history and relations. Plus—its history and relations are inherently interesting!
 
 endintro
 
@@ -34,6 +34,7 @@ Proto-Indo-European <*ḱi>: "this, here"
 
 --> Italic <*ek-ke>
 ---> Latin `ecce`
+----> Vulgar Latin <*eccum ille>»1
 
 --> Italic <*ɣe-k(e)>
 ---> Latin `hic`
@@ -51,7 +52,7 @@ Proto-Indo-European <*ḱi>: "this, here"
 ------> Catalan `òc`: "yes"
 -------> French `Langue d'oc`
 --------> English `Languedoc`
------> Vulgar Latin <*hoc ille>: "yes, yes that"
+-----> Vulgar Latin <*hoc ille>»1: "yes, yes that"
 ------> Western Romance
 -------> Old French `oïl`: "yes"
 --------> French `oui`
@@ -62,7 +63,7 @@ Proto-Indo-European <*ḱi>: "this, here"
 ------> English `ad hoc`
 
 --> Italic <*num-ke>
----> Latin `nunc`: "right now"
+---> Latin `nunc`: "right now" ("this now")
 
 --> Italic <*olle-ke>
 ---> Latin `illic`: "in that place, there"
@@ -78,7 +79,14 @@ Proto-Indo-European <*ḱi>: "this, here"
 ------> Spanish `allá`: "there, over there, back then"
 
 --> Italic <*sei-ke>
----> Latin `sic`: "thus"
+---> Latin `sīc`: "thus, like that"
+----> Central Romance
+-----> Italian `sì`: "yes, thus"
+----> Eastern Romance
+-----> Romanian `și`: "and, also, even, already"
+----> Western Romance
+-----> French `si`: "yes, so, such"
+-----> Spanish `sí`: "yes"
 
 --> Italic <*tom-ke>
 ---> Latin `tunc`: "then, from then on, therefore"
@@ -239,15 +247,15 @@ Proto-Indo-European <*ḱi>: "this, here"
 
 ----> Italic <*kom>
 -----> Latin `cum`
------> Latin `con-` (with allophonic variants `co-`, `cō-`, `com-`, `col-`, `cor-` depending on following sound)
-------> Latin `concēdere`
+-----> Latin `con-` (with allophonic variants `co-`=lat-Latn, `cō-`=lat-Latn, `com-`=lat-Latn, `col-`=lat-Latn, `cor-`=lat-Latn depending on following sound)
+------> Latin `concēdere`»1
 
 
 ----> Proto-Indo-European <*ḱomyós>
 
 -----> Hellenic <*koňňós>
 ------> Classical Greek `κοινός` <koinós>: "common, public, shared"
--------> Koine Greek `Κοινή` <Koinḗ>: "Koine Greek" (`ἡ κοινή διάλεκτος` <hē koinḗ diálektos>: "the shared dialect")
+-------> Koine Greek `Κοινή` <Koinḗ>: "Koine Greek" (`ἡ κοινή διάλεκτος`=grc-Grek <hē koinḗ diálektos>: "the shared dialect")
 --------> English `Koine`
 
 ----> Proto-Indo-European <ḱómno>
@@ -287,13 +295,34 @@ Proto-Indo-European <*ḱi>: "this, here"
 ----> Proto-Indo-European <*ḱómteros> (contrastive)
 
 -----> Germanic <*hinder>: "behind, beyond"
+------> East Germanic
+-------> Gothic `𐌷𐌹𐌽𐌳𐌰𐍂` <hindar>: "behind, beyond"
 ------> West Germanic
 -------> Old English `hindan`
 --------> English `hind`
+-------> Frankish <*hinder>
+--------> Dutch `hinder`»2
+-------> Old High German `hintar`
+--------> German `hinter`: "behind, after, beyond"
+---------> German `Hinterland`
+----------> English `hinterland`
+--------> Yiddish `הינטער` <hinter>: "behind"
+
 ------> Germanic <*hinderōną>
+-------> North Germanic
+--------> Old Norse `hindra`: "to hinder, to loiter"
+---------> Danish `hindre`: "to hinder"
+---------> Icelandic `hindra`: "to hinder"
 -------> West Germanic
 --------> Old English `hindrian`
 ---------> English `hinder`
+----------> English `hindrance"
+--------> Frankish <*hindaron>
+---------> Dutch `hinderen`: "to hinder, to be a problem"
+----------> Dutch `hinder`»1: "hindrance"
+--------> Old High German `hinderōn`
+---------> German `(be)hindern`: "to hinder, to prevent"
+----------> German `Hindernis`: "obstacle, hindrance"
 
 -----> Italic
 ------> Latin `contrā`: "against, opposite, in return"
@@ -323,7 +352,7 @@ Proto-Indo-European <*ḱi>: "this, here"
 --> Pre-Albanian <*tˢjei-wetei>: "this year"
 ---> Albanian `sivjet`: "this year"
 
---> Hellenic <*ťi-wétes>: "this year" ([wff-veteran])
+--> Hellenic <*ťi-wétes>: "this year"
 ---> Classical Greek `σῆτες` <sêtes>: "this year"
 
 
@@ -355,7 +384,7 @@ Proto-Indo-European <*ḱi>: "this, here"
 -----> English `access`
 ----> Latin `antecēdere`
 -----> English `antecedent`
-----> Latin `concēdere`
+----> Latin `concēdere`»1
 -----> English `concede`
 ----> Latin `dēcēdere`
 -----> English `decease`
@@ -386,9 +415,9 @@ endbody
 startnotes
 
 
-# Germanic <*hē₂r>: "here" from Germanic <*hiz>: "this" takes a little bit of special explanation. It is suffixed with the locative *-r that also creates "where" from "who"/"what", "there" from "the"/"that", "yonder" from "yon", etc. But in <**hizr>, *z is deleted before *r, with compensatory lengthening of the vowel.
+# Germanic <*hē₂r>: "here" from Germanic <*hiz>: "this" is an interesting story! It is suffixed with the locative *-r that also creates "where" from "who"/"what", "there" from "the"/"that", "yonder" from "yon", etc. But in <**hizr>, *z is deleted before *r, with compensatory lengthening of the vowel.
 
-The same happens in, e.g., Germanic <*hērą>: "hair" (except the lowering of *i to *e), if the theory that it derives from <*kesróm>: "what is combed" is correct: <*kesróm> -> <**hezrą> -> <*hērą>.
+The same happens in, e.g., Germanic <*hērą>: "hair" (except the lowering of *i to *e), assuming it is correctly derived from <*kesróm>: "what is combed": <*kesróm> -> <**hezrą> -> <*hērą>.
 
 But in the case of <**hizr> > <*hē₂r>,  the compensatory lengthening of short <*i> in resulted in the rare phoneme *ē₂, which in most other cases corresponds to PIE <*ei>. Where as for most <*ē> in Germanic, it is preserved as <*ē> in East Germanic, but merges with <*ā> in North and West, <*ē₂> remains <*ē> or merges with <*ī> in North and West Germanic (and merges with <*ē> in East Germanic).
 

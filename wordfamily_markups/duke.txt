@@ -1,10 +1,6 @@
 date: 20180126
 theme: Aristocratic Titles 👑
-tags: Titles
 
-
-Theme teaser: duke, herzog, dynasty
-More teaser: wanton, duct tape, team, dynamite
 
 startintro
 
@@ -32,43 +28,43 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 ---> West Germanic
 ----> Old English `tēon`: "to drag, to pull, to lead, to teach, to proceed"
 -----> Old English `wantogen`: "uneducated, unrestrained"
-------> English `wanton`
+------> English `wanton`!
 ----> Old High German `ziohan`
 -----> German `ziehen`: "to pull, to drag, to draw, to extract"
 -----> Yiddish `ציִען` <tsien>: "to pull"
 
 --> Italic <*doukō>
----> Latin `dūcō`: "I lead, I guide, I pull, I consider, I prolong"
+---> Latin `ducere`: "I lead, I guide, I pull, I consider, I prolong"
+----> Central Romance
+-----> Italian `ducere`: "to lead, to guide, to mold, to temper"
 ----> Eastern Romance
 -----> Romanian `a duce`: "to carry, to lead, to go, to die"
-----> Western Romance
------> Italian `ducere`: "to lead, to guide, to mold, to temper"
 ----> Latin `ductus`: "led, guided"
 -----> Medieval Latin `ductus`: "pipe, channel, aqueduct"
 ------> English `duct`
--------> English `duct tape`
+-------> English `duct tape`!
 -----> Latin `ductilis`: "leadable"
 ------> English `ductile`
 -----> Latin `aquaeductus` (lit. "led water")
 ------> English `aqueduct`
------> Latin `condūcō`: "I pull together"
+-----> Latin `conducere`: "I pull together"
 ------> English `conduct`
------> Latin `dēdūcō`: "I pull from"
+-----> Latin `deducere`: "I pull from"
 ------> English `deduct`
 ------> English `deduce` (<de-duco>, "to lead away from, to draw out")
------> Latin `ēdūcō`: "I lead, I raise up"
+-----> Latin `educere`: "I lead, I raise up"
 ------> English `educate`
------> Latin `indūcō`: "I bring in"
+-----> Latin `inducere`: "I bring in"
 ------> English `induce`
------> Latin `intrōdūcō`: "I lead into"
+-----> Latin `intrōducere`: "I lead into"
 ------> English `introduce`
------> Latin `prōdūcō`: "I bring forward, I present, I offer for sale"
+-----> Latin `prōducere`: "I bring forward, I present, I offer for sale"
 ------> English `produce`
------> Latin `redūcō`: "I draw back, I lead home, I retreat"
+-----> Latin `reducere`: "I draw back, I lead home, I retreat"
 ------> English `reduce`
------> Latin `sēdūcō`: "I lead astray, I seduce"
+-----> Latin `sēducere`: "I lead astray, I seduce"
 ------> English `seduce`
------> Latin `subdūcō`
+-----> Latin `subducere`
 ------> English `subdue`
 
 
@@ -79,7 +75,7 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 ----> Scythian
 -----> Ossetian `дуцын> <ducyn>: "to milk"
 ---> Pashto `لوشل‏` <lwšl>: "to milk"
----> Western Iranian
+---> West Iranian
 ----> Kurdish `dotin`: "to milk"
 ----> Old Persian <*dáuxšatiy>
 -----> Persian `دوشیدن` <dušidan>: "to milk"
@@ -93,7 +89,7 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 -----> Icelandic `toga`: "to pull, to draw, to tug, to trawl"
 ---> West Germanic
 ----> Old English `togian`: "to tug, to tow"
------> English `tow`
+-----> English `tow`»1
 -----> English `tug`
 ----> Old High German `zogōn`: "to pull, to jerk"
 ---> Germanic <*tukkōnã> (intensive)
@@ -106,15 +102,21 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 -----> Frankish <*tukkōn>: "to touch, to hit, to knock"
 ------> Dutch `tokkelen`: "to tap, to tick, to strum an instrument"
 ------> Vulgar Latin <*toccō>: "I strike, I knock"
--------> Sardinian `tocai`
+-------> Central Romance
+--------> Italian `toccare`: "to touch"
 -------> Eastern Romance
 --------> Romanian `a toca`: "to chop, to bother"
+-------> Insular Romance
+--------> Sardinian `tocai`
 -------> Western Romance
 --------> French `toucher`: "to touch, to affect"
 ---------> English `touch`
 ---------> English `touché`
 --------> French `toquer`: "to hit, to knock, to bother"
---------> Italian `toccare`: "to touch"
+--------> Old Occitan `tocar`: "to touch, to play (an instrument)"
+---------> Old Occitan `toca senh`: "play the bell"
+----------> French `tocsin`: "an alarm or signal sounded by bell, and alarm bell"
+-----------> English `tocsin`
 --------> Spanish `tocar`: "to touch, to knock, to play, to affect"
 
 
@@ -127,11 +129,11 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 ----> Swedish `töja`: "to stretch, to delay"
 ---> West Germanic
 ----> Old English `tīeġan`
------> English `tie` (verb)
+-----> English `tie`»1 (verb)
 -----> Scots `tye`: "to tie"
 
 
--> Proto-Indo-European <dewkn̥t>: "pulling?" (abstract action noun)
+-> Proto-Indo-European <*dewkn̥t>: "pulling?" (abstract action noun)
 
 --> Anatolian
 ---> Hittite <tukkanzi->: "cultivation, breeding of animals"
@@ -164,50 +166,53 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 -> Proto-Indo-European <*dewks>: "puller, leader"
 
 --> Italic
----> Latin `dux`: "leader, commander, dux, ruler, duke"
+---> Latin `dux`: "leader, commander, dux, ruler, duke"{Titles}
+----> Central Romance
+-----> Italian `duce`: "captain, leader, tyrant"{Titles}
+-----> Venetian `doxe`: "duke, doge"{Titles}
+------> Italian `doge`: "doge"{Titles}
+-------> English `doge` {Titles}
 ----> Western Romance
 -----> French `duc>: "duke"
-------> English `duke`
--------> Irish `diúc`: "duke"
-------> Spanish `duque`: "duke"
------> Italian `duce`: "captain, leader, tyrant"
------> Venetian `doxe`: "duke, doge"
-------> Italian `doge`: "doge"
--------> English `doge`
-----> Byzantine Greek `δούξ` <doúx>: "leader, dux"
------> Greek `δούκας` <doúkas>: "duke"
------> Armenian `դուքս` <dukʿs>: "duke"
------> Coptic `ⲇⲟⲩⲝ` <douks>: "commander, dux"
------> Italian `duca`: "duke"
-------> Romanian `duce`
-----> Latin `ducātus`: "leadership, command, duchy" ####
+------> English `duke`! {Titles}
+-------> Irish `diúc`: "duke"{Titles}
+------> Spanish `duque`: "duke"{Titles}
+----> English `dux`{Titles}
+----> Byzantine Greek `δούξ` <doúx>: "leader, dux"{Titles}
+-----> Greek `δούκας` <doúkas>: "duke"{Titles}
+-----> Armenian `դուքս` <dukʿs>: "duke"{Titles}
+-----> Coptic `ⲇⲟⲩⲝ` <douks>: "commander, dux"{Titles}
+-----> Italian `duca`: "duke"{Titles}
+------> Romanian `duce`{Titles}
+----> Latin `ducatus`: "leadership, command, duchy" ####
+-----> Central Romance
+------> Italian `ducato`: "duchy, ducat"{Currency} ####
+-------> French `ducat`{Currency}
+--------> English `ducat`{Currency}
+--------> German `Dukat`{Currency}
 -----> Western Romance
 ------> French `duché`: "duchy"
 -------> English `duchy`
-------> Italian `ducato`: "duchy, ducat" ####
--------> French `ducat`
---------> English `ducat`
---------> German `Dukat`
-------> Spanish `ducado`: "duchy, ducat"
-----> English `dux`
+------> Spanish `ducado`: "duchy, ducat"{Currency}
+
 
 
 -> Proto-Indo-European <*déwkō> "pull-thing?"
 
 --> Germanic <*tugô>: "leader" #####
----> Germanic <*harjatugô>: "commander, general, warlord, dux, duke" (lit. "army-leader")
+---> Germanic <*harjatugô>: "commander, general, warlord, dux, duke"{Titles} (lit. "army-leader")
 ----> North Germanic
------> Old Norse `hertogi`
-------> Danish `hertug`: "duke"
-------> Icelandic <hertogi>: "duke"
+-----> Old Norse `hertogi` {Titles}
+------> Danish `hertug`: "duke"{Titles}
+------> Icelandic <hertogi>: "duke"{Titles}
 ----> West Germanic
------> Old English `heretoga`: "commander, general, duke"
------> Old High German `herizogo`: "commander, duke"
-------> German `Herzog`: "duke"
--------> Russian `ге́рцог` <gércog>: "duke"
--------> Hungarian `herceg`: "duke, prince"
+-----> Old English `heretoga`: "commander, general, duke"{Titles}
+-----> Old High German `herizogo`: "commander, duke"{Titles}
+------> German `Herzog`: "duke"{Titles}
+-------> Russian `ге́рцог` <gércog>: "duke"{Titles}
+-------> Hungarian `herceg`: "duke, prince"{Titles}
 
--> Proto-Indo-European <?> #####
+-> Proto-Indo-European <?>»7 #####
 
 --> Germanic <*taugō>: "cord, string, rope" #####
 ---> North Germanic
@@ -215,9 +220,9 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 -----> Icelandic `taug`: "rope, line, cable, nerve"
 ---> West Germanic
 ----> Old English `tēag`: "cord, band, tether, case"
------> English `tie` (noun)
+-----> English `tie`»2 (noun)
 
--> Proto-Indo-European <?> #####
+-> Proto-Indo-European <?>»8 #####
 
 --> Germanic <*teugą>: "handle, lever, tool, rigging, equipment, stuff" #####
 ---> West Germanic
@@ -237,7 +242,7 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 -----> Icelandic <taumur>: "rein, cord, strip"
 ---> West Germanic
 ----> Old English `tēam`: "family, offspring, a team of draft animals"
------> English `team`
+-----> English `team`!
 ------> German `Team`: "team"
 ------> Japanese `チーム` <chīmu>: "team"
 ------> Persian `تیم` <tiim>: "team"
@@ -253,23 +258,23 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 --> Proto-Indo-European <*dunh₂tór>
 
 ---> Hellenic
-----> Ancient Greek `δύναμαι` <dúnamai>: "fit, capable, prepared, equivalent, possible"
------> Ancient Greek `δῠ́νᾰμῐς` <dúnamis>: "power, force, strength, ability, authority"
+----> Classical Greek `δύναμαι` <dúnamai>: "fit, capable, prepared, equivalent, possible"
+-----> Classical Greek `δύναμις` <dúnamis>: "power, force, strength, ability, authority"
 ------> Greek `δύναμη` <dýnami>: "power, force, strength"
-------> Translingual `dyne`: "SI unit of force: 1 g*cm/s²"
-------> English `dynamite`
-------> Ancient Greek `δῠνᾰμῐκός` <dunamikós>: "powerful, able"
+------> Translingual `dyne`: "SI unit of force: 1 g*cm/s²"{SI Units}
+------> English `dynamite`!
+------> Classical Greek `δυναμικός` <dunamikós>: "powerful, able"
 -------> Greek `δυναμικός` <dynamikós>: "dynamic, powerful, forceful"
 -------> French `dynamique`: "dynamic, energetic"
 --------> English `dynamic`
------> Ancient Greek `δῠνᾰ́στης` <dunástēs>: "lord, ruler, master")
+-----> Classical Greek `δυνάστης` <dunástēs>: "lord, ruler, master")
 ------> Greek `δυνάστης` <dynástis>: "ruler, despot, dynast"
 ------> Latin `dynastēs`: "ruler, prince"
 -------> English `dynast`
-------> Ancient Greek `δῠνᾰστείᾱ` <dunasteíā>: "lordship, political power, oligarchy"
+------> Classical Greek `δυναστεία` <dunasteía>: "lordship, political power, oligarchy"
 -------> Medieval Latin `dynastīa`: "dynasty"
 --------> French `dynastie`: "dynasty"
---------> English `dynasty`
+--------> English `dynasty`!
 
 ---> Tocharian
 ----> Kushean <tswetär>: "to stick, to adhere"
@@ -288,13 +293,17 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 -----> West Germanic
 ------> Old English `tawian`: "to prepare, to make ready"
 -------> English `taw`
-----> Slavic <*gotovъ>
+---?> Slavic <*gotovъ>
 -----> East Slavic
-------> Russian `гото́вый` <gotóvyj>: "ready, prepared, finished, ready-made"
+------> Russian `готовый` <gotovyj>: "ready, prepared, finished, ready-made"
+------> Ukrainian `готовий` <hotovyj>
 -----> South Slavic
-------> Old Church Slavonic `готовъ` <gotovŭ>: "ready, prepared"
-------> Serbo-Croatian `го̀тов` <gòtov>: "ready, finished"
+------> Bulgarian `готов` <gotov>: "ready, prepared"
+------> Serbo-Croatian `готов` <gotov>: "ready, finished"
+-----?> Albanian `gati`: "ready, almost"
+
 -----> West Slavic
+------> Czech `hotový`: "ready, prepared, finished"
 ------> Polish `gotowy`: "ready, prepared, finished, willing, poised, ready-made"
 
 
@@ -307,7 +316,7 @@ Proto-Indo-European <*dewk->: "to pull, to draw, to lead"
 ----> West Germanic
 -----> Old English <*tawa>
 ------> Old English `webtawa`: "weaving thread"
-------> English `tow`: "bundle of fibers such flax, hemp, or jute"
+------> English `tow`»2: "bundle of fibers such flax, hemp, or jute"
 -------> English `towhead`
 -----> Old High German `zouwa`
 -----> Old Saxon `tou`
@@ -334,9 +343,9 @@ endbody
 startnotes
 
 
-## Semantic mix with Iranian <*dáwgdʰi>: "to milk" from Proto-Indo-European <*dʰéwgʰti>: "to be productive" from <*dʰewgʰ->: "produce, be strong" https://www.aidanem.com/word-family-daughter.html
+## Semantic mix with [wff-daughter|Iranian <*dáwgdʰi>: "to milk" from Proto-Indo-European <*dʰéwgʰti>: "to be productive" from <*dʰewgʰ->: "produce, be strong"].
 
-#### The first "ducat" coins were those minted by Duke  Roger II of Sicily, and bore the inscription "Sit tibi, Christe, datus, quem tu regis iste ducatus" ("To you, O Christ, is offered this duchy, which you rule").
+#### The first "ducat" coins were those minted by Duke  Roger II of Sicily, and bore the inscription `Sit tibi, Christe, datus, quem tu regis iste ducatus`=lat-Latn ("To you, O Christ, is offered this duchy, which you rule").
 
 ##### <*tugô>/<*taugō>/<*teugą> is a really weird triplet. <*tugô> Looks like its descended from normal derivational morphology in PIE, but I can't explain the other two. What they really look like is a triplet caused by inter-dialect borrowing. But their distribution borders on wide enough, that it might have to be borrowings between different dialects of Pre-Proto-Germanic. 
 

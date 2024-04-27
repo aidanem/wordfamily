@@ -1,5 +1,5 @@
 date: 20220128
-tags: Divinities
+tags: Divinities, Weather
 
 
 startbody
@@ -39,7 +39,7 @@ Proto-Indo-European <*nebʰ->: "cloudy, misty, damp" #
 ----> Irish `neamh`: "heaven, sky"
 
 --> Hellenic <*népʰos>: "cloud"
----> Ancient Greek `νέφος` <néphos>: "cloud"
+---> Classical Greek `νέφος` <néphos>: "cloud"
 ----> Greek `νέφος` <néfos>: "smog, cloud"
 ----> English `nepho-`
 -----> English `nephology`
@@ -63,8 +63,10 @@ Proto-Indo-European <*nebʰ->: "cloudy, misty, damp" #
 
 --> Proto-Indo-European <*nebʰelos> (diminutive)
 
----> Albanian `avull`: "steam"
-----> Romanian `abur`: "steam, vapor, fog"
+---> Paleo-Balkan
+----> Albanian `avull`: "steam"
+-----> Romanian `abur`: "steam, vapor, fog"
+----> Messapian `atabulus`: "sirocco, hot wind"
 
 ---> Germanic <*nebulaz>: "fog, mist, darkness"
 ----> West Germanic
@@ -112,7 +114,7 @@ Proto-Indo-European <*nebʰ->: "cloudy, misty, damp" #
 ---------> English `O'Neill`
 
 ---> Hellenic <*nepʰélā>
-----> Ancient Greek `νεφέλη` <nephélē>: "cloud"
+----> Classical Greek `νεφέλη` <nephélē>: "cloud"
 
 ---> Indo-Iranian
 ----> Nuristani
@@ -131,75 +133,92 @@ Proto-Indo-European <*nebʰ->: "cloudy, misty, damp" #
 ------> English `nebulous`
 
 
+-> Proto-Indo-European <*n̥bʰos>
 
---> Proto-Indo-European <*n̥bʰrós>
+-?> Celtic <*ambos>
+--?> West Germanic <*amba>
+----> Frankish <*amma>
+-----> Dutch `Aam`
+-----> Dutch `Amen`
+-----> Dutch `Amstel`
+------> Dutch `Amsterdam`
+-------> English `Amsterdam`
+-----> Dutch `Ameland`
+-----> Dutch `Emer`
+-----> Dutch `Emmeloord`
 
----> Pre-Armenian <*m̥bʰrós>
-----> Old Armenian `ամպրոպ` <amprop>: "thunder"
------> Armenian `ամպրոպ` <amprop>: "thunderstorm"
 
----> Hellenic
-----> Ancient Greek `ἀφρός` <aphrós>: "foam" ##
+-> Proto-Indo-European <*n̥bʰrós>
 
---?> Indeterminate Indo-European language
----?> Hellenic
------> Mycenaean Greek `𐀃𐀖𐀪𐀍` <o-mi-ri-jo>: "rain gods"
------> Ancient Greek `ὄμβρος` <ómbros>: "thunderstorm, flood" ##
+--> Pre-Armenian <*m̥bʰrós>
+---> Old Armenian `ամպրոպ` <amprop>: "thunder"
+----> Armenian `ամպրոպ` <amprop>: "thunderstorm"
 
----> Indo-Iranian <*abʰrás>: "cloud, raincloud"
-----> Indo-Aryan <*abʰrás>
------> Dardic
-------> Kashmiri <obur>: "clouds, cloudy weather"
------> Sanskrit `𑀅𑀪𑁆𑀭` <abhrá>: "cloud, thunder cloud, sky"
-------> Pali `𑀅𑀩𑁆𑀪` <abbha>
--------> Thai `อาภา` <āphā>: "light, ray"
-------?> English `Appa`
-------> Sauraseni `𑀅𑀩𑁆𑀪` <abbha>: "cloud, rain cloud, rainy weather, sky"
--------> Madhya
---------> Hindi `आभ` <ābh>: "sky"
-----> Iranian <*abráh>: "cloud"
------> Avestan `𐬀𐬡𐬭𐬀` <aβra>: "cloud"
+--> Hellenic
+---> Classical Greek `ἀφρός` <aphrós>: "foam" ##
+
+-?> Indeterminate Indo-European language
+--?> Hellenic
+----> Mycenaean Greek `𐀃𐀖𐀪𐀍` <o-mi-ri-jo>: "rain gods"
+----> Classical Greek `ὄμβρος` <ómbros>: "thunderstorm, flood" ##
+
+--> Indo-Iranian <*abʰrás>: "cloud, raincloud"
+---> Indo-Aryan <*abʰrás>
+----> Sanskrit `𑀅𑀪𑁆𑀭` <abhrá>: "cloud, thunder cloud, sky"
+-----> Pali `𑀅𑀩𑁆𑀪` <abbha>
+------> Thai `อาภา` <āphā>: "light, ray"
+-----?> English `Appa`
+-----> Sauraseni `𑀅𑀩𑁆𑀪` <abbha>: "cloud, rain cloud, rainy weather, sky"
+------> Madhya Sauraseni
+-------> Hindi `आभ` <ābh>: "sky"
+------> Northwestern Sauraseni
+-------> Kashmiri <obur>: "clouds, cloudy weather"
+---> Iranian <*abráh>: "cloud"
+----> Avestan `𐬀𐬡𐬭𐬀` <aβra>: "cloud"
+----> Northern Iranian
+-----> Khotani <orä>
+-----> Ossetian `арв` <arv>: "sky"
+----> Pashto `اوره‎` <owrë́>
+----> Western Iranian
+-----> Northwestern Iranian
+------> Balochi `اور` <awr>: "cloud"
+------> Kurdish `ewr`: "cloud"
+-----> Persian `ابر` <abr>: "cloud, sponge"
+----> Iranian <*abrakah> (diminutive)
 -----> Northern Iranian
-------> Khotani <orä>
-------> Ossetian `арв` <arv>: "sky"
------> Pashto `اوره‎` <owrë́>
+------> Ossetian `ӕврагъ` <ævraǧ>: "cloud"
 -----> Western Iranian
-------> Northwestern Iranian
--------> Balochi `اور` <awr>: "cloud"
--------> Kurdish `ewr`: "cloud"
-------> Persian `ابر` <abr>: "cloud, sponge"
------> Iranian <*abrakah> (diminutive)
-------> Northern Iranian
--------> Ossetian `ӕврагъ` <ævraǧ>: "cloud"
-------> Western Iranian
--------> Persian `ابرک` <abrak>: "little cloud, sponge"
+------> Persian `ابرک` <abrak>: "little cloud, sponge"
 
 
----> Italic <*emβris>
-----> Latin `imber`: "rain, storm"
----?> Oscan <*anfr->: "rain"
------> Oscan `𐌀𐌍𐌀𐌚𐌓𐌝𐌔𐌔 𐌊𐌄𐌐𐌐𐌉𐌉𐌖𐌉𐌔` <Anafriss Kerriiuis>: "They Grow the Rains (Divinities of Rain)"
+--> Italic <*emβris>
+---> Latin `imber`: "rain, storm"
+--?> Oscan <*anfr->: "rain"
+----> Oscan `𐌀𐌍𐌀𐌚𐌓𐌝𐌔𐌔 𐌊𐌄𐌐𐌐𐌉𐌉𐌖𐌉𐌔` <Anafriss Kerriiuis>: "They Grow the Rains (Divinities of Rain)"
 
----> Tocharian <*epprer>
-----> Kushean <iprer>: "sky, air"
-
-
----> Indeterminate Indo-European language
-----> Samic <*ëprē>: "rain"
------> Northern Sami `arvi`: "rain"
+--> Tocharian <*epprer>
+---> Kushean <iprer>: "sky, air"
 
 
---> Proto-Indo-European <*n̥bʰtós> (adjective)
+--> Indeterminate Indo-European language
+---> Samic <*ëprē>: "rain"
+----> Northern Sami `arvi`: "rain"
 
----> Indo-Iranian <*nabʰtás>
-----> Iranian
------> Avestan `𐬥𐬀𐬞𐬙𐬀` <napta>: "wet, damp"
------> Northern Iranian
-------> Sogdian `𐫗𐫂𐫤𐫏𐫏‎` <nβtyy>: "damp, humid"
------> Pashto `لوند` <lund>: "wet"
------> Western Iranian
-------> Northwestern Iranian
--------> Parthian `𐫗𐫜𐫤‎` <nft>
+
+-> Proto-Indo-European <*n̥bʰtós> (adjective)
+
+--> Indo-Iranian <*nabʰtás>
+---> Iranian
+----> Avestan `𐬥𐬀𐬞𐬙𐬀` <napta>: "wet, damp"
+----> Northern Iranian
+-----> Sogdian `𐫗𐫂𐫤𐫏𐫏‎` <nβtyy>: "damp, humid"
+----> Pashto `لوند` <lund>: "wet"
+----> Western Iranian
+-----> Northwestern Iranian
+------> Parthian `𐫗𐫜𐫤‎` <nft>
+
+
+
 
 
 endbody
@@ -209,7 +228,7 @@ startnotes
 
 # In a number of descendants of <*nebʰ->: "cloudy, misty, damp" there is a semantic shift to "sky"; this parallels the shift from Germanic <*skiwô>: "cloud cover" to English "sky".
 
-## Ancient Greek `ὄμβρος` <ómbros> matches the meaning of other descendants of <*n̥bʰrós>, but the expected form is `ἀφρός` <aphrós> which means "sea foam" instead. Possibly <ómbros> is a borrowing from a different Indo-European branch, perhaps Phrygian which is known to have the <*bʰ> to <*b> sound change.
+## Classical Greek `ὄμβρος` <ómbros> matches the meaning of other descendants of <*n̥bʰrós>, but the expected form is `ἀφρός` <aphrós> which means "sea foam" instead. Possibly <ómbros> is a borrowing from a different Indo-European branch, perhaps Phrygian which is known to have the <*bʰ> to <*b> sound change.
 
 
 ### `Niebelung` derived from <*nibilaz>: "misty, dark"—thus "Children of Darkness"—may be a reinterpretation by folk etymology from an existing name with a different etymology, likely originally <*niwjaz>: "new" instead.
@@ -219,3 +238,5 @@ The name probably referred originally to a Burgundian dynasty with no particular
 The Italian name "Napoleone" is modified by folk etymology from an unknown source, possibly the Lombardic versions of `Nibelung`.
 
 endnotes
+
+

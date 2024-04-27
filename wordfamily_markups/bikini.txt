@@ -13,13 +13,13 @@ Austronesian <ñiuʀ>: "coconut" #
 
 --> Bornean
 ---> Barito
-----> Malagasy `voanio`: "coconut" (compound with "fruit")
+----> Malagasy `voanio`»1: "coconut" (compound with "fruit")
 
 --> Chamorro `niyok`
 
 --> Malayo-Sumbawan
 ---> Chamic <*laʔur>
-----> Acehnese `u`: "coconut"
+----> Aceh `u`: "coconut"
 ----> Tsat <lu³³>: "coconut"
 ---> Malayic <*ñiur>
 ----> Malay `nyiur`: "coconut"
@@ -31,7 +31,7 @@ Austronesian <ñiuʀ>: "coconut" #
 ---> Sangir `niuhe'`: "coconut"
 
 --> Timoric
----> Tetun `nuu-fuan`: "coconut" (compound with "fruit")
+---> Tetun `nuu-fuan`»1: "coconut" (compound with "fruit")
 
 --> Oceanic <*niuʀ>
 
@@ -79,14 +79,14 @@ Austronesian <*buaʔ>: "fruit"
 --> Bornean
 ---> Barito
 ----> Malagasy `voa`: "fruit, seed, kidney"
------> Malagasy `voanio`: "coconut"
+-----> Malagasy `voanio`»1: "coconut"
 
 --> Kawi `ꦮ꧀​ꦮꦃ` <wwah>: "fruit"
 ---> Javanese `woh`: "fruit"
 
 --> Malayo-Sumbawan <*buah>
 ---> Chamic <*bɔh>
-----> Acehnese `boh`: "fruit"
+----> Aceh `boh`: "fruit"
 ---> Malayic <*buah>
 ----> Malay `buah`: "fruit"
 -----> Malay `berbuah`: "to fruit"
@@ -95,7 +95,7 @@ Austronesian <*buaʔ>: "fruit"
 
 --> Timoric
 ---> Tetum `fuan`: "fruit, heart"
-----> Tetum `nuu-fuan`: "coconut"
+----> Tetum `nuu-fuan`»1: "coconut"
 ---> Uab Meto `fua'`: "fruit"
 
 --> Oceanic 
@@ -131,3 +131,5 @@ startnotes
 # Even though I have no evidence of the word prior to Malayo-Polynesian (no Formosan reflexes), I have included it because Li Jen-kuei (aka Paul Li) says "PAN *n'iuR 'coconut' is completely lost in all Formosan languages.", and Li is obviously more qualified to make that decision than I am.
 
 endnotes
+
+

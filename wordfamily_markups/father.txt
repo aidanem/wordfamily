@@ -90,7 +90,7 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 -------> Italian `antipasto`: "appetizer" (lit. "before-meal")
 --------> English `antipasto`
 ------> Spanish `pasto`: "pasture, lawn, grass"
----?> Italic <*pastnis>
+---?> Italic <*pastnis>»1
 -----> Latin `pānis`: "bread, loaf, food, nourishment" (most descendants from the accusative: <panem>)
 ------> Sardinian `pani`: "bread"
 ------> Eastern Romance
@@ -151,9 +151,9 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 ---> East Germanic
 ----> Gothic `𐍆𐍉𐌳𐌾𐌰𐌽` <fōdjan>
 ---> North Germanic
-----> Old Norse `fœða`: "to feed, to nourish, to raise, to give birth"
------> Danish `føde`: "feed, support, bear"
------> Icelandic `fæða`: "to give birth to, to feed, to nourish"
+----> Old Norse `fœða`»1: "to feed, to nourish, to raise, to give birth"
+-----> Danish `føde`»1: "feed, support, bear"
+-----> Icelandic `fæða`»1: "to give birth to, to feed, to nourish"
 ---> West Germanic
 ----> Old English `fēdan`: "to feed"
 -----> English `feed`
@@ -271,13 +271,13 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 ----> English `pabulum`
 
 
--> Proto-Indo-European <péh₂dō>
+-> Proto-Indo-European <*péh₂dō>
 
 --> Germanic <*fōdô>: "food, nourishment"
 ---> North Germanic
-----> Old Norse `fœða`: "food" (merges to a homonym with <fœða> from <*fōdijaną>: "feed" in Old Norse and all descendants)
------> Danish `føde`: "food"
------> Icelandic `fæða`: "food"
+----> Old Norse `fœða`»2: "food" (merges to a homonym with <fœða> from <*fōdijaną>: "feed" in Old Norse and all descendants)
+-----> Danish `føde`»2: "food"
+-----> Icelandic `fæða`»2: "food"
 ---> West Germanic
 ----> Old English `fōda`: "food"
 -----> English `food`
@@ -288,7 +288,7 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 
 -?> Hellenic
 ---> Mycenaean Greek `𐀞𐀯` <pa-si>: "all of, all"
----> Classical Greek `πᾶς` <pâs>: "all, every, whole" ##
+---> Classical Greek `πᾶς` <pâs>: "all, every, whole" (oblique stem <pan(t)->) ##
 ----> Greek `παν` <pan>: "the universe, everything"
 ----> English `pan(t)-`
 ----> Classical Greek `παντόμιμος` <pantómimos>: "pantomine performer" ####
@@ -306,6 +306,9 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 ---------> English `panties`
 -------> Italian `pantalone`: "trousers, pantsuit"
 -------> Spanish `pantalón`: "trousers, pants"
+----> Classical Greek `Πανδώρα` <Pandṓra> (lit. "All Gifts")
+-----> Latin `Pandora`
+------> English `Pandora`
 
 --> Italic <*penets>
 ---> Latin `penes`: "stores of food, something under one's governance, something at one's disposal, concerning, within"
@@ -318,7 +321,7 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 -------> Italian `penetrare`: "to penetrate, to soak in, to permeate"
 -------> French `pénétrer`: "to enter, to penetrate, to see through"
 ------> English `penetrate`
---?> Italic <*pastnis>
+--?> Italic <*pastnis>»1
 
 -?> Tocharian
 ---> Arshian <po>: "all, everything, complete" ##
@@ -425,6 +428,12 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 ------> Italian `compare`: "godfather of one's child, best man, old friend, accomplice"
 ------> Spanish `compadre`: "godfather of one's child, friend"
 -------> English `compadre`
+----> Latin `patricius`: "patrician, noble"
+-----> French `patrice`: "patrician"
+------> English `patrician`
+-----> Koine Greek `πατρίκιος`: "patrician, upper class"
+------> Aramaic
+-------> Arabic `بِطْرِيق` <biṭrīq>: "patrician, Byzantine military commander, penguin"
 ----> Latin `Pater noster`: "the Lord's Prayer (Our Father)"
 -----> Old Czech `páteř`: "Lord's Prayer, rosary"
 ------> Czech `páteř hřbetní`: "spine, vertebra" (lit. "back rosary")
@@ -442,7 +451,7 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 ---> Kuchean <pācer>
 
 
---> Proto-Indo-European <ph₂trwós>: "paternal uncle" (lit. "father-like")
+--> Proto-Indo-European <*ph₂trwós>: "paternal uncle" (lit. "father-like")
 
 ---> Old Armenian `յաւրայ` <yawray>: "stepfather"
 ----> Armenian `հորու` <horu>: "stepfather"
@@ -451,7 +460,7 @@ Proto-Indo-European <*peh₂->: "to protect, to watch over, to shepherd"
 ----> Indo-Aryan
 -----> Sanskrit `𑀧𑀺𑀢𑀾𑀯𑁆𑀬` <pitṛvyá>: "paternal uncle, older male relative"
 
---> Proto-Indo-European <ph₂trós>: "father-like"
+--> Proto-Indo-European <*ph₂trós>: "father-like"
 
 ---> Hellenic
 ----> Classical Greek `πάτρως` <pátrōs>: "paternal uncle"
@@ -476,3 +485,4 @@ startnotes
 #### Greek `παντόμιμος` <pantómimos>: "pantomine performer", literally "mimic/actor of all". An actor who performs a complete story by themselves, taking on different roles with masks and body posture.
 
 endnotes
+

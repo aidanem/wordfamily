@@ -46,9 +46,10 @@ Proto-Indo-European <*h₃reǵ->: "to straighten, to right oneself, right, just"
 -> Proto-Indo-European <*h₃reǵdʰleh₂>
 
 --> Italic
----> Latin `regula`
+---> Latin `rēgula`
 ----> English `regulate`
 ----> English `rule`
+----> Welsh `rheol`
 
 
 -> Proto-Indo-European <*h₃réǵeh₂yéti>
@@ -70,7 +71,6 @@ Proto-Indo-European <*h₃reǵ->: "to straighten, to right oneself, right, just"
 
 --> Germanic <*rakjanã>: "to stretch, to straighten"
 --?> English <rake>
-rack, retch
 
 --> Indo-Iranian
 ---> Indo-Aryan
@@ -97,11 +97,13 @@ rack, retch
 --> Celtic <*rīxs>
 ---> Brythonic <*riɣ>: "king"
 ----> Welsh `rhi`: "king"
+---> Gaulish `rīx`: "king"
+---> Hispano-Celtic
+----> Celtiberian `reikis`: "king"
+---?> Gallaecian `Deuori` (divine name, possibly <*dēwo-rīxs>: "God-King")
 ---> Primitive Irish `ᚏᚔᚌᚐᚄ` <rigas>: "of the king" (only attested in the genitive)
 ----> Old Irish `rí`: "king"
 -----> Irish `rí`: "king"
----> Gaulish `rīx`: "king"
----> Celtiberian `reikis`: "king"
 
 ---> Celtic <*Albiyorīxs>: "White-King (personal name)"
 ----> Gaulish `Albiorīx`: "personal name"
@@ -113,8 +115,8 @@ rack, retch
 ---> Celtic <*Verkengetorīxs>: "Over-king of Warriors (personal name)"
 ----> Gaulish `Vercingetorīx`
 
----> Germanic <*rīks> ####
-----> Germanic <*rīkijã>: "rulership, authority, realm, kingdom" #####
+---> Germanic <*rīks> #
+----> Germanic <*rīkijã>: "rulership, authority, realm, kingdom" ##
 -----> East Germanic
 ------> Gothic `𐍂𐌴𐌹𐌺𐌹` <reiki>: "dominion"
 -----> North Germanic
@@ -209,19 +211,17 @@ rack, retch
 -----> French `Thierry`
 
 
+--> Indo-Iranian <*Hrā́ćš>
+---> Indo-Aryan <*Hrā́ṭṣ>
+----> Vedic Sanskrit `𑀭𑀸𑀝𑁆` <rā́ṭ>: "king, chief" (oblique stem <rā́j->)
+-----> Sanskrit `𑀲𑀫𑁆𑀭𑀸𑀝𑁆` <samrā́ṭ>: "supreme ruler, universal rule" (lit. "one-king" or "entire-king")
+------> Hindi `सम्राट` <samrāṭ>: "emperor, sovereign"
 
---> Germanic <*rekô> ####
----> Germanic <*anudrekô>: "male duck, drake" (lit. "duck-king")
-----> North Germanic
------> Old Norse
-------> Swedish `andrake`: "male duck, drake"
-----> West Germanic
------> Old English <*(an)draca>: "male duck, drake"
-------> English `drake` ####
-------> Scots `draik`: "male duck, drake"
--------> Scottish Gaelic `ràc`: "male duck, drake"
------> Old High German `anutrehho`
-------> German `Enterich`: "male duck, drake"
+---> Iranian <Hrā́š>
+----> Western Iranian
+----?> Old Persian <*rāz->: "queen bee"
+-----> Persian `راز` <râz>: "hornet, (large) bee"
+
 
 --> Italic <*rēks>
 ---> Faliscan `𐌓𐌄𐌗` <rex>: "king"
@@ -249,23 +249,37 @@ rack, retch
 
 --> Proto-Indo-European <*h₃rḗǵō>: "king"
 
+
+--> Germanic <*rekô> #
+---> Germanic <*anudrekô>: "male duck, drake" (lit. "duck-king")
+----> North Germanic
+-----> Old Norse
+------> Swedish `andrake`: "male duck, drake"
+----> West Germanic
+-----> Old English <*(an)draca>: "male duck, drake"
+------> English `drake` #
+------> Scots `draik`: "male duck, drake"
+-------> Scottish Gaelic `ràc`: "male duck, drake"
+-----> Old High German `anutrehho`
+------> German `Enterich`: "male duck, drake"
+
 ---> Indo-Iranian <*Hrāĵā>
 ----> Sanskrit `𑀭𑀸𑀚𑀦𑁆` <rājan>: "king"
 -----> Magadhi
 ------> Bengali `রাজা` <raja>
 -----> Maharashtri
 ------> Sinhala `රජ` <raja>
+-----> Pali <rājā>: "king"
+------> Pali <śrī rājā>: "king's glory"
+-------> Thai `ศรีราชา` <sǐi-raa-chaa>: "king's glory, Si Racha (town)"
+--------> English `sriracha (sauce)`
 -----> Sauraseni
 ------> Madhya
 -------> Hindi `राजा` <rājā>
 ------> Pahari
 -------> Nepali `राजा` <rājā>
 -------> Punjabi `ਰਾਜਾ` <rājā>
-------> Pali <rājā>: "king"
--------> Pali <śrī rājā>: "king's glory"
---------> Thai `ศรีราชา` <sǐi-raa-chaa>: "king's glory, Si Racha (town)"
----------> English `sriracha (sauce)`
-------> West Indo-Aryan
+------> Western Sauraseni
 -------> Romani `rai`: "gentleman, lord"
 -----> Dravidian <*aracan>
 -------> Telugu `అరుసు` <arusu>
@@ -291,13 +305,15 @@ rack, retch
 -----> Sanskrit `𑀭𑀸𑀚𑁆𑀜𑀻` <rā́jñī>: "queen"
 ------> Magadhi
 -------> Bengali `রাণী` <raṇi>: "queen"
+------> Pali <rājinī>
+-------> Thai `ราชินี` <raa-chí-nii>: "queen"
 ------> Sauraseni
 -------> Madhya
 --------> Hindi `रानी` <rānī>: "queen, princess"
 ---------> English `rani`: "queen or princess in India"
 ---------?> English `Rahnee the She-Wolf`
--------> Pali <rājinī>
---------> Thai `ราชินี` <raa-chí-nii>: "queen"
+-------> Western Sauraseni
+--------> Romani `rani`: "ma'am, lady"
 ------> Telugu `రాణి` <rāṇi>: "queen"
 
 ---> Italic <*rēginā>
@@ -312,7 +328,7 @@ rack, retch
 --> Proto-Indo-European <*h₃rēǵyos>: "kingly, royal"
 
 ---> Celtic <*rīgyos>
-----> Germanic <*rīkijaz>: "kingly, royal, powerful, rich" #####
+----> Germanic <*rīkijaz>: "kingly, royal, powerful, rich" ##
 -----> East Germanic
 ------> Gothic `𐍂𐌴𐌹𐌺𐌴𐌹𐍃` <reikeis>
 -------> Spanish `rico`
@@ -332,14 +348,14 @@ rack, retch
 -------> Scots `rik`: "mighty, great, rich, valuable, splendid"
 ------> Frankish <*rīki>: "rich"
 -------> Dutch `rijk`: "rich, abundant"
--------> French `riche`: "rich" #####
+-------> French `riche`: "rich" ##
 -------> Frankish <*lantrīki>: "Surname, land-rich" (originally used in a handful of villages near Poitiers.)
 --------> French `Landry`
 ------> Old High German `rīhhi`: "rich"
 -------> German`reich`: "rich"
 -------> Yiddish `רײַך‏` <raykh>: "rich"
 -------> Lombardic
---------> Italian `ricco`: "rich" #####
+--------> Italian `ricco`: "rich" ##
 
 ---> Indo-Iranian
 ----> Indo-Aryan
@@ -377,17 +393,14 @@ endbody
 
 startnotes
 
-#### Germanic borrowed <*riks> from Celtic, which replaced native Germanic <*rekô>, now only seen in descendants of <*anudrekô>: "duck-king". (English `drake`: "male duck", unrelated to `dragon`/`draco`/`drake`, from Ancient Greek `δράκων` <drákōn>: "monstrous serpent")
+# Germanic borrowed <*riks> from Celtic, which replaced native Germanic <*rekô>, now only seen in descendants of <*anudrekô>: "duck-king", for example English `drake`: "male duck" (which is unrelated to `dragon`/`draco`/`drake`, from Ancient Greek `δράκων` <drákōn>: "monstrous serpent")
 
 <*riks> was mostly replaced in turn by <*kuningaz>: "king", which we'll cover in a few weeks.
 
 
 
-##### <*rīkijã> and <*rīkijaz> are a doublet pair in Germanic, both meaning "kingly". One borrowed with morphology applied in Celtic, one with the equivalent native morphology applied after borrowing from Celtic.
+## <*rīkijã> and <*rīkijaz> are a doublet pair in Germanic, both meaning "kingly". One borrowed with morphology applied in Celtic, one with the equivalent native morphology applied after borrowing from Celtic.
 
 Germanic <*rīkijaz> is the root of the French `riche`, Italian `ricco`, and Spanish `rico`, via the three Germanic peoples which took over each of those Roman provinces: the Franks, the Langobards, and the Visigoths, respectively. Makes sense, but it doesn't usually work like that. (The Italian could also be from Ostrogothic or a conflation of Ostrogothic and Lombardic).
 
 endnotes
-
-
-

@@ -1,0 +1,379 @@
+
+
+
+
+
+startbody
+
+
+
+Proto-Indo-European <*(Ø)-tḗr>
+
+
+-> Proto-Indo-European <*(é)-trih₂>
+--> Proto-Indo-European <*-trih₂ks>
+
+---> Italic
+----> Latin `-trix`
+-----> Latin `matrix`
+------> English `matrix`
+
+-> Proto-Indo-European <*(é)-tōr>
+
+--> Hellenic <*-tōr>
+---> Classical Greek `-τωρ` <-tōr>
+
+--> Indo-Iranian <-*tā>
+
+--> Italic <*-tōr>
+---> Latin `-tor`
+----> English `-or`
+----> Latin `creator`
+-----> English `creator`
+----> Latin `doctor`
+-----> English `doctor`
+----> Latin `ianitor`: "doorman, porter"
+-----> English `janitor`
+----> Latin `raptor`
+-----> English `raptor`
+----> Medieval Latin `laborator`
+-----> English `Labrador`
+------> English `labrador (retriever)`
+-------> English `lab`
+-----> Medieval Latin `laboratorium`
+------> English `laboratory`
+-------> English `lab`
+
+
+
+-> Proto-Indo-European <*tr̥yós> (adjective: like an actor)
+--> Italic
+---> Latin `-tōrius`
+-?> Italic
+---> Latin `-ārius`
+---?> Germanic <*-ārijaz>
+-----> East Germanic
+------> Gothic
+-------> Slavic
+-----> North Germanic
+------> Old Norse `-ari`
+-------> Danish
+-------> Icelandic
+-----> West Germanic
+------> Old English `-ere`
+-------> English `-er`
+
+
+-> Proto-Indo-European <-tr(r)ós> (adjective: like an actor)
+--> Proto-Indo-European <-tróm> (neuter singular)
+
+
+---> Proto-Indo-European <*(é)-trom>
+
+----> Germanic <*-þrã>
+
+-----> Germanic <*rōþrą>
+------> North Germanic
+------> West Germanic
+-------> Old English
+--------> English `rudder`
+
+
+----> Hellenic <*-tron>
+-----> Mycenaean Greek `-𐀵𐀫` <-to-ro>
+-----> Classical Greek `-τρον` <-tron>
+------> English `-tron`
+------> Classical Greek `μέτρον` <métron>: "something used to measure, rule, weight, length, breadth, meter (poetic)"
+-------> Greek `μέτρο` <métro>: "measure, meter (length), meter (poetry), moderation"
+-------> Latin `metrum`: "a measure, meter (poetic)"
+--------> Central Romance
+---------> Italian `metro`: "meter (length), ruler, criterion"
+--------> Western Romance
+---------> French `mètre` (length)
+----------> English `meter` (length)
+---------> Spanish `metro`: "meter (length), ruler, measuring tape"
+--------> Old English
+---------> English `meter` (poetic)
+-------> Classical Greek `μετρικός` <metrikós>
+--------> Latin `metricus`
+---------> Central Romance
+----------> Italian `metrica`: "meter (poetic)"
+---------> Western Romance
+----------> French `metrique`: "metric, metrical, meter (poetic)"
+----------> Spanish `métrica`: "meter (poetic)"
+------> Classical Greek `ὀρχήστρα` <orkhḗstra>
+-------> Latin `orchestra`
+--------> English `orchestra`
+------> Classical Greek `σεῖστρον` <seîstron>
+-------> Latin `sistrum`
+--------> English `sistrum`
+
+
+
+----> Italic <*-trom>
+-----> Latin `-trum`
+------> Latin `capistrum`
+-------> Western Romance
+--------> Old French
+--------?> English `capstan`
+--------> Spanish
+--------?> English `capstan`
+
+
+----> Proto-Indo-European <*h₂érh₃trom>: "plow" (instrumental)
+
+-----> Old Armenian `արօր` <arōr>: "plow"
+------> Armenian `արոր` <aror>: "plow"
+
+-----> Balto-Slavic <*árˀtla>: "plow"
+------> East Baltic
+-------> Lithuanian `árklas`: "scratch plow, ard"
+------> Slavic <*òrdlo>: "plow"
+-------> East Slavic `рало` <ralo>
+--------> Russian `ра́ло` <rálo>: "plow"
+-------> South Slavic
+--------> Old Church Slavonic `рало` <ralo>
+--------> Serbo-Croatian `ра̏ло` <rȁlo>: "plow, plowshare"
+-------> West Slavic
+--------> Polish `radło`: "simple plow, ard"
+
+-----> Celtic <*aratrom>: "plow"
+------> Brythonic <*aradr>: "plow"
+-------> Welsh `aradr`: "plow"
+------> Old Irish
+-------> Irish `arathar`: "plow" (archaic)
+
+-----> Germanic <*arþrą>: "plow"
+------> North Germanic
+-------> Old Norse `arðr`: "plow"
+--------> Danish `ard`
+--------> Norwegian `ard`: "scratch plow, ard"
+---------> English `ard`
+--------> Swedish `årder`: "scratch plow, ard"
+-------> Finnic <*atra>: "plow"
+--------> Finnish `aura`: "plow, V of birds"
+
+-----> Hellenic
+------> Classical Greek `ᾰ̓́ροτρον` <árotron>: "plow"
+-------> Greek `άροτρο` <árotro>: "plow"
+
+-----> Italic
+------> Latin `aratrum`: "plow"
+-------> Central Romance
+--------> Italian `aratro`: "plow"
+-------> Eastern Romance
+--------> Romanian `arat`: "plow"
+-------> Insular Romance
+--------> Sardinian `aradu`
+-------> Western Romance
+--------> French `araire`: "scratch plow, ard"
+--------> Spanish `arado`: "plow"
+
+
+
+
+
+----> Proto-Indo-European <*(é)-tlom>
+
+-----> Germanic <*-þlą>
+------> Germanic <*-þlō>
+-------> Germanic <*nēþlō>
+--------> East Germanic
+--------> North Germanic
+---------> Finnic <*nëkla>
+--------> West Germanic
+---------> Old English `nǣdl`
+----------> English `needle`
+
+------> Germanic <*bōþlą>: "house, dwelling"
+-------> North Germanic
+--------> Old Norse `ból`
+---------> Icelandic `ból`: "abode, home, farm"
+---------> Old Danish `byl`: "settlement"
+----------> Old Danish `Nybylløv`: "New-Settlement (place name)" (with Scanian place name suffix `-løv`)
+-----------> Swedish `(Östra) Nöbbelöv`
+------------> Swedish `Nobel`: "habitational surname"
+-------------> English `Nobel Prize`
+-------------> New Latin `nobelium` (after Alfred Nobel)
+--------------> Translingual `No`
+--------------> English `nobelium`
+-------> West Germanic
+--------> Frankish
+---------> Dutch `boedel`: "estate, collective property of a person" (not land)
+----------> English `boodle`: "money, swag"
+----------> English `kit and (ca)boodle`: a large collection of things
+--------> Old English `botl`
+---------> English `bottle`: "house, dwelling" (dialectic, unrelated to more common `bottle`)
+
+
+
+
+
+
+-----> Proto-Indo-European <*-dʰlom> (occuring with roots ending in *-h₁ or *-h₂)
+
+-----?> Pre-Germanic <*-llam>
+-------> Pre-Germanic <*-illa> (on j-stems)
+-------?> Germanic <*-ilaz>
+---------> Germanic <*barilaz>
+----------> West Germanic
+-----------> Frankish
+-----------?> French `baril`
+-------------> English `barrel`
+
+---------> Germanic <*brigdilaz>
+----------> West Germanic
+-----------> Old English `brīdel`
+------------> English `bridle`
+
+
+---------> Germanic <*snagilaz>
+----------> North Germanic
+-----------> Old Norse `snigill`
+----------> West Germanic
+-----------> Old English `sneġel`
+------------> English `snail`
+
+
+---------> Germanic <*Wandilaz>: "a Vandal"
+
+----------> North Germanic
+-----------> Old Norse `Vandill`
+------------> Swedish `Vendel`
+-------------> Swedish `Vendeltiden`: "Vendel Period" (after archaeological finds at the village of `Vendel`)
+--------------> English `Vendel Period`
+
+----------> West Germanic <*Wandil>
+-----------> Old English `Wendel`: "a Vandal"
+-----------> Old High German `Wentil`: "a Vandal"
+
+-----------> West Germanic <*Wandilsaiwi>: "the Vandal's Sea, the Mediterranean Sea"
+------------> Old English `Wendelsǣ`: "the Mediterranean Sea"
+------------> Old High German `Wentilsēo`: "the Mediterranean Sea" (only in the Hildebrandslied)
+
+---------> Latin `Vandalus`
+----------> French `vandale`: "a Vandal, a vandal"
+-----------> French `vandalisme`
+------------> English `vandalism`
+----------> English `Vandal`
+----------> Vulgar Latin <*Vandalicia>: "Kingdom of the Vandals"
+----------?> Arabic `الأندلس` <al-Andalus>
+------------> Spanish `Andalucía`
+-------------> English `Andalusia`
+
+
+----------> Germanic <*Auziwandilaz>: "Dawn-Wanderer?"
+---------> East Germanic
+----------> Gothic `𐌰𐌿𐌶𐌰𐌽𐌳𐌹𐌻` <auzandil>: "morning star (Venus), Lucifer"
+---------> North Germanic
+----------> Old Norse `Aurvandil`
+---------> West Germanic
+----------> Old English `Ēarendel`
+-----------> Quenya `` <Eärendil>
+------------> English `Eärendil`
+----------> Old High German `Orentil`
+----------> Lombardic `Auriwandalo`
+-----------> Latin `Horvandillus`
+
+
+
+
+
+
+------> Pre-Germanic <*dawllam> (thing for fitting)
+-------?> Germanic <*tōlą>
+---------> North Germanic
+----------> Old Norse `tól`
+----------?> Old English `tōl`
+------------> English `tool`
+--------?> West Germanic
+---------?> Old English `tōl`
+
+
+------> Italic <*ðlom>
+-------> Latin `-bula`
+--------> Latin `fabula` (thing for saying)
+---------> Western Romance
+----------> French `fable`
+-----------> English `fable`
+
+
+
+------> Proto-Indo-European <*-dʰlis>
+
+-------> Italic <-ðlis>
+--------> Latin `-bilis`
+---------> Latin `habilis`: "able to have, having sufficient ability, suitable"
+----------> Central Romance
+-----------> Italian `abile`
+----------> Western Romance
+-----------> Old French `able`
+------------> French `habile`
+------------> English `able`
+-----------> Spanish `hábil`
+----------> French `habile`
+-----------> French `habileté`
+----------> Translingual `Homo habilis`
+----------> Latin `habilitas`
+-----------> Central Romance
+------------> Italian `abilità`
+-----------> Western Romance
+------------> Old French `ableté`
+-------------> French `habileté`
+-------------> English `ability`
+----------> Latin `habilitare`
+-----------> Central Romance
+------------> Italian `abilitare`
+-----------> English `habilitate`
+-----------> French `habiliter`
+-----------> Spanish `habilitar`
+
+---------> Latin `-ibilis`
+----------> English `-ible`
+
+---------> Latin `-abilis`
+----------> English `-able`
+
+
+
+
+
+------> Proto-Indo-European <*-dʰrom>
+
+-------> Italic <-ðrom> 
+--------> Latin `-brum`
+---------> Latin `candelabrum` (thing for candles)
+----------> Western Romance
+-----------> French `chandelier`
+------------> English `chandelier`
+----------> English `candelabrum`
+----------> Spanish `candelabro`
+
+
+
+-------> Proto-Indo-European <*-dʰreh₂>
+
+--------> Italic <-ðrā> 
+---------> Latin `-bra`
+----------> Latin `vertebra`: "joint" (thing for turning)
+-----------> English `vertebra`
+
+
+
+-------> Proto-Indo-European <*ḱlóydʰrom>: "thing for leaning, leaning tool"
+
+--------> Germanic <*hlaidrijō>
+---------> West Germanic
+----------> Old English `hlǣder`
+-----------> English `ladder`
+-----------> Scots `ledder`: "ladder"
+----------> Frankish <*lēdara>
+-----------> Dutch `ladder`: "ladder"
+----------> Old High German `hleitra`
+-----------> German `Leiter`: "ladder"
+------------> Hungarian `létra`: "ladder"
+-----------> Yiddish `לייטער` <leyter>: "ladder"
+
+
+
+endbody

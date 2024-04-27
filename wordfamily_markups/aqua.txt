@@ -13,7 +13,10 @@ Proto-Indo-European <*h₂ep->: "water, body of water"
 ---> Hittite `𒄩𒉺𒀀` <ḫa-pa-a>: "toward the river"
 
 -> Balto-Slavic
---> Lithuanian `ùpė`: "river"
+--> East Baltic
+---> Lithuanian `ùpė`: "river"
+--> West Baltic
+---> Old Prussian `ape`: "river"
 
 -> Celtic <*abonā>: "river"
 --> Brythonic <*aβon>
@@ -43,20 +46,24 @@ Proto-Indo-European <*h₂ep->: "water, body of water"
 
 -> Indo-Iranian <*Hā́pš->: "water"
 --> Indo-Aryan
----> Dardic
-----> Kashmiri `آب‎` <āb>: "water"
----> Sanskrit `𑀅𑀧𑁆` <ap>: "water"
+---> Vedic Sanskrit <ap>: "water" (plural <apaḥ>)
+---> Sanskrit `𑀆𑀧𑀂` <apaḥ>: "water" (plurale tantum in Classical Sanskrit)
 ----> Pali <āpa>: "water"
+----> Northwestern Sauraseni
+-----> Kashmiri `آب‎` <āb>: "water"
 --> Iranian
 ---> Avestan `𐬀𐬞` <ap>: "water"
 ---> Pashto `اوبه` <obë>: "water"
 ---> Western Iranian
 ----> Kurdish `av`: "water"
 ----> Old Persian <*ap->
------> Persian `آب` <âb>: "water, liquid, juice, river, honor"
-------> Persian `پنجاب` (panjâb): "Punjab (lit. five rivers)"
--------> English `Punjab`
 -----> Old Persian `𐎠𐎱𐎡𐎹𐎠` <apiya>: "into the water"
+-----> Persian `آب` <âb>: "water, liquid, juice, river, honor"
+------> Persian `پنجاب` <panjâb>»1: "Punjab (lit. five rivers)"
+------> Persian `آب‌تل` <āb-tal>: "water-hill"
+------?> Dhivehi `އަތޮޅު` <atoḷu>: "atoll"
+--------> Portuguese `atol`: "atoll"
+---------> English `atoll`
 ---> Iranian <*abgenag>: "crystal, glass" ##
 ----> Northern Iranian
 -----> Scythian
@@ -69,15 +76,54 @@ Proto-Indo-European <*h₂ep->: "water, body of water"
 -----?> Armenian `ապակի` <apaki>: "glass, drinking-glass, bottle"
 -----> Old Persian
 ------> Persian `آبگینه` <âbgine>: "glass, drinking-glass, bottle"
+------> Coptic `ⲁⲃⲁϭⲏⲉⲓⲛ` <abacēein>: "glass"
 --> Nuristani
 ---> Ashkun `âbo`: "water"
 ---> Kamviri `óa`: "water"
+--> Indo-Iranian <*dwiHpás>: "island, peninsula" (lit. "two-waters", water on both sides)
+---> Indo-Aryan
+----> Sanskrit `𑀤𑁆𑀯𑀻𑀧` <dvīpa>: "island, peninsula, continent"
+-----> Elu `𑀤𑀻𑀯` <dīva>
+------> Dhivehi `ދޫ‎` <dū>: "island"
+-------> Dhivehi `ދިވެހި` <divehi>: "Dhivehi" (lit. "island-dweller")
+------> Sinhala <diwa->
+-------> Sinhala `දිවයින` <diwayina>: "island"
+-----> Magadhi `𑀤𑀻𑀯` <dīva>
+------> Assamese `দীয়া` <dia>: "shoal, sandbank, island"
+-----> Pali `𑀤𑀻𑀧` <dīpa>: "island"
+------> Pali `𑀚𑀫𑁆𑀩𑀼𑀤𑀻𑀧` <jambudīpa>: "India, mortal world"
+------> Pali `𑀮𑀗𑁆𑀓𑀸𑀤𑀻𑀧` <laṅkādīpa>: "Sri Lanka" ("Lanka island")
+------> Thai `ทีป` <tîip>: "island"
+-----> Northwestern Sauraseni
+------> Kashmiri `ज़ुवु` <zuwu>: "island"
+-----> Bengali `দ্বীপ` <dip>: "island"
+-----> Hindi `द्वीप` <dvīp>: "island"
+-----> Mongolian `ᠲᠢᠢᠪ` <tiib>: "continent"
+-----> Thai `ทวีป` <tá-wîip>: "continent"
+-----> Telugu `ద్వీపము` <dvīpamu>: "continent"
+--> Indo-Iranian <*ánuHpás>: "alongside-water"
+---> Indo-Aryan
+----> Sanskrit `𑀅𑀦𑀽𑀧` <anūpá>: "riverbank, pond, near the water, watery"
+
 
 -> Italic <*af>
 --> Italic <*afnis>
 ---> Latin `amnis`: "river, current, torrent"
 ----> Latin `amnicola`: "dwelling by a river"
 -----> French `amincole`: "river dwelling, riparian (zoological)"
+
+-> Messapic <*ap>
+--> Messapic
+---> Classical Greek `Μεσσάπιος` <Messápios>: "Messapian"
+----> English `Messapia`
+-?> Messapic
+--?> Latin `Apulia`
+----> Central Romance
+-----> Italian `Puglia`
+---> English `Apulia`
+-?> Messapic
+--?> Latin `Salapia`
+---> English `Salapia`
 
 -> Tocharian
 --> Arshian <āp>: "water, river"
@@ -89,40 +135,48 @@ Proto-Indo-European <*h₂ep->: "water, body of water"
 --> Germanic <*ahwō>: "water, stream, river"
 ---> East Germanic
 ----> Gothic `𐌰𐍈𐌰` <aƕa>: "river"
----> Old Norse `á`: "river"
-----> Danish `å`: "river, creek, stream"
-----> Icelandic `á`: "river"
+---> North Germanic
+----> Old Norse `á`: "river"
+-----> Danish `å`: "river, creek, stream"
+-----> Icelandic `á`: "river"
 ---> West Germanic
 ----> Old English `ēa`: "water, river, stream"
 -----> Old English `edēa`: "turning-water"
 ------> English `eddy`
 ---> Germanic <*awjō>: "flood plain, island"
-----> Old Norse `ey`: "island"
------> Old Norse `Geirsey`: "Geirr's Island, Jersey"
-------> English `Jersey`
------> Danish `ø`: "island"
------> Icelandic `ey`: "island"
-------> Icelandic `Surtsey`: "Surtr's Island" ###
+----> North Germanic
+-----> Old Norse `ey`: "island"
+------> Old Norse `Geirsey`: "Geirr's Island, Jersey"
+-------> English `Jersey`
+------> Danish `ø`: "island"
+------> Icelandic `ey`: "island"
+-------> Icelandic `Surtsey`: "Surtr's Island" ###
+-------> Icelandic `Eyjafjallajökull`
 ----> West Germanic
 -----> Old English `īeġ`: "island"
 ------> Old English `iġeoþ`: "little island"
 -------> English `eyot`
 -------> English `ait`
 -----> Old High German
-------> German `Aue`: "flat wooded meadow by a river"
+------> German `Aue`»1: "flat wooded meadow by a river"
 ----> Germanic <*awjōlandą>: "island"
 -----> West Germanic
 ------> Old English `īġland`: "island"
 -------> English `island` ####
 ------> Dutch `eiland`: "island"
 ----> Germanic <*Skaþinawjō>: "harm-island, Scania" (cf. <scathe>)
------> Old Norse `Skáney`
-------> Danish `Skåne` :"Scania"
-------> Icelandic `Skánn`: "Scania"
-------> Medieval Latin `Scania`
--------> English `Scania`
------> Latin `Scandinavia`: "Scandinavia, Zeeland"
-------> English `Scandinavia`
+-----> North Germanic
+------> Old Norse `Skáney`
+-------> Danish `Skåne` :"Scania"
+-------> Icelandic `Skánn`: "Scania"
+-------> Medieval Latin `Scania`
+--------> English `Scania`
+------> Latin `Scandinavia`: "Scandinavia, Zeeland"
+-------> English `Scandinavia`
+-------> Latin `Scandia`
+--------> New Latin `scandium`
+---------> Translingual `Sc`
+---------> English `scandium`
 ----> Germanic <*Batawjō>: "good-island, Batavia"
 -----> West Germanic
 ------> Frankish
@@ -136,13 +190,15 @@ Proto-Indo-European <*h₂ep->: "water, body of water"
 --> Italic <*akʷā>: "water"
 ---> Oscan `𐌀𐌀𐌐𐌀` <aapa>: "water"
 ---> Latin `aqua`: "water"
-----> Sardinian `abba`: "water"
+----> Central Romance
+-----> Italian `acqua`: "water"
 ----> Eastern Romance
 -----> Romanian `apă`
+----> Insular Romance
+----> Sardinian `abba`: "water"
 ----> Western Romance
 -----> French `eau`: "water, rain"
 ------> Haitian Creole `dlo`: "water"
------> Italian `acqua`: "water"
 -----> Spanish `agua`: "water"
 ----> English `aqua`
 ----> Latin `Aquae Granni`: "Waters of (the Gaulish god) Grannus"
@@ -151,63 +207,141 @@ Proto-Indo-European <*h₂ep->: "water, body of water"
 -------> French `Aix(-la-Chapelle)`
 ------> Old High German `Ahha`
 -------> German `Aachen`
+----> Latin `Aquīnum`
+-----> Central Romance
+------> Italian `Aquino`
+-----> Western Romance
+------> Spanish `Aquino`
+----> Latin `Aquīanus`
+-----> Western Romance
+------> French `Évian-les-Bains`
+-------> English `Evian`
+---?> Latin `Aquītānia`: "Aquitaine" (cf. the original capital of Aquitania, `Aquae Tarbellicae`)
+-----> Western Romance
+------> Old French `Aguyenne`
+-------> French `Guyenne` #####
+-----> French `Aquitaine`
+------> English `Aquitaine`
+
 ----> Latin `aquor`: "I fetch water"
 -----> Latin `aquātiō`: "the fetching of water, watering, rains"
-------> Western Romance
+------> Central Romance
 -------> Italian `acquazzone`: "rainstorm, cloudburst, shower"
 ------?> Italian `guazzo`: "mud, gouache"
 --------> French `gouache`: "gouache"
 ---------> English `gouache`
 ----> Latin `aquārium`: "water carrier, aqueduct"
+-----> Central Romance
+------> Italian `acquaio`: "kitchen sink"
 -----> Eastern Romance
 ------> Romanian `apar`: "water-vendor"
 -----> Western Romance
 ------> Old French `ewer`: "water jug, ewer"
 -------> English `ewer`
-------> Italian `acquaio`: "kitchen sink"
 -----> English `aquarium`
 -----> Latin <*exaquāria>: "drain" ("out-water-carrier")
 -----> Western Romance
 ------> Old French `sewiere`: "overflow channel"
 -------> English `sewer`
 
+
+?> Proto-Indo-European <*Hwer->: "water, rain, flow"
+
+--> Balto-Slavic
+---> East Baltic
+----> Lithuanian `jū́ra`: "sea"
+---> West Baltic
+----> Old Prussian `wurs`: "pool"
+
+--> Celtic
+--?> Gaulish <Uorioni>
+----> Gallo-Romance `Uorioni Deo`: "Divinity of the Watercourse, tutelary deity of the Treveri"
+
+--> Germanic
+---> North Germanic
+----> Old Norse `vari`: "fluid, (blood) plasma"
+
+--> Indo-Iranian
+---> Indo-Aryan
+----> Sanskrit `𑀯𑀸𑀭𑁆` <vā́r>: "water, pond, pool"
+---> Iranian
+----> Avestan `𐬬𐬁𐬭‎` <vār>: "rain"
+
+--> Hellenic
+---> Classical Greek `οὖρον` <oûron>: "urine"
+----> Classical Greek `οὐρέω`
+-----> Classical Greek `οὐρήθρα` <ourḗthra>
+------> English `urethra`
+
+--> Italic
+---> Latin `ūrīna`
+----> English `urine`
+
+
+
+
+--> Proto-Indo-European <*terh₂-h₂wer->: "across the flow"
+
+---> Celtic <*trē-wer-o>: "those across the water, those who cross the river"
+----> Gaulish <*treuer->
+-----> Latin `Trēverī`: "a Gaulish tribe in Gallia Belgica"
+------> Latin `Augusta Trēverōrum`: "Augusta of the Treveri (city name), Trier"
+-------> Latin `Treverorum`
+--------> Western Romance
+---------> French `Trèves`: "Trier"
+--------> German `Trier`
+---------> English `Trier`
+----> Old Irish `treóir`: "ford"
+
+
+
+
 ?> Proto-Indo-European <*h₁egʷʰ>: "to drink" #
 
 --> Anatolian
 ---> Hittite `𒀀𒆪` <a-ku>: "to drink"
-
---> Hellenic
---?> Ancient Greek `νήφω` <nḗphō>: "be sober, refrain from drink" (<ne-pho>, not-drunk)
-----> Greek `νηφάλιος` <nifálios>: "calm, sober, dispassionate, not drunk"
 
 --> Tocharian <*yok->
 ---> Arshian <yok->: "to drink"
 ---> Kuchean <yok->: "to drink"
 
 
+--> Proto-Indo-European <*h₁ēgʷʰeti>: "drinks"
+---> Hellenic <*epʰo>: "I drink, I become drunk"
+----> Hellenic <*nēpʰo> (negation)
+----?> Classical Greek `νήφω` <nḗphō>: "I am sober, I refrain from drink"
+------> Greek `νηφάλιος` <nifálios>: "calm, sober, dispassionate, not drunk"
+
+
 --> Proto-Indo-European <*h₁ēgʷʰ-rios>: "drunk"
 ---> Italic
 ----> Latin `ēbrius`: "drunk, intoxicated"
+-----> Central Romance
+------> Italian `ebbro`: "drunk, intoxicated, beside oneself, enraptured"
 -----> Western Romance
 ------> French `ivre`: "drunk, intoxicated"
 -------> French `enivrer`: "to intoxicate"
-------> Italian `ebbro`: "drunk, intoxicated, beside oneself, enraptured"
 ------> Spanish `ebrio`: "drunk"
 -----> Latin `inēbriō`: "I intoxicate"
-------> Western Romance
+------> Central Romance
 -------> Italian `inebriare`: "to intoxicate"
+------> Western Romance
+-------> Spanish `embriagar`: "to intoxicate, to get drunk"
 ------> English `inebriate`
 -----> Latin `sōbrius`: "sober, not drunk" (<se-ebrius>, "without-drunk")
+------> Central Romance
+-------> Italian `sobrio`: "sober, moderate"
 ------> Eastern Romance
 -------> Romanian `sobru`
 ------> Western Romance
 -------> French `sobre`: "sober"
 --------> English `sober`
--------> Italian `sobrio`: "sober, moderate"
 -------> Spanish `sobrio`: "sober, moderate"
 ------> Germanic <*subri>: "sober, chaste, clean"
 -------> West Germanic
 --------> Old English `sȳfre`: "clean, sober"
+--------> Frankish <*sūvar>
+---------> Dutch `zuiver`: "pure, clean, tidy"
 --------> Old High German `sūbar`: "clean"
 ---------> German `sauber`: "clean, tidy"
 
@@ -216,12 +350,14 @@ endbody
 
 startnotes
 
-# <*h₂ep-> "water", <*h₂ékʷeh₂> "water", <*h₁egʷʰ> "drink" are not morphologically derivable from each other within reconstructed Proto-Indo-European. But the combined phonological and semantic similarity certainly suggest a common descent from an older language.
+# <*h₂ep-> "water", <*h₂ékʷeh₂> "water", <*h₁egʷʰ> "drink" are not morphologically derivable from each other within reconstructed Proto-Indo-European. But the combined phonological and semantic similarity suggest possible common descent from pre-PIE word.
 
 ## Iranian <*abgenag>: "glass" from <*ab>: "water", compare <vitrum>, last week.
 
 ### `Surtsey`: "Surtr's Island" is a volcanic island that emerged off the coast of Iceland in 1963 named after Surtr, Lord of the Fire Giants, who will engulf the Earth in flames at Ragnarok.
 
 #### The insertion of 's' in `island` is a 16th modification due to confusion with the unrelated word <isle>, which was borrowed from Old French <isle> (Modern French <île>, following the regular deletion of 's' in that position) from Latin <insula> of uncertain origin.
+
+##### French place names `Guyenne`,  `Guinée`, and `Guyane` are all completely unrelated.
 
 endnotes

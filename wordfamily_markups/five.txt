@@ -1,18 +1,16 @@
-date: 20220225
-tags: Numbers
+date: 20220211
+tags: Body Parts, Numbers
 
 
 startintro
 
 I've been doing Word Families for 5 years! In that time, I have made 150 families! So this week is <*pénkʷe>: "five".
 
-The <*p-kʷ> sequence in <*pénkʷe> leads to a set highly divergent forms. <*kʷ> is a highly variable sound on its own, becoming /kw/, /w/, /ʍ/, /k/, /t͡ʃ/, /s/, /p/, or /t/ in various descendants; in many cases with multiple branches arriving at the same sound independently in at different times.
+The <*p-kʷ> sequence in <*pénkʷe> leads to a set highly divergent forms. <*kʷ> is a highly variable sound on its own, becoming /kw/, /w/, /ʍ/, /k/, /t͡ʃ/, /s/, /p/, or /t/ in various descendants; in many cases with multiple branches arriving at the same sound independently at different times.
 
-On top of that, the <*p-kʷ> assimilates in Germanic (regressively), Celtic, and Italic (both progressively). The progressive assimilation <*p-kʷ> to <*kʷ-kʷ> is a regular change also seen in Celtic and Italic descendants of <*pekʷ->: "to cook" and <*pérkʷu-s>: "oak". 
+On top of that, the <*p-kʷ> assimilates in Germanic (progressively), Celtic, and Italic (both regressively). The regressive assimilation <*p-kʷ> to <*kʷ-kʷ> is a regular change also seen in Celtic and Italic descendants of <*pekʷ->: "to cook" and <*pérkʷu-s>: "oak". (The Germanic assimilation is not consistent; <*pérkʷu-s> becomes <*ferhuz> with no assimilation.)
 
 This is complicated by the fact that some branches in both Celtic and Italic change <*kʷ> to /p/ (a merger in Italic, but following deletion of <*p> in Celtic). And then, Vulgar Latin changed its mind about the assimilation and regressively dissimilates to /k-kʷ/.  That then allows palatalization on the /k/ leading to /t͡ʃ/ (and later /ts/, /ʃ/, or /s/ in various descendants).
-
-Italic and Celtic share regressive assimilation from <*pénkʷe> to <*kʷénkʷe>, and in fact that assimilation is a regular change also seen in Celtic and Italic forms of <*pekʷ->: "to cook" and <*pérkʷu-s>: "oak".
 
 Some of these specifics are discussed in more detail in the footnotes.
 
@@ -35,7 +33,7 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 --> Proto-Indo-European <*pn̥stis> (variant with simplification)
 
 --?> Balto-Slavic
-----> Slavic <*pę̑stь>
+----> Slavic <*pę̑stь>»1
 -----> East Slavic
 ------> Russian `пясть` <pjastʹ>
 -------> Russian `запя́стье` <zapjástʹje>: "wrist"
@@ -45,7 +43,7 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 -----> West Slavic
 ------> Polish `pięść`: "fist"
 
---?> Germanic <*funstiz> #
+--?> Germanic <*funstiz>»1 #
 ---?> West Germanic <*fūsti>: "fist"
 -----> Old English `fȳst`: "fist"
 ------> English `fist`
@@ -129,7 +127,7 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 ------> Yiddish `פֿינף` <finf>: "five"
 
 --> Hellenic <*pénkʷe>
----> Ancient Greek `πέντε` <pénte>: "five"
+---> Classical Greek `πέντε` <pénte>: "five"
 ----> Greek `πέντε` <pénte>: "five"
 ----> English `penta-`
 ---> Aeolic Greek `πέμπε` <pémpe>: "five"
@@ -137,8 +135,6 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 
 --> Indo-Iranian <*pánča>
 ---> Indo-Aryan <*pánća>
-----> Dardic
------> Kashmiri `پانٛژھ` <pānċh>: "five"
 ----> Mitanni Aryan <*panća>
 -----> Mitanni Aryan <*panća-vartana>: "for five laps" (Kikkuli)
 ------> Hurrian
@@ -149,19 +145,29 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 ------> Sinhala `පහ` <paha>: "five"
 -----> Magadhi `𑀧𑀁𑀘` <paṃca>: "five"
 ------> Bengali `পাঁচ` <pãcô>: "five"
-------> Rohingya `fañs`: "five"
+------> Rohingya `𐴉𐴝𐴣𐴏` <fañs>: "five"
 -----> Maharashtri `𑀧𑀁𑀘` <paṃca>: "five"
 ------> Marathi `पाच` <pāċ>: "five"
 -----> Pali <pañca>: "five"
 ------> Malay `panca`: "five"
 -----> Sauraseni `𑀧𑀁𑀘` <paṃca>: "five"
-------> Madhya
+------> Madhya Sauraseni
 -------> Hindi `पाँच` <pā̃c>: "five"
---------> English `punch` (drink with five ingredients)
-------> Pahari
+--------> English `punch`»2 (drink with five ingredients)
+------> Northwestern Sauraseni
+-------> Kashmiri `پانٛژھ` <pānċh>: "five"
 -------> Punjabi `ਪੰਜ` <pañj>: "five"
------> West Indo-Aryan
-------> Romani `panzh`: "five"
+------> Western Sauraseni
+-------> Romani `panzh`: "five"
+-----> Sanskrit `𑀧𑀜𑁆𑀘𑀯𑀺𑀁𑀰𑀢𑀺` <páñcaviṃśati>: twenty-five"
+------> Sauraseni
+-------> Madhya Sauraseni
+--------> Hindi `पच्चीस` <paccīs>: "twenty-five"
+---------> English `pachisi`
+----------> English `Parcheesi`
+
+
+
 ---> Iranian <*pánča>
 ----> Avestan `𐬞𐬀𐬧𐬗𐬀` <paṇca>: "five"
 ----> Bactrian `πανζο` <panzo>: "five"
@@ -174,9 +180,15 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 ------> Kurdish `pênc`: "five"
 -----> Old Persian
 ------> Persian `پنج` <panj>: "five"
--------> Persian `پنجاب` <panjâb>: "Punjab, the five rivers of Punjab" (lit. "five waters")
+-------> Persian `پنجاب` <panjâb>»1: "Punjab, the five rivers of Punjab" (lit. "five waters")
 --------> Punjabi `ਪੰਜਾਬ` <pañjāb>: "Punjab"
 ---------> English `Punjab`
+-------> Persian `پنجه` <panja>: "paw"
+--------> Hindi `पंजा` <pañjā>: "paw, claw, hand, group of 5"
+--------> Ottoman Turkish `پنچه` <pençe>: "hand, paw, claw, signature"
+---------> Turkish `pençe`: "paw, claw"
+---------> Romanian `pingea`: "sole (bottom of shoe)"
+---------> Serbo-Croatian `па̑нџа` <pȃndža>: "claw"
 
 
 --> Italo-Celtic <*kʷenkʷe> (assimilation)
@@ -191,36 +203,40 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 ---> Italic <*kʷenkʷe>
 ----> Latin `quīnque`: "five"
 -----> Vulgar Latin <*cīnque>: "five" ####
-------> Sardinian
--------> Campidanese `cincu`
--------> Logudorese `chimbi`: "five"
+------> Central Romance
+-------> Italian `cinque`: "five"
 ------> Eastern Romance
 -------> Romanian `cinci`: "five"
+------> Insular Romance
+-------> Sardinian
+--------> Campidanese `cincu`
+--------> Logudorese `chimbi`: "five"
 ------> Western Romance
 -------> French `cinq`: "five"
 --------> Haitian Creole `senk`: "five"
--------> Italian `cinque`: "five"
 -------> Spanish `cinco`: "five"
 --------> Tagalog `singko`: "five"
 --------> Spanish `Cinco de Mayo`
 ---------> English `Cinco de Mayo`
 -----> Latin `quīntus`: "fifth"
 ------> Latin `Quīntus`: "Fifth (personal name)"
--------> Western Romance
+-------> Central Romance
 --------> Italian `Quinto`
--------> Ancient Greek `Κόϊντος` <Kóïntos>
+-------> Classical Greek `Κόϊντος` <Kóïntos>
 -------> Latin `Quīntīnus` (diminutive)
+--------> Central Romance
+---------> Italian `Quintino`
 --------> Western Romance
 ---------> French `Quentin`
 ----------> English `Quentin`
----------> Italian `Quintino`
 ---------> Spanish `Quintín`
 ------> Latin `Quīntīlis`: "July" (before it was renamed after Julius Caesar)
 -------> Latin `Quīnctīlius`: "of July (family name)"
 -----> Latin `quīndecim`: "fifteen"
 ------> Vulgar Latin <*quindece> ####
--------> Sardinian
---------> Logudorese `bindighi`: "fifteen"
+-------> Insular Romance
+--------> Sardinian
+---------> Logudorese `bindighi`: "fifteen"
 -------> Western Romance
 --------> French `quinze`: "fifteen"
 -----> Latin `quīncū̆nx`: "five-twelfths, the five on a die"
@@ -228,11 +244,12 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 ----> Oscan `𐌐𐌖𐌌𐌐𐌄` <pumpe>: "five"
 -----> Oscan `​​𐌐𐌏𐌌𐌐𐌕𐌖𐌔` <pomptus>: "fifth"
 -----?> Latin `Pontius`: "personal name"
--------> Western Romance
---------> French `Ponce`
+-------> Central Romance
 --------> Italian `Ponzio`
 ---------> Italian `Ponzi`
 ----------> English `Ponzi scheme`
+-------> Western Romance
+--------> French `Ponce`
 -------> English `Pontius`
 -----> Oscan <*Pumpeis?> ("of five") 
 ------> Latin `Pompeiī`
@@ -257,9 +274,9 @@ Proto-Indo-European <*penkʷ->: "fist?, hand?, to hold in hand?"
 ----> Armenian `հիսուն` <hisun>: "fifty"
 
 ---> Hellenic
-----> Ancient Greek `πεντήκοντᾰ` <pentḗkonta>: "fifty"
+----> Classical Greek `πεντήκοντᾰ` <pentḗkonta>: "fifty"
 -----> Greek `πενήντα` <penínta>: "fifty"
------> Ancient Greek `πεντηκοστή` <pentēkostḗ>: "fiftieth, Pentecost"
+-----> Classical Greek `πεντηκοστή` <pentēkostḗ>: "fiftieth, Pentecost"
 ------> Latin `Pentēcostē`: "Pentecost"
 -------> English `Pentecost`
 
@@ -322,7 +339,7 @@ Proto-Indo-European <*pewǵ->: "to punch, to fist-fight"
 ------> Old French `ponchon`: "puncheon"
 -------> French `poinçon`: "stamp, awl, punch"
 -------> English `puncheon`
--------> English `punch`
+-------> English `punch`»1
 ------> Italian `punzone`: "stamp"
 ------> Spanish `punzón`: "awl"
 
@@ -342,7 +359,7 @@ Proto-Indo-European <*pewǵ->: "to punch, to fist-fight"
 ----?> German `bunt`: "spotted, speckled, variegated"
 -----> Vulgar Latin `punctus`
 ------> Vulgar Latin <*punctiāre>
--------> Western Romance
+-------> Central Romance
 --------> Italian `ponzàre`
 -----> Medieval Latin `pūnctus`
 ------> Medieval Latin `pūnctuō`
@@ -363,8 +380,8 @@ Proto-Indo-European <*pewǵ->: "to punch, to fist-fight"
 -> Proto-Indo-European <*puǵméh>
 
 --> Hellenic <*pugmā́>
----> Ancient Greek `πυγμή` <pugmḗ>: "fist, fistfight, distance from elbow to knuckles"
-----> Ancient Greek `πυγμαῖος` <pugmaîos>: "pygmy"
+---> Classical Greek `πυγμή` <pugmḗ>: "fist, fistfight, distance from elbow to knuckles"
+----> Classical Greek `πυγμαῖος` <pugmaîos>: "pygmy"
 -----> Latin `pygmaeus`: "pygmy"
 ------> English `pygmy`
 
@@ -373,17 +390,19 @@ Proto-Indo-European <*pewǵ->: "to punch, to fist-fight"
 
 --> Italic
 ---> Latin `pugnus`: "a fistful, a handful, a fist"
+----> Central Romance
+-----> Italian `pugno`: "fist, punch, handful"
+------> Greek `μπουνιά` <bouniá>: "fist, punch"
 ----> Eastern Romance
 -----> Romanian `pumn`: "fist, punch, handful"
 ----> Western Romance
 -----> French `poing`: "fist"
------> Italian `pugno`: "fist, punch, handful"
-------> Greek `μπουνιά` <bouniá>: "fist, punch"
 -----> Spanish `puño`: "fist, handful, wristband, handle"
 
 ----> Latin `pugnō`: "I fight, I oppose, I struggle"
------> Western Romance
+-----> Central Romance
 ------> Italian `pugnàre`: "to fight"
+-----> Western Romance
 ------> Spanish `puñar`: "to fight, to attack"
 
 -----> Latin `impugnō`: "I attack, I assail"
@@ -393,10 +412,11 @@ Proto-Indo-European <*pewǵ->: "to punch, to fist-fight"
 -------> English `repugnant`
 
 -----> Latin `pugnāx`: "tending to fight, combative, aggressive"
+------> Central Romance
+-------> Italian `pugnace`: "pugnacious"
 ------> Western Romance
 -------> French `pugnace`: "pugnacious"
 --------> English `pugnacious`
--------> Italian `pugnace`: "pugnacious"
 -------> Spanish `pugnaz`: "pugnacious"
 
 
@@ -404,26 +424,9 @@ Proto-Indo-European <*pewǵ->: "to punch, to fist-fight"
 -> Proto-Indo-European <*punǵstis>
 
 -?> Balto-Slavic
----> Slavic <*pę̑stь>
-----> East Slavic
------> Russian `пясть` <pjastʹ>
-------> Russian `запя́стье` <zapjástʹje>: "wrist"
-----> South Slavic
------> Serbo-Croatian `пе̑ст` <pȇst>: "fist" (regional)
-------> Serbo-Croatian `пѐсница` <pèsnica>: "fist" (regional)
-----> West Slavic
------> Polish `pięść`: "fist"
+---> Slavic <*pę̑stь>»1
 
--?> Germanic <*funstiz>
---?> West Germanic <*fūsti>: "fist"
-----> Old English `fȳst`: "fist"
------> English `fist`
-----> Frankish <*fūst>
------> Dutch `vuist`: "fist"
-----> Old High German `fūst`
------> German `Faust`: "fist" ##
------?> English `Faust`
------> Yiddish `פֿויסט` <foyst>: "fist"
+-?> Germanic <*funstiz>»1
 
 
 endbody
@@ -437,9 +440,9 @@ startnotes
 
 ### Note that Welsh `pump` (and Gaulish `pempe`) cannot come from the unassimalated <*pénkʷe>. In Proto-Celtic, all IE <*p> become Celtic <*ɸ>, and then lost in all surviving descendants. A Welsh form from <*pénkʷe> would look something like `*emp` instead. So even even though they start with "p-", they are from <*kʷénkʷe>, with a re-emergence of the <p> from the regular <*kʷ> -> <*p> change in the "p-Celtic" languages such as Welsh and Gaulish.
 
-Oscan and Umbrian forms with <p> could be from either <*pénkʷe> or <*kʷénkʷe>, since they have the same <*kʷ> -> <*p>, but in their case that merges <*kʷ> with inherited <*p>. But in this case it appears to be more parsimonious to assume <*p> -> <*kʷ> -> <*p>, than to assume an unchanged <*p>, so they are assumed to come from the same Italic <*kʷénkʷe> as Latin `quīnque`. In 
+Oscan and Umbrian forms with <p> could be from either <*pénkʷe> or <*kʷénkʷe>, since they have the same <*kʷ> -> <*p>, but in their case that merges <*kʷ> with inherited <*p>. But in this case it appears to be more parsimonious to assume <*p> -> <*kʷ> -> <*p>, than to assume an unchanged <*p>, so they are assumed to come from the same Italic <*kʷénkʷe> as Latin `quīnque`.
 
-#### In Vulgar Latin decides it no longer likes the  assimilated `quīnque`, and _dissimilates_ to <*cinque>. But in the Latin `quīndecim`: "fifteen", there is no second <qu>, and no dissimilation occurs, leaving Vulgar Latin <*quindece>. This leads to the phenomenon that in most Romance languages, the words for "five" and "fifteen" start with different sounds, e.g. French `cinq` (/sɛ̃k/) vs. `quinze` (/kɛ̃z/) or Logudorese Sardinian "chimbe" (/kim.bɛ/) vs. "bindighi" (/bin.di.ɡi/). (The Sardinian shows another one of those <kw-> to <p-> type changes).
+#### In Vulgar Latin decides it no longer likes the  assimilated `quīnque`, and _dissimilates_ to <*cinque>. But in the Latin `quīndecim`: "fifteen", there is no second <qu>, and no dissimilation occurs, leaving Vulgar Latin <*quindece>. This leads to the phenomenon that in most Romance languages, the words for "five" and "fifteen" start with different sounds, e.g. French `cinq` (/sɛ̃k/) vs. `quinze` (/kɛ̃z/) or Logudorese Sardinian `chimbe` (/kim.bɛ/) vs. `bindighi` (/bin.di.ɡi/). (The Sardinian shows another one of those <kw-> to <p-> type changes).
 
 In Eastern Romance languages, "fifteen" is re-derived from "five" as a calque of Old Church Slavonic `пѧть на десѧте` <pętĭ na desęte>: "five on (top of) ten", and so "five" and "fifteen" do match initial sounds: Aromanian `tsintsi`/`tsisprã-dzatsi` or Romanian `cinci`/`cincisprezece`.
 
@@ -449,4 +452,5 @@ The derivation for "fifty": Latin `quīnquāgintā` keeps the second <qu>, so it
 
 
 endnotes
+
 

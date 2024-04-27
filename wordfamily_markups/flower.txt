@@ -1,3 +1,5 @@
+
+
 date: 20190524
 theme: Plants 🌱
 tags: Divinities, Plants, Toponymy
@@ -5,7 +7,7 @@ tags: Divinities, Plants, Toponymy
 
 startintro
 
-I'm in the process of expanding this family, after merging the original Proto-Indo-European <*bʰleh₃->: "flower" with Proto-Indo-European <*bʰelǵʰ->: "to swell" (originally under title word <a href="/word-family-budget.html">Budget</a>)—and putting both under Proto-Indo-European <*bʰel->: "to blow, to swell up".
+I'm in the process of expanding this family, after merging the original Proto-Indo-European <*bʰleh₃->: "flower" with Proto-Indo-European <*bʰelǵʰ->: "to swell" (originally at wff-budget) and putting both under Proto-Indo-European <*bʰel->: "to blow, to swell up".
 
 
 
@@ -16,8 +18,7 @@ endintro
 startbody
 
 
-
-Proto-Indo-European <*bʰel->: "to blow, to swell up"
+Proto-Indo-European <*bʰel->»2: "to blow, to swell up"
 
 -> English `ball`
 -> English `phallus`
@@ -28,7 +29,7 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 
 -> Proto-Indo-European <*bʰleh₁->
 
---> English `blow`
+--> English `blow`»1
 --> English `bladder`
 --> English `flavor`
 --> English `inflate`
@@ -51,7 +52,7 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 ---> Germanic <*blōaną>: "to bloom, to flower"
 ----> West Germanic
 -----> Old English `blōwan`
-------> English `blow` ###
+------> English `blow`»2 ###
 -------> English `full-blown` #####
 -----> Frankish
 ------> Dutch `bloeien`: "to blossom, to develop, to flourish"
@@ -64,12 +65,12 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 -----> North Germanic
 ------> Old Norse `blóm`: "flower"
 -------> Icelandic `blóm`: "flower"
--------> Middle English `blome`: "flower"
---------> English `bloom`
+-------> Middle English `blome`»1: "flower"
+--------> English `bloom`»1
 -----> West Germanic
 -----?> Old English `blōma`: "the spongy mass of iron that results from smelting"
--------> Middle English `blome`
---------> English `bloom`
+-------> Middle English `blome`»2
+--------> English `bloom`»2
 
 
 ----> Germanic <*blōdiz> (resultative noun)
@@ -146,11 +147,11 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 ---> Celtic <*blātus>
 ----> Brythonic <*blọd>
 -----> Welsh `blodyn`: "flower"
-------> Welsh `Blodeuwedd`: "Face-of-Flowers" (personal name) ##
-------> Welsh `Blodwen`: "Fair-Flower" (personal name)
+------> Welsh `Blodeuwedd`: "Face-of-Flowers" (personal name) ####
+------> Welsh `Blodwen`»1: "Fair-Flower" (personal name)
 ----> Gaulish <*blātōnā>
 -----> Latin `bladona`: "mullein, nightshade"
-------> Italian `belladonna`: "deadly nightshade, belladonna" ##
+------> Italian `belladonna`: "deadly nightshade, belladonna" ####
 -------> English `belladonna`
 ----> Old Irish `bláth`: "flower, blossom, bloom"
 -----> Irish `bláth`: "flower"
@@ -182,7 +183,7 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 --> Proto-Indo-European <*bʰolh₃yom>
 
 ---> Hellenic
-----> Classical Greek `φῠ́λλον` <phúllon>: "leaf, foliage, plant"
+----> Ancient Greek `φῠ́λλον` <phúllon>: "leaf, foliage, plant"
 -----> French `chlorophylle`: "chlorophyll" (coined by Caventou and Pelletier in 1817)
 ------> English `chlorophyll`
 
@@ -250,8 +251,21 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 -?> ? <*molko-> #####
 
 --?> Germanic <*malhō>: "leather bag"
+----> West Germanic
+-----> Frankish <*malha>
+------> Dutch
+------> Old French `male`: "pack, bag"
+-------> French `malle`: "suitcase, trunk"
+--------> French `mallette`: "briefcase
+--------> Spanish `mala`: "suitcase, mailbag, mail"
+-------> Anglo-Norman
+--------> Middle English `male`: "bag, pack, wallet, belly"
+---------> English `mail`
+---------> Irish `mála`: "bag, stomach, appetite"
 
---?> Classical Greek `μολγός` <molgós>: "cow-hide bag"
+
+
+--?> Ancient Greek `μολγός` <molgós>: "cow-hide bag"
 
 
 --> Proto-Indo-European <*bʰolǵʰis>
@@ -277,10 +291,10 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 -----> Sanskrit `बर्हिस्` <barhís>: "bed of grass"
 ----> Iranian <*barĵíš>
 -----> Avestan `𐬠𐬀𐬭𐬆𐬰𐬌𐬱` <barəziš>: "pad, pillow"
------> Northern Iranian
+-----> North Iranian
 ------> Scythian
 -------> Ossetian `баз` <baz>: "pillow"
------> Western Iranian
+-----> West Iranian
 ------> Old Persian <*bāldiš>
 -------> Persian `بالش` <bâleš>: "pillow, cushion
 --------> Georgian `ბალიში` <bališi>: "pillow, cushion"
@@ -308,7 +322,7 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 ------> English `follice`
 
 
---> Proto-Indo-European <?>
+--> Proto-Indo-European <?>»10
 
 ---> Germanic <*bulgijǭ>
 ----> North Germanic
@@ -342,7 +356,7 @@ Proto-Indo-European <*bʰel->: "to blow, to swell up"
 
 
 
-?> Proto-Indo-European <*bʰel->: "to sound; to speak, roar, bark"
+?> Proto-Indo-European <*bʰel->»3: "to sound; to speak, roar, bark"
 
 
 --> Proto-Indo-European <*bʰleh₁>: "to cry"
@@ -379,9 +393,10 @@ Which means Seanan McGuire's Rose Owl is a relative of belladonna ("Making women
 #### `Fir bolg` is usually translated as "men of bags". It could also be "men with bellies" or "men swollen in rage". Or possibly even "Roaring men"—though the voice/sound meanings are not otherwise attested in any Celtic languages as far as I know.
 
 
-##### Germanic <*malhō>: "leather bag" and Classical Greek `μολγός` <molgós>: "cow-hide bag" seem clearly related, but cannot derive from a single PIE form due to the difference in the velar. The Greek has been suggested to be a borrowing from another branch, perhaps Thracian. Once we're considering irregular borrowings, and in considering that the term is not found outside of Germanic and Greek (nor in any other morphological form), an ultimate source from <*bʰólǵʰos> is as likely as any and more than most.
+##### Germanic <*malhō>: "leather bag" and Ancient Greek `μολγός` <molgós>: "cow-hide bag" seem clearly related, but cannot derive from a single PIE form due to the difference in the velar. The Greek has been suggested to be a borrowing from another branch, perhaps Thracian. Once we're considering irregular borrowings, and in considering that the term is not found outside of Germanic and Greek (nor in any other morphological form), an ultimate source from <*bʰólǵʰos> is as likely as any and more than most.
 
 
 ###### The word "budget" comes from a borrowing from Gaulish into Latin, meaning "bag, wallet, purse". Surprisingly, this cannot be conclusively tied to English `bag`.
 
 endnotes
+

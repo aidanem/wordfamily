@@ -10,17 +10,19 @@ startbody
 ??
 
 ?> Turkic
---> Old Turkish <käväl>: "horse?" #
+--> Old Turkic <käväl>: "horse?" #
 --> Persian <?> <kaval>: "a kind of horse?" #
--?> Proto-Slavic <*kobyla>: "mare (female horse)"
----> Russian `кобы́ла` <kobýla>: "mare"
----> Polish <kobyła>: "mare"
+-?> Slavic <*kobyla>: "mare (female horse)"
+---> East Slavic
+----> Russian `кобы́ла` <kobýla>: "mare"
+---> West Slavic
+----> Polish <kobyła>: "mare"
 
-?> Saka <kabä>: horse?
+?> Saka <kabä>: "horse?"
 
 ?> Ancient Greek `καβάλλης` <kabállēs>: "nag, pony"
 
-?> Proto-Celtic <*capallos>
+?> Celtic <*capallos>
 --> Brythonic <*kappilos>: "horse"
 ---> Welsh `ceffyl`: "horse"
 ----> English `Cavall` ##
@@ -42,7 +44,7 @@ startbody
 ------> Tagalog `kabayo`: "horse"
 ----> Late Latin `caballārius`: "horseman, rider"
 -----> Western Romance
-------> Old Provençal `cavalier`: "horseman, rider"
+------> Old Occitan `cavalier`: "horseman, rider"
 -------> French `chevalier`: "knight" (also the chess piece)
 --------> French `chevalerie`: "knighthood, nobility, chivalry"
 ---------> English `chivalry`
@@ -60,6 +62,6 @@ startnotes
 
 # I've seen the Persian word <kaval> variously defined as "swift horse", "slow, clumsy horse", "second class horse of mixed blood". For both this and (Old) Turkish <keväl>, I can't find any reference to them outside of etymological discussions, so I don't have clear definitions, or the Persian orthography. This partly due to research interference with the Persian and Turkish flute called <kaval>.
 
-## The name of King Arthur's favorite hunting dog, spelled either `Cabal` or `Cavall`
+## The name of King Arthur's favorite hunting dog, spelled either `Cabal`=eng-Latn or `Cavall`=eng-Latn
 
 endnotes

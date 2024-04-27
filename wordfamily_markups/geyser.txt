@@ -2,8 +2,6 @@ date: 20171215
 theme: Religion 📿
 tags: Divinities
 
-Teaser: geyser, chemistry, god, futile
-
 
 startintro
 
@@ -58,9 +56,9 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 
 --> Indo-Iranian <*ĵʰávate>
 ---> Indo-Aryan
-----> Sanskrit `हवते` <hávate>: "to invoke, to call"
+----> Sanskrit `𑀳𑀯𑀢𑁂` <hávate>: "to invoke, to call"
 ---> Iranian
-----> Avestan <zavaiti>: "invokes, curses"
+----> Avestan `𐬰𐬀𐬬𐬀𐬌𐬙𐬌` <zavaiti>: "invokes, curses"
 ----> Northern Iranian
 -----> Scythian
 ------> Ossetian `а́ргъауын` <árǧawyn>: "officiate, perform religious services"
@@ -74,8 +72,8 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 -------> Old Armenian `գովեմ` <govem>: "to praise, to boast"
 --------> Armenian `գովել` <govel>: "to praise"
 
---> Italic <*gʷow->
----> Latin `bovō`: "loudly call upon, cry aloud"
+--> Italic <*gʷowezi>
+---> Latin `bovere`: "to loudly call upon, to cry aloud"
 
 --> Tocharian
 ---> Kushean <ku->: "pour, offer libation"
@@ -84,7 +82,7 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 -> Proto-Indo-European <*ǵʰéwyeti>: "pours out" (transitive present)
 
 --> Hellenic <kʰéyyō>
----> Ancient Greek `χέω` <khéō>: "I pour, I smelt, I melt, I scatter"
+---> Classical Greek `χέω` <khéō>: "I pour, I smelt, I melt, I scatter"
 
 -?> Tocharian
 ---> Kushean <kutk->: "give substance to, cast in a mold"
@@ -103,7 +101,7 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 -----> Icelandic `geysa`: "to gush"
 ------> Icelandic `geysir`: "gusher"
 -------> Icelandic `Geysir`: "a geyser in southwestern Iceland, the first geyser described in a printed source"
---------> English `geyser`
+--------> English `geyser`!
 ---------> French `geyser`: "geyser"
 ---------> Italian `geyser`: "geyser"
 ---------> Spanish `géiser`: "geyser"
@@ -126,10 +124,10 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 ----> Old High German `kūm`: "miserable"
 
 --> Hellenic
----> Ancient Greek `χυμός` <khumós>: "juice, sap, flavor"
+---> Classical Greek `χυμός` <khumós>: "juice, sap, flavor"
 ----> Greek `χυμός` <chymos>: "juice"
-----> Ancient Greek `χύμα` <khúma>: "fluid"
------> Ancient Greek `χυμεία` <khumeía>: "the process of alloying metals, the skill of working with liquid metals" ###
+----> Classical Greek `χύμα` <khúma>: "fluid"
+-----> Classical Greek `χυμεία` <khumeía>: "the process of alloying metals, the skill of working with liquid metals" ###
 ------> Greek `χημεία` <chimeía>: "chemistry"
 -------> Russian `хи́мия` <xímija>: "chemistry"
 -----?> Arabic `كِيمِيَاء` <kīmiyāʾ>: "chemistry" ⁴
@@ -144,32 +142,34 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 ----------> English `chemical`
 ---------> French `chimiste`: "chemist"
 ----------> English `chemist`
------------> English `chemistry`
+-----------> English `chemistry`!
 -------> Medieval Latin `alchimia`: "chemistry, alchemy" (doublet borrowing incorporating the Arabic definite article <al->)
 --------> French `alchimie`: "alchemy"
 ---------> English `alchemy`
 
 --> Indo-Iranian <*ĵʰáwmas>
 ---> Indo-Aryan
-----> Sanskrit `होम` <hóma>: "oblatian, offering, Vedic ritual"
+----> Sanskrit `𑀳𑁄𑀫` <hóma>: "oblatian, offering, Vedic ritual"
 
---> Italic <*fundō>
----> Latin `fundō>: "I pour, I shed, I scatter, I found (make by smelting), I spill, I utter"
+--> Italic <*xundezi>
+---> Latin `fundere>: "to pour, to shed, to scatter, to found (make by smelting), to spill, to utter"
+----> Central Romance
+-----> Italian `fondere`: "to fuse, to melt, to thaw, to cast, to blend"
 ----> Western Romance
 -----> French `fondre`: "to melt, to smelt, to blend"
 ------> English `found`: "to melt, to cast"
 ------> French `fonderie`: "foundry"
 -------> English `foundry`
 ------> French `fondue`: "melted, fondue"
--------> English `fondue`
------> Italian `fondere`: "to fuse, to melt, to thaw, to cast, to blend"
+-------> English `fondue`!
 -----> Spanish `hundir`: "to sink, to engulf, to destroy"
 ----> Spanish `fundir`: "to smelt, to fade" (re-borrowing)
 
-----> Latin `fūsiō`: "a pouring, a melting, a casting"
+----> Latin <fusio>: "a pouring, a melting, a casting"
+-----> Central Romance
+------> Italian `fuso`: "melted, cast, worn out"
 -----> Western Romance
 ------> French `foison`: "abundance, spill over"
-------> Italian `fuso`: "melted, cast, worn out"
 -----> French `fusion`: "mixture, fusion" (re-borrowing)
 ------> English `fusion`
 -------> English `fuse` (re-borrowing)
@@ -180,58 +180,54 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 -------> English `funnel`
 ------> Spanish `fundibulo`: "trebuchet"
 
-----> Latin `cōnfundō`: "pour together, mix up" (`con-` + `fundō`)
+----> Latin `confundere`: "pour together, mix up" (`con-` + `fundere`)
+-----> Central Romance
+------> Italian `confondere`: "to mix up, to confuse, to embarass"
 -----> Eastern Romance
 ------> Romanian `cufunda`: "to immerse, to sink into, to settle down"
 -----> Western Romance
 ------> French `confondre`: "to confuse, to confound, to mix, to merge" (/<confusion>)
 -------> English `confound` 
-------> Italian `confondere`: "to mix up, to confuse, to embarass"
 ------> Spanish `confundir`: "to confuse, to counfound, to baffle"
------> Latin `cōnfūsus`: "mixed, combined, confused"
+-----> Latin `confusus`: "mixed, combined, confused"
 ------> Western Romance
 -------> Old French
 --------> English `confuse`
 
-----> Latin `diffundō`: "I pour apart" (`dis-` + `fundō`)
+----> Latin `diffundere`: "I pour apart" (`dis-` + `fundere`)
 -----> Western Romance
 ------> French `diffuser`: "to diffuse, to broadcast"
 -------> English `diffuse`
 
-----> Latin `effundō`: "I pour out, I shed, I give up, I waste" (`ex-` + `fundō`)
+----> Latin `effundere`: "I pour out, I shed, I give up, I waste" (`ex-` + `fundere`)
 -----> Western Romance
 ------> French
 -------> English `effuse`
 
-----> Latin `infundō`: "I pour into" (`in-` + `fundō`)
+----> Latin `infundere`: "I pour into" (`in-` + `fundere`)
 -----> Western Romance
 ------> French
 -------> English `infuse`
 
-----> Latin `profundō`: "I pour forth, I squander" (`pro-` + `fundō`)
+----> Latin `profundere`: "I pour forth, to squander" (`pro-` + `fundere`)
 -----> Western Romance
 ------> French
 -------> English `profuse`
 
 
-----> Latin `refundō`: "pour back"  (`re-` + `fundō`)
+----> Latin `refundere`: "pour back"  (`re-` + `fundere`)
 -----> Western Romance
 ------> French
 -------> English `refund`
 -----?> French `refuser`: "to refuse" ####
 -------> English `refuse`
 
-----> Latin `profundō`: "I pour forth, I squander" (`pro-` + `fundō`)
------> Western Romance
-------> French
--------> English `profuse`
-
-----> Latin `sufundō`: "I pour into, I suffuse" (`sub-` + `fundō`)
+----> Latin `sufundere`: "to pour into, to suffuse" (`sub-` + `fundere`)
 -----> Western Romance
 ------> French
 -------> English `suffuse`
 
-----> Latin `trānsfundō`: "I pour between, I decant, I transfuse" (`trans-` + `fundō`)
+----> Latin `transfundere`: "to pour between, to decant, to transfuse" (`trans-` + `fundere`)
 -----> Western Romance
 ------> French
 -------> English `transfuse`
@@ -247,21 +243,23 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 -?> Tocharian <kuk->:  "to call out, to shout, to entreat, to seek out"
 
 
--> Proto-Indo-European <*ǵʰiǵʰéwti> (reduplicated present)
+-> Proto-Indo-European <*ǵʰuǵʰéwti> (reduplicated present)
 
---> Indo-Iranian
----> Indo-Aryan
-----> Sanskrit `जुहोति` <juhóti>: "to sprinkle on, to worship with, to offer a sacrifice to"
+--> Indo-Iranian <*ȷ́ʰuȷ́ʰáwti>
+----> Sanskrit `𑀚𑀼𑀳𑁄𑀢𑀺` <juhóti>: "to sprinkle on, to worship with, to offer a sacrifice to"
+
+
+--?> Indo-Iranian <*ȷ́iȷ́ʰwáH>»1
 
 
 -> Proto-Indo-European <*ǵʰeǵʰówe> (reduplicated stative?)
 
 --> Hellenic
----> Ancient Greek `κέχῠκᾰ` <kékhuka>: "I poured, I smelted, I melted, I scattered"
+---> Classical Greek `κέχῠκᾰ` <kékhuka>: "I poured, I smelted, I melted, I scattered"
 
 --> Indo-Iranian
 ---> Indo-Aryan
-----> Sanskrit `जुहाव` <juhāva>: "relinquished"?
+----> Sanskrit `𑀚𑀼𑀳𑀸𑀯` <juhāva>: "relinquished"?
 
 
 -> Proto-Indo-European <*ǵʰutós>: "poured, invoked" (adjective)
@@ -276,31 +274,34 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 ----> Old Norse `goði`: "priest"
 ---> West Germanic
 ----> Old English `god`: "god"
------> English `god`
+-----> English `god`!
 ----> Old High German `got`: "god"
 -----> German `Gott`: "god"
 
+---> Germanic <*Gudagebō>»1: "God-Gift (personal name)"
+
+
 --> Hellenic <*kʰutós>
----> Ancient Greek `χυτός` <khutós>: "poured"
+---> Classical Greek `χυτός` <khutós>: "poured"
 
 --> Indo-Iranian <*ĵʰutás>
 ---> Indo-Aryan
-----> Sanskrit `हुत` <hutá>: "offered in fire, poured out, oblation, offering"
+----> Sanskrit `𑀳𑀼𑀢` <hutá>: "offered in fire, poured out, oblation, offering"
 
 
 -> Proto-Indo-European <*ǵʰéwtis> (abstract action noun)
 
 --> Italic
----> Latin `fūtis`: "pitcher"
+---> Latin `futis`: "pitcher"
 
 
 -> Proto-Indo-European <*ǵʰéwteh₂lós>? "poured-out-ness, poured-out-ly"? 
 
 --> Italic
----> Latin `fūtilis`: "easily poured out, leaky, untrustworthy, worthless, futile"
+---> Latin `futilis`: "easily poured out, leaky, untrustworthy, worthless, futile"
 ----> Western Romance
 -----> French `futile`: "futile"
-------> English `futile`
+------> English `futile`!
 -----> Italian `futile`: "futile"
 -----> Spanish `fútil`: "insignificant"
 
@@ -308,7 +309,7 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 -> Proto-Indo-European <*ǵʰéwmn̥> (result noun)
 
 --> Hellenic <*kʰéumə>
----> Ancient Greek `χεῦμᾰ` <kheûma>: "that which is poured"
+---> Classical Greek `χεῦμᾰ` <kheûma>: "that which is poured"
 
 --> Phrygian `ζευμάν` <dzeuman>: "spring (source of water)"
 
@@ -317,25 +318,25 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 
 --> Indo-Iranian <*ĵʰáwtā>
 ---> Indo-Aryan
-----> Sanskrit `होतृ` <hótṛ>: "offerer of oblation, sacrificer, Vedic priest”
+----> Sanskrit `𑀳𑁄𑀢𑀾` <hótṛ>: "offerer of oblation, sacrificer, Vedic priest”
 ---> Iranian
-----> Avestan <zaotar>: "priest, invoker"
+----> Avestan `𐬰𐬂𐬙𐬀𐬭` <zaotar>: "priest, invoker"
 
 
 -> Proto-Indo-European <*ǵʰéwtlom>
 
 --> Hellenic
----> Ancient Greek `χύτλον` <khútlon>: "something that can be poured, fluid"
+---> Classical Greek `χύτλον` <khútlon>: "something that can be poured, fluid"
 
 --> Indo-Iranian <*ĵʰawtrám>
 ---> Indo-Aryan
-----> Sanskrit `होत्र` <hotrá>: "a sacrifice, the act or office of sacrificing"
+----> Sanskrit `𑀳𑁄𑀢𑁆𑀭` <hotrá>: "a sacrifice, the act or office of sacrificing"
 ---> Iranian
 ----> Avestan <zaoθrā>: "libation, offering" #####
 -----> Persian `زور‏` <zowr>: "libation"
 -----> Georgian `ზორვა` <zorva>: "sacrifice"
 -----> Armenian `զոհ` <zoh>: "sacrifice, victim"
------> Aramaic <zauθrā>: "bread offered to spirits"
+-----> Aramaic `𐡆𐡅𐡕𐡓𐡀` <zauθrā>: "bread offered to spirits"
 ----> Western Iranian
 -----> Old Persian
 ------> Persian `ژون‏` <žun>: "idol" #####
@@ -344,7 +345,13 @@ Proto-Indo-European <*ǵʰew->: "to pour, to libate, to invoke, to cry, to cry o
 -> Proto-Indo-European <*ǵʰuHos>
 
 --> Hellenic
----> Ancient Greek `γόος` <góos>: "wailing, weeping, lament"
+---> Classical Greek `γόος` <góos>: "wailing, weeping, lament"
+
+
+-> Proto-Indo-European 
+
+--> Old Armenian `ձեւ` <jew>: "shape, form, mold, clothes"
+---> Armenian `ձեւ` <jew>: "form, shape, pattern, method"
 
 endbody
 
@@ -352,14 +359,14 @@ endbody
 startnotes
 
 
-# `gut` and/or `goth` might also be from Germanic <*geutaną>. Even more tentatively, `gutter` and `gout` (both from Latin `gutta``: "droplet") could conceivably be related via a borrowing from Germanic into Latin.
+# <gut> and/or <goth> might also be from Germanic <*geutaną>. Even more tentatively, <gutter> and <gout> (both from Latin <gutta>: "droplet") could conceivably be related via a borrowing from Germanic into Latin.
 
 
 ### There are possible origins on Greek `χυμεία` <khumeía>.
 
-School 1: The Arabic could come for the Greek "to work with liquid metals" from "to pour, to melt" as show here.
+School 1: The Arabic could come for the Greek "to work with liquid metals" from "to pour, to melt" as show here
 
-School 2: Or it could come from a Coptic word meaning "the Egyptian science" from Coptic `ⲕⲏⲙⲉ` <kēme>: "Egypt" from Egyptian `𓆎𓅓𓊖𓏏`<kmt>: "Egypt". I've told this story a lot over the years, before encountering the Greek word "to pour", which makes it seem like a bit of a stretch/folk etymology. On the other hand, Diocletian is supposed to have issued a decree against "the ancient writings of the Egyptians, which treat of the khēmia transmutation of gold and silver", though I have been unable to track down a primary source on that, just a bunch of etymologies of chemistry/alchemy referencing each other.
+School 2: it could come from a Coptic word meaning "the Egyptian science" from Coptic (kēme): "Egypt" from Egyptian (kmt): "Egypt". I've told this story a lot over the years, before encountering the Greek word "to pour", which makes it seem like a bit of a stretch/folk etymology. On the other hand, Diocletian is supposed to have issued a decree against "the ancient writings of the Egyptians, which treat of the khēmia transmutation of gold and silver", though I have been unable to track down a primary source on that, just a bunch of etymologies of chemistry/alchemy referencing each other.
 
 Most likely it's probably both, based on a Koine era conflation of the words.
 
@@ -374,3 +381,5 @@ The words for chemistry and alchemy exist side by side and continue to influence
 
 
 endnotes
+
+

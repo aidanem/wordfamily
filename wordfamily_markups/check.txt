@@ -41,55 +41,76 @@ Proto-Indo-European <*tek->: "to reach for, to take, to obtain, to receive"
 -------> Mandarin `剎帝利` <chàdìlì>: "kshatriya"
 ------> English `kshatriya`
 ------> Hindi `क्षत्रिय` <kṣatriy>
-------> Indonesian `kesatria`: "knight, hero"
+------> Malay `kesatria`: "knight, hero"
 ------> Thai `กษัตริย์` <gà-sàt>: "kshatriya, king"
 
----> Iranian <*xšaθríyah>
-----> Western Iranian
------> Old Persian `𐎧𐏁𐎠𐎹𐎰𐎡𐎹` <xšāyaθiya>: "king" ##
-------> Persian `شاه` <šâh>: "king, shah, check" #
+----> Iranian <*xšaθríyah>
+-----> Western Iranian
+------> Old Persian
+-------> Middle Persian `𐭱𐭲𐭥𐭣𐭠𐭫` <šahryār>
+--------> Persian `شهریار` <šahryâr>: "lord, sovereign, king; personal name: King"
+---------> English `Shahryar`
+------> Old Persian `𐎧𐏁𐎠𐎹𐎰𐎡𐎹` <xšāyaθiya>: "king" ##
+-------> Middle Persian `𐭬𐭫𐭪𐭠` <šāh>
+--------> Persian `شاه‎` <šâh>: "king, shah, check" #
+---------> Persian `شاهزاده` <šâhzâde>: "prince, princess" (with [WFF-King|<zâde>: "born"])
+----------> Hindi `शहज़ादा` <śahzādā>: "prince"
 
--------> Arabic `شَاه` <šāh>: "shah, (chess) king, check"
---------> Vulgar Latin <*scaccus>: "check"
----------> Western Romance
-----------> Old French `eschec`: "check"
------------> French `échec`: "check, failure"
------------> Dutch `schaak`: "check, chess"
------------> English `check`
------------> Old French `eschés`: "checks, chess game"
-------------> French `échecs`: "chess"
-------------> English `chess`
-----------> Italian `scacco`: "chess piece, chess square, check"
------------> Italian `scacci`: "chess"
+---------> Arabic `شَاه` <šāh>: "shah, (chess) king, check"
+----------> Vulgar Latin <*scaccus>: "check"
+-----------> Western Romance
+------------> Old French `eschec`: "check"
+-------------> French `échec`: "check, failure"
+-------------> Dutch `schaak`: "check, chess"
+-------------> English `check`»1
+-------------> Old French `eschés`: "checks, chess game"
+--------------> French `échecs`: "chess"
+--------------> English `chess`
+------------> Italian `scacco`: "chess piece, chess square, check"
+-------------> Italian `scacci`: "chess"
 
----------> Vulgar Latin <*scaccarium>: "chessboard" (lit. "place for shahs")
-----------> Western Romance
------------> Old French `escheker`: "chessboard, checker pattern, accountant's (checkered) table"
-------------> French `échiquier`: "chessboard, treasury, exchequer"
-------------> English `checker`
--------------> English `checkers`
--------------> English `check`
-------------> English `exchequer`
-------------> English `check`
------------> Spanish `escaque`: "checkerboard"
+-----------> Vulgar Latin <*scaccarium>: "chessboard" (lit. "place for shahs")
+------------> Western Romance
+-------------> Old French `escheker`: "chessboard, checker pattern, accountant's (checkered) table"
+--------------> French `échiquier`: "chessboard, treasury, exchequer"
+--------------> English `checker`
+---------------> English `checkers`
+---------------> English `check`»2
+--------------> English `exchequer`
+--------------> English `check`»3
+-------------> Spanish `escaque`: "checkerboard"
 
--------> English `shah`
+---------> English `shah`
+
+---------> Persian `مقعد شاه` <Maq'ad-i-Shāh>: "Seat of the Shah"
+---------?> Arabic `مقديشو` <Muqadīshū>
+-----------> Engish `Mogadishu`
+----------?> Middle French `Madageiscar`
+------------> English `Madagascar`
+------------> English `Malagasy`
 
 
--------> Persian `شاه مات` <šâh mât>: "checkmate" (lit. "The king is stupified/ambushed/abandoned")
---------> Arabic `شَاهُ مَاتَ` <šāhu māta>: "checkmate"
----------> Old French `eschec (et) mat`: "checkmate"
-----------> French `échec et mat`: "checkmate"
-----------> English `checkmate`
----------> Italian `scacco matto`: "checkmate"
+---------> Persian `شاه مات‎` <šâh mât>: "checkmate" (lit. "The king is stupified/ambushed/abandoned")
+----------> Arabic `شَاهُ مَاتَ‎` <šāhu māta>: "checkmate"
+-----------> Old French `eschec (et) mat`: "checkmate"
+------------> French `échec et mat`: "checkmate"
+------------> English `checkmate`
+-----------> Italian `scacco matto`: "checkmate"
 
--------> Persian `پادشاه` <pâdešâh>: "Padishah" (lit. "master-king") ###
---------> English `Padishah`
+---------> Persian `پادشاه` <pâdešâh>: "Padishah" (lit. "master-king") ###
+----------> English `Padishah`
 
-------> Old Persian `𐎧𐏁𐎹𐎠𐎼𐏁𐎠` <Xšayāršā>: "King-Hero (personal name)"
--------> Ancient Greek `Ξέρξης` <Xérxēs>
---------> Latin `Xerxes`
----------> English `Xerxes`
+-------> Old Persian <*xšayaθiya puθra>: "king's son"
+--------> Persian  `شاپور‎` <Shapur>: "personal name"
+---------> Persian  `نیشابور` <Nishapur>: "place name"
+----------> English `Nishapur`
+
+-------> Old Persian `𐎧𐏁𐎹𐎠𐎼𐏁𐎠` <Xšayāršā>: "King-Hero (personal name)"
+--------> Ancient Greek `Ξέρξης` <Xérxēs>
+---------> Latin `Xerxes`
+----------> English `Xerxes`
+
+
 
 
 ---> Indo-Iranian <*kšatrám>: "kingdom, dominion, rule"
@@ -97,20 +118,24 @@ Proto-Indo-European <*tek->: "to reach for, to take, to obtain, to receive"
 -----> Sanskrit `क्षत्र` <kṣatrá>: "power, kingdom, government"
 
 ----> Iranian <*xšaθram>
------> Avestan `𐬑𐬱𐬀𐬚𐬭𐬀` <xšaθra>: "control, authority, power"
------> West Iranian
-------> Old Persian `𐎧𐏁𐏂𐎶` <xšaçam>: "kingdom, kingship, realm, reign"
+-----> Avestan `𐬑𐬱𐬀𐬚𐬭𐬀‎ ` <xšaθra>: "control, authority, power"
+-----> Western Iranian
+------> Old Persian `𐎧𐏁𐏂𐎶` <xšaça->: "kingdom, kingship, realm, reign"
+-------> Persian `شهر` <šahr>: "city, town"
+-------?> Persian `شهرزاد` <Šahrzâd>: "personal name: City-Born? Lineage-Noble?; Scheherazade" (with [WFF-King|<zâde>: "born"])
+---------> Russian `Шехераза́да` <Šexerazáda>: "Scheherazade"
+----------> English `Scheherazade`
 -------> Old Persian `𐎧𐏁𐏂𐎱𐎠𐎺𐎠` <xšaçapāvā>: "satrap, governor, viceroy" (lit. "kingdom-protector")
 
 --------> Ancient Greek `σᾰτράπης` <satrápēs>: "satrap, governor"
----------> Latin `satrapēs`: "satrap, governor"
+---------> Latin `satrapes`: "satrap, governor"
 ----------> English `satrap`
 
--------> Old Persian `𐎠𐎼𐎫𐎧𐏁𐏂𐎠` <Artaxšaçā>: "Truth-Kingdom (personal name)"
---------> Persian `اردشیر` <Ardešir>
---------> Ancient Greek `Ἀρταξέρξης` <Artaxérxēs> (refashioned after `Ξέρξης` <Xérxēs>) ####
----------> Latin `Artaxerxes`
-----------> English `Artaxerxes`
+-------> Old Persian `𐎠𐎼𐎫𐎧𐏁𐏂𐎠` <Artaxšaçā>»1: "personal name: Truth-Reign"
+--------> Persian `اردشیر` <Ardešir>»1
+--------> Ancient Greek `Ἀρταξέρξης` <Artaxérxēs>»1 (refashioned after `Ξέρξης`=grc-Grek <Xérxēs>) ####
+---------> Latin `Artaxerxes`»1
+----------> English `Artaxerxes`»1
 
 
 
@@ -120,9 +145,8 @@ Proto-Indo-European <*tek->: "to reach for, to take, to obtain, to receive"
 ---> Old Irish `techt`: "possessions, property"
 
 --> Germanic <*þegō>: "a receiving, acceptance, a taking"
----> West Germanic
-----> Old English <*þegu>
------> Old English `bēorþegu`: "beer-drinking"
+---> Old English <*þegu>
+----> Old English `bēorþegu`: "beer-drinking"
 
 endbody
 

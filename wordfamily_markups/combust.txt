@@ -45,6 +45,8 @@ Proto-Indo-European <*h₁ews->: "to burn"
 ----------> English `bust`
 ----------> French `bustier`
 -----------> English `bustier`
+--------?> French `busc`: "busk (of a corset)"
+----------> English `busk`
 
 ----> Latin `ūrna`: "urn, water jar" (made of burnt clay)
 -----> Western Romance
@@ -65,11 +67,7 @@ Proto-Indo-European <*h₁ews->: "to burn"
 ----> Latin `ustulō`: "I scorch, I burn up"
 -----> Western Romance
 ------> Old French `usler`
--------> Old French `brusler`: "to burn" (conflation with `bruir` from Frankish <*brōjan>, under influence of <b-> forms of the Latin)
---------> French `brûler`: "to burn"
----------> French `crème brûlée`
-----------> English `crème brûlée`
---------> English `broil`
+-------> Old French `brusler`»1: "to burn" (conflation with `bruir` from Frankish <*brōjan>, under 
 
 -----> Latin `perustulō`
 ------> Western Romance
@@ -124,6 +122,12 @@ Proto-Indo-European <*h₁ews->: "to burn"
 ----> West Germanic
 -----> Old English `ǣmyrġe`: "embers, coals"
 ------> English `ember`
+
+
+-> Proto-Indo-European <*h₁uslos>
+
+-?> Pre-Albanian <*usla>
+---> Albanian `yll`: "star"
 
 
 endbody

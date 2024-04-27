@@ -30,8 +30,6 @@ Proto-Indo-European <*ǵʰey->: "winter"
 
 --> Indo-Iranian <*ȷ́ʰimás>: "cold, frost, winter"
 ---> Indo-Aryan <*źʰimás>
-----> Dardic
------> Kashmiri <himun>
 ----> Sanskrit `𑀳𑀺𑀫` <himá>: "cold, frost, winter"
 -----> Elu
 ------> Sinhala `හිම` <hima>: "snow"
@@ -39,6 +37,10 @@ Proto-Indo-European <*ǵʰey->: "winter"
 -----> Sauraseni `𑀳𑀺𑀫` <hima>
 ------> Madhya Sauraseni
 -------> Hindi `हिँव` <hĩv>
+------> Northwestern Sauraseni
+-------> Khowar `ہم` <him>
+-------> Nepali `हिउँ` <hiũ>: "snow"
+-------> Punjabi `ਹਿੰਮ` <himma>
 ------> Western Sauraseni
 -------> Romani `iv`: "snow"
 -----> Hindi `हिम` <him>: "snow, frost, ice"
@@ -49,6 +51,7 @@ Proto-Indo-European <*ǵʰey->: "winter"
 ------> Literary Chinese `喜馬拉雅`
 -------> Mandarin `喜馬拉雅` <Xǐmǎlāyǎ>: "Himalaya Mountains"
 ------> English `Himalaya(s)`
+------> Nepali `हिमालय` <himālaya>: "Himalaya Mountains"
 ------> Hindi `हिमालय` <himālay>: "Himalaya Mountains"
 ------> Telugu `హిమాలయము` <himālayamu>: "Himalaya Mountains"
 
@@ -214,9 +217,9 @@ Proto-Indo-European <*ǵʰey->: "winter"
 
 --> Indo-Iranian <*ȷ́ʰáyma>
 ---> Indo-Aryan
-----> Dardic
------> Kalasha `héman`: "winter"
 ----> Sanskrit `𑀳𑁂𑀫𑀦𑁆` <héman>: "winter"
+-----> Northwestern Sauraseni
+------> Kalasha `héman`: "winter"
 -----> Sanskrit `𑀳𑁂𑀫𑀦𑁆𑀢` <hemantá>: "winter"
 
 
@@ -231,3 +234,5 @@ Proto-Indo-European <*ǵʰey->: "winter"
 
 
 endbody
+
+

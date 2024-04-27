@@ -3,9 +3,24 @@ tags: Air, Divinities, Elements
 
 startbody
 
-Proto-Indo-European <*h₂ews->: "dawn, east"
+Proto-Indo-European <*h₂ews->»1: "dawn, east"
+
+-> Proto-Indo-European <*h₂ussḱéti>: "is dawning" (ske- imperfective)
+
+--> Indo-Iranian <*Hušćáti>
+---> Indo-Aryan
+----> Sanskrit `𑀉𑀘𑁆𑀙𑀢𑀺` <ucchati>: "to dawn"
+ 
 
 -> Proto-Indo-European <*h₂éwsōs>: "Divinity of Dawn"
+
+-?> Old Armenian `այգ` <ayg>: "dawn, morning"
+---> Armenian `այգ` <ayg>: "morning"
+---> Old Armenian `ցայգ` <cʿayg>: "night" (lit. "until morning")
+
+---> Old Armenian `զայգոյ` <zaygoy>: "until tomorrow, tomorrow morning" (lit. "after? morning")
+---?> Georgian `ზეგ` <zeg>: "day after tomorrow"
+
 
 --> Germanic <*auzi>
 ---> Germanic <*Auziwandilaz>: "Bright-Wanderer, Dawn-Wanderer, Morning Star" (personal name) ####
@@ -35,15 +50,22 @@ Proto-Indo-European <*h₂ews->: "dawn, east"
 ------> Old Japanese `天鈿女` <Ama no Uzume>: "Divinity of Dawn" ###
 
 --> Italic <*auzōs>
----> Latin `aurōra`: "dawn"
+---> Latin `aurora`: "dawn"
 ----> Western Romance
 -----> French `aurore`: "dawn, aurora"
 -----> Italian `aurora`: "dawn"
 -----> Spanish `aurora`: "aurora"
 ----> English `aurora`
------> English `aurora australis`
-----> Latin `Aurōra`: "Divinity of Dawn"
+-----> English `aurora australis`»1
+----> Latin `Aurora`: "Divinity of Dawn"
 -----> English `Aurora`
+
+
+--> Proto-Indo-European <per-h₂usés>: "before dawn"
+
+---> Old Armenian `առաւաւտ` <aṙawawt>
+----> Old Armenian `առաւօտ` <aṙawōt>: "morning"
+-----> Armenian `առավոտ` <aṙavot>: "morning"
 
 
 -> Proto-Indo-European <*h₂ewsro>
@@ -86,6 +108,7 @@ Proto-Indo-European <*h₂ews->: "dawn, east"
 ------> Spanish `aire`: "air"
 ------> Italian `aria`: "air"
 -------> English `aria`
+-------> Italian `malaria`
 ----> Classical Syriac `ܐܐܪ` <aar>: "air, breeze"
 ----> Classical Greek `ἀέρος` <aéros>: "of the air"
 -----> English `aero-`
@@ -157,7 +180,7 @@ Proto-Indo-European <*h₂ews->: "dawn, east"
 ------> Mandarin `澳大利亞` <Àodàlìyà>: "Australia"
 -------> Mandarin `澳(洲)` <Ào(zhōu)>: "Australia (Continent)"
 --------> Vietnamese `Úc (Châu)`: "Australia (Continent)"
------> English `aurora australis`
+-----> English `aurora australis`»1
 
 
 -> Proto-Indo-European <*h₂éh₂uso>: "glow of dawn, gold"
@@ -259,6 +282,7 @@ endbody
 startnotes
 
 # Only Germanic langauges use cognates to "Easter" to refer to the Christian holiday. Most other languages use descendants of the Hebrew `פָּסַח` <pasách>: "Passover". For example, Italian `Pasqua`, Russian `Па́сха` <Pásxa>, Irish `Cáisc` (with regular <p> to <c> in early Latin borrowings).
+
 
 ## Latin words for cardinal directions, in this case `oriens`/`levant`, were replaced or supplemented in most Romance languages by borrowings from Old English like `ēast` to French `est`. Weird.
 

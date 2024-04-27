@@ -69,16 +69,13 @@ Early Proto-Indo-European
 ----> East Baltic
 -----> Lithuanian `kùrti`: "to light, to build, to create, to establish"
 ----> West Baltic
------> Old Prussian `kūra`: "he built" (only attested as 3rd sing. past.; identical to the same conjugation of  Lithuanian `kùrti`)
+-----> Old Prussian `kūra`: "he built" (only attested as 3rd sing. past.; identical to the same conjugation of  Lithuanian `kùrti`=lit-Latn)
 
 
 --> Proto-Indo-European <*kʷr̥néwti> (imperfective)
 
 ---> Indo-Iranian <*kr̥náwti>
 ----> Indo-Aryan
------> Dardic
-------> Kalasha `karik`: "to do, to say, to make"
-------> Kashmiri `کَرُن` <karun>: "to do"
 -----> Vedic Sanskrit `𑀓𑀾𑀡𑁄𑀢𑀺` <kṛṇóti>: "does, makes"
 ------> Sanskrit `𑀓𑀭𑁄𑀢𑀺` <karóti>
 -------> Elu
@@ -94,6 +91,11 @@ Early Proto-Indo-European
 --------> Madhya Sauraseni
 ---------> Hindi `करना` <karnā>: "to do, to make, to work, to hire"
 ----------> Hindi `-करना` <-karnā>: "derives verbs from nouns and adjectives"
+--------> Northwestern Sauraseni
+---------> Kalasha `karik`: "to do, to say, to make"
+---------> Kashmiri `کَرُن` <karun>: "to do"
+---------> Nepali `गर्नु` <garnu>: "to do, to perform"
+---------> Punjabi `ਕਰਨਾ` <karnā>: "to do, to act, to perform"
 --------> Western Sauraseni
 ---------> Gujarati `કરવું` <karvũ>: "to do"
 ---------> Romani `kerel`: "to do, to make, to produce"
@@ -131,7 +133,7 @@ Early Proto-Indo-European
 
 ------> Brythonic <*Prɨdėn>
 -------> Welsh `Prydain`: "Britain"
--------> Latin `Brittō` (oblique stem `Brittōn-`)
+-------> Latin `Brittō` (oblique stem `Brittōn-`=lat-Latn)
 --------> Western Romance
 ---------> French `Breton`
 --------> English `Briton`
@@ -261,9 +263,6 @@ Early Proto-Indo-European
 
 ---> Indo-Iranian <*kárma(n)>
 ----> Indo-Aryan <*kárma(n)>
------> Dardic
-------> Kalasha `krom`: "work"
-------> Kashmiri `کٲم` <kạ̄m>: "work, labor, task, action"
 -----> Sanskrit `𑀓𑀭𑁆𑀫𑀦𑁆` <kárman>: "action, work, obligation, result, action leading to inevitable results, fate, karma, grammatical object"
 ------> Prakrit `𑀓𑀫𑁆𑀫` <kamma>
 -------> Elu
@@ -283,7 +282,10 @@ Early Proto-Indo-European
 -------> Sauraseni `𑀓𑀫𑁆𑀫` <kamma>
 --------> Madhya Sauraseni
 ---------> Hindi `काम` <kām>: "work, task, job, function"
---------> Punjabi `ਕੰਮ` <kamm>: "work, task, job"
+--------> Northwestern Sauraseni
+---------> Kalasha `krom`: "work"
+---------> Kashmiri `کٲم` <kạ̄m>: "work, labor, task, action"
+---------> Punjabi `ਕੰਮ` <kamm>: "work, task, job"
 ------> Bengali `কর্ম` <kormo>: "deed, action, karma, fate, consequence"
 ------> Middle Chinese `羯磨` <kɨɐt̚  muɑ>: "karma"
 -------> Mandarin `羯磨` <jiémó>: "karma (archaic)"
@@ -309,7 +311,7 @@ Early Proto-Indo-European
 -------> Khmer `ករ` <kɑɑ>: "doer, -er, agentive suffix"
 --------> Khmer `កម្មករ` <kamkɑɑ>: "worker, laborer"
 ------> Hindi `कर` <kar>: "hand, arm, tax"
-------> Sanskrit `𑀓𑀭𑀺𑀦𑁆` <karin>: "elephant" (lit. "handed, having a hand", parallel to `𑀳𑀲𑁆𑀢𑀺𑀦𑁆` <hastín> same meanings)
+------> Sanskrit `𑀓𑀭𑀺𑀦𑁆` <karin>: "elephant" (lit. "handed, having a hand", parallel to `𑀳𑀲𑁆𑀢𑀺𑀦𑁆`=san-Brah <hastín> same meanings)
 -------> Hindi `करी` <karī>: "elephant"
 
 ----> Iranian <*kā́rah>
@@ -435,9 +437,9 @@ Early Proto-Indo-European
 -----> East Slavic
 ------> Russian `черен` <čeren>: "handle (archaic)"
 -------> Russian `черенок` <čerenok>: "handle, hilt, stalk"
+-------?> Russian `Черенков` <Cherenkov>: "surname"
+---------> English `Cherenkov radiation`
 -------> Russian `черешок` <čerešok>: "handle, stalk"
-------?> Russian `Черенков` <Cherenkov>: "surname"
---------> English `Cherenkov radiation`
 -----> South Slavic
 ------> Bulgarian `чрен` <čren>
 ------> Serbo-Croatian `черјен` <čerjen>

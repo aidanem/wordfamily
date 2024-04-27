@@ -4,9 +4,9 @@ tags: Afro-Asiatic, Gemstones
 
 startintro
 
-Both Classical Sanskrit `𑀫𑀭𑀓𑀢` <marakata>: "emerald" and Classical Greek `μᾰ́ραγδος` <máragdos>: "emerald" appear to be borrowed from a source like <*maraktV>.
+Both Classical Sanskrit `𑀫𑀭𑀓𑀢` <marakata>: "emerald" and Classical Greek `μᾰ́ραγδος` <máragdos>: "emerald" appear to be borrowed from a common source that would have looked like <*maraktV>.
 
-This is presumably a form closely related to the Phoenician <brqt> and Hebrew <baréket>: "emerald", from <*b-r-ḳ>: "shining, sparkling". Akkadian cognate <baraqu>: "shine" instead might have had an equivalent -t form, which would have looked like <*baraqtu(m)> which would be an excellent source for <*maraktV>, though as far as I know, no such -t noun is attested in Akkadian.
+This is presumably a form closely related to the Phoenician <brqt> and Hebrew <baréket>: "emerald", literally "shining thing". The Akkadian cognate <baraqu>: "shine" might have had an equivalent  <*baraqtu(m)> which would be an excellent source for <*maraktV>, but is unattested afaik.
 
 
 endintro
@@ -15,6 +15,10 @@ endintro
 startbody
 
 Afro-Asiatic <*bǎrk’->: "sparkle, flash"
+
+?> Cushitic
+--> Oromo `balag`: "to shine, to sparkle"
+
 
 -> Egyptian `𓃀*𓏲-𓏭:𓂋-𓈎*(𓏤)-𓄿-𓁻` <bwyrqꜣ.EYE>: "to sparkle"
 
@@ -26,9 +30,9 @@ Afro-Asiatic <*bǎrk’->: "sparkle, flash"
 ---> East Semitic
 ----> Akkadian `𒁀𒊏𒄣` <baraqu>: "scintillation, shine"
 -----> Akkadian <*baraqtu(m)> (feminine or abstract/collective noun)
------?> Unknown transmission <*maraktV?>
+-----?> Unknown transmission <*maraktV?>»1
 
----> Central Semitic <*baraḳ>
+---> Central Semitic <*baraḳ>»1
 ----> Arabic `بَرَقَ` <baraqa>: "to shine, to flash, to spark, to lightning"
 -----> Arabic `بَرْق` <barq>: "lightning, telegraph"
 ------> Maltese `beraq`: "lightning"
@@ -41,11 +45,20 @@ Afro-Asiatic <*bǎrk’->: "sparkle, flash"
 -----> Ugaritic `𐎁𐎗𐎖` <brq>: "lightning"
 -----> Canaanite
 ------> Hebrew `בָּרָק` <barák>: "lightning, shine, Barak"
+------> Phoenician
+-------> Punic `𐤁𐤓𐤒` <brq>: "epithet: Thunderbolt or Shining" (epithet of "Hamilcar Barca")
+--------> English `Barcid`
+-------?> Iberian <Baŕkeno>: "a place name (Barcelona)"
+---------> Latin `Barcino`
+----------> Latin `Barcilonum`
+-----------> Western Romance
+------------> Catalan `Barcelona`
+-------------> English `Barcelona`
 ------> Canaanite
 -------> Hebrew `בָּרֶקֶת` <baréket>: "emerald"
 -------> Phoenician `𐤁𐤓𐤒𐤕` <brkt>: "emerald"
 
-------?> Unknown transmission <*maraktV?>
+------?> Unknown transmission <*maraktV?>»1
 
 -------?> Classical Greek `μᾰ́ραγδος` <máragdos>: "emerald"
 ---------> Classical Greek `σμάραγδος` <smáragdos>: "emerald"
@@ -96,7 +109,7 @@ Afro-Asiatic <*bǎrk’->: "sparkle, flash"
 ---> East Semitic
 ----> Akkadian `𒉏𒄈` <birqu(m)>: "lightning"
 
----> Central Semitic <*baraḳ>
+---> Central Semitic <*baraḳ>»1
 
 ---> South Semitic
 ----> Ethiopic
@@ -107,3 +120,4 @@ Afro-Asiatic <*bǎrk’->: "sparkle, flash"
 
 
 endbody
+

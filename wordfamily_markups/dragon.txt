@@ -8,7 +8,7 @@ Dragon tears.
 
 The etymology of `dragon`=eng-Latn (Classical Greek `δράκων`=grc-Grek <drákōn>) is not certain, but is traditionally linked to `δέρκομαι`=grc-Grek <dérkomai>: "to see, to watch".
 
-"Derkomai…really?" Not so odd: the aorist active participle masculine of `δέρκομαι`=grc-Grek <dérkomai> is `δρακών`=grc-Grek <drakṓn>—the only difference from `δράκων`=grc-Grek <drákōn> is the placement of the accent. A substantive use of the aorist active participle could be translated as "he who watches, he who stares". It's unclear if the Athenian lawgiver Draco/Δρακων from whom we get the word "draconian" is named "Dragon" or "Watcher"
+"Derkomai…really?" Not so odd: the aorist active participle masculine of `δέρκομαι`=grc-Grek <dérkomai> is `δρακών`=grc-Grek <drakṓn>—the only difference from `δράκων`=grc-Grek <drákōn> is the placement of the accent. A substantive use of the aorist active participle could be translated as "he who watches, he who stares". It's unclear if the Athenian lawgiver Draco/Δρακων from whom we get the word "draconian" is named "Dragon" or "Watcher".
 
 The same root—<*derḱ->—appears in the compound <*dr̥ḱ-h₂eḱru>: "tear". [wff-edge|<*h₂eḱru>, while literally meaning "bitter" or "sting"], seems to have meant "tear" on its own at an early stage. This is preserved in Anatolian, Tocharian, Baltic, and Indo-Iranian. In Armenian, Hellenic, Germanic, Celtic, and Italic, the compound form is preserved instead <*dr̥ḱ-h₂eḱru> (haplologized to <*drh₂éḱru>, <*dh₂éḱru>), interpretable as "eye-tears", "eye-stings", or "bitter-eyes".
 
@@ -40,7 +40,7 @@ Proto-Indo-European <*derḱ->: "to see, eye"
 -------> Greek `δράκος` <drákos>: "dragon, monster"
 ------> Coptic `ⲇⲣⲁⲕⲱⲛ` <drakōn>: "dragon, serpent"
 ------> Hebrew `דרקון` <drakón>: "serpent, dragon"
--------> Yiddish `דראַקאָן` <drakon>: "dragon"
+-------> Yiddish `דראַקאָן` <drakon>»1: "dragon"
 
 ------> Latin `drāco`: "dragon, serpent" (acc. `dracōnem`=lat-Latn)
 -------> Central Romance
@@ -63,13 +63,13 @@ Proto-Indo-European <*derḱ->: "to see, eye"
 -------> Old French `dragon`
 --------> French `dragon`: "dragon, dragoon"
 ---------> English `dragoon`
----------> Swedish `dragon`: "dragoon, tarragon"
+---------> Swedish `dragon»1`: "dragoon, tarragon"
 ----------> Finnish `rakuuna`: "dragoon"
 --------> English `dragon`!
 ---------> Japanese `ドラゴン` <doragon>: "(Western) dragon"
 --------> Irish `dragan`: "dragon, tarragon"
 
--------> Yiddish `דראַקאָן` <drakon>: "dragon"
+-------> Yiddish `דראַקאָן` <drakon>»1: "dragon"
 
 -------> Brythonic <*drėg>
 --------> Welsh `draig`: "dragon"
@@ -118,7 +118,7 @@ Proto-Indo-European <*derḱ->: "to see, eye"
 -----------> Greek `εστραγκόν` <estragkón>: "tarragon"
 -----------> Spanish `estragón`: "tarragon"
 ----------> English `tarragon`!
-----------> Swedish `dragon`: "dragoon, tarragon"
+----------> Swedish `dragon`»1: "dragoon, tarragon"
 --------> Persian `ترخون` <tarxun>: "tarragon"
 ---------> Armenian `թարխուն` <tʿarxun>: "tarragon"
 ---------> Georgian `ტარხუნა` <ṭarxuna>: "tarragon"
@@ -126,8 +126,8 @@ Proto-Indo-European <*derḱ->: "to see, eye"
 ---------> Turkish `tarhun`: "tarragon"
 ---------> Romanian `tarhon`: "tarragon"
 
------?> Classical Greek `Δράκων` <Drákōn>: "personal name: Dragon?, Watcher?"
-----?> Classical Greek `Δράκων` <Drákōn>: "personal name: Dragon?, Watcher?"
+-----?> Classical Greek `Δράκων` <Drákōn>»1: "personal name: Dragon?, Watcher?"
+----?> Classical Greek `Δράκων` <Drákōn>»1: "personal name: Dragon?, Watcher?"
 ------> Latin `Draco`
 -------> Latin `draconianus`
 --------> English `draconian`
@@ -241,7 +241,7 @@ Proto-Indo-European <*derḱ->: "to see, eye"
 
 
 
--> Proto-Indo-European <*dr̥ḱ-h₂eḱru>: "tear(s)" (lit. "eye-bitter" "eye-sting")
+-> Proto-Indo-European <*dr̥ḱ-h₂eḱru>»1: "tear(s)" (lit. "eye-bitter" "eye-sting")
 
 --> Proto-Indo-European <*drh₂éḱru> (haplology)
 
@@ -269,7 +269,7 @@ Proto-Indo-European <*derḱ->: "to see, eye"
 ------> English `dacryo-`
 ------> Classical Greek `δακρύω` <dakrúō>: "I weep" 
 -------> Classical Greek `δακρυμα` <dakryma>: "a tear" (re-derived noun as a deverbal)
--------?> Old Latin `𐌃𐌀𐌂𐌓𐌖𐌌𐌀` <dacruma>: "a tear" ##
+-------?> Old Latin `𐌃𐌀𐌂𐌓𐌖𐌌𐌀` <dacruma>»1: "a tear" ##
 
 ----> Northwest Indo-European <*dáḱrom>
 
@@ -298,7 +298,7 @@ Proto-Indo-European <*derḱ->: "to see, eye"
 --------> Old English `tieran`: "to weep, to water (of eyes)"
 
 -----> Italic <*dakrom>
------?> Old Latin `𐌃𐌀𐌂𐌓𐌖𐌌𐌀` <dacruma>: "a tear" ##
+-----?> Old Latin `𐌃𐌀𐌂𐌓𐌖𐌌𐌀` <dacruma>»1: "a tear" ##
 -------> Latin `lacruma`: "a tear" (archaic)
 -------> Old Latin `𐌃𐌀𐌂𐌓𐌉𐌌𐌀` <dacrima>: "a tear" (variant)
 --------> Latin `lacrima`: "a tear" ##

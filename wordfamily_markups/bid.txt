@@ -8,7 +8,7 @@ startintro
 
 *bʰewdʰ- vs. *gʷʰedʰ-: two families that end up being super confusing in Germanic languages, since <*bʰ> and <*gʷʰ> merge at the beginning of a word. In English, they end up being homophones with complementary/opposite meanings: "offer" vs. "ask for".
 
-I had to do these two at the same time just to make sure I was tracking which words go where, because the dictionaries and other sources sometimes also mix them up. Even in the rest of the Germanic langauges where the two English <bids> aren't complete homonyms the meanings can get awfully confusing; compare German `bitten`, to ask someone to do something (`bid`) vs. `ver-bieten`, to ask someone _not_ to do something (`forbidden`).
+I had to do these two at the same time just to make sure I was tracking which words go where, because the dictionaries and other sources sometimes also mix them up. Even in the rest of the Germanic langauges where the two English `bid`=eng-Latn s aren't complete homonyms the meanings can get awfully confusing; compare German `bitten`=deu-Latn, to ask someone to do something (`bid`=eng-Latn) vs. `ver-bieten`=deu-Latn, to ask someone _not_ to do something (`forbidden`=eng-Latn).
 
 They probably don't have a common derivation. Probably. If they do, it's before reconstructable language.
 
@@ -36,8 +36,8 @@ Proto-Indo-European <*bʰewdʰ->: "to be awake, to be aware"
 --> Germanic <*beudanã>: "to offer, to bid, to command?"
 ---> West Germanic
 ----> Old English `bēodan`: "to offer, to give, to announce"
------> English `bid`: "to offer a price, to make an attempt" #
-----?> Old English `Bīeda`: "personal name"
+-----> English `bid`»1: "to offer a price, to make an attempt" #
+----?> Old English `Bīeda`»1: "personal name"
 ------> English `(Saint) Bede (the Venerable)`
 ----> Old High German `biotan`: "to offer"
 -----> German `bieten`: "to offer, to present, to bid"
@@ -63,9 +63,9 @@ Proto-Indo-European <*bʰewdʰ->: "to be awake, to be aware"
 
 --> Indo-Iranian
 ---> Indo-Aryan
-----> Sanskrit `𑀩𑁄𑀥𑀢𑀺` <bódhati)> "to wake, to know, to understand"
+----> Sanskrit `𑀩𑁄𑀥𑀢𑀺` <bódhati>: "to wake, to know, to understand"
 -----> Magadhi
-------> Bengali `বোঝা` <bojha>: "to understand"
+------> Bengali `বোঝা` <bojha>»1: "to understand"
 ---> Iranian
 ----> Avestan <baoδaiti>
 ----> West Iranian
@@ -153,7 +153,7 @@ Proto-Indo-European <*bʰewdʰ->: "to be awake, to be aware"
 ---> Indo-Aryan
 ----> Sanskrit `𑀩𑀼𑀥𑁆𑀬𑀢𑁂` <búdhyate>: "to wake, to know, to understand"
 -----> Magadhi
-------> Bengali `বোঝা` <bojha>
+------> Bengali `বোঝা` <bojha>»1: "to understand"
 ---> Iranian
 ----> Avestan <būiδiiaēta>: "they should be taught"
 
@@ -218,18 +218,23 @@ Proto-Indo-European <*bʰewdʰ->: "to be awake, to be aware"
 ---> Brythonic
 ----> Welsh `bodd`: "free will, consent"
 
---> Germanic <*budą>: "offer, message"
+--> Germanic <*budã>: "offer, message"
 ---> West Germanic
 ----> Old English `bod`: "command, order, mandate"
------> English `bode`
+-----> English `bode`»3
 ---> Old Norse `boð`
-----> Danish
+----> Danish `bud`: "command, message, guess"
 ----> Icelandic `boð`: "message, order, offer, omen"
+----> Old Norse `umboð`: "commission"
+-----> Old Norse `umboðsmaðr`: "commissary, representative, steward"
+------> Icelandic `umboðsmaður`: "representative, attorney, agent"
+------> Swedish `ombudsman`: "ombudsman"
+-------> English `ombudsman`
 
 ---> Germanic <*budô>: "messenger"
 ----> West Germanic
 -----> Old English `boda`: "messenger, envoy, apostle, angel, prophet"
-------> English `bode`
+------> English `bode`»2
 -----> Old High German `boto`: "messenger, envoy"
 ------> German `Bote`: "messenger, letter carrier, apostle"
 -------> German `Botschaft`: "news, tidings, embassy"
@@ -251,7 +256,7 @@ Proto-Indo-European <*bʰewdʰ->: "to be awake, to be aware"
 ---> Germanic <*budōnã>: "to proclaim, to announce, to instruct"
 ----> West Germanic
 -----> Old English `bodian`: "announce, foretell, preach"
-------> English `bode`
+------> English `bode`»1
 -------> English `forebode`
 
 --> Indo-Iranian
@@ -326,7 +331,7 @@ Proto-Indo-European <*gʷʰedʰ->: "to request, pray, ask for"
 -----> Icelandic `biðja`: "to ask, to request, to pray"
 ---> West Germanic
 ----> Old English `biddan`: "to ask for, to entreat, to beg, to demand"
------> English `bid`: "to issue a command, to invite, to summon, to utter a greeting" #
+-----> English `bid`»2: "to issue a command, to invite, to summon, to utter a greeting" #
 ----> Frankish
 -----> Dutch `bidden`: "to pray"
 ----> Old High German `bitten`: "to ask"
@@ -349,7 +354,7 @@ Proto-Indo-European <*gʷʰedʰ->: "to request, pray, ask for"
 ------> Russian `жа́жда` <žážda>: "thirst, craving"
 -----> Serbo-Croatian `же̑ђ(а)` <žȇđ(a)>: "thirst"
 ----> West Slavic
------> Polish `żądza`: "lust, craaving"
+-----> Polish `żądza`: "lust, craving"
 
 --> Germanic <*bedō>: "a request, a prayer, a plea"
 ---> East Germanic
@@ -358,8 +363,7 @@ Proto-Indo-European <*gʷʰedʰ->: "to request, pray, ask for"
 ----> Old English `bedu`: "request, prayer, religious worship"
 -----> English `bead` ####
 -----> Scots `bede`: "prayer, rosary"
-----?> Old English `Bīeda`: "personal name"
-------> English `(Saint) Bede (the Venerable)`
+----?> Old English `Bīeda`»1: "personal name"
 ----> Frankish
 -----> Dutch `bede`: "plea"
 ----> Old High German `bita`: "request, inquiry"
@@ -400,16 +404,15 @@ endbody
 
 startnotes
 
-# Old English `bēodan`, "to offer" and Old English `bidda`, "to ask for" got confused in Middle English and merge into Modern English `bid``, resulting in a very confusing pair of homonym-antonyms from different PIE roots.
+# Old English `bēodan`=ang-Latn, "to offer" and Old English `bidda`=ang-Latn, "to ask for" got confused in Middle English and merge into Modern English `bid`=eng-Latn, resulting in a very confusing pair of homonym-antonyms from different PIE roots.
 
-#### `bead` means "prayer", then "prayer with a rosary" -> "a rosary" -> "rosary beads" -> "beads in general"
+#### `bead`=eng-Latn means "prayer", then "prayer with a rosary" -> "a rosary" -> "rosary beads" -> "beads in general"
 
 
 
-##### "But not till the mid-nineteenth century was it recognised that, in Josaphat, the Buddha had been venerated as a Christian saint for about a thousand years." David M. Lang's 1967 introduction to Woodward and Mattingly's 1914 translation of Barlaam and Ioasaph (http://www.hup.harvard.edu/catalog.php?isbn=9780674990388).
-https://en.wikipedia.org/wiki/Barlaam_and_Josaphat
+##### "But not till the mid-nineteenth century was it recognised that, in Josaphat, the Buddha had been venerated as a Christian saint for about a thousand years." [http://www.hup.harvard.edu/catalog.php?isbn=9780674990388|David M. Lang's 1967 introduction to Woodward and Mattingly's 1914 translation of Barlaam and Ioasaph]
 
-###### India and Rome had a shared inheritance of Hellenistic astrology, after the conquests of Alexander the Great expanded and transformed the Persian sphere of influence. When the astrological 7-day week of planetary hours began to replace the 8-day nundinal cycle (see last week: https://www.aidanem.com/word-family-diurnal.html) over the first few centuries CE, the idea spread widely through the Hellenistic world and beyond within a few hundred years.
+###### India and Rome had a shared inheritance of Hellenistic astrology, after the conquests of Alexander the Great expanded and transformed the Persian sphere of influence. When the astrological 7-day week of planetary hours began to replace the 8-day nundinal cycle (see [wff-diurnal|last week]) over the first few centuries CE, the idea spread widely through the Hellenistic world and beyond within a few hundred years.
 
 
 endnotes

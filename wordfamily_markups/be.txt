@@ -1,5 +1,4 @@
 date: 20170714
-tags: ATLA
 
 
 
@@ -9,38 +8,103 @@ startbody
 
 Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 
--> Proto-Indo-European <*bʰúH-t> "become" (zero-grade aorist)
+-> Proto-Indo-European <*bʰúHt> "become" (zero-grade aorist)
 
 --> Albanian `bëhem`: "become, get"
 
 --> Balto-Slavic <*būtei>: "to be"
----> Lithuanian `būti`: "to be"
+---> East Baltic
+----> Lithuanian `būti`: "to be"
 ---> Slavic <*byti>: "to be"
 ----> East Slavic
 -----> Russian `быть` <bytʹ>: "to be"
 ----> South Slavic
------> Serbo-Croatian `би̏ти` <bȉti>: "to be"
+-----> Serbo-Croatian `би̏ти` <bȉti>»1: "to be"
 ----> West Slavic 
 -----> Polish `być`: "to be"
 
--?> Germanic <*būanã>: "to dwell, to reside"
+-?> Germanic <*būaną>: "to dwell, to reside"
+---> East Germanic
+----> Gothic `𐌱𐌰𐌿𐌰𐌽` <bauan>: "dwell, inhabit, live"
+---> North Germanic
+----> Old Norse `búa`: "to dwell, to prepare"
+-----> Danish `bo`: "to live, to dwell, to stop, an estate, an abode, a nest"
+-----> Icelandic `búa`: "to dwell, to prepare, to run a farm or home"
+-----> Old Norse `búandi`: "dwelling" (present participle)
+------> Old Norse `bóndi`: "farmer, householder, husband" {Family}
+-------> Danish `bonde`: "farmer, peasant, pawn (chess)"
+-------> Icelandic `bóndi`: "farmer"
+------?> Old English `bonda`»1: "farmer, householder, husband" {Family}
+--------> Middle English `bonde`: "farmer, householder, husband, tenant farmer, servant" {Family}
+---------> English `bond`
+----------> English `Bond` (occupational surname)
+----------> English `bondservant`
+---------> Medieval Latin `bondagium`
+----------> English `bondage`
+-------> Old Norse `húsbóndi`: "householder, husband" {Family}
+--------> Icelandic `húsbóndi`: "householder, male head of household" {Family}
+--------> Old English `hūsbonda`: "male head of household" {Family}
+---------> Middle English `husbonde` {Family}
+----------> English `husband` {Family}
+----------> Middle English `husbonderie`: "household management, housekeeping, farm management"
+-----------> English `husbandry`
+---------> Old English `hūsbonde`: "female head of household" {Family}
+-----> Old Norse `búinn`: "prepared" (past participle)
+------> Middle English `boun`: "ready, prepared"
+-------> Scots `boun`: "ready, prepared"
+-------> English `bound`
+--------> English `-bound`: "moving in the direction of" (unrelated to meanings of binding or jumping)
+-----> Old Norse `bǿr`: "dwelling, farmhouse, farm, town"
+------> Icelandic `bær`: "farm, town"
+------> Old Norse `byr` (variant)
+-------> Danish `by`: "town, city"
+-------> Old English `-by`
+--------> Old English `Derƿentby`: "Derby" {Toponymy} (lit. [wff-tree|"Derwent-town"])
+---------> English `Derby` {Toponymy}
+----------> English `derby`
+--------> Middle English `-bi`
+---------> Middle English `Rokebi`: "Rook-Town" {Toponymy} (modification of Old English <*Hrōceburh>: "Rook-Fort")
+----------> English `Rubgy`
+-----------> English `rugby`
+-------> Swedish `by`: "village"
+--------> Swedish `Ytterby`: "place name: Outer-Village" {Toponymy} (on an island out in the Stockholm Archipelago)
+---------> New Latin `yttria`: "yttria, the rare earth oxide" (named for the mine at Ytterby)
+----------> New Latin `yttrium` {Elements} (element isolated from yttria)
+-----------> Translingual `Y` {Elements}
+-----------> English `yttrium` {Elements}
+---------> New Latin `terbium` {Elements} (another element found in yttria)
+----------> Translingual `Tb` {Elements}
+----------> English `terbium` {Elements}
+---------> New Latin `erbium` {Elements} (another element found in yttria)
+----------> Translingual `Er` {Elements}
+----------> English `erbium` {Elements}
+---------> New Latin `ytterbium` {Elements} (another element found in yttria)
+----------> Translingual `Yb` {Elements}
+----------> English `ytterbium` {Elements}
+-------> Old Norse `kirkjabyr`: "church-town, a town with a church, place name: Church-Town" {Toponymy}
+--------> Swedish `kyrkby`: "settlement established around a church"
+--------> Middle English `Kyrkebi`: "Church-Town" {Toponymy}
+---------> English `Kirkby` {Toponymy}
+----------> English `Kirby` {Toponymy}
+-------> Old Norse `Frísbyr`: "Frisian-Town" {Toponymy}
+--------> English `Frisby` {Toponymy}
+---------> English `Frisbie`
+----------> English `Frisbee`
+-----------> Japanese `フリスビー` <furisubī>: "frisbee, flying disc"
+-----------> Korean `프리스비` <peuriseubi>: "frisbee, flying disc"
+-----------> Māori `ripi`: "frisbee, flying disc"
 ---> West Germanic
 ----> Old English `būan`: "to dwell"
+-----> Old English `būend`: "inhabitant" (present participle)
+-----?> Old English `bonda`»2: "farmer, householder, husband"
 ----> Old High German `būan`: "to build"
 -----> German `bauen`: "to build, to construct"
 -----> Yiddish `בויען` <boyen>: "build, construct"
----> Old Norse `búa`: "to dwell, to prepare"
-----> Danish `bo`: "to live, to dwell, to stop, an estate, an abode, a nest"
-----> Icelandic `búa`: "to dwell, to prepare, to run a farm or home"
-----> Old Norse `búinn`:  "prepared" (past participle)
------> Middle English `boun`: "ready, prepared"
-------> Scots `boun`: "ready, prepared"
-------> English `bound`
--------> English `-bound`: "moving in the direction of" (unrelated to meanings of binding or jumping)
----> Gothic `𐌱𐌰𐌿𐌰𐌽` <bauan>: "dwell, inhabit, live"
+
+
 
 --> Hellenic
----> Classical Greek `φύω` <phúō>: "to grow, to give birth to, to be by one's nature, to be natural"
+---> Classical Greek `φύω` <phúō>: "I grow, I give birth to, I am [something] by my nature, I am natural"
 ----> Classical Greek `φύσις` <phúsis>: "origin, nature, form, Nature"
 -----> Greek `φύση` <fýsi>: "nature"
 -----> English `physis`
@@ -54,31 +118,32 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 --> Indo-Iranian
 ---> Indo-Aryan
 ----> Sanskrit `𑀪𑀽` <bhū́>: "to be"
------> Sanskrit `𑀪𑀽𑀫𑀺` <bhūmi>: "earth, soil, base, country, the element of Earth" ("that which is")
+-----> Sanskrit `𑀪𑀽𑀫𑀺` <bhūmi>: "earth, soil, base, country, the element of Earth" ("that which is") {Elements, Earth}
 ------> Sauraseni
 -------> Western Sauraseni
---------> Romani `phuv`: "earth"
+--------> Romani `phuv`: "earth" {Elements, Earth}
 
-------> Hindi `भूमि` <bhūmi>: "earth, soil, ground, country, Earth, Goddess of the Earth"
-------> Malay `bumi`: "earth, soil, Earth"
+------> Hindi `भूमि` <bhūmi>: "earth, soil, ground, country, Earth, Goddess of the Earth" {Divinities, Elements, Earth}
+------> Malay `bumi`: "earth, soil, Earth" {Elements, Earth}
 ------> Thai `ภูมิ` <puu-mí>: "land"
-------> English `Bumi`, King of Omashu
+------> English `Bumi` {ATLA} (King of Omashu)
 ------> Sanskrit `𑀪𑀽𑀫𑀦𑁆` <bhūman>: "world, territory, majority, assembly"
 ------> Sanskrit <bhūmisparśa>: "earth-witness, name for a pose (or mudra) the Buddha is commonly depicted in"
 
 --> Italic <*fūai>
----> Latin `fuī`: "I was, I've been" (suppletive first-person singular perfect active indicative of `sum`)
-----> Spanish `fui`: "I was" (suppletive first-person singular preterite indicative form of both `ir` and `ser`)
+---> Latin `fui`: "I was, I've been" (suppletive first-person singular perfect active indicative of `esse`=lat-Latn)
+----> Western Romance
+-----> Spanish `fui`: "I was" (suppletive first-person singular preterite indicative form of both `ir` and `ser`)
 
 
--> Proto-Indo-European <*bʰewH->: "become" (full grade present)
+-> Proto-Indo-European <*bʰewHeti>: "become" (full grade imperfective)
 
---> Germanic <*beunã>: "to be, to become"
+--> Germanic <*beuną>: "to be, to become"
 ---> West Germanic
 ----> Old English `bēon`: "to be, become"
------> English `be` (`being`, `been`, `bist`, but not suppletive forms like `is`, `was`) 
+-----> English `be` (and `being`=eng-Latn, `been`=eng-Latn, `bist`=eng-Latn, but not suppletive forms like `is`=eng-Latn, `was`=eng-Latn) 
 ----> Old High German `bim`: "am"
------> German `bin`: "am" (and other suppletive forms of `sein` "to be")
+-----> German `bin`: "am" (and other suppletive forms of `sein`=eng-Latn: "to be")
 
 --> Indo-Iranian <*bʰávati>
 ---> Indo-Aryan
@@ -87,10 +152,11 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 ------> Hindi `होना` <honā>: "be, exist"
 ---> Iranian
 ----> Avestan `𐬠𐬀𐬎𐬎𐬀𐬌𐬙𐬌` <bavaiti>
-----> Persian `بودن` <budan>: "be, exist"
+----> Western Iranian
+-----> Persian `بودن` <budan>: "be, exist"
 
 
--> Proto-Indo-European <*bʰuHyéti>: "be becoming, be growing, be appearing" (imperfective)
+-> Proto-Indo-European <*bʰuHyéti>: "be becoming, be growing, be appearing" (zero grade imperfective)
 
 --> Celtic <*buyeti>
 ---> Brythonic
@@ -103,20 +169,47 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 ----> Sanskrit `𑀪𑀽𑀢` <bhūt>: "ghost, spirit"
 
 --> Italic <*fuiō>
----> Latin `fīō`: "I become"
-----> Latin `fīat`: "let it be made" (third-person singular present active subjunctive of `fiō`)
+---> Latin `fieri`: "to become, to be made"
+----> Latin `fīat`: "let it be made" (third-person singular present active subjunctive of `fieri`=lat-Latn)
 -----> English `fiat`
 ---> Oscan `𐌚𐌉𐌉𐌄𐌕` <fiiet>: "are" (3rd pl)
 ---> Umbrian `𐌚𐌖𐌉𐌀` <fuia>: "is" (3rd sing)
 
 
--> Proto-Indo-European <*bʰúH-tis>: "being, existence"? (abstract noun from verb)
+-> Proto-Indo-European <*bʰúHros> (adjective)
+
+--> Germanic <*būraz>: "dweller, inhabitant"
+---> West Germanic
+----> Frankish <*būr>
+-----> Dutch `buur`
+-----> Dutch `boer` (eastern dialectic form)
+------> Afrikaans `boer`
+-------> English `Boer`
+----> Old High German `būr`
+-----> German `Bauer`
+
+
+--> Proto-Indo-European <*bʰúHrom> (de-adjectival)
+
+---> Germanic <būrą>: "room, dwelling"
+----> West Germanic
+-----> Old English
+------> English `bower`
+
+
+
+-> Proto-Indo-European <*bʰúHtis>: "being, existence?" (abstract noun from verb)
 
 --> Germanic <*būþiz>
----> Old Norse `búð`
-----> Icelandic `búð`: "shop, tent, camp"
-----> English `booth`
-----> German `Bude`: "kiosk, booth, shack"
+---> North Germanic
+----> Old Norse `búð`
+-----> Icelandic `búð`: "shop, tent, camp"
+-----> English `booth`
+-----> Scots `buith`: "booth"
+------> Scots `luckenbuiths`
+-------> Scots `Luckenbutihs`
+--------> English `Luckenbooth`
+-----> German `Bude`: "kiosk, booth, shack"
 
 --> Hellenic
 ---> Classical Greek `φῠτόν` <phutón>: "plant, tree, creature, descendant"
@@ -124,9 +217,20 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 ----> English `-phyte`
 
 
--> Proto-Indo-European <*bʰuH-tlom>: "dwelling"? (instrumentive: ~"thing for being in")
+-> Proto-Indo-European <*bʰuHtlom>: "dwelling?" (instrumentive: ~"thing for being in")
 
---> Germanic <*bōþlã>: "house, dwelling"
+--> Germanic <*bōþlą>: "house, dwelling"
+---> North Germanic
+----> Old Norse `ból`
+-----> Icelandic `ból`: "abode, home, farm"
+-----> Old Danish `byl`: "settlement"
+------> Old Danish `Nybylløv`: "New-Settlement (place name)" (with Scanian place name suffix `-løv`)
+-------> Swedish `(Östra) Nöbbelöv`
+--------> Swedish `Nobel`: "habitational surname"
+---------> English `Nobel Prize`
+---------> New Latin `nobelium` (after Alfred Nobel)
+----------> Translingual `No`
+----------> English `nobelium`
 ---> West Germanic
 ----> Frankish
 -----> Dutch `boedel`: "estate, collective property of a person" (not land)
@@ -134,9 +238,8 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 ------> English `kit and (ca)boodle`: a large collection of things
 ----> Old English `botl`
 -----> English `bottle`: "house, dwelling" (dialectic, unrelated to more common `bottle`)
----> Old Norse `ból`
-----> Icelandic `ból`: "abode, home, farm"
----> Germanic <*buþlijanã>: "build"
+
+---> Germanic <*buþlijaną>: "build"
 ----> West Germanic
 -----> Old English `byldan`: "build"
 ------> Old English `holbyldan`: "hole builder, builds-houses-in-holes, hobbit" (calque of Archaic Westron <kûd-dûkan>)
@@ -152,14 +255,14 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 ------> Russian `бы́дло` <býdlo>: "cattle (obsolete), rabble, sheeple"
 
 
--> Proto-Indo-European <*bʰewH-ko>
+-> Proto-Indo-European <*bʰewHkos>
 
 --> Armenian
 ---> Old Armenian `բոյս` <boys>: "plant, vegetation"
 ----> Armenian `բույս` <buys>: "plant"
 
 
--> Proto-Indo-European <*bʰewH-no>
+-> Proto-Indo-European <*bʰewHnos>
 
 --> Armenian
 ---> Old Armenian `բոյն` <boyn>: "nest"
@@ -167,22 +270,22 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 ----> Turkish `pin`: "chicken coop"
 
 
--> Proto-Indo-European <*bʰuH-lo->
+-> Proto-Indo-European <*bʰuHleH>
 
 --> Armenian
 ---> Old Armenian `բոյլ` <boyl>: "group, company, body, assembly"
 ----> Armenian `բույլ` <buyl>: "constellation (group of stars), pack, flock, cluster"
 
 --> Hellenic
----> Classical Greek `φῡλή` <phūlḗ>: "tribe, race, nation, set of things, gender"
-----> English `phylum`
+---> Classical Greek `φυλή` <phulḗ>: "tribe, race, nation, set of things, gender"
 ----> Coptic `ⲫⲩⲗⲏ` <phulē>: "tribe"
+----> English `phylum`
 
 
--> Proto-Indo-European <*bʰuH-s>
+-> Proto-Indo-European <*bʰuHs>
 
---> Italic
----> Latin `-bus`
+--> Italic <*βus>
+---> Italic <*proβus>
 ----> Latin `probus`: "good, noble" (pro-bus, "to be forward")
 -----> Latin `probō`: "approve, commend, test, demonstrate"
 ------> Western Romance
@@ -195,21 +298,30 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 --------> English `approve`
 ------> Latin `approbātiō`: "the act of approving"
 -------> English `approbation`
-----> Latin `superbus`: "proud, superior, arrogant, splendid, magnificent" (super-bus, "to be above")
+--?> Italic <*superiβus>
+---?> Latin `superbus`: "proud, superior, arrogant, splendid, magnificent" (super-bus, "to be above")
 -----> English `superb`
-----> Latin `tribus`: "one of the three tribes of Romans, a division of people, a tribe, the lower classes" (tri-bus, "to be a third")
+--?> Italic <*triβus>
+---?> Latin `tribus`: "one of the three tribes of Romans, a division of people, a tribe, the lower classes" (tri-bus, "to be a third")
 -----> English `tribe`
------> Latin `tribuō`: "grant, bestow, concede, allow"
-------> English `tribute`
-------> English `tributary`
-------> English `attribute`
-------> English `contribute`
-------> English `distribute`
-------> English `retribution`
-------> English `tribunal`
+-----> Latin `tribuere`: "grant, bestow, concede, allow"
+------> Latin `tributum`: "a thing granted, a thing paid, tribute, tax"
+-------> English `tribute`
+-------> Latin `tributarius`: "someone who pays, tributary"
+--------> English `tributary`
+-------> Latin `tribunal`
+--------> English `tribunal`
+-------> Latin `attribuere`
+--------> English `attribute`
+-------> Latin `contribuere`
+--------> English `contribute`
+-------> Latin `distribuere`
+--------> English `distribute`
+-------> Latin `retribuere`
+--------> English `retribution`
 
 
--> Proto-Indo-European <*swe-bʰuH->: "to be like self, people like me"
+-> Proto-Indo-European <*swe-bʰuH->: "to be self, people like myself"
 
 -?> Balto-Slavic
 --?> Slavic <*sьrbъ> <sirbu> (or from <*ser->, "to protect" via "ally")
@@ -238,7 +350,7 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 --> Italic
 ---> Osco-Umbrian
 ----> Sabine `Sabus`: "Sabine (ethnonym)"
------> Latin `Sabīnī`: "Sabines (ethnonym)"
+-----> Latin `Sabini`: "Sabines (ethnonym)"
 ------> English `Sabine`
 ------> Latin `Sabina`: "Sabine (personal name)" (originally an early cognomen/nickname)
 -------> English `Sabina`
@@ -248,3 +360,4 @@ Proto-Indo-European <*bʰuH->: "to become, grow, appear"
 
 
 endbody
+

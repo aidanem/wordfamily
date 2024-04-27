@@ -30,7 +30,7 @@ Dravidian <*ūr>: "village, settlement" {Dravidian}
 -----> Telugu `పావులూరి గణితము` <Pāvulūri Gaṇitamu>
 ------> English `Pavuluri Ganitamu`!
 
--> Dravidian <*ʋeɭ-ūr>: "place name: White-Town" (modern day Bēlūr, Karnāṭaka) {Dravidian}
+-> Dravidian <*ʋeɭ-ūr>»1: "place name: White-Town" (modern day Bēlūr, Karnāṭaka) {Dravidian}
 
 ?> Dravidian <*ūr-?>
 -?> Sumerian `𒋀𒀕𒆠` <Ur-im.KI>: "a place name (in southern Mesopotamia)" {Sumerian}
@@ -74,7 +74,7 @@ Dravidian <*ʋeɭ->: "white" {Dravidian, Colors}
 ---> Telugu `వెండి` <veṇḍi>: "silver"
 
 
--> Dravidian <*ʋeɭ-ūr>: "place name: White-Town" (modern day Bēlūr, Karnāṭaka)
+-> Dravidian <*ʋeɭ-ūr>»1: "place name: White-Town" (modern day Bēlūr, Karnāṭaka)
 --> Southern Dravidian
 ---> Kannada `ಬೇಲೂರು` <bēlūru>: "Belur"
 ----> Hindi `बेलूर` <belur>: "Belur"

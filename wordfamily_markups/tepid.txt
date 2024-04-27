@@ -6,7 +6,7 @@ startbody
 
 ? Unknown original source #
 
-?> Proto-Afro-Asiatic <*dp->: "heat, fire, steam" #
+?> Proto-Afro-Asiatic <*dVp->: "heat, fire, steam" #
 
 --> Chadic
 ---> Hausa `dafa`: "to cook"
@@ -26,7 +26,7 @@ startbody
 --> Georgian `თბილი` <tbili>: "warm"
 ---> Georgian `თბილისი` <Tbilisi>: "place name: Warm (place)" (after the local hot springs)
 ----> Russian `Тбили́си` <Tbilísi>
------> English `Tbilisi`
+-----> English `Tbilisi`!
 
 
 -> Proto-Indo-European <*tep->: "to be warm, be hot" #
@@ -47,7 +47,7 @@ startbody
 
 ---> Indo-Iranian
 ----> Indo-Aryan
------> Sanskrit `तपति` <tápati>: "to be hot, to heat up, to damage"
+-----> Sanskrit `𑀢𑀧𑀢𑀺` <tápati>: "to be hot, to heat up, to damage"
 
 
 --> Proto-Indo-European <*tpeh₁y-eti> (stative)
@@ -62,7 +62,7 @@ startbody
 -------> French `tiède`: "tepid"
 -------> Italian `tiepido`: "tepid, lukewarm, half-hearted"
 -------> Spanish `tibio`: "lukewarm"
-------> English `tepid`
+------> English `tepid`!
 
 
 --> Proto-Indo-European <*tpsḱ-éti> (inchoative)
@@ -94,14 +94,14 @@ startbody
 --> Proto-Indo-European <*tptó-s>: "heated"
 
 ---> Indo-Iranian <*taptá->
-----> Dardic
------> Kashmiri `تۆت` <tot>: "hot, warm, zealous"
 ----> Indo-Aryan
------> Sanskrit `तप्त` <taptá>
+-----> Sanskrit `𑀢𑀧𑁆𑀢` <taptá>
 ------> Pali `𑀢𑀢𑁆𑀢` <tatta>: "hot, heated, glowing"
 ------> Sauraseni `𑀢𑀢𑁆𑀢` <tatta>
--------> Madhya
+-------> Madhya Sauraseni
 --------> Hindi `तत्ता` <tattā>: "hot, warm, zealous, wrathful"
+-------> Northwestern Sauraseni
+--------> Kashmiri `تۆت` <tot>: "hot, warm, zealous"
 -------> Western Sauraseni
 --------> Romani `tato`
 
@@ -122,7 +122,7 @@ startbody
 
 ---> Indo-Iranian <*tápas>
 ----> Indo-Aryan
------> Sanskrit `तपस्` <tápas>: "heat, pain, mortification, penance"
+-----> Sanskrit `𑀢𑀧𑀲𑁆` <tápas>: "heat, pain, mortification, penance"
 ------> Old Gujarati `तापस` <tāpasa>: "ascetic"
 ------> Hindi `तापमापी` <tāpmāpī>: "thermometer"
 ----> Iranian <*tapah-> 
@@ -185,3 +185,4 @@ startnotes
 #### Attested words only allow reconstruction of the l-participle (resultative) of an otherwise unattested Slavic verb
 
 endnotes
+

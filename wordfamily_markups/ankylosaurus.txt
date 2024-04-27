@@ -10,6 +10,8 @@ Ankylosaurus! And as an unexpected bonus, I found Azhdarchid pterosaurs deep in 
 
 I include words here that are formally reconstructed to five different roots: 1) <*h₂enk->: "to curve, to bend, joint"; 2) <*h₂enǵʰ->: "to constrict, to tighten, narrow, distress"; 3) <*h₂egʰ->: "to be upset, to be afraid"; 4) <*h₂engʷʰ->: "snake, eel, water worm"; 5) <*h₃égʷʰ->: "snake, serpent, dragon". Looking at that list, it seems clear at least some of those are related to each other. It has also been compared to [wff-edge|<*h₂eḱ->: "sharp"].
 
+ETA: 
+
 
 endintro
 
@@ -108,12 +110,12 @@ startbody
 ------> Old Church Slavonic `ѫкоть` <ǫkotĭ>
 -----> Slavic <*pàǭkъ>: "spider" ("hook-leg")
 ------> East Slavic `паукъ` <paukŭ>: "spider"
--------> Russian `пау́к` <paúk>: "spider"
---------> Russian `Челове́к-пау́к` <Čelovék-paúk>: "Spider-man"
--------> Ukrainian `паву́к` <pavúk>: "spider"
+-------> Russian `паук` <pauk>: "spider"
+--------> Russian `Человек-паук` <Čelovek-pauk>: "Spider-man"
+-------> Ukrainian `павук` <pavuk>: "spider"
 ------> South Slavic
 -------> Old Church Slavonic `паѫкъ` <paǫkŭ>
--------> Serbo-Croatian `па̏ӯк` <pȁūk>: "spider"
+-------> Serbo-Croatian `паук` <pauk>: "spider"
 ------> West Slavic
 -------> Czech `pavouk`: "spider"
 -------> Polish `pająk`: "spider"
@@ -184,7 +186,7 @@ startbody
 ------> Classical Greek `ἀγκύλωσις` <ankúlōsis>: "stiffening of joints" (lit. "bent condition")
 -------> English `ankylosis`
 --------> English `ankylo-`: "bent, crooked, stiff, fused"
----------> Translingual `Ankylosaurus`!: "genus of ornithischian dinosaur" (refers to fusion of bones via `ankylosis`=eng-Latn, not directly to "crooked")
+---------> Translingual `Ankylosaurus`!: "genus of ornithischian dinosaur" {Dinosaurs} (refers to fusion of bones via `ankylosis`=eng-Latn, not directly to "crooked")
 
 
 ---> Indo-Iranian <*Hanguri->
@@ -203,7 +205,7 @@ startbody
 ------> Sardinian `àngolo`
 -----> Western Romance
 ------> French `angle`: "angle"
--------> English `angle`!
+-------> English `angle`»1!
 ------> Spanish `ángulo`: "angle"
 ------> Welsh `ongl`: "angle"
 -----> Latin `triangulus`: "three-cornered"
@@ -216,11 +218,11 @@ startbody
 --------> French `triangle`
 ---------> English `triangle`
 --------> Spanish `triángulo`: "triangle"
------> Latin `quādrangulus`: "four-cornered"
+-----> Latin `quādrangulus`»1: "four-cornered"
 ------> Latin `quadrangulum`: "quadrangle"
 -------> French `quadrangle`
 --------> English `quadrangle`
----------> English `quad`
+---------> English `quad`»1
 
 
 --> Proto-Indo-European <*h₂énkō> (noun)
@@ -241,7 +243,7 @@ startbody
 -------> Icelandic `öngull`: "hook, fishhook"
 -----> West Germanic
 ------> Old English `angol`
--------> English `angle`
+-------> English `angle`»2
 ------> Frankish <*angul>
 -------> Dutch `angel`: "stinger, fishhook, tang"
 --------> Dutch `voetangel`: "caltrop" (lit. "foot-stinger")
@@ -251,7 +253,7 @@ startbody
 --------> German `angeln`: "to angle, to fish"
 --------> German `Fußangel`: "caltrop"
 --------> German `Türangel`: "door hinge"
-----?> Germanic <*?>: "Angles/Anglia (Peninsula)" ##
+----?> Germanic <*?>»1: "Angles/Anglia (Peninsula)" ##
 ------> West Germanic
 -------> Old English `Engle`: "Angle"
 --------> Old English `Englisc`
@@ -291,12 +293,12 @@ startbody
 
 ---> Hellenic
 ----> Classical Greek `ἄγχω` <ánkhō>: "I compress, I choke, I pressure"
------> Classical Greek `κῠνάγχη` <kunánkhē>: "dog collar, sore throat, tonsilitis"
-------> Latin `cynanchē`: "tonsilitis"
--------> English `cynache`
--------> Medieval Latin `quinancia`
---------> Old French `quinencie`
----------> English `quinsy`
+-----> Classical Greek `κῠνάγχη` <kunánkhē>»1: "dog collar, sore throat, tonsilitis"
+------> Latin `cynanche`»1: "tonsilitis"
+-------> English `cynache`»1
+-------> Medieval Latin `quinancia`»1
+--------> Old French `quinencie`»1
+---------> English `quinsy`»1
 
 ---> Italic <*anɣō>
 ----> Latin `angō`: "I bind, I press together, I choke, I cause pain"
@@ -371,13 +373,13 @@ startbody
 -------> Dutch `angst`
 ------> Old High German `angist`
 -------> German `Angst`: "fear, fright, anxiety"
---------> English `angst`! ###
+--------> English `angst`»1! ###
 ------> Old Saxon <*angust>
 -------> Old Norse `angist`
 --------> Danish `angst`: "fear, apprehension, anxiety, angst"
----------> English `angst` ###
+---------> English `angst`»1 ###
 --------> Icelandic `angist`: "anguish"
----?> Germanic <*?>: "Angles/Anglia (Peninsula)" ##
+---?> Germanic <*?>»1: "Angles/Anglia (Peninsula)" ##
 
 
 ---> Indo-Iranian <*Hánĵʰuš>
@@ -453,7 +455,7 @@ startbody
 -?> Uralic <*aŋke>: "painfully constricted"
 
 
---> Proto-Indo-European <?>
+--> Proto-Indo-European <?>»1
 
 ---> Old Armenian `անձաւ` <anjaw>: "cave, den"
 ----> Armenian `անձավ` <anjav>: "cave"
@@ -471,7 +473,7 @@ startbody
 -----> East Germanic
 ------> Gothic `𐍉𐌲𐌰𐌽` <ōgan>: "to fear, to be afraid"
 
----> Proto-Indo-European <*h₂eh₂ogʰéy-eti>: "to scare" (causative)
+---> Proto-Indo-European <*h₂eh₂ogʰéyeti>: "to scare" (causative)
 
 ----> Germanic <*ōgijaną>
 -----> East Germanic
@@ -547,19 +549,19 @@ startbody
 
 --?> Proto-Indo-European <*h₂eg->: "guilt, penance?"
 
-----> Proto-Indo-European <*h₂éǵeti> (primary verb)
+----> Proto-Indo-European <*h₂égeti> (primary verb)
 
------> Germanic <*akaną>: "to ache"
+-----> Germanic <*akaną>»1: "to ache"
 ------> West Germanic
 -------> Old English `acan`: "to ache"
---------> English `ache` #
+--------> English `ache`»1 #
 
 ------> Germanic <*akiz>: "an ache"
 -------> West Germanic
 --------> Old English `eċe`: "ache"
----------> English `ache` #
+---------> English `ache`»1 #
 
-----> Proto-Indo-European <*h₂éǵos> (action/result noun)
+----> Proto-Indo-European <*h₂égos> (action/result noun)
 
 -----> Hellenic
 -----?> Classical Greek `ἄγος` <ágos>: "awe, reverence, curse, guilt, penance"
@@ -772,13 +774,11 @@ startnotes
 ### English `angst`=eng-Latn is adopted in the 19th C via Freud's German and Kierkegaard's Danish.
 
 
-#### Armenian `անձուկ`=hye-Latn <anjuk> is a homonym pair: on the one hand "narrow, constrained, wish" (cognate to `angst` and `anguish`) and on the other hand <an->+<juk>: "fishless" (equivalent to a Greek formation of "an-icthyan"). I wish for fish.
+#### There are a pair of Armenian homonyms: `անձուկ`=hye-Latn <anjuk>; on the one hand "narrow, constrained, wish" (cognate to `angst`=eng-Latn and `anguish`=eng-Latn) and on the other hand <an->+<juk>: "fishless" (equivalent to a Greek formation of "an-icthyan"). I wish for fish.
 
-##### The general guess is that French `ogre`=fra-Latn is from Italian `orco` (with metathesis), from Latin `Orcus`=lat-Latn, god of the underworld. The related flesh-eating monsters `orc`=eng-Latn and `orca`=eng-Latn almost certainly are from `Orcus`=lat-Latn. But since the French `ogre`=fra-Latn is first attested only in 1697 in Perrault's fairy tales, and is apparently a literary invention, it seems worth asking whether it could instead be related to nearly Old Norse `œgr`=non-Latn: "terrifying" or `œgir`=non-Latn: "terrifier".
+##### The general guess is that French `ogre`=fra-Latn is from Italian `orco`=ita-Latn (with metathesis), from Latin `Orcus`=lat-Latn, god of the underworld. The related flesh-eating monsters `orc`=eng-Latn and `orca`=eng-Latn almost certainly are from `Orcus`=lat-Latn. But since the French `ogre`=fra-Latn is first attested only in 1697 in Perrault's fairy tales, and is apparently a literary invention, it seems worth asking whether it could instead be related to nearly Old Norse `œgr`=non-Latn: "terrifying" or `œgir`=non-Latn: "terrifier".
 
 
 
 endnotes
-
-
 

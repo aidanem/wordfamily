@@ -14,7 +14,12 @@ English `yes-ter-day`
 
 "The day that’s the other day"
 
-Germanic <*dagaz> is often explained as being from <*dʰegʷʰ->: "to burn", but the loss of labialization would be irregular, and the semantic connection is questionable. But if you take the idea that <*dʰǵʰes->: "yesterday" (widely attested) is the zero-grade of a mostly unattested <*dʰeǵʰ-es->, then there would be an expected o-grade <*dʰogʰ-es>, which is a perfect fit for Germanic <*dagaz>. (I'm working from the van den Oever/Kloekhorst/Klimp theory of <*dagaz>.)
+Germanic <*dagaz> is often explained as being from <*dʰegʷʰ->: "to burn", but the loss of labialization would be irregular, and the semantic connection is questionable.
+
+But if you assume that <*dʰǵʰes->: "yesterday" (widely attested) is the zero-grade of a mostly unattested <*dʰeǵʰ-es->, then the expected o-grade <*dʰogʰ-es>, which is a perfect fit for Germanic <*dagaz>.
+
+(I'm working from the van den Oever/Kloekhorst/Klimp theory of <*dagaz>.)
+
 
 endintro
 
@@ -64,7 +69,21 @@ Proto-Indo-European <*dʰeǵʰ->: "day?, repeat?"
 ------> Yiddish `טאָג` <tog>: "day"
 ----> English `dagaz`: "the rune ᛞ"
 
+----> Germanic <*hinō dagō>: "on this day, today"
+-----> West Germanic <*hiu dagu>
+------> Old English `hēodæġ`: "on this day, today"
+------> Frankish <*hiudo>
+-------> Dutch `heden`: "the present, presently, today"
+-------> Frankish <*hiudīg>: "presently, of today"
+--------> Dutch `huidig`: "current, present"
+------> Old High German `hiutu`
+-------> German `heute`: "today"
+
 ----> Germanic <*gesteradagaz>: "yesterday" (see below)
+
+
+
+
 
 
 
@@ -167,19 +186,20 @@ Proto-Indo-European <*dʰeǵʰ->: "day?, repeat?"
 -------> Danish `i går`: "yesterday"
 -------> Icelandic `í gær`: "yesterday, last night"
 ----> West Germanic
-----?> Old English `ġeāra`: "long ago" ##
-------> English `yore` ##
+----?> Old English `ġeāra`: "long ago"
+------> English `yore`
 
 ---> Indo-Iranian <*ȷ́ʰyás>
 ----> Indo-Aryan <*źʰyás>
 -----> Sanskrit `𑀳𑁆𑀬𑀲𑁆` <hyás>: "yesterday"
 ------> Elu
 -------> Sinhala `ඊයේ` <īyē>: "yesterday"
-------> Pali <hiyyō>
+------> Pali `𑀳𑀺𑀬𑁆𑀬𑁄` <hiyyō>
 ------> Sauraseni `𑀳𑀺𑀚𑁆𑀚𑁄` <hijjo>
--------> Nepali `हिजो` <hijo
-------> Western Indo-Aryan
--------> Romani `idž`: "yesterday"
+-------> Pahari
+--------> Nepali `हिजो` <hijo
+-------> Western Sauraseni
+--------> Romani `idž`: "yesterday"
 ----> Iranian <*ȷ́yáh>
 -----> Avestan `𐬰𐬫𐬋` <zyō>
 -----> Western Iranian
@@ -197,14 +217,3 @@ Proto-Indo-European <*dʰeǵʰ->: "day?, repeat?"
 
 endbody
 
-
-
-
-startnotes
-
-
-
-
-## Old English merges Germanic <*je-> and <*ge- > both to `ġe-`. Most likely the Old English "ġeāra" represents Germanic <*je->, and "yore" is connected "year" (https://www.aidanem.com/word-family-year.htm). But if it represents Germanic <*ge->, then it strongly resembles Old Norse "gær": "yesterday". Either options is semantically plausible.
-
-endnotes

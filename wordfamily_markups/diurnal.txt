@@ -46,7 +46,7 @@ Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
 --> Celtic <*dīyos>: "day"
 ---> Brythonic <*dið>
 ----> Welsh `dydd`: "day"
----> Old Irish `día`: "day"
+---> Old Irish `día`»1: "day"
 ----> Irish `día`: "day (archaic)"
 ---> Celtic <*dīyūi>: "on (this) day, of the day"
 ----> Old Irish
@@ -57,11 +57,15 @@ Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
 
 --> Hellenic <*dzeus>
 ---> Mycenaean Greek `𐀇𐀺` <di-wo>: "Zeus"
----> Classical Greek `Ζεύς` <Zeús>: "Zeus"
+---> Classical Greek `Ζεύς` <Zeús>: "Zeus" (acc. `Δία`=grc-Grek <Día>)
+----> Greek `Ζευς` <Zefs>: "Jupiter, Zeus"
+----> Greek `Δίας` <Dias>: "Jupiter, Zeus" (from acc.)
 ----> English `Zeus`
-----> Classical Greek `Δῐός` <Diós>: "Zeus's" (genitive)
------> Classical Greek `Δῐόσκουροι` <Dióskouroi>: "The Twins, Castor and Pollux" (lit. "Zeus's Boys")
-------> Latin `Dioscūrī`
+----> Lydian `𐤩𐤤𐤥𐤮` <lewś>
+----> Messapic `𐌆𐌉𐌑` <zis>
+----> Classical Greek `Διός` <Diós>: "Zeus's" (genitive)
+-----> Classical Greek `Διόσκουροι` <Dióskouroi>»1: "The Twins, Castor and Pollux" (lit. "Zeus's Boys")
+------> Latin `Dioscuri`
 -------> English `Dioscuri`
 
 
@@ -74,7 +78,7 @@ Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
 
 --> Italic <*djous>: "day, sky, Jupiter"
 ---> Italic <*djēm> (accusative)
-----> Latin `diēs`: "day" (back-formed from accusative)
+----> Latin `dies`: "day" (back-formed from accusative)
 -----> Central Romance
 ------> Italian `dì`: "day (archaic)"
 -----> Insular Romance
@@ -83,7 +87,7 @@ Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
 -----> Eastern Romance
 ------> Romanian `zi`: "day"
 -----> Western Romance
-------> Old French `di`: "day"¹
+------> Old French `di`: "day"
 -------> French `-di`
 ------> Spanish `día`: "day"
 -----> Latin `hōc diē`: "this day, today"
@@ -96,21 +100,21 @@ Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
 ---------> Campidanese `oi`: "today"
 -------> Western Romance
 --------> Old French `hui`
----------> French `aujourd'hui`: "today"
+---------> French `aujourd'hui`»2: "today"
 ---------> French `méshui`: "today, now, from now on"
 --------> Spanish `hoy`: "today"
 
------> Latin `diēs Sōlis`: "Sun's day, Sunday"
------> Latin `diēs Lūnae`: "Moon's day, Monday"
------> Latin `diēs Mārtis`: "Mars's day, Tuesday"
------> Latin `diēs Mercuriī`: "Mercury's day, Wednesday"
------> Latin `diēs Iovis`: "Jupiter's day, Thursday"
------> Latin `diēs Veneris`: "Venus's day, Friday"
------> Latin `diēs Saturnī`: "Saturn's day, Saturday"
+-----> Latin `dies Solis`: "Sun's day, Sunday"
+-----> Latin `dies Lunae`: "Moon's day, Monday"
+-----> Latin `dies Martis`: "Mars's day, Tuesday"
+-----> Latin `dies Mercurii`: "Mercury's day, Wednesday"
+-----> Latin `dies Iovis`»1: "Jupiter's day, Thursday"
+-----> Latin `dies Veneris`: "Venus's day, Friday"
+-----> Latin `dies Saturni`: "Saturn's day, Saturday"
 
 ---> Italic <*djowes>: (genitive)
 ----> Latin `Iovis`: "of Jupiter (genitive)"
------> Latin `diēs Iovis`: "Jupiter's day, Thursday"
+-----> Latin `dies Iovis`»1: "Jupiter's day, Thursday"
 ------> Central Romance
 -------> Italian `giovedì`: "Thursday"
 ------> Eastern Romance
@@ -132,7 +136,7 @@ Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
 ------> Italian `giorno`: "day"
 -----> Western Romance
 ------> French `jour`: "day"
--------> French `aujourd'hui`: "today"
+-------> French `aujourd'hui`»2: "today"
 -----> French `diurne`: "diurnal"
 ------> Romanian `diurn`: "diurnal"
 -----> Spanish `diurno`: "diurnal"
@@ -245,7 +249,9 @@ Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
 ---> Celtic <*dēwos>: "god"
 ----> Brythonic <*duɨw>: "god"
 -----> Welsh `duw`: "god"
-----> Old Irish `día`: "god" (phonologically recollapsed with "day")
+----> Hispano-Celtic
+-----> Gallaecian `Deuori` (divine name, possibly <*dēwo-rīxs>: "God-King")
+----> Old Irish `día`»2: "god" (phonologically recollapsed with "day")
 -----> Irish `dia`: "god"
 
 
@@ -329,8 +335,17 @@ Proto-Indo-European <*dyew->: "to be bright, sky, heaven"
 -------> Italian `divino`: "divine, heavenly"
 ------> Western Romance
 -------> French `divin`: "divine"
---------> English `divine`
+--------> English `divine`»1
 -------> Spanish `divino`: "divine, heavenly"
+------> Welsh `dewin`: "diviner, magician, wizard"
+------> Latin `divinare`: "to prophesy, to divine"
+-------> Central Romance
+--------> Italian `divinare`
+-------> Western Romance
+--------> Old French
+---------> French `deviner`
+---------> English `divine`»2
+--------> Spanish `divinar`
 
 
 ---> Proto-Indo-European <*dey-> (reinterpreted root)

@@ -4,21 +4,21 @@ tags: Divinites, Colors
 
 startbody
 
-Proto-Indo-European <*bʰel->: "to shine"
+Proto-Indo-European <*bʰel->»1: "to shine"
 
 
 -> Proto-Indo-European <*bʰoltós>
 
 --> Balto-Slavic
 ---> Lithuanian `báltas`: "white"
---?> Latin `Balthae`  #
+--?> Latin `Balthae`»1  #
 ----> Medieval Latin `Balticus`
 -----> English `Baltic`
 
 -?> Illyrian <balta>: "swamp" ###
 --?> Albanian `baltë`: "mud"
 --?> Balto-Slavic <*balta>
----?> Latin `Balthae`  #
+---?> Latin `Balthae`»1  #
 ----> Slavic <*bolto>: "swamp, mud"
 -----> East Slavic `болото` <boloto>
 ------> Russian `боло́то` <bolóto>: "bog, swamp, quagmire, marsh"
@@ -46,17 +46,17 @@ Proto-Indo-European <*bʰel->: "to shine"
 ----> Old Norse `blár`: "blue"
 -----> Danish `blå`: "blue"
 -----> Icelandic `blár`: "blue"
------> Scots `blae`: "blue"
+-----> Scots `blae`»1: "blue"
 ---> West Germanic
 ----> Old English `blāw`
------> English `blue`
------> Scots `blae`
+-----> English `blue`»1
+-----> Scots `blae`»1: "blue"
 ----> Frankish
 -----> Dutch `blauw`: "blue, bruised, drunk"
 ------> Afrikaans `blou`: "blue"
 -----> Old French `blew`
 ------> French `bleu`
-------> English `blue`
+------> English `blue`»1
 ------> Greek `μπλε` <ble>
 ------> Italian `blu`: "blue"
 ----> Old High German `blāo`: "blue"
@@ -76,7 +76,7 @@ Proto-Indo-European <*bʰel->: "to shine"
 --> Celtic <*belo>: "shining"
 ---> Brythonic <*bel>
 ----> Brythonic <*bel-?>: "shining land?"
------> Ancient Greek `Βελέριον`: "Cornwall"
+-----> Classical Greek `Βελέριον`: "Cornwall"
 
 ---> Celtic <*belo-tanos>: "shining-fire"
 ----> Old Irish `Beltaine`
@@ -87,11 +87,13 @@ Proto-Indo-European <*bʰel->: "to shine"
 ---> Gaulish `Belenos`: "divinity of the Sun"
 ---> Brythonic <*Belinos>
 ----> Medieval Latin <Belinus>
----?> Brythonic <*Cunobelinos>: "personal name, Hound of Belinos"
------> Latin `Cunobelinus`
------> Old Welsh
-------> English `Cymbeline`
-------> Welsh `Cynfelyn`
+
+---?> Celtic <*Kunobelenos>»1: "Hound (Champion) of Belenos?, Hound-Strong?" (personal name)
+-----> Brythonic <*Cunobelinos>»1
+------> Welsh `Cynfelyn`»1
+------> Latin `Cunobelinus`»1
+------> Medieval Latin `Kimbelinus`»1
+-------> English `Cymbeline`»1
 
 
 -> Proto-Indo-European <*bʰolo-s?>
@@ -116,7 +118,7 @@ Proto-Indo-European <*bʰel->: "to shine"
 ----> Sanskrit `भाल` <bhāla>: "splendor, lustre, forehead, brow"
 
 --> Hellenic
----> Ancient Greek `φᾰλός` <phalós>: "white"
+---> Classical Greek `φᾰλός` <phalós>: "white"
 
 -> Proto-Indo-European <*bʰelō>
 
@@ -179,10 +181,10 @@ Proto-Indo-European <*bʰel->: "to shine"
 --> Proto-Indo-European <*bʰélg-eti>
 
 ---> Hellenic
-----> Ancient Greek `φλέγω` <phlégō>: "I set on fire, I scorch, I kindle, I inflame"
------> Ancient Greek `φλέγμᾰ` <phlégma>: "flame, heat, inflammation, phlegm"
-------> Arabic `بَلْغَم` <balḡam>: "phlegm, sputum"
--------> Ottoman Turkish `بالغام` <balgam>
+----> Classical Greek `φλέγω` <phlégō>: "I set on fire, I scorch, I kindle, I inflame"
+-----> Classical Greek `φλέγμᾰ` <phlégma>: "flame, heat, inflammation, phlegm"
+------> Arabic `بَلْغَم‎` <balḡam>: "phlegm, sputum"
+-------> Ottoman Turkish `بالغام‎` <balgam>
 --------> Turkish `balgam`
 ------> Latin `phlegma`
 -------> Western Romance
@@ -192,6 +194,9 @@ Proto-Indo-European <*bʰel->: "to shine"
 --------> Italian `flemma`: "phlegm"
 ---------> French `flemme`: "laziness"
 --------> Spanish `flema`: "phlegm"
+-----> Classical Greek `φλογιστός` <phlogistós>: "burnt up, flammable"
+------> New Latin `phlogiston`
+-------> English `phlogiston`
 
 
 --> Proto-Indo-European <*bʰélgey-eti>
@@ -223,11 +228,16 @@ Proto-Indo-European <*bʰel->: "to shine"
 
 ---> Italic <*flagma>
 ----> Latin `flamma`
+-----> Central Romance
+------> Italian `fiamma`: "flame, pennant, flash"
 -----> Western Romance
 ------> Old French `flame`
 -------> French `flamme`
 -------> English `flame`
-------> Italian `fiamma`: "flame, pennant, flash"
+------> Old Occitan `flama`
+-------> Old Occitan `flamenc`: "flaming"
+--------> Spanish `flamengo`
+---------> English `flamengo`
 ------> Spanish `llama`: "flame"
 
 
@@ -250,7 +260,7 @@ Proto-Indo-European <*bʰel->: "to shine"
 -------> West Germanic
 --------> Old English `blīccettan`
 --------> Old High German `blekkezzen`
----------> German `blitzen`: "to lightn, to flash"
+---------> German `blitzen`: "to lighten, to flash"
 ----------> German `Blitz`: "lightning, flash"
 -----------> German `Blitzkrieg`: "blitzkrieg" (lit. "Lightning-War")
 ------------> English `blitzkrieg`
@@ -269,17 +279,17 @@ Proto-Indo-European <*bʰel->: "to shine"
 --------> German `blinken`: "to blink"
 ------> Germanic <*blankaz>: "bright, shining, white"
 -------> North Germanic
---------> Old Norse `blakkr`
+--------> Old Norse `blakkr`»1
 ---------> Norwegian `blakk`: "faded, pale yellow or brown, muddy, bankrupt"
 -------> West Germanic
 --------> Old English `blanc`: "white, greyish-white, pallid"
----------> English `blank`
+---------> English `blank`»1
 --------> Frankish <*blank>
 ---------> Dutch `blank`: "white, pale"
 ---------> Western Romance <*blancus>
 ----------> Old French `blanc`
 -----------> French `blanc`: "white, blank"
------------> English `blank`
+-----------> English `blank`»1
 ----------> Italian `bianco`: "white, blank, linen"
 ----------> Spanish `blanco`: "white"
 --------> Old High German `blank`
@@ -308,7 +318,7 @@ Proto-Indo-European <*bʰel->: "to shine"
 --------> German `bleich`: "pale, pallid"
 --------> Lombardic
 ---------> Italian `biacca`: "white lead, ceruse"
---------> Yiddish `בלייך` <bleykh>: "pale"
+--------> Yiddish `בלייך`‎ <bleykh>: "pale"
 ------> Germanic <*blaikijaną>: "to bleach, to whiten"
 -------> North Germanic
 --------> Old Norse `bleikja`
@@ -340,7 +350,7 @@ Proto-Indo-European <*bʰel->: "to shine"
 
 -----> Germanic <*blakaz>: "burnt, black"
 ------> North Germanic
--------> Old Norse `blakkr`: "dusky, black"
+-------> Old Norse `blakkr`»2: "dusky, black"
 ------> West Germanic
 -------> Old English `blæc`: "black, ink"
 --------> English `black`
@@ -355,20 +365,20 @@ endbody
 
 startnotes
 
-# Two of several possible origins for `Balthae` (`Baltic`) are in this family, Baltic words for "white" and "swamp"
+# Two of several possible origins for `Balthae`=lat-Latn (`Baltic`=eng-Latn) are in this family: the Baltic words for "white" and "swamp".
 
 ##  The Eurasian coot (and some other coot spp.) has a white patch on its forehead contrasting with its otherwise solid black feathers. Thus also, "bald as a coot".
 
 
 
 
-### The semantic connection between "white" and "swamp" is thought to be the reflective water, or possibly the white seed heads of cottonsedge common in marshes throughout the Northern Hemisphere. https://commons.wikimedia.org/wiki/File:Pilane_%C3%A4ngsull.JPG
+### The semantic connection between "white" and "swamp" is thought to be the reflective water, or possibly the white seed heads of cottonsedge common in marshes throughout the Northern Hemisphere. 
 
-Lithuanian `balà`: "swamp, mire, morass" is almost certainly an independent derivation of "swamp" from "white". The other Balto-Slavic swamp words may also be independent of the Illyrian, or may not.
+Lithuanian `balà`=lit-Latn: "swamp, mire, morass" is almost certainly an independent derivation of "swamp" from "white". The other Balto-Slavic swamp words may also be independent of the Illyrian, or may not.
 
-The Greek, Latin and Romanian words cannot develop natively from <*bʰel-> in Hellenic and Italic, which would cause them to start with ph/f instead of b/v. They must be borrowings from other branches, either late Illyrian or very early Slavic borrowings (or from Illyrian via otherwise unattested Balkan languages). Romanian `baltă` is also unlikely to derive directly from Latin `blattea`.
+The Greek, Latin and Romanian words cannot develop natively from <*bʰel-> in Hellenic and Italic, which would cause them to start with ph/f instead of b/v. They must be borrowings from other branches, either late Illyrian or very early Slavic borrowings (or from Illyrian via otherwise unattested Balkan languages). Romanian `baltă` is also unlikely to derive directly from Latin `blattea`=lat-Latn.
 
-Tyrian purple was associated with blod clots, probably because the most valued shade was a dark blood-clot color, or possibly the harvesting of the murex snails' hypobranchial gland was blood-clot like. Murex snails seem to have been included in the "mucky bugs" meaning of `blatta`?
+Tyrian purple was associated with blod clots, probably because the most valued shade was a dark blood-clot color, or possibly the harvesting of the murex snails' hypobranchial gland was blood-clot like. Murex snails seem to have been included in the "mucky bugs" meaning of `blatta`=lat-Latn?
 
 
 

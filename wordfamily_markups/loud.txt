@@ -5,7 +5,7 @@ tags: Divinities, Elements
 
 startintro
 
-There is also <*ḱel-> and <*ḱley-> meaning "to shelter, to cover" /word-family-hall.html . It's easy to imagine that "lean" and "cover" could be related.
+The connection between <*ḱel->: "to lean" and <*ḱlew->: "to hear" is explicit in derivation of Latin `auscultō` "I listen, I hear, I heed, I obey" (English: "scout"), which is derived from <*heus>: "ear" +  <*ḱel->: "to lean": "To lean an ear".
 
 endintro
 
@@ -18,13 +18,14 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 
 --> Italic <*auskultā>
 ---> Latin `auscultō`: "I listen, I hear, I heed, I obey"
+----> Central Romance
+-----> Italian `ascoltare`: "to listen"
 ----> Eastern Romance
 -----> Romanian `a asculta`: "to listen, to hear"
 ----> Western Romance
 -----> Old French `escouter`: "to listen"
 ------> French `écouter`: "to listen"
 ------> English `scout`
------> Italian `ascoltare`: "to listen"
 -----> Spanish `escuchar`: "to listen"
 
 
@@ -129,7 +130,7 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 
 ---> Italic <*kl(e)inō>
 ----> Latin <*clīno> (effectively unattested in bare form)
------> Western Romance
+-----> Central Romance
 ------> Italian `chinare`: "to bend, to bow, to lean"
 -----> Latin `clīnātus`: "inclined, leaning"
 -----> Latin `clēmēns`: "merciful, gentle, peaceful, compliant"
@@ -168,23 +169,28 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 --> Proto-Indo-European <*ḱlinyéti>: "leans"
 
 ---> Hellenic <*klinō>
-----> Ancient Greek `κλῑ́νω` <klī́nō>
------> Ancient Greek `κλῐ́μᾰ` <klíma>: "slope, inclination, latitude, clime"
+----> Classical Greek `κλῑ́νω` <klī́nō>: "I lean, I slant, I seat, I decline"
+-----> Classical Greek `κλῑ́νη` <klī́nē>: "bed, couch"
+------> Greek `κλίνη` <klíni>: "bed"
+------> Classical Greek `κλῑνῐκός` <klīnikós>: "pertaining to a bed, bedridden, physician"
+-------> Latin `clīnicus`
+--------> French `clinique`
+---------> English `clinic`
+-----> Classical Greek `κλῐ́μᾰ` <klíma>: "slope, inclination, latitude, clime"
 ------> Greek `κλίμα` <klíma>: "climate, atmosphere, mood, see"
 ------> Arabic `إِقْلِيم` <ʾiqlīm>: "region, climate, territory"
 -------> Hebrew `אַקְלִים` <aklím>: "climate, environment"
 -------> Persian `اقلیم` <eqlim>: "climate"
 -------> Turkish `iklim`: "climate"
-------> Aramaic
--------> Classical Syriac `ܩܠܝܡܐ` <qəlīmā>: "clime, region, land"
+------> Classical Syriac `ܩܠܝܡܐ` <qəlīmā>: "clime, region, land"
 ------> Latin `clima`: "slope, inclination, climate, region"
 -------> French `climat`
 --------> English `climate`
 -------> English `clime`
------> Ancient Greek `κλῖμᾰξ` <klîmax>: "ladder, staircase, rhetorical climax"
+-----> Classical Greek `κλῖμᾰξ` <klîmax>: "ladder, staircase, rhetorical climax"
 ------> Latin `clīmax`
 -------> English `climax`
------> Ancient Greek `κλιτικός` <klitikós>: "inflectional"
+-----> Classical Greek `κλιτικός` <klitikós>: "inflectional"
 ------> English `clitic`
 
 --> Proto-Indo-European <*ḱlinéh₁ti>: "is leaning" (stative)
@@ -234,12 +240,12 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 -----> Lithuanian `pašiltas`: "crooked, bent"
 
 ---> Hellenic
-----> Ancient Greek `ἄκλῐτος` <áklitos>: "indeclinable"
+----> Classical Greek `ἄκλῐτος` <áklitos>: "indeclinable"
 -----> Greek `άκλιτος` <áklitos>: "uninflected, invariable"
 
 ---> Indo-Iranian <*ćritás>
 ----> Indo-Aryan
------> Sanskrit `श्रित` <śritá>: "leaning against, attached to, subordinate to, contained in"
+-----> Sanskrit `𑀰𑁆𑀭𑀺𑀢` <śritá>: "leaning against, attached to, subordinate to, contained in"
 ----> Iranian
 -----> Avestan `𐬯𐬭𐬌𐬙𐬀` <srita>: "leaned"
 
@@ -298,7 +304,7 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 
 ---> Indo-Iranian <*Háćrawt>
 ----> Indo-Aryan
------> Sanskrit `अश्रोत्` <áśrot>: "heard, listened"
+-----> Sanskrit `𑀅𑀰𑁆𑀭𑁄𑀢𑁆` <áśrot>: "heard, listened"
 ----> Iranian
 -----> Avestan `𐬯𐬭𐬀𐬊𐬙𐬏‎` <sraotū>: "listen, attend, concentrate"
 
@@ -306,13 +312,13 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 --> Proto-Indo-European <*ḱluyéti>
 
 ---> Hellenic
-----> Ancient Greek `κλύω` <klúo>: "I hear"
+----> Classical Greek `κλύω` <klúo>: "I hear"
 
 
 --> Proto-Indo-European <*ḱléwyeti>: "hears of" (transitive imperfective)
 
 ---> Hellenic <*kleyyō>
-----> Ancient Greek `κλέω` <kléō>: "I tell of, I make heard, I make famous, I celebrate"
+----> Classical Greek `κλέω` <kléō>: "I tell of, I make heard, I make famous, I celebrate"
 
 
 --> Proto-Indo-European <*ḱl̥néwti>
@@ -323,7 +329,7 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 
 ---> Indo-Iranian <*ćr̥náwti>: "listens, hears"
 ----> Indo-Aryan
------> Sanskrit `शृणोति` <śṛṇóti>: "listens, hears"
+-----> Sanskrit `𑀰𑀾𑀡𑁄𑀢𑀺` <śṛṇóti>: "listens, hears"
 ------> Magadhi `𑀰𑀼𑀡𑁂𑀤𑀺` <śuṇedi>
 -------> Bengali `শোনা` <shona>: "to hear, to listen"
 ------> Pali <suṇāti>: "to hear"
@@ -332,8 +338,8 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 --------> Hindi `सुनना` <sunnā>: "to listen, to hear, to endure"
 -------> Pahari
 --------> Punjabi `ਸੁਣਨਾ` <suṇnā>
-------> West Indo-Aryan
--------> Romani <šunel>: "hears"
+-------> Western Sauraseni
+--------> Romani `šunel`: "hears"
 ----> Iranian
 -----> Avestan `𐬯𐬎𐬭𐬎𐬥𐬀𐬊𐬌𐬙𐬌` <surunaoiti>: "hears"
 -----> Western Iranian
@@ -356,23 +362,24 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 -----> Avestan `𐬯𐬭𐬎𐬌𐬌𐬉` <sruiiē>: "I am heard"
 
 ---> Italic <*kluēō>
-----> Latin `clueō`: "I am called, I am reputed, I am named"
------> Latin `cluēns`: "reputing, naming" (active participle)
------?> Latin `cliēns`: "customer, follower, retainer, companion, client"
+----> Latin `cluere`: "I am called, I am reputed, I am named"
+-----> Latin `cluens`: "reputing, naming" (active participle)
+-----?> Latin `cliens`: "customer, follower, retainer, companion, client"
+-------> Central Romance
+--------> Italian `cliente`: "client"
 -------> Western Romance
 --------> French `client`: "client"
 ---------> English `client`
---------> Italian `cliente`: "client"
 --------> Spanish `cliente`: "client"
 
----> Messapic `ΚΛΑΟΗΙ` <klaohi>: "listen"
+---> Messapian `ΚΛΑΟΗΙ` <klaohi>: "listen"
 
 
 --> Proto-Indo-European <*ḱlowéyeti> (causative)
 
 ---> Indo-Iranian <*ćrāwáyati>
 ----> Indo-Aryan
------> Sanskrit `श्रावयति` <śrāváyati>: "makes heard, narrates, directs, sets in motion"
+-----> Sanskrit `𑀰𑁆𑀭𑀸𑀯𑀬𑀢𑀺` <śrāváyati>: "makes heard, narrates, directs, sets in motion"
 ----> Iranian
 -----> Avestan `𐬯𐬭𐬁𐬎𐬎𐬀𐬌𐬌𐬈𐬌𐬙𐬌` <srāuuaiieiti>: "recites?"
 
@@ -405,6 +412,8 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 -------> Old French
 --------> French `Louis`
 ---------> English `Louis`
+---------> French `Louisiane`: "Louisiana" (after Louis XIV)
+----------> English `Louisiana`
 --------> French `Clovis`
 ---------> English `Clovis`
 --------> English `Lewis`
@@ -443,7 +452,7 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 --------> Spanish `Lothario`
 ---------> English `lothario`
 -------> Frankish <*Hlotharing>: "belonging to Lothar"
---------> Latin `Lotharingia`: "Land belonging to Lothar"
+--------> Latin `Lotharingia`: "(place) belonging to Lothar"
 ---------> French `Lorraine`
 ----------> English `Lorraine`
 ---------> English `Lotharingia`
@@ -454,15 +463,15 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 
 
 ---> Hellenic <*klutós>
-----> Ancient Greek `κλῠτός` <klutós>: "renowned, splendid, famed, glorious"
------> Ancient Greek `δουρικλυτός` <douriklutós>: "famed for the spear" (Homeric epithet)
------> Ancient Greek `Κλυταιμνήστρᾱ` <Klutaimnḗstrā>: "Clytemnestra, Famous-Plotter"
-------> Latin `Clytaemnēstra`
+----> Classical Greek `κλῠτός` <klutós>: "renowned, splendid, famed, glorious"
+-----> Classical Greek `δουρικλυτός` <douriklutós>: "famed for the spear" (Homeric epithet)
+-----> Classical Greek `Κλυταιμνήστρᾱ` <Klutaimnḗstrā>: "Clytemnestra, Famous-Plotter"
+------> Latin `Clytaemnestra`
 -------> English `Clytemnestra`
 
 ---> Indo-Iranian <*ćrutás>
 ----> Indo-Aryan
------> Sanskrit `श्रुत` <śrutá>: "heard, learned (orally), famous, known as"
+-----> Sanskrit `𑀰𑁆𑀭𑀼𑀢` <śrutá>: "heard, learned (orally), famous, known as"
 ------> Pali <suta>: "learning, lore"
 -------> Burmese `သုတ` <suta>: "heard, learned, knowledge, leearning"
 
@@ -474,7 +483,7 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 --> Proto-Indo-European <*ḱlewetos>: "heard, known, famous"
 
 ---> Hellenic
-----> Ancient Greek `κλειτός` <kleitós>: "renowned, famous, excellent"
+----> Classical Greek `κλειτός` <kleitós>: "renowned, famous, excellent"
 
 
 
@@ -482,7 +491,7 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 
 ---> Balto-Slavic <*ślā́ˀwāˀ> (with unexpected larygneals)
 ----> East Baltic
------> Lithuanian `šlovė̃`: "fame, honor, halo"
+-----> Lithuanian `šlovė`: "fame, honor, halo"
 ----> Slavic <*slàva>: "glory, fame"
 -----> East Slavic `слава` <slava>
 ------> Russian `сла́ва` <sláva>: "glory, fame, reputation, rumor"
@@ -567,7 +576,7 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 ------> South Slavic
 -------> Old Church Slavonic `словѣне` <slověne>
 -------> Serbo-Croatian `Сло̀ве̄н` <Slòvēn>: "Slav"
--------> Byznatine Greek `Σλαβῆνος` <Slabênos>
+-------> Byzantine Greek `Σλαβῆνος` <Slabênos>
 --------> Byzantine Greek `Σκλᾰ́βος` <Sklábos>: "Slav"
 ---------> Greek `Σλάβος` <Slávos>: "Slav"
 ---------> Arabic `صَقَالِبَة‎` <ṣaqāliba>: "Slav"
@@ -581,7 +590,7 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 -----------> Spanish `eslavo`
 ----------> Medieval Latin `Sclavonia`
 -----------> English `Slavonia`
------------> Medeical Latin `Sclavonicus`
+-----------> Medieval Latin `Sclavonicus`
 ------------> English `Slavonic`
 
 ----------> Medieval Latin `sclavus`: "slave"
@@ -618,14 +627,14 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 
 ---> Hellenic <*kléwos>
 ----> Mycenaean Greek `𐀐𐀩𐀺` <ke-re-wo>
-----> Ancient Greek `κλέος` <kléos>: "fame, glory, rumor"
+----> Classical Greek `κλέος` <kléos>: "fame, glory, rumor"
 -----> Greek `κλέος` <kléos>: "fame, honor"
------> Ancient Greek `Κλειώ` <Kleiṓ>: "Clio, Divinity of History and Heroic Poetry"
+-----> Classical Greek `Κλειώ` <Kleiṓ>: "Clio, Divinity of History and Heroic Poetry"
 ------> English `Clio`
------> Ancient Greek `Κλέων` <Kléon>: "Glory (personal name)"
+-----> Classical Greek `Κλέων` <Kléon>: "Glory (personal name)"
 ------> Latin `Cleōn`
 -------> English `Cleon`
------> Ancient Greek `Κλεοπᾰ́τρᾱ` <Kleopátrā>: "Glory-of-Father (personal name)"
+-----> Classical Greek `Κλεοπᾰ́τρᾱ` <Kleopátrā>: "Glory-of-Father (personal name)"
 ------> Latin `Cleopatra`
 -------> English `Cleopatra`
 
@@ -647,31 +656,31 @@ Proto-Indo-European <*ḱel->: "to lean, to slope, to incline"
 --> Proto-Indo-European <*ḱlewēs>
 
 ---> Hellenic <*kléwēs>
-----> Ancient Greek `-κλῆς` <-klês>
------> Ancient Greek `Δῐοκλῆς` <Dioklês>: "Zeus-Fame (personal name)"
+----> Classical Greek `-κλῆς` <-klês>
+-----> Classical Greek `Δῐοκλῆς` <Dioklês>: "Zeus-Fame (personal name)"
 ------> Latin `Diocletianus`
 -------> English `Diocletian`
------> Ancient Greek `Δημοκλῆς` <Dēmoklês>: "People-Fame (personal name)"
+-----> Classical Greek `Δημοκλῆς` <Dēmoklês>: "People-Fame (personal name)"
 ------> English `Damocles`
------> Ancient Greek `Ἐμπεδοκλῆς` <Empedoklês>: "Enduring-Fame (personal name)"
+-----> Classical Greek `Ἐμπεδοκλῆς` <Empedoklês>: "Enduring-Fame (personal name)"
 ------> English `Empedocles`
------> Ancient Greek `Ἡρακλῆς` <Hēraklês>: "Hercules" ("Hera-Fame")
+-----> Classical Greek `Ἡρακλῆς` <Hēraklês>: "Hercules" ("Hera-Fame")
 ------> Etruscan `𐌇𐌄𐌓𐌂𐌋𐌄` <hercle>: "Hercules"
 -------> Latin `Herculēs`
 --------> English `Hercules`
-------> Ancient Greek `Ἡράκλειᾰ` <Hērákleia>: "Heraclea" (any of many places named after Hercules)
+------> Classical Greek `Ἡράκλειᾰ` <Hērákleia>: "Heraclea" (any of many places named after Hercules)
 -------> Latin `Hēraclēa`
 --------> English `Heraclea`
 -------> Turkish `Ereğli`
------> Ancient Greek `Θεμῐστοκλῆς` <Themistoklês>: "Oracular-Fame (personal name)"
+-----> Classical Greek `Θεμῐστοκλῆς` <Themistoklês>: "Oracular-Fame (personal name)"
 ------> English `Themistocles`
------> Ancient Greek `Πᾰ́τροκλος` <Pátroklos>: "Father-Fame (personal name)"
+-----> Classical Greek `Πᾰ́τροκλος` <Pátroklos>: "Father-Fame (personal name)"
 ------> English `Patroclus`
------> Ancient Greek `Περῐκλῆς` <Periklês>: "Very-Famous (personal name)"
+-----> Classical Greek `Περῐκλῆς` <Periklês>: "Very-Famous (personal name)"
 ------> English `Pericles`
------> Ancient Greek `Σοφοκλῆς` <Sophoklês>: "Wisdom-Fame (personal name)"
+-----> Classical Greek `Σοφοκλῆς` <Sophoklês>: "Wisdom-Fame (personal name)"
 ------> English `Sophocles`
------> Ancient Greek `Χᾰρῐκλῆς` <Khariklês>: "Grace-Fame (personal name)"
+-----> Classical Greek `Χᾰρῐκλῆς` <Khariklês>: "Grace-Fame (personal name)"
 ------> English `Charicles`
 
 
@@ -783,7 +792,7 @@ Icelandic `hljóð` keeps both meanings, Danish `lyd` only retains the "sound" m
 ## The origin of <*slověninъ>: "Slav" is disputed, but one of the main possibilities is a derivative of <*slȍvo>: "word", probably along the lines of "people who can speak (our language)". Compare the Slavic word for "foreigner", <*němьcь>, which literally means "mute, unable to speak (our language)"
 
 
-### `s-ciao vostro`: "your slave" was used as a valediction in Venetian. Compare "at your service" or "humbly yours". 
+### In the Venetian dialect, `s-ciao vostro`: "your slave" was used as a valediction. Compare "at your service" or "humbly yours". This was borrowed back into standard Italian to give us `ciao`.
 
 
 #### West Germanic <*kobeholdo>: "kobold, goblin" (German `Kobold`, Dutch `kabouter`) may be <*kubô> + <*hulþô>: "shed/cove/room/house?" + "friend", indicating a household spirit. The "friend" part may be euphemisitc.
@@ -795,5 +804,3 @@ The metal cobalt was called 'kobold ore' (`Kobalterz`) because coming across a v
 
 
 endnotes
-
-

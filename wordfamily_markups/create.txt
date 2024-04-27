@@ -31,7 +31,7 @@ Proto-Indo-European <*ḱer->: "to braid, to weave, a woven rope"
 --> Old Armenian `սարիմ` <sarim>: "to set up, to spin, to throw"
 ---> Armenian `սարել` <sarel>
 
--?> Proto-Indo-European <*ḱer(h₁)->: "to grow, to increase" (re-analyzed root extension?)
+-?> Proto-Indo-European <*ḱer(h₁)->»1: "to grow, to increase" (re-analyzed root extension?)
 
 
 -> Proto-Indo-European <*ḱr̥tus>: "spinning" (action noun)
@@ -66,7 +66,7 @@ Proto-Indo-European <*ḱer->: "to braid, to weave, a woven rope"
 -> Proto-Indo-European <*ḱr̥yos>
 
 --> Hellenic <*kəřřós>
----> Classical Greek `καῖρος` <kaîros>: "thrums, the ends of the warp threads attached to the loom"
+---> Classical Greek `καῖρος` <kaîros>: "tie-ups? thrums?" (some kind of thread attached to a loom)
 
 
 -> Proto-Indo-European <*ḱorkom?>
@@ -103,7 +103,7 @@ Proto-Indo-European <*ḱer->: "to braid, to weave, a woven rope"
 
 
 
-?> Proto-Indo-European <*ḱer(h₁)->: "to grow, to increase" (re-analyzed root extension?)
+?> Proto-Indo-European <*ḱer(h₁)->»1: "to grow, to increase" (re-analyzed root extension?)
 
 --> Proto-Indo-European <*ḱreh₁eh₂yéti>: "make grow" (transitive)
 
@@ -134,7 +134,7 @@ Proto-Indo-European <*ḱer->: "to braid, to weave, a woven rope"
 --> Proto-Indo-European <*ḱreh₁sḱéti>: "is growing" (iterative/continuative)
 
 ---> Italic <*krēskō>
-----> Latin `crēscere`: "I increase, I thrive, I become visible"
+----> Latin `crēscere`: "to increase, to thrive, to become visible"
 -----> Central Romance
 ------> Italian `crescere`: "to grow"
 -----> Eastern Romance
@@ -154,14 +154,14 @@ Proto-Indo-European <*ḱer->: "to braid, to weave, a woven rope"
 -------> Spanish `acrecer`: "to increase"
 ------> Latin `accrētiō`: "increment"
 -------> English `accretion`
-------> Latin `concrēscere`: "I thicken, condense, curdle, stiffen, congeal"
+------> Latin `concrēscere`: "to thicken, condense, curdle, stiffen, congeal"
 -------> Latin `concrētus`: "condensed, thick, hardened, solid" (past participle)
 --------> English `concrete` #
 -----> Latin `dēcrēscere`
 ------> Western Romance
 -------> French `décroître`: "to decrease"
 --------> English `decrease`
------> Latin `incrēscere`: "I grow in, I swell"
+-----> Latin `incrēscere`: "to grow in, to swell"
 ------> Central Romance
 -------> Italian `increscere`: "to regret"
 ------> Western Romance
@@ -172,8 +172,8 @@ Proto-Indo-European <*ḱer->: "to braid, to weave, a woven rope"
 -------> English `increment`
 -----> Latin `crēscēns`: "increasing, thriving, becoming visible" (active participle)
 ------> Central Romance
--------> Italian `crescente`: "growing, rising, waxing (moon)"
---------> Italian `crescente`: "sourdough"
+-------> Italian `crescente`»1: "growing, rising, waxing (moon)"
+--------> Italian `crescente`»2: "sourdough"
 ------> Western Romance
 -------> French `croissant`: "crescent, crescent moon, croissant"
 --------> English `crescent`
@@ -201,9 +201,8 @@ Proto-Indo-European <*ḱer->: "to braid, to weave, a woven rope"
 ----> Mycenaean Greek `𐀒𐀺` <ko-wo>: "boy, youth"
 ----> Classical Greek `κόρος` <kóros>: "boy, youth"
 -----> English `kouros`
------> Classical Greek `Δῐόσκουροι` <Dióskouroi>: "the Twins Castor and Pollux" (lit. "Zeus's Boys")
-------> Latin `Dioscūrī`
--------> English `Dioscuri`
+-----> Classical Greek `Διόσκουροι` <Dióskouroi>»1: "the Twins Castor and Pollux" (lit. "Zeus's Boys")
+
 
 --?> Proto-Indo-European <*kóryos> (must be *k not *ḱ)
 

@@ -1,189 +1,238 @@
 date: 20170303
 theme: March of Horses 🐎
-tags: Animals, Domestic Animals, Divinities
+tags: Animals, Domestic Animals, Divinities, Runes
 
 
 
 
 startbody
 
-Proto-Indo-European <*h₁eḱ->: "swift, fast" #
+
+Early Proto-Indo-European
+
+-> Proto-Indo-European <*h₁eḱ->: "swift, fast" #
 
 
--> Proto-Indo-European <*h₁oh₁ḱus> (a <*o-∅-us> reduplicative adjective form)
+--> Proto-Indo-European <*h₁oh₁ḱus> (a <*o-∅-us> reduplicative adjective form)
 
---> Hellenic
----> Ancient Greek `ὠκῠ́ς` <ōkús>: "fast, swift"
-----> Ancient Greek `ποδώκης` <podṓkēs>: "swift-footed"
-----> Ancient Greek `ὠκῠ́ροος` <ōkúroos>: "swift-flowing"
------> Ancient Greek `Ὠκυρόη` <Ōkuróē>: "Swift-Flowing (personal name), river divinity" #####
-------> Latin `Ocyroe` #####
+---> Hellenic
+----> Ancient Greek `ὠκῠ́ς` <ōkús>: "fast, swift"
+-----> Ancient Greek `ποδώκης` <podṓkēs>: "swift-footed"
+-----> Ancient Greek `ὠκῠ́ροος` <ōkúroos>: "swift-flowing"
+------> Ancient Greek `Ὠκυρόη` <Ōkuróē>: "Swift-Flowing (personal name), river divinity" #####
+-------> Latin `Ocyroe` #####
 
---> Indo-Iranian <*HaHćúš>: "swift"
----> Indo-Aryan
-----> Sanskrit `𑀆𑀰𑀼` <āśú>: "fast, swift"
------> Telugu `ఆశువు` <āśuvu>: "fast"
----> Iranian
-----> Avestan `𐬁𐬯𐬎` <āsu>: "fast"
+---> Indo-Iranian <*HaHćúš>: "swift"
+----> Indo-Aryan
+-----> Sanskrit `𑀆𑀰𑀼` <āśú>: "fast, swift"
+------> Telugu `ఆశువు` <āśuvu>: "fast"
+----> Iranian
+-----> Avestan `𐬁𐬯𐬎` <āsu>: "fast"
 
---> Proto-Indo-European <*h₁oh₁ḱyōs>: "very swift, swifter"
+---> Proto-Indo-European <*h₁oh₁ḱyōs>: "very swift, swifter"
 
----> Indo-Iranian <*HáHćyas>
-----> Indo-Aryan <*HáHśyas>
------> Sanskrit `𑀆𑀰𑀻𑀬𑀲𑁆` <ā́śīyas>: "swifter"
-----> Iranian <*HáHcyah>
------> Avestan `𐬁𐬯𐬌𐬌𐬀𐬵` <āsiiah>: "faster"
+----> Indo-Iranian <*HáHćyas>
+-----> Indo-Aryan <*HáHśyas>
+------> Sanskrit `𑀆𑀰𑀻𑀬𑀲𑁆` <ā́śīyas>: "swifter"
+-----> Iranian <*HáHcyah>
+------> Avestan `𐬁𐬯𐬌𐬌𐬀𐬵` <āsiiah>: "faster"
 
----> Italic <*ōkjōs>: "swifter"
-----> Latin `ōcior`: "swifter"
+----> Italic <*ōkjōs>: "swifter"
+-----> Latin `ōcior`: "swifter"
 
 
 
-?> Proto-Indo-European <*h₁éḱwos>: "horse" (lit. "swift one")
+?> Proto-Indo-European <*h₁éḱus>: "horse" (lit. "swift one")
 
 --> Anatolian <*ʔeḱu->
 ---> Hittite `𒀲𒆳𒊏𒍑` <ANŠE.KUR.RA-us>: "horse" (only attested as a Sumerogram, but considered to be /ekkus/)
----> Luwian  `𔑮𔐔𔗥` <(EQUUS)-á-zú->: "horse"
-----> Luwian <*azzunzi>: "horses"
------> Akkadian `𒀲𒍣𒍣` <(ANŠE)-zi-zi>: "horse"
------> Northwest Semitic <*śu(m)śu(m)>
-------> Aramaic `סוסיא` <sūsyā>: "horse"
-------> Canaanite
--------> Hebrew `סוּס` <sus>: "horse"
--------> Phoenician `𐤎𐤎‎` <ss>: "horse"
-------> Ugaritic `𐎒𐎒𐎆` <ssw>: "horse"
-------> Egyptian `𓊃𓊃𓅓𓃗` <zzm-(HORSE)>: "horse"
----> Lycian `​​𐊁𐊖𐊂𐊁` <esbe>: "horse"
-----> Lycian `𐊁𐊖𐊂𐊚𐊗` <esbẽt>: "horseman, knight"
+---> Luwic
+----> Luwian
+-----> Hieroglyphic Luwian  `𔑮𔐔𔗥` <(EQUUS)-á-zú->: "horse"
+-----> Luwian <*azzunzi>: "horses" 
+-----?> Akkadian `𒀲𒍣𒍣` <(ANŠE)-zi-zi> [sīsûm]: "horse"
+------> Northwest Semitic <*śu(m)śu(m)>
+-------> Aramaic `𐡎𐡅𐡎𐡉𐡀` <sūsyā>: "horse"
+--------> Arabic `سيسي` <sīsiyy>: "pony"
+-------> Canaanite
+--------> Hebrew `סוּס` <sūs>: "horse"
+---------> Yiddish `סוּס` <sus>: "horse"
+----------> German `Zosse`: "nag"
+--------> Phoenician `𐤎𐤎‎` <ss>: "horse"
+-------> Ugaritic `𐎒𐎒𐎆` <ssw>: "horse"
+-------> Egyptian `𓊃:𓊃-𓅓-𓃗` <zzm-(HORSE)>: "horse"
+----> Lycian `​​𐊁𐊖𐊂𐊁` <esbe>: "horse"
+-----> Lycian `𐊁𐊖𐊂𐊚𐊗` <esbẽt>: "horseman, knight"
 
---> Celtic <ekʷos>: "horse"
----> Brythonic <*eb>: "horse"
-----> Brythonic <*ebol>: "small/young horse"
------> Welsh `ebol`: "foal"
----> Gaulish <epos>: "horse"
-----> Gaulish <Epona>: "Divinity of Horses" (either "on a horse" or "great mare")
----> Old Irish `ech`: "horse"
-----> Irish `each`: "horse" (archaic/poetic)
-----> Manx `agh`: "horse"
 
---> Germanic <*ehwaz>: "horse, name of the rune ᛖ"
----> East Germanic
-----> Gothic <*aiƕs>: "horse"
-----?> Gothic <eyz>: "name of the letter 𐌴"
------> Gothic `𐌰𐌹𐍈𐌰𐍄𐌿𐌽𐌳𐌹` <aiƕatundi>: "bramble, thorny bush"
----> North Germanic
-----> Old Norse `jór`: "horse, stallion"
------> Icelandic `jór`: "horse" (archaic)
----> West Germanic
-----> Old English `eoh`: "horse, name of the rune ᛖ"
----> Germanic <*ehwaraidō>: "horse riders"
+--> Proto-Indo-European <*h₁éḱwos>
+
+---> Celtic <*ekʷos>: "horse"
+----> Brythonic <*eb>: "horse"
+-----> Brythonic <*ebol>: "small/young horse"
+------> Welsh `ebol`: "foal"
+----> Gaulish <epos>: "horse"
+----> Hispano-Celtic
+-----> Celtiberian `Equeunubo`: "to the Sons on the Horse?" (dative plural on a votive offering, perhaps to the Divine Horse Twins)
+-----> Gallaecian <*Equaisi?>: "ethnic name: Horsemen?"
+------> Latin `Equaesi`
+----> Old Irish `ech`: "horse"
+-----> Irish `each`: "horse" (archaic/poetic)
+-----> Manx `agh`: "horse"
+
+----> Celtic <*Ekʷonā>: "Divine name: the She-Horse" (with <*-onos>/<*-onā>, the individualizing suffix)
+-----> Gaulish <Epona>
+------> Latin `Epona`: "Gaulish Divinity of Horses"
+-----> Lusitanian `ICONA` (a divine name, attested as the recipient of a sacrifice)
+
+---> Germanic <*ehwaz>: "horse, the rune ᛖ"
+----> East Germanic
+-----> Gothic <*aiƕs>: "horse"
+-----?> Gothic <eyz>: "the letter 𐌴"
+------> Gothic `𐌰𐌹𐍈𐌰𐍄𐌿𐌽𐌳𐌹` <aiƕatundi>: "bramble, thorny bush"
+----> North Germanic
+-----> Old Norse `jór`: "horse, stallion"
+------> Icelandic `jór`: "horse" (archaic)
 ----> West Germanic
------> Old English `ēored`: "cavalry"
----> English `ehwaz`: "name of the rune ᛖ"
+-----> Old English `eoh`: "horse, the rune ᛖ"
+----> Germanic <*ehwaraidō>: "horse riders"
+-----> West Germanic
+------> Old English `ēored`: "cavalry"
+----> English `ehwaz`: "the rune ᛖ"
 
---> Hellenic <*íkkʷos>: "horse"
----> Mycenaean Greek `𐀂𐀦` <i-qo>: "horse"
----> Ancient Greek `ἵππος` <híppos>: "horse"
-----> Greek `ίππος` <íppos>: "horse"
-----> Ancient Greek `Φίλιππος` <Phílippos>: "Fond of Horses (personal name)"
------> Translingual `Philippines`: "Place name" (after Philip II of Spain) ##
-----> Ancient Greek `ῐ̔πποπότᾰμος` <hippopótamos>: "hippopotamus" (lit. "river-horse")
------> Latin `hippopotamus`: "hippopotamus"
-------> English `hippopotamus`
-----> Ancient Greek `ἱππόδρομος` <hippódromos>: "track for horse or chariot races"
------> English `hippodrome`
-
---> Italic <*ekwos>: "horse"
----> Latin `equus`: "horse"
-----> Latin `equa`: "mare"
------> Sardinian `ebba`: "mare"
------> Eastern Romance
-------> Romanian `iapă`: "mare"
------> Western Romance
-------> Spanish `yegua`: "mare, heifer"
-----> Latin `equester`: "pertaining to riding horses, pertaining to cavalry, horseman"
------> French `équestre`: "equestrian"
-------> English `equestrian`
------> Spanish `ecuestre`: "equestrian"
-----> Latin `equīnus`: "equine"
------> French `équin`
-------> English `equine`
------> Spanish `equino`
-----> Latin `equiferus`: "wild horse"
------> Western Romance
-------> Old Portuguese `ezebrario`: "wild ass"
--------> Portuguese `zebro`: "wild ass"
---------> Portuguese `zebra`: "zebra"
----------> Italian `zebra`: "zebra"
-----------> English `zebra`
--------> Old Spanish `ezebra`: "wild ass"
---------> Spanish `cebra`: "zebra"
-
---> Indo-Iranian <*Háĉwas>
----> Indo-Aryan
-----> Mitanni Aryan <*ašuwa>
------> Mitanni Aryan <*Prītāśva>: "Whose horse is dear (personal name)"
-------> Hurrian
--------> Hittite <bi-ri-d-aš-ṷa>: "Hurrian personal name"
------> Mitanni Aryan <āśvasanni>: "horse-master" (lit. "horse-elder"?)
-------> Hurrian
--------> Hittite `𒇷 𒀀𒀸𒋗𒍑𒊭𒀭𒉌` <a-aš-šu-uš-ša-an-ni>: "master horse trainer" ###
-----> Sanskrit `𑀅𑀰𑁆𑀯` <áśva>: "horse"
------> Madhya
-------> Hindi `अश्व` <aśv>: "horse"
------> Maharashtri
-------> Sinhala `අශ්වය` <aśvaya>: "horse"
------> Telugu `అశ్వము` <aśvamu>: "horse"
------> Sanskrit `𑀅𑀰𑁆𑀯𑀓` <aśvaka>: "horseman"
------?> Persian `افغان` <afğân>: "Pashtun, Afghan" ####
--------> Arabic `أَفْغَانِيّ` <ʾafḡāniyy>: "Afghan"
--------> English `Afghan`
---------> English `afghan`: "blanket or throw, usually crocheted or knitted"
--------> Persian `افغانستان` <afğânestân>: "Land of the Pashtuns, Afghanistan"
---------> English `Afghanistan`
----> Iranian
-----> Avestan `𐬀𐬯𐬞𐬀‏` <aspa>: "horse"
-----> Northern Iranian
------> Scythian <*áspa>
-------> Ossetian `ефс` <efs>: "mare"
-------> Scythian <*Aspaurūkɨ>: "Horse-Light? (personal name)"
--------> Alanian <*Æspuruk>
---------> Byzantine Greek `Ἀσπαρούχ` <Asparoúkh>
---------> Byzantine Greek `Ἀσφώρουγος` <Asphṓrougos>
---------> Old Armenian `Ասպուրակ` <Aspurak>
--------?> Old Armenian `Ասպուրակէս` <Aspurakēs>
-------> Scythian <*Aspagūrɨ>: "Horse-? (personal name)"
--------> Alanian <*Æspagur>
---------> Old Georgian `ასფაგურ` <Aspagur>
----------> Latin `Aspacures`
-----> Pashto `آس` <ās>: "horse"
-----> Western Iranian
------> Old Persian `𐎠𐎿` <asa>: "horse"
-------> Persian `اسب` <asb>: "horse"
--------> Persian `اسواران‎` <Asvaran>: "mounted police" (blended word of `اسب` <asb> and `سوار` <sovâr>)
-------> Old Persian `𐎠𐎿𐎲𐎠𐎼` <asabāra>: "horseman" (lit. "horse-borne")
--------> Persian `سوار` <sovâr>: "horseman, rider, cavalry"
---------> Persian `اسواران‎` <Asvaran>: "mounted police" (blended word of `اسب` <asb> and `سوار` <sovâr>)
---------> Hindi `सवार` <savār>: "rider, horseman"
----------> English `sowar`
--------> Arabic `أَسْوَار` <ʾaswār>: "Aswaran"
--------> Bactrian `ασβαρο` <asbaro>
--------> English `Aswaran`
--------> Classical Syriac `ܐܣܘܪ` <eswār>
------> Kurdish `hesp`: "horse"
-------> Armenian `հասբ` <hasb>: "cavalry, horse"
----> Nuristani <*ášpa>
-----> Kamviri <ušpa>: "horse"
-
---?> Northwest Caucasian <*č́ʷǝ>: "horse"
-----> Abkhaz `а-ҽы́` <ā-čə́>: "horse"
-----> Kabardian `шы` <šə>: "horse"
+---> Hellenic <*íkkʷos>: "horse"
+----> Mycenaean Greek `𐀂𐀦` <i-qo>: "horse"
+----> Ancient Greek `ἵππος` <híppos>: "horse"
+-----> Greek `ίππος` <íppos>: "horse"
+-----> Ancient Greek `Φίλιππος` <Phílippos>: "Fond of Horses (personal name)"
+------> Translingual `Philippines`: "Place name" (after Philip II of Spain) ##
+-----> Ancient Greek `ῐ̔πποπότᾰμος` <hippopótamos>: "hippopotamus" (lit. "river-horse")
+------> Latin `hippopotamus`: "hippopotamus"
+-------> English `hippopotamus`
+-----> Ancient Greek `ἱππόδρομος` <hippódromos>: "track for horse or chariot races"
+------> English `hippodrome`
 
 
---> Tocharian <*yä́kwë>: "horse"
----> Arshian <yuk>: "horse"
----> Kushean <yakwe>: "horse"
+---> Italic <*ekwos>: "horse"
+----> Latin `equus`: "horse"
+-----> Latin `equa`: "mare"
+------> Sardinian `ebba`: "mare"
+------> Eastern Romance
+-------> Romanian `iapă`: "mare"
+------> Western Romance
+-------> Spanish `yegua`: "mare, heifer"
+-----> Latin `equester`: "pertaining to riding horses, pertaining to cavalry, horseman"
+------> French `équestre`: "equestrian"
+-------> English `equestrian`
+------> Spanish `ecuestre`: "equestrian"
+-----> Latin `equinus`: "equine"
+------> French `équin`
+-------> English `equine`
+------> Spanish `equino`
+-----> Latin `equiferus`: "wild horse"
+------> Western Romance
+-------> Old Portuguese `ezebrario`: "wild ass"
+--------> Portuguese `zebro`: "wild ass"
+---------> Portuguese `zebra`: "zebra"
+----------> Italian `zebra`: "zebra"
+-----------> English `zebra`
+--------> Old Spanish `ezebra`: "wild ass"
+---------> Spanish `cebra`: "zebra"
 
+----> Venetic `𐌄𐌊𐌖𐌏𐌍` <ekvon>: "horse" (attested as sing. acc.)
+-----> Venetic `𐌄𐌊𐌖𐌏𐌐𐌄𐌕𐌀𐌓𐌉𐌔` <ekvopetaris>: "horse-lord, equestrian, knight"
+------> Venetic `𐌄𐌐𐌐𐌄𐌕𐌀𐌓𐌉𐌔` <eppetaris> (variant)
+
+
+
+
+
+
+
+---> Indo-Iranian <*Háĉwas>
+----> Indo-Aryan
+-----> Mitanni Aryan <*ašuwa>
+------> Mitanni Aryan <*Prītāśva>: "Whose horse is dear (personal name)"
+-------> Hurrian
+--------> Hittite <bi-ri-d-aš-ṷa>: "Hurrian personal name"
+------> Mitanni Aryan <āśvasanni>: "horse-master" (lit. "horse-elder"?)
+-------> Hurrian
+--------> Hittite `𒇷 𒀀𒀸𒋗𒍑𒊭𒀭𒉌` <a-aš-šu-uš-ša-an-ni>: "master horse trainer" ###
+-----> Sanskrit `𑀅𑀰𑁆𑀯` <áśva>: "horse"
+------> Madhya
+-------> Hindi `अश्व` <aśv>: "horse"
+------> Maharashtri
+-------> Sinhala `අශ්වය` <aśvaya>: "horse"
+------> Telugu `అశ్వము` <aśvamu>: "horse"
+------> Sanskrit `𑀅𑀰𑁆𑀯𑀓` <aśvaka>: "horseman"
+------?> Persian `افغان` <afğân>: "Pashtun, Afghan" ####
+--------> Arabic `أَفْغَانِيّ` <ʾafḡāniyy>: "Afghan"
+--------> English `Afghan`
+---------> English `afghan`: "blanket or throw, usually crocheted or knitted"
+--------> Persian `افغانستان` <afğânestân>: "Land of the Pashtuns, Afghanistan"
+---------> English `Afghanistan`
+----> Iranian
+-----> Avestan `𐬀𐬯𐬞𐬀‏` <aspa>: "horse"
+-----> Northern Iranian
+------> Scythian <*áspa>
+-------> Ossetian `ефс` <efs>: "mare"
+-------> Scythian <*Aspaurūkɨ>: "Horse-Light? (personal name)"
+--------> Alanian <*Æspuruk>
+---------> Byzantine Greek `Ἀσπαρούχ` <Asparoúkh>
+---------> Byzantine Greek `Ἀσφώρουγος` <Asphṓrougos>
+---------> Old Armenian `Ասպուրակ` <Aspurak>
+--------?> Old Armenian `Ասպուրակէս` <Aspurakēs>
+-------> Scythian <*Aspagūrɨ>: "Horse-? (personal name)"
+--------> Alanian <*Æspagur>
+---------> Old Georgian `ასფაგურ` <Aspagur>
+----------> Latin `Aspacures`
+-----> Pashto `آس` <ās>: "horse"
+-----> Western Iranian
+------> Old Persian `𐎠𐎿` <asa>: "horse"
+-------> Persian `اسب` <asb>: "horse"
+--------> Persian `اسواران‎` <Asvaran>»1: "mounted police" (blended word of `اسب` <asb> and `سوار` <sovâr>)
+-------> Old Persian `𐎠𐎿𐎲𐎠𐎼` <asabāra>: "horseman" (lit. "horse-borne")
+--------> Persian `سوار` <sovâr>: "horseman, rider, cavalry"
+---------> Persian `اسواران‎` <Asvaran>»1: "mounted police" (blended word of `اسب` <asb> and `سوار` <sovâr>)
+---------> Hindi `सवार` <savār>: "rider, horseman"
+----------> English `sowar`
+--------> Arabic `أَسْوَار` <ʾaswār>: "Aswaran"
+--------> Bactrian `ασβαρο` <asbaro>
+--------> English `Aswaran`
+--------> Classical Syriac `ܐܣܘܪ` <eswār>
+------> Kurdish `hesp`: "horse"
+-------> Armenian `հասբ` <hasb>: "cavalry, horse"
+----> Nuristani <*ášpa>
+-----> Kamviri <ušpa>: "horse"
+
+---?> Northwest Caucasian <*č́ʷǝ>: "horse"
+-----> Abkhaz `а-ҽы́` <ā-čə́>: "horse"
+-----> Kabardian `шы` <šə>: "horse"
+
+
+---> Tocharian <*yä́kwë>: "horse"
+----> Arshian <yuk>: "horse"
+----> Kushean <yakwe>: "horse"
+
+
+---> Proto-Indo-European <*h₁éḱweh₂>: "mare"
+
+----> Balto-Slavic <*éśwāˀ> ######
+-----> East Baltic
+------> Old Lithuanian `ašva`: "horse"
+-----> Finnic <*ehva>: "cow, heifer"
+------> Finnish `hieho`: "heifer"
+
+---> Proto-Indo-European <*h₁éḱwiHnos>: "pertaining to horses"
+----> Proto-Indo-European <*h₁éḱwiHnoh₁>: "epithet of the Divine Horse Twins" (dual)
+
+-----> Balto-Slavic <*éśwīˀna>
+------> East Baltic
+-------> Lithuanian `Ašvieniai`
+
+-----> Indo-Iranian
+------> Indo-Aryan
+-------> Sanskrit `𑀅𑀰𑁆𑀯𑀺𑀦𑀉` <Aśvínā>
 
 endbody
 
@@ -191,9 +240,9 @@ endbody
 
 startnotes
 
-# Likely a variant of <*h₂eḱ->: "sharp, swift" /word-family-edge.html
+# <*h₁eḱ->: "swift, fast" is likely a variant of [wff-edge|<*h₂eḱ->: "sharp, swift"]
 
-## this is how I remember which consonant is doubled in "Philippines", which I would otherwise get wrong every time. It's "phil-" as in "philosophy" (one 'l') and "-ipp-" as in hippopotamus" (two 'p's).
+## "Philippines" being from <(h)ippos> is how I remember which consonant is doubled in "Philippines"—which I would otherwise get wrong every time! "Phil-" as in "philosophy" (one 'l') and "-ipp-" as in hippopotamus" (two 'p's).
 
 ### From the opening of The Kikkuli Text:
 <𒌝𒈠 𒆠𒅅𒆪𒇷 𒇷 𒀀𒀸𒋗𒍑𒊭𒀭𒉌 𒊭 𒆳 𒈪𒀉𒋫𒀭𒉌> (I think)
@@ -204,4 +253,8 @@ startnotes
 
 ##### `Ὠκυρόη` <Ōkuróē>, often transliterated as "Ocyrrhoë", is one of the river goddess daughters of Tethys and Oceanus listed in Hesiod's Theogony. In Ovid's Metamorphoses, `Ocyroe` is the daughter of the centaur Chiron, and was born by the banks of a swift flowing stream.
 
+###### Descendants of the feminine <*h₁éḱweh₂>: "mare" exist in other branches as part of the noun paradigm (e.g., Latin `equa`); but in Balto-Slavic, there is no evidence of the masculine <*h₁éḱwos>, only of <*h₁éḱweh₂>.
+
 endnotes
+
+

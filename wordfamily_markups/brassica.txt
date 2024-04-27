@@ -6,76 +6,157 @@ https://www.google.com/search?q=brassica+oleracea+selection
 I had known that for many years before I noticed that many of the English words are all the same word, too: cauliflower, kale, collard, kohlrabi, coleslaw.
 
 But conspicously not:
-`broccoli`, despite the 'col' in the middle. `broccoli` is a plural dimunitive of `brocco`, just cannoli is a plural dimunitive of `canna`: "tube, cane" (see wff-cane). `brocco` is probably means "pointy", related to "brooch" and "brocade".
-`kailan`/`gailan` (or "Chinese kale") which, despite the 'kail' sequence, is really kai (or gai) + lan, and ultimately from Old Chinese <*kreːds> + <*ɡ·raːn>
-`cabbage`, of unknown origin, which is not explainable as some weird French version of `caulis`. Though it may be a weird French versions of `caput`: "head".
-`Brussels sprouts`, which of course is named after the city of Brussels. But in Romance languages, `Brussels sprouts` is generally literally "cabbage of Brussels", and uses the Romance "cabbage' words in this family (e.g., `chou de Bruxelles`, `cavolino di Bruxelles`, `col de Bruselas`); and in many Germanic languages is literally "rose-cabbage", and likewise uses the version of this word, e.g. `rosenkål`, `Rosenkohl`, etc.
+`broccoli`=eng-Latn, despite the `col`=eng-Latn in the middle. `broccoli`=ita-Latn is a plural dimunitive of `brocco`=ita-Latn, just `cannoli`=ita-Latn is a plural dimunitive of [wff-cane|`canna`=ita-Latn: "tube, cane"]. `brocco`=ita-Latn probably means "pointy", related to "brooch" and "brocade".
+`kailan`=eng-Latn/`gailan`=eng-Latn (or "Chinese kale") which, despite the 'kail' sequence, is really kai (or gai) + lan, and ultimately from Old Chinese <*kreːds> + <*ɡ·raːn>
+`cabbage`=eng-Latn, of unknown origin, which is not explainable as some weird French version of `caulis`=lat-Latn. Though it may be a weird French versions of `caput`=lat-Latn: "head".
+`Brussels sprouts`=eng-Latn, which of course is named after the city of Brussels. But in Romance languages, the term for "Brussels sprouts" is generally literally "cabbage of Brussels", and uses the Romance "cabbage" words in this family (e.g., `chou de Bruxelles`=fra-Latn, `cavolino di Bruxelles`=ita-Latn, `col de Bruselas`=spa-Latn); and in many Germanic languages is literally "rose-cabbage", and likewise uses their version of this word, e.g. `rosenkål=nor-Latn`, `Rosenkohl`=deu-Latn, etc.
 
+
+
+<*ḱelh₂->, <*keh₂wl->, and <*h₂ewl-> all meaning "stem, stalk, reed, tube". This looks similar to the way certain very early PIE compounds have been simplified in a few divergent ways; perhaps it could be a pre-PIE compound that likewise diverged, something like <*kelH->: "to grow, to rise" + <*wel(H)->: "to turn, to wind". 
 
 endintro
 
 startbody
 
-Proto-Indo-European <*keh₂ulós>: "tube? cylinder? bone?"
 
--> Balto-Slavic <*káuˀlas>
---> Lithuanian `káulas`: "bone"
+Proto-Indo-European <*ḱelh₂->: "stalk, reed"
 
+-> Proto-Indo-European <*ḱolh₂mos>
 
--> Hellenic
---> Ancient Greek `καυλός` <kaulós>: "stem, stalk, shaft"
----> Greek `καυλί` <kavlí>: "penis (vulgar)"
---?> Latin `caulis`: "stalk, stem, especially cabbage stem, penis"
-
--> Indo-Iranian
---> Indo-Aryan
----> Sanskrit `कुल्या` <kulyā>: "creek, canal"
-
-?> Italic
---> Latin `caulis`: "stalk, stem, especially cabbage stem, penis"
-
----> Western Romance
-----> French `chou`: "cabbage"
------> French `chou-chou`
-----> Italian `cavolo`: "cabbage"
-----> Spanish `col`: "cabbage"
+--> Germanic <*halmaz>
+---> West Germanic
+----> Old English `healm`: "stalk, straw, stubble"
+-----> English `haulm`
+----> Frankish
+-----> Dutch `halm`: "haulm, stalk, grass stem"
+----> Old High German `halm`
+-----> German `Halm`: "stalk"
+---> North Germanic
+----> Old Norse `halmr`
+-----> Danish `halm`: "haulm, straw"
+-----> Icelandic `hálmur`: "straw"
 
 
----> Old English `cawel`
-----> Middle English `col`
------> English `cole`
-------> English `cole slaw`
------> Middle English `colwort`
-------> English `colewort`
-------> English `collard (greens)`
------> Irish `cál`
-------> Irish `cál ceannann`
--------> English `colcannon`
------> Middle English `cale` (northern dialectic variant)
-------> English `kale` 
--------> Japanese `ケール` <kēru>
-----> Old Norse `kál`
------> Danish `kål`: "cabbage, kale"
------> Icelandic `kál`: "any Brassica plant"
------> Finnish `kaali`: "cabbage'
-
----> Old High German `kōlo`
-----> German `Kohl`
------> German `Kohlrabi`
-------> English `kohlrabi`
-
-
----> Vulgar Latin <*cauli-flōre>: "cabbage flower"
+--> Italic
+---> Latin `culmus`: "stalk, stem, hay"
 ----> Western Romance
------> French `chou-fleur`: "cauliflower"
-------> Wolof `sufëlëer`: "cauliflower"
------> Italian `cavolfiore`: "cauliflower"
-------> German `Karfiol`: "cauliflower"
--------> Hungarian `karfiol`: "cauliflower"
--------> Serbo-Croatian `карфиол` <karfiol>: "cauliflower"
-------> Polish `kalafior`: "cauliflower"
------> Spanish `coliflor`: "cauliflower"
-------> Tagalog `kóliplór`: "cauliflower"
-----> English `cauliflower`
+-----> Portuguese `colmo`: "cane, reed, thatch"
+-----> Spanish `cuelmo`: "torch, hay"
+
+
+
+--> Proto-Indo-European <*ḱl̥h₂mos>
+
+---> Hellenic
+----> Classical Greek `κάλαμος` <kálamos>: "reed, anything made of reed"
+-----> Latin `calamus`
+------> Latin `calamellus`
+-------> English `caramel`
+-------> English `shawm`
+------> Latin `calamarius`
+-------> Italian `calamaio`
+-------> Italian `calamaro` (variant)
+--------> English `calamari`
+
+
+
+--> Proto-Indo-European <*ḱolh₂meh₂> (collective)
+
+---> Balto-Slavic <*sálˀmāˀ>
+----> East Baltic
+-----> Latvian `sal̃ms`: "straw"
+----> Slavic <*sòlma>: "straw"
+-----> East Slavic
+------> Russian `соло́ма` <solóma>: "straw"
+-----> South Slavic
+------> Serbo-Croatian `сла̏ма` <slȁma>: "straw"
+-----> West Slavic
+------> Polish `słoma`: "straw"
+----> West Baltic
+-----> Old Prussian `salme`: "straw"
+
+
+
+?> Proto-Indo-European <*keh₂wl->
+
+--> Proto-Indo-European <*keh₂ulós>: "stalk, reed" ()
+
+---> Balto-Slavic <*káuˀlas>
+----> Lithuanian `káulas`: "bone"
+
+
+---> Hellenic
+----> Classical Greek `καυλός` <kaulós>: "stem, stalk, shaft"
+-----> Greek `καυλί` <kavlí>: "penis (vulgar)"
+----?> Latin `caulis`»1: "stalk, stem, especially cabbage stem, penis"
+
+---> Indo-Iranian
+----> Indo-Aryan
+-----> Sanskrit `𑀓𑀼𑀮𑁆𑀬𑀸` <kulyā>: "creek, canal"
+------> Telugu `కుల్య` <kulya>: "canal"
+----> Iranian
+-----> Western Iranian
+------> Old Persian
+-------> Persian `کیله` <kile>: "creek, brook"
+
+--?> Italic
+----> Latin `caulis`»1: "stalk, stem, especially cabbage stem, penis"
+
+-----> Western Romance
+------> French `chou`: "cabbage"
+-------> French `chou-chou`
+------> Italian `cavolo`: "cabbage" ##
+------> Spanish `col`: "cabbage"
+
+
+-----> Old English `cawel`
+------> Middle English `col`
+-------> English `cole`
+--------> English `cole slaw`
+-------> Middle English `colwort`
+--------> English `colewort`
+--------> English `collard (greens)`
+-------> Irish `cál`
+--------> Irish `cál ceannann`
+---------> English `colcannon`
+-------> Middle English `cale` (northern dialectic variant)
+--------> English `kale` 
+---------> Japanese `ケール` <kēru>
+------> Old Norse `kál`
+-------> Danish `kål`: "cabbage, kale"
+-------> Icelandic `kál`: "any Brassica plant"
+-------> Finnish `kaali`: "cabbage'
+
+-----> Old High German `kōlo`
+------> German `Kohl`
+-------> German `Kohlrabi`
+--------> English `kohlrabi`
+
+
+-----> Vulgar Latin <*cauli-flōre>: "cabbage flower"
+------> Western Romance
+-------> French `chou-fleur`: "cauliflower"
+--------> Wolof `sufëlëer`: "cauliflower"
+-------> Italian `cavolfiore`: "cauliflower"
+--------> German `Karfiol`: "cauliflower"
+---------> Hungarian `karfiol`: "cauliflower"
+---------> Serbo-Croatian `карфиол` <karfiol>: "cauliflower"
+--------> Polish `kalafior`: "cauliflower"
+-------> Spanish `coliflor`: "cauliflower"
+--------> Tagalog `kóliplór`: "cauliflower"
+------> English `cauliflower`
+
+
+-?> Proto-Indo-European <*h₂ewl->
+
+---> Proto-Indo-European <*h₂ewlos>
+
+----> Hellenic
+-----> Classical Greek `αὐλός` <aulós>: "pipe, groove, duct"
+------> Classical Greek `ὕδραυλις` <húdraulis>: "water organ, water pipe"
+-------> English `hydraulic`
+
 
 endbody
+

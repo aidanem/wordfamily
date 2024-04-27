@@ -1,12 +1,15 @@
 date: 20171006
 theme: Ancient Borrowings 𒅴
+tags: Sumerian, Writing
 
 
 startintro
 
-Sumerians and reeds were very influential! (Cuneiform was written with a sharpened reed stylus and was the first writing system, possibly tied with Egyptian hieroglyphs.)
+Sumerians and reeds were very influential!
 
-I love that "canon" and "cannon" are related.
+Cuneiform was written with a sharpened reed stylus and was the first writing system, possibly tied with Egyptian hieroglyphs. See also [wff-letter|dub: "tablet"].
+
+
 
 endintro
 
@@ -15,6 +18,10 @@ startbody
 
 
 Sumerian `𒄀` <gi>: "reed"
+-> Sumerian `𒄑𒄀𒁍` <GES.gi-gid₂>: "reed flute"
+-> Sumerian `𒄀𒁾𒁀` <gi-dub-ba>: "stylus" (lit. "tablet reed", with [wff-letter|<dub>])
+-> Sumerian `𒄀𒍣` <gi-zi>: "fresh reed, fodder"
+
 -> Sumerian `𒄀𒈾` <gi.na> (<gi> + a grammatical ending, oblique I think?)
 --> Akkadian `𒄀` <qanû>: "reed"
 --?> Mycenaean Greek `𐀒𐀜𐀛𐀠` <ko-no-ni-pi>: "cross bar?"
@@ -22,24 +29,37 @@ Sumerian `𒄀` <gi>: "reed"
 ----> Hebrew `קָנֶה` <qané>: "cane, stick, reed, windpipe"
 ----> Phoenician <*qane>
 -----> Punic <*kˤane> (plural: <*kˤanīm>)
-------> Berber <aɣanim> 'reed'
+------> Tamazight <aɣanim> 'reed'
 ---> ? Pre-Greek substrate?
 ----> Classical Greek `κάννα` <kánna>: "reed, reed mat"
 -----> Latin `canna`: "reed, cane, pipe, flute"
+------> Central Romance
+-------> Italian `canna`: "cane, rod, pipe, tube"
 ------> Western Romance
 -------> French `canne`: "cane, stick, peg, rod"
 --------> English `cane`
--------> Italian `canna`: "cane, rod, pipe, tube"
---------> Italian `cannolo`: "little tube, cannoli"
----------> English `cannoli`
---------> Italian `cannone`: "big pipe, cannon"
----------> French `canon`: "cannon"
-----------> English `cannon`
----------> German `Kanone`: "cannon, gun"
 -------> Spanish `caña`: "cane, reed, glass of beer, tiller"
 --------> Spanish `caño`: "tube, pipe, drain, channel"
+
+------> Latin `cannula`: "small reed, small pipe" (diminutive)
+-------> Central Romance
+--------> Italian `cannolo`: "little tube, cannoli"
+---------> English `cannoli`
+-------> Eastern Romance
+--------> Romanian `canură`: "combings (as wool)"
+-------> English `cannula`
+-------> Etruscan `𐌂𐌀𐌍𐌋𐌀` <canla>: "reed flute"
+
+------> Vulgar Latin <*cannoneᵐ>: "large pipe" (augmentive)
+-------> Central Romance
+--------> Italian `cannone`: "big pipe, cannon"
+---------> French `canon`»1: "cannon"
+----------> English `cannon`
+---------> German `Kanone`: "cannon, gun"
+-------> Western Romance
 ---------> Spanish `cañón`: "(big) pipe, barrel (of a gun), cannon, canyon"
 ----------> English `canyon`
+
 ------> Latin `canālis`: "pipe, ditch, channel, canal"
 -------> Western Romance
 --------> Old French `chenal`
@@ -52,18 +72,25 @@ Sumerian `𒄀` <gi>: "reed"
 -------> French `canal` <learned re-borrowing>
 --------> English `canal`
 --------> Romanian `canal`: "canal, channel"
+-------> Brythonic <*kanọl>
+--------> Welsh `canol`: "center, middle"
 
------> Classical Greek `κᾰ́νᾰστρον` <kánastron>: "wicker basket" (with -tron tool suffix)
+------> Latin `cannetum`: "thicket of reeds, reed-field"
+-------> Central Romance
+--------> Italian `canneto`: "reed bed, canebrake"
+-------> Albanian `kënetë`: "swamp, stagnation"
+
+-----> Classical Greek `κάναστρον` <kánastron>: "wicker basket" (with -tron tool suffix)
 ------> Latin `canistrum`: "wicker basket"
 -------> Western Romance
 --------> Italian `canestro`: "basket, hamper"
 ---------> Italian `pallacanestro`: "basketball"
 -------> English `canister`
 
-----?> Classical Greek `κᾰνών` <kanṓn>: "rod, pole, monochord (musical instrument), measuring rod, rule, norm, principle, paradigm"
+----?> Classical Greek `κανών` <kanṓn>: "rod, pole, monochord (musical instrument), measuring rod, rule, norm, principle, paradigm"
 ------> Greek `κανόνας` <kanónas>: "canon"
 
-------> Aramaic <qānōnāʾ>
+------> Aramaic `𐡒𐡀𐡍𐡅𐡍𐡀` <qānōnāʾ> #
 -------> Arabic `قَانُون` <qānūn>: "canon, axiom, principle, law, qanun"
 --------> Hindi `क़ानून` <qānūn>: "law, statute"
 --------> Persian `قانون` <qânun>: "law, statute, rule"
@@ -76,12 +103,15 @@ Sumerian `𒄀` <gi>: "reed"
 ------> Latin `canōn`: "rule, canon, catalog of sacred writings"
 -------> Western Romance
 --------> Italian `canone`: "canon, fee"
--------> French `canon`: "canon"
+-------> French `canon`»2: "canon"
 --------> English `canon`
 -------> Russian `кано́н` <kanón>
 
 
 endbody
 
+startnotes
 
-# The Aramaic <qānōnāʾ> (underlying the Arabic and Hebrew forms) probably gets /q/ direct from Akkadian, with new meanings/forms from Greek.
+# The Aramaic `𐡒𐡀𐡍𐡅𐡍𐡀` <qānōnāʾ> (underlying the Arabic and Hebrew forms) probably gets /q/ direct from Akkadian, with new meanings/forms from Greek.
+
+endnotes
