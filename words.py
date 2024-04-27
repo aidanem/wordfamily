@@ -4,9 +4,9 @@ from collections import OrderedDict, deque
 import logging
 import re
 
-import database as db
+import language_database as db
 
-markup_pattern = re.compile(r"^(?P<level>[-?]+>)?\s*(?P<language>[^`<>()#{}]+)(?P<orthography>\`[^`]+\`)?(?P<teaser>!)?\s*(?P<transliteration><.+?>)?\s*(?P<transcription>\[.+?\])?\s*(?P<meaning>: \".+?\")?\s*(?P<tags>{.+?})?\s*(?P<note>\(.+?\))?\s*(?P<footnote>[ ]*\#+)?")
+markup_pattern = re.compile(r"^(?P<level>[-?]+>)?\s*(?P<language>[^`<>()#{}]+)(?P<orthography>\`[^`]+\`)?\s*(?P<transliteration><.+?>)?\s*(?P<transcription>\[.+?\])?(?P<uniquifier>»\d+)?(?P<teaser>!)?\s*(?P<meaning>: \".+?\")?\s*(?P<tags>{.+?})?\s*(?P<note>\(.+?\))?\s*(?P<footnote>[ ]*\#+)?")
 
 def html_safe(text):
     if text:
@@ -19,15 +19,18 @@ def html_safe(text):
 
 class Word(object):
     
-    def __init__(self, language, _id, orthography=None, is_teaser=False, transliteration=None, transcription=None, meaning=None, tags={}, note=None, footnote_id=None):
+    def __init__(self, language, _id, orthography=None, transliteration=None, transcription=None, is_teaser=False, uniquifier=None, meaning=None, tags=set(), note=None, footnote_id=None):
         self.language = language
         self._id = _id
         self.orthography = orthography
-        self.is_teaser = is_teaser
-        self.child_relations = []
         self.transliteration = transliteration
         self.transcription = transcription #not currently used
+        self.is_teaser = is_teaser
+        self.uniquifier = uniquifier
         self.meaning = meaning
+        self.child_relations = []
+        self.parent_relations = []
+        self.derivation_paths = []
         self.tags = tags
         self.note = note
         self.footnote_id = footnote_id
@@ -37,6 +40,9 @@ class Word(object):
         return f"{self.__class__.__name__}(language={self.language.name!r}, orthography={self.orthography!r}, transliteration={self.transliteration!r}, transcription={self.transcription!r}, meaning={self.meaning!r}, note={self.note!r})"
     
     def possible_match(self, other):
+        if self.uniquifier is not None and other.uniquifier is not None:
+            if self.uniquifier != other.uniquifier:
+                return False
         language_match = False
         word_match = False
         if self.language == other.language:
@@ -92,6 +98,30 @@ class Word(object):
         dot_stlyings = [style_class.dot_styling for style_class in self.style_classes if style_class.dot_styling]
         styles = ", ".join(dot_stlyings)
         return styles
+    
+    @property
+    def is_reconstruction(self):
+        if self.transliteration and self.transliteration.startswith("*"):
+            return True
+        return False
+    
+    @property
+    def is_attested(self):
+        if self.transliteration and not self.transliteration.startswith("*"):
+            return True
+        elif self.orthography:
+            return True
+        return False
+    
+    @property
+    def is_blank(self):
+        if self.orthography:
+            return False
+        if self.transliteration:
+            return False
+        if self.transcription:
+            return False
+        return True
     
     # Output
     def dot_text(self, session, detail_langs=None):
@@ -214,8 +244,10 @@ class Word(object):
     
     @classmethod
     def from_raw(cls, raw_line, session, _id=0, check_unknown_langs=True):
+        word_args = dict()
         try:
             markup_match = markup_pattern.search(raw_line)
+            markup_match.groups()
         except AttributeError:
             import pdb; pdb.set_trace()
         
@@ -235,19 +267,18 @@ class Word(object):
         try:
             language = db.Language.get_by_name(language_name, session)
         except ValueError as e:
-            if check_unknown_langs:
+            if language_name.startswith("Unknown"):
+                pass
+            elif language_name.startswith("?") or language_name.endswith("?"):
+                pass
+            elif check_unknown_langs:
                 print(f"{language_name!r} for {raw_line} was not found in the language database.")
                 answer = input(f"Continue with {language_name!r} as a generic language? (y)es or (N)o?\n")
                 if answer.lower() in ["y","yes"]:
-                    language = db.word_family.Language(
-                        id = None,
-                        name = language_name,
-                        iso639 = None,
-                    )
+                    pass
                 else:
                     raise e
-            else:
-                language = db.word_family.Language(
+            language = db.word_family.Language(
                     id = None,
                     name = language_name,
                     iso639 = None,
@@ -256,46 +287,41 @@ class Word(object):
         
         orth_str = markup_match.group("orthography")
         if orth_str:
-            orthography = orth_str.strip("\`‎ ")
-        else:
-            orthography = None
-        teaser_str = markup_match.group("teaser")
-        if teaser_str:
-            is_teaser = True
-        else:
-            is_teaser = False
+            word_args["orthography"] = orth_str.strip("\`‎ ")
         
         transliteration_str = markup_match.group("transliteration")
         if transliteration_str:
-            transliteration = transliteration_str.strip("<> ")
-        else:
-            transliteration = None
+            word_args["transliteration"] = transliteration_str.strip("<> ")
+        
+        transcription = markup_match.group("transcription") #not currently used
+        
+        uniquifier_str = markup_match.group("uniquifier")
+        if uniquifier_str:
+            word_args["uniquifier"] = int(uniquifier_str[1:])
+        
+        teaser_str = markup_match.group("teaser")
+        if teaser_str:
+            word_args["is_teaser"] = True
         
         meaning_str = markup_match.group("meaning")
         if meaning_str:
-            meaning = meaning_str.strip("\"\": ")
-        else:
-            meaning = None
+            word_args["meaning"] = meaning_str.strip("\"\": ")
         
         tags_str = markup_match.group("tags")
         if tags_str:
-            tags = set([tag.strip().title() for tag in tags_str.strip("{}").split(",")])
-        else:
-            tags = set()
+            word_args["tags"] = set(
+                    [tag.strip().title() for tag in tags_str.strip("{}").split(",")]
+                )
         
         note_str = markup_match.group("note")
         if note_str:
-            note = note_str.strip("() ")
-        else:
-            note = None
+            word_args["note"] = note_str.strip("() ")
         
         footnote_str = markup_match.group("footnote")
         if footnote_str:
-            footnote_id = footnote_str.count("#")
-        else:
-            footnote_id = None
+            word_args["footnote_id"] = footnote_str.count("#")
         
-        word = cls(language, _id, orthography=orthography, is_teaser=is_teaser, transliteration=transliteration, meaning=meaning, tags=tags, note=note, footnote_id=footnote_id)
+        word = cls(language, _id, **word_args)
         
         return level, guess, word
 
