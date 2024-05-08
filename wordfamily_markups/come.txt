@@ -1,6 +1,12 @@
 date: 20210507
 
 
+startintro
+
+"What are the events of a conventional katabasis adventure? Come. Circumvent. Get a souvenir."
+
+endintro
+
 
 startbody
 
@@ -12,7 +18,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 -> Proto-Indo-European <*gʷéh₂t> (perfective)
 
 --> Hellenic <*égʷēn>
----> Ancient Greek `ἔβην` <ébēn>: "I stepped, I walked, I went" (part of the paradigm of `βαίνω`)
+---> Classical Greek `ἔβην` <ébēn>: "I stepped, I walked, I went" (part of the paradigm of `βαίνω`=grc-Grek)
 
 --> Indo-Iranian <*HágaHt>
 ---> Iranian
@@ -29,7 +35,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 
 --> Indo-Iranian <*ǰígaHti>
 ---> Indo-Aryan
-----> Sanskrit `जिगाति` <jigāti>: "to go, to walk, to approach, to pursue"
+----> Sanskrit `𑀚𑀺𑀕𑀸𑀢𑀺` <jigāti>: "to go, to walk, to approach, to pursue"
 
 
 -> Proto-Indo-European <*gʷéh₂yeti>
@@ -41,7 +47,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 -> Proto-Indo-European <*gʷéh₂mn̥>: "step"
 
 --> Hellenic <*gʷḗmə>
----> Ancient Greek `βῆμα` <bêma>: "step, pace, gait, platform, pulpit, bema, bima"
+---> Classical Greek `βῆμα` <bêma>: "step, pace, gait, platform, pulpit, bema, bima"
 ----> Greek `βῆμα` <vima>: "step, pace, gait, platform, bima, Tribune"
 ----> Old Armenian
 -----> Armenian `բեմ` <bem>: "stage, bema"
@@ -54,7 +60,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 --> Indo-Iranian <*gā́ma>
 ---> Indo-Aryan <*gā́ma>
 ----> Indo-Aryan <*pra-gā́ma>
------> Sanskrit `प्रगामन्` <pragā́man>: "walk, step, gait"
+-----> Sanskrit `𑀧𑁆𑀭𑀕𑀸𑀫𑀦𑁆` <pragā́man>: "walk, step, gait"
 ---> Iranian <*gā́ma>
 ----> Avestan `𐬔𐬁𐬨𐬀𐬥` <gāman>: "step, pace, going"
 ----> Western Iranian
@@ -73,7 +79,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 -> Proto-Indo-European <*gʷoh₂mós>
 
 --> Hellenic <*gʷōmós>
----> Ancient Greek `βωμός` <bōmós>: "pedestal, altar"
+---> Classical Greek `βωμός` <bōmós>: "pedestal, altar"
 ----> Greek `βωμός` <vomós>: "altar"
 
 
@@ -83,7 +89,8 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 --> Proto-Indo-European <*gʷeHǵʰeti>
 
 ---> Balto-Slavic <*gaˀźiti>: "to step, to tread"
-----> Lithuanian `góžti`: "overturn"
+----> East Baltic
+-----> Lithuanian `góžti`: "overturn"
 ----> Slavic <*gàziti>: "to tread, to wade"
 -----> South Slavic
 ------> Serbo-Croatian `га̏зити` <gȁziti>: "to wade, to tramp"
@@ -105,7 +112,8 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 --> Proto-Indo-European <*gʷémt>
 
 ---> Balto-Slavic <*gimtei>
-----> Lithuanian `gìmti`: "to be born"
+----> East Baltic
+-----> Lithuanian `gìmti`: "to be born"
 
 ---> Germanic <*kwemanã>: "to come"
 ----> East Germanic
@@ -117,7 +125,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 ------> Icelandic `koma`: "to come, to arrive"
 ----> West Germanic
 -----> Old English `cuman`: "to come"
-------> English `come`
+------> English `come`!
 -------> English `cum`
 -----> Frankish
 ------> Dutch `komen`: "to come, to happen"
@@ -151,22 +159,60 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 
 
 
+--> Proto-Indo-European <*gʷémeti>
+
+---> Indo-Iranian <*ǰámati>
+----> Indo-Aryan
+-----> Sanskrit `𑀕𑀫𑀢𑀺` <gamati>: "comes"
+-----?> Sanskrit `𑀕𑀗𑁆𑀕𑀸` <gaṅgā>: "the Ganges River" {Hydronymy}
+-------> Magadhi
+--------> Bengali `গাং` <gaṅ>: "river"
+-------> Pali `𑀕𑀗𑁆𑀕𑀸` <gaṅgā>
+--------> Old Khmer
+---------> Khmer `គង្គា` <kŭəngkiə>: "river, the Ganges River"
+---------> Thai `คงคา` <kong-kaa>: "river, the Ganges River"
+
+-------> Middle Chinese `恆伽` <hong gja>
+--------> Mandarin `恆伽` <Hénggā>
+--------> Japanese `こうが` <Kōga> (phonologically merged with MC <hwang ha>: "the Yellow River")
+--------> Vietnamese `Hằng`
+-------> Classical Greek `Γάγγης` <Gángēs> {Hydronymy}
+--------> Latin `Ganges`
+---------> English `Ganges` 
+-------> Hindi `गंगा` <ganga>
+--------> English `Ganga`
+-------> Persian `گنگ` <gang>
+--------> Arabic `الغانج` <al-ḡānj>
+
+----> Iranian <*ǰámati>
+-----> Avestan `𐬘𐬀𐬨𐬀𐬌𐬙𐬌` <jamaiti>: "goes"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Parthian `𐭰𐭠𐭬𐭩𐭣` <jʾmyd>
+
+
 
 --> Proto-Indo-European <*gʷm̥yéti> (1P: <*gʷm̥yóh₂>)
 
 ---> Hellenic <*gʷəňňō>
-----> Ancient Greek `βαίνω` <baínō>: "I go, I step, I leave"
+----> Classical Greek `βαίνω` <baínō>: "I go, I step, I leave"
 
------> Ancient Greek `-βᾰ́της` <-bátēs>: "walker"
-------> Ancient Greek `στῡλοβᾰ́της` <stūlobátēs> ("column walker")
+-----> Classical Greek `-βάτης` <-bátēs>: "walker"
+------> Classical Greek `ἀκροβάτης` <akrobátēs>»1: "acrobat" ("top-walker")
+-------> French `acrobate`: "acrobat"
+--------> English `acrobat`
+
+------> Classical Greek `στυλοβάτης` <stulobátēs> ("column walker")
 -------> English `stylobate`
 
-------> Ancient Greek `ὑλοβάτης` <hulobátēs> ("woods walker")
+------> Classical Greek `ὑλοβάτης` <hulobátēs> ("woods walker")
 -------> Translingual `Hylobates`: "taxonomic genus of gibbons"
 
----> Italic <*gʷenjō>: "I come"
-----> Oscan `benust`: "will have come" (attested only in the 3S future perfect)
-----> Latin `veniō`: "I come"
+---> Italic <*gʷenjezi>: "I come"
+----> Oscan <benust>: "will have come" (attested only in the 3S future perfect)
+----> Latin `venire`: to come, to approach"
+-----> Central Romance
+------> Italian `venire`: "to come"
 -----> Eastern Romance
 ------> Romanian `a veni`: "to come"
 ------> Old Albanian `vinj`
@@ -174,18 +220,18 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 -----> Western Romance
 ------> French `venir`: "to come"
 -------> Haitian Creole `vini`: "to come"
-------> Italian `venire`: "to come"
 ------> Spanish `venir`: "to come"
 
------> Latin `ventūrus`: "about to come"
-------> Western Romance
+-----> Latin `venturus`: "about to come"
+------> Central Romance
 -------> Italian `ventura`: "fortune, luck, chance, coincidence"
 --------> Italian `Ventura`: "surname" (originally a nickname, "Lucky"?)
 ---------> English `Ventura`
+------> Western Romance
 -------> Spanish `ventura`: "fortune, luck"
 
 
------> Latin `adveniō`: "I arrive" ("come-to")
+-----> Latin `advenire`: "to arrive" ("come-to")
 ------> Western Romance
 -------> Old French `avenir`: "to happen"
 --------> French `avenir`: "future"
@@ -193,37 +239,39 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 -------> English `advent`
 -------> Latin `adventūrus`: "about to arrive, adventure"
 --------> Western Romance
----------> French `aventure`: "adventure, venture, affair"
+---------> French `aventure`: "adventure, venture, affair"!
 ----------> Japanese `アバンチュール` <abanchūru>: "adventure, affair"
 ----------> Polish `awantura`: "brawl, quarrel"
 --------> English `adventure`
 ---------> English `venture`
 
------> Latin `circumveniō`: "I surround, I circumvent, I deceive" ("come-around")
+-----> Latin `circumvenire`: "to surround, to circumvent, to deceive" ("come-around")
+------> Central Romance
+-------> Italian `circonvenire`: "to swindle"
 ------> Western Romance
 -------> French `circonvenir`: "to circumvent"
--------> Italian `circonvenire`: "to swindle"
 -------> Spanish `circunvenir`: "to circumvent"
-------> English `circumvent`
+------> English `circumvent`!
 
------> Latin `contrāveniō`: "I oppose" ("come-against")
+-----> Latin `contrāvenire`: "to oppose" ("come-against")
 ------> Western Romance
 -------> Old French
 --------> French `contrevenir`: "to contravene"
 --------> English `contravene`
 -------> Spanish `contravenir`
 
------> Latin `conveniō`: "I convene, I meet, I am suited for, I am agreed" ("come-together")
+-----> Latin `convenire`: "to convene, to meet, to be suited for, to be agreed" ("come-together")
+------> Central Romance
+-------> Italian `convenire`: "to agree on, to be suited for, to gather, to summon"
 ------> Eastern Romance
 -------> Romanian `a cuveni`: "to deserve, to be adequate, to be consistent with"
 ------> Western Romance
 -------> Old French
 --------> French `convenir`: "to agree to, to be suited for, to be convenient"
 --------> English `convene`
--------> Italian `convenire`: "to agree on, to be suited for, to gather, to summon"
 -------> Spanish `convenir`: "to agree on, to be suited for, to arrange"
 
-------> Latin `conveniēns`: "meeting, fitting, suitable, agreeable"
+------> Latin `conveniens`: "meeting, fitting, suitable, agreeable"
 -------> Western Romance
 --------> Old French `covenant`
 ---------> English `covenant`
@@ -242,65 +290,69 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 -------> Byzantine Greek `κομβέντον` <kombénton>: "meeting"
 --------> Greek `κουβέντα` <kouvénta>: "conversation, talk, word"
 
-------> Latin `conventiō`: "meeting, assembly, convention, agreement"
+------> Latin `conventio`: "meeting, assembly, convention, agreement"
 -------> French `convention`: "convention, agreement"
 --------> English `convention`
----------> English `conventional`
+---------> English `conventional`!
 ---------> English `con`
 -------> Italian `convenzione`: "agreement, convention, covenant"
 -------> Spanish `convención`: "convention"
 
 
------> Latin `dēveniō`: "I come from, I arrive from"
+-----> Latin `devenire`: "to come from, to arrive from"
+------> Central Romance
+-------> Italian `divenire`: "to become, to happen"
 ------> Western Romance
 -------> French `devenir`: "to become"
 --------> Haitian Creole `vin`: "to become"
--------> Italian `divenire`: "to become, to happen"
 
------> Latin `ēveniō`: "I happen, I occur" ("come-out")
-------> Latin `ēventus`: "event, occurrence, outcome"
--------> Western Romance
+-----> Latin `evenire`: "to happen, to occur" ("come-out")
+------> Latin `eventus`: "event, occurrence, outcome"
+-------> Central Romance
 --------> Italian `evento`: "event"
+-------> Western Romance
 --------> Spanish `evento`: "event"
--------> English `event`
+-------> English `event`!
 ------> French `événement`: "event"
 
------> Latin `interveniō`: "I intervene, I come between"
+-----> Latin `intervenire`: "to intervene, to come between"
 ------> English `intervene`
-------> Latin `interventiō`
+------> Latin `interventio`
 -------> English `intervention`
 
------> Latin `inveniō`: "I find, I discover, I invent, I get" ("come-in")
+-----> Latin `invenire`: "to find, to discover, to invent, to get" ("come-in")
 ------> Western Romance
 -------> Old French
 --------> French `inventer`: "to invent"
 --------> English `invent`
-------> Latin `inventārium`: "list, inventory"
+------> Latin `inventarium`: "list, inventory"
+-------> Central Romance
+--------> Italian `inventario`: "inventory, list, review"
 -------> Western Romance
 --------> Old French `inventoire`
 ---------> French `inventaire`: "inventory"
 ---------> English `inventory`
---------> Italian `inventario`: "inventory, list, review"
 --------> Spanish `inventario`: "inventory"
 ------> Latin `inventor`: "inventor, author, discoverer"
 -------> English `inventor`
 
------> Latin `praeveniō`: "I anticipate, I precede, I interrupt" ("come-before")
+-----> Latin `praevenire`: "to anticipate, to precede, to interrupt" ("come-before")
 ------> Western Romance
 -------> French `prevenir`: "prevent, warn"
 ------> English `prevent`
 
------> Latin `reveniō`: "I come back, I return"
+-----> Latin `revenire`: "to come back, to return"
 ------> Western Romance
 -------> French `revenir`: "to come back, to return, to go back on a decision"
 --------> French `revenu`: "returned, revenue, income"
 ---------> English `revenue`
 
------> Latin `subveniō`: "I support, I assist, I come to mind" ("come-from-under")
+-----> Latin `subvenire`: "to support, to assist, to come to mind" ("come-from-under")
+------> Central Romance
+-------> Italian `sovvenire`: "to assist, to take care of, to remember"
 ------> Western Romance
 -------> French `souvenir`: "to remember"
---------> English `souvenir`
--------> Italian `sovvenire`: "to assist, to take care of, to remember"
+--------> English `souvenir`!
 ------> English `subvene`
 ------> French `subvenir`: "to provide for"
 
@@ -308,11 +360,11 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 --> Proto-Indo-European <*gʷm̥sḱéti> (iterative/durative)
 
 ---> Hellenic <*gʷəskō> (2S imperative: <*gʷəske>)
-----> Ancient Greek `βάσκε`: "come, go" (imperative only)
+----> Classical Greek `βάσκε`: "come, go" (imperative only)
 
 ---> Indo-Iranian <*gasćáti>
 ----> Indo-Aryan <*gaśćáti>
------> Sanskrit `गच्छति` <gacchati>: "to go, to move, to come, to approach"
+-----> Sanskrit `𑀕𑀘𑁆𑀙𑀢𑀺` <gacchati>: "to go, to move, to come, to approach"
 ----> Iranian <*ǰašáti>
 -----> Avestan `𐬘𐬀𐬯𐬀𐬌𐬙𐬌` <jasaiti>: "to come"
 
@@ -325,23 +377,23 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 ----> Old Prussian `naunagimton`: "new-born"
 
 ---> Hellenic <*gʷətós>
-----> Ancient Greek `βᾰτός` <batós>: "passable, accessible, speedy"
+----> Classical Greek `βᾰτός` <batós>: "passable, accessible, speedy"
 -----> Greek `βατός` <vatós>: "passable, accessible, easy"
------> Ancient Greek `ἀδιάβατος`: "impassable, inaccessible"
+-----> Classical Greek `ἀδιάβατος`: "impassable, inaccessible"
 ------> English `adiabatic`
 
 ---> Indo-Iranian <*gatás>: "gone, come"
 ----> Indo-Aryan <*gatás>
------> Sanskrit `गत` <gatá>: "gone" (past tense of `गम्` <gam>)
-------> Prakrit <*gada>: "gone, went" (suppletive past tense of `𑀬𑀸𑀢𑀺` <yāti>: "to go")
+-----> Sanskrit `𑀕𑀢` <gatá>: "gone" (past tense of `𑀕𑀫𑁆`=san-Brah <gam>)
+------> Prakrit <*gada>: "gone, went" (suppletive past tense of `𑀬𑀸𑀢𑀺`=pra-Brah <yāti>: "to go")
 -------> Maharashtri `𑀕𑀅` <gaä>
 --------> Maharashtri `𑀕𑀇𑀮𑁆𑀮𑀅` <gaïllaä>
----------> Marathi `गेले` <gele>: "gone, went" (suppletive past tense of `जाणे` <j̈āṇe>)
+---------> Marathi `गेले` <gele>: "gone, went" (suppletive past tense of `जाणे`=mar-Deva <j̈āṇe>)
 -------> Sauraseni `𑀕𑀬` <gaya>
---------> Madhya
----------> Hindi `गया` <gayā>: "gone, went" (suppletive past tense of `जाना` <jānā>)
---------> Pahari
----------> Punjabi `ਗਿਆ` <giā>: "went" (suppletive past tense of `ਜਾਣਾ` <jāṇā>)
+--------> Madhya Sauraseni
+---------> Hindi `गया` <gayā>: "gone, went" (suppletive past tense of `जाना`=hin-Deva <jānā>)
+--------> Northwestern Sauraseni
+---------> Punjabi `ਗਿਆ` <giā>: "went" (suppletive past tense of `ਜਾਣਾ`=pan-Guru <jāṇā>)
 ----> Iranian <*gatáh>
 -----> Avestan `𐬔𐬀𐬙𐬀‎` <gata>: "gone"
 -----> Northern Iranian <*āgatáh>
@@ -369,7 +421,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 ------> Dutch `komst`: "arrival"
 
 ---> Hellenic <*gʷə́tis>
-----> Ancient Greek `βᾰ́σῐς` <básis>: "step, foot, foundation, base"
+----> Classical Greek `βασις` <basis>: "step, foot, foundation, base"
 -----> Greek `βάση` <vási>: "base, basis, foundation"
 -----> Hebrew `בָּסִיס` <basís>: "base"
 ------> Hebrew `בְּסִיסִי` <b'sisí>: "basic, fundamental"
@@ -387,19 +439,19 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 ------> English `basis`
 ------> Russian `ба́зис` <bázis>: "base, basis, foundation"
 
------> Ancient Greek `ᾰ̓νᾰ́βᾰσῐς` <anábasis>: "ascent" ("up-going")
+-----> Classical Greek `ἀνάβασις` <anábasis>: "ascent" ("up-going")
 ------> Greek `ανάβαση` <anávasi>: "going up, ascent"
 ------> English `anabasis`
 ------> French `anabase`: "anabasis"
 
-------> Ancient Greek `κᾰτᾰ́βᾰσῐς` <katábasis>: "descent" ("down-going")
--------> English `katabasis`
+------> Classical Greek `κατάβασις` <katábasis>: "descent" ("down-going")
+-------> English `katabasis`!
 -------> French `catabase`: "catabasis"
 
 
 ---> Indo-Iranian <*gátiš>
 ----> Indo-Aryan <*gátiṣ>
------> Sanskrit `गति` <gáti>: "going, gait, manner, course, condition"
+-----> Sanskrit `𑀕𑀢𑀺` <gáti>: "going, gait, manner, course, condition"
 ------> Pali <gati>: "course, destiny, behavior"
 -------> Khmer `គតិ`: "thoughts, mind, spirit"
 -------> Thai `คติ` <ká-dtì>: "principle, model"
@@ -413,7 +465,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 --> Proto-Indo-European <*gʷm̥dʰmos>
 
 ---> Hellenic
-----> Ancient Greek `βαθμός` <bathmós>: "step"
+----> Classical Greek `βαθμός` <bathmós>: "step"
 -----> Greek `βαθμός` <vathmós>: "step, grade, rank, degree"
 ------> Greek `βαθμοφόρος` <vathmofóros>: "officer" (lit. "rank-bearer")
 
