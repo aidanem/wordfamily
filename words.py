@@ -19,9 +19,10 @@ def html_safe(text):
 
 class Word(object):
     
-    def __init__(self, language, _id, orthography=None, transliteration=None, transcription=None, is_teaser=False, uniquifier=None, meaning=None, tags=set(), note=None, footnote_id=None):
+    def __init__(self, language, _id, _db_id=None, orthography=None, transliteration=None, transcription=None, is_teaser=False, uniquifier=None, meaning=None, tags=set(), note=None, footnote_id=None):
         self.language = language
         self._id = _id
+        self._db_id = _db_id
         self.orthography = orthography
         self.transliteration = transliteration
         self.transcription = transcription #not currently used
@@ -237,8 +238,19 @@ class Word(object):
         
         return "{0}\n".format(" ".join(elems))
     
-    def to_database(self):
-        pass
+    def to_database(self, session):
+        assert self._db_id == None
+        db_obj = db.Word(
+                language_id = self.language.id,
+                orthography = self.orthography,
+                latin_transliteration = self.transliteration,
+                uniquifier = self.uniquifier,
+                meaning = self.meaning,
+                inline_note = self.note,
+            )
+        session.add(db_obj)
+        session.flush()
+        self._db_id = db_obj.id
     
     # Input Factory
     

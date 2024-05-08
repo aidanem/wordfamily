@@ -175,8 +175,21 @@ class Family(object):
                         if word.orthography or word.transliteration])
                 ])
     
-    def to_database(self):
-        pass
+    def to_database(self, session):
+        relations = set()
+        for word in self.words:
+            logging.debug(f"Adding {word!r} to database")
+            word.to_database(session)
+            for relation in word.child_relations:
+                relations.add(relation)
+                logging.debug(f"Adding {relation!r} to queue")
+        session.commit()
+        session.flush()
+        relation_type_id_map = Relation.relation_type_id_map(session)
+        for relation in relations:
+            logging.debug(f"Adding {relation!r} to database")
+            relation.to_database(session, relation_type_id_map)
+        session.commit()
     
     # Input Factory
     @classmethod
@@ -338,6 +351,9 @@ class Relation(object):
         self.rel_type = rel_type # descent, derivative, borrowing
         self.guess = guess
     
+    def __repr__(self):
+        return f"{self.__class__.__name__}(source={self.source}, destination={self.destination}, rel_type={self.rel_type}, guess={self.guess})"
+    
     def dot_text(self, detail_langs=None):
         
         if self.destination.is_detailed(detail_langs):
@@ -360,8 +376,29 @@ class Relation(object):
                 ))
             return "{0}\n".format(" ".join(parts))
     
-    def to_database(self):
-        pass
+    type_map_to_db = {
+        "derivative": "synchronic_derivation",
+        "descent": "diachronic_derivation",
+        "borrowing": "borrowing",
+    }
+    
+    @classmethod
+    def relation_type_id_map(cls, session):
+        return { key: session.query(
+                db.DerivationType
+            ).filter(
+                db.DerivationType.name == value
+            ).one().id for key, value in cls.type_map_to_db.items()}
+    
+    def to_database(self, session, relation_type_id_map):
+        db_obj = db.Derivation(
+                parent_id = self.source._db_id,
+                child_id = self.destination._db_id,
+                confident = not self.guess,
+                derivation_type_id = relation_type_id_map[self.rel_type],
+                #footnote_id,
+            )
+        session.add(db_obj)
     
     def __hash__(self):
         return hash((
@@ -412,19 +449,24 @@ if __name__ == "__main__":
         help = 'Automatically merge all matching words without asking.'
     )
     parser.add_argument(
+        '-b', '--database',
+        action = 'store_true',
+        help = 'Save information to the database.'
+    )
+    parser.add_argument(
         '-g', '--graphviz',
         action = 'store_true',
         help = 'Output graphviz file.'
     )
     parser.add_argument(
-        '-t', '--html',
-        action = 'store_true',
-        help = 'Output html file.'
-    )
-    parser.add_argument(
         '-p', '--paths',
         action = 'store_true',
         help = 'Output paths histogram file.'
+    )
+    parser.add_argument(
+        '-t', '--html',
+        action = 'store_true',
+        help = 'Output html file.'
     )
     parser.add_argument(
         '-v', '--verbose',
@@ -449,6 +491,9 @@ if __name__ == "__main__":
         output_name = os.path.basename(args.input[0]).split(".")[0]
     output_name_elements = [output_name,]
     output_name = "_".join(output_name_elements)
+    
+    if args.database:
+        word_family.to_database(session)
     
     if args.html:
         html_filename = f"{output_directory}/wff-{output_name}.html"
