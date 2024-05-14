@@ -72,7 +72,7 @@ class Word(object):
             if relation.destination != self:
                 # first pass block infinite recursion
                 descendant_languages.add(
-                    relation.destination.language.name
+                    relation.destination.language
                 )
                 descendant_languages.update(
                     relation.destination.descendant_languages
@@ -90,7 +90,7 @@ class Word(object):
     def is_detailed(self, detail_langs=None):
         if not detail_langs:
             return True
-        if self.language.name in detail_langs:
+        if self.language in detail_langs:
             return True
         if self.descendant_languages.intersection(set(detail_langs)) != set():
             return True

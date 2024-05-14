@@ -155,7 +155,7 @@ class Family(object):
     def paths_file(self, filepath, detail_langs=None):
         paths = dict()
         for word in self.words:
-            if detail_langs is None or word.language.name in detail_langs:
+            if detail_langs is None or word.language in detail_langs:
                 for path in word.derivation_paths:
                     if path not in paths:
                         paths[path] = dict()
@@ -174,6 +174,29 @@ class Family(object):
                         for word in data["words"]
                         if word.orthography or word.transliteration])
                 ])
+    
+    def get_stats(self, detail_langs=[]):
+        counts = dict()
+        counts["all_etymon_entities"] = len(self.words)
+        reconstructed_forms = [word for word in self.words if word.is_reconstruction]
+        counts["reconstructed_forms"] = len(reconstructed_forms)
+        attested_words = [word for word in self.words if word.is_attested]
+        counts["attested_words"] = len(attested_words)
+        attested_langs = set([word.language for word in attested_words])
+        counts["langs_of_attested_words"] = len(attested_langs)
+        for language in detail_langs:
+            language_words = [word for word in attested_words if word.language == language]
+            counts[f"{language.name}_words"] = len(language_words)
+        blank_words = [word for word in self.words if word.is_blank]
+        counts["blank_words"] = len(blank_words)
+        return counts
+    
+    def stats_file(self, filepath, detail_langs=[]):
+        stats = self.get_stats(detail_langs)
+        with open(filepath, "w") as stats_file:
+            stats_writer = csv.writer(stats_file)
+            for key, value in stats.items():
+                stats_writer.writerow([key, value])
     
     def to_database(self, session):
         relations = set()
@@ -464,6 +487,11 @@ if __name__ == "__main__":
         help = 'Output paths histogram file.'
     )
     parser.add_argument(
+        '-s', '--stats',
+        action = 'store_true',
+        help = 'Output word statistics file.'
+    )
+    parser.add_argument(
         '-t', '--html',
         action = 'store_true',
         help = 'Output html file.'
@@ -507,14 +535,21 @@ if __name__ == "__main__":
         paths_filename = f"{output_directory}/{output_name}.csv"
         word_family.paths_file(paths_filename)""" # only detail langs
     
-    detail_langs = list()
+    detail_lang_names = list()
     if args.detail_langs:
-        detail_langs.extend(args.detail_langs)
+        detail_lang_names.extend(args.detail_langs)
     else:
-        detail_langs.extend(["English", "Translingual",])
+        detail_lang_names.extend(["English", "Translingual",])
+    detail_langs = [
+            db.Language.get_by_name(lang_name, session) for lang_name in detail_lang_names
+        ]
+    
+    if args.stats:
+        stats_filepath = f"{output_directory}/{output_name}_stats.csv"
+        word_family.stats_file(stats_filepath, detail_langs)
     
     output_name_elements.append("detail")
-    output_name_elements.extend(detail_langs)
+    output_name_elements.extend(detail_lang_names)
     detail_output_name = "_".join(output_name_elements)
     
     if args.graphviz:
