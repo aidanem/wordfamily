@@ -265,7 +265,7 @@ Proto-Indo-European <*wed->: "water"
 -----> Classical Greek `ἔνυδρις` <énudris>: "otter, water snake"
 
 --> Illyrian <*adur>
---?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria> 
+--?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria>»1 
 
 --> Indo-Iranian
 ---> Indo-Aryan
@@ -354,7 +354,7 @@ Proto-Indo-European <*wed->: "water"
 ---> Umbrian `𐌖𐌕𐌖𐌓` <utur>: "water"
 ---?> Latin `ūter`: "water skin, wineskin, hide bag for flotation"
 ---> Venetic <adur>: "water"
----?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria>
+---?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria>»1
 -----> Latin `Hadria`
 ------> Latin `Hadriānus`: "of Hadria (also a family name)"
 -------> English `Hadrian`
@@ -371,7 +371,7 @@ Proto-Indo-European <*wed->: "water"
 ---> Arshian <wär>: "water"
 
 --> Venetic <*adur>
---?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria>
+--?> Etruscan `𐌇𐌀𐌕𐌓𐌉𐌀` <hatria>»1
 
 
 -?> Proto-Indo-European <*woh₁r> (one of several possible *d -> *h₁ alternations)

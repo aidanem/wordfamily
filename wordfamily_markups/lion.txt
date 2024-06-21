@@ -23,8 +23,8 @@ Proto-Afro-Asiatic <*labwʾ->: "lion"
 ------> Old Georgian `ლომი` <lom>: "lion"  (Asomtavruli)
 -------> Georgian `ლომი` <lom>: "lion"
 --------> Chechen `лом` <lom>: "lion"
-------?> Svan `ლო̈მ` <löm>: "lion" ###
------?> Svan `ლო̈მ` <löm>: "lion" ###
+------?> Svan `ლო̈მ` <löm>»1: "lion" ###
+-----?> Svan `ლო̈მ` <löm>»1: "lion" ###
 ---?> Demotic Egyptian
 -----> Coptic `ⲗⲁⲃⲟ` <labo> (Bohairic)
 
@@ -52,7 +52,7 @@ Proto-Afro-Asiatic <*labwʾ->: "lion"
 ----> Ancient Greek `λέων` <léon>: "lion"
 -----> Greek `λιοντάρι` <liontári>: "lion"
 
-----?> Albanian `luan`
+----?> Albanian `luan`»1
 -----> Coptic `ⲗⲉⲱⲛ` <leōn> (Sahidic)
 
 ----> Latin `leō`: "lion"
@@ -70,7 +70,7 @@ Proto-Afro-Asiatic <*labwʾ->: "lion"
 -------> Spanish `león`
 --------> Quechua `liyun`
 
----?> Albanian `luan`
+---?> Albanian `luan`»1
 
 -----> Germanic <*laujan>
 ------> East Germanic
@@ -79,6 +79,8 @@ Proto-Afro-Asiatic <*labwʾ->: "lion"
 ---------> East Slavic
 ----------> Belarusian `леў` <ljeŭ>
 ----------> Russian `лев` <lev>: "lion"
+
+Lviv
 ---------> South Slavic
 ----------> Old Church Slavonic `львъ` <lĭvŭ>: "lion"
 ----------> Serbo-Croatian `ла̏в` <lȁv>: "lion"
@@ -128,14 +130,15 @@ Proto-Afro-Asiatic <*labwʾ->: "lion"
 ---------> Spanish `leopardo`: "leopard"
 
 
------> Ancient Greek `χᾰμαιλέων` <khamailéōn>: "chameleon"  ####
+-----> Ancient Greek `χαμαιλέων` <khamailéōn>»1: "chameleon"  ####
 ------> Greek `χαμαιλέοντας` <chamailéontas>: "chameleon"
-------> Latin `chamaeleōn`: "chameleon"
+------> Latin `chamaeleon`: "chameleon"
+-------> Central Romance
+--------> Italian `camaleonte`: "chameleon"
 -------> Western Romance
 --------> Old French `cameleon`: "chameleon"
 ---------> French `caméléon`: "chameleon"
 ---------> English `chameleon` (spelling re-Latinized in 1700s)
---------> Italian `camaleonte`: "chameleon"
 --------> Spanish `camaleón`: "chameleon"
 ------> Russian `хамелео́н` <xameleón>: "chameleon"
 
@@ -156,7 +159,7 @@ Unless Svan borrowed it from Georgian at a later date, and it is not actually an
 
 
 
-#### Ancient Greek `χᾰμαιλέων` <khamailéōn>: "chameleon" is a calque of Akkadian `𒌨𒈤𒊭𒆠` <nēšu ša qaqqari>: "chameleon, lizard", literally "lion of the ground" or "predator that crawls".
+#### Ancient Greek `χᾰμαιλέων` <khamailéōn>: "chameleon" is a calque of Akkadian `𒌨𒈤𒊭𒆠` <nēšu ša qaqqari>: "chameleon, lizard". <nēšu ša qaqqari> was translated literally as "lion of the ground" but would probably be better translated as "predator that crawls".
 
 
 ##### Greek `λεόπαρδος` <leópardos>: "leopard" is `λέων` <léō(n)> + `πάρδος` <párdos>. <Párdos> is an Indo-Iranian borrowing meaning "leopard, panther", compare Sanskrit `𑀧𑀾𑀤𑀸𑀓𑀼` <pṛ́dāku>. Greek `πᾰ́νθηρ` <pánthēr> is also Indo-Iranian, quite possibly a different form of the same word.

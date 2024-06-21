@@ -1,0 +1,58 @@
+startbody
+
+Proto-Indo-European <*dʰeyǵʰ->: "to knead, to form, to shape"
+
+
+-> Proto-Indo-European <*dʰinéǵʰti> (ne imperfective)
+
+--> Italic <*θingezi>: "to knead, to form"
+---> Latin `fingere`: "to shape, to fashion, to knead, to handle, to adorn"
+----> Latin `effingere`: "to form, to fashion, to portray"
+-----> Latin `effigies`: "likeness, portrait, image, statue"
+------> French `effigie`: "effigy"
+-------> English `effigy`
+
+
+-> Proto-Indo-European <*dʰiǵʰtós>: "formed, kneaded, shaped" (adjective)
+
+--> Italic <*θiktos>
+---> Latin `fictus`: "feigned, fictitious"
+----> French `fictif`
+-----> English `fictive`
+
+
+
+-> Proto-Indo-European <*dʰóyǵʰos> (agentive noun)
+
+--> Germanic <*daigaz>: "dough, what is formed or kneaded"
+---> West Germanic <*daig>
+----> Old English `dag`: "dough"
+-----> English `dough`
+------> English `playdough`
+
+
+-> Proto-Indo-European <*dʰoyǵʰiHō>
+
+--> Germanic <*daigijǭ>: "kneader of bread, dairymaid"
+---> West Germanic <*daigijā>
+----> Old English `dǣġe`: "female servant, head of a dairy, dairymaid"
+-----> Old English `hlǣfdīġe`»1: "lady, mistress of a household, noblewoman"
+------> English `lady`»1
+
+-> Proto-Indo-European <*dʰéyǵʰos>: "a forming" (action or result noun)
+
+--> Indo-Iranian <*dʰáyȷ́ʰas>: "wall"
+---> Iranian <*dáyjah>: "wall"
+----> Iranian <*paridayjah>: "enclosing wall, walled in area, garden"
+-----> Western Iranian
+------> Northwestern Iranian
+-------> Medean <*paridayzah>: "orchard, garden, paradise"
+--------> Old Persian < *paridayzah>
+---------> Classical Greek `παράδεισος` <parádeisos>: "garden, enclosed park, paradise, Garden of Eden"
+----------> Latin `paradisus`: "park, orchard, Eden, Paradise"
+-----------> Old French `paradis`
+------------> English `paradise"
+
+
+
+endbody

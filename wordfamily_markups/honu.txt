@@ -1,5 +1,5 @@
 date: 20220527
-tags: Animals, Numbers, ATLA
+tags: Animals, Numbers, ATLA, Sino-Austroneisan, Austronesian, Sino-Tibetan
 
 
 startintro
@@ -42,7 +42,7 @@ Sino-Austronesian
 
 ---> Oceanic <*ponuʔ>
 ----> Micronesian <*wonu>
------> Kiribati `on`: "full, filled, fullness"
+-----> Kiribati `on`»1: "full, filled, fullness"
 
 ---> Philippine
 ----> Tagalog `punô`: "full, fed up"
@@ -93,7 +93,7 @@ Sino-Austronesian
 ----> Oceanic <*poñu>
 -----> Micronesian <*woñu>
 ------> Chuukese `wiin`
-------> Kiribati `on`: "sea turtle"
+------> Kiribati `on`»2: "sea turtle"
 -----> Fijian `vonu`: "sea turtle"
 -----> Polynesian <*fonu>
 ------> Tongic
@@ -132,7 +132,7 @@ Sino-Austronesian
 
 -?> Sino-Tibetan
 
----> Old Chinese `万` <*C.man-s>
+---> Old Chinese `萬` <*C.man-s>
 ----> Middle Chinese `萬` <mʉɐnᴴ>: "myriad (10,000), very, extremely"
 -----> Mandarin `萬` <wàn>
 ------> Mandarin `萬事通` <wànshìtōng>: "jack-of-all-trades, know-it-all" (lit. "10,000 things expert")
@@ -200,15 +200,16 @@ startnotes
 
 ### Regarding the link from <*pəNuʔ>: "to fill, full, container" to <*pəñu>: "sea turtle".
 
-Phonologically: In Wolff's reconstruction, <*ñ> and <*N> are the same phoneme. /n/ is the expected reflex of <*N> in Kavalan <penu>, but Puyuma would be expected to have <l>. But there are several reason to think Puyuma <penu> may be a borrowing from East Formosan. If so, <peñu>: "turtle" is restricted to East Formosan and Malayo-Polynesian, which are good candidates for a subgrouping within Austronesian ( https://twitter.com/Diachronica2/status/1526274068177117191)
+Phonologically: In Wolff's reconstruction, <*ñ> and <*N> are the same phoneme. /n/ is the expected reflex of <*N> in Kavalan <penu>, but Puyuma would be expected to have <l>. But there are several reason to think Puyuma <penu> may be a borrowing from East Formosan. If so, <peñu>: "turtle" is restricted to East Formosan and Malayo-Polynesian, which is the prime candidate for a subgrouping within Austronesian.
 
-Semantically: In many language, <*pəñu> refers specifically to the green sea turtle, which is valuable for its meat and eggs. Turtles valued for meat and eggs seem like a reasonably semantic connection to "to fill, full, container". Especially if <*penpen>: "to provision, to fill up" is included.
+Semantically: In many language, <*pəñu> refers specifically to the green sea turtle, which is valuable for its meat and eggs. "Turtles valued for meat and eggs" seem like a reasonably semantic connection to "to fill, full, container". Especially if <*penpen>: "to provision, to fill up" is included.
 
 
-#### Man'yōshū, literally "the Collection of Ten Thousand Leaves", is a collection of Japanese poetry from the 7th to 8th C.
+#### Man'yōshū, literally "the Collection of Ten Thousand Leaves", is a 7th/8th C collection of Old Japanese poetry.
 
 The first Japanese kana system is named after it: `まんようがな` <Man'yōgana>: "the Letters of the Thousand Leaves". Man'yōgana is the predecessor of the modern Katakana and Hiragana systems.
 
 
 
 endnotes
+

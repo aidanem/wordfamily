@@ -38,8 +38,7 @@ Proto-Indo-European <*ǵʰel->: "shine, shimmer, glow"
 ----> Classical Greek `χλωρός` <khlōrós>: "yellow-green, fresh, pale"
 -----> English `chlorine`
 ------> Translingual `Cl`
------> French `chlorophylle`: "chlorophyll" ("green-leaf")
-------> English `chlorophyll`
+-----> French `chlorophylle`»1: "chlorophyll" (coined by Caventou and Pelletier in 1817, lit. "green-leaf")
 
 ---> Phrygian `ΓΛΟΥΡΟΣ` <glouros>: "gold"
 

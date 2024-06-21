@@ -147,7 +147,7 @@ startbody
 ----> Iranian
 -----> Avestan `𐬀𐬧𐬔𐬎𐬱𐬙𐬀` <aṇgušta>: "toe"
 -----> Western Iranian
-------> Persian `انگشت` <angošt>: "finger"
+------> Persian `انگشت` <angošt>»1: "finger"
 
 
 --> Proto-Indo-European <*h₂enkulos?>: "joint"

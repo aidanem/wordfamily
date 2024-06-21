@@ -79,10 +79,10 @@ Proto-Indo-European <*h₂er->: "fit, fix, put together"
 
 ---> Hellenic
 ----> Classical Greek `ᾰ̓́ρῐστος` <áristos>: "best"
------> Classical Greek `ἀριστοκρατίᾱ` <aristokratíā>: "rule by the best, rule by nobles"
-------> Medieval Latin <*aristocratia>
--------> French `aristocratie`: "aristocracy"
---------> English `aristocracy`
+-----> Classical Greek `ἀριστοκρατίᾱ` <aristokratíā>»1: "rule by the best, rule by nobles"
+------> Medieval Latin <*aristocratia>»1
+-------> French `aristocratie`»1: "aristocracy"
+--------> English `aristocracy`»1
 
 
 -> Proto-Indo-European <*h₂r̥mós>: "(the act of) fitting, joint"

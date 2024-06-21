@@ -16,8 +16,6 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 
 -> Proto-Indo-European <*dʰǵʰōm>: "the earth, the lands" (collective)
 
--> Albanian `dhe`: "earth"
-
 -> Anatolian
 --> Hittite <*tagān>
 ---> Hittite <ta-ga-an-zi-pa-aš>: "earth-goddess"
@@ -75,8 +73,7 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 ----> Kurdish `zevî`: "farmland"
 ----> Old Persian <*zmiš>
 -----> Persian `زمی` <zami> (archaic)
-------> Persian `زمین` <zamin>: "earth, land, soil"
--------> Persian `زمین` <Zamin>: "Earth (planet)"
+------> Persian `زمین` <zamin>: "earth, land, soil, Earth"
 
 -----> Old Persian `𐎢𐎺𐎠𐎼𐏀𐎷𐎡𐏁` <u-v-a-r-z-mi-i-š / ʰUvārazmiš>: "Khwarazm/Chorasmia" ####
 ------> Persian `خوارزم‎` <xwârazm>: "Khwarazm/Chorasmia"
@@ -85,7 +82,7 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 -------> Turkish `Harezm`: "Khwarazm/Chorasmia"
 -------> Arabic `خوارزم` <ḵawārizm>: "Khwarazm/Chorasmia"
 --------> Arabic `خوارزمي` <ḵawārizmiyy>: "Chorasmian"
----------> Persian `خوارزمی` <xwârazmi>: "(Muhammad ibn Musa) al-Khwarizmi"
+---------> Persian `خوارزمی` <xwârazmi>»1: "(Muhammad ibn Musa) al-Khwarizmi"
 ---------> Arabic `الخوارزمي` <al-ḵawārizmiyy>: "the Chorasmian, (originally habitational surname/epithet), (Muhammad ibn Musa) al-Khwarizmi"
 ----------> Arabic `خوارزمية` <ḵawārizmiyya>: "algorithm"
 ----------> English `al-Khwarizmi`
@@ -114,7 +111,7 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 --------> English `Chorasmia`
 
 ------> Old Persian `𐎢𐎺𐎠𐎼𐏀𐎷𐎡𐎹` <u-v-a-r-z-mi-i-y / ʰUvārazmīya>: "a Chorasmian"
--------> Persian `خوارزمی` <xwârazmi>: "(Muhammad ibn Musa) al-Khwarizmi"
+-------> Persian `خوارزمی` <xwârazmi>»1: "(Muhammad ibn Musa) al-Khwarizmi"
 
 
 
@@ -129,14 +126,21 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 ------> Italian `esumare`: "to exhume"
 ------> Spanish `exhumar`: "to exhume"
 
-?> Thracian <*zem>: "Earth"
--?> Thracian <*Zemele>: "Earth Mother Goddess
---?> Classical Greek `Σεμέλη` <Semélē>: "Mother of Dionysus"
-----> English `Semele`
-----> Etruscan `𐌔𐌄𐌌𐌋𐌀` <Semla>
+-> Paleo-Balkan
 
---> Tocharian
----> Arshian <tkaṃ>: "earth, ground"
+--> Albanian `dhe`: "earth"
+---> Albanian `përdhe`: "beneath, downwards, underfoot"
+
+--> Messapian <*da(m)->: "earth"
+---> Messapian `ΔΑΜΑΤΟΡΑ` <Damatura>: "Earth Mother"
+---?> Classical Greek `Δημήτηρ` <Dēmḗtēr>: "Divinity of the Fertility of the Earth and Harvest" #
+
+--> Thracian <*ze(m)->: "Earth"
+---> Thracian <*Zemele>: "Earth Mother Goddess
+---?> Classical Greek `Σεμέλη` <Semélē>: "Mother of Dionysus"
+-----> English `Semele`
+-----> Etruscan `𐌔𐌄𐌌𐌋𐌀` <Semla>
+
 
 -?> ?
 --?> Hellenic <*Da>: "Earth"
@@ -171,6 +175,11 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 ---------> English `geography`
 
 
+--> Tocharian
+---> Arshian <tkaṃ>: "earth, ground"
+
+
+
 -> Proto-Indo-European <*dʰǵʰm̥meh₂y>: "on the ground, to the ground" (probably a fossilized declension)
 
 --> Hellenic 
@@ -183,18 +192,9 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 -------> German `Gamander`
 ------> Italian `camedrio`: "avens"
 
-----> Classical Greek `χᾰμαιλέων` <khamailéōn>: "chameleon"  #####
------> Greek `χαμαιλέοντας` <chamailéontas>: "chameleon"
------> Latin `chamaeleōn`: "chameleon"
-------> Western Romance
--------> Old French `cameleon`: "chameleon"
---------> French `caméléon`: "chameleon"
---------> English `chameleon` (spelling re-Latinized in 1700s)
--------> Italian `camaleonte`: "chameleon"
--------> Spanish `camaleón`: "chameleon"
------> Russian `хамелео́н` <xameleón>: "chameleon"
+----> Classical Greek `χαμαιλέων` <khamailéōn>»1: "chameleon"  #####
 
-----> Classical Greek `χᾰμαίμηλον` <khamaímēlon>: "(Roman) camomile" ("ground-apple")
+----> Classical Greek `χαμαίμηλον` <khamaímēlon>: "(Roman) camomile" ("ground-apple")
 -----> Greek `χαμομήλι` <chamomíli>: "camomile"
 -----> Latin `chamaemēlon`
 ------> French `camomille`: "camomile"
@@ -235,6 +235,8 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 --------> English `omerta`
 ------> Spanish `humildad`: "humility"
 
+--> Phrygian `ΖΕΜΕΛΩΣ` <zemelōs>: "to men" (attested in dative pl.)
+
 
 -> Proto-Indo-European <*dʰǵʰmen->: "on the earth"
 --> Proto-Indo-European <*ǵʰmṓ>: "earthling, human, mortal"
@@ -252,8 +254,8 @@ Proto-Indo-European <*dʰéǵʰm̥>: "earth" (singular)
 -----> Irish `duine`: "person, human"
 ------> Irish `daonna`: "human, humane, kindly"
 ------> Irish `Daoine Maithe`: "fairies, Aos Sí (lit. the Good People)" 
-------> Irish `Daoine Sí`: "fairies, Aos Sí (lit. People of the Mounds)"
--------> English `Daoine Sidhe`
+------> Irish `Daoine Sí`»1: "fairies, Aos Sí (lit. People of the Mounds)"
+-------> English `Daoine Sidhe`»1
 
 
 ---> Germanic <*gumô>: "man"
@@ -310,7 +312,11 @@ endbody
 
 startnotes
 
-# There are many possibilities for the first element in `Demeter`, e.g. <des-> (as in <Desponia>), meaning "house", or <dea> (cf. `ζειά`), a kind of grain.
+# There are many possibilities for the first element in `Demeter`—it could be a version of <*dʰǵʰm>: "earth", or <des-> (as in <Desponia>), meaning "house", or <dea> (cf. `ζειά`), a kind of grain, etc.
+
+Or it could be borrowed entire from a Paleo-Balkan name closely related to the attested Messapian <*Damatura>: "Earth Mother".
+
+<*ǵ> to <*d> seems to be a Paleo-Balkan/Illyric sound change, attested in Albanian <*ǵ> to `dh` and also in Messapian words like <deranθ->: "old" from <*ǵerh₂-> (whence "geriatic").
 
 ### With the loss of the Old English `guma`, `-gome` in Middle English `bridegome` is conflated with `grome` (Modern `groom`) meaning "boy, youth". There are two different possibilities about whether Middle English `gome` and `grome` were originally any relation to each other:
 A) `grome` could be unrelated to `gome`, and instead related to "grow" and "green", possibly Germanic <*grōmô>. But that root is usually only used for plant growth (thus, "green"), not human/animal growth.

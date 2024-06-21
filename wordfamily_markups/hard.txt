@@ -1,4 +1,4 @@
-date: 20201120
+date: 20201030
 
 
 startintro
@@ -43,7 +43,7 @@ Proto-Indo-European <*kret->: "strength, power"
 
 ----> Ancient Greek `Ναύκρᾰτῐς` <Naúkratis>: "Ship-Command (place name)"
 -----> Greek `Ναύκρατις` <Náfkratis>
------> Egyptian `𓊖𓂓𓂋𓍿𓊖` <nwtkꜣrṯ>
+-----> Egyptian `𓊖-𓂓:𓂋-𓍿:𓊖` <nwtkꜣrṯ>
 -----> Latin `Naucratis`
 
 ----> Ancient Greek `Ῐ̔πποκρᾰ́της` <Hippokrátēs>: "Horse-Power (personal name)"
@@ -63,8 +63,10 @@ Proto-Indo-European <*kret->: "strength, power"
 ----> Ancient Greek `Ξενοκρᾰ́της` <Xenokrátēs>: "Guest-Power (personal name)"
 
 ----> Ancient Greek `-κρατία` <-kratía>
------> Ancient Greek `ἀριστοκρατίᾱ` <aristokratíā>: (lit. "rule of the noble")
-------> English `aristocracy`
+-----> Ancient Greek `ἀριστοκρατίᾱ`»1 <aristokratíā>: (lit. "rule of the noble")
+------> Medieval Latin <*aristocratia>»1
+-------> French `aristocratie`»1: "aristocracy"
+--------> English `aristocracy`»1
 
 -----> Ancient Greek `αὐτοκρατία` <autokratía>: (lit. "rule alone")
 ------> English `autocracy`
@@ -157,10 +159,10 @@ Proto-Indo-European <*kret->: "strength, power"
 ----> West Germanic
 -----> Frankish
 ------> Dutch `Reinaart`
--------> English `Reynard`
+-------> English `Reynard`»1
 ------> Old French `Renart`
 -------> French `renard`: "fox" (after the medieval cycle of Reynard the Fox)
--------> English `Reynard`
+-------> English `Reynard`»1
 
 ---> Germanic <*Rīkaharduz>: "King-Brave (personal name)"
 ----> North Germanic

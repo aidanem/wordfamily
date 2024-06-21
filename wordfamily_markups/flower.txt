@@ -184,7 +184,7 @@ Proto-Indo-European <*bʰel->»2: "to blow, to swell up"
 
 ---> Hellenic
 ----> Ancient Greek `φῠ́λλον` <phúllon>: "leaf, foliage, plant"
------> French `chlorophylle`: "chlorophyll" (coined by Caventou and Pelletier in 1817)
+-----> French `chlorophylle`»1: "chlorophyll" (coined by Caventou and Pelletier in 1817, lit. "green-leaf")
 ------> English `chlorophyll`
 
 ---> Italic

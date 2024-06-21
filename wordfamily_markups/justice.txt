@@ -1,5 +1,4 @@
 date: 20200612
-tags: Divinities, Time
 
 
 startintro
@@ -10,7 +9,7 @@ endintro
 
 startbody
 
-Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
+Proto-Indo-European <*h₂ey->»1: "life, age, vital, eternal"
 
 
 -> Proto-Indo-European <*h₂óyu>
@@ -27,7 +26,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ----> Sanskrit `𑀆𑀬𑀼𑀲𑁆` <ā́yus>: "alive, life, health, lifespan, world (all living things)"
 ----> Sanskrit `𑀆𑀬𑀼𑀭𑁆𑀯𑁂𑀤` <āyurveda>: "science of health, Ayurveda"
 -----> Hindi `आयुर्वेद` <āyurved>: "Ayurveda"
------> English `Ayurveda`
+-----> English `Ayurveda`!
 
 ---> Iranian <*Hā́yu>
 ----> Avestan `𐬁𐬌𐬌𐬏` <āiiū>: "life, time, lifetime"
@@ -38,7 +37,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 --> Celtic <*aiwestom>: "age, lifetime, era"
 ---> Brythonic <*oɨs>
 ----> Welsh `oes`: "age, era"
------> Welsh `canoloesol`: "medieval" (with `canol`: "middle" from [canalis])
+-----> Welsh `canoloesol`: "medieval" (with `canol`=cym-Latn: "middle" from [wff-cane|`canalis`=lat-Latn])
 ---> Brythonic <*oɨd>
 ----> Welsh `oed`: "age"
 ---> Old Irish `áes`: "age, years, era, lifetime"
@@ -46,7 +45,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 -----> Irish `meánaoiseach`: "medieval"
 
 
--> Proto-Indo-European <*h₂yugʷih₃s>: "long life" ####
+-> Proto-Indo-European <*h₂yugʷih₃s>»1: "long life" ####
 
 -?> Germanic <*ajukiz>: "eternal, long lasting"
 ---> West Germanic
@@ -59,11 +58,11 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ---> Classical Greek `ὑγιής` <hugiḗs>: "healthy, strong, wholesome"
 ----> Classical Greek `ὑγιεινή` <hugieinḗ>: "healthy practices, promoting health"
 -----> French `hygiène`: "hygiene"
-------> English `hygiene`
+------> English `hygiene`!
 
 --> Indo-Iranian
 ---> Iranian
-----> Avestan `𐬫𐬀𐬎𐬎𐬀𐬈-𐬘𐬍-` <yauuae-jī>: "living forever"
+----> Avestan `𐬫𐬀𐬎𐬎𐬀𐬈-𐬘𐬍` <yauuae-jī>: "living forever"
 ----> Western Iranian
 -----> Northwestern Iranian
 ------> Parthian <yāwēd>: "eternal"
@@ -71,7 +70,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 --------> Armenian `հավերժ` <haverž>: "perpetual, eternal, undying"
 
 --> Italic
----> Latin `iūgis`: "continual, perpetual, ever-flowing (water)"
+---> Latin `iūgis`: "continual, perpetual, ever-flowing"
 
 
 -?> Proto-Indo-European <*Hyeh₂gʷ->: "youth, vigor" (possibly a re-analyzed root from the noun *h₂yugʷih₃-s)
@@ -94,7 +93,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ----> Hellenic
 -----> Classical Greek `ἥβη` <hḗbē>: "youth, vigor"
 ------> Greek `ήβη` <ívi>: "puberty"
-------> Classical Greek `Ἥβη` <Hḗbē>: "Divinity of Youth"
+------> Classical Greek `Ἥβη` <Hḗbē>: "Divinity of Youth" {Divinities}
 
 ------> Classical Greek `ἔφηβος` <éphēbos>: "adolescent, young soldier in training"
 -------> Greek `έφηβος` <éfivos>: "teenager"
@@ -109,14 +108,14 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ----> Proto-Indo-European <*Hyéh₂gʷyōs>: "younger" (comparative)
 
 -----> Italic <*jeɣʷjōs>
------?> Oscan `𐌉𐌄𐌝𐌉𐌔` <ieíis>: "the Younger? descendant of the Youth? (a Samnite family name)" #
+-----?> Oscan `𐌉𐌄𐌝𐌉𐌔` <ieíis>»1: "a Samnite family name: the Younger? descendant of the Youth?" {Family Name} #
 -------> Latin `Iegius`
 
 
 ----> Proto-Indo-European <*Hih₂gʷyos>: "of the youth" (denominal adjective)
 
 -----> Italic <*iɣʷjos>
------?> Oscan `𐌉𐌄𐌝𐌉𐌔` <ieíis>: "the Younger? descendant of the Youth? (a Samnite family name)" #
+-----?> Oscan `𐌉𐌄𐌝𐌉𐌔` <ieíis>»1: "a Samnite family name: the Younger? descendant of the Youth?" {Family Name} #
 
 
 -> Proto-Indo-European <*h₂oyus> (oblique stem <*h₂yéw->)
@@ -126,7 +125,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ----> Gothic `𐌰𐌹𐍅𐍃` <aiws>: "lifetime, eternity"
 ----> Gothic `𐌰𐌹𐍅` <aiw>: "always"
 ---> North Germanic
-----> Old Norse `ey`: "always, ever"
+----> Old Norse `ey`»2: "always, ever"
 -----> Icelandic `æ`: "always, forever"
 -----> Scots `aye`: "ever, always"
 ---> West Germanic
@@ -134,15 +133,15 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 -----> Old English `ā in feorh`
 ------> Old English `ǣfre`: "ever" (contraction)
 -------> English `ever`
---------> English `forever`
+--------> English `forever`!
 --------> English `however`
-------> Old English `ne ā in feorh`: "not ever in life, not on your life"
+------> Old English `ne ā in feorh`»1: "not ever in life, not on your life"
 -------> Old English `nǣfre`: "never" (contraction)
 --------> English `never`
 -----> Old English `ne ā`: "not ever"
 ------> Old English `nā`: "not, no, never" (contraction)
-------?> English `no` (and/or from `ne ān`: "not one, not a")
-------> Old English `ne ā in feorh`: "not ever in life, not on your life"
+------?> English `no` (and/or from `ne ān`=ang-Latn: "not one, not a")
+------> Old English `ne ā in feorh`»1: "not ever in life, not on your life"
 
 ----> Frankish <*ēwa>
 -----> Dutch `eeuw`: "century, very long time, eternity"
@@ -160,7 +159,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ------> Old English `nāht`: "nought, nothing"
 -------> English `naught`
 -------> English `nought`
--------> English `not`
+-------> English `not`!
 ------> Frankish
 -------> Dutch `niets`: "nothing"
 ------> Old High German `nieht`
@@ -199,7 +198,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ------> Danish `ægte`: "true, right"
 -------> Icelandic `ekta`: "real, genuine"
 
----> Germanic <*Aiwarīks>: "Eternal-King or Forever-Rich (personal name)"
+---> Germanic <*Aiwarīks>: "personal name: Eternal-King or Forever-Rich" {Personal Names}
 ----> East Germanic
 -----> Gothic <*Aiwareiks>
 ------> Latin `Eurichus`
@@ -232,7 +231,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ------> Western Romance
 -------> Old French `aage`: "age"
 --------> French `âge`: "age"
---------> English `age`
+--------> English `age`!
 ----> Latin `aeternus`: "permanent, eternal, immortal"
 -----> Central Romance
 ------> Italian `eterno`: "eternal, eternity"
@@ -241,7 +240,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 -----> Latin `aeternālis`
 ------> Western Romance
 -------> French `éternel`
---------> English `eternal`
+--------> English `eternal`!
 -----> Latin `aeternitās`
 ------> French `éternité`
 -------> English `eternity`
@@ -249,7 +248,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 -----> Latin `longaevitās`: "long life"
 ------> English `longevity`
 ----> New Latin `medium aevum`: "middle ages"
------> English `medieval`
+-----> English `medieval`!
 
 
 --> Proto-Indo-European <*h₂oyuHō>
@@ -303,8 +302,8 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 -----> Brythonic <*jowank>
 ------> Welsh `ieuanc`: "young, juvenile, unmarried"
 ------> Welsh `ifanc`: "young, juvenile"
------> Gaulish `Iouinca`: "Young (personal name)"
-------> Gaulish `Ioincorix`: "Young-King (personal name)"
+-----> Gaulish `Iouinca`: "personal name: Young" {Personal Names}
+------> Gaulish `Ioincorix`: "personal name: Young-King" {Personal Names}
 -----> Old Irish `óc`: "young, young man, warrior"
 ------> Irish `óg`: "young, minor, fresh, new
 ------> Old Irish `Tír inna n-Óc`: "Land of the Young, Tír na nÓg (mythical place)"
@@ -320,7 +319,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 -------> Icelandic `ungur`: "young"
 -----> West Germanic
 ------> Old English `ġeong`
--------> English `young`
+-------> English `young`!
 -------> Scots `yung`
 ------> Frankish
 -------> Dutch `jong`: "young, new"
@@ -393,10 +392,10 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ------> Western Romance
 -------> French `jeune`: "young, young person"
 
-------> Latin `iuvenēscere`: "I grow young (again)"
+------> Latin `iuvenscere`: "to grow young (again)"
 -------> English `rejuvenate`
 
-------> Latin `iūnior`: "younger"
+------> Latin `iunior`: "younger"
 -------> English `junior`
 
 ------> Latin `iuvenīlis `: "youthful, juvenile"
@@ -405,24 +404,24 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 -------> English `juvenile`
 
 
------?> Latin `Iūnō`: "Divinity of Women, Life Force, and Youth"
--------> English `Juno`
--------> Latin `iūnius`: "(month) of Juno, June"
+-----?> Latin `Iūnō`: "Divinity of Women, Life Force, and Youth" {Divinities}
+-------> English `Juno` {Divinities}
+-------> Latin `iūnius`: "(month) of Juno, June" {Divinities, Time}
 --------> Central Romance
----------> Italian `giugno`: "June"
+---------> Italian `giugno`: "June" {Time}
 --------> Western Romance
----------> French `juin`: "June"
-----------> English `June`
-----------> Haitian Creole `jen`: "June"
-----------> Persian `ژوئن` <žu'an>: "June"
----------> Spanish `junio`: "June"
-----------> Tagalog `Hunyo`: "June"
---------> Koine Greek `Ῐ̓ούνῐος` <Ioúnios>
----------> Greek `Ιούνιος` <Ioúnios>: "June"
----------> Old Armenian `յունիս` <yunis>: "June"
-----------> Armenian `հունիս` <hunis>: "June"
----------> Old Church Slavonic `июнии` <ijunii>: "June"
-----------> Russian `ию́нь` <ijúnʹ>: "June"
+---------> French `juin`: "June" {Time}
+----------> English `June`! {Time}
+----------> Haitian Creole `jen`: "June" {Time}
+----------> Persian `ژوئن` <žu'an>: "June" {Time}
+---------> Spanish `junio`: "June" {Time}
+----------> Tagalog `Hunyo`: "June" {Time}
+--------> Koine Greek `Ἰούνιος` <Ioúnios> {Time}
+---------> Greek `Ιούνιος` <Ioúnios>: "June" {Time}
+---------> Old Armenian `յունիս` <yunis>: "June" {Time}
+----------> Armenian `հունիս` <hunis>: "June" {Time}
+---------> Old Church Slavonic `июнии` <ijunii>: "June" {Time}
+----------> Russian `ию́нь` <ijúnʹ>: "June" {Time}
 
 
 
@@ -432,9 +431,9 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 
 ---> Proto-Indo-European <*h₂yeweseh₂ye-ti> (itensive/causative)
 
-----> Italic <*jowezāō>: "I swear an oath"
+----> Italic <*jowezāō>: "swear an oath"
 -----> Old Latin `iovesat`: "vows, prays" (Duenos inscription)
-------> Latin `iūrāre`: "I swear an oath, I vow"
+------> Latin `iurare`: "to swear an oath, to vow"
 -------> Central Romance
 --------> Italian `giurare`: "to swear, to vow"
 -------> Eastern Romance
@@ -447,39 +446,39 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ----------> English `juror`
 ---------> French `juron`: "swearword"
 --------> Spanish `jurar`: "to swear, to vow, to curse"
--------> Latin `iūrāmentum`: "oath, vow"
+-------> Latin `iuramentum`: "oath, vow"
 --------> Central Romance
 ---------> Italian `giuramento`: "oath"
 --------> Eastern Romance
 ---------> Romanian `jurământ`: "oath, vow"
 --------> Western Romance
 ---------> Spanish `juramento`: "oath, sworn statement"
--------> Latin `iūrātus`: "on oath, sworn, having vowed"
+-------> Latin `iuratus`: "on oath, sworn, having vowed"
 --------> Central Romance
 ---------> Italian `giurato`: "sworn, juror"
 --------> Eastern Romance
 ---------> Romanian `jurat`: "vowed, sworn, juror"
-----------> Romanian `Jurat` (a surname)
+----------> Romanian `Jurat` {Surname} (a surname)
 --------> Western Romance
 ---------> French `juré`: "juror"
-----------> English `jury`
+----------> English `jury`!
 ---------> Spanish `jurado`: "juror, jury, referee"
 --------> English `jurat`
--------> Latin `abiūrāre`: "I deny an oath, I abjure"
+-------> Latin `abiurare`: "to deny an oath, to abjure"
 --------> Central Romance
 ---------> Italian `abiurare`: "to abjure"
 --------> Western Romance
 ---------> French `abjurer`: "to renounce, to abjure, to apostatize"
 ----------> English `abjure`
 ---------> Spanish `abjurar`: "to abjure"
--------> Latin `coniūrāre`: "to swear together, to unite by oath, to conspire"
+-------> Latin `coniurare`: "to swear together, to unite by oath, to conspire"
 --------> Central Romance
 ---------> Italian `congiurare`: "to conspire, to plot"
 --------> Western Romance
 ---------> French `conjurer`: "to beseech, to conspire, to ward off, to conjure (magic)"
 ----------> English `conjure`
 ---------> Spanish `conjurar`: "to conspire, to conjure (magic), to excorcise, to avert, to get together"
--------> Latin `periūrāre`: "I swear falsely, I perjure myself" (or `peierō`)
+-------> Latin `periurare`: "to swear falsely, to perjure oneself" (or `peierare`=lat-Latn)
 --------> Central Romance
 ---------> Italian `spergiurare`: "to commit perjury"
 --------> Western Romance
@@ -507,19 +506,19 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 
 
 ----> Italic
------> Latin `iūs`: "law, right, court of law"
+-----> Latin `ius`: "law, right, court of law"
 ------> Central Romance
 -------> Italian `giure`: "law, jurisprudence"
 ------> Western Romance
 -------> Spanish `juro`: "ownership"
-------> Medieval Latin `iūrisprūdentia`: "expertise in law, jurisprudence"
+------> Medieval Latin `iurisprudentia`: "expertise in law, jurisprudence"
 -------> English `jurisprudence`
 ------> Latin `iniūria`: "wrongdoing, offense, slander, injury" (lit. "not-law")
 -------> Western Romance
 --------> French `injure`: "offense, insult"
----------> English `injury`
+---------> English `injury`!
 
-------> Latin `iūdicāre`: "I judge, I pass judgment, I proclaim, I determine, I condemn" (lit. "I speak law")
+------> Latin `iudicare`: "to judge, to pass judgment, to proclaim, to determine, to condemn" (lit. "to speak law")
 -------> Central Romance
 --------> Italian `giudicare`: "to judge"
 -------> Eastern Romance
@@ -530,7 +529,7 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ----------> English `judgement`
 --------> Spanish `juzgar`: "to judge, to try, to consider"
 -------> English `judicate`
--------> Latin `iūdicium`: "judgment, opinion, decision, trial"
+-------> Latin `iudicium`: "judgment, opinion, decision, trial"
 --------> Central Romance
 ---------> Italian `giudizio`: "judgment, wisdom, trial, opinion, assessment"
 --------> Eastern Romance
@@ -539,17 +538,17 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ---------> Spanish `juicio`: "trial, verdict, opinion, good judgment"
 --------> Latin `praeiūdicium`: "prejudgment, precedent, example"
 ---------> French `préjudice`: "harm, damage"
-----------> English `prejudice`
+----------> English `prejudice`!
 ---------> Italian `pregiudizio`: "prejudice, bias, detriment"
 ---------> Spanish `perjuicio`: "detriment"
 ---------> Spanish `prejuicio`: "prejudice"
 -------> Latin `iūrisdictiō`: "jurisdiction"
 --------> English `jurisdiction`
--------> Latin `iūdex`: "judge, umpire, juror" ("law speaker")
+-------> Latin `iudex`: "judge, umpire, juror" ("law speaker")
 --------> Central Romance
 ---------> Italian `giudice`: "judge, magistrate, umpire"
 --------> Eastern Romance
----------> Romanian `jude`: "prince (minor ruler)"
+---------> Romanian `jude`: "prince (minor ruler)" {Titles}
 --------> Western Romance
 ---------> French `juge`: "judge, referee"
 ----------> English `judge`
@@ -560,12 +559,12 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 
 ----> Celtic <*yowdos>
 -----> Brythonic <*jʉð>: "judge, lord"
-------> Brythonic <*Jʉðonerθ>: "Lord-Strength (personal name)"
+------> Brythonic <*Jʉðonerθ>: "personal name: Lord-Strength" {Personal Names}
 -------> Welsh `Idnerth`
-------> Brythonic <*Grifujʉð>: "Griffin?-Lord (personal name)"
+------> Brythonic <*Grifujʉð>: "personal name: Griffin?-Lord" {Personal Names}
 -------> Welsh `Gruffudd`
 --------> English `Griffith`
-------> Brythonic <*Mọrjʉð>: "Great?-Lord (personal name)"
+------> Brythonic <*Mọrjʉð>: "personal name: Great?-Lord" {Personal Names}
 -------> Welsh `Maredudd`
 --------> English `Meredith`
 
@@ -574,11 +573,11 @@ Proto-Indo-European <*h₂ey->: "life, age, vital, eternal"
 ---> Proto-Indo-European <*h₂yewestos>
 
 ----> Italic <*jowestos>
------> Latin `iūstus`: "just, righteous, legal"
+-----> Latin `iustus`: "just, righteous, legal"
 
-------> Latin `iūstitia`: "justice, fairness"
+------> Latin `iustitia`: "justice, fairness"
 -------> French `justice`
---------> English `justice`
+--------> English `justice`!
 --------> Italian `giustizia`
 -------> Spanish `justicia`
 
@@ -587,14 +586,14 @@ endbody
 
 startnotes
 
-#### <*h₂yugʷih₃-s>: "long life" (hygiene, etc.) is a compound of <*h₂ey-> plus <*gʷeyh₃->: "to live" (<a href="/word-family-quick.html">"quick", "vivus", "bio-"</a>)
+#### <*h₂yugʷih₃s>: "long life" (hygiene, etc.) is a compound of <*h₂ey-> with [wff-quick|<*gʷeyh₃->: "to live"].
 
 Germanic <*ajukiz> is definitely derived from <*h₂yu->, but only tentatively derived from <*h₂yugʷih₃-s>, as a possible explanation for the presence of the <-k->.
 
 
-# The Oscan <-ieíis>—and the Latinization `Iegius` (compare `​​Magius` from Oscan `Maius`)—while appearing to be a family name (nomen gentilicium) in context, may originally mean "the Younger", "Junior" to distinguish a man who had the same name as his father. The attested Oscan <-ieíis> does indeed seem to have had the same name as his father: Minius Iegius, son of Minius or possibly Minatus Leguis, son of Minatus.
+# The Oscan <-ieíis>—and the Latinization `Iegius`=lat-Latn (compare `Magius`=lat-Latn from Oscan <Maius>)—while appearing to be a family name (nomen gentilicium) in context, may originally mean "the Younger", "Junior" to distinguish a man who had the same name as his father. The attested Oscan <-ieíis> does indeed seem to have had the same name as his father: Minius Iegius, son of Minius or possibly Minatus Leguis, son of Minatus.
 
-Or it may be more similar to familiar Latin nomina, and be equivalent to Italic *-ios—a denominal adjective—instead of *-iōs, a comparative; in which case probably a descendant of someone called the equivalent of Latin `Iegus`, possibly originally a nickname: "Youth".
+Or it may be more similar to familiar Latin nomina, and be equivalent to Italic <*-ios>—a denominal adjective—instead of <*-iōs>, a comparative; in which case probably a descendant of someone called the equivalent of Latin `Iegus`=lat-Latn, possibly originally a nickname: "the Youth".
 
 
 endnotes

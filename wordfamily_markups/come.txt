@@ -184,11 +184,16 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 -------> Persian `گنگ` <gang>
 --------> Arabic `الغانج` <al-ḡānj>
 
+-------> Sanskrit `𑀆𑀓𑀸𑀰` <ākāśagáṅgā>: "the Milky Way, Sky-Ganges" (or possibly "aglow-river")
+--------> Bengali `আকাশগঙ্গা` <akaśgoṅga>: "the Milky Way"
+--------> Hindi `आकाशगंगा` <ākāśgaṅgā>: "the Milky Way"
+
+
 ----> Iranian <*ǰámati>
 -----> Avestan `𐬘𐬀𐬨𐬀𐬌𐬙𐬌` <jamaiti>: "goes"
 -----> Western Iranian
 ------> Northwestern Iranian
--------> Parthian `𐭰𐭠𐭬𐭩𐭣` <jʾmyd>
+-------> Parthian `𐭂𐭀𐭌𐭉𐭃`<jʾmyd>
 
 
 
@@ -242,7 +247,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 ---------> French `aventure`: "adventure, venture, affair"!
 ----------> Japanese `アバンチュール` <abanchūru>: "adventure, affair"
 ----------> Polish `awantura`: "brawl, quarrel"
---------> English `adventure`
+--------> English `adventure`!
 ---------> English `venture`
 
 -----> Latin `circumvenire`: "to surround, to circumvent, to deceive" ("come-around")
@@ -434,7 +439,7 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 ----------> Greek `μπέιζμπολ` <béizmpol>: "baseball"
 ----------> Russian `бейсбо́л` <bejsból>: "baseball"
 --------> French `basique`
----------> English `basic`
+---------> English `basic`!
 -------> Italian `base`: "base, basis"
 ------> English `basis`
 ------> Russian `ба́зис` <bázis>: "base, basis, foundation"
@@ -444,9 +449,9 @@ Proto-Indo-European <*gʷeh₂->: "to step, to go, to stand"
 ------> English `anabasis`
 ------> French `anabase`: "anabasis"
 
-------> Classical Greek `κατάβασις` <katábasis>: "descent" ("down-going")
--------> English `katabasis`!
--------> French `catabase`: "catabasis"
+-----> Classical Greek `κατάβασις` <katábasis>: "descent" ("down-going")
+------> English `katabasis`!
+------> French `catabase`: "catabasis"
 
 
 ---> Indo-Iranian <*gátiš>

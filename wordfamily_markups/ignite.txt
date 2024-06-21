@@ -129,7 +129,7 @@ Proto-Indo-European <*h₁engʷ->: "to burn, fire"
 ----> Pashto `انگار` <angār>: "coal, ember"
 ----> Western Iranian
 -----> Old Persian
-------> Persian `انگشت` <angešt>: "charcoal"
+------> Persian `انگشت` <angešt>»2: "charcoal"
 
 endbody
 

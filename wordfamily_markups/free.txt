@@ -17,12 +17,12 @@ Proto-Indo-European <*preyH->: "to love, to please"
 
 -> Proto-Indo-European <*priHnéHti>: "loves, pleases"
 
--?> Albanian `Prende`: "divinity of love and dawn" (a clear reflex of [<*H₂éwsōs>])
----> Albanian `e premte`: "Friday" (calque of `(diēs) Veneris`: "Venus's day")
+-?> Albanian `Prende`: "divinity of love and dawn" (a clear reflex of the divinity [wff-easter|<*H₂éwsōs>])
+---> Albanian `e premte`: "Friday" (calque of `(diēs) Veneris`=lat-Latn: "Venus's day")
 
 --> Indo-Iranian <*priHnáHti>
 ---> Indo-Aryan
-----> Sanskrit `प्रीणाति` <prīṇā́ti>: "pleases, gladdens, soothes, fulfills"
+----> Sanskrit `𑀧𑁆𑀭𑀻𑀡𑀸𑀢𑀺` <prīṇā́ti>: "pleases, gladdens, soothes, fulfills"
 ---> Iranian <*friHnáHti>
 ----> Avestan `𐬟𐬭𐬍𐬥𐬁𐬌‎` <frīnāi>: "rejoices, pleases"
 ----> Iranian <*ā-friHnaHti>
@@ -67,7 +67,7 @@ Proto-Indo-European <*preyH->: "to love, to please"
 -----> German `frei`: "free"
 ----> West Germanic <*frīdōm>
 -----> Old English `frēodōm`: "freedom"
-------> English `freedom`
+------> English `freedom`!
 -----> Frankish <*frīduom>
 ------> Dutch `vrijdom`: "freedom"
 -----> Old High German `frītuom`
@@ -83,8 +83,18 @@ Proto-Indo-European <*preyH->: "to love, to please"
 -------> Swedish `Nobels fredspris`: "Nobel Peace Prize"
 ----> West Germanic
 -----> Old English `friþ`: "peace, refuge"
------> Frankish
+-----> Frankish <*friþu>
 ------> Dutch `vrede`: "peace, treaty"
+------> Gallo-Romance <*fridare>
+-------> Gallo-Romance <*esfridare>: "to frighten"
+--------> Old French `esfreer`: "to frighten"
+---------> French `effrayer`: "to frighten, to scare, to affray"
+---------> Anglo-Norman `afrayer`
+----------> English `affray`
+-----------> English `afraid` ####
+-----------> English `fray`
+--------> Old Occitan `esfredar`: "to frighten"
+
 -----> Old High German `fridu`
 ------> German `Frieden`: "peace"
 
@@ -139,7 +149,7 @@ Proto-Indo-European <*preyH->: "to love, to please"
 
 --> Indo-Iranian <*priHás>
 ---> Indo-Aryan <*priHás>
-----> Sanskrit `प्रिय` <priyá>: "favorite, loved, beloved" (also a personal name)
+----> Sanskrit `𑀧𑁆𑀭𑀺𑀬` <priyá>: "favorite, loved, beloved" (also a personal name)
 -----> Elu
 ------> Sinhala `පිය` <piya>
 -----> Magadhi `𑀧𑀺𑀬` <piya>
@@ -161,25 +171,28 @@ Proto-Indo-European <*preyH->: "to love, to please"
 
 --> Italic <*prijos>
 ---> Italic <*proprijos>: "from family?"
-----> Latin `prōprius`: "one's own, individual, characteristic, particular"
+----> Latin `proprius`: "one's own, individual, characteristic, particular"
+-----> Central Romance
+------> Italian `proprio`: "one's own, characteristic, typical, proper, quite, exactly, due"
 -----> Western Romance
 ------> French `propre`: "clean, one's own"
--------> English `proper`
-------> Italian `proprio`: "one's own, characteristic, typical, proper, quite, exactly, due"
+-------> English `proper`!
 ------> Spanish `proprio`: "one's own, proper"
------> Latin `prōprietās`: "property, characteristic, possession"
+-----> Latin `proprietas`: "property, characteristic, possession"
+------> Central Romance
+-------> Italian `proprietà`: "property"
 ------> Western Romance
 -------> French `propriété`: "propriété"
 --------> English `property`
 --------> English `propriety`
--------> Italian `proprietà`: "property"
 -------> Spanish `propiedad`: "property"
------> Latin `appropriō`: "I make my own, I appropriate"
-------> English `appropriate`
+-----> Latin `propriare`
+------> Latin `appropriare`: "I make my own, I appropriate"
+-------> English `appropriate`
 
 
 
---> Proto-Indo-European <*priH-eh₂yéti>
+--> Proto-Indo-European <*priHeh₂yéti>
 
 ---> Balto-Slavic
 ----> Slavic <*prijàti>: "to please, to favor"
@@ -227,7 +240,7 @@ Proto-Indo-European <*preyH->: "to love, to please"
 -------> Icelandic `frændi`: "relative"
 -----> West Germanic
 ------> Old English `frēond`: "friend, lover"
--------> English `friend`
+-------> English `friend`!
 -------> Scots `freend`
 ------> Frankish <*friund>
 -------> Dutch `vriend`: "friend"
@@ -242,9 +255,9 @@ Proto-Indo-European <*preyH->: "to love, to please"
 -----> West Germanic
 ------> Old High German `Friia`
 
-------> West Germanic <*frījādag>: "Friday, Frigg's day" (calque of Latin `dīes Veneris`: "Venus's day")
+------> West Germanic <*frījādag>: "Friday, Frigg's day" (calque of Latin `dīes Veneris`=lat-Latn: "Venus's day")
 -------> Old English `frīġedæġ`
---------> English `Friday`
+--------> English `Friday`!
 ---------> Māori `Paraire`
 -------> Frankish <*frīadag>
 --------> Dutch `vrijdag`
@@ -259,7 +272,7 @@ Proto-Indo-European <*preyH->: "to love, to please"
 
 ---> Indo-Iranian <*priHaHyáti>
 ----> Indo-Aryan
------> Sanskrit `प्रियायते` <priyāyáte>: "treats kindly, befriends, rejoices at"
+-----> Sanskrit `𑀧𑁆𑀭𑀺𑀬𑀸𑀬𑀢𑁂` <priyāyáte>: "treats kindly, befriends, rejoices at"
 
 
 endbody
@@ -268,21 +281,25 @@ startnotes
 
 # The semantic chain from "loved" to "free" comes from the expectation in Bronze Age and into Iron Age culture that there are two groups of people in a living group (clan, household, or whatever): the members of the extended family, who you love, and the everyone else, who are indentured servants, serfs, prisoners of war, and/or slaves.
 
-See for example the archaeogentic study described here <https://www.sciencemag.org/news/2019/10/why-are-adult-daughters-missing-ancient-german-cemeteries>, which found that the gravesites for a given homestead in Neolithic and Bronze Age Germany consisted of 1. rich men who were all patrilineally related to each other, 2. rich women who grew up far away and married the rich men, and 3. poor men and women who were not related to rich family members, or necessarily to each other.
+See for example this [https://www.sciencemag.org/news/2019/10/why-are-adult-daughters-missing-ancient-german-cemeteries|archaeogentic study], which found that the gravesites for a certain homestead in Neolithic and Bronze Age Germany consisted of three groups: 1. rich men who were all patrilineally related to each other, 2. rich women who grew up far away and married the rich men, and 3. poor men and women who were not related to rich family members, nor all to each other.
 
-Compare also words for "noble" and/or "free" derived from <*ǵenh₁->: "to produce, to beget, to give birth", such as Persian `آزاد` <âzâd>: "independent, unimpeded, free, liberal" and Latin `ingenuus`: "natural, free-born, noble".
+Compare also words for "noble" and/or "free" derived from <*ǵenh₁->: "to produce, to beget, to give birth", such as Persian `آزاد`=fas-Aran <âzâd>: "independent, unimpeded, free, liberal" and Latin `ingenuus`=lat-Latn: "natural, free-born, noble".
 
 
-## The -s- was added into French `flibustier` when it was borrowed from Dutch `vrijbuiter`, by analogy to native French words with silent 's's representing deleted sounds from Old French. When the word was subsequently borrowed into Spanish, the written 's' became pronounced.
+## The -s- was added into French `flibustier`=fra-Latn when it was borrowed from Dutch `vrijbuiter`=nld-Latn, by analogy to native French words with silent 's's representing deleted sounds from Old French. When the word was subsequently borrowed into Spanish, the written 's' became pronounced.
 
-The legislative meaning of "filibuster" first appears in the United States around 1860, originally referring to a congressman who metaphorically hijacked a debate. A few decades later, the word was extended to refer to the process.
+The legislative meaning of `filibuster`=eng-Latn first appears in the United States around 1860, originally referring to a congressman who metaphorically hijacked a debate. A few decades later, the word was extended to refer to the process.
 
 
 ### Descendant names of <*Gautafriþuz> may also be based <*Gudãfriþuz>: "God-Peace", and/or <*Gawjãfriþuz>: "Region-Peace", either instead of <*Gautafriþuz> or by merger. Or even <*Gīslafriþuz>: "Hostage-Peace" or <*Walhafriþuz>: "Foreigner-Peace".
 
-The nickname `Fred`, besides coming from any <*-friþuz> name, can also come from `Alfred`: "Elf-Counsel".
+The nickname `Fred`=eng-Latn, besides coming from any <*-friþuz> name, can also come from `Alfred`=eng-Latn: "Elf-Counsel", where the 'fr'=eng-Latn is cross-morpheme.
 
 
+#### English `afraid`=eng-Latn is originally the past participle of `affray`=eng-Latn from Anglo-Norman `afrayer`=xno-Latn: "to frighten". This is a Gallo-Romance construction (Old French `esfreer`=fro-Latn, Old Occitan `esfredar`=pro-Latn, etc.) made of Latin `ex-`=lat-Latn and West Germanic <*friþu>: "peace" (comapre Dutch `vrede`=ndl-Latn: "peace, treaty"): "out of peace, to disturb the peace".
+
+It is etymologically unrelated to—but has probably been in constant influence back and forth with—`afeared`=eng-Latn, which happens to be extremely similar in form and meaning, but share nothing except the `-ed`=eng-Latn suffix. (something like *h₂us-per-ye-eh₂tos vs.  *eǵʰs-priHto-si-eh₂tos)
 
 
 endnotes
+

@@ -215,8 +215,8 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 -----> Irish `beatha`: "life, biography, livelihood, sustenance"
 ------> Irish `uisce beatha`: "whiskey"  (lit. ["water of life", calque of Latin `aqua vītae`])
 -------> English `whiskey`
-------> Old Irish `Mac Bethaid`: "Son of Life"
--------> English `Macbeth`
+-----> Old Irish `Mac Bethaid`: "Son of Life"
+------> English `Macbeth`
 
 ---> Hellenic
 ----> Classical Greek `βίοτος` <bíotos>: "life"
@@ -325,35 +325,8 @@ Proto-Indo-European <*gʷeyh₃->: "to live"
 
 
 
--> Proto-Indo-European <*h₂yugʷih₃s>: "long life" ####
+-> Proto-Indo-European <*h₂yugʷih₃s>»1: "long life" ####
 
--?> Germanic <*ajukiz>: "eternal, long lasting"
----> West Germanic
-----> Old English `ēċe`: "perpetual, eternal, ever-lasting"
----> Germanic <*ajukidūþiz>: "eternity"
-----> East Germanic
------> Gothic `𐌰𐌾𐌿𐌺𐌳𐌿𐌸𐍃` <ajukduþs>: "eternity"
-
---> Hellenic
----> Classical Greek `ὑγιής` <hugiḗs>: "healthy, strong, wholesome"
-----> Classical Greek `ὑγίεια` <hugíeia>: "health"
------> Greek `υγεία` <ygeía>: "health"
-------> Greek `γείτσες` <geítses>: "bless you, gesundheit"
-----> Classical Greek `ὑγιεινή` <hugieinḗ>: "healthy practices, promoting health"
------> French `hygiène`: "hygiene"
-------> English `hygiene`
-
---> Indo-Iranian
----> Iranian
-----> Avestan `𐬫𐬀𐬎𐬎𐬀𐬈-𐬘𐬍` <yauuae-jī>: "living forever"
-----> Western Iranian
------> Northwestern Iranian
-------> Parthian `𐫏𐫀𐫇𐫏𐫤` <yāwēd>: "eternal"
--------> Old Armenian `յաւէժ` <yawēž>: "eternal, always"
---------> Armenian `հավերժ` <haverž>: "perpetual, eternal, undying"
-
---> Italic
----> Latin `iūgis`: "continual, perpetual, ever-flowing (water)"
 
 endbody
 
@@ -384,4 +357,3 @@ if : this : record : not : away-hide : people : you-declare : Ahura Mazda : you 
 
 
 endnotes
-

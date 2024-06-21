@@ -101,12 +101,12 @@ Proto-Indo-European <*ǵʰey->: "winter"
 -------> Greek `Χίμαιρα` <Chímaira>
 -------> Latin `Chimaera`
 --------> French `chimère`
----------> English `chimera`
-----------> Japanese `キマイラ` <Kimaira>
---------> English `chimera`
+---------> English `chimera`»1
+----------> Japanese `キマイラ` <Kimaira>»1
+--------> English `chimera`»1
 --------> Italian `chimera`
 --------> Spanish `quimera`
--------> Japanese `キマイラ` <Kimaira>
+-------> Japanese `キマイラ` <Kimaira>»1
 
 ---> Proto-Indo-European <*ǵʰeymeri(H)nós>: "wintery" (technically an adjective of material: "made of winter")
 

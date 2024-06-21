@@ -1,0 +1,50 @@
+
+startbody
+
+Proto-Indo-European <*-teros>: "contrastive suffix"
+
+-> Proto-Indo-European <*kʷóteros>
+
+
+
+Proto-Indo-European <*kʷós>: "what, which"
+
+-> Proto-Indo-European <*kʷóteros>: "which of two, which of these"
+
+--> Germanic <*hwaþeraz>: "which (of two)"
+---> West Germanic <*hwaþar>
+----> Old English `hwæþer`: "which (of two), whether"
+-----> Old English `nāhwæþer`»1: "neither"
+------> English `neither`
+
+
+--> Italic <*kʷoteros>
+---> Old Latin <*cuter>
+----> Latin `uter`: "which (of two), either, both"
+-----> Latin `neuter`»1: "neither, neither one"
+
+
+Proto-Indo-European <*ne>: "not"
+
+-> Germanic <*ne>: "not"
+--> West Germanic <*ne>
+---> West Germanic <*nai(w)>»1: "never"
+----> Old English `nā`»1: "not, no, never"
+-----> Old English `nāhwæþer`»1: "neither"
+
+
+-> Italic <*nē>: "not"
+--> Latin `ne`: "not, no"
+---> Latin `neuter`»1: "neither, neither one"
+
+
+
+Proto-Indo-European <*h₂ey->»1: "life, age, vital, eternal"
+
+-> Proto-Indo-European <*h₂oyus> (oblique stem <*h₂yéw->)
+
+--> Germanic <*aiwaz>: "long time, age, eternity, law?"
+---> West Germanic <*aiw>: "ever, always"
+----> West Germanic <*nai(w)>»1: "never"
+
+endbody

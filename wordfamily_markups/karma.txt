@@ -1,5 +1,5 @@
 date: 20230727
-tags: Magic, SI Units, Toponymy
+
 
 
 
@@ -42,9 +42,7 @@ Early Proto-Indo-European
 -------> Old Persian `𐎠𐎤𐎢𐎫𐎠` <a-ku-u-t-a>
 --------> Persian `کردن` <kardan>: "to do, to make"
 ---------> Persian `ـکردن` <-kardan> (derives verbs from nouns)
-----------> Persian `کار کردن` <kâr kardan>: "to work, to function"
-
-
+----------> Persian `کار کردن` <kâr kardan>»1: "to work, to function"
 
 
 ---> Proto-Indo-European <*kʷern̥ts> (participle of root prefective)
@@ -58,10 +56,12 @@ Early Proto-Indo-European
 ------> English `teras`
 -------> English `terato-`
 --------> English `teratogenic`
--------> New Latin `tera-`: "SI prefix for multiplying by 10¹²"
---------> English `tera-`
---------> English `terahertz`
+-------> New Latin `tera-`: "SI prefix for multiplying by 10¹²" {SI Units}
+--------> English `tera-` {SI Units}
+--------> English `terahertz`! {SI Units}
 --------> English `tebi-`
+
+
 
 --> Proto-Indo-European <*kʷr̥ti>
 
@@ -101,7 +101,7 @@ Early Proto-Indo-European
 ---------> Romani `kerel`: "to do, to make, to produce"
 
 ----> Iranian
------> Avestan `𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌` <kᵊrənaoᶤti>: "makes, does"
+-----> Avestan `𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌` <kərənaoiti>: "makes, does"
 -----> Western Iranian
 ------> Old Persian `𐎤𐎢𐎴𐎢𐎫𐎡𐎹` <ku-u-n-u-t-i-y>: "does"
 
@@ -122,45 +122,78 @@ Early Proto-Indo-European
 --> Proto-Indo-European <*kʷr̥tós>: "done, made" (adjective)
 
 ---> Celtic <*kʷritos>
----?> Celtic <*kʷritanī>
+---?> Celtic <*kʷritanī> ##
 -----> Early Brythonic <*Prɨtanī>
-------> Classical Greek `Πρεττανία` <Prettanía>: "Britain"
--------> Latin `Britannia`
+------> Classical Greek `Πρεττανία` <Prettanía>: "Britain" {Toponymy}
+-------> Latin `Britannia` {Toponymy}
 --------> Western Romance
----------> Old French `Bretaigne`
-----------> English `Britain`
-----------> English `Brittany`
+---------> Old French `Bretaigne` {Toponymy}
+----------> English `Britain`! {Toponymy}
+----------> English `Brittany` {Toponymy}
 
-------> Brythonic <*Prɨdėn>
+------> Brythonic <*Prɨtėn>
 -------> Welsh `Prydain`: "Britain"
 -------> Latin `Brittō` (oblique stem `Brittōn-`=lat-Latn)
 --------> Western Romance
----------> French `Breton`
---------> English `Briton`
----------> English `Brittonic`
--------> Brythonic <*Brɨθon>: "Briton"
---------> Breton `brezhon`: "Breton
----------> Breton `brezhoneg`: "Breton (language)"
---------> Welsh `Brython`
----------> Welsh `Brythoneg`
-----------> English `Brythonic`
+---------> French `Breton` {Language Names}
+--------> English `Briton` {Language Names}
+---------> English `Brittonic` {Language Names}
+--------> Brythonic <*Brɨθon>: "Briton"
+---------> Breton `brezhon`: "Breton
+----------> Breton `brezhoneg`: "Breton (language)" {Language Names}
+---------> Welsh `Brython`
+----------> Welsh `Brythoneg` {Language Names}
+-----------> English `Brythonic` {Language Names}
 
 
 -----> Celtic <*kʷritenī> (variant)
 ------> Brythonic
 -------> Welsh `Prydyn`: "Picts"
-------> Old Irish
+------> Old Irish `Cruithen`: "Picts"
 -------> Irish `Cruthne`: "Picts"
 
 
----> Indo-Iranian
-----> Indo-Aryan
+---> Indo-Iranian <*kr̥tás>
+----> Indo-Aryan <*kr̥tás>
 -----> Sanskrit `𑀓𑀾𑀢` <kṛtá>: "done, made, prepared, deed, work"
 ------> Hindi `कृत` <kŕt>: "done, complete, work, project"
 ------> Telugu `కృతము` <kr̥tamu>: "act, deed, done, complete"
+------> Sanskrit `𑀲𑀁𑀲𑁆𑀓𑀾𑀢` <saṃskṛta>: "completely done, perfected, purified, sanctified, Sanskrit" {Language Names}
+-------> Elu
+--------> Sinhala `සකු` <saku>
+-------> Maharashtri `𑀲𑀓𑁆𑀓𑀬` <sakkaya>: "Sanskrit" {Language Names}
+-------> Pali `𑀲𑀓𑁆𑀓𑀢` <sakkata>: "Sanskrit, honored" {Language Names}
+--------> Burmese `သက္ကတ` <sakkata>: "Sanskrit" {Language Names}
+-------> Sauraseni `𑀲𑀓𑁆𑀓𑀬` <sakkaya>: "Sanskrit" {Language Names}
+-------> Bengali `সংস্কৃত` <śoṅskrito>: "Sanskrit" {Language Names}
+-------> English `Sanskrit`! {Language Names}
+-------> Hindustani
+--------> Hindi `संस्कृत` <sanskŕt>: "Sanskrit, perfect, refined" {Language Names}
+--------> Persian `سنسکریت` <sanskerit>: "Sanskrit" {Language Names}
+-------> Telugu `సంస్కృతము` <saṁskr̥tamu>: "Sanskrit" {Language Names}
+-------> Thai `สันสกฤต` <sǎnsàgrìt>: "Sanskrit" {Language Names}
+
+------> Sanskrit `𑀧𑁆𑀭𑀸𑀓𑀾𑀢` <prakṛti>: "as done, natural, original, ordinary, vernacular, Prakrit" {Language Names}
+-------> Pali `𑀧𑀸𑀓𑀢` <pākata>
+--------> Kannada `ಪಾಗದ` <pāgada>: "original"
+-------> English `Prakrit` {Language Names}
+-------> Hindustani
+--------> Hindi `प्राकृत` <prākŕt>: "Prakrit" {Language Names}
+-------> Telugu `ప్రాకృతము` <prākr̥tamu>: "common, vulgar"
+-------> Thai `ปรากฤต` <bpraagrìt>: "Prakrit" {Language Names}
+
+------> Sanskrit `𑀰𑀽𑀭𑀓𑀾𑀢` <śūrakṛta>: "place name: Brave Deed" {Toponymy}
+-------> Javanese `ꦯꦸꦫꦑꦂꦡ` <surakarta> {Toponymy}
+--------> Indonesian `Surakarta` {Toponymy}
+---------> English `Surakarta` {Toponymy}
+
+------> Sanskrit `𑀅𑀬𑁄𑀥𑁆𑀬𑀸𑀓𑀾𑀢` <ayodhyākṛta>: "place name: Unconquerably Made" {Toponymy}
+-------> Javanese `ꦔꦪꦺꦴꦒꦾꦏꦂꦠ` <ngayogyakarta> {Toponymy}
+--------> Indonesian `Yogyakarta` {Toponymy}
+---------> English `Yogyakarta` {Toponymy}
 
 ----> Iranian <*kr̥táh>
------> Avestan `𐬐𐬆𐬭𐬆𐬙𐬀` <kərᵊta>: "done"
+-----> Avestan `𐬐𐬆𐬭𐬆𐬙𐬀` <kərəta>: "done"
 -----> Western Iranian <*karta>
 ------> Old Persian `𐎣𐎼𐎫` <k-r-t>
 
@@ -172,33 +205,33 @@ Early Proto-Indo-European
 ----------> Old Armenian `չակերտ` <čʿakert>: "quotation marks, guillemet" (lit. "made from չ čʿ")
 -----------> Armenian `չակերտ` <čʿakert>: "quotation marks, guillemet"
 
-----------> Old Armenian `Տիգրանակերտ` <Tigranakert>: "place name, Founded-by-Tigranes"
------------> Koine Greek `Τιγρανόκερτα` <Tigranόkerta>
-------------> Latin `Tigranocerta`
--------------> English `Tigranocerta`
------------> Armenian `Տիգրանակերտ` <Tigranakert>
-------------> English `Tigranakert`
+----------> Old Armenian `Տիգրանակերտ` <Tigranakert>: "place name, Founded-by-Tigranes" {Toponymy}
+-----------> Koine Greek `Τιγρανόκερτα` <Tigranόkerta> {Toponymy}
+------------> Latin `Tigranocerta` {Toponymy}
+-------------> English `Tigranocerta` {Toponymy}
+-----------> Armenian `Տիգրանակերտ` <Tigranakert> {Toponymy}
+------------> English `Tigranakert` {Toponymy}
 
 ----------> Armenian `-կերտ` <-kert>
------------> Armenian `Ստեփանակերտ` <Stepʿanakert>: "place name, Founded-by-Stepan (Shaumian)"
-------------> English `Stepanakert`
+-----------> Armenian `Ստեփանակերտ` <Stepʿanakert>: "place name, Founded-by-Stepan (Shaumian)" {Toponymy}
+------------> English `Stepanakert` {Toponymy}
 
 ---------> Parthian `𐭃𐭎𐭕𐭊𐭓𐭕` <dastgird⁠>: "estate"
 ----------> Old Armenian `դաստակերտ` <dastakert>: "estate"
 
----------> Parthian `𐭅𐭓𐭅𐭃𐭊𐭓𐭕` <Wērōdgird>: "place name, Founded-by-Orodes"
-----------> Persian `بروجرد` <Borūjerd>
------------> English `Borujerd`
+---------> Parthian `𐭅𐭓𐭅𐭃𐭊𐭓𐭕` <Wērōdgird>: "place name, Founded-by-Orodes" {Toponymy}
+----------> Persian `بروجرد` <Borūjerd> {Toponymy}
+-----------> English `Borujerd` {Toponymy}
 
 -------> Old Persian <*-karta>
---------> Old Persian <*Zardakarta?>: "place name, Made of Yellow? Founded-by-Starlings?"
----------> Classical Greek `Ζαδρακάρτα` <Zadrakarta>
-----------> Latin `Zadracarta`
------------> English `Zadracarta`
+--------> Old Persian <*Zardakarta?>: "place name, Made of Yellow? Founded-by-Starlings?" {Toponymy}
+---------> Classical Greek `Ζαδρακάρτα` <Zadrakarta> {Toponymy}
+----------> Latin `Zadracarta` {Toponymy}
+-----------> English `Zadracarta` {Toponymy}
 
 --------> Persian `ـگرد` <-gerd>
----------> Persian `سوسنگرد` <Susangerd>
-----------> English `Susangerd`
+---------> Persian `سوسنگرد` <Susangerd> {Toponymy}
+----------> English `Susangerd` {Toponymy}
 
 
 
@@ -220,11 +253,11 @@ Early Proto-Indo-European
 
 -----> Gaulish <*Parii-?->: "of the cauldron?" (possibly referencing hot springs? [wff-brew|compare `Bourbon`=fra-Latn and `Worms`=deu-Latn])
 ------> Latin `Parīsiī`: "Parisii, a Gaulish ethnicity"
--------> Latin `Lutetia Parīsiōrum`: "place name: Lutetia of the Parisii" (with `Lutetia`=lat-Latn, place name from Gaulish <*lutos>: "swampy", related to Latin `lutum`=lat-Latn: "dirt, mud")
+-------> Latin `Lutetia Parīsiōrum`: "place name: Lutetia of the Parisii" {Toponymy} (with `Lutetia`=lat-Latn, place name from Gaulish <*lutos>: "swampy", related to Latin `lutum`=lat-Latn: "dirt, mud")
 --------> Western Romance
----------> Old French `Paris`
-----------> French `Paris`
-----------> English `Paris`
+---------> Old French `Paris` {Toponymy}
+----------> French `Paris` {Toponymy}
+----------> English `Paris`! {Toponymy}
 ----> Old Irish `coire`: "cauldron"
 -----> Irish `coire`: "cauldron, boiler, corrie, whirlpool, pit"
 -----> Scottish Gaelic `coire`: "kettle, cauldron, boiler, corrie, whirlpool"
@@ -236,26 +269,26 @@ Early Proto-Indo-European
 
 ---> Balto-Slavic
 ----> East Baltic
------> Lithuanian `kẽras`: "divination, enchantment, sorcery"
-----> Slavic <*čarъ>: "magic, sorcery"
+-----> Lithuanian `kẽras`: "divination, enchantment, sorcery" {Magic}
+----> Slavic <*čarъ>: "magic, sorcery" {Magic}
 -----> East Slavic <čarŭ>
-------> Russian `чары` <čary>: "spell, magic, charm"
+------> Russian `чары` <čary>: "spell, magic, charm" {Magic}
 ------> Ukrainian `чар` <čar>
 -----> South Slavic
 ------> Bulgarian `чар` <čar>
-------> Serbo-Croatian `чар` <čar>: "charm, allure, spell, magic"
+------> Serbo-Croatian `чар` <čar>: "charm, allure, spell, magic" {Magic}
 -----> West Slavic
-------> Polish `czar`: "spell, magic, charm, allure"
+------> Polish `czar`: "spell, magic, charm, allure" {Magic}
 
------> Slavic <*čarodějь>: "magician, wizard" (lit. "magic-doer")
+-----> Slavic <*čarodějь>: "magician, wizard" {Magic} (lit. "magic-doer")
 ------> East Slavic <čaroděi>
--------> Russian `чародей` <čarodej>: "magician, wizard"
--------> Ukrainian `чародій` <čarodij>: "magician, wizard"
+-------> Russian `чародей` <čarodej>: "magician, wizard" {Magic}
+-------> Ukrainian `чародій` <čarodij>: "magician, wizard" {Magic}
 ------> South Slavic
--------> Bulgarian `чародей` <čarodej>: "magician, wizard"
+-------> Bulgarian `чародей` <čarodej>: "magician, wizard" {Magic}
 ------> West Slavic
--------> Czech `čaroděj`: "magician, wizard"
--------> Polish `czarodziej`: "magician, wizard"
+-------> Czech `čaroděj`: "magician, wizard" {Magic}
+-------> Polish `czarodziej`: "magician, wizard" {Magic}
 
 
 
@@ -276,7 +309,7 @@ Early Proto-Indo-European
 ---------> Marathi `काम` <kāma>: "work, duty, function"
 -------> Pali `𑀓𑀫𑁆𑀫` <kamma>: "deed, action, work, karma, ceremony"
 --------> Khmer `កម្ម` <kam>: "deed, action, activity, karma, consequence, fate"
----------> Khmer `កម្មករ` <kamkɑɑ>: "worker, laborer"
+---------> Khmer `កម្មករ` <kamkɑɑ>»1: "worker, laborer"
 ---------> Khmer `សហពលកម្ម` <saʼhaʼpŭəllĕəʼkam>: "coallition" (lit. "together-strength-action")
 --------> Thai `กรรม` <gam>: "death, action, deed, ceremony, sin, misfortune, karma, grammatical object"
 -------> Sauraseni `𑀓𑀫𑁆𑀫` <kamma>
@@ -301,15 +334,37 @@ Early Proto-Indo-European
 ------> Telugu `కర్మము` <karmamu>: "action, deed"
 
 
+--> Proto-Indo-European <*kʷertōr> (agentive noun)
 
---> Proto-Indo-European <*kʷóros> (agentive)
+---> Indo-Iranian <*kartā>
+----> Indo-Aryan
+-----> Sanskrit `𑀓𑀭𑁆𑀢𑀸` <kartā>: "maker, doer, agent, grammatical subject"
+------> Pali `𑀓𑀢𑁆𑀢𑀭𑁆` <kattar>: "maker, doer, agent, grammatical subject"
+-------> Burmese `ကတ္တား` <katta:>: "grammatical subject"
+------> Sauraseni
+-------> Northwestern Sauraseni
+--------> Punjabi `ਕਰਤਾਰ` <kartār>: "creator, god"
+---------> Punjabi `ਕਰਤਾਰਪੁਰ` <kartārpur>: "place name: City of God"
+----------> English `Kartarpur`
+------> Hindi `कर्ता` <kartā>: "doer, grammatical subject"
+------> Telugu `కర్త` <karta>: "doer, author, grammatical subject"
+
+------> Sanskrit `𑀚𑀬𑀓𑀭𑁆𑀢𑀸` <jayakarta>: "place name: Victory-Maker" {Toponymy}
+-------> Indonesian `Jakarta` {Toponymy}
+--------> English `Jakarta`! {Toponymy}
+
+------> Sanskrit `𑀓𑀭𑁆𑀢𑀾𑀢𑁆𑀯` <kartṛtva>: "state of making or doing, agency, authorship"
+-------> Hindi `कर्तृत्व` <kartŕtva>: "agency, management"
+
+
+--> Proto-Indo-European <*kʷóros> (agentive noun)
 
 ---> Indo-Iranian <*kā́ras>
 ----> Indo-Aryan
 -----> Sanskrit `𑀓𑀭` <kara>: "doer, maker, hand, tax"
 ------> Pali `𑀓𑀭` <kara>
 -------> Khmer `ករ` <kɑɑ>: "doer, -er, agentive suffix"
---------> Khmer `កម្មករ` <kamkɑɑ>: "worker, laborer"
+--------> Khmer `កម្មករ` <kamkɑɑ>»1: "worker, laborer"
 ------> Hindi `कर` <kar>: "hand, arm, tax"
 ------> Sanskrit `𑀓𑀭𑀺𑀦𑁆` <karin>: "elephant" (lit. "handed, having a hand", parallel to `𑀳𑀲𑁆𑀢𑀺𑀦𑁆`=san-Brah <hastín> same meanings)
 -------> Hindi `करी` <karī>: "elephant"
@@ -324,16 +379,13 @@ Early Proto-Indo-European
 
 -------> Persian `ـگر` <-gar>: "doer, -er, agentive suffix"‎
 
--------> Persian `کار کردن` <kâr kardan>: "to work, to function"
+-------> Persian `کار کردن` <kâr kardan>»1: "to work, to function"
 -------> Persian `کارخانه` <kârxâne>: "factory, workshop" (lit. "work-house")
 --------> Georgian `ქარხანა` <karxana>: "factory"
 --------> Hindi `कारख़ाना` <kārxānā>: "workshop, factory"
 --------> Ottoman Turkish `كارخانه` <kârhane>: "factory, workshop, brothel" ("brothel" meaning perhaps by merger with Persian `قر`=far-Aran <qar>)
 ---------> Turkish `kerhane`: "brothel"
 ---------> Romanian `cherhana`: "fishery"
-
-
-
 
 
 
@@ -351,7 +403,7 @@ Early Proto-Indo-European
 
 ---> Indo-Iranian <*kŕ̥tiš>
 ----> Indo-Aryan
------> Sanskrit `𑀓𑀾𑀢𑀺` <kṛtí>: "action, creation, work, magic"
+-----> Sanskrit `𑀓𑀾𑀢𑀺` <kṛtí>: "action, creation, work, magic" {Magic}
 ------> Sauraseni
 -------> Punjabi `ਕਿਰਤ` <kirat>: "work, labor, business"
 
@@ -438,7 +490,7 @@ Early Proto-Indo-European
 ------> Russian `черен` <čeren>: "handle (archaic)"
 -------> Russian `черенок` <čerenok>: "handle, hilt, stalk"
 -------?> Russian `Черенков` <Cherenkov>: "surname"
----------> English `Cherenkov radiation`
+---------> English `Cherenkov radiation` {Star Trek}
 -------> Russian `черешок` <čerešok>: "handle, stalk"
 -----> South Slavic
 ------> Bulgarian `чрен` <čren>
@@ -478,6 +530,12 @@ endbody
 startnotes
 
 # The common Tocharian ancestor of Arshian <karel> and Kushean <kerū>—both attested with the meaning "drum"—probably meant "cauldron" at one point and then "drum shaped like a cauldron", based on the parallels in Russian `чара`=rus-Cyrl <čara>, Irish `coire`=gle-Latn, Icelandic `hver`=isl-Latn, Sanskrit `𑀘𑀭𑀽`=san-Brah <carū>, etc..
+
+
+## Celtic <*kʷritus>: "a shaping, a making, a depicting" (noun of action) is the origin of Welsh `pryd`=cym-Latn: "shape, form, appearance" and Irish `cruth`=gle-Latn: "shape, form". The corresponding adjective/past participle <*kʷritos> presumably means "shaped, made, shown, decorated" and is the likely origin of <*kʷritanī>: "Picts, Britons" (Welsh `Prydyn`=cym-Latn: "Picts" and Irish `Cruithen`=gle-Latn: "Picts").
+
+Latin `pictus`=lat-Latn: "decorated, painted, portrayed, Pict" is probably a translation. And Classical Greek `Πρεττανία`=grc-Grek <Prettanía> and  Latin `Britannia`=lat-Latn are the untranslated borrowings of <*kʷritanī> (P-Celtic <*prɨtanī>).
+
 
 
 

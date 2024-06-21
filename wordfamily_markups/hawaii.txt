@@ -1,5 +1,6 @@
 date: 20230804
 tags: Titles, Toponymy
+theme: Weather ⛈️
 
 
 
@@ -7,9 +8,9 @@ startintro
 
 Dr. Melenaite Taumoefolau makes a compelling and intriguing argument: that Nuclear Polynesian <*sawaiki>: "traditional/mythological homeland"—whence `Hawaii`=eng-Latn—may be a cognate of <*sau ʔariki> borrowed from the Tongic branch into Nuclear Polynesian. (Note that <*sawaiki> can only be reconstructed to NP, it is not present in Tongic or other related groups.)
 
-Tongic reflexes of <*ʔariki> all show loss of the the <*r>: Niuēan `iki`=niu-Latn , Tongan `ʻeiki`=ton-Latn, Tongan `houʻeiki`=ton-Latn. And Nuclear Polynesian had lost the Proto-Polynesian <*ʔ>; so a borrowing from Tongic to Nuclear Polynesian would strip both <*ʔ> and <*r> from <*sau ʔariki>, leaving <*sau aiki>. Once interpreted as monomorphemic in the borrowing language, the stress would shift, changing <*u> to <*w>, completing the transformation into reconstructed NP <*sawaiki>!
+Tongic reflexes of <*ʔariki> all show loss of the <*r>: Niuēan `iki`=niu-Latn , Tongan `ʻeiki`=ton-Latn, Tongan `houʻeiki`=ton-Latn. And Nuclear Polynesian had lost the Proto-Polynesian <*ʔ>; so a borrowing from Tongic to Nuclear Polynesian would strip both <*ʔ> and <*r> from <*sau ʔariki>, leaving <*sau aiki>. Once interpreted as monomorphemic in the borrowing language, the stress would shift, changing <*u> to <*w>, completing the transformation into reconstructed NP <*sawaiki>!
 
-This borrowing presumably would presumably be linked with the second wave of colonization from western Tonga to the already inhabited Marquesas Islands (necessarily also passing through the Society Islands between) that happened a little before the expansion of the Marquesan and Tahitic language subfamilies to the remote islands.
+This borrowing would presumably be linked with the second wave of colonization from western Tonga to the already inhabited Marquesas Islands (necessarily also passing through the Society Islands between) that happened a little before the expansion of the Marquesic and Tahitic subfamilies to the remote islands.
 
 If this theory is correct, then Hawaiʻian has doublets `aualiʻi`=haw-Latn (normal development) vs `Hawaiʻi`=haw-Latn (borrowing from Tongic to NP); and likewise Tongan has doublets `houʻeiki`=ton-Latn (normal development) vs `Hauaiʻi`=ton-Latn (re-borrowing from Hawaiʻian).
 
@@ -70,7 +71,7 @@ Oceanic <*sau>
 -------> Māori `mōhiti haumaru`: "safety googles"
 
 
---> Polynesian <*sau-ʔariki>: "council of chiefs? high chief? aristocratic government?"
+--> Polynesian <*sau-ʔariki>»1: "council of chiefs? high chief? aristocratic government?"
 
 
 
@@ -117,7 +118,7 @@ Malayo-Polynesian <*haɟi>: "king, chief"
 
 
 
----> Polynesian <*sau-ʔariki>: "council of chiefs? high chief? aristocratic government?"
+---> Polynesian <*sau-ʔariki>»1: "council of chiefs? high chief? aristocratic government?"
 
 ----> Nuclear Polynesian <*sau-aliki>
 -----> Samoic
@@ -169,7 +170,7 @@ startnotes
 
 I wish I could find an Oceanic but non-Polynesian reflex to help bridge the gap. In the absence of that, it's very possible that Malay and Ilokano also borrowed the word from Kawa (Old Javanese)—as Tagalog did—and there is no real correspondence above the Polynesian level.
 
-If there is a correspondence, the extra <*-ki> can be explained as the same as the derivational suffix seen in various other pairs of words, like <*muʔa>: "before, in front" and <*muʔa-ki>: "to be first, to lead" or <*lua> and <*lua-ki>, both "to vomit"—probably a variant of <*-ʔaki> which forms verbs from nouns or adds an intensive or iterative meaning. (Note that in Polynesian languages adjectives and stative verbs, and even noun are not very distinct from each other; while <*ʔariki> usually seems noun- or adjective-like, that doesn't stop it from being derived from verb morphology.)
+If there is a correspondence, the extra <*-ki> can be explained as the same derivational suffix seen in various other pairs of words, like <*muʔa>: "before, in front" and <*muʔa-ki>: "to be first, to lead" or <*lua> and <*lua-ki>, both "to vomit"—probably a variant of <*-ʔaki> which forms verbs from nouns or adds an intensive or iterative meaning. (Note that in Polynesian languages adjectives and stative verbs, and even noun are not very distinct from each other; while <*ʔariki> usually seems noun- or adjective-like, that doesn't stop it from being derived from verb morphology.)
 
 
 
